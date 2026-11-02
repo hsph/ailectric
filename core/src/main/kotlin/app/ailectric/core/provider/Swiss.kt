@@ -17,9 +17,12 @@ import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.Serializable
+import kotlinx.serialization.builtins.ListSerializer
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonElement
 import kotlinx.serialization.json.JsonPrimitive
+import kotlinx.serialization.json.JsonTransformingSerializer
 import okhttp3.OkHttpClient
 import okhttp3.Request
 
@@ -130,7 +133,8 @@ class SwissProvider(
         const val LIVE_MAX_AGE_MS = 5L * 60 * 1000
         const val STATIC_MAX_AGE_MS = 24L * 60 * 60 * 1000
         val COVERAGE = BoundingBox(45.8, 5.9, 47.85, 10.55)
-        val parser = Json { ignoreUnknownKeys = true; explicitNulls = false; coerceInputValues = true }
+        // Lenient because some operators send postcodes as numbers.
+        val parser = Json { ignoreUnknownKeys = true; explicitNulls = false; coerceInputValues = true; isLenient = true }
 
         fun availability(state: String?) = when (state) {
             "Available" -> Availability.AVAILABLE
@@ -160,6 +164,12 @@ class SwissProvider(
 
 private fun BoundingBox.overlaps(o: BoundingBox) = south < o.north && o.south < north && west < o.east && o.west < east
 
+/** Most operators send a list of names per language, some a single object. */
+internal object BfeNamesSerializer : JsonTransformingSerializer<List<BfeName>>(ListSerializer(BfeName.serializer())) {
+    override fun transformDeserialize(element: JsonElement) =
+        if (element is JsonArray) element else JsonArray(listOf(element))
+}
+
 @Serializable internal data class BfeDataFile(val EVSEData: List<BfeOperator> = emptyList())
 @Serializable internal data class BfeStatusFile(val EVSEStatuses: List<BfeStatusGroup> = emptyList())
 @Serializable internal data class BfeStatusGroup(val EVSEStatusRecord: List<BfeStatus> = emptyList())
@@ -183,7 +193,7 @@ internal data class BfeEvse(
     val Accessibility: String? = null,
     val Address: BfeAddress? = null,
     val ChargingFacilities: List<BfeFacility>? = null,
-    val ChargingStationNames: List<BfeName>? = null,
+    @Serializable(with = BfeNamesSerializer::class) val ChargingStationNames: List<BfeName>? = null,
     val GeoCoordinates: BfeGeo? = null,
     val Plugs: List<String>? = null,
     val operator: String? = null,

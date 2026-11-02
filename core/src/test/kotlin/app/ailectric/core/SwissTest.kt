@@ -55,6 +55,20 @@ class SwissTest {
         assertThat(mixed.maxPowerKw).isNotNull()
     }
 
+    @Test fun `a name as single object and a numeric postcode still parse`() = runTest {
+        val single = """{"EVSEData":[{"OperatorName":"X","EVSEDataRecord":[{"EvseID":"CH*X*1",
+            "ChargingStationNames":{"lang":"de","value":"Einzeln"},"Address":{"PostalCode":3000},"GeoCoordinates":{"Google":"46.8 8.2"},
+            "Plugs":["Type 2 Outlet"]}]}]}"""
+        server.dispatcher = object : Dispatcher() {
+            override fun dispatch(request: RecordedRequest) =
+                MockResponse.Builder().body(if (request.url.encodedPath == "/status") statusBody else single).build()
+        }
+        val s = provider().search(StationQuery(ch, 10_000.0)).stations.single()
+        assertThat(s.name).isEqualTo("Einzeln")
+        assertThat(s.address.postcode).isEqualTo("3000")
+        assertThat(s.freePoints).isNull()
+    }
+
     @Test fun `a charge point with several plugs keeps them on one device`() = runTest {
         val stations = provider().search(StationQuery(ch, 400_000.0)).stations
         assertThat(stations.flatMap { it.devices }.any { it.connectors.size > 1 }).isTrue()
