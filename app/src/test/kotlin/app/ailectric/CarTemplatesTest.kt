@@ -15,6 +15,7 @@ import androidx.test.core.app.ApplicationProvider
 import app.ailectric.car.CarMapRenderer
 import app.ailectric.car.FilterCarScreen
 import app.ailectric.car.MainCarScreen
+import app.ailectric.car.PinchZoom
 import app.ailectric.car.StationCarScreen
 import app.ailectric.core.geo.Distance
 import app.ailectric.core.geo.DistanceKind
@@ -72,6 +73,27 @@ class CarTemplatesTest {
         assertThat(unknown.joinToString { it.title.toString() }).doesNotContain("frei")
     }
 
+    @Test fun `a pinch cannot run away while a double tap keeps its full step`() {
+        var clock = 0L
+        val pinch = PinchZoom { clock }
+        assertThat(pinch.zoomDelta(2f)).isWithin(1e-6).of(1.0)
+        assertThat(pinch.isPinching).isTrue()
+        var total = 0.0
+        repeat(60) {
+            clock += 16
+            total += pinch.zoomDelta(1.5f)
+        }
+        assertThat(total).isAtMost(6.0)
+        assertThat(pinch.zoomDelta(0.1f)).isWithin(1e-6).of(-0.1)
+        clock += 1000
+        assertThat(pinch.isPinching).isFalse()
+        assertThat(pinch.zoomDelta(0.5f)).isWithin(1e-6).of(-1.0)
+    }
+
+    @Test fun `a negative factor from the host zooms out instead of breaking the camera`() {
+        assertThat(PinchZoom { 0L }.zoomDelta(-1f)).isWithin(1e-6).of(-1.0)
+    }
+
     @Test fun `filter screen stays within the host's list limit`() {
         val template = FilterCarScreen(context).onGetTemplate() as ListTemplate
         assertThat(template.singleList!!.items.size).isAtMost(6)
@@ -106,6 +128,21 @@ class CarTemplatesTest {
         assertThat(template.mapController!!.mapActionStrip!!.actions.size).isAtMost(4)
         val list = template.contentTemplate as ListTemplate
         assertThat(list.singleList!!.items.size).isAtMost(12)
+    }
+
+    @Test fun `details open beside the map where the list was`() {
+        CarAppApiLevelTestSupport.set(context, 7)
+        val template = StationCarScreen(context, sparse, CarMapRenderer(context, owner.lifecycle)).onGetTemplate()
+        assertThat(template).isInstanceOf(MapWithContentTemplate::class.java)
+        val map = template as MapWithContentTemplate
+        assertThat(map.contentTemplate).isInstanceOf(PaneTemplate::class.java)
+        assertThat(map.mapController).isNotNull()
+    }
+
+    @Test fun `details fill the screen on hosts without the map template`() {
+        CarAppApiLevelTestSupport.set(context, 6)
+        val template = StationCarScreen(context, sparse, CarMapRenderer(context, owner.lifecycle)).onGetTemplate()
+        assertThat(template).isInstanceOf(PaneTemplate::class.java)
     }
 
     @Test fun `older hosts fall back to the host-rendered map`() {

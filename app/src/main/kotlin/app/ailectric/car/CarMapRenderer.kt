@@ -25,7 +25,6 @@ import org.maplibre.android.maps.MapLibreMap
 import org.maplibre.android.maps.MapLibreMapOptions
 import org.maplibre.android.maps.MapView
 import org.maplibre.android.maps.Style
-import kotlin.math.ln
 
 /**
  * Draws a real MapLibre map onto the host's surface: a Presentation on a VirtualDisplay backed by
@@ -44,6 +43,7 @@ class CarMapRenderer(
     private var me: GeoPoint? = null
     private var pendingCenter: GeoPoint? = null
     private var visibleArea: Rect? = null
+    private val pinch = PinchZoom()
 
     var onStationClicked: (String) -> Unit = {}
 
@@ -74,6 +74,11 @@ class CarMapRenderer(
         val m = map
         if (m == null) pendingCenter = point
         else m.animateCamera(CameraUpdateFactory.newLatLngZoom(LatLng(point.lat, point.lon), SEARCH_ZOOM))
+    }
+
+    /** Brings a station into view at the zoom the driver chose. */
+    fun focus(point: GeoPoint) {
+        map?.animateCamera(CameraUpdateFactory.newLatLng(LatLng(point.lat, point.lon)), ANIMATION_MS)
     }
 
     fun zoomBy(delta: Double) {
@@ -112,6 +117,8 @@ class CarMapRenderer(
             map = m
             val start = pendingCenter ?: me ?: StationLayers.DEFAULT_CENTER
             pendingCenter = null
+            m.setMinZoomPreference(MIN_ZOOM)
+            m.setMaxZoomPreference(MAX_ZOOM)
             m.cameraPosition = CameraPosition.Builder().target(LatLng(start.lat, start.lon)).zoom(SEARCH_ZOOM).build()
             applyPadding()
             m.setStyle(StationLayers.STYLE_URL) { loaded ->
@@ -143,13 +150,13 @@ class CarMapRenderer(
     override fun onSurfaceDestroyed(container: SurfaceContainer) = release()
 
     override fun onScroll(distanceX: Float, distanceY: Float) {
+        if (pinch.isPinching) return
         map?.scrollBy(-distanceX, -distanceY, 0)
     }
 
+    /** Zooms around the map's centre: the focus point moves the camera with every event of a pinch. */
     override fun onScale(focusX: Float, focusY: Float, scaleFactor: Float) {
-        // scaleFactor is the host's, e.g. 2 for double tap; a map zoom level is a power of two.
-        val delta = ln(scaleFactor.toDouble()) / ln(2.0)
-        map?.moveCamera(CameraUpdateFactory.zoomBy(delta, android.graphics.Point(focusX.toInt(), focusY.toInt())))
+        map?.moveCamera(CameraUpdateFactory.zoomBy(pinch.zoomDelta(scaleFactor)))
     }
 
     override fun onClick(x: Float, y: Float) {
@@ -176,6 +183,9 @@ class CarMapRenderer(
 
     private companion object {
         const val SEARCH_ZOOM = 9.0
+        /** Further out a charger search means nothing, and it is how a pinch gets lost in Europe. */
+        const val MIN_ZOOM = 5.0
+        const val MAX_ZOOM = 18.0
         const val ANIMATION_MS = 200
     }
 }

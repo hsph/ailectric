@@ -56,6 +56,16 @@ internal fun CarContext.navigateTo(hit: StationHit) {
     startCarApp(intent)
 }
 
+/** Pan and zoom, the same on every screen that shows the map. */
+internal fun CarContext.mapController(renderer: CarMapRenderer, extra: Action? = null): MapController {
+    val strip = ActionStrip.Builder()
+        .addAction(Action.PAN)
+        .addAction(iconAction(R.drawable.ic_add) { renderer.zoomBy(1.0) })
+        .addAction(iconAction(R.drawable.ic_remove) { renderer.zoomBy(-1.0) })
+    extra?.let(strip::addAction)
+    return MapController.Builder().setMapActionStrip(strip.build()).setPanModeListener { }.build()
+}
+
 /** The car's list-and-map home screen. See docs/ANDROID_AUTO.md for why it looks this way. */
 class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer) : Screen(carContext) {
     private val session = carContext.app.session
@@ -81,7 +91,8 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
     }
 
     private fun openDetail(hit: StationHit) {
-        screenManager.push(StationCarScreen(carContext, hit))
+        renderer.focus(hit.station.location)
+        screenManager.push(StationCarScreen(carContext, hit, renderer))
     }
 
     override fun onGetTemplate(): Template {
@@ -160,25 +171,14 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
     }
 
     private fun mapTemplate(): Template {
-        val mapStrip = ActionStrip.Builder()
-            .addAction(Action.PAN)
-            .addAction(carContext.iconAction(R.drawable.ic_add) { renderer.zoomBy(1.0) })
-            .addAction(carContext.iconAction(R.drawable.ic_remove) { renderer.zoomBy(-1.0) })
-            .addAction(
-                carContext.iconAction(if (state.manualCenter) R.drawable.ic_my_location else R.drawable.ic_search) {
-                    if (state.manualCenter) {
-                        session.followLocation()
-                        state.location?.let(renderer::center)
-                    } else {
-                        renderer.cameraCenter?.let(session::searchAt)
-                    }
-                },
-            )
-            .build()
-        val controller = MapController.Builder()
-            .setMapActionStrip(mapStrip)
-            .setPanModeListener { }
-            .build()
+        val searchAction = carContext.iconAction(if (state.manualCenter) R.drawable.ic_my_location else R.drawable.ic_search) {
+            if (state.manualCenter) {
+                session.followLocation()
+                state.location?.let(renderer::center)
+            } else {
+                renderer.cameraCenter?.let(session::searchAt)
+            }
+        }
         val list = ListTemplate.Builder()
             .setHeader(Header.Builder().setTitle(subtitle()).setStartHeaderAction(Action.APP_ICON).build())
         val items = itemList(placeMarkers = false)
@@ -186,7 +186,7 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
         return MapWithContentTemplate.Builder()
             .setContentTemplate(list.build())
             .setActionStrip(ActionStrip.Builder().addAction(filterAction()).build())
-            .setMapController(controller)
+            .setMapController(carContext.mapController(renderer, searchAction))
             .build()
     }
 
@@ -203,8 +203,12 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
     }
 }
 
-/** Station details with the handover to a navigation app. */
-class StationCarScreen(carContext: CarContext, private val hit: StationHit) : Screen(carContext) {
+/** Station details with the handover to a navigation app, beside the map when the host allows it. */
+class StationCarScreen(
+    carContext: CarContext,
+    private val hit: StationHit,
+    private val renderer: CarMapRenderer? = null,
+) : Screen(carContext) {
     override fun onGetTemplate(): Template {
         val s = hit.station
         val pane = Pane.Builder()
@@ -229,8 +233,13 @@ class StationCarScreen(carContext: CarContext, private val hit: StationHit) : Sc
                 .setIcon(carContext.icon(R.drawable.ic_navigation))
                 .setOnClickListener { carContext.navigateTo(hit) }.build(),
         )
-        return PaneTemplate.Builder(pane.build())
+        val details = PaneTemplate.Builder(pane.build())
             .setHeader(Header.Builder().setTitle(Format.title(s)).setStartHeaderAction(Action.BACK).build())
+            .build()
+        if (renderer == null || carContext.carAppApiLevel < MAP_TEMPLATE_API) return details
+        return MapWithContentTemplate.Builder()
+            .setContentTemplate(details)
+            .setMapController(carContext.mapController(renderer))
             .build()
     }
 }

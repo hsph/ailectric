@@ -68,3 +68,9 @@ Geprüft in der Referenz der Library 1.7.0, `CarInfo` ab Car API 3:
 Alle Werte sind `CarValue` mit eigenem Status; Fahrzeuge dürfen sie schuldig bleiben. Ein Verbrauchswert existiert in diesen Klassen nicht. Er ließe sich aus Akku- und Kilometeränderung ableiten oder manuell eintragen.
 
 Offen: Die benötigten Laufzeitberechtigungen ließen sich nicht in der Dokumentation bestätigen, die betreffende Seite war nicht erreichbar. Vor Phase 5 prüfen, ebenso welche Fahrzeuge welche Werte liefern.
+
+## Gesten und Details
+
+Pinch zoomt um die Kartenmitte, gedämpft und je Ereignis begrenzt, und sperrt währenddessen das Verschieben. Die Karte zoomt nicht weiter heraus als Stufe 5. Der Grund: Ungebremst lief man in Open Headunit mit einem Pinch Hunderte Kilometer weit.
+
+Stationsdetails erscheinen ab Car API 7 im selben Inhaltsfenster wie die Liste, die Karte bleibt sichtbar und springt zur Station. Darunter füllen sie den Bildschirm.
