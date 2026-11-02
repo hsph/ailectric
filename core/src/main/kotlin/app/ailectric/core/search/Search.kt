@@ -50,35 +50,39 @@ class StationRepository(
 ) {
     suspend fun load(center: GeoPoint, radiusMeters: Double): StationLoad {
         val box = BoundingBox.around(center, radiusMeters)
-        var failure: ProviderException? = null
+        val failures = mutableListOf<ProviderException>()
         for (provider in providers) {
             val covered = cache.coverages(provider.id)
                 .firstOrNull { policy.isCovered(center, radiusMeters, it, now()) }
             if (covered != null) {
                 return StationLoad(
                     cache.stationsIn(provider.id, box), Freshness.CACHED, provider.id,
-                    cache.wasTruncated(provider.id, covered), failure?.message,
+                    cache.wasTruncated(provider.id, covered), failures.summary(),
                 )
             }
             val fetchRadius = policy.fetchRadius(radiusMeters)
             val result = try {
                 provider.search(StationQuery(center, fetchRadius))
             } catch (e: ProviderException) {
-                failure = failure ?: e
+                failures += e
                 continue
             }
             cache.store(provider.id, Coverage(center, fetchRadius, now()), result.stations, result.truncated)
-            return StationLoad(result.stations, Freshness.LIVE_FETCH, provider.id, result.truncated, failure?.message)
+            return StationLoad(result.stations, Freshness.LIVE_FETCH, provider.id, result.truncated, failures.summary())
         }
         // Everything failed: whatever we know is better than nothing, as long as we say so.
         for (provider in providers) {
             val stale = cache.stationsIn(provider.id, box)
             if (stale.isNotEmpty()) {
-                return StationLoad(stale, Freshness.STALE_OFFLINE, provider.id, false, failure?.message)
+                return StationLoad(stale, Freshness.STALE_OFFLINE, provider.id, false, failures.summary())
             }
         }
-        throw failure ?: ProviderException("Keine Datenquelle konfiguriert", retryable = false)
+        throw ProviderException(failures.summary() ?: "Keine Datenquelle konfiguriert", failures.firstOrNull())
     }
+
+    /** All causes: the first alone would blame a missing key when the fallback is what broke. */
+    private fun List<ProviderException>.summary(): String? =
+        mapNotNull { it.message }.distinct().joinToString(" · ").ifBlank { null }
 }
 
 data class StationHit(

@@ -14,8 +14,19 @@
 | Karte auf Car-Surface, Pan und Zoom (Gerät nötig) | `app`: `CarMapRendererTest` |
 
 ```sh
-./gradlew :core:test :app:testDebugUnitTest :app:connectedDebugAndroidTest
+./gradlew :core:test :app:testDebugUnitTest
 ```
+
+Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abgestürztem Testlauf `BUILD SUCCESSFUL`, die Build-Zeile ist also kein Beleg. Maßgeblich ist `OK (1 test)`:
+
+```sh
+./gradlew :app:installDebug :app:installDebugAndroidTest
+adb shell am instrument -w -e class app.ailectric.CarMapRendererTest app.ailectric.test/androidx.test.runner.AndroidJUnitRunner
+```
+
+Der Test legt das gerenderte Bild unter `/sdcard/Android/data/app.ailectric/files/car_map.png` ab.
+
+Die Antwort in `core/src/test/resources/overpass_hiking_real.json` stammt vom echten Dienst. Sie hat zwei falsche Annahmen aufgedeckt: Abgeschnittene Geometrie enthält `null`-Lücken, und auch `bounds` ist abgeschnitten.
 
 ## Manuelle Testmatrix Android Auto
 

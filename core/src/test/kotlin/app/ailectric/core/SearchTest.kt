@@ -103,6 +103,17 @@ class SearchTest {
         assertThat(r.notice).isEqualTo("kein Schlüssel")
     }
 
+    @Test fun `when every source fails the error names all causes`() = runTest {
+        val noKey = FakeStations("ocm") { throw ProviderException("kein Schlüssel", retryable = false) }
+        val busy = FakeStations("osm") { throw ProviderException("Overpass ausgelastet") }
+        try {
+            repo(noKey, busy).load(center, 50_000.0)
+            fail("expected failure")
+        } catch (e: ProviderException) {
+            assertThat(e.message).isEqualTo("kein Schlüssel · Overpass ausgelastet")
+        }
+    }
+
     @Test fun `truncation survives a cache hit`() = runTest {
         val p = FakeStations("p") { StationResult(listOf(near), true) }
         repo(p).load(center, 50_000.0)

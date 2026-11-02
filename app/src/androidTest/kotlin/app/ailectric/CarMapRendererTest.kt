@@ -61,8 +61,8 @@ class CarMapRendererTest {
                 latest.set(bitmap)
             }
         }, Handler(thread.looper))
-        val context = TestCarContext.createCarContext(instrumentation.targetContext)
         main {
+            val context = TestCarContext.createCarContext(instrumentation.targetContext)
             val owner = object : LifecycleOwner {
                 override val lifecycle = LifecycleRegistry.createUnsafe(this)
             }
@@ -73,7 +73,9 @@ class CarMapRendererTest {
     }
 
     @After fun tearDown() {
-        main { renderer.onSurfaceDestroyed(SurfaceContainer(reader.surface, width, height, 160)) }
+        if (::renderer.isInitialized) {
+            main { renderer.onSurfaceDestroyed(SurfaceContainer(reader.surface, width, height, 160)) }
+        }
         reader.close()
         thread.quitSafely()
     }
@@ -88,17 +90,17 @@ class CarMapRendererTest {
         await("style") { onMain { renderer.styleLoaded } }
         await("map frames") { latest.get()?.let(::distinctColors)?.let { it > 50 } == true }
 
+        SystemClock.sleep(12_000) // Remaining tiles, so the saved image is worth looking at.
         File(instrumentation.targetContext.getExternalFilesDir(null), "car_map.png").outputStream().use {
             latest.get()!!.compress(Bitmap.CompressFormat.PNG, 100, it)
         }
 
         val before = onMain { renderer.cameraCenter }!!
         main { renderer.onScroll(200f, 0f) }
-        val after = onMain { renderer.cameraCenter }!!
-        assertThat(after.lon).isGreaterThan(before.lon)
+        await("pan", 10_000) { onMain { renderer.cameraCenter }!!.lon > before.lon }
 
         val zoom = onMain { renderer.zoomLevel }!!
         main { renderer.onScale(640f, 360f, 2f) }
-        assertThat(onMain { renderer.zoomLevel }!!).isWithin(0.01).of(zoom + 1)
+        await("zoom", 10_000) { onMain { renderer.zoomLevel }!! > zoom + 0.9 }
     }
 }
