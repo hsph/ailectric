@@ -1,0 +1,16 @@
+[
+ {"ID":100,"UUID":"a","NumberOfPoints":8,"UsageCost":"0,59 EUR/kWh","DateLastStatusUpdate":"2026-09-01T10:00:00Z",
+  "DataProvider":{"Title":"Bundesnetzagentur","License":"CC BY 4.0"},
+  "OperatorInfo":{"ID":1,"Title":"IONITY"},
+  "UsageType":{"ID":1,"Title":"Public"},
+  "StatusType":{"ID":50,"IsOperational":true,"Title":"Operational"},
+  "AddressInfo":{"Title":"Rasthof Holzkirchen","AddressLine1":"A8","Town":"Holzkirchen","Postcode":"83607","Country":{"ISOCode":"DE"},"Latitude":47.88,"Longitude":11.70},
+  "Connections":[
+   {"ConnectionTypeID":33,"ConnectionType":{"ID":33,"Title":"CCS (Type 2)"},"CurrentTypeID":30,"CurrentType":{"ID":30,"Title":"DC"},"PowerKW":350.0,"Quantity":6,"StatusType":{"ID":50,"IsOperational":true}},
+   {"ConnectionTypeID":25,"ConnectionType":{"ID":25,"Title":"Type 2 (Socket Only)"},"CurrentTypeID":20,"PowerKW":22.0,"Quantity":2}
+  ]},
+ {"ID":101,"AddressInfo":{"Title":"  ","Latitude":48.0,"Longitude":11.0},"OperatorInfo":{"ID":1,"Title":"(Unknown Operator)"},"StatusType":{"ID":150,"IsOperational":false},"Connections":[{"ConnectionTypeID":9999,"ConnectionType":{"Title":"Mystery Plug"},"PowerKW":0}]},
+ {"ID":102,"AddressInfo":{"Title":"Keine Koordinate"},"Connections":[]},
+ {"ID":103,"AddressInfo":{"Title":"Null Island","Latitude":0.0,"Longitude":0.0}},
+ {"ID":104,"AddressInfo":{"Title":"Nur Basisdaten","Latitude":59.3,"Longitude":18.0,"Country":{"ISOCode":"SE"}}}
+]
