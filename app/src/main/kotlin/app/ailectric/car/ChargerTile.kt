@@ -15,27 +15,28 @@ import app.ailectric.ui.PowerGroup
 
 /** The rounded square in the car's grid: power, free points, gradient by speed group. */
 internal object ChargerTile {
-    /** Rounded corners need alpha; at this size nine tiles still fit through one binder call. */
-    private const val SIZE_PX = 140
-    private const val CORNER_PX = SIZE_PX * 0.2f
+    /** Rounded corners need alpha; at this size 18 tiles take about 700 KB of one binder call. */
+    private const val SIZE_PX = 100
+    private const val CORNER_RATIO = 0.2f
     /** The same side margin keeps "400 kW" and a shrunk four-digit power off the edge. */
-    private const val TEXT_WIDTH_PX = SIZE_PX * 0.86f
+    private const val TEXT_WIDTH_RATIO = 0.86f
 
     fun icon(s: Station): CarIcon =
         CarIcon.Builder(IconCompat.createWithBitmap(bitmap(s))).build()
 
-    private fun bitmap(s: Station): Bitmap {
+    fun bitmap(s: Station, sizePx: Int = SIZE_PX): Bitmap {
         val group = PowerGroup.of(s.maxPowerKw)
-        val size = SIZE_PX.toFloat()
-        val bitmap = createBitmap(SIZE_PX, SIZE_PX)
+        val size = sizePx.toFloat()
+        val corner = size * CORNER_RATIO
+        val bitmap = createBitmap(sizePx, sizePx)
         val canvas = Canvas(bitmap)
         val fill = Paint(Paint.ANTI_ALIAS_FLAG).apply {
             shader = LinearGradient(0f, 0f, size, size, group.lightColor, group.darkColor, Shader.TileMode.CLAMP)
         }
-        canvas.drawRoundRect(0f, 0f, size, size, CORNER_PX, CORNER_PX, fill)
+        canvas.drawRoundRect(0f, 0f, size, size, corner, corner, fill)
 
         val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply { color = group.onColor }
-        drawPower(canvas, paint, Format.powerShort(s))
+        drawPower(canvas, paint, Format.powerShort(s), size)
         paint.textAlign = Paint.Align.CENTER
         paint.typeface = Typeface.DEFAULT
         paint.textSize = size * 0.2f
@@ -46,19 +47,19 @@ internal object ChargerTile {
     }
 
     /** Figure and small unit share a baseline and are centred together. */
-    private fun drawPower(canvas: Canvas, paint: Paint, figure: String) {
-        val gap = SIZE_PX * 0.025f
+    private fun drawPower(canvas: Canvas, paint: Paint, figure: String, size: Float) {
+        val gap = size * 0.025f
         paint.textAlign = Paint.Align.LEFT
         paint.typeface = Typeface.DEFAULT_BOLD
-        paint.textSize = SIZE_PX * 0.31f
+        paint.textSize = size * 0.31f
         val unitRatio = 0.44f
         val full = paint.measureText(figure) + gap + paint.measureText(UNIT) * unitRatio
-        paint.textSize *= (TEXT_WIDTH_PX / full).coerceAtMost(1f)
+        paint.textSize *= (size * TEXT_WIDTH_RATIO / full).coerceAtMost(1f)
         val figureWidth = paint.measureText(figure)
         val figureSize = paint.textSize
         val width = figureWidth + gap + paint.measureText(UNIT) * unitRatio
-        val left = (SIZE_PX - width) / 2
-        val baseline = SIZE_PX * 0.44f
+        val left = (size - width) / 2
+        val baseline = size * 0.44f
         canvas.drawText(figure, left, baseline, paint)
         paint.typeface = Typeface.DEFAULT
         paint.textSize = figureSize * unitRatio

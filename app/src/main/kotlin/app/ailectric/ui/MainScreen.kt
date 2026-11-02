@@ -1,5 +1,6 @@
 package app.ailectric.ui
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectVerticalDragGestures
@@ -8,8 +9,10 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -17,16 +20,19 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
-import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items
+import androidx.compose.foundation.lazy.grid.rememberLazyGridState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.ElectricBolt
 import androidx.compose.material.icons.filled.Hiking
+import androidx.compose.material.icons.filled.Layers
 import androidx.compose.material.icons.filled.MyLocation
 import androidx.compose.material.icons.filled.Remove
 import androidx.compose.material.icons.filled.Search
@@ -35,6 +41,9 @@ import androidx.compose.material.icons.filled.Tune
 import androidx.compose.material3.Badge
 import androidx.compose.material3.BadgedBox
 import androidx.compose.material3.Button
+import androidx.compose.material3.Checkbox
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.ExtendedFloatingActionButton
 import androidx.compose.material3.FilterChip
@@ -43,6 +52,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.RadioButton
 import androidx.compose.material3.SegmentedButton
 import androidx.compose.material3.SegmentedButtonDefaults
 import androidx.compose.material3.SingleChoiceSegmentedButtonRow
@@ -60,20 +70,29 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import app.ailectric.car.ChargerTile
 import app.ailectric.core.filter.HikingFilter
 import app.ailectric.core.filter.StationFilter
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.CurrentType
 import app.ailectric.core.search.StationHit
+import app.ailectric.data.MapBase
+import app.ailectric.data.MapSettings
 import app.ailectric.search.SearchSession
 import app.ailectric.search.SearchState
+
+private val TILE_MIN_WIDTH = 104.dp
+private const val TILE_BITMAP_PX = 320
 
 private enum class ViewMode(val label: String) { MAP("Karte"), SPLIT("Geteilt"), LIST("Liste") }
 
@@ -107,11 +126,12 @@ fun MainScreen(session: SearchSession) {
                     Box(mapModifier.fillMaxWidth()) {
                         StationMap(
                             hits = hits, me = state.location, focus = state.searchCenter.takeIf { !state.manualCenter },
+                            view = state.map,
                             handle = handle, onStationClick = { selectedId = it }, onUserMoved = { userMoved = true },
                             modifier = Modifier.fillMaxSize(),
                         )
                         MapControls(
-                            handle, showSearchHere = userMoved,
+                            handle, state.map, onViewChange = { session.setMapView(it) }, showSearchHere = userMoved,
                             onSearchHere = { handle.target?.let(session::searchAt); userMoved = false },
                             onMyLocation = {
                                 userMoved = false
@@ -174,10 +194,7 @@ private fun QuickFilters(filter: StationFilter, onChange: (StationFilter) -> Uni
         Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 12.dp),
         horizontalArrangement = Arrangement.spacedBy(8.dp),
     ) {
-        FilterChip(
-            selected = filter.minPowerKw == 150.0, label = { Text("ab 150 kW") },
-            onClick = { onChange(filter.copy(minPowerKw = if (filter.minPowerKw == 150.0) null else 150.0)) },
-        )
+        PowerFilterChip(filter.minPowerKw) { onChange(filter.copy(minPowerKw = it)) }
         FilterChip(
             selected = ConnectorType.CCS2 in filter.connectorTypes, label = { Text("CCS") },
             onClick = { onChange(filter.copy(connectorTypes = filter.connectorTypes.toggled(ConnectorType.CCS2))) },
@@ -194,6 +211,39 @@ private fun QuickFilters(filter: StationFilter, onChange: (StationFilter) -> Uni
     }
 }
 
+/** The steps of the colour legend, each with its colour. */
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+internal fun PowerFilterChip(minKw: Double?, onChange: (Double?) -> Unit) {
+    var open by remember { mutableStateOf(false) }
+    Box {
+        FilterChip(
+            selected = minKw != null, onClick = { open = true },
+            label = { Text(minKw?.let { "ab ${it.toInt()} kW" } ?: "Leistung") },
+            trailingIcon = { Icon(Icons.Default.ArrowDropDown, null, Modifier.size(18.dp)) },
+        )
+        DropdownMenu(expanded = open, onDismissRequest = { open = false }) {
+            DropdownMenuItem(
+                text = { Text("Alle") },
+                onClick = {
+                    open = false
+                    onChange(null)
+                },
+            )
+            PowerGroup.FILTER_STEPS.forEach { group ->
+                DropdownMenuItem(
+                    text = { Text(group.filterLabel) },
+                    leadingIcon = { Box(Modifier.size(14.dp).background(Color(group.color), CircleShape)) },
+                    onClick = {
+                        open = false
+                        onChange(group.fromKw)
+                    },
+                )
+            }
+        }
+    }
+}
+
 internal fun <T> Set<T>.toggled(item: T): Set<T> = if (item in this) this - item else this + item
 
 @Composable
@@ -205,6 +255,8 @@ private fun StatusLine(state: SearchState) {
         r != null -> buildString {
             append("${r.hits.size} Stationen · ${Format.freshness(r.freshness)}")
             if (r.truncated) append(" · Ergebnis gekürzt")
+            // The tiles have no room for "Luftlinie" per distance, as in the car.
+            append(" · Luftlinie")
         }
         !state.locationPermission -> "Kein Standort: Karte verschieben und „Hier suchen“ antippen"
         state.location == null -> "Warte auf Standort…"
@@ -251,6 +303,8 @@ private fun DragHandle(onDrag: (Float) -> Unit) {
 @Composable
 private fun MapControls(
     handle: MapHandle,
+    view: MapSettings,
+    onViewChange: (MapSettings) -> Unit,
     showSearchHere: Boolean,
     onSearchHere: () -> Unit,
     onMyLocation: () -> Unit,
@@ -260,7 +314,9 @@ private fun MapControls(
             SmallFloatingActionButton(onClick = { handle.zoom(1.0) }) { Icon(Icons.Default.Add, "Vergrößern") }
             SmallFloatingActionButton(onClick = { handle.zoom(-1.0) }) { Icon(Icons.Default.Remove, "Verkleinern") }
             SmallFloatingActionButton(onClick = onMyLocation) { Icon(Icons.Default.MyLocation, "Mein Standort") }
+            MapViewButton(view, onViewChange)
         }
+        MapCredits(view, Modifier.align(Alignment.TopStart))
         PowerLegend(Modifier.align(Alignment.BottomEnd))
         if (showSearchHere) {
             ExtendedFloatingActionButton(
@@ -268,6 +324,42 @@ private fun MapControls(
                 icon = { Icon(Icons.Default.Search, null) }, text = { Text("Hier suchen") },
             )
         }
+    }
+}
+
+@Composable
+private fun MapViewButton(view: MapSettings, onChange: (MapSettings) -> Unit) {
+    var open by remember { mutableStateOf(false) }
+    Box {
+        SmallFloatingActionButton(onClick = { open = true }) { Icon(Icons.Default.Layers, "Kartenansicht") }
+        DropdownMenu(expanded = open, onDismissRequest = { open = false }) {
+            MapBase.entries.forEach { base ->
+                DropdownMenuItem(
+                    text = { Text(base.label) }, onClick = { onChange(view.copy(base = base)) },
+                    leadingIcon = { RadioButton(selected = view.base == base, onClick = null) },
+                )
+            }
+            HorizontalDivider()
+            DropdownMenuItem(
+                text = { Text("Wanderwege") }, onClick = { onChange(view.copy(hikingTrails = !view.hikingTrails)) },
+                leadingIcon = { Checkbox(checked = view.hikingTrails, onCheckedChange = null) },
+            )
+        }
+    }
+}
+
+/** Sources of the optional views; the map's own attribution button only knows the base map. */
+@Composable
+private fun MapCredits(view: MapSettings, modifier: Modifier) {
+    if (view.credits.isEmpty()) return
+    Surface(
+        modifier.padding(end = 56.dp),
+        color = MaterialTheme.colorScheme.surface.copy(alpha = 0.8f), shape = RoundedCornerShape(8.dp),
+    ) {
+        Text(
+            view.credits.joinToString("\n"), Modifier.padding(horizontal = 6.dp, vertical = 3.dp),
+            style = MaterialTheme.typography.labelSmall, fontSize = 8.sp, lineHeight = 10.sp,
+        )
     }
 }
 
@@ -304,50 +396,35 @@ private fun StationList(state: SearchState, onSelect: (StationHit) -> Unit, modi
         }
         return
     }
-    val listState = rememberLazyListState()
+    val gridState = rememberLazyGridState()
     // A keyed list stays on its item, so a closer station loaded later would land above the view.
-    LaunchedEffect(hits.firstOrNull()?.station?.id) { listState.scrollToItem(0) }
-    LazyColumn(modifier.fillMaxWidth(), state = listState) {
-        items(hits, key = { it.station.id }) { hit ->
-            StationRow(hit, onClick = { onSelect(hit) })
-            HorizontalDivider()
-        }
+    LaunchedEffect(hits.firstOrNull()?.station?.id) { gridState.scrollToItem(0) }
+    LazyVerticalGrid(
+        GridCells.Adaptive(TILE_MIN_WIDTH), modifier.fillMaxWidth(), state = gridState,
+        contentPadding = PaddingValues(12.dp),
+        horizontalArrangement = Arrangement.spacedBy(12.dp), verticalArrangement = Arrangement.spacedBy(16.dp),
+    ) {
+        items(hits, key = { it.station.id }) { hit -> StationTile(hit, onClick = { onSelect(hit) }) }
     }
 }
 
+/** The car's tile: same picture, distance, then operator and name. */
 @Composable
-private fun StationRow(hit: StationHit, onClick: () -> Unit) {
+private fun StationTile(hit: StationHit, onClick: () -> Unit) {
     val s = hit.station
-    Row(
-        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 16.dp, vertical = 12.dp),
-        verticalAlignment = Alignment.CenterVertically,
-    ) {
-        Surface(color = MaterialTheme.colorScheme.primaryContainer, shape = RoundedCornerShape(10.dp)) {
+    val tile = remember(s) { ChargerTile.bitmap(s, TILE_BITMAP_PX).asImageBitmap() }
+    Column(Modifier.clip(RoundedCornerShape(12.dp)).clickable(onClick = onClick)) {
+        Image(tile, null, Modifier.fillMaxWidth().aspectRatio(1f), contentScale = ContentScale.Fit)
+        Spacer(Modifier.height(4.dp))
+        Text(hit.distance.value(), style = MaterialTheme.typography.titleSmall)
+        Text(
+            Format.operatorAndTitle(s), style = MaterialTheme.typography.bodySmall, maxLines = 2,
+            overflow = TextOverflow.Ellipsis, color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        if (hit.nearby.isNotEmpty()) {
             Text(
-                s.maxPowerKw?.let { "${it.toInt()}\nkW" } ?: "?\nkW",
-                Modifier.padding(horizontal = 10.dp, vertical = 6.dp).width(36.dp),
-                style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold,
-                color = MaterialTheme.colorScheme.onPrimaryContainer,
-            )
-        }
-        Spacer(Modifier.width(12.dp))
-        Column(Modifier.weight(1f)) {
-            Text(Format.title(s), style = MaterialTheme.typography.titleMedium, maxLines = 1, overflow = TextOverflow.Ellipsis)
-            Text(
-                listOfNotNull(s.operator, Format.plugs(s)).joinToString(" · "),
-                style = MaterialTheme.typography.bodyMedium, maxLines = 1, overflow = TextOverflow.Ellipsis,
+                "${hit.nearby.size} Wanderziele", style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
-            Text(
-                hit.distance.label() + if (hit.nearby.isNotEmpty()) " · ${hit.nearby.size} Wanderziele" else "",
-                style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
-        }
-        Format.free(s)?.let { free ->
-            Spacer(Modifier.width(12.dp))
-            Text(
-                free, style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold,
-                color = if (s.freePoints == 0) MaterialTheme.colorScheme.tertiary else MaterialTheme.colorScheme.primary,
             )
         }
     }

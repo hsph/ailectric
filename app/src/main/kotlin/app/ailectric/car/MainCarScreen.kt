@@ -48,8 +48,8 @@ import kotlinx.coroutines.launch
 
 private const val MAP_TEMPLATE_API = 7
 private const val FALLBACK_LIST_LIMIT = 6
-/** Three by three, as far as a host shows that; also keeps the tile bitmaps within one binder call. */
-private const val MAX_GRID_ITEMS = 9
+/** As far as the host allows; the panel scrolls. Keeps the tile bitmaps within one binder call. */
+private const val MAX_GRID_ITEMS = 18
 
 internal fun CarContext.icon(res: Int) = CarIcon.Builder(IconCompat.createWithResource(this, res)).build()
 

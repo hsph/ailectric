@@ -1,5 +1,13 @@
 # Tests
 
+Getestet wird auf dem echten Telefon über adb. Der Emulator wird nur nach ausdrücklicher Bestätigung benutzt, auch wenn das Telefon gerade nicht erreichbar ist.
+
+Android Auto lässt sich auf dem Telefon selbst über OpenHeadUnit (Headunit Revived) testen. Das geht nur nach Bestätigung, also nach „Bereit“ in der Abfrage unten. Hinweise dazu stehen in `ANDROID_AUTO.md`.
+
+Bevor ein Test das Telefon übernimmt oder die laufende App beendet (auch `installDebug` und `am instrument`), fragt `scripts/ask-phone.sh <serial>` dort nach: drei kurze Vibrationen und eine Benachrichtigung mit „Bereit“, 10 s, 30 s und 1 min. Das Skript gibt die Antwort aus. Die Benachrichtigung gibt es nur im Debug-Build. Antwortet niemand, wird im Chat gefragt.
+
+Bei einem gemeldeten Absturz zuerst die Gründe lesen, das Telefon speichert sie je App-Beendigung: `adb shell dumpsys activity exit-info app.ailectric`. Installationen und Gerätetests beenden die App ebenfalls, das sieht wie ein Absturz aus. Logs nie mit `logcat -c` löschen, sie sind der einzige Beleg für den Zeitraum davor.
+
 ## Automatisiert
 
 | Bereich | Wo |
@@ -10,21 +18,22 @@
 | Cache, GPS-unabhängige Suche, Offline, Provider-Wechsel, POI-Zuordnung | `core`: `SearchTest`, `CacheAndVehicleTest` |
 | Room | `app`: `RoomSearchCacheTest` |
 | Car-Templates, Raster, Einklappen, Einstellungen, Host-Grenzen, Navigation-Intent, Fallback alter Hosts | `app`: `CarTemplatesTest` |
+| Kartenansicht: Quellenangaben, Speichern der Auswahl | `app`: `MapSettingsTest`, `CarTemplatesTest` |
 | Standort-Provider | `app`: `LocationProvidersTest` |
-| Karte auf Car-Surface, Pan und Zoom, Startposition neben dem Fenster, Markierung der gewählten Station (Gerät nötig) | `app`: `CarMapRendererTest` |
+| Karte auf Car-Surface, Pan und Zoom, Startposition neben dem Fenster, Markierung der gewählten Station, Kartenansicht (Gerät nötig) | `app`: `CarMapRendererTest` |
 
 ```sh
 ./gradlew :core:test :app:testDebugUnitTest
 ```
 
-Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abgestürztem Testlauf `BUILD SUCCESSFUL`, die Build-Zeile ist also kein Beleg. Maßgeblich ist `OK (3 tests)`:
+Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abgestürztem Testlauf `BUILD SUCCESSFUL`, die Build-Zeile ist also kein Beleg. Maßgeblich ist `OK (5 tests)`:
 
 ```sh
 ./gradlew :app:installDebug :app:installDebugAndroidTest
 adb shell am instrument -w -e class app.ailectric.CarMapRendererTest app.ailectric.test/androidx.test.runner.AndroidJUnitRunner
 ```
 
-Der Test legt die gerenderten Bilder unter `/sdcard/Android/data/app.ailectric/files/` ab: `car_map.png` mit Legende und `car_selected.png` mit markierter Station.
+Der Test legt die gerenderten Bilder unter `/sdcard/Android/data/app.ailectric/files/` ab: `car_map.png` mit Legende, `car_selected.png` mit markierter Station und `car_terrain.png` mit Geländekarte und Wanderwegen.
 
 Die Antwort in `core/src/test/resources/overpass_hiking_real.json` stammt vom echten Dienst. Sie hat zwei falsche Annahmen aufgedeckt: Abgeschnittene Geometrie enthält `null`-Lücken, und auch `bounds` ist abgeschnitten.
 

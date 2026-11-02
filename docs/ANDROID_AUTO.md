@@ -24,7 +24,7 @@ Die Dokumentation warnt, dass `onClick`, `onFling` und `onScale` auf manchen Fah
 | Frei anpassbare Karten-/Listenaufteilung | Layout bestimmt der Host | Nur auf dem Telefon. Im Auto blendet der Pan-Modus das Inhaltsfenster aus, das ist die Vollbild-Variante; Raster und Details lassen sich einklappen |
 | Manuelle Suche | möglich | Aktion „Hier suchen“, danach zurück zum Standort |
 | Stationsdetails | möglich | `PaneTemplate` mit bis zu 4 Zeilen, Rest auf dem Telefon |
-| Alle Filter | zu viele Eingaben während der Fahrt | Fünf große Optionen im Auto, der volle Filter auf dem Telefon, beide teilen denselben Zustand |
+| Alle Filter | zu viele Eingaben während der Fahrt | Fünf große Optionen im Auto, der volle Filter auf dem Telefon, beide teilen denselben Zustand. Die Mindestleistung ist ein Menü mit den Stufen der Farblegende (Alle, ab 23, ab 150, ab 300 kW) |
 | Navigation | möglich | `ACTION_NAVIGATE` mit `geo:`-URI an die gewählte Navigations-App |
 
 Hosts unter Car API 7 bekommen `PlaceListMapTemplate`: Karte vom Host, kein Pan und Zoom.
@@ -69,6 +69,19 @@ Alle Werte sind `CarValue` mit eigenem Status; Fahrzeuge dürfen sie schuldig bl
 
 Offen: Die benötigten Laufzeitberechtigungen ließen sich nicht in der Dokumentation bestätigen, die betreffende Seite war nicht erreichbar. Vor Phase 5 prüfen, ebenso welche Fahrzeuge welche Werte liefern.
 
+## Kartenansicht im Auto
+
+Die Auto-Karte hat ihre eigene Ansicht, unabhängig von der Telefon-App. Satellit fehlt bewusst: Das Bild ist grob und zeigt keine Straßennamen. Wanderwege erscheinen erst ab Zoomstufe 12, weil die Routen weiter draußen Straßen und Stationen verdecken. Die Quellenangabe steht dicht über dem unteren Rand und wechselt mit der Ansicht; auf der Geländekarte braucht sie einen eigenen hellen Grund.
+
+## Test mit OpenHeadUnit
+
+Android Auto lässt sich ohne Fahrzeug auf dem Telefon selbst testen, mit OpenHeadUnit (Headunit Revived, `com.andrerinas.headunitrevived`). Das geht nur nach Bestätigung, siehe `TESTING.md`.
+
+- Die Aktionsknöpfe auf der Karte blenden sich nach kurzer Zeit aus. Automatisierte Tipps müssen also direkt nach dem Screenshot kommen.
+- `input tap` kam in der Projektion oft nicht an, `input swipe x y x y 120` schon.
+- Das Layout wechselt zwischen Sitzungen und mit der Drehung des Telefons. Koordinaten daher immer aus einem frischen Screenshot nehmen.
+- Trennt OpenHeadUnit die Sitzung mit `isUserExit` oder `User requested switch driver`, war das eine Bedienaktion, kein Absturz.
+
 ## Gesten und Details
 
 Pinch zoomt um die Kartenmitte, gedämpft und je Ereignis begrenzt, und sperrt währenddessen das Verschieben. Die Karte zoomt nicht weiter heraus als Stufe 5. Der Grund: Ungebremst lief man in Open Headunit mit einem Pinch Hunderte Kilometer weit.
@@ -81,10 +94,10 @@ Ab Car API 7 klappt ein Pfeil im Kopf des Inhaltsfensters Raster und Details ein
 
 Die Startseite nutzt ab Car API 7 `GridTemplate`. Jede Kachel ist ein von der App gezeichnetes Bild mit abgerundeten Ecken und diagonalem Farbverlauf: Höchstleistung mit „kW“, darunter freie von allen Ladepunkten, etwa `1/4`, ohne Live-Daten `–/6`, und das Wort „frei“. Die Farbe zeigt die Gruppe wie auf der Karte: bis 22, 23–149, 150–299 und ab 300 kW, grau bei unbekannter Leistung. Eine kleine Legende dazu liegt auf der Karte, im Auto und auf dem Telefon. Unter der Kachel stehen Entfernung, Betreiber und Name. Spaltenzahl und genaue Kachelgröße legt der Host fest.
 
-Kachelgröße, Startzoom (Standard 13) und Zoom bei Auswahl lassen sich an zwei Stellen einstellen, beide teilen denselben Wert: in der Telefon-App unter „Android Auto“ frei per Schieberegler, im Auto über das Zahnrad auf der Karte. Dort öffnet jede Zeile eine Liste mit Voreinstellungen, weil die Templates weder Schieberegler noch Dropdowns kennen: 5 je Zoom, 3 für die Kachelgröße. Ein Zoom vom Telefon zwischen zwei Voreinstellungen wird im Auto als nächstliegende markiert.
+Kachelgröße, Startzoom (Standard 13), Zoom bei Auswahl, Karte (Standard oder Gelände) und Wanderwege lassen sich an zwei Stellen einstellen, beide teilen denselben Wert: in der Telefon-App unter „Android Auto“ frei per Schieberegler, im Auto über das Zahnrad auf der Karte. Dort öffnet jede Zeile eine Liste mit Voreinstellungen, weil die Templates weder Schieberegler noch Dropdowns kennen: 5 je Zoom, 3 für die Kachelgröße. Ein Zoom vom Telefon zwischen zwei Voreinstellungen wird im Auto als nächstliegende markiert.
 
 Der Startpunkt liegt in der Mitte des freien Kartenbereichs rechts vom Fenster. `MapLibreMap.setPadding` wirkt erst bei der nächsten Kamerabewegung, deshalb setzt der Renderer die Kamera dafür einmal selbst, bis der Fahrer die Karte bewegt.
 
 Ob die App im Vollbild oder geteilt läuft, bestimmt der Host; `MapWithContentTemplate` bietet dafür keine Einstellung.
 
-Die Bilder haben 140 × 140 Pixel in ARGB_8888 und höchstens 9 Kacheln, damit das ganze Raster unter 1 MB bleibt und durch einen Binder-Aufruf passt. Weil die Kacheln nur Text erlauben, entfällt `DistanceSpan`; „Luftlinie“ steht einmal im Kopf. Hosts unter Car API 7 behalten die Liste mit `PlaceListMapTemplate`.
+Die Bilder haben 100 × 100 Pixel in ARGB_8888 und höchstens 18 Kacheln, das sind rund 700 KB, damit das ganze Raster unter 1 MB bleibt und durch einen Binder-Aufruf passt. Der Host darf weniger zulassen (`CONTENT_LIMIT_TYPE_GRID`). Weil die Kacheln nur Text erlauben, entfällt `DistanceSpan`; „Luftlinie“ steht einmal im Kopf. Hosts unter Car API 7 behalten die Liste mit `PlaceListMapTemplate`.

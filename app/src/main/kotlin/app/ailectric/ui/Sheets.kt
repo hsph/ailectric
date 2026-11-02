@@ -145,19 +145,8 @@ fun FilterSheet(state: SearchState, onChange: (StationFilter) -> Unit, onDismiss
                 TextButton(onClick = { onChange(StationFilter()) }, enabled = !f.isDefault) { Text("Zurücksetzen") }
             }
 
-            Section("Mindestleistung: ${f.minPowerKw?.let { "${it.toInt()} kW" } ?: "alle"}")
-            Slider(
-                value = (f.minPowerKw ?: 0.0).toFloat(), valueRange = 0f..400f,
-                onValueChange = { onChange(f.copy(minPowerKw = it.toDouble().takeIf { v -> v >= 1 }?.let(Math::rint))) },
-            )
-            FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                StationFilter.POWER_PRESETS_KW.forEach { kw ->
-                    FilterChip(
-                        selected = f.minPowerKw == kw.toDouble(), label = { Text("$kw") },
-                        onClick = { onChange(f.copy(minPowerKw = kw.toDouble().takeIf { it != f.minPowerKw })) },
-                    )
-                }
-            }
+            Section("Mindestleistung")
+            PowerFilterChip(f.minPowerKw) { onChange(f.copy(minPowerKw = it)) }
             Section("Höchstleistung: ${f.maxPowerKw?.let { "${it.toInt()} kW" } ?: "keine Grenze"}")
             Slider(
                 value = (f.maxPowerKw ?: 400.0).toFloat(), valueRange = 0f..400f,

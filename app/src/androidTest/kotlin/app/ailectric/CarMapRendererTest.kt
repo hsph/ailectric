@@ -22,6 +22,9 @@ import app.ailectric.core.model.Connector
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.DataSource
 import app.ailectric.core.model.Station
+import app.ailectric.data.CarSettings
+import app.ailectric.data.MapBase
+import app.ailectric.data.MapSettings
 import app.ailectric.ui.PowerGroup
 import com.google.common.truth.Truth.assertThat
 import org.junit.After
@@ -108,6 +111,40 @@ class CarMapRendererTest {
         }
         SystemClock.sleep(500)
         assertThat(onMain { renderer.centerOnSurface }!!.x).isWithin(2f).of(840f)
+    }
+
+    @Test fun terrainAndTrailsReachTheMapAndComeBackOff() {
+        await("style") { onMain { renderer.styleLoaded } }
+        main { renderer.apply(CarSettings(map = MapSettings(MapBase.TERRAIN, hikingTrails = true))) }
+        SystemClock.sleep(8_000) // Tiles.
+        File(instrumentation.targetContext.getExternalFilesDir(null), "car_terrain.png").outputStream().use {
+            latest.get()!!.compress(Bitmap.CompressFormat.PNG, 100, it)
+        }
+        main { renderer.apply(CarSettings()) }
+        SystemClock.sleep(1_000)
+        assertThat(onMain { renderer.styleLoaded }).isTrue()
+    }
+
+    @Test fun zoomingOutAndInWithOverlaysKeepsTheMapAlive() {
+        await("style") { onMain { renderer.styleLoaded } }
+        for (base in listOf(MapBase.STANDARD, MapBase.TERRAIN)) {
+            main { renderer.apply(CarSettings(map = MapSettings(base, hikingTrails = true))) }
+            repeat(3) {
+                repeat(16) {
+                    main { renderer.onScale(640f, 360f, 0.6f) }
+                    SystemClock.sleep(120)
+                }
+                main { renderer.zoomBy(-3.0) }
+                SystemClock.sleep(1_500)
+                repeat(16) {
+                    main { renderer.onScale(640f, 360f, 1.6f) }
+                    SystemClock.sleep(120)
+                }
+                SystemClock.sleep(1_500)
+            }
+        }
+        assertThat(onMain { renderer.styleLoaded }).isTrue()
+        assertThat(onMain { renderer.zoomLevel }).isNotNull()
     }
 
     @Test fun selectedStationIsMarkedLikeARadioButton() {

@@ -24,7 +24,9 @@ import androidx.lifecycle.LifecycleOwner
 import app.ailectric.core.geo.GeoPoint
 import app.ailectric.core.model.Station
 import app.ailectric.data.CarSettings
+import app.ailectric.data.MapBase
 import app.ailectric.core.search.StationHit
+import app.ailectric.map.MapOverlays
 import app.ailectric.map.StationLayers
 import app.ailectric.ui.PowerGroup
 import org.maplibre.android.camera.CameraPosition
@@ -55,6 +57,7 @@ class CarMapRenderer(
     private var beforeFocus: CameraPosition? = null
     private var selected: Station? = null
     private var settings = CarSettings()
+    private var credit: TextView? = null
     /** Until the driver moves the map, the start point follows the panel's edge. */
     private var atStart = true
     private val pinch = PinchZoom()
@@ -85,7 +88,9 @@ class CarMapRenderer(
     /** Takes effect at once, also when the stored values arrive after the map. */
     fun apply(next: CarSettings) {
         val zoomChanged = next.startZoom != settings.startZoom
+        val mapChanged = next.map != settings.map
         settings = next
+        if (mapChanged) showMapView()
         if (zoomChanged && beforeFocus == null) {
             map?.animateCamera(CameraUpdateFactory.zoomTo(next.startZoom.toDouble()), ANIMATION_MS)
         }
@@ -150,18 +155,26 @@ class CarMapRenderer(
         )
         val root = FrameLayout(shown.context).apply {
             addView(view)
-            // Required by the OSM/OpenFreeMap licences; the car UI has no attribution dialog.
+            // Stacked, because the credit grows with the chosen map view.
             addView(
-                TextView(shown.context).apply {
-                    text = "OpenFreeMap © OpenMapTiles © OpenStreetMap"
-                    textSize = 9f
-                    setShadowLayer(3f, 0f, 0f, Color.WHITE)
+                LinearLayout(shown.context).apply {
+                    orientation = LinearLayout.VERTICAL
+                    gravity = Gravity.END
+                    addView(legend(shown.context))
+                    // Required by the licences; the car UI has no attribution dialog.
+                    addView(
+                        TextView(shown.context).apply {
+                            textSize = 9f
+                            gravity = Gravity.END
+                            // On its own ground: the terrain map is too busy for bare text.
+                            setTextColor(Color.rgb(20, 20, 20))
+                            setBackgroundColor(Color.argb(240, 255, 255, 255))
+                            setPadding(6, 2, 6, 2)
+                            credit = this
+                        },
+                    )
                 },
                 FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM or Gravity.END).apply { setMargins(0, 0, 8, 4) },
-            )
-            addView(
-                legend(shown.context),
-                FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM or Gravity.END).apply { setMargins(0, 0, 8, 32) },
             )
         }
         shown.setContentView(root)
@@ -179,14 +192,28 @@ class CarMapRenderer(
                 StationLayers.install(loaded)
                 StationLayers.update(loaded, hits, me)
                 StationLayers.highlight(loaded, selected)
+                showMapView()
             }
         }
+        showCredit()
         shown.show()
         view.onStart()
         view.onResume()
         display = virtual
         presentation = shown
         mapView = view
+    }
+
+    private fun showMapView() {
+        style?.let { MapOverlays.apply(it, settings.map, HIKING_MIN_ZOOM) }
+        showCredit()
+    }
+
+    /** The terrain map covers OpenFreeMap's tiles entirely, so only the shown sources are named. */
+    private fun showCredit() {
+        val map = settings.map
+        val base = BASE_CREDIT.takeIf { map.base == MapBase.STANDARD }
+        credit?.text = (listOfNotNull(base) + map.credits).joinToString("\n")
     }
 
     /** Small and pale, so it explains the colours without competing with the map. */
@@ -261,6 +288,7 @@ class CarMapRenderer(
     private fun release() {
         atStart = true
         style = null
+        credit = null
         map = null
         mapView?.run {
             onPause()
@@ -280,6 +308,9 @@ class CarMapRenderer(
         /** Further out a charger search means nothing, and it is how a pinch gets lost in Europe. */
         const val MIN_ZOOM = 5.0
         const val MAX_ZOOM = 18.0
+        /** Further out the routes bury the roads and the station dots. */
+        const val HIKING_MIN_ZOOM = 12f
+        const val BASE_CREDIT = "OpenFreeMap © OpenMapTiles © OpenStreetMap"
         const val ANIMATION_MS = 200
         const val FOCUS_ANIMATION_MS = 600
     }

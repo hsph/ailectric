@@ -39,6 +39,8 @@ MapLibre Android SDK 13.7.1 mit dem Stil `liberty`. OpenFreeMap verlangt keinen 
 
 Im Auto hostet eine `Presentation` auf einem `VirtualDisplay` über dem Surface eine normale `MapView`. Das ist deutlich weniger Code als ein eigener GL-Renderer und liefert dieselbe Karte wie auf dem Telefon.
 
+Geländekarte, Satellit und Wanderrouten sind Rasterebenen zwischen Grundkarte und Stationen (`MapOverlays`). Es gibt nur die gewählten Ebenen, die anderen kosten die spendenfinanzierten Server keine Abfragen. Eine andere Karten-Engine brächte hier nichts: MapLibre kann das alles, was fehlt, sind Daten. Satellit kommt von EOxCloudless statt Esri, weil die Lizenz für private Nutzung klar ist, auch wenn das Bild mit 10 m je Pixel gröber ist; zu Esri widersprechen sich die Aussagen.
+
 ### ADR 3: Ladestationen von Open Charge Map, OSM als Fallback
 
 Alle Quellen laufen parallel und werden zusammengeführt (Regeln in `DATA_SOURCES.md`). Eine einzelne Quelle reicht nicht: Der Vergleich mit dem Ladesäulenregister und NDW zeigte große Lücken bei OCM und OSM. Eine Quelle kann ausfallen, ohne die Suche zu stoppen.

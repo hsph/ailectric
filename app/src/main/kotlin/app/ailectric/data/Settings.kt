@@ -23,14 +23,34 @@ data class CarSettings(
     val tileSize: CarTileSize = CarTileSize.MEDIUM,
     val startZoom: Int = 13,
     val focusZoom: Int = 17,
+    val map: MapSettings = MapSettings(),
 ) {
     companion object {
+        /** No satellite: the picture is coarse and has no street names, which helps nobody driving. */
+        val MAP_BASES = listOf(MapBase.STANDARD, MapBase.TERRAIN)
         val START_ZOOM_RANGE = 8..16
         val FOCUS_ZOOM_RANGE = 14..18
         /** The car's choices, one name each; the phone can set anything within the ranges. */
         val START_ZOOM_PRESETS = listOf(9, 11, 13, 15, 16)
         val FOCUS_ZOOM_PRESETS = FOCUS_ZOOM_RANGE.toList()
     }
+}
+
+private const val HIKING_CREDIT = "Wanderrouten: © Waymarked Trails, © OpenStreetMap-Mitwirkende (CC BY-SA)"
+
+/** The licences ask for these credits to stay visible on the map. */
+@Serializable
+enum class MapBase(val label: String, val credit: String?) {
+    STANDARD("Standard", null),
+    TERRAIN("Gelände", "Kartendaten: © OpenStreetMap-Mitwirkende, SRTM | Kartendarstellung: © OpenTopoMap (CC-BY-SA)"),
+    SATELLITE("Satellit", "EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"),
+}
+
+/** One map view; phone and car each keep their own. */
+@Serializable
+data class MapSettings(val base: MapBase = MapBase.STANDARD, val hikingTrails: Boolean = false) {
+    val credits: List<String>
+        get() = listOfNotNull(base.credit, HIKING_CREDIT.takeIf { hikingTrails })
 }
 
 data class Settings(
@@ -40,6 +60,7 @@ data class Settings(
     val overpassEndpoint: String = "",
     val vehicle: VehicleProfile? = null,
     val car: CarSettings = CarSettings(),
+    val map: MapSettings = MapSettings(),
 ) {
     val effectiveOcmKey: String get() = ocmApiKey.ifBlank { BuildConfig.OCM_API_KEY }
     val overpassEndpoints: List<String>
@@ -59,6 +80,7 @@ class SettingsStore(private val context: Context) {
             overpassEndpoint = p[OVERPASS].orEmpty(),
             vehicle = p[VEHICLE]?.let { runCatching { json.decodeFromString<VehicleProfile>(it) }.getOrNull() },
             car = p[CAR]?.let { runCatching { json.decodeFromString<CarSettings>(it) }.getOrNull() } ?: CarSettings(),
+            map = p[MAP]?.let { runCatching { json.decodeFromString<MapSettings>(it) }.getOrNull() } ?: MapSettings(),
         )
     }
 
@@ -69,6 +91,7 @@ class SettingsStore(private val context: Context) {
             it[OVERPASS] = s.overpassEndpoint
             if (s.vehicle != null) it[VEHICLE] = json.encodeToString(s.vehicle) else it.remove(VEHICLE)
             it[CAR] = json.encodeToString(s.car)
+            it[MAP] = json.encodeToString(s.map)
         }
     }
 
@@ -78,5 +101,6 @@ class SettingsStore(private val context: Context) {
         val OVERPASS = stringPreferencesKey("overpass_endpoint")
         val VEHICLE = stringPreferencesKey("vehicle")
         val CAR = stringPreferencesKey("car")
+        val MAP = stringPreferencesKey("map")
     }
 }

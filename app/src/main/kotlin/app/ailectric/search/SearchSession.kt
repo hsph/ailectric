@@ -8,6 +8,7 @@ import app.ailectric.core.provider.ProviderException
 import app.ailectric.core.search.ChargerSearch
 import app.ailectric.core.search.SearchResult
 import app.ailectric.data.CarSettings
+import app.ailectric.data.MapSettings
 import app.ailectric.data.Settings
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
@@ -28,6 +29,7 @@ data class SearchState(
     val filter: StationFilter = StationFilter(),
     val locationPermission: Boolean = false,
     val car: CarSettings = CarSettings(),
+    val map: MapSettings = MapSettings(),
 )
 
 /** The single search state behind both the phone UI and the car screens. */
@@ -49,7 +51,7 @@ class SearchSession(
             if (!settingsLoaded) {
                 app.settings = app.settingsStore.load()
                 settingsLoaded = true
-                _state.update { it.copy(filter = app.settings.filter, car = app.settings.car) }
+                _state.update { it.copy(filter = app.settings.filter, car = app.settings.car, map = app.settings.map) }
             }
             val granted = app.locationSource.hasPermission()
             _state.update { it.copy(locationPermission = granted) }
@@ -87,9 +89,11 @@ class SearchSession(
         refresh()
     }
 
+    fun setMapView(view: MapSettings) = saveSettings(app.settings.copy(map = view))
+
     fun saveSettings(settings: Settings) {
         app.settings = settings
-        _state.update { it.copy(car = settings.car) }
+        _state.update { it.copy(car = settings.car, map = settings.map) }
         scope.launch { app.settingsStore.save(settings) }
     }
 

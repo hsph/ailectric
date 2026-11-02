@@ -21,7 +21,13 @@
 
 ## Backlog Oberfläche
 
+GPS-Spuren als Karte, als Ersatz für eine Beliebtheits-Heatmap. Die Strava-Heatmap scheidet aus, es gibt keine Lizenz für Dritte. OSM stellt hochgeladene Spuren als Kacheln bereit, aber ohne Sportart und ohne Aussage über Beliebtheit, der Schalter dürfte also nur „GPS-Spuren“ heißen. Vorher auf der echten Karte prüfen, ob die Dichte abseits der Städte reicht, und die Nutzungsbedingungen klären.
+
 Betreiberlogos in den Kacheln. Die Quellen liefern fast keine (bei NDW nur Q-Park und Tesla), also eine kleine Auswahl der häufigsten Betreiber fest in der App, zugeordnet über den Namen. Bei einer Veröffentlichung wären die Markenrechte zu klären.
+
+## Backlog Fahrzeugdaten
+
+Geschätzter SoC bei Ankunft am Lader, ausgehend vom aktuellen SoC (setzt Phase 5 voraus). Weitere Eingangswerte sind noch zu klären: am besten der Verbrauch der letzten Kilometer, falls das Auto ihn meldet, sonst Geschwindigkeit, Temperatur und Höhenunterschied. Der Wert wird in der Oberfläche als Schätzung bezeichnet.
 
 ## Länderabdeckung
 
@@ -38,8 +44,8 @@ Eine gute Abdeckung braucht je Land die nationale Quelle, OCM und OSM allein rei
 | Nr. | Kriterium | Stand |
 |---|---|---|
 | 1 | Projekt baut | erfüllt |
-| 2 | Installation auf Android-Gerät | erfüllt im Emulator |
-| 3 | Android Auto stellt die App dar | **offen**, DHU-Test braucht Google-Konto; Templates und Karten-Surface getestet |
+| 2 | Installation auf Android-Gerät | erfüllt auf dem Telefon |
+| 3 | Android Auto stellt die App dar | erfüllt in OpenHeadUnit auf dem Telefon; DHU-Matrix und echtes Fahrzeug offen |
 | 4 | Standort | erfüllt |
 | 5 | Stationen im Umkreis | erfüllt |
 | 6 | Karte | erfüllt |
@@ -53,4 +59,4 @@ Eine gute Abdeckung braucht je Land die nationale Quelle, OCM und OSM allein rei
 | 14 | Automatisierte Tests | erfüllt |
 | 15 | Anleitung | erfüllt |
 
-Weitere offene Punkte: Open Charge Map ist nur gegen die offizielle Spezifikation und Testdaten geprüft, nicht gegen die Live-API. Fußgängerrouting fehlt. Die Testdaten Skandinavien, Frankreich und Benelux stehen noch aus: Live geprüft wurden bisher München und Füssen.
+Weitere offene Punkte: Die Lizenzprüfung der Kartenebenen ist unvollständig: Der rechtsverbindliche Text von EOX und die Originalseite von Waymarked Trails sind ungelesen, die Angaben dazu stammen aus der EOX-Zusammenfassung und einem Suchergebnis. Waymarked Trails bittet um einen korrekten Referrer, den die App nicht sendet. Open Charge Map ist nur gegen die offizielle Spezifikation und Testdaten geprüft, nicht gegen die Live-API. Fußgängerrouting fehlt. Die Testdaten Skandinavien, Frankreich und Benelux stehen noch aus: Live geprüft wurden bisher München, Füssen und Vaals.

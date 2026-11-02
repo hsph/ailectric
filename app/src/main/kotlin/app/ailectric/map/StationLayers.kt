@@ -43,6 +43,7 @@ object StationLayers {
     const val STYLE_URL = "https://tiles.openfreemap.org/styles/liberty"
     const val STATION_LAYER = "stations-points"
     const val CLUSTER_LAYER = "stations-clusters"
+    const val TRAILS_LAYER = "trails-line"
     const val PROP_ID = "id"
     val DEFAULT_CENTER = GeoPoint(50.1, 9.0)
 
@@ -63,7 +64,7 @@ object StationLayers {
         style.addSource(GeoJsonSource(SELECTED, FeatureCollection.fromFeatures(emptyList())))
 
         style.addLayer(
-            LineLayer("trails-line", TRAILS).withProperties(
+            LineLayer(TRAILS_LAYER, TRAILS).withProperties(
                 lineColor(Color.rgb(196, 80, 20)), lineWidth(3f), lineOpacity(0.8f),
             ),
         )

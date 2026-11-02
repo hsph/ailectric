@@ -8,6 +8,7 @@ import androidx.car.app.model.ItemList
 import androidx.car.app.model.ListTemplate
 import androidx.car.app.model.Row
 import androidx.car.app.model.Template
+import androidx.car.app.model.Toggle
 import app.ailectric.app
 import app.ailectric.data.CarSettings
 import app.ailectric.data.CarTileSize
@@ -20,7 +21,10 @@ class SettingsCarScreen(carContext: CarContext) : Screen(carContext) {
     private val session = carContext.app.session
     private val car get() = session.state.value.car
 
-    private fun save(next: CarSettings) = session.saveSettings(carContext.app.settings.copy(car = next))
+    private fun save(next: CarSettings) {
+        session.saveSettings(carContext.app.settings.copy(car = next))
+        invalidate()
+    }
 
     private fun row(title: String, value: String, onClick: () -> Unit) =
         Row.Builder().setTitle(title).addText(value).setBrowsable(true).setOnClickListener(onClick).build()
@@ -55,6 +59,23 @@ class SettingsCarScreen(carContext: CarContext) : Screen(carContext) {
                     chooseZoom("Zoom bei Auswahl", CarSettings.FOCUS_ZOOM_PRESETS, c.focusZoom) { save(car.copy(focusZoom = it)) }
                 },
             )
+            .addItem(
+                row("Karte", c.map.base.label) {
+                    val bases = CarSettings.MAP_BASES
+                    screenManager.push(
+                        OptionCarScreen(carContext, "Karte", bases.map { it.label }, bases.indexOf(c.map.base).coerceAtLeast(0)) {
+                            save(car.copy(map = car.map.copy(base = bases[it])))
+                        },
+                    )
+                },
+            )
+            .addItem(
+                Row.Builder().setTitle("Wanderwege").addText("Bei näherem Zoom")
+                    .setToggle(
+                        Toggle.Builder { save(car.copy(map = car.map.copy(hikingTrails = it))) }
+                            .setChecked(c.map.hikingTrails).build(),
+                    ).build(),
+            )
             .build()
         return ListTemplate.Builder()
             .setHeader(Header.Builder().setTitle("Einstellungen").setStartHeaderAction(Action.BACK).build())
@@ -75,8 +96,9 @@ class OptionCarScreen(
         val items = ItemList.Builder()
         options.forEach { items.addItem(Row.Builder().setTitle(it).build()) }
         items.setSelectedIndex(selected).setOnSelectedListener {
-            onChoose(it)
+            // First back on the calling screen: it can only redraw itself once it is in front.
             screenManager.pop()
+            onChoose(it)
         }
         return ListTemplate.Builder()
             .setHeader(Header.Builder().setTitle(title).setStartHeaderAction(Action.BACK).build())

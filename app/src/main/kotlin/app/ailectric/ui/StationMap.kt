@@ -17,6 +17,8 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import app.ailectric.core.geo.GeoPoint
 import app.ailectric.core.search.StationHit
+import app.ailectric.data.MapSettings
+import app.ailectric.map.MapOverlays
 import app.ailectric.map.StationLayers
 import org.maplibre.android.camera.CameraPosition
 import org.maplibre.android.camera.CameraUpdateFactory
@@ -38,6 +40,7 @@ fun StationMap(
     hits: List<StationHit>,
     me: GeoPoint?,
     focus: GeoPoint?,
+    view: MapSettings,
     handle: MapHandle,
     onStationClick: (String) -> Unit,
     onUserMoved: () -> Unit,
@@ -96,6 +99,7 @@ fun StationMap(
     }
 
     LaunchedEffect(style, hits, me) { style?.let { StationLayers.update(it, hits, me) } }
+    LaunchedEffect(style, view) { style?.let { MapOverlays.apply(it, view) } }
     LaunchedEffect(focus) { focus?.let(handle::center) }
 
     AndroidView(factory = { mapView }, modifier = modifier)

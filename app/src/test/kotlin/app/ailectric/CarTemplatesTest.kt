@@ -40,6 +40,8 @@ import app.ailectric.core.search.Freshness
 import app.ailectric.core.search.SearchResult
 import app.ailectric.core.search.StationHit
 import app.ailectric.data.CarSettings
+import app.ailectric.data.MapBase
+import app.ailectric.data.MapSettings
 import app.ailectric.data.CarTileSize
 import app.ailectric.search.SearchState
 import app.ailectric.ui.Format
@@ -134,9 +136,21 @@ class CarTemplatesTest {
         assertThat(template.actionStrip!!.actions).hasSize(2)
     }
 
-    @Test fun `settings list the three values`() {
+    @Test fun `filter offers the steps of the colour legend as a menu`() {
+        assertThat(PowerGroup.FILTER_STEPS.map { it.filterLabel }).containsExactly("ab 23 kW", "ab 150 kW", "ab 300 kW").inOrder()
+        val row = (FilterCarScreen(context).onGetTemplate() as ListTemplate).singleList!!.items.first() as Row
+        assertThat(row.title.toString()).isEqualTo("Mindestleistung")
+        assertThat(row.isBrowsable).isTrue()
+    }
+
+    @Test fun `car map view offers no satellite`() {
+        assertThat(CarSettings.MAP_BASES).containsExactly(MapBase.STANDARD, MapBase.TERRAIN).inOrder()
+        assertThat(CarSettings().map).isEqualTo(MapSettings())
+    }
+
+    @Test fun `settings list their values`() {
         val rows = (SettingsCarScreen(context).onGetTemplate() as ListTemplate).singleList!!.items.map { (it as Row) }
-        assertThat(rows.map { it.title.toString() }).containsExactly("Kachelgröße", "Startzoom", "Zoom bei Auswahl").inOrder()
+        assertThat(rows.map { it.title.toString() }).containsExactly("Kachelgröße", "Startzoom", "Zoom bei Auswahl", "Karte", "Wanderwege").inOrder()
         assertThat(rows.first().texts.single().toString()).isEqualTo("Mittel")
         assertThat(rows[1].texts.single().toString()).isEqualTo("Stufe 13")
     }

@@ -22,7 +22,7 @@ echo "sdk.dir=$ANDROID_HOME" > local.properties
 
 ./gradlew :core:test :app:testDebugUnitTest   # JVM-Tests
 ./gradlew :app:assembleDebug                  # APK
-./gradlew :app:connectedDebugAndroidTest      # Karten-Rendering auf Gerät/Emulator
+./gradlew :app:connectedDebugAndroidTest      # Karten-Rendering auf dem Gerät
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 
@@ -38,4 +38,4 @@ OCM_API_KEY=...
 
 ## Android Auto testen
 
-Siehe [docs/ANDROID_AUTO.md](docs/ANDROID_AUTO.md#test-mit-der-desktop-head-unit).
+Siehe [docs/ANDROID_AUTO.md](docs/ANDROID_AUTO.md#test-mit-openheadunit). Getestet wird auf dem echten Telefon, Details in [docs/TESTING.md](docs/TESTING.md). `scripts/ask-phone.sh` fragt dort nach, bevor ein Test das Telefon übernimmt.

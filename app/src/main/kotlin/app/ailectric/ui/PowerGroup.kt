@@ -22,7 +22,13 @@ enum class PowerGroup(
     RAPID(150.0, "150–299", 0xFF2989B9.toInt(), Color.WHITE, 0xFF2989B9.toInt(), 0xFF1F678B.toInt()),
     ULTRA(300.0, "ab 300 kW", 0xFF6746A0.toInt(), Color.WHITE, 0xFF6746A0.toInt(), 0xFF4D3578.toInt());
 
+    /** As a minimum: the fastest stations stay in when asking for a fast one. */
+    val filterLabel: String get() = "ab ${fromKw.toInt()} kW"
+
     companion object {
+        /** "Bis 22" as a minimum would be the same as no filter. */
+        val FILTER_STEPS = listOf(FAST, RAPID, ULTRA)
+
         /** Slowest first, the unit comes last, and "?" stands apart at the end. */
         val LEGEND = entries.drop(1) + UNKNOWN
 

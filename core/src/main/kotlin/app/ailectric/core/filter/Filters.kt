@@ -58,7 +58,6 @@ data class StationFilter(
 
     companion object {
         const val DEFAULT_RADIUS_KM = 50.0
-        val POWER_PRESETS_KW = listOf(50, 100, 150, 200, 250, 300, 350)
     }
 }
 

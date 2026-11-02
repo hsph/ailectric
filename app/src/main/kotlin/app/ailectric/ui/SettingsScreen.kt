@@ -22,6 +22,7 @@ import androidx.compose.material3.SegmentedButtonDefaults
 import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Surface
+import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -39,6 +40,7 @@ import app.ailectric.app
 import app.ailectric.core.vehicle.VehicleProfile
 import app.ailectric.data.CarSettings
 import app.ailectric.data.CarTileSize
+import app.ailectric.data.MapSettings
 import app.ailectric.search.SearchSession
 
 @Composable
@@ -55,6 +57,8 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
     var tileSize by rememberSaveable { mutableStateOf(saved.car.tileSize) }
     var startZoom by rememberSaveable { mutableIntStateOf(saved.car.startZoom) }
     var focusZoom by rememberSaveable { mutableIntStateOf(saved.car.focusZoom) }
+    var carBase by rememberSaveable { mutableStateOf(saved.car.map.base) }
+    var carTrails by rememberSaveable { mutableStateOf(saved.car.map.hikingTrails) }
 
     val close = {
         fun number(s: String) = s.replace(',', '.').toDoubleOrNull()
@@ -66,7 +70,7 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
         session.saveSettings(
             app.settings.copy(
                 ocmApiKey = key.trim(), overpassEndpoint = overpass.trim(), vehicle = vehicle,
-                car = CarSettings(tileSize, startZoom, focusZoom),
+                car = CarSettings(tileSize, startZoom, focusZoom, MapSettings(carBase, carTrails)),
             ),
         )
         if (keyChanged) session.refresh()
@@ -96,6 +100,22 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
             ZoomSlider("Startzoom", startZoom, CarSettings.START_ZOOM_RANGE) { startZoom = it }
             ZoomSlider("Zoom bei Auswahl einer Station", focusZoom, CarSettings.FOCUS_ZOOM_RANGE) { focusZoom = it }
             Text("Größere Zahlen zeigen die Karte näher.", style = MaterialTheme.typography.bodySmall)
+            Spacer(Modifier.height(12.dp))
+            Text("Karte", style = MaterialTheme.typography.bodyMedium)
+            Spacer(Modifier.height(4.dp))
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+                CarSettings.MAP_BASES.forEachIndexed { i, base ->
+                    SegmentedButton(
+                        selected = carBase == base, onClick = { carBase = base },
+                        shape = SegmentedButtonDefaults.itemShape(i, CarSettings.MAP_BASES.size), icon = {},
+                    ) { Text(base.label) }
+                }
+            }
+            Row(Modifier.fillMaxWidth().padding(top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
+                Text("Wanderwege", Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+                Switch(carTrails, { carTrails = it })
+            }
+            Text("Im Auto erst bei näherem Zoom sichtbar.", style = MaterialTheme.typography.bodySmall)
             Heading("Datenquellen")
             OutlinedTextField(
                 key, { key = it }, Modifier.fillMaxWidth(), label = { Text("Open-Charge-Map-API-Schlüssel") },
@@ -120,6 +140,9 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
                     "und OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Wanderwege und POIs: © OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Karte: OpenFreeMap © OpenMapTiles, Daten von OpenStreetMap. Darstellung mit MapLibre.\n" +
+                    "Geländekarte: Kartendaten © OpenStreetMap-Mitwirkende, SRTM, Kartendarstellung © OpenTopoMap (CC-BY-SA).\n" +
+                    "Satellit: EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025), CC BY-NC-SA 4.0, nur nicht kommerziell.\n" +
+                    "Wanderrouten auf der Karte: © Waymarked Trails, © OpenStreetMap-Mitwirkende (CC BY-SA).\n" +
                     "Einstellungen und Standort bleiben auf dem Gerät. Für die Suche werden Koordinaten an die genannten Dienste gesendet.",
                 style = MaterialTheme.typography.bodySmall,
             )

@@ -14,6 +14,7 @@ import app.ailectric.core.filter.HikingFilter
 import app.ailectric.core.filter.StationFilter
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.CurrentType
+import app.ailectric.ui.PowerGroup
 
 /** Few, large choices for driving; the full filter lives on the phone and is shared with it. */
 class FilterCarScreen(carContext: CarContext) : Screen(carContext) {
@@ -25,9 +26,15 @@ class FilterCarScreen(carContext: CarContext) : Screen(carContext) {
         invalidate()
     }
 
-    private fun nextPower(current: Double?): Double? {
-        val steps = listOf<Double?>(null, 50.0, 150.0, 250.0, 350.0)
-        return steps[(steps.indexOf(current).coerceAtLeast(0) + 1) % steps.size]
+    /** A value set by an older version can lie between the steps; the one below it is marked. */
+    private fun choosePower(current: Double?) {
+        val steps = PowerGroup.FILTER_STEPS
+        val selected = steps.indexOfLast { it.fromKw <= (current ?: 0.0) } + 1
+        screenManager.push(
+            OptionCarScreen(carContext, "Mindestleistung", listOf("Alle") + steps.map { it.filterLabel }, selected) {
+                update(filter.copy(minPowerKw = steps.getOrNull(it - 1)?.fromKw))
+            },
+        )
     }
 
     private fun toggleRow(title: String, checked: Boolean, onChange: (Boolean) -> Unit) =
@@ -37,9 +44,8 @@ class FilterCarScreen(carContext: CarContext) : Screen(carContext) {
         val f = filter
         val items = ItemList.Builder()
             .addItem(
-                Row.Builder().setTitle("Mindestleistung: ${f.minPowerKw?.let { "${it.toInt()} kW" } ?: "alle"}")
-                    .addText("Tippen zum Wechseln")
-                    .setOnClickListener { update(f.copy(minPowerKw = nextPower(f.minPowerKw))) }
+                Row.Builder().setTitle("Mindestleistung").addText(f.minPowerKw?.let { "ab ${it.toInt()} kW" } ?: "Alle")
+                    .setBrowsable(true).setOnClickListener { choosePower(f.minPowerKw) }
                     .build(),
             )
             .addItem(
