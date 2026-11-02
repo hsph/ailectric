@@ -47,7 +47,7 @@ OCM ist die Hauptquelle, braucht aber einen Schlüssel und liefert keine Live-Be
 
 Kategorien sind Daten (`PoiCatalog`): Selektor plus optionale Marke. Supermärkte und Ketten brauchen dadurch keinen neuen Code; die Abfrage ist getestet, eine Oberfläche dafür gibt es noch nicht.
 
-Öffentliche Overpass-Server sind oft überlastet (im Test HTTP 502) und nennen als Zweck ausdrücklich menschliche Nutzung. Daher: mehrere Endpoints mit Fallback, höchstens 24 geprüfte Stationen je Suche, 30 Tage Cache, optionaler eigener Server.
+Öffentliche Overpass-Server sind oft überlastet (im Test HTTP 502) und nennen als Zweck ausdrücklich menschliche Nutzung. Daher: mehrere Endpoints mit Fallback, höchstens 24 geprüfte Stationen je Suche, 30 Tage Cache, optionaler eigener Server. Die Wander-Abfrage nutzt eine gemeinsame Bounding Box mit typisierten Selektoren und prüft Entfernungen auf dem Gerät; je Station eine `around`-Abfrage wurde von Servern abgelehnt.
 
 ### ADR 5: Datenmodell
 

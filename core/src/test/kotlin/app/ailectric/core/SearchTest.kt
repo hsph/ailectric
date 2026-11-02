@@ -162,7 +162,7 @@ class SearchTest {
         val many = (0 until 30).map { near.copy(id = "s$it", location = GeoPoint(48.0 + it * 0.001, 11.0)) }
         val pois = FakePois { emptyList() }
         val r = search(pois, FakeStations("p", ok(*many.toTypedArray()))).search(center, StationFilter(hiking = HikingFilter()))
-        assertThat(pois.calls).isEqualTo(3)
+        assertThat(pois.calls).isEqualTo(2)
         assertThat(r.notices.joinToString()).contains("24 nächsten von 30")
     }
 }

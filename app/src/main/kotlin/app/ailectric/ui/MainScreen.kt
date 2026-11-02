@@ -212,8 +212,22 @@ private fun StatusLine(state: SearchState) {
                 color = if (state.error != null) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.onSurfaceVariant,
             )
         }
-        r?.notices?.forEach {
-            Text(it, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.tertiary)
+        Notices(r?.notices.orEmpty())
+    }
+}
+
+/** One line while driving past it; the map matters more than a list of caveats. */
+@Composable
+private fun Notices(notices: List<String>) {
+    if (notices.isEmpty()) return
+    var expanded by rememberSaveable { mutableStateOf(false) }
+    val shown = if (expanded || notices.size == 1) notices else listOf("${notices.first()} (+${notices.size - 1})")
+    Column(Modifier.fillMaxWidth().clickable(enabled = notices.size > 1) { expanded = !expanded }) {
+        shown.forEach {
+            Text(
+                it, style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.tertiary,
+                maxLines = if (expanded) 3 else 1, overflow = TextOverflow.Ellipsis,
+            )
         }
     }
 }

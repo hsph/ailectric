@@ -19,4 +19,24 @@
 | 6 | Routenplanung, eigene Navigation | später |
 | 7 | Weitere POIs, Kombination von Pause und Aktivität | Kategorien im Katalog, keine Oberfläche |
 
-Offen im MVP: siehe [TESTING.md](TESTING.md).
+## Definition of Done
+
+| Nr. | Kriterium | Stand |
+|---|---|---|
+| 1 | Projekt baut | erfüllt |
+| 2 | Installation auf Android-Gerät | erfüllt im Emulator |
+| 3 | Android Auto stellt die App dar | **offen**, DHU-Test braucht Google-Konto; Templates und Karten-Surface getestet |
+| 4 | Standort | erfüllt |
+| 5 | Stationen im Umkreis | erfüllt |
+| 6 | Karte | erfüllt |
+| 7 | Filter | erfüllt, per Tests; in der Oberfläche nur Schnellfilter durchgespielt |
+| 8 | Stationsdetails | erfüllt |
+| 9 | Übergabe an Google Maps | erfüllt auf dem Telefon, Auto-Weg nur per Test |
+| 10 | Wanderwege aus OSM | erfüllt |
+| 11 | Wander- und Stationsfilter kombiniert | erfüllt |
+| 12 | Ohne Fahrzeugprofil | erfüllt |
+| 13 | Fehlende Echtzeitdaten korrekt | erfüllt |
+| 14 | Automatisierte Tests | erfüllt |
+| 15 | Anleitung | erfüllt |
+
+Weitere offene Punkte: Open Charge Map ist nur gegen die offizielle Spezifikation und Testdaten geprüft, nicht gegen die Live-API. Fußgängerrouting fehlt. Die Testdaten Skandinavien, Frankreich und Benelux stehen noch aus: Live geprüft wurden bisher München und Füssen.

@@ -239,6 +239,16 @@ class ProviderTest {
         assertThat(pois.first { it.id == "osm:relation/3496074" }.hiking!!.lengthMeters).isNull()
     }
 
+    @Test fun `hiking query is one box per group and routes have their own limit`() {
+        val q = buildOverpassPoiQuery(
+            listOf(GeoPoint(47.56, 10.75), GeoPoint(47.60, 10.80)), 2000, PoiCatalog.HIKING,
+        )
+        assertThat(q).doesNotContain("around")
+        assertThat(q).contains("""rel["route"="hiking"](""")
+        assertThat(q.indexOf("300;")).isLessThan(q.indexOf("1200;"))
+        assertThat(Regex("out body geom").findAll(q).count()).isEqualTo(2)
+    }
+
     @Test fun `viewpoint is a point poi without trail details`() {
         val p = osmPoi(
             OverpassElement("node", 9, 48.0, 11.0, tags = mapOf("tourism" to "viewpoint")), PoiCatalog.HIKING,

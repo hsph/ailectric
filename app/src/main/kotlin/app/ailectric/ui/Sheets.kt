@@ -34,8 +34,10 @@ import app.ailectric.core.filter.AvailabilityFilter
 import app.ailectric.core.filter.HikingFilter
 import app.ailectric.core.filter.NearbyPoi
 import app.ailectric.core.filter.StationFilter
+import app.ailectric.core.model.Availability
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.CurrentType
+import app.ailectric.core.model.OperationalStatus
 import app.ailectric.core.model.PoiCatalog
 import app.ailectric.core.search.StationHit
 import app.ailectric.map.Navigation
@@ -80,11 +82,11 @@ fun StationDetailSheet(hit: StationHit, onDismiss: () -> Unit) {
             Info("Koordinaten", String.format(Locale.ROOT, "%.5f, %.5f", s.location.lat, s.location.lon))
             Info("Max. Leistung", s.maxPowerKw?.let { "${it.toInt()} kW" })
             Info("Ladepunkte", s.pointCount?.toString())
-            Info("Belegung", Format.availability(s.availability))
-            Info("Status", Format.status(s.status))
+            Info("Belegung", Format.availability(s.availability).takeIf { s.availability != Availability.UNKNOWN })
+            Info("Status", Format.status(s.status).takeIf { s.status != OperationalStatus.UNKNOWN })
             Info("Öffnungszeiten", s.openingHours)
             Info("Preise", s.pricing)
-            Info("Zugang", s.access)
+            Info("Zugang", Format.access(s.access))
             Info("Aktualisiert", s.lastUpdated?.take(10))
             if (s.devices.isNotEmpty()) {
                 Section("Ladepunkte")

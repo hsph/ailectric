@@ -18,7 +18,8 @@ object Http {
 
     fun client(): OkHttpClient = OkHttpClient.Builder()
         .connectTimeout(10, TimeUnit.SECONDS)
-        .readTimeout(45, TimeUnit.SECONDS)
+        // Overpass answers wide searches after 50 s on a busy day, plus its own queue.
+        .readTimeout(90, TimeUnit.SECONDS)
         .build()
 }
 

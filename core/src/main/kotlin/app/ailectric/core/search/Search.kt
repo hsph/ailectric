@@ -170,7 +170,7 @@ class ChargerSearch(
 
     companion object {
         const val MAX_STATIONS_CHECKED = 24
-        const val BATCH_SIZE = 8
+        const val BATCH_SIZE = 12
         /** Always the largest filter preset, so changing the filter needs no new request. */
         const val SEARCH_RADIUS_M = 2000
         const val POI_MAX_AGE_MS = 30L * 24 * 60 * 60 * 1000

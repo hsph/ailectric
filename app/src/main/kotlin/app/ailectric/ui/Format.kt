@@ -30,6 +30,15 @@ object Format {
         OperationalStatus.UNKNOWN -> "Betriebsstatus $UNKNOWN"
     }
 
+    /** OSM's `access` values; OCM already sends readable text, which passes through. */
+    fun access(raw: String?) = when (raw) {
+        "yes", "public" -> "öffentlich"
+        "customers" -> "nur für Kunden"
+        "permissive" -> "geduldet"
+        "private", "no" -> "privat"
+        else -> raw
+    }
+
     fun freshness(f: Freshness) = when (f) {
         Freshness.LIVE_FETCH -> "aktuell geladen"
         Freshness.CACHED -> "aus dem Cache"

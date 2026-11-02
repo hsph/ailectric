@@ -8,25 +8,25 @@ data class PoiCategory(
     val id: String,
     val group: String,
     val label: String,
-    /** Overpass tag filters, e.g. `["tourism"="viewpoint"]`, applied to node/way/relation. */
+    /** Overpass selectors with element type: `nwr` where the type varies, narrower ones are much cheaper. */
     val osmSelectors: List<String>,
     /** Restrict to these brands (matched on `brand`), e.g. a single supermarket chain. */
     val brands: Set<String> = emptySet(),
 )
 
 object PoiCatalog {
-    val HIKING_ROUTE = PoiCategory("hiking.route", "Freizeit", "Wanderweg", listOf("""["route"="hiking"]"""))
-    val HIKING_PATH = PoiCategory("hiking.path", "Freizeit", "Wanderpfad", listOf("""["highway"="path"]["name"]"""))
-    val TRAILHEAD = PoiCategory("hiking.trailhead", "Freizeit", "Wanderweg-Einstieg", listOf("""["highway"="trailhead"]"""))
-    val HIKING_PARKING = PoiCategory("hiking.parking", "Freizeit", "Wanderparkplatz", listOf("""["amenity"="parking"]["hiking"="yes"]"""))
-    val VIEWPOINT = PoiCategory("nature.viewpoint", "Freizeit", "Aussichtspunkt", listOf("""["tourism"="viewpoint"]"""))
-    val PEAK = PoiCategory("nature.peak", "Freizeit", "Gipfel", listOf("""["natural"="peak"]["name"]"""))
+    val HIKING_ROUTE = PoiCategory("hiking.route", "Freizeit", "Wanderweg", listOf("""rel["route"="hiking"]"""))
+    val HIKING_PATH = PoiCategory("hiking.path", "Freizeit", "Wanderpfad", listOf("""way["highway"="path"]["name"]"""))
+    val TRAILHEAD = PoiCategory("hiking.trailhead", "Freizeit", "Wanderweg-Einstieg", listOf("""node["highway"="trailhead"]"""))
+    val HIKING_PARKING = PoiCategory("hiking.parking", "Freizeit", "Wanderparkplatz", listOf("""nwr["amenity"="parking"]["hiking"="yes"]"""))
+    val VIEWPOINT = PoiCategory("nature.viewpoint", "Freizeit", "Aussichtspunkt", listOf("""node["tourism"="viewpoint"]"""))
+    val PEAK = PoiCategory("nature.peak", "Freizeit", "Gipfel", listOf("""node["natural"="peak"]["name"]"""))
 
-    val SUPERMARKET = PoiCategory("shop.supermarket", "Einkaufen", "Supermarkt", listOf("""["shop"="supermarket"]"""))
-    val CAFE = PoiCategory("food.cafe", "Gastronomie", "Café", listOf("""["amenity"="cafe"]"""))
-    val RESTAURANT = PoiCategory("food.restaurant", "Gastronomie", "Restaurant", listOf("""["amenity"="restaurant"]"""))
-    val BAKERY = PoiCategory("food.bakery", "Gastronomie", "Bäckerei", listOf("""["shop"="bakery"]"""))
-    val TOILET = PoiCategory("infra.toilet", "Infrastruktur", "Öffentliche Toilette", listOf("""["amenity"="toilets"]"""))
+    val SUPERMARKET = PoiCategory("shop.supermarket", "Einkaufen", "Supermarkt", listOf("""nwr["shop"="supermarket"]"""))
+    val CAFE = PoiCategory("food.cafe", "Gastronomie", "Café", listOf("""nwr["amenity"="cafe"]"""))
+    val RESTAURANT = PoiCategory("food.restaurant", "Gastronomie", "Restaurant", listOf("""nwr["amenity"="restaurant"]"""))
+    val BAKERY = PoiCategory("food.bakery", "Gastronomie", "Bäckerei", listOf("""nwr["shop"="bakery"]"""))
+    val TOILET = PoiCategory("infra.toilet", "Infrastruktur", "Öffentliche Toilette", listOf("""nwr["amenity"="toilets"]"""))
 
     fun supermarket(brand: String) = SUPERMARKET.copy(id = "shop.supermarket.$brand", label = brand, brands = setOf(brand))
 

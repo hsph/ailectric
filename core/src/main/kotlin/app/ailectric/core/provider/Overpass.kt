@@ -191,21 +191,27 @@ class OverpassPoiProvider(
     }
 }
 
-/** Long trails are clipped to this box, otherwise one E-path alone is megabytes of geometry. */
+/** Search area. Long trails are clipped to it, or one E-path alone is megabytes of geometry. */
 private fun queryBox(points: List<GeoPoint>, radiusMeters: Int): BoundingBox =
     points.map { BoundingBox.around(it, radiusMeters + 500.0) }.reduce(BoundingBox::union)
 
+/**
+ * One box around all points, with distances checked on the device: a separate `around` per point
+ * and category gets rejected by busy servers. Limits are per group because Overpass prints nodes
+ * first, so a shared one would cut off the routes.
+ */
 internal fun buildOverpassPoiQuery(points: List<GeoPoint>, radiusMeters: Int, categories: List<PoiCategory>): String {
+    val b = queryBox(points, radiusMeters)
+    val box = "${b.south},${b.west},${b.north},${b.east}"
     val selectors = categories.flatMap { cat ->
         val brand = cat.brands.takeIf { it.isNotEmpty() }
             ?.joinToString("|", prefix = """["brand"~"^(""", postfix = """)$"]""") { Regex.escape(it) }.orEmpty()
         cat.osmSelectors.map { it + brand }
     }
-    val around = points.joinToString("") { p ->
-        selectors.joinToString("") { s -> "nwr$s(around:$radiusMeters,${p.lat},${p.lon});" }
-    }
-    val b = queryBox(points, radiusMeters)
-    return "[out:json][timeout:40];($around);out body geom(${b.south},${b.west},${b.north},${b.east}) 1500;"
+    val (routes, others) = selectors.partition { it.startsWith("rel") }
+    fun block(group: List<String>, limit: Int) =
+        if (group.isEmpty()) "" else "(${group.joinToString("") { "$it($box);" }});out body geom($box) $limit;"
+    return "[out:json][timeout:60];" + block(routes, 300) + block(others, 1200)
 }
 
 private fun PoiCategory.matches(t: Map<String, String>): Boolean = osmSelectors.any { sel ->
