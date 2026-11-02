@@ -94,7 +94,9 @@ class StationRepository(
             }
         }
         val covered = cache.coverages(provider.id)
-            .firstOrNull { policy.isCovered(center, radiusMeters, it, now()) }
+            .firstOrNull {
+                policy.isCovered(center, radiusMeters, it, now(), provider.maxAgeMillis ?: policy.maxAgeMillis)
+            }
         if (covered != null) {
             return Outcome(cache.stationsIn(provider.id, box), Freshness.CACHED, cache.wasTruncated(provider.id, covered))
         }
@@ -105,7 +107,7 @@ class StationRepository(
             Outcome(result.stations, Freshness.LIVE_FETCH, result.truncated)
         } catch (e: ProviderException) {
             // What we know is better than nothing, as long as we say so.
-            val stale = cache.stationsIn(provider.id, box)
+            val stale = cache.stationsIn(provider.id, box).map { it.withoutLiveStatus() }
             Outcome(stale, Freshness.STALE_OFFLINE.takeIf { stale.isNotEmpty() }, failure = e)
         }
     }

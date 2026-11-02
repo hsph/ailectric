@@ -1,0 +1,107 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "NL-NUO-c2bc1527-f44d-4739-9ce6-2d1a43fc8c60",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.010798,
+     50.772335
+    ]
+   },
+   "properties": {
+    "address": "Laatbankstraat 18",
+    "last_updated": "2026-11-02T14:29:26Z",
+    "open": false,
+    "cpo_id": "NUO",
+    "availabilities": [
+     {
+      "available": 2,
+      "connector_format": "SOCKET",
+      "connector_type": "IEC_62196_T2",
+      "power_max": 11040.0,
+      "power_type": "AC3",
+      "total": 2,
+      "tariff_ids": [
+       "2000025394-2000011292"
+      ]
+     }
+    ],
+    "country": "NLD",
+    "operator_name": "Vattenfall InCharge",
+    "owner_name": null,
+    "suboperator_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "NL-NUO-4074a8a4-5e21-4beb-9799-1cdccfebed6f",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.993782,
+     50.784397
+    ]
+   },
+   "properties": {
+    "address": "Van Thimusstraat 3",
+    "last_updated": "2026-11-01T06:26:46Z",
+    "open": false,
+    "cpo_id": "NUO",
+    "availabilities": [
+     {
+      "available": 2,
+      "connector_format": "SOCKET",
+      "connector_type": "IEC_62196_T2",
+      "power_max": 11040.0,
+      "power_type": "AC3",
+      "total": 2,
+      "tariff_ids": [
+       "2000025394-2000011292"
+      ]
+     }
+    ],
+    "country": "NLD",
+    "operator_name": "Vattenfall InCharge",
+    "owner_name": null,
+    "suboperator_name": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "NL-505-91053453",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.009819,
+     50.772518
+    ]
+   },
+   "properties": {
+    "address": "Leenheerstraat 31",
+    "last_updated": "2026-10-27T23:11:34Z",
+    "open": false,
+    "cpo_id": "505",
+    "availabilities": [
+     {
+      "available": 1,
+      "connector_format": "SOCKET",
+      "connector_type": "IEC_62196_T2",
+      "power_max": 11040.0,
+      "power_type": "AC3",
+      "total": 1,
+      "tariff_ids": [
+       "417371583"
+      ]
+     }
+    ],
+    "country": "NLD",
+    "operator_name": "50five",
+    "owner_name": "50five",
+    "suboperator_name": "50five"
+   }
+  }
+ ]
+}

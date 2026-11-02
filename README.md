@@ -30,7 +30,7 @@ Das Homebrew-JDK 21 ist für eine neuere macOS-Version gebaut und scheitert unte
 
 ## API-Schlüssel
 
-Die App läuft ohne Schlüssel und nutzt dann das mitgelieferte Ladesäulenregister (nur Deutschland) und OpenStreetMap. Für Europa einen kostenlosen Open-Charge-Map-Schlüssel eintragen: in der App unter Einstellungen, oder für Builds in `secrets.properties` (per `.gitignore` ausgeschlossen):
+Die App läuft ohne Schlüssel und nutzt dann das mitgelieferte Ladesäulenregister für Deutschland, NDW DOT-NL für die Niederlande und OpenStreetMap. Für das übrige Europa einen kostenlosen Open-Charge-Map-Schlüssel eintragen: in der App unter Einstellungen, oder für Builds in `secrets.properties` (per `.gitignore` ausgeschlossen):
 
 ```properties
 OCM_API_KEY=...

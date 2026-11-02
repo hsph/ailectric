@@ -194,7 +194,7 @@ fun FilterSheet(state: SearchState, onChange: (StationFilter) -> Unit, onDismiss
                 }
             }
             Text(
-                "Die aktuellen Datenquellen liefern keine Live-Belegung. „Frei“ zeigt daher keine Stationen.",
+                "Live-Belegung gibt es nur für die Niederlande. „Frei“ zeigt anderswo keine Stationen.",
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.tertiary,
             )
             Section("Suchradius: ${f.radiusKm.toInt()} km")

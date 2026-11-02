@@ -3,6 +3,7 @@ package app.ailectric
 import android.app.Application
 import android.content.Context
 import app.ailectric.core.provider.Http
+import app.ailectric.core.provider.NdwProvider
 import app.ailectric.core.provider.OpenChargeMapProvider
 import app.ailectric.core.provider.OsmStationProvider
 import app.ailectric.core.provider.OverpassPoiProvider
@@ -36,6 +37,7 @@ open class AilectricApplication : Application() {
         val stations = StationRepository(
             providers = listOf(
                 RegisterProvider(asset("stand.txt")?.trim(), ::asset),
+                NdwProvider(http),
                 OpenChargeMapProvider({ settings.effectiveOcmKey }, http),
                 OsmStationProvider(http, endpoints),
             ),

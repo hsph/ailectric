@@ -22,6 +22,8 @@ interface StationProvider {
     val id: String
     /** Answers from data on the device: never fails for lack of a network, needs no cache. */
     val local: Boolean get() = false
+    /** How long a stored answer stays valid, when shorter than the default of the cache policy. */
+    val maxAgeMillis: Long? get() = null
     suspend fun search(query: StationQuery): StationResult
 }
 

@@ -1,6 +1,7 @@
 package app.ailectric.core
 
 import app.ailectric.core.geo.GeoPoint
+import app.ailectric.core.model.Address
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.CurrentType
 import app.ailectric.core.model.OperationalStatus
@@ -80,6 +81,18 @@ class MergeTest {
         val close = at("osm:1", 52.5001, 13.4, null) // 11 m
         val away = at("osm:2", 52.5005, 13.4, null) // 55 m
         assertThat(mergeStations(listOf(listOf(a), listOf(close, away)))).containsExactly(a, away)
+    }
+
+    @Test fun `the same address is one site even if a source lists an old operator`() {
+        val ndw = at("ndw:1", 50.7725, 6.0107, "Vattenfall InCharge").copy(address = Address(street = "Beemderlaan 5"))
+        val ocm = at("ocm:1", 50.7728, 6.0107, "EVnetNL").copy(address = Address(street = "beemderlaan 5"))
+        assertThat(mergeStations(listOf(listOf(ndw), listOf(ocm)))).containsExactly(ndw)
+    }
+
+    @Test fun `a street without house number proves nothing`() {
+        val a = at("ndw:1", 50.7725, 6.0107, "Vattenfall InCharge").copy(address = Address(street = "Beemderlaan"))
+        val b = at("ocm:1", 50.7728, 6.0107, "EVnetNL").copy(address = Address(street = "Beemderlaan"))
+        assertThat(mergeStations(listOf(listOf(a), listOf(b)))).containsExactly(a, b)
     }
 
     @Test fun `stations within one source are never merged`() {

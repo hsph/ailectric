@@ -16,8 +16,14 @@ class SearchPolicy(
 ) {
     fun fetchRadius(requestedMeters: Double) = requestedMeters + marginMeters
 
-    fun isCovered(center: GeoPoint, radiusMeters: Double, coverage: Coverage, nowMillis: Long): Boolean {
-        if (nowMillis - coverage.fetchedAtMillis > maxAgeMillis) return false
+    fun isCovered(
+        center: GeoPoint,
+        radiusMeters: Double,
+        coverage: Coverage,
+        nowMillis: Long,
+        maxAge: Long = maxAgeMillis,
+    ): Boolean {
+        if (nowMillis - coverage.fetchedAtMillis > maxAge) return false
         return Geo.distanceMeters(center, coverage.center) + radiusMeters <= coverage.radiusMeters
     }
 }

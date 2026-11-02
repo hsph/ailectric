@@ -9,7 +9,7 @@ import app.ailectric.core.search.Freshness
 object Format {
     const val UNKNOWN = "unbekannt"
 
-    fun title(s: Station) = s.name ?: s.operator ?: s.address.street ?: "Ladestation"
+    fun title(s: Station) = s.name ?: s.address.street ?: s.operator ?: "Ladestation"
 
     fun power(s: Station) = s.maxPowerKw?.let { "${it.toInt()} kW" } ?: "Leistung $UNKNOWN"
 
@@ -20,6 +20,7 @@ object Format {
         Availability.AVAILABLE -> "frei"
         Availability.OCCUPIED -> "belegt"
         Availability.OUT_OF_ORDER -> "außer Betrieb"
+        Availability.NOT_FREE -> "nicht frei"
         Availability.UNKNOWN -> "Belegung $UNKNOWN"
     }
 

@@ -19,16 +19,23 @@ private val OPERATOR_NOISE = setOf(
     "smarter", "living", "services", "service", "solutions", "ladestation", "ladestationen",
 )
 
+/** "Beemderlaan 5" and "beemderlaan  5": null without a house number, a street alone proves nothing. */
+private fun streetKey(street: String?): String? =
+    street?.lowercase()?.filter { it.isLetterOrDigit() }?.takeIf { key -> key.any { it.isDigit() } }
+
 private fun operatorTokens(operator: String?) =
     operator.orEmpty().lowercase().split(Regex("[^\\p{L}\\p{N}]+")).filterTo(hashSetOf()) { it.length > 1 && it !in OPERATOR_NOISE }
 
 private class Entry(val station: Station) {
     val tokens = operatorTokens(station.operator)
+    val street = streetKey(station.address.street)
 }
 
 private fun isDuplicate(a: Entry, b: Entry): Boolean {
     val meters = Geo.distanceMeters(a.station.location, b.station.location)
     return when {
+        // Sources lag behind when a site changes hands, so the operators may disagree here.
+        a.street != null && a.street == b.street -> meters <= SAME_OPERATOR_M
         a.tokens.isEmpty() || b.tokens.isEmpty() -> meters <= SAME_SPOT_M
         a.tokens.any { it in b.tokens } -> meters <= SAME_OPERATOR_M
         else -> false

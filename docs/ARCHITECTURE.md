@@ -41,7 +41,7 @@ Im Auto hostet eine `Presentation` auf einem `VirtualDisplay` über dem Surface 
 
 ### ADR 3: Ladestationen von Open Charge Map, OSM als Fallback
 
-OCM ist die Hauptquelle, braucht aber einen Schlüssel und liefert keine Live-Belegung. OSM (`amenity=charging_station`) springt ohne Schlüssel oder bei OCM-Ausfall ein, sodass die App immer nutzbar ist. Quellen werden nicht vermischt: Eine Station je Quelle würde sonst doppelt erscheinen, und eine Dublettenerkennung wäre für das MVP unverhältnismäßig.
+Alle Quellen laufen parallel und werden zusammengeführt (Regeln in `DATA_SOURCES.md`). Eine einzelne Quelle reicht nicht: Der Vergleich mit dem Ladesäulenregister und NDW zeigte große Lücken bei OCM und OSM. Eine Quelle kann ausfallen, ohne die Suche zu stoppen.
 
 ### ADR 4: POI-Daten von OSM über Overpass, Endpoint konfigurierbar
 

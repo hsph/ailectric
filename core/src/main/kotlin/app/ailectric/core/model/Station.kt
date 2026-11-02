@@ -22,7 +22,14 @@ enum class CurrentType { AC, DC, UNKNOWN }
 
 /** Live state of a charge point. Only a real-time source may report anything but [UNKNOWN]. */
 @Serializable
-enum class Availability { AVAILABLE, OCCUPIED, OUT_OF_ORDER, UNKNOWN }
+enum class Availability {
+    AVAILABLE,
+    OCCUPIED,
+    OUT_OF_ORDER,
+    /** Not free, for sources that don't say whether it is in use or broken. */
+    NOT_FREE,
+    UNKNOWN,
+}
 
 /** Long-lived state from the static registry. "Operational" does not mean "free right now". */
 @Serializable
@@ -97,7 +104,15 @@ data class Station(
                 Availability.AVAILABLE in all -> Availability.AVAILABLE
                 all.isEmpty() || Availability.UNKNOWN in all -> Availability.UNKNOWN
                 Availability.OCCUPIED in all -> Availability.OCCUPIED
+                Availability.NOT_FREE in all -> Availability.NOT_FREE
                 else -> Availability.OUT_OF_ORDER
             }
         }
+
+    /** For anything shown from an old copy: a stored "free" says nothing about now. */
+    fun withoutLiveStatus() = copy(
+        devices = devices.map { d ->
+            d.copy(connectors = d.connectors.map { it.copy(availability = Availability.UNKNOWN) })
+        },
+    )
 }
