@@ -40,6 +40,7 @@ class RegisterTest {
         assertThat(s.status).isEqualTo(OperationalStatus.NOT_OPERATIONAL)
         assertThat(s.maxPowerKw).isNull()
         assertThat(s.pricing).isNull()
+        assertThat(s.freePoints).isNull()
         assertThat(s.connectors.single().type).isEqualTo(ConnectorType.OTHER)
     }
 

@@ -8,6 +8,7 @@ import app.ailectric.core.provider.OpenChargeMapProvider
 import app.ailectric.core.provider.OsmStationProvider
 import app.ailectric.core.provider.OverpassPoiProvider
 import app.ailectric.core.provider.RegisterProvider
+import app.ailectric.core.provider.SwissProvider
 import app.ailectric.core.search.ChargerSearch
 import app.ailectric.core.search.StationRepository
 import app.ailectric.data.AppDatabase
@@ -38,6 +39,7 @@ open class AilectricApplication : Application() {
             providers = listOf(
                 RegisterProvider(asset("stand.txt")?.trim(), ::asset),
                 NdwProvider(http),
+                SwissProvider(http),
                 OpenChargeMapProvider({ settings.effectiveOcmKey }, http),
                 OsmStationProvider(http, endpoints),
             ),

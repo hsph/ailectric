@@ -1,0 +1,567 @@
+{
+ "EVSEData": [
+  {
+   "OperatorID": "CH*CCC",
+   "OperatorName": "Move",
+   "EVSEDataRecord": [
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E22944",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E22944",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    },
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17.00 - 8.00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E22943",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E22943",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    },
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E20815",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E20815",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    },
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E20817",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E20817",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    },
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E20816",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E20816",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    },
+    {
+     "Accessibility": "Paying publicly accessible",
+     "AccessibilityLocation": "OnStreet",
+     "Address": {
+      "City": "Bern",
+      "Country": "CHE",
+      "PostalCode": "3014",
+      "Street": "Papiermühlestrasse",
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null,
+      "ParkingFacility": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "NFC RFID DESFire",
+      "Direct Payment",
+      "REMOTE"
+     ],
+     "CalibrationLawDataAvailability": "Not Available",
+     "ChargingFacilities": [
+      {
+       "Amperage": "16",
+       "Voltage": "230",
+       "power": "11.0",
+       "powertype": "AC_3_PHASE"
+      }
+     ],
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "fr",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "de",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      },
+      {
+       "lang": "it",
+       "value": "ewb - Wankdorf Parkplatz - zugänglich 17:00 - 8:00"
+      }
+     ],
+     "DynamicInfoAvailable": "true",
+     "EvseID": "CH*CCI*E20818",
+     "GeoCoordinates": {
+      "Google": "46.963821 7.466938"
+     },
+     "HotlinePhoneNumber": "+41800292929",
+     "IsHubjectCompatible": true,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "Type 2 Outlet"
+     ],
+     "RenewableEnergy": false,
+     "ValueAddedServices": [
+      "None"
+     ],
+     "ChargingStationId": "CH*CCI*E20818",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    }
+   ]
+  },
+  {
+   "OperatorID": "CH*FASTNED",
+   "OperatorName": "Fastned",
+   "EVSEDataRecord": [
+    {
+     "EvseID": "CHFASE4150402",
+     "Accessibility": "Free publicly accessible",
+     "Address": {
+      "City": "Zizers",
+      "Country": "CHE",
+      "Street": "Rastplatz Apfelwuhr Nord A13",
+      "HouseNum": "n/a",
+      "PostalCode": "7205",
+      "ParkingFacility": true,
+      "Floor": null,
+      "Region": null,
+      "ParkingSpot": null
+     },
+     "AuthenticationModes": [
+      "NFC RFID Classic",
+      "REMOTE",
+      "Direct Payment"
+     ],
+     "PaymentOptions": [
+      "Direct",
+      "Contract"
+     ],
+     "ChargingStationId": "50819",
+     "ChargingStationNames": [
+      {
+       "lang": "en",
+       "value": "Apfelwuhr Nord"
+      }
+     ],
+     "DynamicInfoAvailable": "auto",
+     "GeoCoordinates": {
+      "Google": "46.95768 9.54895"
+     },
+     "HotlinePhoneNumber": "+41415391092",
+     "IsHubjectCompatible": false,
+     "IsOpen24Hours": true,
+     "Plugs": [
+      "CHAdeMO",
+      "CCS Combo 2 Plug (Cable Attached)"
+     ],
+     "ChargingFacilities": [
+      {
+       "Voltage": 400,
+       "power": 50,
+       "powertype": "DC"
+      },
+      {
+       "Voltage": 600,
+       "power": 300,
+       "powertype": "DC"
+      }
+     ],
+     "lastUpdate": "2024-10-03T09:21:47Z",
+     "ValueAddedServices": [
+      "None"
+     ],
+     "RenewableEnergy": true,
+     "CalibrationLawDataAvailability": "Not Available",
+     "AccessibilityLocation": "OnStreet",
+     "ClearinghouseID": null,
+     "OpeningTimes": null,
+     "GeoChargingPointEntrance": {
+      "Google": "None None"
+     },
+     "ChargingStationLocationReference": null,
+     "EnergySource": null,
+     "EnvironmentalImpact": null,
+     "LocationImage": null,
+     "SuboperatorName": null,
+     "MaxCapacity": null,
+     "AdditionalInfo": null,
+     "ChargingPoolID": null,
+     "DynamicPowerLevel": null,
+     "HardwareManufacturer": null,
+     "HubOperatorID": null
+    }
+   ]
+  }
+ ]
+}

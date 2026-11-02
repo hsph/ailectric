@@ -323,6 +323,13 @@ private fun StationRow(hit: StationHit, onClick: () -> Unit) {
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
         }
+        Format.free(s)?.let { free ->
+            Spacer(Modifier.width(12.dp))
+            Text(
+                free, style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold,
+                color = if (s.freePoints == 0) MaterialTheme.colorScheme.tertiary else MaterialTheme.colorScheme.primary,
+            )
+        }
     }
 }
 

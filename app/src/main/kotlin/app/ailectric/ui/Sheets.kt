@@ -82,7 +82,7 @@ fun StationDetailSheet(hit: StationHit, onDismiss: () -> Unit) {
             Info("Koordinaten", String.format(Locale.ROOT, "%.5f, %.5f", s.location.lat, s.location.lon))
             Info("Max. Leistung", s.maxPowerKw?.let { "${it.toInt()} kW" })
             Info("Ladepunkte", s.pointCount?.toString())
-            Info("Belegung", Format.availability(s.availability).takeIf { s.availability != Availability.UNKNOWN })
+            Info("Belegung", Format.free(s) ?: Format.availability(s.availability).takeIf { s.availability != Availability.UNKNOWN })
             Info("Status", Format.status(s.status).takeIf { s.status != OperationalStatus.UNKNOWN })
             Info("Öffnungszeiten", s.openingHours)
             Info("Preise", s.pricing)
@@ -194,7 +194,7 @@ fun FilterSheet(state: SearchState, onChange: (StationFilter) -> Unit, onDismiss
                 }
             }
             Text(
-                "Live-Belegung gibt es nur für die Niederlande. „Frei“ zeigt anderswo keine Stationen.",
+                "Live-Belegung gibt es für die Niederlande und die Schweiz. „Frei“ zeigt anderswo keine Stationen.",
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.tertiary,
             )
             Section("Suchradius: ${f.radiusKm.toInt()} km")

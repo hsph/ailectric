@@ -50,7 +50,9 @@ data class ChargingDevice(
     val reference: String? = null,
     val connectors: List<Connector>,
     val status: OperationalStatus = OperationalStatus.UNKNOWN,
-)
+) {
+    internal val hasLiveState get() = connectors.any { it.availability != Availability.UNKNOWN }
+}
 
 @Serializable
 data class Address(
@@ -96,6 +98,11 @@ data class Station(
 
     /** Null when no count is known at all, rather than a guessed 0. */
     val pointCount: Int? get() = declaredPoints ?: devices.size.takeIf { it > 0 }
+
+    /** Free charge points, null when the source reports no live state for any of them. */
+    val freePoints: Int?
+        get() = devices.takeIf { d -> d.any { it.hasLiveState } }
+            ?.count { d -> d.connectors.any { it.availability == Availability.AVAILABLE } }
 
     val availability: Availability
         get() {

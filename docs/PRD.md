@@ -19,6 +19,16 @@
 | 6 | Routenplanung, eigene Navigation | später |
 | 7 | Weitere POIs, Kombination von Pause und Aktivität | Kategorien im Katalog, keine Oberfläche |
 
+## Länderabdeckung
+
+Eine gute Abdeckung braucht je Land die nationale Quelle, OCM und OSM allein reichen nicht (Messwerte in `DATA_SOURCES.md`).
+
+| Welle | Länder | Stand |
+|---|---|---|
+| 1 | Deutschland, Niederlande, Schweiz | nationale Quelle eingebunden |
+| 1 | Frankreich, Belgien, Luxemburg, Österreich, Italien | nationale Quelle offen, bisher nur OCM und OSM |
+| 2 (Backlog) | Dänemark, Norwegen, Schweden, UK | nicht begonnen |
+
 ## Definition of Done
 
 | Nr. | Kriterium | Stand |

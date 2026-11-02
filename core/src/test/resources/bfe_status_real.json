@@ -1,0 +1,36 @@
+{
+ "EVSEStatuses": [
+  {
+   "EVSEStatusRecord": [
+    {
+     "EvseID": "CH*CCI*E20815",
+     "EVSEStatus": "Occupied"
+    },
+    {
+     "EvseID": "CH*CCI*E20816",
+     "EVSEStatus": "Occupied"
+    },
+    {
+     "EvseID": "CH*CCI*E20817",
+     "EVSEStatus": "Occupied"
+    },
+    {
+     "EvseID": "CH*CCI*E20818",
+     "EVSEStatus": "Available"
+    },
+    {
+     "EvseID": "CH*CCI*E22943",
+     "EVSEStatus": "Unknown"
+    },
+    {
+     "EvseID": "CH*CCI*E22944",
+     "EVSEStatus": "Unknown"
+    },
+    {
+     "EvseID": "CHFASE4150402",
+     "EVSEStatus": "Occupied"
+    }
+   ]
+  }
+ ]
+}

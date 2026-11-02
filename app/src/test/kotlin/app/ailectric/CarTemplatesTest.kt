@@ -20,6 +20,10 @@ import app.ailectric.core.geo.Distance
 import app.ailectric.core.geo.DistanceKind
 import app.ailectric.core.geo.GeoPoint
 import app.ailectric.core.model.Address
+import app.ailectric.core.model.ConnectorType
+import app.ailectric.core.model.Connector
+import app.ailectric.core.model.ChargingDevice
+import app.ailectric.core.model.Availability
 import app.ailectric.core.model.DataSource
 import app.ailectric.core.model.Station
 import app.ailectric.core.search.Freshness
@@ -54,6 +58,18 @@ class CarTemplatesTest {
         assertThat(text).contains("Belegung unbekannt")
         assertThat(text).contains("Adresse unbekannt")
         assertThat(template.pane.actions).hasSize(1)
+    }
+
+    @Test fun `free points show as a figure and only with live data`() {
+        val plug = Connector(ConnectorType.TYPE2, availability = Availability.AVAILABLE)
+        val busy = plug.copy(availability = Availability.NOT_FREE)
+        val live = sparse.copy(
+            station = sparse.station.copy(devices = listOf(ChargingDevice(connectors = listOf(plug)), ChargingDevice(connectors = listOf(busy)))),
+        )
+        val rows = (StationCarScreen(context, live).onGetTemplate() as PaneTemplate).pane.rows
+        assertThat(rows.joinToString { it.title.toString() }).contains("1 von 2 frei")
+        val unknown = (StationCarScreen(context, sparse).onGetTemplate() as PaneTemplate).pane.rows
+        assertThat(unknown.joinToString { it.title.toString() }).doesNotContain("frei")
     }
 
     @Test fun `filter screen stays within the host's list limit`() {

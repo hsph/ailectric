@@ -24,6 +24,9 @@ object Format {
         Availability.UNKNOWN -> "Belegung $UNKNOWN"
     }
 
+    /** "1 von 2 frei"; null without live data, so the absence of a figure never reads as a zero. */
+    fun free(s: Station): String? = s.freePoints?.let { "$it von ${s.devices.size} frei" }
+
     fun status(s: OperationalStatus) = when (s) {
         OperationalStatus.OPERATIONAL -> "in Betrieb"
         OperationalStatus.NOT_OPERATIONAL -> "nicht in Betrieb"

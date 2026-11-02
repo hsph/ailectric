@@ -132,6 +132,7 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
         val builder = Row.Builder()
             .setTitle(Format.title(s))
             .addText(distanceLine(hit))
+            .apply { Format.free(s)?.let(::addText) }
             .setBrowsable(true)
             .setOnClickListener { openDetail(hit) }
         if (placeMarkers) {
@@ -209,7 +210,7 @@ class StationCarScreen(carContext: CarContext, private val hit: StationHit) : Sc
         val pane = Pane.Builder()
             .addRow(Row.Builder().setTitle(Format.power(s)).addText(Format.plugs(s)).build())
             .addRow(
-                Row.Builder().setTitle(Format.availability(s.availability))
+                Row.Builder().setTitle(Format.free(s) ?: Format.availability(s.availability))
                     .addText("${s.pointCount?.let { "$it Ladepunkte" } ?: "Ladepunkte ${Format.UNKNOWN}"} · ${Format.status(s.status)}")
                     .build(),
             )

@@ -51,6 +51,7 @@ class NdwTest {
         assertThat(s.connectors.first().type).isEqualTo(ConnectorType.TYPE2)
         assertThat(s.connectors.first().currentType).isEqualTo(CurrentType.AC)
         assertThat(s.availability).isEqualTo(Availability.AVAILABLE)
+        assertThat(s.freePoints).isEqualTo(2)
         assertThat(s.pricing).isNull()
     }
 
@@ -61,6 +62,7 @@ class NdwTest {
         }
         val s = provider().search(StationQuery(vaals, 2_000.0)).stations.single()
         assertThat(s.availability).isEqualTo(Availability.NOT_FREE)
+        assertThat(s.freePoints).isEqualTo(0)
         assertThat(s.connectors.first().type).isEqualTo(ConnectorType.CCS2)
     }
 
@@ -138,5 +140,6 @@ class NdwTest {
         assertThat(live.calls).isEqualTo(2)
         assertThat(stale.freshness).isEqualTo(Freshness.STALE_OFFLINE)
         assertThat(stale.stations.single().availability).isEqualTo(Availability.UNKNOWN)
+        assertThat(stale.stations.single().freePoints).isNull()
     }
 }
