@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ailectric"
-include(":core")
+include(":core", ":app")

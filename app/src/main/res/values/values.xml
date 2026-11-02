@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ailectric</string>
+    <color name="brand">#00796B</color>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
