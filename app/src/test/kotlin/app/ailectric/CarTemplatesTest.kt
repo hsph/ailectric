@@ -107,10 +107,11 @@ class CarTemplatesTest {
         assertThat(intent.data.toString()).startsWith("geo:48.0,11.0?q=48.0,11.0")
     }
 
+    private val owner = object : LifecycleOwner {
+        override val lifecycle = LifecycleRegistry.createUnsafe(this)
+    }
+
     private fun home(hits: List<StationHit>): MainCarScreen {
-        val owner = object : LifecycleOwner {
-            override val lifecycle = LifecycleRegistry.createUnsafe(this)
-        }
         val screen = MainCarScreen(context, CarMapRenderer(context, owner.lifecycle))
         screen.state = SearchState(
             location = GeoPoint(48.0, 11.0), searchCenter = GeoPoint(48.0, 11.0), locationPermission = true,
