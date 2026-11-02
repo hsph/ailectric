@@ -75,4 +75,9 @@ dependencies {
     testImplementation(libs.car.app.testing)
     testImplementation(libs.androidx.test.core)
     testImplementation(libs.coroutines.test)
+
+    androidTestImplementation(libs.androidx.test.runner)
+    androidTestImplementation(libs.androidx.test.junit)
+    androidTestImplementation(libs.truth)
+    androidTestImplementation(libs.car.app.testing)
 }

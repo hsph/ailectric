@@ -5,7 +5,7 @@ import app.ailectric.core.model.Poi
 import app.ailectric.core.model.PoiCategory
 import app.ailectric.core.model.Station
 
-data class StationQuery(val center: GeoPoint, val radiusMeters: Double, val maxResults: Int = 500)
+data class StationQuery(val center: GeoPoint, val radiusMeters: Double, val maxResults: Int = 2000)
 
 data class StationResult(
     val stations: List<Station>,

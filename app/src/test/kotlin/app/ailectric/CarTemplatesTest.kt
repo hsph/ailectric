@@ -2,12 +2,19 @@ package app.ailectric
 
 import android.Manifest
 import android.content.Context
+import androidx.car.app.model.Action
 import androidx.car.app.model.ListTemplate
 import androidx.car.app.model.MessageTemplate
 import androidx.car.app.model.PaneTemplate
+import androidx.car.app.model.PlaceListMapTemplate
+import androidx.car.app.navigation.model.MapWithContentTemplate
 import androidx.car.app.testing.TestCarContext
+import androidx.lifecycle.LifecycleOwner
+import androidx.lifecycle.LifecycleRegistry
 import androidx.test.core.app.ApplicationProvider
+import app.ailectric.car.CarMapRenderer
 import app.ailectric.car.FilterCarScreen
+import app.ailectric.car.MainCarScreen
 import app.ailectric.car.StationCarScreen
 import app.ailectric.core.geo.Distance
 import app.ailectric.core.geo.DistanceKind
@@ -15,7 +22,10 @@ import app.ailectric.core.geo.GeoPoint
 import app.ailectric.core.model.Address
 import app.ailectric.core.model.DataSource
 import app.ailectric.core.model.Station
+import app.ailectric.core.search.Freshness
+import app.ailectric.core.search.SearchResult
 import app.ailectric.core.search.StationHit
+import app.ailectric.search.SearchState
 import app.ailectric.ui.Format
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
@@ -59,6 +69,43 @@ class CarTemplatesTest {
         assertThat(intent.data.toString()).startsWith("geo:48.0,11.0?q=48.0,11.0")
     }
 
+    private fun home(hits: List<StationHit>): MainCarScreen {
+        val owner = object : LifecycleOwner {
+            override val lifecycle = LifecycleRegistry.createUnsafe(this)
+        }
+        val screen = MainCarScreen(context, CarMapRenderer(context, owner.lifecycle))
+        screen.state = SearchState(
+            location = GeoPoint(48.0, 11.0), searchCenter = GeoPoint(48.0, 11.0), locationPermission = true,
+            result = SearchResult(hits, emptyList(), Freshness.LIVE_FETCH, false, emptyList(), emptyList()),
+        )
+        return screen
+    }
+
+    @Test @Config(application = TestApplication::class)
+    fun `home screen uses the app-drawn map with pan on Car API 7 and passes the host's constraints`() {
+        CarAppApiLevelTestSupport.set(context, 7)
+        val hits = List(30) { sparse.copy(station = sparse.station.copy(id = "t:$it")) }
+        val template = home(hits).onGetTemplate() as MapWithContentTemplate
+        assertThat(template.mapController!!.mapActionStrip!!.actions).contains(Action.PAN)
+        assertThat(template.mapController!!.mapActionStrip!!.actions.size).isAtMost(4)
+        val list = template.contentTemplate as ListTemplate
+        assertThat(list.singleList!!.items.size).isAtMost(12)
+    }
+
+    @Test fun `older hosts fall back to the host-rendered map`() {
+        CarAppApiLevelTestSupport.set(context, 6)
+        val template = home(listOf(sparse)).onGetTemplate()
+        assertThat(template).isInstanceOf(PlaceListMapTemplate::class.java)
+    }
+
+    @Test fun `no location and no search asks for permission`() {
+        val owner = object : LifecycleOwner {
+            override val lifecycle = LifecycleRegistry.createUnsafe(this)
+        }
+        val template = MainCarScreen(context, CarMapRenderer(context, owner.lifecycle)).onGetTemplate()
+        assertThat(template).isInstanceOf(MessageTemplate::class.java)
+    }
+
     @Test fun `format never presents missing values as data`() {
         assertThat(Format.power(sparse.station)).isEqualTo("Leistung unbekannt")
         assertThat(Format.plugs(sparse.station)).isEqualTo("Stecker unbekannt")
@@ -69,4 +116,13 @@ private object NoOpCallback : androidx.car.app.OnDoneCallback
 
 class TestApplication : AilectricApplication() {
     override fun initMapEngine() = Unit
+}
+
+/** CarContext has no public setter for the negotiated API level. */
+private object CarAppApiLevelTestSupport {
+    fun set(context: androidx.car.app.CarContext, level: Int) {
+        val field = androidx.car.app.CarContext::class.java.getDeclaredField("mCarAppApiLevel")
+        field.isAccessible = true
+        field.setInt(context, level)
+    }
 }

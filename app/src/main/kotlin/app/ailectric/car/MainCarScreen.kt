@@ -1,5 +1,6 @@
 package app.ailectric.car
 
+import androidx.annotation.VisibleForTesting
 import androidx.car.app.CarContext
 import androidx.car.app.CarToast
 import androidx.car.app.Screen
@@ -58,7 +59,7 @@ internal fun CarContext.navigateTo(hit: StationHit) {
 /** The car's list-and-map home screen. See docs/ANDROID_AUTO.md for why it looks this way. */
 class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer) : Screen(carContext) {
     private val session = carContext.app.session
-    private var state = SearchState()
+    @VisibleForTesting internal var state = SearchState()
 
     init {
         renderer.onStationClicked = { id -> state.result?.hits?.firstOrNull { it.station.id == id }?.let(::openDetail) }

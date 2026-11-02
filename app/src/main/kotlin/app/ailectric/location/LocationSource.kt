@@ -7,7 +7,6 @@ import android.content.pm.PackageManager
 import android.location.Location
 import android.location.LocationListener
 import android.location.LocationManager
-import android.os.Build
 import android.os.Looper
 import androidx.core.content.ContextCompat
 import app.ailectric.core.geo.GeoPoint
@@ -28,8 +27,17 @@ class LocationSource(private val context: Context) {
             return@callbackFlow
         }
         val manager = context.getSystemService(LocationManager::class.java)
-        val listener = LocationListener { l: Location -> trySend(GeoPoint(l.latitude, l.longitude)) }
-        val providers = usableProviders(manager)
+        // An object, not a lambda: below Android 11 the other listener methods are abstract.
+        val listener = object : LocationListener {
+            override fun onLocationChanged(l: Location) {
+                trySend(GeoPoint(l.latitude, l.longitude))
+            }
+            override fun onProviderEnabled(provider: String) = Unit
+            override fun onProviderDisabled(provider: String) = Unit
+            @Deprecated("Only called below Android 10")
+            override fun onStatusChanged(provider: String?, status: Int, extras: android.os.Bundle?) = Unit
+        }
+        val providers = providersToUse(manager.allProviders)
         providers.firstNotNullOfOrNull { runCatching { manager.getLastKnownLocation(it) }.getOrNull() }
             ?.let { trySend(GeoPoint(it.latitude, it.longitude)) }
         providers.forEach {
@@ -38,16 +46,17 @@ class LocationSource(private val context: Context) {
         awaitClose { manager.removeUpdates(listener) }
     }
 
-    private fun usableProviders(manager: LocationManager): List<String> {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S && manager.hasProvider(LocationManager.FUSED_PROVIDER)) {
-            return listOf(LocationManager.FUSED_PROVIDER)
-        }
-        return listOf(LocationManager.GPS_PROVIDER, LocationManager.NETWORK_PROVIDER)
-            .filter { it in manager.allProviders }
-    }
+    companion object {
+        private const val FUSED = "fused"
 
-    private companion object {
-        const val UPDATE_INTERVAL_MS = 10_000L
-        const val UPDATE_DISTANCE_M = 200f
+        /**
+         * All of them, because a provider can exist yet be disabled (fused without Google location
+         * accuracy) and then never deliver. Requests on a disabled provider just stay inactive.
+         */
+        fun providersToUse(available: List<String>): List<String> =
+            listOf(FUSED, LocationManager.GPS_PROVIDER, LocationManager.NETWORK_PROVIDER).filter { it in available }
+
+        private const val UPDATE_INTERVAL_MS = 10_000L
+        private const val UPDATE_DISTANCE_M = 200f
     }
 }

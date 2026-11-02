@@ -1,6 +1,5 @@
 package app.ailectric.core
 
-import app.ailectric.core.geo.BoundingBox
 import app.ailectric.core.geo.GeoPoint
 import app.ailectric.core.model.Availability
 import app.ailectric.core.model.ConnectorType
@@ -11,7 +10,7 @@ import app.ailectric.core.provider.OpenChargeMapProvider
 import app.ailectric.core.provider.OsmStationProvider
 import app.ailectric.core.provider.OverpassElement
 import app.ailectric.core.provider.OverpassMember
-import app.ailectric.core.provider.OverpassBounds
+import app.ailectric.core.provider.OverpassPoiProvider
 import app.ailectric.core.provider.OverpassPoint
 import app.ailectric.core.provider.ProviderException
 import app.ailectric.core.provider.StationQuery
@@ -167,7 +166,6 @@ class ProviderTest {
         assertThat(din33466Minutes(8000.0, 600.0)).isEqualTo(180)
     }
 
-    private val box = BoundingBox(47.0, 10.0, 49.0, 12.0)
     private val loop = listOf(
         OverpassPoint(48.0, 11.0), OverpassPoint(48.0, 11.02), OverpassPoint(48.01, 11.02), OverpassPoint(48.0, 11.0),
     )
@@ -175,11 +173,11 @@ class ProviderTest {
     @Test fun `trail inside the query box gets measured length and loop detection`() {
         val p = osmPoi(
             OverpassElement(
-                "relation", 5, bounds = OverpassBounds(48.0, 11.0, 48.01, 11.02),
+                "relation", 5,
                 tags = mapOf("route" to "hiking", "name" to "Rundweg", "network" to "lwn"),
                 members = listOf(OverpassMember("way", loop)),
             ),
-            PoiCatalog.HIKING, box,
+            PoiCatalog.HIKING,
         )!!
         assertThat(p.categoryId).isEqualTo(PoiCatalog.HIKING_ROUTE.id)
         assertThat(p.hiking!!.lengthMeters).isNotNull()
@@ -189,23 +187,61 @@ class ProviderTest {
         assertThat(p.hiking!!.estimatedMinutes).isNotNull()
     }
 
-    @Test fun `clipped trail reports neither a length nor a loop`() {
+    @Test fun `way outside the box means clipped - no length or loop from a fragment`() {
         val p = osmPoi(
             OverpassElement(
-                "relation", 6, bounds = OverpassBounds(40.0, 5.0, 55.0, 20.0),
-                tags = mapOf("route" to "hiking", "name" to "E5"),
-                members = listOf(OverpassMember("way", loop)),
+                "relation", 6, tags = mapOf("route" to "hiking", "name" to "E5"),
+                members = listOf(OverpassMember("way", loop), OverpassMember("way", null)),
             ),
-            PoiCatalog.HIKING, box,
+            PoiCatalog.HIKING,
         )!!
         assertThat(p.hiking!!.lengthMeters).isNull()
         assertThat(p.hiking!!.roundTrip).isNull()
         assertThat(p.hiking!!.estimatedMinutes).isNull()
     }
 
+    @Test fun `tagged length still counts for a clipped trail`() {
+        val p = osmPoi(
+            OverpassElement(
+                "relation", 7, tags = mapOf("route" to "hiking", "distance" to "492", "roundtrip" to "no"),
+                members = listOf(OverpassMember("way", loop + null)),
+            ),
+            PoiCatalog.HIKING,
+        )!!
+        assertThat(p.hiking!!.lengthMeters).isEqualTo(492_000.0)
+        assertThat(p.hiking!!.lengthDerived).isFalse()
+        assertThat(p.hiking!!.roundTrip).isFalse()
+    }
+
+    @Test fun `gaps from clipped geometry split the line instead of failing the response`() = runTest {
+        respond(
+            """{"elements":[{"type":"relation","id":8,"tags":{"route":"hiking","name":"Fernweg"},
+            "members":[{"type":"way","ref":1,"role":"","geometry":[
+              {"lat":48.0,"lon":11.0},{"lat":48.0,"lon":11.01},null,null,{"lat":48.1,"lon":11.1},{"lat":48.1,"lon":11.11},null]}]}]}""",
+        )
+        val p = OverpassPoiProvider(endpoints = { listOf(server.url("/a").toString()) })
+            .near(listOf(GeoPoint(48.0, 11.0)), 2000, PoiCatalog.HIKING)
+            .single()
+        assertThat(p.geometry).hasSize(2)
+        assertThat(p.hiking!!.lengthMeters).isNull()
+    }
+
+    /** Recorded from overpass-api.de near Füssen: five long-distance trails clipped to a box. */
+    @Test fun `real overpass response parses and never measures a fragment`() = runTest {
+        respond(javaClass.getResource("/overpass_hiking_real.json")!!.readText())
+        val pois = OverpassPoiProvider(endpoints = { listOf(server.url("/a").toString()) })
+            .near(listOf(GeoPoint(47.5596, 10.7498)), 2000, PoiCatalog.HIKING)
+        assertThat(pois).hasSize(5)
+        assertThat(pois.all { it.geometry.isNotEmpty() && it.hiking!!.signposted }).isTrue()
+        val romantic = pois.first { it.id == "osm:relation/149865" }.hiking!!
+        assertThat(romantic.lengthMeters).isEqualTo(492_000.0)
+        assertThat(romantic.lengthDerived).isFalse()
+        assertThat(pois.first { it.id == "osm:relation/3496074" }.hiking!!.lengthMeters).isNull()
+    }
+
     @Test fun `viewpoint is a point poi without trail details`() {
         val p = osmPoi(
-            OverpassElement("node", 9, 48.0, 11.0, tags = mapOf("tourism" to "viewpoint")), PoiCatalog.HIKING, box,
+            OverpassElement("node", 9, 48.0, 11.0, tags = mapOf("tourism" to "viewpoint")), PoiCatalog.HIKING,
         )!!
         assertThat(p.categoryId).isEqualTo(PoiCatalog.VIEWPOINT.id)
         assertThat(p.hiking).isNull()
@@ -217,7 +253,7 @@ class ProviderTest {
         assertThat(q).contains("Lidl")
         val p = osmPoi(
             OverpassElement("node", 3, 48.0, 11.0, tags = mapOf("shop" to "supermarket", "brand" to "Aldi")),
-            listOf(PoiCatalog.supermarket("Lidl")), box,
+            listOf(PoiCatalog.supermarket("Lidl")),
         )
         assertThat(p).isNull()
     }

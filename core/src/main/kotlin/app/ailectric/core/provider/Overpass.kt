@@ -27,9 +27,7 @@ private val OSM_SOURCE = DataSource("OpenStreetMap", "© OpenStreetMap-Mitwirken
 @Serializable internal data class OverpassResponse(val elements: List<OverpassElement> = emptyList())
 @Serializable internal data class OverpassPoint(val lat: Double? = null, val lon: Double? = null)
 @Serializable
-internal data class OverpassBounds(val minlat: Double, val minlon: Double, val maxlat: Double, val maxlon: Double)
-@Serializable
-internal data class OverpassMember(val type: String? = null, val geometry: List<OverpassPoint>? = null)
+internal data class OverpassMember(val type: String? = null, val geometry: List<OverpassPoint?>? = null)
 @Serializable
 internal data class OverpassElement(
     val type: String,
@@ -37,12 +35,22 @@ internal data class OverpassElement(
     val lat: Double? = null,
     val lon: Double? = null,
     val center: OverpassPoint? = null,
-    val bounds: OverpassBounds? = null,
     val tags: Map<String, String> = emptyMap(),
-    val geometry: List<OverpassPoint>? = null,
+    /** `geom(bbox)` puts null where a node lies outside the box. */
+    val geometry: List<OverpassPoint?>? = null,
     val members: List<OverpassMember>? = null,
 ) {
     val point get() = GeoPoint.orNull(lat ?: center?.lat, lon ?: center?.lon)
+
+    /**
+     * False once `geom(bbox)` cut anything off: a way outside the box has no geometry at all and
+     * one crossing it has null gaps. `bounds` can't tell, as it describes the clipped result.
+     */
+    val geometryComplete: Boolean
+        get() {
+            val parts = members?.filter { it.type == "way" }?.map { it.geometry } ?: listOf(geometry)
+            return parts.isNotEmpty() && parts.all { !it.isNullOrEmpty() && null !in it }
+        }
     val osmId get() = "osm:$type/$id"
 }
 
@@ -179,7 +187,7 @@ class OverpassPoiProvider(
     override suspend fun near(points: List<GeoPoint>, radiusMeters: Int, categories: List<PoiCategory>): List<Poi> {
         if (points.isEmpty() || categories.isEmpty()) return emptyList()
         val query = buildOverpassPoiQuery(points, radiusMeters, categories)
-        return overpass.run(query).elements.mapNotNull { osmPoi(it, categories, queryBox(points, radiusMeters)) }
+        return overpass.run(query).elements.mapNotNull { osmPoi(it, categories) }
     }
 }
 
@@ -205,15 +213,28 @@ private fun PoiCategory.matches(t: Map<String, String>): Boolean = osmSelectors.
         Regex("""\["([^"=]+)"]""").findAll(sel).all { it.groupValues[1] in t }
 } && (brands.isEmpty() || t["brand"] in brands)
 
-private fun List<OverpassPoint>.toGeo() = mapNotNull { GeoPoint.orNull(it.lat, it.lon) }
+/** Splits at the gaps of a clipped way, so no straight line is drawn across them. */
+private fun List<OverpassPoint?>.toLines(): List<List<GeoPoint>> {
+    val lines = mutableListOf<List<GeoPoint>>()
+    var current = mutableListOf<GeoPoint>()
+    for (point in this) {
+        val geo = point?.let { GeoPoint.orNull(it.lat, it.lon) }
+        if (geo != null) {
+            current += geo
+        } else {
+            if (current.size >= 2) lines += current
+            current = mutableListOf()
+        }
+    }
+    if (current.size >= 2) lines += current
+    return lines
+}
 
-internal fun osmPoi(e: OverpassElement, categories: List<PoiCategory>, box: BoundingBox): Poi? {
+internal fun osmPoi(e: OverpassElement, categories: List<PoiCategory>): Poi? {
     val category = categories.firstOrNull { it.matches(e.tags) } ?: return null
     val lines = buildList {
-        e.geometry?.toGeo()?.takeIf { it.size >= 2 }?.let(::add)
-        e.members.orEmpty().filter { it.type == "way" }.forEach { m ->
-            m.geometry?.toGeo()?.takeIf { it.size >= 2 }?.let(::add)
-        }
+        e.geometry?.let { addAll(it.toLines()) }
+        e.members.orEmpty().filter { it.type == "way" }.forEach { m -> m.geometry?.let { addAll(it.toLines()) } }
     }
     val location = e.point ?: lines.firstOrNull()?.firstOrNull() ?: return null
     val trail = category.id == PoiCatalog.HIKING_ROUTE.id || category.id == PoiCatalog.HIKING_PATH.id
@@ -224,7 +245,7 @@ internal fun osmPoi(e: OverpassElement, categories: List<PoiCategory>, box: Boun
         location = location,
         geometry = lines,
         brand = e.tags["brand"],
-        hiking = if (trail) hikingDetails(e, lines, box) else null,
+        hiking = if (trail) hikingDetails(e, lines) else null,
         source = OSM_SOURCE,
     )
 }
@@ -256,12 +277,9 @@ internal fun din33466Minutes(lengthMeters: Double, ascentMeters: Double?): Int {
     return (maxOf(horizontal, vertical) + minOf(horizontal, vertical) / 2).roundToInt()
 }
 
-private fun hikingDetails(e: OverpassElement, lines: List<List<GeoPoint>>, box: BoundingBox): HikingDetails {
+private fun hikingDetails(e: OverpassElement, lines: List<List<GeoPoint>>): HikingDetails {
     val t = e.tags
-    // Geometry is clipped to the query box, so it only measures trails fully inside the box.
-    val complete = e.bounds?.let {
-        box.contains(GeoPoint(it.minlat, it.minlon)) && box.contains(GeoPoint(it.maxlat, it.maxlon))
-    } ?: false
+    val complete = e.geometryComplete
     val tagged = parseOsmLengthMeters(t["distance"])
     val measured = if (complete && lines.isNotEmpty()) lines.sumOf(Geo::lengthMeters) else null
     val length = tagged ?: measured

@@ -60,6 +60,10 @@ class CarMapRenderer(
     val cameraCenter: GeoPoint?
         get() = map?.cameraPosition?.target?.let { GeoPoint.orNull(it.latitude, it.longitude.wrapLon()) }
 
+    val zoomLevel: Double? get() = map?.cameraPosition?.zoom
+
+    val styleLoaded: Boolean get() = style != null
+
     fun show(hits: List<StationHit>, me: GeoPoint?) {
         this.hits = hits
         this.me = me
