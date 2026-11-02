@@ -17,10 +17,15 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.SegmentedButton
+import androidx.compose.material3.SegmentedButtonDefaults
+import androidx.compose.material3.SingleChoiceSegmentedButtonRow
+import androidx.compose.material3.Slider
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -32,6 +37,8 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import app.ailectric.app
 import app.ailectric.core.vehicle.VehicleProfile
+import app.ailectric.data.CarSettings
+import app.ailectric.data.CarTileSize
 import app.ailectric.search.SearchSession
 
 @Composable
@@ -45,6 +52,9 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
     var battery by rememberSaveable { mutableStateOf(saved.vehicle?.batteryKwh?.toString().orEmpty()) }
     var maxCharge by rememberSaveable { mutableStateOf(saved.vehicle?.maxChargeKw?.toString().orEmpty()) }
     var consumption by rememberSaveable { mutableStateOf(saved.vehicle?.consumptionKwhPer100Km?.toString().orEmpty()) }
+    var tileSize by rememberSaveable { mutableStateOf(saved.car.tileSize) }
+    var startZoom by rememberSaveable { mutableIntStateOf(saved.car.startZoom) }
+    var focusZoom by rememberSaveable { mutableIntStateOf(saved.car.focusZoom) }
 
     val close = {
         fun number(s: String) = s.replace(',', '.').toDoubleOrNull()
@@ -53,7 +63,12 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
             consumptionKwhPer100Km = number(consumption),
         ).takeIf { it != VehicleProfile() }
         val keyChanged = key.trim() != saved.ocmApiKey
-        session.saveSettings(app.settings.copy(ocmApiKey = key.trim(), overpassEndpoint = overpass.trim(), vehicle = vehicle))
+        session.saveSettings(
+            app.settings.copy(
+                ocmApiKey = key.trim(), overpassEndpoint = overpass.trim(), vehicle = vehicle,
+                car = CarSettings(tileSize, startZoom, focusZoom),
+            ),
+        )
         if (keyChanged) session.refresh()
         onClose()
     }
@@ -65,6 +80,22 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
                 IconButton(onClick = close) { Icon(Icons.AutoMirrored.Default.ArrowBack, "Zurück") }
                 Text("Einstellungen", style = MaterialTheme.typography.titleLarge)
             }
+            Heading("Android Auto")
+            Text("Kachelgröße", style = MaterialTheme.typography.bodyMedium)
+            Spacer(Modifier.height(4.dp))
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+                CarTileSize.entries.forEachIndexed { i, size ->
+                    SegmentedButton(
+                        selected = tileSize == size, onClick = { tileSize = size },
+                        shape = SegmentedButtonDefaults.itemShape(i, CarTileSize.entries.size), icon = {},
+                    ) { Text(size.label) }
+                }
+            }
+            Spacer(Modifier.height(4.dp))
+            Text("Spaltenzahl und genaue Größe legt Android Auto fest.", style = MaterialTheme.typography.bodySmall)
+            ZoomSlider("Startzoom", startZoom, CarSettings.START_ZOOM_RANGE) { startZoom = it }
+            ZoomSlider("Zoom bei Auswahl einer Station", focusZoom, CarSettings.FOCUS_ZOOM_RANGE) { focusZoom = it }
+            Text("Größere Zahlen zeigen die Karte näher.", style = MaterialTheme.typography.bodySmall)
             Heading("Datenquellen")
             OutlinedTextField(
                 key, { key = it }, Modifier.fillMaxWidth(), label = { Text("Open-Charge-Map-API-Schlüssel") },
@@ -95,6 +126,16 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
             Spacer(Modifier.height(24.dp))
         }
     }
+}
+
+@Composable
+private fun ZoomSlider(label: String, value: Int, range: IntRange, onChange: (Int) -> Unit) {
+    Spacer(Modifier.height(12.dp))
+    Text("$label: $value", style = MaterialTheme.typography.bodyMedium)
+    Slider(
+        value = value.toFloat(), onValueChange = { onChange(Math.round(it)) },
+        valueRange = range.first.toFloat()..range.last.toFloat(), steps = range.last - range.first - 1,
+    )
 }
 
 @Composable

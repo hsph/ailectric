@@ -2,13 +2,15 @@ package app.ailectric.map
 
 import android.graphics.Color
 import app.ailectric.core.geo.GeoPoint
+import app.ailectric.core.model.Station
 import app.ailectric.core.search.StationHit
+import app.ailectric.ui.PowerGroup
+import org.maplibre.android.style.expressions.Expression.color
 import org.maplibre.android.style.expressions.Expression.get
 import org.maplibre.android.style.expressions.Expression.gte
 import org.maplibre.android.style.expressions.Expression.has
 import org.maplibre.android.style.expressions.Expression.literal
 import org.maplibre.android.style.expressions.Expression.not
-import org.maplibre.android.style.expressions.Expression.rgb
 import org.maplibre.android.style.expressions.Expression.step
 import org.maplibre.android.style.expressions.Expression.stop
 import org.maplibre.android.style.expressions.Expression.toNumber
@@ -47,6 +49,7 @@ object StationLayers {
     private const val STATIONS = "stations"
     private const val TRAILS = "trails"
     private const val ME = "me"
+    private const val SELECTED = "selected"
 
     fun install(style: Style) {
         style.addSource(
@@ -57,6 +60,7 @@ object StationLayers {
         )
         style.addSource(GeoJsonSource(TRAILS, FeatureCollection.fromFeatures(emptyList())))
         style.addSource(GeoJsonSource(ME, FeatureCollection.fromFeatures(emptyList())))
+        style.addSource(GeoJsonSource(SELECTED, FeatureCollection.fromFeatures(emptyList())))
 
         style.addLayer(
             LineLayer("trails-line", TRAILS).withProperties(
@@ -78,16 +82,22 @@ object StationLayers {
         style.addLayer(
             CircleLayer(STATION_LAYER, STATIONS).withFilter(not(has("point_count"))).withProperties(
                 circleRadius(9f),
-                circleStrokeColor(Color.WHITE), circleStrokeWidth(2f),
-                // Unknown power has its own colour so it can't be mistaken for slow charging.
-                circleColor(
-                    step(
-                        toNumber(get("power")), rgb(120, 120, 120),
-                        stop(0.01, rgb(46, 125, 50)),
-                        stop(50, rgb(2, 119, 189)),
-                        stop(150, rgb(106, 27, 154)),
-                    ),
-                ),
+                // Dark, because the brightest groups would vanish on the pale map behind a white ring.
+                circleStrokeColor(Color.rgb(20, 20, 20)), circleStrokeWidth(2f),
+                circleColor(powerColor()),
+            ),
+        )
+        // Like a selected radio button: larger, with a white centre, above everything but "me".
+        style.addLayer(
+            CircleLayer("selected-ring", SELECTED).withProperties(
+                circleRadius(17f), circleColor(powerColor()),
+                circleStrokeColor(Color.rgb(20, 20, 20)), circleStrokeWidth(2.5f),
+            ),
+        )
+        style.addLayer(
+            CircleLayer("selected-centre", SELECTED).withProperties(
+                circleRadius(7f), circleColor(Color.WHITE),
+                circleStrokeColor(Color.rgb(20, 20, 20)), circleStrokeWidth(1.5f),
             ),
         )
         style.addLayer(
@@ -98,16 +108,27 @@ object StationLayers {
         )
     }
 
+    /** Unknown power has its own colour so it can't be mistaken for slow charging. */
+    private fun powerColor() = step(
+        toNumber(get("power")), color(PowerGroup.UNKNOWN.color),
+        *PowerGroup.entries.drop(1).map { stop(it.fromKw, color(it.color)) }.toTypedArray(),
+    )
+
+    private fun Station.toFeature() = Feature.fromGeometry(location.toPoint()).apply {
+        addStringProperty(PROP_ID, id)
+        addNumberProperty("power", maxPowerKw ?: 0.0)
+    }
+
+    /** Marks one station on the map; null clears the mark. */
+    fun highlight(style: Style, station: Station?) {
+        style.getSourceAs<GeoJsonSource>(SELECTED)?.setGeoJson(
+            FeatureCollection.fromFeatures(listOfNotNull(station?.toFeature())),
+        )
+    }
+
     fun update(style: Style, hits: List<StationHit>, me: GeoPoint?) {
         style.getSourceAs<GeoJsonSource>(STATIONS)?.setGeoJson(
-            FeatureCollection.fromFeatures(
-                hits.map { hit ->
-                    Feature.fromGeometry(hit.station.location.toPoint()).apply {
-                        addStringProperty(PROP_ID, hit.station.id)
-                        addNumberProperty("power", hit.station.maxPowerKw ?: 0.0)
-                    }
-                },
-            ),
+            FeatureCollection.fromFeatures(hits.map { it.station.toFeature() }),
         )
         style.getSourceAs<GeoJsonSource>(TRAILS)?.setGeoJson(
             FeatureCollection.fromFeatures(

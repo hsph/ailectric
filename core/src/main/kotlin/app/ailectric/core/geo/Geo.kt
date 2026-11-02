@@ -94,10 +94,14 @@ object Geo {
 enum class DistanceKind { AIRLINE, DRIVING, WALKING }
 
 data class Distance(val meters: Double, val kind: DistanceKind) {
+    /** German-formatted value alone, for where the kind is already stated once for all. */
+    fun value(): String =
+        if (meters < 1000) "${meters.toInt()} m"
+        else String.format(java.util.Locale.GERMANY, "%.1f km", meters / 1000)
+
     /** German-formatted value including what kind of distance it is. */
     fun label(): String {
-        val value = if (meters < 1000) "${meters.toInt()} m"
-        else String.format(java.util.Locale.GERMANY, "%.1f km", meters / 1000)
+        val value = value()
         return when (kind) {
             DistanceKind.AIRLINE -> "$value Luftlinie"
             DistanceKind.DRIVING -> "$value Fahrstrecke"

@@ -1,7 +1,9 @@
 package app.ailectric
 
 import android.graphics.Bitmap
+import android.graphics.Color
 import android.graphics.PixelFormat
+import android.graphics.Rect
 import android.media.ImageReader
 import android.os.Handler
 import android.os.HandlerThread
@@ -14,6 +16,13 @@ import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
 import app.ailectric.car.CarMapRenderer
 import app.ailectric.core.geo.GeoPoint
+import app.ailectric.core.model.Address
+import app.ailectric.core.model.ChargingDevice
+import app.ailectric.core.model.Connector
+import app.ailectric.core.model.ConnectorType
+import app.ailectric.core.model.DataSource
+import app.ailectric.core.model.Station
+import app.ailectric.ui.PowerGroup
 import com.google.common.truth.Truth.assertThat
 import org.junit.After
 import org.junit.Before
@@ -84,6 +93,44 @@ class CarMapRendererTest {
         val colors = HashSet<Int>()
         for (y in 0 until height step 8) for (x in 0 until width step 8) colors += b.getPixel(x, y)
         return colors.size
+    }
+
+    @Test fun startsCenteredBesideThePanelAndKeepsItThroughThePanMode() {
+        await("style") { onMain { renderer.styleLoaded } }
+        main { renderer.onVisibleAreaChanged(Rect(400, 0, width, height)) }
+        SystemClock.sleep(500)
+        assertThat(onMain { renderer.centerOnSurface }!!.x).isWithin(2f).of(840f)
+        assertThat(onMain { renderer.zoomLevel }!!).isWithin(0.01).of(13.0)
+
+        main {
+            renderer.holdPosition()
+            renderer.onVisibleAreaChanged(Rect(0, 0, width, height))
+        }
+        SystemClock.sleep(500)
+        assertThat(onMain { renderer.centerOnSurface }!!.x).isWithin(2f).of(840f)
+    }
+
+    @Test fun selectedStationIsMarkedLikeARadioButton() {
+        await("style") { onMain { renderer.styleLoaded } }
+        val point = GeoPoint(48.137, 11.575)
+        val plug = Connector(ConnectorType.CCS2, powerKw = 350.0)
+        val station = Station(
+            id = "t:1", name = null, operator = null, address = Address(), location = point,
+            devices = listOf(ChargingDevice(connectors = listOf(plug))), source = DataSource("Test", "Test"),
+        )
+        main { renderer.focus(station) }
+        SystemClock.sleep(8_000) // Animation and tiles.
+        File(instrumentation.targetContext.getExternalFilesDir(null), "car_selected.png").outputStream().use {
+            latest.get()!!.compress(Bitmap.CompressFormat.PNG, 100, it)
+        }
+        val at = onMain { renderer.centerOnSurface }!!
+        fun pixel(dx: Int) = latest.get()!!.getPixel(at.x.toInt() + dx, at.y.toInt())
+        assertThat(pixel(0)).isEqualTo(Color.WHITE)
+        assertThat(pixel(12)).isEqualTo(PowerGroup.ULTRA.color)
+
+        main { renderer.unfocus() }
+        SystemClock.sleep(2_000)
+        assertThat(onMain { renderer.zoomLevel }!!).isWithin(0.01).of(13.0)
     }
 
     @Test fun rendersMapAndForwardsHostGestures() {

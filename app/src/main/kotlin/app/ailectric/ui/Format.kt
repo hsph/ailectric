@@ -5,13 +5,19 @@ import app.ailectric.core.model.OperationalStatus
 import app.ailectric.core.model.Station
 import app.ailectric.core.search.Freshness
 
-/** Texts shared by phone and car. Missing data always reads "unbekannt", never a guess. */
+/** Texts shared by phone and car. Missing data reads "unbekannt" or stays away, never a guess. */
 object Format {
     const val UNKNOWN = "unbekannt"
 
     fun title(s: Station) = s.name ?: s.address.street ?: s.operator ?: "Ladestation"
 
     fun power(s: Station) = s.maxPowerKw?.let { "${it.toInt()} kW" } ?: "Leistung $UNKNOWN"
+
+    /** The bare figure for tiles; "?" keeps unknown power from reading as a number. */
+    fun powerShort(s: Station) = s.maxPowerKw?.toInt()?.toString() ?: "?"
+
+    /** Operator first, it decides which card works; the name often is just the street. */
+    fun operatorAndTitle(s: Station) = listOfNotNull(s.operator, title(s)).distinct().joinToString(" · ")
 
     fun plugs(s: Station) =
         s.connectorTypes.joinToString(", ") { it.label }.ifBlank { "Stecker $UNKNOWN" }
@@ -27,11 +33,19 @@ object Format {
     /** "1 von 2 frei"; null without live data, so the absence of a figure never reads as a zero. */
     fun free(s: Station): String? = s.freePoints?.let { "$it von ${s.devices.size} frei" }
 
+    /** "1/4" for tiles; "–/4" without live data, so the absence of a figure never reads as a zero. */
+    fun freeShort(s: Station): String {
+        val free = s.freePoints
+        val total = if (free != null) s.devices.size else s.pointCount
+        return "${free ?: "–"}/${total ?: "–"}"
+    }
+
+    /** Null without a clear state: most sources don't report one, so a line about it is only noise. */
     fun status(s: OperationalStatus) = when (s) {
         OperationalStatus.OPERATIONAL -> "in Betrieb"
         OperationalStatus.NOT_OPERATIONAL -> "nicht in Betrieb"
         OperationalStatus.PLANNED -> "geplant"
-        OperationalStatus.UNKNOWN -> "Betriebsstatus $UNKNOWN"
+        OperationalStatus.UNKNOWN -> null
     }
 
     /** OSM's `access` values; OCM already sends readable text, which passes through. */

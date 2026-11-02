@@ -9,22 +9,22 @@
 | API-Verarbeitung, fehlende Daten, Schlüssel, Overpass-Ausfall, Lücken in Geometrie | `core`: `ProviderTest` |
 | Cache, GPS-unabhängige Suche, Offline, Provider-Wechsel, POI-Zuordnung | `core`: `SearchTest`, `CacheAndVehicleTest` |
 | Room | `app`: `RoomSearchCacheTest` |
-| Car-Templates, Host-Grenzen, Navigation-Intent, Fallback alter Hosts | `app`: `CarTemplatesTest` |
+| Car-Templates, Raster, Einklappen, Einstellungen, Host-Grenzen, Navigation-Intent, Fallback alter Hosts | `app`: `CarTemplatesTest` |
 | Standort-Provider | `app`: `LocationProvidersTest` |
-| Karte auf Car-Surface, Pan und Zoom (Gerät nötig) | `app`: `CarMapRendererTest` |
+| Karte auf Car-Surface, Pan und Zoom, Startposition neben dem Fenster, Markierung der gewählten Station (Gerät nötig) | `app`: `CarMapRendererTest` |
 
 ```sh
 ./gradlew :core:test :app:testDebugUnitTest
 ```
 
-Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abgestürztem Testlauf `BUILD SUCCESSFUL`, die Build-Zeile ist also kein Beleg. Maßgeblich ist `OK (1 test)`:
+Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abgestürztem Testlauf `BUILD SUCCESSFUL`, die Build-Zeile ist also kein Beleg. Maßgeblich ist `OK (3 tests)`:
 
 ```sh
 ./gradlew :app:installDebug :app:installDebugAndroidTest
 adb shell am instrument -w -e class app.ailectric.CarMapRendererTest app.ailectric.test/androidx.test.runner.AndroidJUnitRunner
 ```
 
-Der Test legt das gerenderte Bild unter `/sdcard/Android/data/app.ailectric/files/car_map.png` ab.
+Der Test legt die gerenderten Bilder unter `/sdcard/Android/data/app.ailectric/files/` ab: `car_map.png` mit Legende und `car_selected.png` mit markierter Station.
 
 Die Antwort in `core/src/test/resources/overpass_hiking_real.json` stammt vom echten Dienst. Sie hat zwei falsche Annahmen aufgedeckt: Abgeschnittene Geometrie enthält `null`-Lücken, und auch `bounds` ist abgeschnitten.
 
@@ -46,11 +46,11 @@ Die DHU-Profile liegen in `$ANDROID_HOME/extras/google/auto/config`, Aufruf mit 
 
 Je Profil prüfen:
 
-1. App startet, Standortabfrage funktioniert, Karte erscheint rechts neben der Liste.
+1. App startet, Standortabfrage funktioniert, Karte erscheint rechts neben dem Raster, der Startpunkt liegt mittig im freien Bereich.
 2. Karte verschieben und zoomen, im Pan-Modus und mit den Buttons.
 3. „Hier suchen“ lädt neue Stationen, die Standort-Schaltfläche kehrt zurück.
-4. Station antippen, Details vollständig, „unbekannt“ bei fehlenden Daten.
+4. Station antippen, die Karte zoomt hin und markiert sie, Details vollständig, „unbekannt“ bei fehlenden Daten. Zurück führt zur vorherigen Ansicht.
 5. „Navigieren“ öffnet die Navigations-App mit dem richtigen Ziel.
-6. Filter ändern, die Liste aktualisiert sich, Telefon zeigt denselben Stand.
+6. Filter ändern, das Raster aktualisiert sich, Telefon zeigt denselben Stand. Einstellungen im Auto ändern, Kachelgröße und Zoom folgen.
 7. Flugmodus: alte Daten sind als offline markiert, kein Absturz.
 8. Heller und dunkler Modus lesbar.

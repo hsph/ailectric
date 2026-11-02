@@ -4,7 +4,7 @@
 
 **Nutzer:** Privat, E-Auto-Fahrer auf längeren Strecken in Mittel- und Nordeuropa.
 
-**Prinzipien:** Einfach, schnell, ehrlich. Fehlende Daten werden gekennzeichnet, nie geschätzt ausgegeben. Berechnete Werte wie die Gehzeit nach DIN 33466 oder eine gemessene Länge werden als solche bezeichnet.
+**Prinzipien:** Einfach, schnell, ehrlich. Fehlende Daten werden gekennzeichnet, nie geschätzt ausgegeben. Ein unbekannter Betriebsstatus bleibt ausgeblendet, weil die meisten Quellen keinen melden. Berechnete Werte wie die Gehzeit nach DIN 33466 oder eine gemessene Länge werden als solche bezeichnet.
 
 ## Roadmap
 
@@ -15,9 +15,13 @@
 | 2 | Stationsdaten, Cache | fertig, OCM nur gegen Spezifikation getestet |
 | 3 | Filter, Oberfläche, Navigation | fertig |
 | 4 | Wandern und POIs | fertig bis auf Fußgängerrouting |
-| 5 | Fahrzeugdaten | Profil und Schnittstelle vorbereitet |
+| 5 | Fahrzeugdaten | nächste Stufe: Akkustand (SoC) aus dem Fahrzeug; Profil und Schnittstelle vorbereitet |
 | 6 | Routenplanung, eigene Navigation | später |
 | 7 | Weitere POIs, Kombination von Pause und Aktivität | Kategorien im Katalog, keine Oberfläche |
+
+## Backlog Oberfläche
+
+Betreiberlogos in den Kacheln. Die Quellen liefern fast keine (bei NDW nur Q-Park und Tesla), also eine kleine Auswahl der häufigsten Betreiber fest in der App, zugeordnet über den Namen. Bei einer Veröffentlichung wären die Markenrechte zu klären.
 
 ## Länderabdeckung
 

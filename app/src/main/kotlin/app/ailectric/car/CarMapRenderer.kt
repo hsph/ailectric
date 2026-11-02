@@ -1,13 +1,19 @@
 package app.ailectric.car
 
 import android.app.Presentation
+import android.content.Context
+import android.graphics.Color
 import android.graphics.PointF
 import android.graphics.Rect
+import android.graphics.drawable.GradientDrawable
 import android.hardware.display.DisplayManager
 import android.hardware.display.VirtualDisplay
 import android.view.Gravity
+import android.view.View
 import android.widget.FrameLayout
+import android.widget.LinearLayout
 import android.widget.TextView
+import androidx.annotation.VisibleForTesting
 import androidx.car.app.AppManager
 import androidx.car.app.CarContext
 import androidx.car.app.SurfaceCallback
@@ -16,8 +22,11 @@ import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleOwner
 import app.ailectric.core.geo.GeoPoint
+import app.ailectric.core.model.Station
+import app.ailectric.data.CarSettings
 import app.ailectric.core.search.StationHit
 import app.ailectric.map.StationLayers
+import app.ailectric.ui.PowerGroup
 import org.maplibre.android.camera.CameraPosition
 import org.maplibre.android.camera.CameraUpdateFactory
 import org.maplibre.android.geometry.LatLng
@@ -43,6 +52,11 @@ class CarMapRenderer(
     private var me: GeoPoint? = null
     private var pendingCenter: GeoPoint? = null
     private var visibleArea: Rect? = null
+    private var beforeFocus: CameraPosition? = null
+    private var selected: Station? = null
+    private var settings = CarSettings()
+    /** Until the driver moves the map, the start point follows the panel's edge. */
+    private var atStart = true
     private val pinch = PinchZoom()
 
     var onStationClicked: (String) -> Unit = {}
@@ -64,6 +78,24 @@ class CarMapRenderer(
 
     val styleLoaded: Boolean get() = style != null
 
+    /** Where the camera's target is drawn on the surface. */
+    @get:VisibleForTesting
+    val centerOnSurface: PointF? get() = map?.let { it.projection.toScreenLocation(it.cameraPosition.target!!) }
+
+    /** Takes effect at once, also when the stored values arrive after the map. */
+    fun apply(next: CarSettings) {
+        val zoomChanged = next.startZoom != settings.startZoom
+        settings = next
+        if (zoomChanged && beforeFocus == null) {
+            map?.animateCamera(CameraUpdateFactory.zoomTo(next.startZoom.toDouble()), ANIMATION_MS)
+        }
+    }
+
+    /** The host hides the panel in pan mode; the map must not jump when the area changes then. */
+    fun holdPosition() {
+        atStart = false
+    }
+
     fun show(hits: List<StationHit>, me: GeoPoint?) {
         this.hits = hits
         this.me = me
@@ -73,15 +105,32 @@ class CarMapRenderer(
     fun center(point: GeoPoint) {
         val m = map
         if (m == null) pendingCenter = point
-        else m.animateCamera(CameraUpdateFactory.newLatLngZoom(LatLng(point.lat, point.lon), SEARCH_ZOOM))
+        else m.animateCamera(CameraUpdateFactory.newLatLngZoom(LatLng(point.lat, point.lon), settings.startZoom.toDouble()))
     }
 
-    /** Brings a station into view at the zoom the driver chose. */
-    fun focus(point: GeoPoint) {
-        map?.animateCamera(CameraUpdateFactory.newLatLng(LatLng(point.lat, point.lon)), ANIMATION_MS)
+    /** Marks a station and zooms in on it, or only moves there if the driver is closer already. */
+    fun focus(station: Station) {
+        selected = station
+        style?.let { StationLayers.highlight(it, station) }
+        val m = map ?: return
+        atStart = false
+        val point = station.location
+        if (beforeFocus == null) beforeFocus = m.cameraPosition
+        val zoom = maxOf(m.cameraPosition.zoom, settings.focusZoom.toDouble())
+        m.animateCamera(CameraUpdateFactory.newLatLngZoom(LatLng(point.lat, point.lon), zoom), FOCUS_ANIMATION_MS)
+    }
+
+    /** Back to the overview the station was selected from. */
+    fun unfocus() {
+        selected = null
+        style?.let { StationLayers.highlight(it, null) }
+        val before = beforeFocus ?: return
+        beforeFocus = null
+        map?.animateCamera(CameraUpdateFactory.newCameraPosition(before), FOCUS_ANIMATION_MS)
     }
 
     fun zoomBy(delta: Double) {
+        atStart = false
         map?.animateCamera(CameraUpdateFactory.zoomBy(delta), ANIMATION_MS)
     }
 
@@ -106,9 +155,13 @@ class CarMapRenderer(
                 TextView(shown.context).apply {
                     text = "OpenFreeMap © OpenMapTiles © OpenStreetMap"
                     textSize = 9f
-                    setShadowLayer(3f, 0f, 0f, android.graphics.Color.WHITE)
+                    setShadowLayer(3f, 0f, 0f, Color.WHITE)
                 },
                 FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM or Gravity.END).apply { setMargins(0, 0, 8, 4) },
+            )
+            addView(
+                legend(shown.context),
+                FrameLayout.LayoutParams(-2, -2, Gravity.BOTTOM or Gravity.END).apply { setMargins(0, 0, 8, 32) },
             )
         }
         shown.setContentView(root)
@@ -119,12 +172,13 @@ class CarMapRenderer(
             pendingCenter = null
             m.setMinZoomPreference(MIN_ZOOM)
             m.setMaxZoomPreference(MAX_ZOOM)
-            m.cameraPosition = CameraPosition.Builder().target(LatLng(start.lat, start.lon)).zoom(SEARCH_ZOOM).build()
+            m.cameraPosition = CameraPosition.Builder().target(LatLng(start.lat, start.lon)).zoom(settings.startZoom.toDouble()).build()
             applyPadding()
             m.setStyle(StationLayers.STYLE_URL) { loaded ->
                 style = loaded
                 StationLayers.install(loaded)
                 StationLayers.update(loaded, hits, me)
+                StationLayers.highlight(loaded, selected)
             }
         }
         shown.show()
@@ -133,6 +187,37 @@ class CarMapRenderer(
         display = virtual
         presentation = shown
         mapView = view
+    }
+
+    /** Small and pale, so it explains the colours without competing with the map. */
+    private fun legend(context: Context) = LinearLayout(context).apply {
+        fun dp(value: Int) = (value * context.resources.displayMetrics.density).toInt()
+        gravity = Gravity.CENTER_VERTICAL
+        setPadding(dp(4), dp(3), dp(8), dp(3))
+        background = GradientDrawable().apply {
+            setColor(Color.argb(200, 255, 255, 255))
+            cornerRadius = dp(8).toFloat()
+        }
+        PowerGroup.LEGEND.forEach { group ->
+            addView(
+                View(context).apply {
+                    background = GradientDrawable().apply {
+                        shape = GradientDrawable.OVAL
+                        setColor(group.color)
+                        setStroke(1, Color.rgb(20, 20, 20))
+                    }
+                },
+                LinearLayout.LayoutParams(dp(10), dp(10)).apply { marginStart = dp(6) },
+            )
+            addView(
+                TextView(context).apply {
+                    text = group.label
+                    textSize = 11f
+                    setTextColor(Color.rgb(20, 20, 20))
+                },
+                LinearLayout.LayoutParams(-2, -2).apply { marginStart = dp(3) },
+            )
+        }
     }
 
     override fun onVisibleAreaChanged(visibleArea: Rect) {
@@ -144,18 +229,27 @@ class CarMapRenderer(
     private fun applyPadding() {
         val area = visibleArea ?: return
         val view = mapView ?: return
-        map?.setPadding(area.left, area.top, (view.width - area.right).coerceAtLeast(0), (view.height - area.bottom).coerceAtLeast(0))
+        val m = map ?: return
+        val right = (view.width - area.right).coerceAtLeast(0)
+        val bottom = (view.height - area.bottom).coerceAtLeast(0)
+        m.setPadding(area.left, area.top, right, bottom)
+        // setPadding only affects the next camera move, so the first position needs one of its own.
+        if (atStart) {
+            m.moveCamera(CameraUpdateFactory.paddingTo(area.left.toDouble(), area.top.toDouble(), right.toDouble(), bottom.toDouble()))
+        }
     }
 
     override fun onSurfaceDestroyed(container: SurfaceContainer) = release()
 
     override fun onScroll(distanceX: Float, distanceY: Float) {
+        atStart = false
         if (pinch.isPinching) return
         map?.scrollBy(-distanceX, -distanceY, 0)
     }
 
     /** Zooms around the map's centre: the focus point moves the camera with every event of a pinch. */
     override fun onScale(focusX: Float, focusY: Float, scaleFactor: Float) {
+        atStart = false
         map?.moveCamera(CameraUpdateFactory.zoomBy(pinch.zoomDelta(scaleFactor)))
     }
 
@@ -165,6 +259,7 @@ class CarMapRenderer(
     }
 
     private fun release() {
+        atStart = true
         style = null
         map = null
         mapView?.run {
@@ -182,10 +277,10 @@ class CarMapRenderer(
     private fun Double.wrapLon() = ((this + 540) % 360) - 180
 
     private companion object {
-        const val SEARCH_ZOOM = 9.0
         /** Further out a charger search means nothing, and it is how a pinch gets lost in Europe. */
         const val MIN_ZOOM = 5.0
         const val MAX_ZOOM = 18.0
         const val ANIMATION_MS = 200
+        const val FOCUS_ANIMATION_MS = 600
     }
 }

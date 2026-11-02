@@ -13,8 +13,9 @@ import androidx.car.app.model.CarLocation
 import androidx.car.app.model.Distance as CarDistance
 import androidx.car.app.model.DistanceSpan
 import androidx.car.app.model.Header
+import androidx.car.app.model.GridItem
+import androidx.car.app.model.GridTemplate
 import androidx.car.app.model.ItemList
-import androidx.car.app.model.ListTemplate
 import androidx.car.app.model.MessageTemplate
 import androidx.car.app.model.Metadata
 import androidx.car.app.model.Pane
@@ -37,7 +38,9 @@ import android.text.SpannableString
 import android.text.Spanned
 import app.ailectric.R
 import app.ailectric.app
+import app.ailectric.core.search.Freshness
 import app.ailectric.core.search.StationHit
+import app.ailectric.data.CarTileSize
 import app.ailectric.map.Navigation
 import app.ailectric.search.SearchState
 import app.ailectric.ui.Format
@@ -45,6 +48,8 @@ import kotlinx.coroutines.launch
 
 private const val MAP_TEMPLATE_API = 7
 private const val FALLBACK_LIST_LIMIT = 6
+/** Three by three, as far as a host shows that; also keeps the tile bitmaps within one binder call. */
+private const val MAX_GRID_ITEMS = 9
 
 internal fun CarContext.icon(res: Int) = CarIcon.Builder(IconCompat.createWithResource(this, res)).build()
 
@@ -56,6 +61,10 @@ internal fun CarContext.navigateTo(hit: StationHit) {
     startCarApp(intent)
 }
 
+/** The host can't hide the panel beside the map, so collapsing leaves a single row. */
+internal fun CarContext.collapseAction(collapsed: Boolean, onToggle: () -> Unit) =
+    iconAction(if (collapsed) R.drawable.ic_expand_more else R.drawable.ic_expand_less, onToggle)
+
 /** Pan and zoom, the same on every screen that shows the map. */
 internal fun CarContext.mapController(renderer: CarMapRenderer, extra: Action? = null): MapController {
     val strip = ActionStrip.Builder()
@@ -63,13 +72,15 @@ internal fun CarContext.mapController(renderer: CarMapRenderer, extra: Action? =
         .addAction(iconAction(R.drawable.ic_add) { renderer.zoomBy(1.0) })
         .addAction(iconAction(R.drawable.ic_remove) { renderer.zoomBy(-1.0) })
     extra?.let(strip::addAction)
-    return MapController.Builder().setMapActionStrip(strip.build()).setPanModeListener { }.build()
+    return MapController.Builder().setMapActionStrip(strip.build())
+        .setPanModeListener { renderer.holdPosition() }.build()
 }
 
 /** The car's list-and-map home screen. See docs/ANDROID_AUTO.md for why it looks this way. */
 class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer) : Screen(carContext) {
     private val session = carContext.app.session
     @VisibleForTesting internal var state = SearchState()
+    private var collapsed = false
 
     init {
         renderer.onStationClicked = { id -> state.result?.hits?.firstOrNull { it.station.id == id }?.let(::openDetail) }
@@ -80,6 +91,7 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
                         session.state.collect { s ->
                             val movedCenter = s.searchCenter != state.searchCenter
                             state = s
+                            renderer.apply(s.car)
                             renderer.show(s.result?.hits.orEmpty(), s.location)
                             if (movedCenter && !s.manualCenter) s.searchCenter?.let(renderer::center)
                             invalidate()
@@ -87,11 +99,13 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
                     }
                 }
             }
+
+            override fun onResume(owner: LifecycleOwner) = renderer.unfocus()
         })
     }
 
     private fun openDetail(hit: StationHit) {
-        renderer.focus(hit.station.location)
+        renderer.focus(hit.station)
         screenManager.push(StationCarScreen(carContext, hit, renderer))
     }
 
@@ -114,6 +128,11 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
             )
             .build()
 
+    private fun gridLimit(): Int =
+        carContext.getCarService(ConstraintManager::class.java)
+            .getContentLimit(ConstraintManager.CONTENT_LIMIT_TYPE_GRID)
+            .coerceIn(1, MAX_GRID_ITEMS)
+
     private fun listLimit(): Int =
         carContext.getCarService(ConstraintManager::class.java)
             .getContentLimit(ConstraintManager.CONTENT_LIMIT_TYPE_PLACE_LIST)
@@ -130,32 +149,58 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
         screenManager.push(FilterCarScreen(carContext))
     }
 
-    private fun itemList(placeMarkers: Boolean): ItemList? {
-        val hits = state.result?.hits?.take(listLimit()) ?: return null
+    private fun settingsAction() = carContext.iconAction(R.drawable.ic_settings) {
+        screenManager.push(SettingsCarScreen(carContext))
+    }
+
+    /** The tiles have no room for "Luftlinie" per distance, so the header says it once. */
+    private fun gridTitle(): String {
+        val r = state.result ?: return subtitle()
+        val lead = if (r.freshness == Freshness.STALE_OFFLINE) Format.freshness(r.freshness) else "${r.hits.size} Stationen"
+        return "$lead · Luftlinie"
+    }
+
+    private fun gridItems(): ItemList? {
+        val hits = state.result?.hits?.take(if (collapsed) 1 else gridLimit()) ?: return null
         val builder = ItemList.Builder()
         if (hits.isEmpty()) builder.setNoItemsMessage(state.error ?: "Keine Station passt zu den Filtern")
-        hits.forEachIndexed { index, hit -> builder.addItem(row(hit, index, placeMarkers)) }
+        hits.forEach { hit ->
+            builder.addItem(
+                GridItem.Builder()
+                    .setImage(ChargerTile.icon(hit.station), GridItem.IMAGE_TYPE_LARGE)
+                    .setTitle(hit.distance.value())
+                    .setText(Format.operatorAndTitle(hit.station))
+                    .setOnClickListener { openDetail(hit) }
+                    .build(),
+            )
+        }
         return builder.build()
     }
 
-    private fun row(hit: StationHit, index: Int, placeMarkers: Boolean): Row {
+    private fun placeItems(): ItemList? {
+        val hits = state.result?.hits?.take(listLimit()) ?: return null
+        val builder = ItemList.Builder()
+        if (hits.isEmpty()) builder.setNoItemsMessage(state.error ?: "Keine Station passt zu den Filtern")
+        hits.forEachIndexed { index, hit -> builder.addItem(row(hit, index)) }
+        return builder.build()
+    }
+
+    private fun row(hit: StationHit, index: Int): Row {
         val s = hit.station
-        val builder = Row.Builder()
+        return Row.Builder()
             .setTitle(Format.title(s))
             .addText(distanceLine(hit))
             .apply { Format.free(s)?.let(::addText) }
             .setBrowsable(true)
             .setOnClickListener { openDetail(hit) }
-        if (placeMarkers) {
-            builder.setMetadata(
+            .setMetadata(
                 Metadata.Builder().setPlace(
                     Place.Builder(CarLocation.create(s.location.lat, s.location.lon))
                         .setMarker(PlaceMarker.Builder().setLabel("${index + 1}").build())
                         .build(),
                 ).build(),
             )
-        }
-        return builder.build()
+            .build()
     }
 
     /** The span lets the host format the distance; "Luftlinie" stays part of the text. */
@@ -179,13 +224,23 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
                 renderer.cameraCenter?.let(session::searchAt)
             }
         }
-        val list = ListTemplate.Builder()
-            .setHeader(Header.Builder().setTitle(subtitle()).setStartHeaderAction(Action.APP_ICON).build())
-        val items = itemList(placeMarkers = false)
-        if (items == null) list.setLoading(true) else list.setSingleList(items)
+        val toggle = carContext.collapseAction(collapsed) {
+            collapsed = !collapsed
+            invalidate()
+        }
+        val size = when (state.car.tileSize) {
+            CarTileSize.SMALL -> GridTemplate.ITEM_SIZE_SMALL
+            CarTileSize.MEDIUM -> GridTemplate.ITEM_SIZE_MEDIUM
+            CarTileSize.LARGE -> GridTemplate.ITEM_SIZE_LARGE
+        }
+        val grid = GridTemplate.Builder().setItemSize(size).setHeader(
+            Header.Builder().setTitle(gridTitle()).setStartHeaderAction(Action.APP_ICON).addEndHeaderAction(toggle).build(),
+        )
+        val items = gridItems()
+        if (items == null) grid.setLoading(true) else grid.setSingleList(items)
         return MapWithContentTemplate.Builder()
-            .setContentTemplate(list.build())
-            .setActionStrip(ActionStrip.Builder().addAction(filterAction()).build())
+            .setContentTemplate(grid.build())
+            .setActionStrip(ActionStrip.Builder().addAction(filterAction()).addAction(settingsAction()).build())
             .setMapController(carContext.mapController(renderer, searchAction))
             .build()
     }
@@ -197,7 +252,7 @@ class MainCarScreen(carContext: CarContext, private val renderer: CarMapRenderer
             .setHeaderAction(Action.APP_ICON)
             .setActionStrip(ActionStrip.Builder().addAction(filterAction()).build())
             .setCurrentLocationEnabled(state.locationPermission)
-        val items = itemList(placeMarkers = true)
+        val items = placeItems()
         if (items == null) b.setLoading(true) else b.setItemList(items)
         return b.build()
     }
@@ -209,37 +264,53 @@ class StationCarScreen(
     private val hit: StationHit,
     private val renderer: CarMapRenderer? = null,
 ) : Screen(carContext) {
+    private var collapsed = false
+
     override fun onGetTemplate(): Template {
         val s = hit.station
+        val map = renderer?.takeIf { carContext.carAppApiLevel >= MAP_TEMPLATE_API }
         val pane = Pane.Builder()
             .addRow(Row.Builder().setTitle(Format.power(s)).addText(Format.plugs(s)).build())
-            .addRow(
-                Row.Builder().setTitle(Format.free(s) ?: Format.availability(s.availability))
-                    .addText("${s.pointCount?.let { "$it Ladepunkte" } ?: "Ladepunkte ${Format.UNKNOWN}"} · ${Format.status(s.status)}")
-                    .build(),
+        if (map == null || !collapsed) addDetailRows(pane)
+        pane.addAction(
+            Action.Builder().setTitle("Navigieren").setBackgroundColor(CarColor.PRIMARY)
+                .setIcon(carContext.icon(R.drawable.ic_navigation))
+                .setOnClickListener { carContext.navigateTo(hit) }.build(),
+        )
+        val header = Header.Builder().setTitle(Format.title(s)).setStartHeaderAction(Action.BACK)
+        if (map != null) {
+            header.addEndHeaderAction(
+                carContext.collapseAction(collapsed) {
+                    collapsed = !collapsed
+                    invalidate()
+                },
             )
-            .addRow(
-                Row.Builder().setTitle(s.operator ?: "Betreiber ${Format.UNKNOWN}")
-                    .addText(s.address.singleLine() ?: "Adresse ${Format.UNKNOWN}").build(),
-            )
+        }
+        val details = PaneTemplate.Builder(pane.build()).setHeader(header.build()).build()
+        if (map == null) return details
+        return MapWithContentTemplate.Builder()
+            .setContentTemplate(details)
+            .setMapController(carContext.mapController(map))
+            .build()
+    }
+
+    private fun addDetailRows(pane: Pane.Builder) {
+        val s = hit.station
+        val points = s.pointCount?.let { "$it Ladepunkte" } ?: "Ladepunkte ${Format.UNKNOWN}"
+        pane.addRow(
+            Row.Builder().setTitle(Format.free(s) ?: Format.availability(s.availability))
+                .addText(listOfNotNull(points, Format.status(s.status)).joinToString(" · "))
+                .build(),
+        )
+        pane.addRow(
+            Row.Builder().setTitle(s.operator ?: "Betreiber ${Format.UNKNOWN}")
+                .addText(s.address.singleLine() ?: "Adresse ${Format.UNKNOWN}").build(),
+        )
         hit.nearby.firstOrNull()?.let { near ->
             pane.addRow(
                 Row.Builder().setTitle(near.poi.name ?: "Wanderweg")
                     .addText("${near.airlineMeters.toInt()} m Luftlinie, Fußweg nicht geprüft").build(),
             )
         }
-        pane.addAction(
-            Action.Builder().setTitle("Navigieren").setBackgroundColor(CarColor.PRIMARY)
-                .setIcon(carContext.icon(R.drawable.ic_navigation))
-                .setOnClickListener { carContext.navigateTo(hit) }.build(),
-        )
-        val details = PaneTemplate.Builder(pane.build())
-            .setHeader(Header.Builder().setTitle(Format.title(s)).setStartHeaderAction(Action.BACK).build())
-            .build()
-        if (renderer == null || carContext.carAppApiLevel < MAP_TEMPLATE_API) return details
-        return MapWithContentTemplate.Builder()
-            .setContentTemplate(details)
-            .setMapController(carContext.mapController(renderer))
-            .build()
     }
 }

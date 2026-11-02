@@ -37,7 +37,6 @@ import app.ailectric.core.filter.StationFilter
 import app.ailectric.core.model.Availability
 import app.ailectric.core.model.ConnectorType
 import app.ailectric.core.model.CurrentType
-import app.ailectric.core.model.OperationalStatus
 import app.ailectric.core.model.PoiCatalog
 import app.ailectric.core.search.StationHit
 import app.ailectric.map.Navigation
@@ -83,7 +82,7 @@ fun StationDetailSheet(hit: StationHit, onDismiss: () -> Unit) {
             Info("Max. Leistung", s.maxPowerKw?.let { "${it.toInt()} kW" })
             Info("Ladepunkte", s.pointCount?.toString())
             Info("Belegung", Format.free(s) ?: Format.availability(s.availability).takeIf { s.availability != Availability.UNKNOWN })
-            Info("Status", Format.status(s.status).takeIf { s.status != OperationalStatus.UNKNOWN })
+            Format.status(s.status)?.let { Info("Status", it) }
             Info("Öffnungszeiten", s.openingHours)
             Info("Preise", s.pricing)
             Info("Zugang", Format.access(s.access))

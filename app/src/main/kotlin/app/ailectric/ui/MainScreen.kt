@@ -21,6 +21,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
@@ -59,11 +60,13 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import app.ailectric.core.filter.HikingFilter
 import app.ailectric.core.filter.StationFilter
 import app.ailectric.core.model.ConnectorType
@@ -258,11 +261,28 @@ private fun MapControls(
             SmallFloatingActionButton(onClick = { handle.zoom(-1.0) }) { Icon(Icons.Default.Remove, "Verkleinern") }
             SmallFloatingActionButton(onClick = onMyLocation) { Icon(Icons.Default.MyLocation, "Mein Standort") }
         }
+        PowerLegend(Modifier.align(Alignment.BottomEnd))
         if (showSearchHere) {
             ExtendedFloatingActionButton(
                 onClick = onSearchHere, modifier = Modifier.align(Alignment.TopCenter),
                 icon = { Icon(Icons.Default.Search, null) }, text = { Text("Hier suchen") },
             )
+        }
+    }
+}
+
+/** What the dot colours mean; kept small, the map matters more. */
+@Composable
+private fun PowerLegend(modifier: Modifier) {
+    Surface(modifier, color = MaterialTheme.colorScheme.surface.copy(alpha = 0.8f), shape = RoundedCornerShape(8.dp)) {
+        Row(
+            Modifier.padding(horizontal = 6.dp, vertical = 3.dp),
+            horizontalArrangement = Arrangement.spacedBy(3.dp), verticalAlignment = Alignment.CenterVertically,
+        ) {
+            PowerGroup.LEGEND.forEach { group ->
+                Box(Modifier.padding(start = 3.dp).size(8.dp).background(Color(group.color), CircleShape))
+                Text(group.label, style = MaterialTheme.typography.labelSmall, fontSize = 9.sp)
+            }
         }
     }
 }
