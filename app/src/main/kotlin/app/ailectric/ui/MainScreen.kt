@@ -19,6 +19,7 @@ import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
@@ -48,6 +49,7 @@ import androidx.compose.material3.SmallFloatingActionButton
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
@@ -282,7 +284,10 @@ private fun StationList(state: SearchState, onSelect: (StationHit) -> Unit, modi
         }
         return
     }
-    LazyColumn(modifier.fillMaxWidth()) {
+    val listState = rememberLazyListState()
+    // A keyed list stays on its item, so a closer station loaded later would land above the view.
+    LaunchedEffect(hits.firstOrNull()?.station?.id) { listState.scrollToItem(0) }
+    LazyColumn(modifier.fillMaxWidth(), state = listState) {
         items(hits, key = { it.station.id }) { hit ->
             StationRow(hit, onClick = { onSelect(hit) })
             HorizontalDivider()
