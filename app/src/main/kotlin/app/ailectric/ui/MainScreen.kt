@@ -341,8 +341,16 @@ private fun MapViewButton(view: MapSettings, onChange: (MapSettings) -> Unit) {
             }
             HorizontalDivider()
             DropdownMenuItem(
-                text = { Text("Wanderwege") }, onClick = { onChange(view.copy(hikingTrails = !view.hikingTrails)) },
+                text = { Text("Wanderwege (Waymarked)") }, onClick = { onChange(view.copy(hikingTrails = !view.hikingTrails)) },
                 leadingIcon = { Checkbox(checked = view.hikingTrails, onCheckedChange = null) },
+            )
+            DropdownMenuItem(
+                text = { Text("Wanderwege (OSM)") }, onClick = { onChange(view.copy(osmHiking = !view.osmHiking)) },
+                leadingIcon = { Checkbox(checked = view.osmHiking, onCheckedChange = null) },
+            )
+            DropdownMenuItem(
+                text = { Text("Radwege") }, onClick = { onChange(view.copy(bikeRoutes = !view.bikeRoutes)) },
+                leadingIcon = { Checkbox(checked = view.bikeRoutes, onCheckedChange = null) },
             )
         }
     }

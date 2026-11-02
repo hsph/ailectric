@@ -26,8 +26,6 @@ data class CarSettings(
     val map: MapSettings = MapSettings(),
 ) {
     companion object {
-        /** No satellite: the picture is coarse and has no street names, which helps nobody driving. */
-        val MAP_BASES = listOf(MapBase.STANDARD, MapBase.TERRAIN)
         val START_ZOOM_RANGE = 8..16
         val FOCUS_ZOOM_RANGE = 14..18
         /** The car's choices, one name each; the phone can set anything within the ranges. */
@@ -37,20 +35,29 @@ data class CarSettings(
 }
 
 private const val HIKING_CREDIT = "Wanderrouten: © Waymarked Trails, © OpenStreetMap-Mitwirkende (CC BY-SA)"
+private const val OSM_ROUTES_CREDIT = "Rad- und Wanderwege: © OpenStreetMap-Mitwirkende (ODbL)"
 
 /** The licences ask for these credits to stay visible on the map. */
 @Serializable
 enum class MapBase(val label: String, val credit: String?) {
     STANDARD("Standard", null),
-    TERRAIN("Gelände", "Kartendaten: © OpenStreetMap-Mitwirkende, SRTM | Kartendarstellung: © OpenTopoMap (CC-BY-SA)"),
     SATELLITE("Satellit", "EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"),
 }
 
 /** One map view; phone and car each keep their own. */
 @Serializable
-data class MapSettings(val base: MapBase = MapBase.STANDARD, val hikingTrails: Boolean = false) {
+data class MapSettings(
+    val base: MapBase = MapBase.STANDARD,
+    val hikingTrails: Boolean = false,
+    val osmHiking: Boolean = false,
+    val bikeRoutes: Boolean = false,
+) {
     val credits: List<String>
-        get() = listOfNotNull(base.credit, HIKING_CREDIT.takeIf { hikingTrails })
+        get() = listOfNotNull(
+            base.credit,
+            HIKING_CREDIT.takeIf { hikingTrails },
+            OSM_ROUTES_CREDIT.takeIf { osmHiking || bikeRoutes },
+        )
 }
 
 data class Settings(
@@ -67,9 +74,15 @@ data class Settings(
         get() = listOfNotNull(overpassEndpoint.trim().ifBlank { null }) + OVERPASS_PUBLIC_ENDPOINTS
 }
 
+/** A stored value of a removed choice, like the old terrain map, falls back to its default. */
+internal val settingsJson = Json {
+    ignoreUnknownKeys = true
+    coerceInputValues = true
+}
+
 /** Everything is stored on the device only. */
 class SettingsStore(private val context: Context) {
-    private val json = Json { ignoreUnknownKeys = true }
+    private val json = settingsJson
 
     suspend fun load(): Settings {
         val p = context.dataStore.data.first()

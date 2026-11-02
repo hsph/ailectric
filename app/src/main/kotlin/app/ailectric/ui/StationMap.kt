@@ -99,7 +99,7 @@ fun StationMap(
     }
 
     LaunchedEffect(style, hits, me) { style?.let { StationLayers.update(it, hits, me) } }
-    LaunchedEffect(style, view) { style?.let { MapOverlays.apply(it, view) } }
+    LaunchedEffect(style, view) { style?.let { MapOverlays.apply(it, view, MapOverlays.tilesFile(context)) } }
     LaunchedEffect(focus) { focus?.let(handle::center) }
 
     AndroidView(factory = { mapView }, modifier = modifier)

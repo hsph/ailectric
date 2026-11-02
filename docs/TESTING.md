@@ -33,7 +33,7 @@ Gerätetest direkt starten. `connectedDebugAndroidTest` meldete hier trotz abges
 adb shell am instrument -w -e class app.ailectric.CarMapRendererTest app.ailectric.test/androidx.test.runner.AndroidJUnitRunner
 ```
 
-Der Test legt die gerenderten Bilder unter `/sdcard/Android/data/app.ailectric/files/` ab: `car_map.png` mit Legende, `car_selected.png` mit markierter Station und `car_terrain.png` mit Geländekarte und Wanderwegen.
+Der Test legt die gerenderten Bilder unter `/sdcard/Android/data/app.ailectric/files/` ab: `car_map.png` mit Legende, `car_selected.png` mit markierter Station, `car_trails.png` mit Waymarked-Wanderwegen und `car_routes.png` mit eigenen Rad- und Wanderwegen. Dieser Test braucht `overlays.pmtiles` auf dem Gerät, ohne die Datei zeigt das Bild nur die Karte.
 
 Die Antwort in `core/src/test/resources/overpass_hiking_real.json` stammt vom echten Dienst. Sie hat zwei falsche Annahmen aufgedeckt: Abgeschnittene Geometrie enthält `null`-Lücken, und auch `bounds` ist abgeschnitten.
 

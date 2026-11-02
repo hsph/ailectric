@@ -40,7 +40,6 @@ import app.ailectric.core.search.Freshness
 import app.ailectric.core.search.SearchResult
 import app.ailectric.core.search.StationHit
 import app.ailectric.data.CarSettings
-import app.ailectric.data.MapBase
 import app.ailectric.data.MapSettings
 import app.ailectric.data.CarTileSize
 import app.ailectric.search.SearchState
@@ -143,14 +142,13 @@ class CarTemplatesTest {
         assertThat(row.isBrowsable).isTrue()
     }
 
-    @Test fun `car map view offers no satellite`() {
-        assertThat(CarSettings.MAP_BASES).containsExactly(MapBase.STANDARD, MapBase.TERRAIN).inOrder()
+    @Test fun `car map starts plain`() {
         assertThat(CarSettings().map).isEqualTo(MapSettings())
     }
 
     @Test fun `settings list their values`() {
         val rows = (SettingsCarScreen(context).onGetTemplate() as ListTemplate).singleList!!.items.map { (it as Row) }
-        assertThat(rows.map { it.title.toString() }).containsExactly("Kachelgröße", "Startzoom", "Zoom bei Auswahl", "Karte", "Wanderwege").inOrder()
+        assertThat(rows.map { it.title.toString() }).containsExactly("Kachelgröße", "Startzoom", "Zoom bei Auswahl", "Wanderwege (Waymarked)", "Wanderwege (OSM)", "Radwege").inOrder()
         assertThat(rows.first().texts.single().toString()).isEqualTo("Mittel")
         assertThat(rows[1].texts.single().toString()).isEqualTo("Stufe 13")
     }

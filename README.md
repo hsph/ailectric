@@ -9,7 +9,7 @@ Markenunabhängiger EV-Ladefinder für Europa, primär für Android Auto, mit Fi
 | `core` | Reines Kotlin ohne Android: Datenmodell, Geo, Filter, Provider (Open Charge Map, OSM/Overpass), Suche, Cache-Regeln, Fahrzeug- und Routing-Schnittstellen |
 | `app` | Android: Compose-UI, MapLibre-Karte, Room-Cache, DataStore, Standort, Android-Auto-Screens |
 
-Dokumente: [Architektur und Entscheidungen](docs/ARCHITECTURE.md) · [Android Auto](docs/ANDROID_AUTO.md) · [Datenquellen und Lizenzen](docs/DATA_SOURCES.md) · [TrueNAS](docs/SERVER.md) · [Tests](docs/TESTING.md) · [PRD und Roadmap](docs/PRD.md)
+Dokumente: [Architektur und Entscheidungen](docs/ARCHITECTURE.md) · [Android Auto](docs/ANDROID_AUTO.md) · [Datenquellen und Lizenzen](docs/DATA_SOURCES.md) · [TrueNAS](docs/SERVER.md) · [Tests](docs/TESTING.md) · [PRD und Roadmap](docs/PRD.md) · [Backlog](docs/BACKLOG.md)
 
 ## Einrichtung
 

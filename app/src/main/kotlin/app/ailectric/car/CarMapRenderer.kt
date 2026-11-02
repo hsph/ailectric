@@ -166,7 +166,7 @@ class CarMapRenderer(
                         TextView(shown.context).apply {
                             textSize = 9f
                             gravity = Gravity.END
-                            // On its own ground: the terrain map is too busy for bare text.
+                            // On its own ground: bare text gets lost on the busy overlays.
                             setTextColor(Color.rgb(20, 20, 20))
                             setBackgroundColor(Color.argb(240, 255, 255, 255))
                             setPadding(6, 2, 6, 2)
@@ -205,11 +205,11 @@ class CarMapRenderer(
     }
 
     private fun showMapView() {
-        style?.let { MapOverlays.apply(it, settings.map, HIKING_MIN_ZOOM) }
+        style?.let { MapOverlays.apply(it, settings.map, MapOverlays.tilesFile(carContext), ROUTES_MIN_ZOOM) }
         showCredit()
     }
 
-    /** The terrain map covers OpenFreeMap's tiles entirely, so only the shown sources are named. */
+    /** Satellite covers OpenFreeMap's tiles entirely, so only the shown sources are named. */
     private fun showCredit() {
         val map = settings.map
         val base = BASE_CREDIT.takeIf { map.base == MapBase.STANDARD }
@@ -309,7 +309,7 @@ class CarMapRenderer(
         const val MIN_ZOOM = 5.0
         const val MAX_ZOOM = 18.0
         /** Further out the routes bury the roads and the station dots. */
-        const val HIKING_MIN_ZOOM = 12f
+        const val ROUTES_MIN_ZOOM = 12f
         const val BASE_CREDIT = "OpenFreeMap © OpenMapTiles © OpenStreetMap"
         const val ANIMATION_MS = 200
         const val FOCUS_ANIMATION_MS = 600

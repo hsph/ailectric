@@ -60,20 +60,24 @@ class SettingsCarScreen(carContext: CarContext) : Screen(carContext) {
                 },
             )
             .addItem(
-                row("Karte", c.map.base.label) {
-                    val bases = CarSettings.MAP_BASES
-                    screenManager.push(
-                        OptionCarScreen(carContext, "Karte", bases.map { it.label }, bases.indexOf(c.map.base).coerceAtLeast(0)) {
-                            save(car.copy(map = car.map.copy(base = bases[it])))
-                        },
-                    )
-                },
-            )
-            .addItem(
-                Row.Builder().setTitle("Wanderwege").addText("Bei näherem Zoom")
+                Row.Builder().setTitle("Wanderwege (Waymarked)").addText("Bei näherem Zoom")
                     .setToggle(
                         Toggle.Builder { save(car.copy(map = car.map.copy(hikingTrails = it))) }
                             .setChecked(c.map.hikingTrails).build(),
+                    ).build(),
+            )
+            .addItem(
+                Row.Builder().setTitle("Wanderwege (OSM)").addText("Bei näherem Zoom")
+                    .setToggle(
+                        Toggle.Builder { save(car.copy(map = car.map.copy(osmHiking = it))) }
+                            .setChecked(c.map.osmHiking).build(),
+                    ).build(),
+            )
+            .addItem(
+                Row.Builder().setTitle("Radwege").addText("Bei näherem Zoom")
+                    .setToggle(
+                        Toggle.Builder { save(car.copy(map = car.map.copy(bikeRoutes = it))) }
+                            .setChecked(c.map.bikeRoutes).build(),
                     ).build(),
             )
             .build()

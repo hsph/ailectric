@@ -71,7 +71,7 @@ Offen: Die benötigten Laufzeitberechtigungen ließen sich nicht in der Dokument
 
 ## Kartenansicht im Auto
 
-Die Auto-Karte hat ihre eigene Ansicht, unabhängig von der Telefon-App. Satellit fehlt bewusst: Das Bild ist grob und zeigt keine Straßennamen. Wanderwege erscheinen erst ab Zoomstufe 12, weil die Routen weiter draußen Straßen und Stationen verdecken. Die Quellenangabe steht dicht über dem unteren Rand und wechselt mit der Ansicht; auf der Geländekarte braucht sie einen eigenen hellen Grund.
+Die Auto-Karte hat ihre eigene Ansicht, unabhängig von der Telefon-App. Satellit fehlt bewusst: Das Bild ist bei näherem Zoom grob, und dunkle Ringe um die Stationen verschwinden darauf. Wander- und Radwege erscheinen erst ab Zoomstufe 12, weil die Routen weiter draußen Straßen und Stationen verdecken. Die Quellenangabe steht dicht über dem unteren Rand und wechselt mit der Ansicht; sie hat einen eigenen hellen Grund, weil die Overlays für bloßen Text zu unruhig sind.
 
 ## Test mit OpenHeadUnit
 
@@ -94,7 +94,7 @@ Ab Car API 7 klappt ein Pfeil im Kopf des Inhaltsfensters Raster und Details ein
 
 Die Startseite nutzt ab Car API 7 `GridTemplate`. Jede Kachel ist ein von der App gezeichnetes Bild mit abgerundeten Ecken und diagonalem Farbverlauf: Höchstleistung mit „kW“, darunter freie von allen Ladepunkten, etwa `1/4`, ohne Live-Daten `–/6`, und das Wort „frei“. Die Farbe zeigt die Gruppe wie auf der Karte: bis 22, 23–149, 150–299 und ab 300 kW, grau bei unbekannter Leistung. Eine kleine Legende dazu liegt auf der Karte, im Auto und auf dem Telefon. Unter der Kachel stehen Entfernung, Betreiber und Name. Spaltenzahl und genaue Kachelgröße legt der Host fest.
 
-Kachelgröße, Startzoom (Standard 13), Zoom bei Auswahl, Karte (Standard oder Gelände) und Wanderwege lassen sich an zwei Stellen einstellen, beide teilen denselben Wert: in der Telefon-App unter „Android Auto“ frei per Schieberegler, im Auto über das Zahnrad auf der Karte. Dort öffnet jede Zeile eine Liste mit Voreinstellungen, weil die Templates weder Schieberegler noch Dropdowns kennen: 5 je Zoom, 3 für die Kachelgröße. Ein Zoom vom Telefon zwischen zwei Voreinstellungen wird im Auto als nächstliegende markiert.
+Kachelgröße, Startzoom (Standard 13), Zoom bei Auswahl sowie die Wege (Waymarked, OSM, Rad) lassen sich an zwei Stellen einstellen, beide teilen denselben Wert: in der Telefon-App unter „Android Auto“ frei per Schieberegler, im Auto über das Zahnrad auf der Karte. Dort öffnet jede Zeile eine Liste mit Voreinstellungen, weil die Templates weder Schieberegler noch Dropdowns kennen: 5 je Zoom, 3 für die Kachelgröße. Ein Zoom vom Telefon zwischen zwei Voreinstellungen wird im Auto als nächstliegende markiert.
 
 Der Startpunkt liegt in der Mitte des freien Kartenbereichs rechts vom Fenster. `MapLibreMap.setPadding` wirkt erst bei der nächsten Kamerabewegung, deshalb setzt der Renderer die Kamera dafür einmal selbst, bis der Fahrer die Karte bewegt.
 

@@ -57,8 +57,9 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
     var tileSize by rememberSaveable { mutableStateOf(saved.car.tileSize) }
     var startZoom by rememberSaveable { mutableIntStateOf(saved.car.startZoom) }
     var focusZoom by rememberSaveable { mutableIntStateOf(saved.car.focusZoom) }
-    var carBase by rememberSaveable { mutableStateOf(saved.car.map.base) }
     var carTrails by rememberSaveable { mutableStateOf(saved.car.map.hikingTrails) }
+    var carOsmHiking by rememberSaveable { mutableStateOf(saved.car.map.osmHiking) }
+    var carBikeRoutes by rememberSaveable { mutableStateOf(saved.car.map.bikeRoutes) }
 
     val close = {
         fun number(s: String) = s.replace(',', '.').toDoubleOrNull()
@@ -70,7 +71,7 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
         session.saveSettings(
             app.settings.copy(
                 ocmApiKey = key.trim(), overpassEndpoint = overpass.trim(), vehicle = vehicle,
-                car = CarSettings(tileSize, startZoom, focusZoom, MapSettings(carBase, carTrails)),
+                car = CarSettings(tileSize, startZoom, focusZoom, MapSettings(hikingTrails = carTrails, osmHiking = carOsmHiking, bikeRoutes = carBikeRoutes)),
             ),
         )
         if (keyChanged) session.refresh()
@@ -101,19 +102,17 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
             ZoomSlider("Zoom bei Auswahl einer Station", focusZoom, CarSettings.FOCUS_ZOOM_RANGE) { focusZoom = it }
             Text("Größere Zahlen zeigen die Karte näher.", style = MaterialTheme.typography.bodySmall)
             Spacer(Modifier.height(12.dp))
-            Text("Karte", style = MaterialTheme.typography.bodyMedium)
-            Spacer(Modifier.height(4.dp))
-            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
-                CarSettings.MAP_BASES.forEachIndexed { i, base ->
-                    SegmentedButton(
-                        selected = carBase == base, onClick = { carBase = base },
-                        shape = SegmentedButtonDefaults.itemShape(i, CarSettings.MAP_BASES.size), icon = {},
-                    ) { Text(base.label) }
-                }
-            }
-            Row(Modifier.fillMaxWidth().padding(top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
-                Text("Wanderwege", Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Text("Wanderwege (Waymarked)", Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
                 Switch(carTrails, { carTrails = it })
+            }
+            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Text("Wanderwege (OSM)", Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+                Switch(carOsmHiking, { carOsmHiking = it })
+            }
+            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Text("Radwege", Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+                Switch(carBikeRoutes, { carBikeRoutes = it })
             }
             Text("Im Auto erst bei näherem Zoom sichtbar.", style = MaterialTheme.typography.bodySmall)
             Heading("Datenquellen")
@@ -140,7 +139,6 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
                     "und OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Wanderwege und POIs: © OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Karte: OpenFreeMap © OpenMapTiles, Daten von OpenStreetMap. Darstellung mit MapLibre.\n" +
-                    "Geländekarte: Kartendaten © OpenStreetMap-Mitwirkende, SRTM, Kartendarstellung © OpenTopoMap (CC-BY-SA).\n" +
                     "Satellit: EOxCloudless https://cloudless.eox.at by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025), CC BY-NC-SA 4.0, nur nicht kommerziell.\n" +
                     "Wanderrouten auf der Karte: © Waymarked Trails, © OpenStreetMap-Mitwirkende (CC BY-SA).\n" +
                     "Einstellungen und Standort bleiben auf dem Gerät. Für die Suche werden Koordinaten an die genannten Dienste gesendet.",

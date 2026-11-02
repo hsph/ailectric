@@ -10,9 +10,23 @@ Echtzeit-Belegung liefern NDW DOT-NL für die Niederlande und ich-tanke-strom.ch
 | Open Charge Map | Stationen | weltweit, in Europa gut | Fair Use ohne feste Zahl, Schlüssel Pflicht; Sperre bei Missbrauch | CC BY 4.0, Importe je Datenanbieter | kostenlos, eigener Mirror möglich |
 | OpenStreetMap über Overpass | Stationen, Wanderwege, POIs | weltweit, Details lückenhaft | Hauptserver: Größenordnung 10.000 Abfragen und 1 GB am Tag, bei regelmäßiger Nutzung ein Hundertstel | ODbL 1.0 | kostenlos, selbst hostbar |
 | OpenFreeMap | Kartenkacheln | weltweit | keine Grenzen genannt, kein SLA | Attribution Pflicht; MIT für das Projekt | kostenlos |
-| OpenTopoMap | Geländekarte (Telefon und Auto) | weltweit, bis Zoom 17 | keine Massendownloads, keine Ausfallsicherheit | CC-BY-SA 3.0, Nennung deutlich sichtbar | kostenlos |
 | EOxCloudless 2025 | Satellitenbild (Telefon) | weltweit, Sentinel-2 mit 10 m je Pixel, Details nur grob | keine festen Zahlen, Drosselung bei Spitzen | CC BY-NC-SA 4.0, nur nicht kommerziell | kostenlos bei privater Nutzung |
 | Waymarked Trails | markierte Wanderrouten als Overlay (Telefon und Auto) | weltweit | moderate Zugriffe, Kacheln cachen | CC BY-SA 3.0 DE, Nennung von OSM und Waymarked Trails | kostenlos |
+
+## Eigene Rad- und Wanderwege
+
+`tools/overlays` baut `overlays.pmtiles` aus Geofabrik-Auszügen, nach dem Vorbild von [runair](https://github.com/hsph/runair/blob/main/docs/overlays.md). Docker ist nur Werkbank für `osmium`, `tippecanoe` und `pmtiles`; die App braucht es nicht. Im Build vom 02.11.2026 ergaben Deutschland und die Niederlande rund 2,4 Mio. Wege in 260 MB, die Laufzeit lag bei 15 Minuten. Das Rohmaterial belegt gut 6 GB, deshalb liegt es in einem Docker-Volume:
+
+```sh
+docker build -t ailectric-overlays tools/overlays
+docker volume create ailectric-osm
+docker run --rm -v ailectric-osm:/in --entrypoint sh ailectric-overlays -c \
+  'cd /in && for r in germany netherlands; do curl -fsSL -o $r.osm.pbf https://download.geofabrik.de/europe/$r-latest.osm.pbf; done'
+docker run --rm -v ailectric-osm:/in:ro -v "$PWD:/out" ailectric-overlays /in/germany.osm.pbf /in/netherlands.osm.pbf
+adb push overlays.pmtiles /sdcard/Android/data/app.ailectric/files/overlays.pmtiles
+```
+
+Es erscheint nur, was in OSM erfasst ist. Die Daten stehen unter ODbL, die App nennt sie auf der Karte. Die Wegfarben liegen abseits der Leistungsfarben: Rad dunkelblau statt des Teals aus runair, das mit der Gruppe 23–149 kW verwechselbar wäre.
 
 ## Zusammenführung
 
@@ -35,7 +49,7 @@ Die Bundesnetzagentur veröffentlicht die Liste regelmäßig neu. CSV von der [L
 - **NDW DOT-NL:** CC0; die App nennt die Quelle trotzdem in Details und Einstellungen.
 - **Open Charge Map:** Datenanbieter und Lizenz je Station sichtbar machen. Geschieht in den Stationsdetails. Importierte Daten liegen beim jeweiligen Anbieter und fallen nicht unter CC BY; `opendata=true` schränkt auf offen lizenzierte Daten ein, falls das je nötig wird.
 - **OSM:** „© OpenStreetMap-Mitwirkende“ sichtbar in Einstellungen, Details und Karte. Eine öffentliche Weitergabe abgeleiteter Datenbanken löst die ODbL-Weitergabepflicht aus; im privaten Betrieb greift sie nicht.
-- **OpenTopoMap, EOxCloudless, Waymarked Trails:** Nennung als Einblendung auf der Karte, solange die Ansicht aktiv ist, und in den Einstellungen. Eine Veröffentlichung als kostenpflichtige App oder mit Werbung schließt EOxCloudless aus.
+- **EOxCloudless, Waymarked Trails:** Nennung als Einblendung auf der Karte, solange die Ansicht aktiv ist, und in den Einstellungen. Eine Veröffentlichung als kostenpflichtige App oder mit Werbung schließt EOxCloudless aus.
 - **OpenFreeMap:** Attribution im Auto als Einblendung auf der Karte, auf dem Telefon über MapLibre. Die Nutzungsbedingungen setzen ein Mindestalter von 18 Jahren voraus.
 
 ## Datenqualität aus dem Praxistest
@@ -44,4 +58,4 @@ Im Großraum München lieferte OSM ohne Schlüssel 316 Stationen im 50-km-Radius
 
 ## Datenschutz
 
-Das Register liegt in der App und sendet nichts. Die Kartenebenen fragen ihre Kacheln bei OpenTopoMap, EOX und Waymarked Trails ab, sobald sie eingeschaltet sind; damit sehen diese Dienste den Kartenausschnitt. Für die Suche gehen Koordinaten an Open Charge Map und Overpass, in den Niederlanden und an der Grenze ein Kartenausschnitt an NDW. Die Schweizer Dateien lädt die App nahe der Schweiz ganz, dabei gehen keine Koordinaten an den Server, für die Karte Kachelanfragen an OpenFreeMap (ggf. über Cloudflare). Es gibt keine Registrierung und kein eigenes Tracking. Einstellungen und der API-Schlüssel liegen lokal; die Backup-Funktion ist deaktiviert.
+Das Register liegt in der App und sendet nichts. Die Kartenebenen fragen ihre Kacheln bei EOX und Waymarked Trails ab, sobald sie eingeschaltet sind; damit sehen diese Dienste den Kartenausschnitt. Für die Suche gehen Koordinaten an Open Charge Map und Overpass, in den Niederlanden und an der Grenze ein Kartenausschnitt an NDW. Die Schweizer Dateien lädt die App nahe der Schweiz ganz, dabei gehen keine Koordinaten an den Server, für die Karte Kachelanfragen an OpenFreeMap (ggf. über Cloudflare). Es gibt keine Registrierung und kein eigenes Tracking. Einstellungen und der API-Schlüssel liegen lokal; die Backup-Funktion ist deaktiviert.

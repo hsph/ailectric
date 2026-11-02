@@ -10,3 +10,4 @@ secrets.properties
 .kotlin/
 captures/
 .env
+*.pmtiles

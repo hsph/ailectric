@@ -1,7 +1,10 @@
 package app.ailectric
 
+import app.ailectric.data.CarSettings
+import app.ailectric.data.CarTileSize
 import app.ailectric.data.MapBase
 import app.ailectric.data.MapSettings
+import app.ailectric.data.settingsJson
 import kotlinx.serialization.json.Json
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
@@ -17,11 +20,20 @@ class MapSettingsTest {
         assertEquals(2, credits.size)
         assertTrue(credits[0].contains("EOX IT Services"))
         assertTrue(credits[1].contains("Waymarked Trails"))
-        assertTrue(MapSettings(MapBase.TERRAIN).credits.single().contains("OpenTopoMap"))
+        assertTrue(MapSettings(bikeRoutes = true).credits.single().contains("ODbL"))
+        assertTrue(MapSettings(osmHiking = true).credits.single().contains("ODbL"))
+    }
+
+    @Test fun `a stored terrain map only resets the base`() {
+        val stored = """{"tileSize":"LARGE","startZoom":15,"map":{"base":"TERRAIN","hikingTrails":true}}"""
+        val car = settingsJson.decodeFromString<CarSettings>(stored)
+        assertEquals(CarTileSize.LARGE, car.tileSize)
+        assertEquals(15, car.startZoom)
+        assertEquals(MapSettings(MapBase.STANDARD, hikingTrails = true), car.map)
     }
 
     @Test fun `choice survives saving`() {
-        val view = MapSettings(MapBase.TERRAIN, hikingTrails = true)
+        val view = MapSettings(MapBase.SATELLITE, hikingTrails = true)
         assertEquals(view, Json.decodeFromString<MapSettings>(Json.encodeToString(view)))
     }
 }
