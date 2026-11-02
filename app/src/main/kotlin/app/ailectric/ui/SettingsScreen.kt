@@ -85,7 +85,7 @@ fun SettingsScreen(session: SearchSession, onClose: () -> Unit) {
             OutlinedTextField(consumption, { consumption = it }, Modifier.fillMaxWidth(), label = { Text("Verbrauch (kWh/100 km)") }, singleLine = true)
             Heading("Quellen und Lizenzen")
             Text(
-                "Ladestationen: Open Charge Map (CC BY 4.0, importierte Daten je Datenanbieter, siehe Stationsdetails) " +
+                "Ladestationen: Bundesnetzagentur.de, Ladesäulenregister (CC BY 4.0), Open Charge Map (CC BY 4.0, importierte Daten je Datenanbieter, siehe Stationsdetails) " +
                     "und OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Wanderwege und POIs: © OpenStreetMap-Mitwirkende (ODbL 1.0).\n" +
                     "Karte: OpenFreeMap © OpenMapTiles, Daten von OpenStreetMap. Darstellung mit MapLibre.\n" +

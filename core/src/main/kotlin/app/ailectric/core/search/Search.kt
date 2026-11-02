@@ -19,6 +19,9 @@ import app.ailectric.core.provider.PoiProvider
 import app.ailectric.core.provider.ProviderException
 import app.ailectric.core.provider.StationProvider
 import app.ailectric.core.provider.StationQuery
+import kotlinx.coroutines.channels.Channel
+import kotlinx.coroutines.coroutineScope
+import kotlinx.coroutines.launch
 
 /** Persistent store for stations and POIs. Room in the app, in-memory in tests. */
 interface SearchCache {
@@ -35,54 +38,91 @@ enum class Freshness { LIVE_FETCH, CACHED, STALE_OFFLINE }
 data class StationLoad(
     val stations: List<Station>,
     val freshness: Freshness,
-    val providerId: String?,
     val truncated: Boolean,
-    /** Why the preferred source wasn't used, for display. */
+    /** Which sources failed, for display. */
     val notice: String?,
 )
 
 class StationRepository(
-    /** Tried in order, so the richest source goes first. */
+    /** All are asked and merged, so a station one source lacks still shows. Richest first. */
     private val providers: List<StationProvider>,
     private val cache: SearchCache,
     private val policy: SearchPolicy = SearchPolicy(),
     private val now: () -> Long = System::currentTimeMillis,
 ) {
-    suspend fun load(center: GeoPoint, radiusMeters: Double): StationLoad {
-        val box = BoundingBox.around(center, radiusMeters)
-        val failures = mutableListOf<ProviderException>()
-        for (provider in providers) {
-            val covered = cache.coverages(provider.id)
-                .firstOrNull { policy.isCovered(center, radiusMeters, it, now()) }
-            if (covered != null) {
-                return StationLoad(
-                    cache.stationsIn(provider.id, box), Freshness.CACHED, provider.id,
-                    cache.wasTruncated(provider.id, covered), failures.summary(),
-                )
-            }
-            val fetchRadius = policy.fetchRadius(radiusMeters)
-            val result = try {
-                provider.search(StationQuery(center, fetchRadius))
-            } catch (e: ProviderException) {
-                failures += e
-                continue
-            }
-            cache.store(provider.id, Coverage(center, fetchRadius, now()), result.stations, result.truncated)
-            return StationLoad(result.stations, Freshness.LIVE_FETCH, provider.id, result.truncated, failures.summary())
+    private class Outcome(
+        val stations: List<Station>,
+        val freshness: Freshness?,
+        val truncated: Boolean = false,
+        val failure: ProviderException? = null,
+    )
+
+    /** [onPartial] gets each intermediate state, so a slow source doesn't hold up the others. */
+    suspend fun load(
+        center: GeoPoint,
+        radiusMeters: Double,
+        onPartial: suspend (StationLoad) -> Unit = {},
+    ): StationLoad = coroutineScope {
+        if (providers.isEmpty()) throw ProviderException("Keine Datenquelle konfiguriert")
+        val finished = Channel<Pair<Int, Outcome>>(providers.size)
+        providers.forEachIndexed { i, provider ->
+            launch { finished.send(i to fetch(provider, center, radiusMeters)) }
         }
-        // Everything failed: whatever we know is better than nothing, as long as we say so.
-        for (provider in providers) {
-            val stale = cache.stationsIn(provider.id, box)
-            if (stale.isNotEmpty()) {
-                return StationLoad(stale, Freshness.STALE_OFFLINE, provider.id, false, failures.summary())
-            }
+        val outcomes = arrayOfNulls<Outcome>(providers.size)
+        repeat(providers.size) { round ->
+            val (i, outcome) = finished.receive()
+            outcomes[i] = outcome
+            val partial = combine(outcomes.filterNotNull())
+            if (round < providers.size - 1 && partial.stations.isNotEmpty()) onPartial(partial)
         }
-        throw ProviderException(failures.summary() ?: "Keine Datenquelle konfiguriert", failures.firstOrNull())
+        val all = outcomes.filterNotNull()
+        val result = combine(all)
+        val networkAnswered = providers.indices.any { !providers[it].local && all[it].failure == null }
+        if (result.stations.isEmpty() && !networkAnswered) {
+            throw ProviderException(result.notice ?: "Keine Datenquelle verfügbar", all.firstNotNullOfOrNull { it.failure })
+        }
+        result
     }
 
-    /** All causes: the first alone would blame a missing key when the fallback is what broke. */
-    private fun List<ProviderException>.summary(): String? =
-        mapNotNull { it.message }.distinct().joinToString(" · ").ifBlank { null }
+    private suspend fun fetch(provider: StationProvider, center: GeoPoint, radiusMeters: Double): Outcome {
+        val box = BoundingBox.around(center, radiusMeters)
+        if (provider.local) {
+            return try {
+                Outcome(provider.search(StationQuery(center, radiusMeters)).stations, null)
+            } catch (e: ProviderException) {
+                Outcome(emptyList(), null, failure = e)
+            }
+        }
+        val covered = cache.coverages(provider.id)
+            .firstOrNull { policy.isCovered(center, radiusMeters, it, now()) }
+        if (covered != null) {
+            return Outcome(cache.stationsIn(provider.id, box), Freshness.CACHED, cache.wasTruncated(provider.id, covered))
+        }
+        val fetchRadius = policy.fetchRadius(radiusMeters)
+        return try {
+            val result = provider.search(StationQuery(center, fetchRadius))
+            cache.store(provider.id, Coverage(center, fetchRadius, now()), result.stations, result.truncated)
+            Outcome(result.stations, Freshness.LIVE_FETCH, result.truncated)
+        } catch (e: ProviderException) {
+            // What we know is better than nothing, as long as we say so.
+            val stale = cache.stationsIn(provider.id, box)
+            Outcome(stale, Freshness.STALE_OFFLINE.takeIf { stale.isNotEmpty() }, failure = e)
+        }
+    }
+
+    private fun combine(outcomes: List<Outcome>): StationLoad {
+        val freshness = outcomes.mapNotNull { it.freshness }
+        return StationLoad(
+            stations = mergeStations(outcomes.map { it.stations }),
+            freshness = when {
+                Freshness.STALE_OFFLINE in freshness -> Freshness.STALE_OFFLINE
+                Freshness.LIVE_FETCH in freshness -> Freshness.LIVE_FETCH
+                else -> Freshness.CACHED
+            },
+            truncated = outcomes.any { it.truncated },
+            notice = outcomes.mapNotNull { it.failure?.message }.distinct().joinToString(" · ").ifBlank { null },
+        )
+    }
 }
 
 data class StationHit(
@@ -108,9 +148,20 @@ class ChargerSearch(
     private val cache: SearchCache,
     private val now: () -> Long = System::currentTimeMillis,
 ) {
-    suspend fun search(center: GeoPoint, filter: StationFilter): SearchResult {
+    /** [onPartial] is not called for hiking searches, whose results need every station. */
+    suspend fun search(
+        center: GeoPoint,
+        filter: StationFilter,
+        onPartial: suspend (SearchResult) -> Unit = {},
+    ): SearchResult {
         val radius = filter.radiusKm * 1000
-        val load = stations.load(center, radius)
+        val load = stations.load(center, radius) { partial ->
+            if (filter.hiking == null) onPartial(present(center, radius, filter, partial))
+        }
+        return present(center, radius, filter, load)
+    }
+
+    private suspend fun present(center: GeoPoint, radius: Double, filter: StationFilter, load: StationLoad): SearchResult {
         val inRange = load.stations
             .map { StationHit(it, Distance(Geo.distanceMeters(center, it.location), DistanceKind.AIRLINE)) }
             .filter { it.distance.meters <= radius }

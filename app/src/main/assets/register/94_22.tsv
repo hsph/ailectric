@@ -1,0 +1,49 @@
+1038025	Stiftung BSW		Höllentalstraße 55	82467	Garmisch-Partenkirchen	47.488697	11.082076	1			~TYPE2:17|~TYPE2:17|~TYPE2:17|~TYPE2:17
+1038332	Schloss Elmau GmbH & Co. KG		In Elmau 2	82493	Krün	47.461990	11.186524	1			~TYPE2:22
+1051335	Gästehaus Maria	Gästehaus Maria	Zoeppritzstr. 20	82467	Garmisch-Partenkirchen	47.493800	11.080120	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1051375	KCS		Bahnhofstr. 43	82467	Garmisch-Partenkirchen	47.494904	11.095200	1	24/7	Nur für Kunden/Besucher	DE*CPI*E6909165*1~TYPE2_TETHERED:22|DE*CPI*E6909165*2~TYPE2_TETHERED:22
+1052025	Porsche Zentrum Garmisch-Partenkirchen		An der Zugspitze 6	82491	Grainau	47.478889	11.056111	1			~CCS2:320|~CCS2:320
+1055600	Porsche Zentrum Garmisch-Partenkirchen	Porsche Zentrum Garmisch-Partenkirchen	An der Zugspitze 6	82491	Grainau	47.479150	11.055690	1	Mo-Fr 07:00-18:30, Sa 07:00-12:30	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068784	Elektro-und Solartechnik Mittermeier GmbH		Zugspitzstraße 101	82467	Garmisch-Partenkirchen	47.487370	11.070830	1			~TYPE2:11|~TYPE2:11
+1068785	Elektro-und Solartechnik Mittermeier GmbH		Zugspitzstraße 101	82467	Garmisch-Partenkirchen	47.487350	11.070780	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1070225	Leuthner oHG		Gröblalm 2	82481	Mittenwald	47.450280	11.262750	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1071837	Gemeindewerke Garmisch-Partenkirchen, KUWod		Marienplatz 17	82467	Garmisch-Partenkirchen	47.492161	11.086103	1			~TYPE2:22|~TYPE2:22
+1071838	Gemeindewerke Garmisch-Partenkirchen, KUWod		Parkstraße 2	82467	Garmisch-Partenkirchen	47.495439	11.092631	1			~TYPE2:22|~TYPE2:22
+1071839	Gemeindewerke Garmisch-Partenkirchen, KUWod		Am Kreuzeckbahnhof 7	82467	Garmisch-Partenkirchen	47.472089	11.063369	1			~TYPE2:22|~TYPE2:22
+1071841	Gemeindewerke Garmisch-Partenkirchen, KUWod		Olympiastraße 31	82467	Garmisch-Partenkirchen	47.490003	11.096999	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071846	Gemeindewerke Garmisch-Partenkirchen, KUWod		Am Eisstadion 1	82467	Garmisch-Partenkirchen	47.489695	11.095912	1			~TYPE2:22|~TYPE2:22
+1071847	Gemeindewerke Garmisch-Partenkirchen, KUWod		Riess 5	82467	Garmisch-Partenkirchen	47.479644	11.080278	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1074167	Riessersee-Hotel Betriebsgesellschaft mbH		Riess 5	82467	Garmisch-Partenkirchen	47.480270	11.080478	1			~TYPE2:16
+1075281	KEW Karwendel Energie und Wasser GmbH		Schöttlkarstraße 10	82481	Mittenwald	47.444190	11.264670	1			~TYPE2:22|~TYPE2:22
+1075282	KEW Karwendel Energie und Wasser GmbH		Innsbrucker Straße 37	82481	Mittenwald	47.432660	11.260540	1			~TYPE2:22|~TYPE2:22
+1075283	KEW Karwendel Energie und Wasser GmbH		Arnspitzstr 1	82481	Mittenwald	47.439380	11.264280	1			~TYPE2:22|~TYPE2:22
+1075284	KEW Karwendel Energie und Wasser GmbH		Dammkarstraße 14	82481	Mittenwald	47.441630	11.265420	1			~TYPE2:22|~TYPE2:22
+1077941	EDEKA		An der Zugspitze 4	82491	Grainau	47.479072	11.054652	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22
+1097160	Autohaus Witting & Söhne GmbH & Co. KG		Schöttlkarstraße 18	82481	Mittenwald	47.445087	11.265537	1			~CCS2:22|~TYPE2:11
+1109800	Energie Südbayern GmbH	ESB_0037 / Rosenweg - Grainau	Rosenweg 1	82491	Grainau	47.470270	11.026336	1	24/7	Keine Beschränkung	DEESBE003701~TYPE2:22|DEESBE003702~TYPE2:22
+1109801	Energie Südbayern GmbH	ESB_0036_A / Parkweg - Grainau	Parkweg 9	82491	Grainau	47.474206	11.027131	1	24/7	Keine Beschränkung	ESB_0032 / Wielenbacher Str. - Pähl~TYPE2:22|DEESBE003602~TYPE2:22|DEESBE003603~TYPE2:22|DEESBE003604~TYPE2:22
+1109813	Energie Südbayern GmbH	ESB_0098_01 / Hotel am Badersee - Grainau	Am Badersee 2	82491	Grainau	47.473950	11.015366	1	24/7	Keine Beschränkung	DEESBE009801~TYPE2:22|DEESBE009802~TYPE2:22
+1109814	Energie Südbayern GmbH	ESB_0098_02 / Hotel am Badersee - Grainau	Am Badersee 2	82491	Grainau	47.473849	11.015607	1	24/7	Keine Beschränkung	DEESBE009803~TYPE2:22|DEESBE009804~TYPE2:22
+1109824	Energie Südbayern GmbH	ESB_0225 / Hotel Alpenhof - Grainau	Alpspitzstr. 34	82491	Grainau	47.474980	11.029390	1	24/7	Keine Beschränkung	DEESBE022501~TYPE2:22|DEESBE022502~TYPE2:22
+1112650	Rademacher KG		Obermarkt 9	82481	Mittenwald	47.441212	11.261401	1			~CCS2:50|~TYPE2_TETHERED:22
+1113890	Gemeinde Mittenwald		Mühlenweg 0	82481	Mittenwald	47.440679	11.266416	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1115886	Gasthof Fraundorfer GmbH		Ludwigstraße 24	82467	Garmisch-Partenkirchen	47.492718	11.112766	1			~TYPE2:22|~TYPE2:22
+1132785	Shell Deutschland GmbH	10024393_Garmisch-Partenkirchen	Hauptstr. 97	82467	Garmisch-Partenkirchen	47.490280	11.112470	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1139840	ALDI SÜD	KLE-055-01	An der Zugspitze 5	82491	Grainau	47.479245	11.053965	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ALD*E23606~CCS2:50|DE*ALD*E23607~CCS2:50
+1141686	Lidl	6791_Lidl_Garmisch-Partenkirchen_T65-IT-0325-003	Olympiastr. 25a	82467	Garmisch-Partenkirchen	47.491730	11.095090	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1146155	KEW Karwendel Energie und Wasser GmbH		Karwendelstr. 0	82481	Mittenwald	47.440910	11.261930	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1147289	Energie Südbayern GmbH	ESB_0506_01 / Gumpenau - Gemeinde Grainau	Gumpenau 3	82491	Grainau	47.472061	11.024884	1	24/7	Keine Beschränkung	DEESBE050601~TYPE2:22|DEESBE050602~TYPE2:22
+1147291	Energie Südbayern GmbH	ESB_0507_01 / Zugspitzstraße - Gemeinde Grainau	Zugspitzstr. 144	82491	Grainau	47.475210	11.047467	1	24/7	Keine Beschränkung	DEESBE050701~TYPE2:22|DEESBE050702~TYPE2:22
+1147292	Energie Südbayern GmbH	ESB_0508_01 / Hammersbacher Fußweg - Gemeinde Grainau	Hammersbacher Fußweg 28	82491	Grainau	47.468948	11.039747	1	24/7	Keine Beschränkung	DEESBE050801~TYPE2:22|DEESBE050802~TYPE2:22
+1151348	Wirelane GmbH		Lagerhausstr. 7	82467	Garmisch-Partenkirchen	47.490326	11.099327	1		Keine Beschränkung	DE*WLN*EP000711~CCS2:50|DE*WLN*EP000712~CCS2:50
+1151550	Wirelane GmbH		Hauptstr. 51	82467	Garmisch-Partenkirchen	47.495380	11.103977	1		Keine Beschränkung	DE*WLN*EP000713~CCS2:50|DE*WLN*EP000714~CCS2:50
+1151551	Wirelane GmbH		Zugspitzstr. 7	82467	Garmisch-Partenkirchen	47.491599	11.084407	1		Keine Beschränkung	DE*WLN*EP000715~CCS2:50|DE*WLN*EP000716~CCS2:50
+1151617	Wirelane GmbH		Olympiastraße 30	82467	Garmisch-Partenkirchen	47.491048	11.093388	1		Keine Beschränkung	DE*WLN*ES001545~TYPE2:11|DE*WLN*ES001546~TYPE2:11|DE*WLN*ES001547~TYPE2:11|DE*WLN*ES001548~TYPE2:11
+1151753	Wirelane GmbH		Partnachstr. 42	82467	Garmisch-Partenkirchen	47.495580	11.096649	1		Keine Beschränkung	DE*WLN*EP004091~CCS2:50|DE*WLN*EP004092~CCS2:50
+1151958	Wirelane GmbH		Schnitzschulstraße 19	82467	Garmisch-Partenkirchen	47.493303	11.106999	1		Keine Beschränkung	DE*WLN*EP000701~CCS2:50|DE*WLN*EP000702~CCS2:50
+1151965	Wirelane GmbH		Bankgasse 16	82467	Garmisch-Partenkirchen	47.492908	11.087825	1		Keine Beschränkung	DE*WLN*EP001957~CCS2:50|DE*WLN*EP001958~CCS2:50
+1152105	Wirelane GmbH		Mühlenstr. 12	82481	Mittenwald	47.441269	11.264054	1		Keine Beschränkung	DE*WLN*ES001693~TYPE2:11|DE*WLN*ES001694~TYPE2:11|DE*WLN*ES001695~TYPE2:11|DE*WLN*ES001696~TYPE2:11|DE*WLN*ES001697~TYPE2:11|DE*WLN*ES001698~TYPE2:11
+1156370	Wirelane GmbH	Dorint Sporthotel Partenkirchen	Mittenwalder Straße 59	82467	Garmisch-Partenkirchen	47.484916	11.121336	1		Keine Beschränkung	DE*WLN*ES000549~TYPE2:11|DE*WLN*ES000550~TYPE2:11|DE*WLN*ES000553~TYPE2:11|DE*WLN*ES000554~TYPE2:11|DE*WLN*EP000323~TYPE2:11|DE*WLN*EP000324~TYPE2:11
+1160208	Wirelane GmbH		Bahnhofstraße 15	82467	Garmisch-Partenkirchen	47.491585	11.101041	1		Keine Beschränkung	DE*WLN*ES001839~TYPE2:11|DE*WLN*ES001840~TYPE2:11|DE*WLN*ES001837~TYPE2:11|DE*WLN*ES001838~TYPE2:11
+1163017	Gemeindewerke Garmisch-Partenkirchen, KUWod		Schnitzschulstr. 1	82467	Garmisch-Partenkirchen	47.493307	11.107006	1		Keine Beschränkung	DEGAPE000105~TYPE2:22|DEGAPE000106~TYPE2:22
+1163406	Fastned Deutschland GmbH & Co. KG		Rathausplatz 2	82467	Garmisch-Partenkirchen	47.494284	11.104792	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400

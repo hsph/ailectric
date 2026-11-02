@@ -1,0 +1,200 @@
+1012336	EWR AG		Alfred-Nobel-Straße 2a	55411	Bingen-Sponsheim	49.924926	7.932242	1			~TYPE2:22|~TYPE2:22
+1012338	EWR AG		In den Weiden 7	55437	Ockenheim	49.939679	7.977056	1			~TYPE2:22|~TYPE2:22
+1012341	EWR AG		Ernst-Ludwig-Straße 16	55597	Wöllstein	49.814041	7.960362	1			~TYPE2:22|~TYPE2:22
+1012639	Westenergie Metering GmbH		Königsbergerstr. 1 Z	55442	Stromberg	49.947221	7.788534	1			~TYPE2:22|~TYPE2:22
+1012672	Westenergie Metering GmbH		Am Stromberg 12	55595	Bockenau	49.833685	7.685004	1			~TYPE2:22|~TYPE2:22
+1012673	Westenergie Metering GmbH		Am Gräfenbach 6	55595	Wallhausen	49.888990	7.765333	1			~TYPE2:22|~TYPE2:22
+1012693	Westenergie Metering GmbH		Naheweinstr. 80	55450	Langenlonsheim	49.894051	7.900801	1			~TYPE2:22|~TYPE2:22
+1012694	Westenergie Metering GmbH		Sponheimerweg 0	55596	Waldböckelheim	49.820995	7.719219	1			~TYPE2:22|~TYPE2:22
+1012695	Westenergie Metering GmbH		Hauptstr. 46	55452	Windesheim	49.910028	7.818416	1			~TYPE2:22|~TYPE2:22
+1012698	Westenergie Metering GmbH		Arthur-Rauner-Str. 2	55595	Hargesheim	49.868674	7.819444	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1012722	Westenergie Metering GmbH		Hauptstraße 52	55618	Simmertal	49.810806	7.523645	1			~TYPE2:22|~TYPE2:22
+1012762	Westenergie Metering GmbH		Neustraße 6	55425	Waldalgesheim	49.952603	7.837079	1			~TYPE2:22|~TYPE2:22
+1012763	Westenergie Metering GmbH		Am Stausee 23	55585	Niederhausen	49.802158	7.784844	1			~TYPE2:22|~TYPE2:22
+1012798	Westenergie Metering GmbH		Schulstraße 0	55469	Simmern	49.982534	7.521389	1			~TYPE2:22|~TYPE2:22
+1012840	Westenergie Metering GmbH		Hauptstraße 25	55595	Spabrücken	49.898823	7.712976	1			~TYPE2:22|~TYPE2:22
+1013212	Westenergie Metering GmbH		Mauergasse 0	55566	Bad Sobernheim	49.785810	7.648270	1			~TYPE2:22|~TYPE2:22
+1013245	Westenergie Metering GmbH		Museumstr. 3	55411	Bingen am Rhein	49.969396	7.893363	1			~TYPE2:22|~TYPE2:22
+1021894	EWE Go GmbH		Gustav-Stresemann-Str. 2a	55411	Bingen am Rhein	49.925146	7.935804	1			~CCS2:135|~CCS2:135
+1021897	EWE Go GmbH		Sonnenhof 11	55469	Simmern	49.980880	7.536577	1			~CCS2:160|~CCS2:160
+1021996	EWE Go GmbH		Geisenheimer Str. 58	65385	Rüdesheim am Rhein	49.980433	7.936238	1			~CCS2:160|~CCS2:160
+1022147	EWE Go GmbH	McD_1235_1A	Auf dem Stein 2	55444	Waldlaubersheim	49.924380	7.826020	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1024951	EnBW mobility+ AG und Co.KG		Am Grenzgraben 6	55545	Bad Kreuznach	49.854370	7.897608	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1025013	EnBW mobility+ AG und Co.KG		Rheinhessenblick 8	55599	Gau-Bickelheim	49.835418	7.996018	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1025021	EnBW mobility+ AG und Co.KG		Gustav-Stresemann-Straße 4	55411	Bingen am Rhein	49.925648	7.935013	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1025154	EnBW mobility+ AG und Co.KG		Raststätte Hunsrück West 0	55442	Daxweiler	49.963249	7.765878	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025780	EnBW mobility+ AG und Co.KG		Autobahn 0	55442	Daxweiler	49.963435	7.765679	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1027069	EnBW mobility+ AG und Co.KG		Am Wiesenberg 1	55593	Rüdesheim	49.846000	7.822230	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027235	EnBW mobility+ AG und Co.KG		Mainzer Straße 2A	55545	Bad Kreuznach	49.856140	7.894670	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027848	EnBW mobility+ AG und Co.KG		Bosenheimer Straße 233	55543	Bad Kreuznach	49.847080	7.884752	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1030573	ESWE Versorgungs AG		Rheinstraße 4	65385	Rüdesheim am Rhein	49.977705	7.919401	1			~TYPE2:22|~TYPE2:22
+1030576	ESWE Versorgungs AG		Europastraße 11	65385	Rüdesheim am Rhein	49.981337	7.940943	1			~TYPE2:22|~TYPE2:22
+1030600	ESWE Versorgungs AG		Rüdesheimer Straße 15	65366	Geisenheim	49.981981	7.963972	1			~TYPE2:22|~TYPE2:22
+1031857	TotalEnergies Charging Solutions		Tevesstraße 1	55494	Rheinböllen	49.991777	7.689876	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1035649	ALDI SÜD		Bruchwiese 19	55585	Altenbamberg	49.794181	7.831312	1			~TYPE2:22|~TYPE2:22
+1035713	ALDI SÜD		In den Zehn Morgen 12	55559	Bretzenheim	49.874571	7.888619	1			~TYPE2:22|~TYPE2:22
+1035738	ALDI SÜD		Am Wiesenberg 3	55593	Rüdesheim (Nahe)	49.846650	7.824193	1			~TYPE2:22|~TYPE2:22
+1035790	ALDI SÜD		Alzeyer Straße 135	55543	Bad Kreuznach	49.830746	7.882876	1			~TYPE2:22|~TYPE2:22
+1035804	ALDI SÜD		Europastraße 5	65385	Rüdesheim am Rhein	49.981152	7.938538	1			~TYPE2:22|~TYPE2:22
+1035983	ALDI SÜD	BIN-038	Friedrichsheck 31	55442	Stromberg	49.949028	7.786028	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1037391	Citywatt GmbH		Mainzer Str. 7-9	55545	Bad Kreuznach	49.857876	7.896997	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~TYPE2:22
+1037392	Citywatt GmbH		Mainzer Straße 7-9	55545	Bad Kreuznach	49.857699	7.897142	1			~CCS2:300|~CCS2:300
+1037393	Citywatt GmbH		Mainzer Straße 7-9	55545	Bad Kreuznach	49.857589	7.897217	1			~CCS2:300|~CCS2:300
+1037394	Citywatt GmbH		Mainzer Straße 7-9	55545	Bad Kreuznach	49.858073	7.897174	1			~CCS2:300|~CCS2:300|~TYPE2:22
+1037415	Citywatt GmbH		Mainzer Straße 7-9	55545	Bad Kreuznach	49.857786	7.897051	1			~CCS2:300|~CCS2:300
+1037544	Citywatt GmbH		Mühlstraße 19	67728	Münchweiler	49.547830	7.883248	1			~TYPE2:22|~TYPE2:22
+1039446	IONITY GmbH		Nahetal 0	55411	Bingen am Rhein	49.925755	7.936734	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1041544	Mainzer Stadtwerke AG		Marktplatz 24	55576	Sprendlingen	49.861170	7.986410	1			~TYPE2:22|~TYPE2:22
+1043681	Allego		Auf dem Stein 1	55444	Waldlaubersheim	49.923692	7.825704	1		Keine Beschränkung	DEALLEGO003445*1~CCS2:300|DEALLEGO003445*2~CCS2:300
+1043682	Allego		Auf dem Stein 1	55444	Waldlaubersheim	49.923715	7.825556	1		Keine Beschränkung	DEALLEGO003446*1~CCS2:300|DEALLEGO003446*2~CCS2:300|DEALLEGO003447*1~CCS2:300|DEALLEGO003447*2~CCS2:300
+1048673	Lidl	6591_Lidl_Bad Sobernheim_T54-HU1-3519-010	Monzinger Str. 91	55566	Bad Sobernheim	49.787273	7.638964	1		Keine Beschränkung	~TYPE2:22|~TYPE2_TETHERED:50+CHADEMO:50|~CCS2:50
+1048684	Lidl	6373_Lidl_Bad Kreuznach_T54-IT1-1620-035	Alzeyer Str. 1	55543	Bad Kreuznach	49.841140	7.871780	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1050048	amperio GmbH (DEAMP)		Binger Straße 1	55457	Gensingen	49.900391	7.922604	1			~TYPE2:22|~TYPE2:22
+1050072	amperio GmbH (DEAMP)		Argenthaler Straße 1	55469	Simmern	49.981125	7.546252	1			~TYPE2:11|~TYPE2:11
+1050198	Pfalzwerke AG		Saarbrücker Str. 9	67742	Lauterecken	49.656139	7.590722	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1050199	Pfalzwerke AG		Im Tauchental 1	67752	Wolfstein	49.583528	7.606111	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1050210	Pfalzwerke AG		Bahnpfad 1	67728	Münchweiler Alsenz	49.550678	7.887686	1			~TYPE2:22|~TYPE2:22
+1050234	Pfalzwerke AG		Schlossstr. 0	67722	Winnweiler	49.570500	7.853611	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1050235	Pfalzwerke AG		Bezirksamtstr. 8	67809	Rockenhausen	49.629778	7.818389	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1050342	Pfalzwerke AG		Haupstraße 26	67697	Otterberg	49.500916	7.773240	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1050356	Pfalzwerke AG		Schlossgasse 0	67742	Lauterecken	49.649859	7.590681	1			~TYPE2:22|~TYPE2:22
+1050549	Pfalzwerke AG		Am Kieselberg 0	55457	Gensingen	49.902000	7.929000	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050588	Pfalzwerke AG		Bosenheimer Str. 214	55543	Bad Kreuznach	49.846410	7.885140	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050852	Pfalzwerke AG		Am Grenzgraben 14	55545	Bad Kreuznach	49.852328	7.898715	1			~CCS2:300|~CCS2:300
+1050853	Pfalzwerke AG		Am Grenzgraben 14	55545	Bad Kreuznach	49.851884	7.899807	1			~CCS2:300|~CCS2:300
+1050867	Pfalzwerke AG		Am Grenzgraben 14	55545	Bad Kreuznach	49.853183	7.899400	1			~TYPE2:22|~TYPE2:22
+1050868	Pfalzwerke AG		Am Grenzgraben 14	55545	Bad Kreuznach	49.853146	7.899432	1			~TYPE2:22|~TYPE2:22
+1051487	MER Germany		Waldstraße 3b	55425	Waldalgesheim	49.951356	7.828854	1			~TYPE2:22|~TYPE2:22
+1051651	MER Germany		Hinter der Hofstadt 8	55590	Meisenheim	49.703959	7.669894	1			~TYPE2:22|~TYPE2:22
+1051739	MER Germany		Von Drais Str. 1a	55469	Simmern	49.987555	7.544892	1			~TYPE2:22|~TYPE2:22
+1051896	MER Germany		Kreuznacher Straße 15	55546	Fürfeld	49.778214	7.890446	1			~TYPE2:22
+1054927	Aral Pulse		Hitchinstraße 44	55411	Bingen	49.926162	7.903118	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054966	Aral Pulse		Bahnhofstraße 53	55494	Rheinböllen	49.996164	7.683820	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055963	EG Elektromobilität GmbH & Co KG		Berlinstr. 109	55411	Bingen am Rhein	49.952115	7.923275	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061336	St. Josefs Hospital Rheingau		Eibinger Str. 9	65385	Rüdesheim am Rhein	49.983430	7.926950	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064813	Shell Deutschland GmbH	12112674_Bad Kreuznach	Bosenheimer Str. 286	55543	Bad Kreuznach	49.849195	7.897201	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1068702	Roman Senger		Rossbacher Straßebreit 11	67752	Wolfstein	49.575950	7.623290	1			~TYPE2:11
+1069736	Sparkasse Rhein-Nahe AdöR		Nahestraße 70	55593	Rüdesheim	49.845452	7.820429	1			~TYPE2:22|~TYPE2:22
+1071734	René Bräunling		Am Schlag 18	55546	Pfaffen-Schwabenheim	49.846997	7.950738	1			~TYPE2:11
+1073110	ALDI SÜD	BIN-037	Schwabenheimer Weg 50	55543	Bad Kreuznach	49.846199	7.824284	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11705~TYPE2:22|DE*ALD*E11706~TYPE2:22
+1073111	ALDI SÜD	BIN-007	Saarbrücker Str. 1	67742	Lauterecken	49.657798	7.591629	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11691~TYPE2:22|DE*ALD*E11692~TYPE2:22
+1074535	Scherer GmbH & Co. KG		Willy-Brandt-Allee 2	55411	Bingen am Rhein	49.912250	7.936222	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1074922	Ortsgemeinde Mörsfeld		Schulstrasse 1	67808	Mörsfeld	49.743440	7.930133	1			~TYPE2:22|~TYPE2:22
+1074946	Nico Uebel		Am Sonnenberg 12	55599	Stein-Bockenheim	49.775785	7.963181	1			~TYPE2_TETHERED:11
+1075771	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m		Kilianstraße 9	55543	Bad Kreuznach	49.846012	7.862239	1			~TYPE2:22|~TYPE2:22
+1075772	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m		Wassersümpfchen 9	55543	Bad Kreuznach	49.841113	7.862191	1			~TYPE2:22|~TYPE2:22|DE*ISE*E0016848~TYPE2:22|DE*ISE*E0016850~TYPE2:22|DE*ISE*E0016786~TYPE2:22|DE*ISE*E0016846~TYPE2:22
+1075773	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m		Kurhausstraße 22	55543	Bad Kreuznach	49.842010	7.853362	1			~TYPE2:22|~TYPE2:22
+1075774	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m		Bretzenheimer Straße 77Z	55545	Bad Kreuznach	49.870605	7.866671	1			~TYPE2:22|~TYPE2:22
+1075964	Erneuerbare Energien Rheingau-Taunus GmbH		Prälat-Werthmann-Straße 27	65366	Geisenheim	49.984638	7.965362	1			~TYPE2:22|~TYPE2:22
+1075977	Erneuerbare Energien Rheingau-Taunus GmbH		Am Alten Bahnhof 0	65385	Rüdesheim am Rhein	49.987418	7.866490	1			~TYPE2:22|~TYPE2:22
+1077222	Ladestationen Südwest GmbH & Co. KG	DELSGSABI0001	Johannisstr. 0	67697	Otterberg	49.504782	7.772179	1	24/7	Keine Beschränkung	DELSGEABI000101~CCS2:50|DELSGEABI000102~CCS2:50
+1077274	Manfred Peiter		Schöne Aussicht 33	55583	Bad Kreuznach	49.807450	7.833610	1	24/7	Keine Beschränkung	~TYPE2:3.8
+1077391	MER Germany	Geisenheim (DE*MER*E004184)	Berliner Str. 4	65366	Geisenheim	49.986030	7.969580	1	24/7	Keine Beschränkung	DE*MER*E004184*01~TYPE2:22|DE*MER*E004184*02~TYPE2:22|DE*MER*E004185*01~TYPE2:22|DE*MER*E004185*02~TYPE2:22
+1081150	Stark Energy GmbH	Stark Energy Ladepark Rheinböllen - 23BZ5561D	Am Bahnhof 4	55494	Rheinböllen	49.997285	7.680781	1	24/7	Keine Beschränkung	DE*ARK*E10014*001~CCS2:400|DE*ARK*E10014*002~CCS2:400|DE*ARK*E10015*001~CCS2:400|DE*ARK*E10015*002~CCS2:400|DE*ARK*E10017*001~CCS2:400|DE*ARK*E10017*002~CCS2:400|DE*ARK*E10016*001~CCS2:400|DE*ARK*E10016*002~CCS2:400
+1081315	Müller-Dynamic GmbH		Rudolf-Diesel-Str. 1	55469	Simmern	49.993760	7.528423	1			~TYPE2:22|~TYPE2:22
+1081510	MER Germany	Bad Sobernheim (DE*MER*E009916)	Mauergasse 11	55566	Bad Sobernheim	49.786067	7.648188	1	24/7	Keine Beschränkung	DE*MER*E009916*01~CCS2:400|DE*MER*E009916*02~CCS2:400|DE*MER*E009946*01~CCS2:400|DE*MER*E009946*02~CCS2:400
+1084554	Alexander Krick		Langer Boden 19	67734	Katzweiler	49.502539	7.699277	1			~TYPE2:10
+1084738	Armin Odenkirchen		Am Holler 23	67697	Otterberg	49.506372	7.756566	1			~TYPE2_TETHERED:11
+1085027	Burkhard Kirdorf		Berliner Str. 35	65385	Rüdesheim am Rhein	49.983440	7.933523	1			~TYPE2_TETHERED:11
+1085145	Christiane Kiesgen		Keltenring 38	55425	Waldalgesheim	49.957202	7.829167	1			~TYPE2_TETHERED:11
+1085294	Daria Joanna Ricke		Rotenfelser Straße 26	55595	Traisen	49.821058	7.817497	1			~TYPE2:11
+1085310	David Möhrstedt		Burgstraße 14	55411	Bingen am Rhein	49.949974	7.913055	1			~TYPE2_TETHERED:11
+1085408	Dirk Martin		Ringstraße 8	67680	Neuhemsbach	49.521160	7.917503	1			~TYPE2_TETHERED:11
+1085627	FiBo-Cars		In der Krummgewann 9	55597	Wöllstein	49.812599	7.959970	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085684	Frank Lunkenheimer		Sonnenhang 33	55444	Seibersbach	49.964319	7.722074	1			~TYPE2_TETHERED:3|~TYPE2:11|~TYPE2:3
+1085934	Häusliche Krankenpflege Gernot Bäumler GmbH		Sudetenstr. 24	65385	Rüdesheim am Rhein	49.982144	7.930112	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1086371	Jürgen App		Goldbergstr. 4	55457	Gensingen	49.897792	7.928357	1			~TYPE2_TETHERED:22
+1086444	Kathrin Langheinrich-Scholl		Kirchweg 14	55546	Tiefenthal	49.761478	7.907306	1			~TYPE2_TETHERED:11
+1086934	Matthias Schwantner		Kastanienweg 19	67814	Dannenfels	49.624010	7.949139	1			~TYPE2_TETHERED:11
+1087131	Nicolai Leistikow		Gartenstraße 12	67724	Höringen	49.555743	7.794213	1			~TYPE2:3
+1087576	Roland Christian Keßler		Im Wiesengrund 11a	55566	Meddersheim	49.776346	7.617658	1			~TYPE2:11
+1087828	Stefan Munzlinger		Am Böhl 9	55566	Kirschroth	49.759727	7.573277	1			~TYPE2_TETHERED:22
+1087906	Stephan Brust		Ledderhoserweg 22	55543	Bad Kreuznach	49.844016	7.873135	1			~TYPE2_TETHERED:22
+1088045	Thomas Fein		Saarlandstraße 188	55411	Bingen am Rhein	49.951242	7.908059	1			~TYPE2:11
+1089266	Westenergie Metering GmbH		Hauptstraße 82 Z	67749	Offenbach-Hundheim	49.622347	7.551462	1			~TYPE2:22|~TYPE2:22
+1093530	Klaus Frank		Hauptstraße 4	55452	Windesheim	49.906570	7.816457	1			~TYPE2:11
+1097080	Autohaus Sydow GmbH		Saarbrücker Str. 67	67742	Lauterecken	49.650242	7.586225	1			~CCS2:22|~TYPE2:11
+1097784	Westenergie Metering GmbH		Binger Str. 3	55442	Stromberg	49.944821	7.777666	1	24/7	Keine Beschränkung	DE*EON*E002522~TYPE2:22|DE*EON*E002525~TYPE2:22
+1097976	ESWE Versorgungs AG	Auf der Lach P5	Auf der Lach 4	65385	Rüdesheim am Rhein	49.978605	7.931021	1	24/7	Keine Beschränkung	DEESWE008501~TYPE2:22|DEESWE008502~TYPE2:22
+1100629	Tesla Germany GmbH		Am Kieselberg 11	55457	Gensingen	49.902277	7.929573	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101527	Tesla Germany GmbH		Auf dem Stein 1	55444	Waldlaubersheim	49.924001	7.825672	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102482	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Zum Wacholder 2	55583	Bad Kreuznach	49.801420	7.838091	1			~TYPE2:22|~TYPE2:22
+1102483	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Mühlenstraße 38	55543	Bad Kreuznach	49.844890	7.860520	1			~TYPE2:22|~TYPE2:22
+1102484	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Badeallee 1	55543	Bad Kreuznach	49.839451	7.857102	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1102485	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Saline Theodorshalle 1	55543	Bad Kreuznach	49.825815	7.848712	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1102489	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Gymnasialstraße 4-14	55543	Bad Kreuznach	49.842609	7.859205	1			~TYPE2:11|~TYPE2:11
+1102490	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Hochstraße 45	55543	Bad Kreuznach	49.847930	7.857570	1			~TYPE2:11|~TYPE2:11
+1102491	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Saline Karlshalle 3Z	55543	Bad Kreuznach	49.829535	7.849282	1			~TYPE2:11|~TYPE2:11
+1102492	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Kurhausstraße 22Z	55543	Bad Kreuznach	49.842050	7.853320	1			~TYPE2:22|~TYPE2:22
+1102493	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Neuruppiner Platz 15	55543	Bad Kreuznach	49.842901	7.862234	1			~TYPE2:22|~TYPE2:22
+1102494	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach mbH		Wassersümpfchen 9	55543	Bad Kreuznach	49.841079	7.862246	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104178	Auto-Rau GmbH		Nahestr. 83	55593	Rüdesheim	49.846220	7.825970	1			~TYPE2:22|~TYPE2:22
+1104502	EnBW mobility+ AG und Co.KG		Argenthaler Str. 3	55469	Simmern	49.982627	7.547163	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300+CHADEMO:50|~CCS2:300|~TYPE2:22|~CCS2:300+CHADEMO:50|~CCS2:300|~TYPE2:22
+1105939	Stadtwerke Bingen		Rheinkai 16	55411	Bingen am Rhein	49.969489	7.897916	1			~TYPE2:11|~TYPE2:11
+1105940	Stadtwerke Bingen		Hindenburganlage 0	55411	Bingen am Rhein	49.969605	7.897270	1			~TYPE2:11|~TYPE2:11
+1105941	Stadtwerke Bingen		Koblenzer Str. 62	55411	Bingen am Rhein	49.967364	7.885271	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114167	AUTOPLUS AG		Sonnenhof 13	55469	Simmern	49.981300	7.537640	1			~TYPE2:22|~TYPE2:22
+1114309	Thiemo Winkler		Auguust Gerlach Strassee 34	55442	Stromberg	49.940161	7.773620	1			~TYPE2:11+SCHUKO:11|~TYPE2:22
+1114402	Stollhof Hotel-Restaurant GmbH		Bastenhaus 1	67814	Dannenfels	49.640860	7.918690	1			~TYPE2:11|~TYPE2:11
+1116309	ALDI SÜD	BIN-039	In der Krummgewann 3	55597	Wöllstein	49.823220	7.974590	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23346~CCS2:50|DE*ALD*E23347~CCS2:50
+1117989	ClassicX Landhaus & Hotel	ClassicX Landhaus & Hotel	Kreuznacher Str. 61	55457	Gensingen	49.889870	7.920010	1	24/7	Keine Beschränkung	E72FF~TYPE2:22|E2YEE~TYPE2:22|EY5W3~TYPE2:22|EY3DY~TYPE2:22
+1119295	Volksbank Rhein-Nahe-Hunsrück eG		Salinenstr. 34	55543	Bad Kreuznach	49.841749	7.861227	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119425	Volksbank Rhein-Nahe-Hunsrück eG		Großstr. 88	55566	Bad Sobernheim	49.784567	7.654475	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119431	Volksbank Rhein-Nahe-Hunsrück eG		Königsberger Str. 1f	55442	Stromberg	49.947787	7.787333	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119437	Volksbank Rhein-Nahe-Hunsrück eG		An der Pforte 2	55450	Langenlonsheim	49.893451	7.899976	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1120118	DRK KH	DRK Kreisverband Bad Kreuznach e.V.	Rüdesheimer Str. 36	55545	Bad Kreuznach	49.849082	7.850177	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1120510	Pfalzwerke AG	Leonardo Hotel Bad Kreuznach	Otto-Meffert-Str. 1	55543	Bad Kreuznach	49.853271	7.883886	1	24/7	Keine Beschränkung	DE*PWA*EALF24423X00565*01~TYPE2:11|DE*PWA*EALF24423X00565*02~TYPE2:11
+1125664	Pfalzwerke AG	Globus Baumarkt Simmern	Rödelbachstr. 3	55469	Simmern	49.982341	7.549395	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01094*01~CCS2:300|DE*PWA*EALP22270X01094*02~CCS2:300
+1125665	Pfalzwerke AG	Globus Baumarkt Simmern	Rödelbachstr. 3	55469	Simmern	49.982338	7.549264	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01095*01~CCS2:300|DE*PWA*EALP22270X01095*02~CCS2:300
+1125757	cocharge	DECOC198	Am Weltersberg 5c	55452	Laubenheim	49.919183	7.893924	1	24/7	Keine Beschränkung	DE*COC*E198*01~TYPE2:11
+1127466	EnBW mobility+ AG und Co.KG		In den Weiden 1-3	55437	Ockenheim	49.939567	7.970627	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1129319	Ladestationen Südwest GmbH & Co. KG	DELSGSSKL0047	Jakobstr. 27A	67722	Winnweiler	49.566397	7.854893	1	24/7	Keine Beschränkung	DELSGESKL004701~TYPE2:22|DELSGESKL004702~TYPE2:22|DELSGESKL004703~TYPE2:22|DELSGESKL004704~TYPE2:22|DELSGESKL004705~TYPE2:22|DELSGESKL004706~TYPE2:22
+1131015	Pfalzwerke AG	D-Netz Leonardo Hotel Bad Kreuznach (ALP22541X01707)	Otto-Meffert-Str. 1	55543	Bad Kreuznach	49.852830	7.882997	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01707*01~CCS2:400|DE*PDN*EALP22541X01707*02~CCS2:400
+1131017	Pfalzwerke AG	D-Netz Leonardo Hotel Bad Kreuznach (ALP22541X01708)	Otto-Meffert-Str. 1	55543	Bad Kreuznach	49.852889	7.882936	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01708*01~CCS2:400|DE*PDN*EALP22541X01708*02~CCS2:400
+1132457	Süwag Vertrieb AG & Co. KG		Beinstr. 3	65366	Geisenheim	49.983320	7.964750	1	24/7	Keine Beschränkung	DE*SUE*ECC5793*156~TYPE2:22|DE*SUE*ECC5793*155~TYPE2:22
+1132582	E.ON Drive Infrastructure		Raststätte Hunsrück Ost 0	55442	Stromberg	49.963766	7.768675	1	24/7	Keine Beschränkung	~CCS2:160|~CCS2:160
+1132584	Tesla Germany GmbH		Im Boorstück 14	55469	Simmern	49.982764	7.547228	1	24/7	Keine Beschränkung	DE*TSL*E1F8RNO~CCS2:250|DE*TSL*E1F8RNP~CCS2:250|DE*TSL*E1F8RNQ~CCS2:250|DE*TSL*E1F8RNR~CCS2:250|DE*TSL*E1F8RNS~CCS2:250|DE*TSL*E1F8ROF~CCS2:250|DE*TSL*E1F8RPR~CCS2:250|DE*TSL*E1F8RRA~CCS2:250
+1133423	EnBW mobility+ AG und Co.KG	Rewe Bad Sobernheim, Kapellenstraße	Kapellenstraße 2	55566	Bad Sobernheim	49.784233	7.654150	1	24/7	Keine Beschränkung	DE*EBW*E916388*1~CCS2:150|DE*EBW*E916388*2~CCS2:150|DE*EBW*E916388*3~TYPE2:22|DE*EBW*E916373*1~CCS2:300|DE*EBW*E916373*2~CCS2:300
+1136638	Süwag Vertrieb AG & Co. KG		Bischof-Blum-Platz 10	65366	Geisenheim	49.982944	7.967117	1	24/7	Keine Beschränkung	DE*SUE*ECC5793*159~CCS2:50|DE*SUE*ECC5793*160~CCS2:50
+1136640	Süwag Vertrieb AG & Co. KG		Wiesenstr. 7	65366	Geisenheim	49.983145	7.969319	1	24/7	Keine Beschränkung	DE*SUE*ECC5793*157~CCS2:50|DE*SUE*ECC5793*158~CCS2:50
+1136881	Yannick Krück		Donnersberger Str. 3	67808	Ruppertsecken	49.646520	7.884240	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1136913	EnBW mobility+ AG und Co.KG	GLOBUS Warenhaus Gensingen	Binger Straße 1	55457	Gensingen	49.900950	7.925973	1	24/7	Keine Beschränkung	DE*EBW*E910793*1~CCS2:300|DE*EBW*E910793*2~CCS2:300|DE*EBW*E910788*1~CCS2:150|DE*EBW*E910788*2~CCS2:150|DE*EBW*E910678*1~CCS2:150|DE*EBW*E910678*2~CCS2:150|DE*EBW*E910794*1~CCS2:150|DE*EBW*E910794*2~CCS2:150|DE*EBW*E911499*1~CCS2:150|DE*EBW*E911499*2~CCS2:150|DE*EBW*E910707*1~CCS2:150|DE*EBW*E910707*2~CCS2:150|DE*EBW*E911495*1~CCS2:150|DE*EBW*E911495*2~CCS2:150|DE*EBW*E911492*1~CCS2:150|DE*EBW*E911492*2~CCS2:150|DE*EBW*E911496*1~CCS2:150|DE*EBW*E911496*2~CCS2:150|DE*EBW*E910680*1~CCS2:150|DE*EBW*E910680*2~CCS2:150|DE*EBW*E910759*1~CCS2:150|DE*EBW*E910759*2~CCS2:150|DE*EBW*E910791*1~CCS2:150|DE*EBW*E910791*2~CCS2:150|DE*EBW*E910792*1~CCS2:150|DE*EBW*E910792*2~CCS2:150|DE*EBW*E910789*1~CCS2:150|DE*EBW*E910789*2~CCS2:150
+1138913	Nico Uebel		Dessauer Str. 41	55545	Bad Kreuznach	49.842000	7.867000	1	24/7	Keine Beschränkung	~TYPE2:11
+1139597	E.ON Drive GmbH		Holzbacher Str. 1	55469	Simmern	49.981780	7.515980	1		Keine Beschränkung	DE*DER*E29001012*1~TYPE2:11
+1140211	E.ON Drive GmbH		Wolfsheimer Str. 1	55543	Bad Kreuznach	49.843203	7.869387	1		Keine Beschränkung	DE*EDR*E22014588*1~TYPE2:22|DE*EDR*E22014588*2~TYPE2:22
+1144128	EnBW mobility+ AG und Co.KG	REWE Meisenheim, Im Briel	Im Briel 1	55590	Meisenheim	49.715073	7.664068	1	24/7	Keine Beschränkung	DE*EBW*E913799*1~CCS2:200|DE*EBW*E913799*2~CCS2:200|DE*EBW*E913800*1~CCS2:200|DE*EBW*E913800*2~CCS2:200
+1144130	ESWE Versorgungs AG	Parkplatz Uferstraße	Rheinstr. 22	65366	Geisenheim	49.980420	7.966980	1	24/7	Keine Beschränkung	DEESWE025401~CCS2:50|DEESWE025402~CCS2:50|DEESWE025403~CCS2:50|DEESWE025404~CCS2:50
+1145876	Müller Immobilien GmbH & Co. KG		Rudolf-Diesel-Str. 1	55469	Simmern	49.993755	7.528270	1	24/7	Keine Beschränkung	DE*GMS*E236532 DE*GMS*E236533~CCS2:50+TYPE2_TETHERED:22
+1146078	Frank Lunkenheimer	Garage	Sonnenhang 33	55444	Seibersbach	49.962303	7.722181	1	Di-Do 07:00-11:30, Sa 09:00-17:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2:3.8
+1147242	Lidl	6813_Lidl_Rüdesheim_T65-IT1-0625-017	Industriestr. 12	55593	Rüdesheim	49.845110	7.820950	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1147446	Autohaus Sydow		Saarbrücker Str. 67	67742	Lauterecken	49.650570	7.585850	1	24/7	Keine Beschränkung	~CCS2:22|~TYPE2:11
+1147736	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Öffentliche Ladestation im City Parkhaus Mannheimer Straße	Mannheimer Str. 183	55543	Bad Kreuznach	49.841135	7.864314	1	24/7	Keine Beschränkung	DE*ISE*EA157187~TYPE2:11
+1147742	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkhaus Diakonie Ladestation LP200799	Hans-Schumm-Str. 8	55543	Bad Kreuznach	49.838325	7.863080	1	24/7	Keine Beschränkung	DE*ISE*E0016527~TYPE2:11|DE*ISE*E0016531~TYPE2:11|DE*ISE*E0016529~TYPE2:11|DE*ISE*E0016528~TYPE2:11|DE*ISE*EA125699~TYPE2:11|DE*ISE*E0016526~TYPE2:11
+1147751	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Wohnpark Hargesheim Ladestation LP2013EB	Arthur-Rauner-Str. 7	55595	Hargesheim	49.870547	7.821375	1	24/7	Keine Beschränkung	DE*ISE*EA123591~TYPE2:11|DE*ISE*EA132639~TYPE2:11|DE*ISE*EA128877~TYPE2:11|DE*ISE*EA176141~TYPE2:11|DE*ISE*EA115772~TYPE2:11
+1147760	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	GWS Waldalgesheimer Straße Ladestation LP2002FD	Waldalgesheimer Str. 102	55545	Bad Kreuznach	49.872397	7.872694	1	24/7	Keine Beschränkung	DE*ISE*E0016797~TYPE2:11|DE*ISE*EA164145~TYPE2:11|DE*ISE*EA136447~TYPE2:11|DE*ISE*E0016795~TYPE2:11
+1147764	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz George-Marshall-Str. Ladestation CSN0070520	George-Marshall-Str. 8	55543	Bad Kreuznach	49.841285	7.876901	1	24/7	Keine Beschränkung	DE*ISE*EA191436~TYPE2:22|DE*ISE*EA195566~CCS2:50
+1147766	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz George-Marshall-Str. Ladestation CSN0070518	Königsgartenstr. 1	55583	Bad Kreuznach	49.812565	7.833574	1	24/7	Keine Beschränkung	DE*ISE*EA172526~TYPE2:22|DE*ISE*EA152189~CCS2:50
+1147769	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz Van-Recum-Str. Ladestation CSN0070519	Van-Recum-Str. 8	55545	Bad Kreuznach	49.847558	7.853275	1	24/7	Keine Beschränkung	DE*ISE*EA128479~TYPE2:22|DE*ISE*EA176415~CCS2:50
+1150902	Volksbank Rhein-Nahe-Hunsrück eG		Sponheimer Str. 2	55595	Weinsheim	49.837489	7.767173	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1154317	ESWE Versorgungs AG	Parkplatz alte Post DC	Rheinstr. 4	65385	Rüdesheim am Rhein	49.977642	7.919394	1	24/7	Keine Beschränkung	DEESWE001303~CCS2:100|DEESWE001304~CCS2:100
+1154588	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz P1 Salinental PR01207	Saline Theodorshalle 1	55543	Bad Kreuznach	49.825815	7.848712	1	24/7	Keine Beschränkung	DE*ISE*E0016792~TYPE2:22|DE*ISE*E0016794~TYPE2:22
+1154589	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz P1 Salinental PR01201	Saline Theodorshalle 1	55543	Bad Kreuznach	49.825899	7.848572	1	24/7	Keine Beschränkung	DE*ISE*E0016796~TYPE2:22|DE*ISE*E0016798~TYPE2:22
+1154590	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz P1 Salinental PR01204	Saline Theodorshalle 1	55543	Bad Kreuznach	49.825748	7.848718	1	24/7	Keine Beschränkung	DE*ISE*E0016785~TYPE2:22|DE*ISE*E0016787~TYPE2:22
+1154593	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz Neuruppiner Platz PO00870	Neuruppiner Platz 15	55543	Bad Kreuznach	49.842901	7.862234	1	24/7	Keine Beschränkung	DE*ISE*E0016788~TYPE2:22|DE*ISE*E0016790~TYPE2:22
+1154597	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz Jahnhalle PO00875	Hochstr. 45	55545	Bad Kreuznach	49.847943	7.857554	1	24/7	Keine Beschränkung	DE*ISE*E0017493~TYPE2:22|DE*ISE*E0017494~TYPE2:22
+1154598	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz Gymnasialstraße PO00874	Gymnasialstr. 4-14	55543	Bad Kreuznach	49.842609	7.859204	1	24/7	Keine Beschränkung	DE*ISE*E0017497~TYPE2:22|DE*ISE*E0017498~TYPE2:22
+1154603	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	City Parkhaus Mühlenstraße LP0091DF	Mühlenstr. 38	55543	Bad Kreuznach	49.844890	7.860520	1	24/7	Keine Beschränkung	DE*ISE*E0010528~TYPE2:11|DE*ISE*E0010530~TYPE2:11
+1154606	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	City Parkhaus Mühlenstraße LP201647	Mühlenstr. 38	55543	Bad Kreuznach	49.844713	7.860227	1	24/7	Keine Beschränkung	DE*ISE*E0016524~TYPE2:11
+1154608	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	City Parkhaus Mühlenstraße LP2014CA	Mühlenstr. 38	55543	Bad Kreuznach	49.844844	7.860457	1	24/7	Keine Beschränkung	DE*ISE*E0016525~TYPE2:11|DE*ISE*E0016523~TYPE2:11
+1154626	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkhaus Kurviertel LP0092AF	Badeallee 1	55543	Bad Kreuznach	49.839529	7.857219	1	24/7	Keine Beschränkung	DE*ISE*E0016791~TYPE2:22
+1154627	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkhaus Kurviertel LP0092CB	Badeallee 1	55543	Bad Kreuznach	49.839336	7.856971	1	24/7	Keine Beschränkung	DE*ISE*E0016789~TYPE2:22|DE*ISE*E0016793~TYPE2:22
+1154629	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkhaus Kurviertel LP009A8D	Badeallee 1	55543	Bad Kreuznach	49.839451	7.857102	1	24/7	Keine Beschränkung	DE*ISE*E0021369~TYPE2:22
+1154630	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkhaus Kurviertel LP009A93	Badeallee 1	55543	Bad Kreuznach	49.839416	7.856968	1	24/7	Keine Beschränkung	DE*ISE*E0021370~TYPE2:22
+1155135	Gesellschaft für Beteiligungen und Parken in Bad Kreuznach m	Parkplatz Bourger Platz X103000009872	Bourger Platz 1	55543	Bad Kreuznach	49.844180	7.861624	1	24/7	Keine Beschränkung	DE*ISE*EA145424~TYPE2:22|DE*ISE*EA156785~TYPE2:22
+1156478	Wirelane GmbH	Private - Mark Hartmann	Pappelweg 6	55442	Stromberg	49.928318	7.770317	1		Keine Beschränkung	DE*WLN*ES000443~TYPE2:11|DE*WLN*ES000444~TYPE2:11|DE*WLN*ES000441~TYPE2:11|DE*WLN*ES000442~TYPE2:11
+1157012	Wirelane GmbH		Schlossberg 16	67681	Wartenberg-Rohrbach	49.530702	7.850592	1		Keine Beschränkung	DE*WLN*EP001299~TYPE2:22|DE*WLN*EP001300~TYPE2:22
+1157101	Wirelane GmbH		Binger Weg 8	55546	Hackenheim	49.824917	7.902611	1		Keine Beschränkung	DE*WLN*EP001787~TYPE2:22|DE*WLN*EP001788~TYPE2:22
+1158924	FCM	FCM Gästeparkplatz	Schwabenheimer Weg 137	55543	Bad Kreuznach	49.852398	7.893257	1	Mo-Fr 08:00-22:00, Sa-So 09:00-18:00	Keine Beschränkung	DK*MON*E6404736~TYPE2_TETHERED:22|DK*MON*E6404733~TYPE2_TETHERED:22|DK*MON*E6404735~TYPE2_TETHERED:22
+1159978	Westenergie Metering GmbH		Im Haferacker 17	55497	Ellern (Hunsrück)	49.981663	7.643010	1	24/7	Keine Beschränkung	DE*WEA*E0000152*1~TYPE2:22|DE*WEA*E0000152*2~TYPE2:22
+1160128	Westenergie Metering GmbH		Ludwigstr. 13	55469	Simmern	49.985302	7.526998	1	24/7	Keine Beschränkung	DE*WEA*E0000066*1~TYPE2:22|DE*WEA*E0000066*2~TYPE2:22
+1160130	Westenergie Metering GmbH		Saarstr. 2	55590	Meisenheim	49.708537	7.670205	1	24/7	Keine Beschränkung	DE*WEA*E0000070*1~TYPE2:22|DE*WEA*E0000070*2~TYPE2:22

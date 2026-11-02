@@ -1,0 +1,430 @@
+1002274	nvb smart GmbH		Am Bade 1	48455	Bad Bentheim	52.317878	7.161214	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002275	nvb smart GmbH		Bahnhofstr. 24	48529	Nordhorn	52.432827	7.067084	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002276	nvb smart GmbH		Frensdorfer Ring 2	48529	Nordhorn	52.430913	7.064001	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1002277	nvb smart GmbH		Albert-Schweitzer-Straße 10	48527	Nordhorn	52.443161	7.064545	1			~SCHUKO:22+TYPE2:22|~TYPE2:22|~TYPE2:22
+1002279	nvb smart GmbH		Heideschulstraße 2	48531	Nordhorn	52.461684	7.156348	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002280	nvb smart GmbH		Gildkamp 10	48529	Nordhorn	52.438851	7.070432	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002281	nvb smart GmbH		Mathildenstraße 30	48529	Nordhorn	52.416703	7.074353	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002282	nvb smart GmbH		Am Sportpark 19	48531	Nordhorn	52.424060	7.082893	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002283	nvb smart GmbH		Nino-Allee 11	48529	Nordhorn	52.426602	7.071510	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|DENVBE001505~CCS2:50|DENVBE001506~CCS2:50
+1002289	nvb smart GmbH		Gildkamp 10a	48529	Nordhorn	52.439067	7.070129	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002295	nvb smart GmbH		van-Delden-Straße 1-7	48529	Nordhorn	52.433464	7.061985	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002299	nvb smart GmbH		Frensdorfer Ring 1	48529	Nordhorn	52.430940	7.063898	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75
+1002301	nvb smart GmbH		Deegfelder Weg 90	48531	Nordhorn	52.449539	7.071821	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002302	nvb smart GmbH		Heseper Weg 40	48529	Nordhorn	52.435830	7.081460	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002305	nvb smart GmbH		Lange Straße 58	48529	Nordhorn	52.439850	7.070450	1			~CCS2:75|~CCS2:75
+1002307	nvb smart GmbH		Karl-Braun-Str. 2	48531	Nordhorn	52.465303	7.156243	1			~CCS2:75|~CCS2:75
+1004458	Stein GmbH		Wiemelfeldstr. 48	48565	Steinfurt	52.118947	7.386881	1			~TYPE2:22|~TYPE2:22
+1004459	Stein GmbH		Gantenstr. 8	48565	Steinfurt	52.121157	7.391929	1			~TYPE2:22|~TYPE2:22
+1004460	Stein GmbH		Baumgarten 15	48565	Steinfurt	52.144441	7.336532	1			~TYPE2:22|~TYPE2:22
+1004461	Stein GmbH		Pottkamp 6	48565	Steinfurt	52.119457	7.398660	1			~CCS2:150|~CCS2:150
+1004462	Stein GmbH		Wippert 10	48565	Steinfurt	52.148918	7.339025	1			~CCS2:150|~CCS2:150
+1010979	Stadtwerke Schüttorf - Emsbüren		Quendorfer Straße 34	48465	Schüttorf	52.328953	7.227990	1			~TYPE2:22|~TYPE2:22
+1010980	Stadtwerke Schüttorf - Emsbüren		Graf-Egbert-Straße 11	48465	Schüttorf	52.319388	7.225166	1			~TYPE2:22|~TYPE2:22
+1010981	Stadtwerke Schüttorf - Emsbüren		Drievorderner Straße 95	48465	Schüttorf	52.338472	7.222833	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1010982	Stadtwerke Schüttorf - Emsbüren		Quendorfer Straße 34	48465	Schüttorf	52.328366	7.227641	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1010983	Stadtwerke Schüttorf - Emsbüren		Quendorfer Straße 34	48465	Schüttorf	52.329137	7.227287	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1010984	Stadtwerke Schüttorf - Emsbüren		Friedrich-Middendorff-Platz 1	48465	Schüttorf	52.321510	7.220861	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1010985	Stadtwerke Schüttorf - Emsbüren		Hanwische Straße 7y	48488	Emsbüren	52.395547	7.291889	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22
+1010987	Stadtwerke Schüttorf - Emsbüren		Magistratstr. 5y	48488	Emsbüren	52.393812	7.296394	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1010989	Stadtwerke Schüttorf - Emsbüren		Quendorfer Straße 25	48465	Schüttorf	52.326382	7.228467	1			~TYPE2:22|~TYPE2:22
+1010990	Stadtwerke Schüttorf - Emsbüren		Graf-Egbert-Straße 1	48465	Schüttorf	52.321479	7.225939	1			~TYPE2:22|~TYPE2:22
+1010991	Stadtwerke Schüttorf - Emsbüren		Wietkampstr. 10	48465	Schüttorf	52.323053	7.214266	1			~TYPE2:22|~TYPE2:22
+1010992	Stadtwerke Schüttorf - Emsbüren		Karlstr. 1	48465	Schüttorf	52.324015	7.218790	1			~TYPE2:22|~TYPE2:22
+1010993	Akademie Deutscher Genossenschaften ADG		Schlossweg 1	48465	Schüttorf	52.328366	7.227641	1			~TYPE2:22|~TYPE2:22
+1011316	GFC mbH		Hauptstr. 30	48720	Rosendahl	52.017467	7.208236	1			~TYPE2:22|~TYPE2:11
+1011334	GFC mbH		Schöppinger Straße 10	48720	Rosendahl	52.019717	7.211175	1			~TYPE2:22|~TYPE2:22
+1011335	GFC mbH		Droste-Hülshoff-Weg 20	48720	Rosendahl	52.016678	7.213318	1			~TYPE2:22|~TYPE2:22
+1011336	GFC mbH		Am Bahnhof 21	48720	Rosendahl	52.023026	7.278904	1			~TYPE2:22|~TYPE2:22
+1011337	GFC mbH		Sudetenstraße 17	48720	Rosendahl	52.026317	7.264860	1			~TYPE2:22|~TYPE2:22
+1011338	GFC mbH		Ollen Kamp 7	48720	Rosendahl	52.000220	7.126718	1			~TYPE2:22|~TYPE2:22
+1012661	Westenergie Metering GmbH		Ebbinghoff 20 Z	48624	Schöppingen	52.088780	7.244625	1			~TYPE2:22|~TYPE2:22
+1012700	Westenergie Metering GmbH		Ebbinghoff 10	48624	Schöppingen	52.088215	7.245059	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1012709	Westenergie Metering GmbH		Wessendorfstraße 11	48499	Salzbergen	52.321142	7.348212	1			~TYPE2:22|~TYPE2:22
+1012710	Westenergie Metering GmbH		Dr.-Josef-Stockmann-Str. 0	48499	Salzbergen	52.324803	7.347786	1			~TYPE2:22|~TYPE2:22
+1012727	Westenergie Metering GmbH		Am Kirchplatz 8	48499	Salzbergen	52.323902	7.348745	1			~TYPE2:22|~TYPE2:22
+1012881	Westenergie Metering GmbH		Münsterstr. 55	48624	Schöppingen	52.102137	7.233223	1			~TYPE2:22|~TYPE2:22
+1012882	Westenergie Metering GmbH		Düsseldorferstr. 20	48624	Schöppingen	52.101484	7.235172	1			~TYPE2:22|~TYPE2:22
+1012956	Westenergie Metering GmbH		Terup 40	48366	Laer	52.053929	7.370499	1			~TYPE2:22|~TYPE2:22
+1012957	Westenergie Metering GmbH		Südring 19	48612	Horstmar	52.079369	7.302629	1			~TYPE2:22|~TYPE2:22
+1012958	Westenergie Metering GmbH		Stadtwall 1	48612	Horstmar	52.081038	7.304687	1			~TYPE2:22|~TYPE2:22
+1012959	Westenergie Metering GmbH		Gartenstr. 14	48612	Horstmar	52.111621	7.294822	1			~TYPE2:22|~TYPE2:22
+1013011	Westenergie Metering GmbH		Auf der Brinehr 20	48480	Lünne	52.418704	7.432337	1			~TYPE2:22|~TYPE2:22
+1013076	Westenergie Metering GmbH		Schulstr. 6-20	48739	Legden	52.031258	7.103232	1			~TYPE2:22|~TYPE2:22
+1013091	Westenergie Metering GmbH		Holsterfeld 2	48499	Salzbergen	52.325833	7.429722	1			~TYPE2:22|~TYPE2:22
+1013092	Westenergie Metering GmbH		Funkenstiege 5	48455	Bad Bentheim	52.303271	7.155220	1			~TYPE2:22|~TYPE2:22
+1013093	Westenergie Metering GmbH		Professor-Prakke-Str. 1	48455	Bad Bentheim	52.309167	7.159722	1			~TYPE2:22|~TYPE2:22
+1013166	Westenergie Metering GmbH		Mühlenwall 900	48624	Schöppingen	52.091989	7.235734	1			~TYPE2:22|~TYPE2:22
+1013174	Westenergie Metering GmbH		Krüselstraße 8	48341	Altenberge	52.045278	7.469167	1			~TYPE2:22|~TYPE2:22
+1013180	Westenergie Metering GmbH		Kirchstr. 19	48493	Wettringen	52.209890	7.322250	1			~TYPE2:22|~TYPE2:22
+1013247	Westenergie Metering GmbH		Firnhaberstraße 0	48529	Nordhorn	52.435886	7.074231	1			~TYPE2:22|~TYPE2:22
+1013280	Westenergie Metering GmbH		Am Bahnhof 3z	48455	Bad Bentheim	52.305395	7.160214	1			~TYPE2:22|~TYPE2:22
+1013281	Westenergie Metering GmbH		Am Bahnhof 3z	48455	Bad Bentheim	52.309411	7.156646	1			~TYPE2:22|~TYPE2:22
+1013323	Westenergie Metering GmbH		An den Bahngleisen 0	48356	Nordwalde	52.079804	7.454804	1			~TYPE2:22|~TYPE2:22
+1013358	Westenergie Metering GmbH		Haddorf 56	48493	Wettringen	52.276657	7.324928	1			~TYPE2:22|~TYPE2:22
+1013359	Westenergie Metering GmbH		Friedhofstr. 18 Z	48493	Wettringen	52.208006	7.327579	1			~TYPE2:22|~TYPE2:22
+1013365	Westenergie Metering GmbH		Vechtestr. 10z	48624	Schöppingen	52.064300	7.243970	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013366	Westenergie Metering GmbH		Metelener Str. 2z	48642	Schöppingen	52.096647	7.228437	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1016431	Greenflash Charge		Benzstr. 6	49835	Wietmarschen	52.482750	7.218180	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:150|~CCS2:150
+1016433	Greenflash Charge		Benzstr. 6	49835	Wietmarschen	52.482563	7.218212	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1016434	Greenflash Charge		Benzstr. 6	49835	Wietmarschen	52.482547	7.218148	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1016440	Greenflash Charge		Edisonstraße 2	49808	Rheine	52.291500	7.493590	1			~TYPE2:22|~CCS2:24
+1021543	EWE Go GmbH	McD_1578_1A	An der Landesgrenze 4	48499	Salzbergen	52.324695	7.431945	1	24/7	Keine Beschränkung	DE*2GO*EMCD1578*1A*1~CCS2:150|DE*2GO*EMCD1578*1A*2~CCS2:150
+1021550	EWE Go GmbH		Zum Heidhof 22	49809	Lingen	52.497548	7.327725	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1021617	EWE Go GmbH	McD_1705_1A	Carl-Benz-Str. 10	48565	Steinfurt	52.159220	7.320210	1	24/7	Keine Beschränkung	DE*2GO*EMCD1705*1A*1~CCS2:150|DE*2GO*EMCD1705*1A*2~CCS2:150
+1021729	EWE Go GmbH	McD_1627_1A	Paxtonstr. 1	48488	Emsbüren	52.359279	7.261274	1	24/7	Keine Beschränkung	DE*2GO*EMCD1627*1A*1~CCS2:300|DE*2GO*EMCD1627*1A*2~CCS2:300
+1021730	EWE Go GmbH	McD_0521_1A	Siemensstr. 6	48599	Gronau (Westf.)	52.203026	7.057242	1	24/7	Keine Beschränkung	DE*2GO*EMCD0521*1A*1~CCS2:150|DE*2GO*EMCD0521*1A*2~CCS2:150
+1021903	EWE Go GmbH	McD_1627_1B	Paxtonstr. 1	48488	Emsbüren	52.359404	7.261368	1	24/7	Keine Beschränkung	DE*2GO*EMCD1627*1B*3~CCS2:300|DE*2GO*EMCD1627*1B*4~CCS2:300
+1022075	EWE Go GmbH		Athener Str. 3	48455	Bad Bentheim	52.321241	7.067512	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1022107	EWE Go GmbH		Lingener Str. 103	48531	Nordhorn	52.440911	7.084369	1			~CCS2:300|~CCS2:300
+1022108	EWE Go GmbH		Lingener Str. 103	48531	Nordhorn	52.440915	7.084262	1			~CCS2:300|~CCS2:300
+1022172	EWE Go GmbH		Zum Heidhof 22	49809	Lingen (Ems)	52.497625	7.327687	1			~CCS2:150|~CCS2:150
+1025150	EnBW mobility+ AG und Co.KG		Raststätte Bentheimer Wald Süd 0	48455	Bad Bentheim	52.312502	7.041832	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50|~CCS2:150|~CCS2:150+CHADEMO:150
+1026600	EnBW mobility+ AG und Co.KG		Max-Planck-Straße 24	48565	Steinfurt	52.119075	7.389811	1			~CCS2:150|~CCS2:150
+1026717	EnBW mobility+ AG und Co.KG		Maybachstraße 2	48599	Gronau	52.202210	7.063620	1			~CCS2:150|~CCS2:150
+1027096	EnBW mobility+ AG und Co.KG		Sauerbruchweg 1	48565	Steinfurt	52.116760	7.385280	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027850	EnBW mobility+ AG und Co.KG		Friedrich-Ebert-Ring 182	48429	Rheine	52.294850	7.449860	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1030826	nvb smart GmbH	nvb Schnellladestation Kokenmühlenstraße	Kokenmühlenstr. 16a	48529	Nordhorn	52.433086	7.072478	1	24/7	Keine Beschränkung	DENVBE005101~CCS2:50|DENVBE005102~CCS2:50
+1030851	nvb smart GmbH	nvb Schnellladestation Kundencenter	Beinsstiege 3	48529	Nordhorn	52.438383	7.071086	1	24/7	Keine Beschränkung	DENVBE004701~CCS2:50|DENVBE004702~CCS2:50
+1034652	Shell Deutschland GmbH		Nordring 70	48465	Schüttorf	52.328410	7.246410	1			~CCS2:300|~CCS2:300
+1034653	Shell Deutschland GmbH		Nordring 70	48465	Schüttorf	52.328968	7.246670	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1034654	Shell Deutschland GmbH		Nordring 70	48465	Schüttorf	52.328897	7.246700	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1036747	nvb smart GmbH	nvb Schnellladestation Borkener Hof	Borkener Hof 3	48527	Nordhorn	52.414099	7.044389	1	24/7	Keine Beschränkung	DENVBE004501~CCS2:50|DENVBE004502~CCS2:50
+1037182	Westfalen AG & Co. KG		Laurenzstraße 108	48607	Ochtrup	52.205593	7.210929	1			~CCS2:75
+1037214	Westfalen AG & Co. KG		Amtmann-Daniel-Str. 0	48356	Nordwalde	52.087764	7.480097	1			~TYPE2:22|~TYPE2:22
+1037215	Westfalen AG & Co. KG		Denkerstiege 0	48356	Nordwalde	52.095080	7.480097	1			~TYPE2:22|~TYPE2:22
+1037216	Westfalen AG & Co. KG		Pröbstingstr. 15	48356	Nordwalde	52.084797	7.478347	1			~TYPE2:22|~TYPE2:22
+1037459	Citywatt GmbH		Otto-Hahn-Straße 54	48529	Nordhorn	52.400491	7.076617	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037552	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321580	7.241557	1			~TYPE2:22|~TYPE2:22
+1037553	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321616	7.241653	1			~TYPE2:22|~TYPE2:22
+1037554	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321472	7.241642	1			~TYPE2:22|~TYPE2:22
+1037555	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321455	7.241803	1			~TYPE2:22|~TYPE2:22
+1037556	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321324	7.241621	1			~TYPE2:22|~TYPE2:22
+1037557	Citywatt GmbH		Holmers Kamp 6	48465	Schüttdorf	52.321393	7.241836	1			~TYPE2:22|~TYPE2:22
+1037807	RheiNet GmbH		Frankenburgstr. 7	48431	Rheine	52.276112	7.428968	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037808	RheiNet GmbH		Albert-Einstein-Str. 0	48431	Rheine	52.274440	7.433890	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037810	RheiNet GmbH		Emsstr. 33	48431	Rheine	52.277291	7.441024	1	Mo-Sa 07:00-22:00, So 08:00-20:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037811	RheiNet GmbH		Hafenbahn 10	48431	Rheine	52.271310	7.444651	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037812	RheiNet GmbH		Gisele-Freund-Str. 1	48431	Rheine	52.275714	7.415482	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037813	RheiNet GmbH		Weihbischof D Alhaus Straße 0	48429	Rheine	52.296210	7.419810	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1037815	RheiNet GmbH		Kopernikusstr. 58	48429	Rheine	52.280616	7.455565	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037817	RheiNet GmbH		Kirchstr. 1	48432	Rheine	52.237054	7.451508	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037818	RheiNet GmbH		Bevergerner Str. 83	48429	Rheine	52.282402	7.454858	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1037820	RheiNet GmbH		Humboldtplatz 8	48429	Rheine	52.281237	7.440227	1			~TYPE2:22|~TYPE2:22
+1037821	RheiNet GmbH		Hassenbrockweg 41	48432	Rheine	52.227794	7.484074	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037822	RheiNet GmbH		Heiliggeistplatz 3	48431	Rheine	52.279430	7.440119	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1038692	RheiNet GmbH		Pfarrer-Bergmannshoff-Platz 7	48431	Rheine	52.270118	7.430961	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1039350	IONITY GmbH		Salzbergen 0	48499	Salzbergen	52.326149	7.430067	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1041036	Robert Bosch GmbH		Prozessionsweg 4	48493	Wettringen	52.214367	7.317231	1			~CCS2:150+CHADEMO:150|~CCS2:150+CHADEMO:150|DE*811*E81235011*1~TYPE2:11|DE*811*E81235012*2~TYPE2:11
+1043605	Allego		Merianstraße 5	48488	Emsbüren	52.359374	7.264806	1	24/7	Keine Beschränkung	DEALLEGO003142*1~CCS2:300|DEALLEGO003142*2~CCS2:300|DEALLEGO003143*1~CCS2:300|DEALLEGO003143*2~CCS2:300|DEALLEGO003145*1~CCS2:300|DEALLEGO003145*2~CCS2:300|DEALLEGO003147*1~CCS2:300|DEALLEGO003147*2~CCS2:300
+1048636	Lidl		Fröhlkingstr. 10	49584	Fürstenau	52.304879	7.404546	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22
+1048897	Lidl	6594_Lidl_Nordhorn_T65-IT1-2122-083	Heideweg 53	48529	Nordhorn	52.419359	7.081698	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1051292	Hotel Stüer		Laerstraße 6	48341	Altenberge	52.045661	7.464102	1			~TYPE2:22|~TYPE2:22
+1052244	Kock Regenerative Energien		Benzstraße 28	48619	Heek	52.114110	7.078715	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052246	Kock Regenerative Energien		Benzstraße 28	48619	Heek	52.114160	7.078970	1			~TYPE2_TETHERED:300|~TYPE2_TETHERED:300
+1052410	Autohaus Martin Osseforth GmbH		Karl-Braun-Str. 3	48531	Nordhorn	52.465836	7.155472	1			~CCS2:50|~CCS2:190|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1053282	Q1 Autostrom	Metelen, Wettringener Straße	Wettringener Str. 5	48629	Metelen	52.145535	7.220282	1	24/7	Keine Beschränkung	DE*Q1A*E3050013011~CCS2:150|DE*Q1A*E3050013012~CCS2:150|DE*Q1A*E3050013013~TYPE2:22
+1053283	Q1 Autostrom	Bad Bentheim, Hengeloer Straße	Hengeloer Str. 11	48455	Bad Bentheim	52.295911	7.099811	1	24/7	Keine Beschränkung	DE*Q1A*E50013221~CCS2:150|DE*Q1A*E50013222~CCS2:150
+1055230	Aral Pulse		Athener Straße 1	48455	Bad Bentheim	52.320257	7.067598	1			~CCS2:300|~CCS2:300
+1055259	Aral Pulse		Benzstr. 5	49835	Wietmarschen	52.482200	7.217290	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055686	TaT Themenpark		Hovesaatstr. 6	48432	Rheine	52.301489	7.437788	1	24/7	Keine Beschränkung	DE*MDS*E005315~TYPE2:22|DE*MDS*E005309~TYPE2:22|DE*MDS*E005388~TYPE2:22|DE*MDS*E005240~TYPE2:22
+1057875	Stadtwerke Gronau GmbH		Laubstiege 34	48599	Gronau	52.205134	7.034336	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1057876	Stadtwerke Gronau GmbH		Amtsweg 0	48599	Gronau	52.178593	7.040679	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1057877	Stadtwerke Gronau GmbH		Alfred-Dragstra-Platz 0	48599	Gronau	52.211508	7.028130	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1057878	Stadtwerke Gronau GmbH		Berliner Platz 0	48599	Gronau	52.211823	7.021047	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1057879	Stadtwerke Gronau GmbH		Paßweg 3	48599	Gronau	52.179488	7.038765	1			~TYPE2:22|~TYPE2:22
+1057880	Stadtwerke Gronau GmbH		Enscheder Straße 125	48599	Gronau	52.210436	7.026100	1			~TYPE2:22|~TYPE2:22
+1057881	Stadtwerke Gronau GmbH		Parkweg 0	48599	Gronau	52.213084	7.006024	1			~TYPE2:22|~TYPE2:22
+1057882	Stadtwerke Gronau GmbH		Steinfurter Straße 21-23	48599	Gronau	52.181800	7.045000	1			~TYPE2:22
+1057883	Stadtwerke Gronau GmbH		Steinfurter Straße 17	48599	Gronau	52.181720	7.043950	1			~TYPE2:22|~TYPE2:22
+1057885	Stadtwerke Gronau GmbH		Röntgenstraße 4	48599	Gronau	52.211770	7.075950	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057895	Stadtwerke Gronau GmbH		Gronauer Str. 77	48599	Gronau (Westf.)	52.182062	7.033868	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057896	Stadtwerke Gronau GmbH		Brechter Weg 1	48599	Gronau (Westf.)	52.237699	7.080455	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057897	Stadtwerke Gronau GmbH		Am Dreiländereck 1	48599	Gronau (Westf.)	52.239603	7.067249	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057898	Stadtwerke Gronau GmbH		Eper Str. 76	48599	Gronau (Westf.)	52.203820	7.027485	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057899	Stadtwerke Gronau GmbH		Grünstiege 64	48599	Gronau (Westf.)	52.212360	7.038662	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057900	Stadtwerke Gronau GmbH		Eschweg 7	48599	Gronau (Westf.)	52.204732	7.025352	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057901	Stadtwerke Gronau GmbH		Beckerhookstr. 85	48599	Gronau (Westf.)	52.208004	7.000438	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057902	Stadtwerke Gronau GmbH		Albrechtstr. 27	48599	Gronau (Westf.)	52.208372	7.051077	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1057910	Stadtwerke Gronau GmbH		Amtsweg 0	48599	Gronau (Westf.)	52.178600	7.041810	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1057911	Stadtwerke Gronau GmbH		Auf der Sunhaar 55	48599	Gronau	52.178253	7.051021	1			~TYPE2:22|~TYPE2:22
+1057912	Stadtwerke Gronau GmbH		Gildehauser Damm 12	48599	Gronau	52.182708	7.040152	1			~TYPE2:22|~TYPE2:22
+1057913	Stadtwerke Gronau GmbH		Müllerstraße 11	48599	Gronau	52.212670	7.031959	1			~TYPE2:22|~TYPE2:22
+1057914	Stadtwerke Gronau GmbH		Graf-Arnold-Straße 11	48599	Gronau	52.216356	7.005420	1			~TYPE2:22|~TYPE2:22
+1057915	Stadtwerke Gronau GmbH		Gildehauser Straße 114	48599	Gronau	52.218236	7.037091	1			~TYPE2:22|~TYPE2:22
+1057916	Stadtwerke Gronau GmbH		Buterland Straße 92	48599	Gronau	52.208189	7.002452	1			~TYPE2:22|~TYPE2:22
+1057917	Stadtwerke Gronau GmbH		Laurenzstraße 65	48599	Gronau	52.183812	7.046380	1			~TYPE2:22|~TYPE2:22
+1057918	Stadtwerke Gronau GmbH		Fabrikstraße 3	48599	Gronau	52.215529	7.024908	1			~TYPE2:22|~TYPE2:22
+1057919	Stadtwerke Gronau GmbH	Ladesäule 1	Bentheimer Str. 33	48599	Gronau (Westf.)	52.216440	7.025460	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059247	AGRAVIS		Darmer Hafenstraße 8	49808	Lingen	52.404013	7.308298	1			~TYPE2:11|~TYPE2:11
+1059745	Cut! Energy GmbH	Landgut Ritter 1	Büren 59	48703	Stadtlohn	52.001624	7.017231	1	24/7	Keine Beschränkung	DE*CUT*E487*0310~TYPE2:11
+1059746	Cut! Energy GmbH	Landgut Ritter 2	Büren 59	48703	Stadtlohn	52.001638	7.017282	1	24/7	Keine Beschränkung	DE*CUT*E487*0311~TYPE2:11
+1061204	Lidl	3335_Lidl_Rheine_T65-IT1-0223-179	Otto-Bergmeyer-Str. 1	48431	Rheine	52.275193	7.437286	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1062593	Jan Wehmann		Rapunzelweg 10	48431	Rheine	52.263715	7.438776	1	24/7	Keine Beschränkung	~TYPE2:22
+1062940	LMA NRW	Steinweg 2, 48619 Heek-Nienborg	Steinweg 2	48619	Heek	52.132789	7.103275	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063041	EnBW mobility+ AG und Co.KG		Stadtring 60	48527	Nordhorn	52.438000	7.068340	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1063085	Cut! Energy GmbH	Ridderstraße Ahaus	Ridderstr. 15	48683	Ahaus	52.079679	7.018281	1	24/7	Keine Beschränkung	DE*CUT*E200*0024*1~TYPE2:22|DE*CUT*E200*0024*2~TYPE2:22
+1063558	ORLEN Deutschland GmbH		Osnabrücker Straße 242	48429	Rheine	52.285785	7.465288	1			~CCS2:150|~CCS2:150
+1063818	nvb smart GmbH	nvb Schnellladestation Bentheimer Str.	Bentheimer Str. 118b	48529	Nordhorn	52.424790	7.077114	1	24/7	Keine Beschränkung	DENVBE005201~CCS2:50|DENVBE005202~CCS2:50
+1063819	Cut! Energy GmbH	Berufskolleg Ahaus	Lönsweg 22	48683	Ahaus	52.085551	7.011057	1	24/7	Keine Beschränkung	DE*CUT*E200*0022*1~TYPE2:22|DE*CUT*E200*0022*2~TYPE2:22
+1063829	EnBW mobility+ AG und Co.KG		Heinrich-Heine-Str. 1	48455	Bad Bentheim	52.307200	7.166860	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1063831	Cut! Energy GmbH	Kirmesplatz Ahaus	Frauenstr. 11	48683	Ahaus	52.075111	7.001439	1	24/7	Keine Beschränkung	DE*CUT*E200*0026*1~TYPE2:22|DE*CUT*E200*0026*2~TYPE2:22
+1063832	Cut! Energy GmbH	Bahnhof Ahaus	Parallelstr. 12	48683	Ahaus	52.082560	7.016040	1	24/7	Keine Beschränkung	DE*CUT*E200*0021*1~TYPE2:22|DE*CUT*E200*0021*2~TYPE2:22
+1066528	Cut! Energy GmbH	Rathaus Ahaus	Am Schloßgraben 2	48683	Ahaus	52.074250	7.008450	1	24/7	Keine Beschränkung	DE*CUT*E200*0030*1~TYPE2:22|DE*CUT*E200*0030*2~TYPE2:22
+1066611	AluWint - Aluminium Wintergärten Zevenbergen		Dieselstr 8	48683	Ahaus	52.079969	7.013014	1			~TYPE2:22|~TYPE2:22
+1066719	Christian Plenter		Veilchenstr. 6	48485	Neuenkirchen	52.239026	7.380365	1			~TYPE2_TETHERED:11
+1066762	HS Getraenke		Döppers Esch 8	48531	Nordhorn	52.444763	7.092120	1			~TYPE2:22|~TYPE2:22
+1067918	3 W - Ladepark A31 Ahaus/Legden		Industriepark 2	48739	Legden	52.047679	7.063473	1			~CCS2:75|~CCS2:75|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1068100	Lagerkorn GmbH		Düsseldorfer Straße 20	48624	Schöppingen	52.100653	7.236090	1			~TYPE2:22|~TYPE2:22
+1068339	RheiNet GmbH	Von-Liebig-Straße / Parkstreifen	Von-Liebig-Str. 7	48432	Rheine	52.312410	7.439302	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068341	RheiNet GmbH	Osningstraße / Parkstreifen	Osningstr. 61	48429	Rheine	52.289521	7.466723	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068342	RheiNet GmbH	Siedlerstraße / Parkstreifen	Siedlerstr. 7	48429	Rheine	52.287378	7.474261	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068343	RheiNet GmbH	Schützenstraße / Parkstreifen	Schützenstr. 58-60	48429	Rheine	52.280381	7.464512	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068344	RheiNet GmbH	Graf-von-Stauffenberg-Straße / Parkstreifen	Graf-von-Stauffenberg-Str. 27	48432	Rheine	52.257878	7.479615	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068345	RheiNet GmbH	Steinfurter Straße / Parkstreifen	Steinfurter Str. 84	48431	Rheine	52.271815	7.425806	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068436	Franz Tacke Haus		Max Born Strasse 1	48431	Rheine	52.275257	7.433486	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069036	ESB Mobility		Industriestraße 26	48629	Metelen	52.157310	7.233470	1			~TYPE2:22
+1069037	ESB Mobility		Kreuzweg 64	48607	Ochtrup	52.200858	7.173008	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069498	Autohaus Krechting		Prof.-Gärtner-Str. 30-32	48607	Ochtrup	52.207056	7.186306	1			~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1069499	Autohaus Krechting		Prof.-Gärtner-Str. 30	48607	Ochtrup	52.207089	7.186242	1			~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1070016	RheiNet GmbH	Görrestraße / Parkstreifen	Görresstr. 14	48431	Rheine	52.267094	7.441371	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1070314	Kortmann Beton GmbH & Co. KG		Holmers Kamp 6	48465	Schüttorf	52.321452	7.241573	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1070400	Stadtwerke Lingen GmbH		Schützenplatz 1	49835	Wietmarschen	52.496493	7.227636	1			~TYPE2:22|~TYPE2:22
+1070407	Stadtwerke Lingen GmbH		Am Wasserfall 1	49808	Lingen	52.470604	7.304805	1			~TYPE2:22|~TYPE2:22
+1071786	Simon Feldkamp		Weiner 157	48607	Ochtrup	52.187908	7.171057	1			~TYPE2_TETHERED:11
+1072406	Felix Beckhaus & Sohn GbR, Landhotel Hermannshöhe		Haulingort 30	48739	Legden	52.021000	7.117000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1072929	Aral Pulse		Athener Straße 1	48455	Bad Bentheim	52.320280	7.067690	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1075364	Grafschafter Autozentrale Heinrich Krüp GmbH		Bentheimer Str. 243-245	48529	Nordhorn	52.415694	7.085694	1			~CCS2:50
+1075365	Grafschafter Autozentrale Heinrich Krüp GmbH		Bentheimer Str. 243 245	48529	Nordhorn	52.414701	7.085571	1			~CCS2:50|~CCS2:50
+1075777	Atelier Hitube e.K.		Pompeystraße 9	48429	Rheine	52.307594	7.456177	1			~TYPE2:22|~TYPE2:22
+1075915	Landhotel Hopster		Alte Hopstener Straße 26	48429	Rheine	52.174311	7.287950	1			~TYPE2:22|~TYPE2:22
+1076062	Maschinenfabrik Bernard Krone GmbH & Co. KG		Dreierwalder Straße 5	48480	Spelle	52.358480	7.477100	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:62.5+CHADEMO:62.5|~CCS2:62.5+CHADEMO:62.5
+1076063	Maschinenfabrik Bernard Krone GmbH & Co. KG		Dreierwalder Str. 5	48480	Spelle	52.358480	7.477030	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076286	Heinz Farwick, Inh. Hendrik Plate e.K.		von-Braun-Strasse 2	48683	Ahaus	52.074906	7.025459	1			~TYPE2:11|~TYPE2:11
+1076320	Shield Engineering GmbH & Co. KG		Industriestraße 15	48683	Ahaus	52.077903	7.017561	1			~TYPE2:22|~TYPE2:22
+1077020	Christian Böwing	Anthornshook , Sportplatz Ahle	Ahle 19	48619	Heek	52.115126	7.051399	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077021	Christian Böwing	Reitverein Darfeld	Sudetenstr. 2	48720	Rosendahl	52.027389	7.269918	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077024	Christian Böwing	Lagerkorn	Düsseldorfer Str. 20	48624	Schöppingen	52.099060	7.230188	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077026	Christian Böwing	Reitverein Laer	Borgweg 1	48366	Laer	52.058717	7.349825	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077634	Westenergie Metering GmbH		Zum Ferienpark 1	48455	Bad Bentheim	52.299536	7.134581	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1077644	Westenergie Metering GmbH		Brückenstr. 5z	48739	Legden	52.053906	7.144990	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077645	Westenergie Metering GmbH		Mühlenhoek 1z	48366	Laer	52.055718	7.360571	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077664	Westenergie Metering GmbH		Sportzentrum 1z	48341	Altenberge	52.054869	7.472855	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077672	Westenergie Metering GmbH		Grüner Weg 4z	48341	Altenberge	52.049147	7.466893	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077673	Westenergie Metering GmbH		Bahnhofstr. 6z	48341	Altenberge	52.046390	7.469452	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077727	WPE Münsterland GmbH	Brechter Weg 7	Brechter Weg 7	48599	Gronau (Westf.)	52.238750	7.077250	1		Keine Beschränkung	DEWPEE000101~CCS2:150|DEWPEE000102~CCS2:150
+1078001	nvb smart GmbH	nvb Schnellladestation Neuenhauser Str.	Neuenhauser Str. 27	48529	Nordhorn	52.439189	7.066586	1	24/7	Keine Beschränkung	DENVBE005301~CCS2:50|DENVBE005302~CCS2:50
+1080519	K & M Wind KG		Burgsteinfurter Damm 100	48485	Neuenkirchen	52.226242	7.371966	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1080840	Jürgen Fenes		Dietrich-Bonhoeffer-Straße 62	48607	Ochtrup	52.195547	7.178932	1			~TYPE2:11
+1081405	Autohaus Cyran GmbH		Borgwardstr. 1	48599	Gronau	52.200596	7.069526	1			~TYPE2:22|~TYPE2:22
+1081406	Autohaus Cyran GmbH		Altenberger Str. 212	48565	Steinfurt	52.104768	7.405176	1			~TYPE2:22|~TYPE2:22
+1084191	Datko GmbH		Jacksonring 24	48429	Rheine	52.306426	7.459108	1			~CCS2:20|~CCS2:20
+1084386	Backcharge		Heseper Weg 110	48531	Nordhorn	52.430824	7.089895	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084396	Backcharge	Reinert-Ritz GmbH	Ernst-Heinkel-Str. 2	48531	Nordhorn	52.463737	7.161257	1	24/7	Keine Beschränkung	DEBCKE1000138315*1~CCS2:50|DEBCKE1000138315*2~CCS2:50
+1084397	Backcharge		Ernst-Heinkel-Straße 2	48531	Nordhorn	52.463848	7.161044	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084398	Backcharge		Ernst-Heinkel-Straße 2	48531	Nordhorn	52.463868	7.161109	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084399	Backcharge		Ernst-Heinkel-Straße 2	48531	Nordhorn	52.463884	7.161150	1			~TYPE2:22|~TYPE2:22
+1084517	Adolf Hartmann		Haydnstraße 8	48493	Wettringen	52.215096	7.330104	1			~TYPE2:11
+1084523	Ahmet Deniz		Bleichenwall 1A	48465	Schüttorf	52.323170	7.219855	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:16
+1084602	Andre Hüwe		Richardstraße 16	48565	Steinfurt	52.149479	7.336216	1			~TYPE2_TETHERED:3
+1084632	Andreas Brünen		Weißdornweg 11	48341	Altenberge	52.052895	7.479500	1			~TYPE2_TETHERED:11
+1084710	Anja Hilgenstöhler		Brechtestraße 80	48431	Rheine	52.283551	7.413533	1			~TYPE2_TETHERED:11
+1085035	Carmen Baving		Westfalenring 94	48485	Neuenkirchen	52.241133	7.380724	1			~TYPE2_TETHERED:11
+1085116	Christian Rohde		Ludwig-Schriever-Straße 5	48480	Lünne	52.433000	7.424450	1			~TYPE2_TETHERED:11
+1085252	Daniel Hölker		Sperberweg 40	48341	Altenberge	52.040120	7.478563	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085529	Emsflower GmbH		Sechs-Sterne-Weg 6	48488	Emsbüren	52.355365	7.282243	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1085531	Emsflower GmbH		Carl-von-Linne-Straße 1	48488	Emsbüren	52.363756	7.271176	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1085671	Frank Heiermeier		Eggenkamp 8	48341	Altenberge	52.039226	7.469882	1			~TYPE2_TETHERED:11
+1085705	Frank Vollenbröker		Wilhelm-Busch-Straße 27	48493	Wettringen	52.203682	7.314622	1			~TYPE2_TETHERED:11
+1085710	Frank Wigger		Wessumer Str. 47	48683	Ahaus	52.079832	7.002303	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085765	Gartenwelt Emsbüren GmbH		Merianstrasse 1	48488	Emsbüren	52.392668	7.292685	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1085774	Gartenwelt Emsbüren GmbH	Parkplatz	Merianstrasse 1	48488	Emsbüren	52.359520	7.264370	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1085775	Gartenwelt Emsbüren GmbH	Parkplatz	Merianstrasse 1	48488	Emsbüren	52.359575	7.264465	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1086002	Helmut Lefering		Eichendorffstraße 7	48683	Ahaus	52.083185	7.009417	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1086013	Henning Leyendecker		Salierweg 39	48429	Rheine	52.294044	7.443004	1			~TYPE2:11
+1086014	Henning Pracht		Am Hillenhof 39	49835	Wietmarschen	52.493303	7.225276	1			~TYPE2_TETHERED:11
+1086033	Hoffrogge GmbH & CoKG		Moorstraße 4	48480	Spelle	52.382917	7.492643	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1086449	Katja Niehuesbernd		Ohner Weg 63	48431	Rheine	52.276825	7.413396	1			~TYPE2:11|~TYPE2:11
+1086548	Landbbäckerei Elshoff GmbH		Scheddebrock 52B	48356	Nordwalde	52.116018	7.454438	1		Keine Beschränkung	~TYPE2:11|~TYPE2_TETHERED:11
+1086549	Landbbäckerei Elshoff GmbH		Scheddebrock 51	48356	Nordwalde	52.115433	7.456846	1			~TYPE2:11
+1086606	Ludger Jöster		Pastors Kamp 12	48366	Laer	52.035741	7.380010	1			~TYPE2_TETHERED:22
+1087079	Mike Wegjan		Twentering 42	48565	Steinfurt	52.149479	7.336216	1			~TYPE2:3
+1087503	Reinhard Brügger		Gasstr. 35	48599	Gronau (Westf.)	52.184764	7.042896	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087856	S. W.		Schwalbenweg 8	48612	Horstmar	52.084710	7.309869	1			~TYPE2:11
+1088431	Wolfgang Hermeling		Steinfederweg 13	48531	Nordhorn	52.424290	7.100929	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088520	Fleuth + Mauritz Energie GbR	Fleht + Mauritz Energie GbR	Hinterer Wall 8	48683	Ahaus	52.074550	7.005180	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1089995	nvb smart GmbH	nvb Schnellladestation Kotting	Immenweg 23	48531	Nordhorn	52.434459	7.103156	1	24/7	Keine Beschränkung	DENVBE005501~CCS2:50|DENVBE005502~CCS2:50
+1090807	Michael Krug		Von-Eichendorff-Str. 3	48720	Rosendahl	52.022186	7.214167	1			~TYPE2_TETHERED:22
+1091491	Stadtwerke Ahaus GmbH		Ridderstraße 15	48683	Ahaus	52.079366	7.018700	1			~TYPE2:22|~TYPE2:22
+1091492	Stadtwerke Ahaus GmbH		Am Stadtgraben 2	48683	Ahaus	52.073820	7.008619	1			~TYPE2:22|~TYPE2:22
+1091493	Stadtwerke Ahaus GmbH		Frauenstraße 999	48683	Ahaus	52.074896	7.004095	1			~TYPE2:22|~TYPE2:22
+1091497	Stadtwerke Ahaus GmbH		Parallelstraße 998	48683	Ahaus	52.081625	7.016173	1			~TYPE2:22|~TYPE2:22
+1091502	Stadtwerke Ahaus GmbH		Wüllener Straße 18	48683	Ahaus	52.076174	7.001929	1			~TYPE2:22|~TYPE2:22
+1091504	Stadtwerke Ahaus GmbH		Zum Rotering 9-11	48683	Ahaus	52.071785	7.006141	1			~TYPE2:22
+1091505	Stadtwerke Ahaus GmbH		Parallelstraße 12 C	48683	Ahaus	52.079375	7.015264	1			~TYPE2:22|~TYPE2:22
+1091506	Stadtwerke Ahaus GmbH		Parallelstraße 12 C	48683	Ahaus	52.079331	7.015246	1			~TYPE2:22|~TYPE2:22
+1091924	Raiffeisen-Warengenossenschaft Emsland-Süd eG	AC_1	Lingener Str. 20	48480	Lünne	52.418720	7.432300	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:240|~CCS2:240
+1092953	ERGO Grommel		Sanddornstr. 8	49716	meppen	52.415600	7.155900	1			~TYPE2:11|~TYPE2:11
+1092985	Dennis Löhr		Hohlweg 3a	48356	Nordwalde	52.085155	7.465022	1			~TYPE2_TETHERED:11
+1093018	Frischemarkt Steiner GmbH		Alphons-Hecking-Platz 2-6	48485	Neuenkirchen	52.242248	7.369463	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1093691	RheiNet GmbH	Basilikastraße / Parkplatz	Basilikastr. 65	48429	Rheine	52.281033	7.451187	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093694	RheiNet GmbH	Am Bahndamm / Parkbucht	Am Bahndamm 26	48432	Rheine	52.222099	7.486261	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093697	RheiNet GmbH	Schultenstraße / Parkstreifen	Schultenstr. 12	48431	Rheine	52.290864	7.421745	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093698	RheiNet GmbH	Salzbergener Straße / Parkstreifen	Salzbergener Str. 125	48431	Rheine	52.287422	7.426282	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1096578	Autohaus Brömmler GmbH		Münsterstraße 27	48341	Altenberge	52.040761	7.470480	1			~TYPE2:11|~CCS2:22
+1096582	Autohaus Budde GmbH		Carl-Benz-Straße 4	48565	Steinfurt	52.158748	7.320638	1			~CCS2:22|~TYPE2:11
+1096716	Autohaus Heemann eK Inh. Jürgen Heemann		August-Kümpers-Straße 15	48493	Wettringen	52.212192	7.326481	1			~CCS2:22|~TYPE2:11
+1096879	Autohaus Marpert GmbH		Neue Mühle 2	48739	Legden	52.041013	7.090236	1			~CCS2:22|~TYPE2:11
+1097183	Auto-Krause GmbH		Siemensstraße 2	48341	Altenberge	52.043829	7.455634	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1097404	Joachim Blakert		Midlicher Str. 86	48720	Rosendahl	52.011910	7.192346	1			~CCS2:22|~TYPE2:11
+1097787	Westenergie Metering GmbH		Feuerstiege 6	48624	Schöppingen	52.092493	7.235030	1	24/7	Keine Beschränkung	DE*EON*E003666~CCS2:150|DE*EON*E003654~CCS2:150
+1099953	Tesla Germany GmbH		Paxtonstr. 3	48488	Emsbüren	52.359241	7.264215	1	24/7	Keine Beschränkung	~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102281	Gero Wanning		Lohkampstr. 10	48465	Schüttorf	52.312095	7.223482	1			~TYPE2_TETHERED:11
+1102575	Jens Haubrich		Haselnussweg 21	48531	Nordhorn	52.429580	7.068571	1			~TYPE2_TETHERED:11
+1103399	Raiffeisen-Warengenossenschaft Emsland-Süd eG	DC_400	Lingener Str. 20	48480	Lünne	52.418412	7.431537	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400
+1103589	GIGAENERGIE	GIGAENERGIE	Dieselstr. 5a	48485	Neuenkirchen	52.251900	7.381140	1	Mo-Do 09:00-16:00, Fr 09:00-14:00	Keine Beschränkung	DE*ONE* E3ZCQ~TYPE2:22|DE*ONE* E387C~TYPE2:22
+1104260	EMT2 GmbH		Gewerbegebiet 8	48480	Lünne	52.415541	7.430228	1			~TYPE2_TETHERED:50+CCS2:50+CHADEMO:50|~TYPE2_TETHERED:50+CCS2:50+CHADEMO:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104691	RheiNet GmbH	Surenbergstraße / Parkplatz	Surenburgstr. 2	48429	Rheine	52.276366	7.454602	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104692	RheiNet GmbH	Reichenberger Weg / Parkbucht	Reichenberger Weg 42	48431	Rheine	52.267456	7.424591	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104693	RheiNet GmbH	Zeppelinstraße / Parkbucht	Zeppelinstr. 31	48431	Rheine	52.271599	7.421617	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104696	RheiNet GmbH	Auf dem Thie / Parkstreifen	Auf dem Thie 28	48431	Rheine	52.279967	7.436239	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104701	RheiNet GmbH	Christianstraße / Parkstreifen	Christianstr. 36	48431	Rheine	52.273340	7.442407	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104702	RheiNet GmbH	Rembrandtweg / Parkplatz	Rembrandtweg 1	48431	Rheine	52.266250	7.450197	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1109548	Sparkasse Westmünsterland, Anstalt des öffentlichen Rechts		Bahnhofstrasse 1	48683	Ahaus	52.077051	7.007255	1	Mo-Mi 08:00-17:00, Do 08:00-18:00, Fr 08:00-17:00	Nur für Kunden/Besucher	~TYPE2:11
+1110264	Thomas Loehr		Am Brink 5	48356	Nordwalde	52.093100	7.476600	1			~TYPE2_TETHERED:22
+1112139	Shell Deutschland GmbH	12873458_Salzbergen	Holsterfeld 1a	48499	Salzbergen	52.325325	7.429267	1		keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1112141	Shell Deutschland GmbH	12873458_Salzbergen	Holsterfeld 1a	48499	Salzbergen	52.325322	7.429365	1		keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1112440	TEKTON BENDING GmbH & Co. KG		Paxtonstraße 6	48488	Emsbüren	52.358709	7.262646	1			~TYPE2:22|~TYPE2:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1112486	Helming & Sohn GmbH		Lingener Strasse 121	48531	Nordhorn	52.441413	7.090954	1			~CCS2:50|~CCS2:50
+1112487	Helming & Sohn GmbH		Lingener Strasse 121	48531	Nordhorn	52.441376	7.090742	1			~CCS2:50|~CCS2:50
+1113848	Nientied Münster GmbH		Bismarckstraße 45-47	48268	Greven	52.055300	7.370600	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114224	Diederichs Karosserieteile GmbH		Ochtruper Str. 95	48455	Bad Bentheim	52.289139	7.178028	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114489	Autohaus Hallekamp GmbH & Co. KG		Coesfelder Str. 8	48720	Rosendahl	52.004361	7.129093	1			~TYPE2:11|~TYPE2:11
+1114809	Volksbank Westmünsterland eG		Am Holtebach 1A	48720	Rosendahl	52.004340	7.129930	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1115422	Envono GmbH		Alfred-Mozer-Str. 19	48527	Nordhorn	52.423694	7.034616	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116232	Stadtwerke Gronau GmbH	Driland Kolleg / Ordnungsamt Stadt Gronau	Iltisstr. 20	48599	Gronau (Westf.)	52.210994	7.013992	1	Mo-Fr 06:00-22:00, Sa 06:00-18:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2:22
+1116235	Stadtwerke Gronau GmbH	Touristinfo Gronau	Konrad-Adenauer-Str. 45	48599	Gronau (Westf.)	52.209772	7.023370	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2:22
+1116238	Stadtwerke Gronau GmbH	Rathaus Gronau	Konrad-Adenauer-Str. 5	48599	Gronau (Westf.)	52.208418	7.026925	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116249	Stadtwerke Gronau GmbH	Polizei, Amtsgericht	Alter Markt 5	48599	Gronau (Westf.)	52.208478	7.028845	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116251	Stadtwerke Gronau GmbH	Schulzentrum	Laubstiege 27	48599	Gronau (Westf.)	52.205223	7.036696	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116252	Stadtwerke Gronau GmbH	Bücherei Epe	Von-Keppel-Str. 8	48599	Gronau (Westf.)	52.181295	7.040003	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116254	Stadtwerke Gronau GmbH	Langzeitparkplatz Bahnhof	Losserstr. 10	48599	Gronau (Westf.)	52.215550	7.022428	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116256	Stadtwerke Gronau GmbH	Antonius Hospital	Möllenweg 22	48599	Gronau (Westf.)	52.209643	7.020246	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1116567	Allego		Staelskottenweg 69	48431	Rheine	52.267042	7.447510	1	24/7	Keine Beschränkung	DEALLEGO003801_1~CCS2:300|DEALLEGO003801_2~CCS2:300|DEALLEGO003822_1~CCS2:50|DEALLEGO003822_2~CCS2:50|DEALLEGO003855_1~CCS2:50|DEALLEGO003855_2~CCS2:50|DEALLEGO003784_1~CCS2:50|DEALLEGO003784_2~CCS2:50|DEALLEGO003845_1~CCS2:50|DEALLEGO003845_2~CCS2:50
+1117498	H2 Campus		Daimlerstr. 2	48432	Rheine	52.318640	7.433760	1	24/7	Keine Beschränkung	DE*EUL*EKRI0001*01~CCS2:200|DE*EUL*EKRI0001*02~CCS2:200
+1117501	H2 Campus		Daimlerstr. 2	48432	Rheine	52.318680	7.433740	1	24/7	Keine Beschränkung	DE*EUL*EKRI0001*03~CCS2:50|DE*EUL*EKRI0001*04~CCS2:50|DE*EUL*EKRI0001*05~CCS2:400|DE*EUL*EKRI0001*06~CCS2:400
+1117523	energielenker service GmbH	Mewitec*Ahaus*PP*ex	Siemensstr. 27	48683	Ahaus	52.078459	7.029650	1	24/7	Keine Beschränkung	DE*ELC*EDP00082~CCS2:200|DE*ELC*EDP00083~CCS2:200
+1118090	Westfalen AG & Co. KG	Tankstelle	Rheiner Str. 5	48455	Bad Bentheim	52.305270	7.151020	1	24/7	Keine Beschränkung	~CCS2:150+CCS2:150
+1118341	RheiNet GmbH	Tiroler Weg / Parkplatz	Tirolerweg 16a	48429	Rheine	52.288970	7.445403	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118524	EnBW mobility+ AG und Co.KG		Ochtruper Str. 51	48565	Steinfurt	52.152285	7.333810	1		Keine Beschränkung	~CCS2:200|~CCS2:200
+1118974	Eilinghoff + Team GmbH & Co. KG	Eilinghoff Sprickmannstrasse 57, 48431 Rheine	Sprickmannstr. 57	48431	Rheine	52.274929	7.428790	1	24/7	Keine Beschränkung	DE*ONE* EDN4Q~TYPE2:11|DE*ONE* EQM7D~TYPE2:11
+1119856	Autarkia Energy GmbH	Ladepark Gronau	Flockenstr. 6	48599	Gronau (Westf.)	52.201086	7.062097	1	24/7	Keine Beschränkung	~CCS2:200+CCS2:200+CCS2:200+CCS2:200
+1119952	Westenergie Metering GmbH		Boakenstiege 12	48341	Altenberge	52.045739	7.467416	1		Keine Beschränkung	DE*EON*E003969~TYPE2:22|DE*EON*E003967~TYPE2:22
+1120183	Stein GmbH	Emsdettener Str. 40	Emsdettener Str. 40	48565	Steinfurt	52.127883	7.394019	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1120184	Stein GmbH	Liedekerker Str. 56	Liedekerker Str. 56	48565	Steinfurt	52.148222	7.347801	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1120240	autostrom.plus	Rastplatz Wester Mark - Fahrtichtung Bottrop (099)	Wester 0	48607	Ochtrup	52.225131	7.138618	1	24/7	Nur für Kunden/Besucher	DE*AUP*E09901*01~CCS2:400|DE*AUP*E09901*02~CCS2:400
+1120243	autostrom.plus	Rastplatz Wester Mark - Fahrtichtung Bottrop (099)	Wester 0	48607	Ochtrup	52.225186	7.138634	1	24/7	Keine Beschränkung	DE*AUP*E09902*01~CCS2:400|DE*AUP*E09902*02~CCS2:400
+1120248	autostrom.plus	Rastplatz Lau Brechte - Fahrtichtung Emden (100)	Wester 0	48607	Ochtrup	52.223787	7.139042	1	24/7	Keine Beschränkung	DE*AUP*E10001*01~CCS2:400|DE*AUP*E10001*02~CCS2:400
+1120249	autostrom.plus	Rastplatz Lau Brechte - Fahrtichtung Emden (100)	Wester 0	48607	Ochtrup	52.223749	7.138992	1	24/7	Keine Beschränkung	DE*AUP*E10002*01~CCS2:400|DE*AUP*E10002*02~CCS2:400
+1120701	Greenflash Charge		Düppelstr. 9	48599	Gronau (Westf.)	52.207060	7.062672	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121748	Lambers GmbH & Co. KG	Tor	Hafenstr. 12	48480	Spelle	52.345621	7.439894	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1126908	nvb smart GmbH	nvb Schnellladestation Hotel Nest	Frensdorfer Str. 3z	49828	Neuenhaus	52.472227	7.007133	1	24/7	Keine Beschränkung	DENVBE006001~CCS2:50|DENVBE006002~CCS2:50
+1126916	nvb smart GmbH	nvb Schnellladestation Färbereistraße Nordhorn	Färbereistr. 15	48527	Nordhorn	52.439581	7.062678	1	24/7	Keine Beschränkung	DENVBE006301~CCS2:50|DENVBE006302~CCS2:50
+1126919	nvb smart GmbH	nvb Schnellladestationen Kaufland	Bentheimer Str. 118b	48529	Nordhorn	52.422717	7.077281	1	24/7	Keine Beschränkung	DENVBE006201~CCS2:200|DENVBE006202~CCS2:200|DENVBE006203~CCS2:200|DENVBE006204~CCS2:200|DENVBE006205~CCS2:200|DENVBE006206~CCS2:200|DENVBE006207~CCS2:200|DENVBE006208~CCS2:200
+1127047	Hofladen Henrik Althues	Hofladen Althues	Bleck 11	48720	Rosendahl	52.010470	7.158370	1	24/7	Keine Beschränkung	DE*CIQ*EP8P1M74T6CNA*1~CCS2:400|DE*CIQ*EP8P1M74T6CNA*2~CCS2:400
+1127108	Lidl	6011_Lidl_Gronau_T65-IT1-0225-012	Königstr. 62-64	48599	Gronau (Westf.)	52.218525	7.009180	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1127278	OBI Markt Rheine	Obi-Markt Rheine	Paulstr. 37-47	48429	Rheine	52.285613	7.442850	1	24/7	Keine Beschränkung	EN4ZW~CCS2:300|EUC41~CCS2:300|E1XJV~CCS2:300|EM4WM~CCS2:300
+1127424	Backcharge	GPM Bad Bentheim GmbH	Funkenstiege 5	48455	Bad Bentheim	52.303670	7.155874	1	24/7	Keine Beschränkung	DEBCKE1234627530*1~TYPE2:22|DEBCKE1234627530*2~TYPE2:22
+1127648	Alexander Bürkle GmbH & Co. KG	WH Dorf Münsterland 1	Haidkamp 1	48739	Legden	52.038606	7.106400	1	24/7	Nur für Kunden/Besucher	DE*ABF*E0000040~TYPE2:22|DE*ABF*E0000041~TYPE2:22|DE*ABF*E0000042~TYPE2:22|DE*ABF*E0000043~TYPE2:22
+1127863	Patrick Lemke	Parkplatz	Thüringer Str. 0	48529	Nordhorn	52.416860	7.086940	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1128246	Eilinghoff + Team GmbH & Co. KG	Starenweg 3	Sprickmannstr. 59	48431	Rheine	52.276220	7.466470	1	24/7	Nur für Kunden/Besucher	E8WNG~TYPE2:11|EYL3N~TYPE2:11
+1128310	Westfalen AG & Co. KG		Bühnertstr. 99	48431	Rheine	52.265246	7.428554	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128312	Westfalen AG & Co. KG		Bevergerner Str. 152	48429	Rheine	52.284042	7.464049	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128313	Westfalen AG & Co. KG		Hünenborgstr. 40	48431	Rheine	52.282673	7.417282	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128317	Westfalen AG & Co. KG		Mittelstr. 30	48431	Rheine	52.268036	7.431639	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128320	Westfalen AG & Co. KG		Rolandstr. 30	48429	Rheine	52.298046	7.445223	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128321	Westfalen AG & Co. KG		Sadelstr. 6	48429	Rheine	52.283154	7.445653	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128323	Westfalen AG & Co. KG		Timmermanufer 126	48429	Rheine	52.277653	7.444317	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128325	Westfalen AG & Co. KG		Runde Str. 23	48431	Rheine	52.280311	7.431540	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1130202	Aral Pulse		Ochtruper Str. 163	48599	Gronau (Westf.)	52.203220	7.064560	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1130749	Stein GmbH	Hotel Schünemann	Altenberger Str. 109	48565	Steinfurt	52.112690	7.400494	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1130944	TotalEnergies Charging Solutions		Westfalenstr. 13	48529	Nordhorn	52.415223	7.078729	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50063*001*1~CCS2:200|DE*TCB*E3D9CS50063*001*2~CCS2:200|DE*TCB*E3D9CS50063*002*1~CCS2:200|DE*TCB*E3D9CS50063*002*2~CCS2:200|DE*TCB*E3D9CS50063*003*1~CCS2:200|DE*TCB*E3D9CS50063*003*2~CCS2:200|DE*TCB*E3D9CS50063*004*1~CCS2:200|DE*TCB*E3D9CS50063*004*2~CCS2:200
+1131313	Patrick Lemke		Rüschenweg 5	48531	Nordhorn	52.435245	7.103331	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1132541	nvb smart GmbH		Osnabrücker Str. 14	48529	Nordhorn	52.422738	7.057731	1	24/7	Nur für Kunden/Besucher	DENVBE006701~CCS2:50|DENVBE006702~CCS2:50
+1132838	Senger NEO GmbH		Daimlerstr. 7	48432	Rheine	52.318926	7.434393	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1133178	Julien Busch	Parkplatz	Wasserstr. 29	48531	Nordhorn	52.439144	7.096077	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1133575	Cut! Energy GmbH	Zum Rotering Ahaus	Zum Rotering 9-11	48683	Ahaus	52.071940	7.006160	1	24/7	Keine Beschränkung	DE*CUT*E200*0088*1~TYPE2:22|DE*CUT*E200*0088*2~TYPE2:22
+1134539	ESB Mobility	BEGST Tecklenburger Straße	Tecklenburger Str. 22	48565	Steinfurt	52.150417	7.345167	1	24/7	Keine Beschränkung	DEESMESTESB0101~TYPE2:22|DEESMESTESB0102~TYPE2:22|DEESMESTESB0201~TYPE2:22|DEESMESTESB0202~TYPE2:22
+1134540	ESB Mobility	BEGST Tecklenburger Straße	Tecklenburger Str. 22	48565	Steinfurt	52.150218	7.344811	1	24/7	Keine Beschränkung	DEESMESTESB0301~TYPE2:22|DEESMESTESB0302~TYPE2:22
+1134542	ESB Mobility	BEGST Liedekerker Straße	Liedekerker Str. 70	48565	Steinfurt	52.148028	7.347944	1	24/7	Keine Beschränkung	DEESMESTESB0601~TYPE2:22|DEESMESTESB0602~TYPE2:22|DEESMESTESB0401~TYPE2:22|DEESMESTESB0402~TYPE2:22|DEESMESTESB0501~TYPE2:22|DEESMESTESB0502~TYPE2:22
+1134545	ESB Mobility	TANK.E Marktplatz Ochtrup LS01	Lönsweg 0	48607	Ochtrup	52.207918	7.186484	1	24/7	Keine Beschränkung	DE*ESM*EDC001587*01~CCS2:200|DE*ESM*EDC001587*02~CCS2:200
+1134664	nvb smart GmbH		Am Strampel 6	48527	Nordhorn	52.437279	7.060616	1	24/7	Keine Beschränkung	DENVBE006601~CCS2:50|DENVBE006602~CCS2:50
+1135193	Pluq		An der Waldseite 7	48455	Bad Bentheim	52.322154	7.109813	1		Keine Beschränkung	NL*EFL*EV0453341*C1~TYPE2:22|NL*EFL*EV0453341*C2~TYPE2:22
+1136057	Tekton Charger	Tekton Charger	Paxtonstr. 6	48488	Emsbüren	52.358945	7.262076	1	24/7	Nur für Kunden/Besucher	DELETE000101~CCS2:150|DELETE000102~CCS2:150|DELETE000103~CCS2:150|DELETE000104~CCS2:150|DELETE000105~CCS2:150|DELETE000106~CCS2:150|DELETE000107~CCS2:150|DELETE000108~CCS2:150|DELETE000109~CCS2:150|DELETE000110~CCS2:150|DELETE000111~CCS2:300|DELETE000112~CCS2:300|DELETE000113~CCS2:400|DELETE000114~CCS2:400
+1136162	L. Stroetmann Unternehmensgruppe	L. Stroetmann Großmarkt	Borgwardstr. 4	48599	Gronau (Westf.)	52.201675	7.069435	1	24/7	Nur für Kunden/Besucher	DECPIE7224135~TYPE2:22|DECPIE7224135~TYPE2:22|DECPIE7221275~TYPE2:22|DECPIE7221275~TYPE2:22
+1136865	Lidl	6436_Lidl_Rheine_12248021210001	Elter Str. 234	48432	Rheine	52.267080	7.462290	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1137477	Stephan Meß	Garageneinfahrt	Am Bahndamm 54	48488	Emsbüren	52.400000	7.300000	1	Mo-Fr 07:00-18:00	Keine Beschränkung	~TYPE2:11
+1138228	Autohaus Hartman GmbH	Edisonstraße 6	Edisonstr. 6	48432	Rheine	52.291111	7.492788	1	24/7	Keine Beschränkung	EW3XU~TYPE2:22|E5KXW~TYPE2:22
+1138846	Ahmet Deniz		Bleichenwall 1A	48465	Schüttorf	52.323147	7.220149	1	Mo-Fr 10:00-17:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1139003	ESB Mobility	BEGST Wilhelmsplatz	Wilhelmsplatz 0	48565	Steinfurt	52.145540	7.336281	1	24/7	Keine Beschränkung	DE*ESM*ETE200003372*01~TYPE2:22|DE*ESM*ETE200003372*02~TYPE2:22
+1139004	ESB Mobility	BEGST Wilhelmsplatz	Wilhelmsplatz 0	48565	Steinfurt	52.148806	7.336262	1	24/7	Keine Beschränkung	DE*ESM*ETE200003373*01~TYPE2:22|DE*ESM*ETE200003373*02~TYPE2:22
+1139005	ESB Mobility	BEGST Wilhelmsplatz	Wilhelmsplatz 0	48565	Steinfurt	52.148767	7.336237	1	24/7	Keine Beschränkung	DE*ESM*ETE200003374*01~TYPE2:22|DE*ESM*ETE200003374*02~TYPE2:22
+1139006	ESB Mobility	BEGST Mühlenstraße	Mühlenstr. 0	48565	Steinfurt	52.149702	7.337375	1	24/7	Keine Beschränkung	DE*ESM*ETE200001674*01~TYPE2:22|DE*ESM*ETE200001674*02~TYPE2:22
+1139007	ESB Mobility	BEGST Mühlenstraße	Mühlenstr. 0	48565	Steinfurt	52.149665	7.337246	1	24/7	Keine Beschränkung	DE*ESM*ETE200003375*01~TYPE2:22|DE*ESM*ETE200003375*02~TYPE2:22
+1139008	ESB Mobility	BEGST Mühlenstraße	Mühlenstr. 0	48565	Steinfurt	52.149685	7.337312	1	24/7	Keine Beschränkung	DE*ESM*EDC001948*01~CCS2:120|DE*ESM*EDC001948*01~CCS2:120
+1139070	EnBW mobility+ AG und Co.KG	PENNY Gronau Epe, auf der Sunhaar	Auf der Sunhaar 30-32	48599	Gronau (Westf.)	52.179400	7.045630	1	24/7	Keine Beschränkung	DE*EBW*E914201*1~CCS2:300|DE*EBW*E914201*2~CCS2:300|DE*EBW*E914202*1~CCS2:150|DE*EBW*E914202*2~CCS2:150
+1140868	Aral Pulse		Neuenhauser Str. 124	48527	Nordhorn	52.444520	7.059180	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141025	Stein GmbH	FH Münster	Am Campus 2	48565	Steinfurt	52.143265	7.319719	1	24/7	Keine Beschränkung	545_004~TYPE2:22|~TYPE2:22|545_004~TYPE2:22|545_004_02~TYPE2:22|545_004_03~TYPE2:22|545_004_02~TYPE2:22|545_004_04~TYPE2:22|545_004_02~TYPE2:22|545_004_05~TYPE2:22|545_004_05~TYPE2:22
+1141072	Stein GmbH	Mühlenstraße	Mühlenstr. 7	48565	Steinfurt	52.149772	7.337512	1	24/7	Keine Beschränkung	545_0011~TYPE2:22|545_0011~TYPE2:22
+1141073	Stein GmbH	Kombibad	Gräfin-Bertha-Str. 13	48565	Steinfurt	52.121908	7.405814	1	24/7	Keine Beschränkung	545_0009~TYPE2:22|545_0009~TYPE2:22
+1141748	Q1 Autostrom	Rheine, Hovestraße	Hovestr. 40-42	48431	Rheine	52.272888	7.440441	1	24/7	Keine Beschränkung	DE*Q1A*E48140052~CCS2:150|DE*Q1A*E48140053~CCS2:150
+1143279	Stefan Wensing	Fleehook 57	Fleehook 57	48683	Ahaus	52.087200	7.038300	1	24/7	Nur für Kunden/Besucher	BE*SMP*E*6123000018*1~TYPE2:22
+1144121	Cut! Energy GmbH	Kulturquadrat Ahaus	Wüllener Str. 18	48683	Ahaus	52.076150	7.002660	1	24/7	Keine Beschränkung	DE*CUT*E200*0093*1~TYPE2:22|DE*CUT*E200*0093*2~TYPE2:22
+1144123	Cut! Energy GmbH	Rathaus 2 Ahaus	Am Schloßgraben 2	48683	Ahaus	52.073560	7.010030	1	24/7	Keine Beschränkung	DE*CUT*E200*0089*1~TYPE2:22|DE*CUT*E200*0089*2~TYPE2:22
+1144125	Cut! Energy GmbH	Rathaus 3 Ahaus	Am Schloßgraben 2	48683	Ahaus	52.073730	7.010031	1	24/7	Keine Beschränkung	DE*CUT*E200*0090*1~TYPE2:22|DE*CUT*E200*0090*2~TYPE2:22
+1144126	Cut! Energy GmbH	Volksbank 1 Ahaus	Parallelstr. 12	48683	Ahaus	52.078130	7.015120	1	24/7	Keine Beschränkung	DE*CUT*E200*0091*1~TYPE2:22|DE*CUT*E200*0091*2~TYPE2:22
+1144534	Pluq		An der Waldseite 7	48455	Bad Bentheim	52.312426	7.111701	1	24/7	Keine Beschränkung	DE*EFL*EV0453341*C1~TYPE2:22|DE*EFL*EV0453341*C2~TYPE2:22
+1144535	Pluq		Am Campus 2	48565	Steinfurt	52.142757	7.319116	1	24/7	Keine Beschränkung	DE*EFL*EV3264206*C1~TYPE2:11|DE*EFL*EV3264206*C2~TYPE2:11|DE*EFL*EV7944243*C1~TYPE2:11|DE*EFL*EV7944243*C2~TYPE2:11
+1144627	Lutz Siemer	Offlumer Straße	Offlumer Str. 15a	48431	Rheine	52.281310	7.421860	1		Nur für Kunden/Besucher	~TYPE2:11
+1145006	Fastned Deutschland GmbH & Co. KG		Büren 997	48712	Gescher	52.004848	7.050807	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1145009	Fastned Deutschland GmbH & Co. KG		Büren 998	48712	Gescher	52.003084	7.051538	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1145263	WPE Münsterland GmbH	Brechter Weg 7	Brechter Weg 7	48599	Gronau (Westf.)	52.238089	7.076464	1	24/7	Keine Beschränkung	DEWPEE000103~CCS2:150|DEWPEE000104~CCS2:150|DEWPEE000105~CCS2:75|DEWPEE000106~CCS2:75
+1145467	Cut! Energy GmbH	Volksbank 2 Ahaus	Parallelstr. 12	48683	Ahaus	52.078180	7.015130	1	24/7	Keine Beschränkung	DE*CUT*E200*0119*1~TYPE2:22|DE*CUT*E200*0119*2~TYPE2:22
+1146030	Kippenbrock GmbH	Einfach machen	An der Wurth 6-8	48612	Horstmar	52.072698	7.318318	1	24/7	Keine Beschränkung	DE*ELC*EDP00084~CCS2:300|DE*ELC*EDP00085~CCS2:300|DE*ELC*EDP00086~CCS2:300|DE*ELC*EDP00087~CCS2:300
+1147071	Citywatt GmbH		Holmers Kamp 6	48465	Schüttorf	52.321294	7.242265	1	24/7	Keine Beschränkung	DE*CIW*E001504~TYPE2_TETHERED:22|DE*CIW*E001505~TYPE2_TETHERED:22
+1149127	PION		Schüttorfer Str. 2	48455	Bad Bentheim	52.302565	7.159900	1	24/7	Keine Beschränkung	DE*PIO*E000073*001~CCS2:50|DE*PIO*E000073*002~CCS2:50
+1149345	Evry	Salzbergen: Dieselstraße AC 1 (M2+)	Dieselstr. 14	48499	Salzbergen	52.314943	7.358898	1	Mo-Fr 06:00-18:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1149362	Stadtwerke Lingen GmbH	zvoove Software Germany GmbH	Von-Humboldt-Str. 2	49835	Wietmarschen	52.487380	7.210470	1	24/7	Keine Beschränkung	DE*LIN*EN*072~TYPE2:22|DE*LIN*EN*073~TYPE2:22|DE*LIN*EN*074~TYPE2:22|DE*LIN*EN*075~TYPE2:22
+1150376	ESB Mobility	TANK.E Kreuzweg LS01	Kreuzweg 32	48607	Ochtrup	52.199849	7.177750	1	24/7	Keine Beschränkung	DE*ESM*EHYC30023BZ7978B*01~CCS2:300|DE*ESM*EHYC30023BZ7978B*02~CCS2:300
+1152240	Senger NEO GmbH		Bayernstr. 58	48429	Rheine	52.289831	7.439360	1		Keine Beschränkung	DEGFCE1234875367*1~TYPE2:22|DEGFCE1234875367*2~TYPE2:22|DEGFCE1234875366*1~TYPE2:22|DEGFCE1234875366*2~TYPE2:22|DEGFCE1234875364*1~TYPE2:22|DEGFCE1234875364*2~TYPE2:22
+1152360	Senger NEO GmbH		Bayernstr. 52	48429	Rheine	52.289313	7.440685	1		Keine Beschränkung	DEGFCE1234874195*1~TYPE2:22|DEGFCE1234874195*2~TYPE2:22|DEGFCE1234874099*1~TYPE2:22|DEGFCE1234874099*2~TYPE2:22
+1152364	Senger NEO GmbH		Daimlerstr. 7	48432	Rheine	52.318443	7.434064	1		Keine Beschränkung	DEGFCE1234790798*1~TYPE2:11|DEGFCE1234790798*2~TYPE2:11|DEGFCE1234790725*1~TYPE2:11|DEGFCE1234790725*2~TYPE2:11|DEGFCE1234790807*1~TYPE2:11|DEGFCE1234790807*2~TYPE2:11|DEGFCE1234790805*1~TYPE2:11|DEGFCE1234790805*2~TYPE2:11|DEGFCE1234790809*1~TYPE2:11|DEGFCE1234790809*2~TYPE2:11|DEGFCE1234790810*1~TYPE2:11|DEGFCE1234790810*1~TYPE2:11
+1152695	nvb smart GmbH		Gildkamp 4-6	48529	Nordhorn	52.438707	7.070616	1	24/7	Keine Beschränkung	DENVBE007101~CCS2:50|DENVBE007102~CCS2:50
+1155040	team energie		Laurenzstr. 51-55	48607	Ochtrup	52.210840	7.200258	1	Mo-Sa 07:00-20:00	Keine Beschränkung	DE*TME*E30250~TYPE2:22|DE*TME*E30251~TYPE2:22|DE*TME*E30252~TYPE2:22|DE*TME*E30253~TYPE2:22|DE*TME*E30254~TYPE2:22|DE*TME*E30255~TYPE2:22|DE*TME*E30256~TYPE2:22|DE*TME*E30257~TYPE2:22|DE*TME*E30258~TYPE2:22|DE*TME*E30259~TYPE2:22|DE*TME*E30260~TYPE2:22|DE*TME*E30261~TYPE2:22|DE*TME*E30262~TYPE2:22|DE*TME*E30263~TYPE2:22|DE*TME*E30264~TYPE2:22|DE*TME*E30265~TYPE2:22
+1156369	Wirelane GmbH	Haus Wijnen	Am Beschlag 3a	48455	Bad Bentheim	52.305860	7.146490	1		Keine Beschränkung	DE*WLN*ES000251~TYPE2:11|DE*WLN*ES000252~TYPE2:11
+1157064	Wirelane GmbH		Monikastraße 2	48529	Nordhorn	52.415500	7.070611	1		Keine Beschränkung	DE*WLN*EP001671~TYPE2:22|DE*WLN*EP001672~TYPE2:22
+1157065	Wirelane GmbH		Stadtgrund 1	48527	Nordhorn	52.441389	7.064500	1		Keine Beschränkung	DE*WLN*EP001675~TYPE2:22|DE*WLN*EP001676~TYPE2:22
+1157177	EnBW mobility+ AG und Co.KG	hagebaumarkt Frieling Ochtrup	Deipenbrook 1	48607	Ochtrup	52.206420	7.207506	1	24/7	Keine Beschränkung	DE*EBW*E913837*1~CCS2:100|DE*EBW*E913837*2~CCS2:100
+1157768	Wirelane GmbH		Haydnstraße 14	48527	Nordhorn	52.435639	7.054833	1		Keine Beschränkung	DE*WLN*EP001673~TYPE2:22|DE*WLN*EP001674~TYPE2:22
+1158128	Evry	Rheine: Exeler (Ohmstraße) AC 1 (Links)	Ohmstr. 16	48432	Rheine	52.318358	7.455138	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1158134	Evry	Salzbergen: Bahnhof Vorderseite AC	Kirchplatz 6	48499	Salzbergen	52.323640	7.349278	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1158135	Evry	Salzbergen: Bahnhof Rückseite AC	Kirchplatz 6	48499	Salzbergen	52.323023	7.351355	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1159800	Eulektro GmbH	TV Jahn-Rheine	Germanenallee 4	48429	Rheine	52.284080	7.485120	1	24/7	Keine Beschränkung	DE*EUL*EJAH01*03~TYPE2:22|DE*EUL*EJAH01*04~TYPE2:22|DE*EUL*EJAH01*05~TYPE2:22|DE*EUL*EJAH01*06~TYPE2:22
+1159842	nvb smart GmbH	Seepark Nordhorn	Seepark 1z	48529	Nordhorn	52.427683	7.078638	1	24/7	Keine Beschränkung	DENVBE007801~CCS2:50|DENVBE007802~CCS2:50
+1160010	Westenergie Metering GmbH		Schulstr. 2	48739	Legden	52.031229	7.103458	1	24/7	Keine Beschränkung	DE*WEA*E0000129*1~TYPE2:22|DE*WEA*E0000129*2~TYPE2:22
+1160219	Westenergie Metering GmbH		Vossberg 1	48619	Heek	52.124016	7.102252	1	24/7	Keine Beschränkung	DE*WEA*E0000035*1~TYPE2:22|DE*WEA*E0000035*2~TYPE2:22
+1160888	Wirelane GmbH		Emsdettener Str. 21	48565	Steinfurt	52.126417	7.396306	1		Keine Beschränkung	DE*WLN*EP001987~TYPE2:22|DE*WLN*EP001988~TYPE2:22
+1160955	Westfalen AG & Co. KG	Westfalen Tankstelle	Carl-Benz-Str. 2	48565	Steinfurt	52.158601	7.319959	1	24/7	Keine Beschränkung	DE*WAG*EE1070~CCS2:400|DE*WAG*EE2070~CCS2:400|DE*WAG*EE1069~CCS2:400|DE*WAG*EE2069~CCS2:400|DE*WAG*EE9101~CCS2:400|DE*WAG*EE9201~CCS2:400|DE*WAG*EE9102~CCS2:400
+1161018	Hotel Rammelkamp	Hotel Rammelkamp	Lingener Str. 306	48531	Nordhorn	52.462468	7.125281	1	24/7	Keine Beschränkung	DE*ONE*ELB58~TYPE2:22|DE*ONE*E4S4X~TYPE2:22
+1161572	Cut! Energy GmbH	Hermannshöhe 3 Legden	Haulingort 30	48739	Legden	52.011666	7.116385	1	24/7	Keine Beschränkung	DE*CUT*E300*0014*1~CCS2:400|DE*CUT*E300*0014*2~CCS2:400
+1161643	Wirelane GmbH		Kastanienweg 2	48565	Steinfurt	52.123528	7.379778	1		Keine Beschränkung	DE*WLN*EP001993~TYPE2:22|DE*WLN*EP001994~TYPE2:22
+1161644	Wirelane GmbH		Hauptmannstraße 2	48565	Steinfurt	52.138278	7.335389	1		Keine Beschränkung	DE*WLN*EP001991~TYPE2:22|DE*WLN*EP001992~TYPE2:22
+1161726	RheiNet GmbH	Osnabrücker Str. / Parkplatz	Osnabrücker Str. 210	48429	Rheine	52.285010	7.460887	1	24/7	Keine Beschränkung	DEEWRE003701~CCS2:50|DEEWRE003702~CCS2:50
+1161985	Allego		Ladestr. 3	48565	Steinfurt	52.118701	7.396866	1	24/7	Keine Beschränkung	DEALLEGO003963_1~CCS2:400|DEALLEGO003963_2~CCS2:400|DEALLEGO003965_1~CCS2:400|DEALLEGO003965_2~CCS2:400|DEALLEGO003967_1~CCS2:400|DEALLEGO003967_2~CCS2:400|DEALLEGO003971_1~CCS2:400|DEALLEGO003971_2~CCS2:400
+1162070	E.ON Drive GmbH		Von-Braun-Str. 62 - 64	48683	Ahaus	52.075003	7.026541	1	24/7	Keine Beschränkung	DE*NIS*E32900021*1~CCS2:75
+1162503	Cut! Energy GmbH	Hermannshöhe 1 Legden	Haulingort 30	48739	Legden	52.021503	7.117107	1	24/7	Keine Beschränkung	DE*CUT*E200*0161*1~TYPE2:22
+1162504	Cut! Energy GmbH	Hermannshöhe 2 Legden	Haulingort 30	48739	Legden	52.021466	7.117164	1	24/7	Keine Beschränkung	DE*CUT*E200*0162*1~TYPE2:22
+1163628	nvb smart GmbH	Europaplatz Nordhorn	Bahnhofstr. 33	48529	Nordhorn	52.433712	7.068991	1	24/7	Keine Beschränkung	DENVBE003905~CCS2:50|DENVBE003906~CCS2:50|DENVBE003907~CCS2:50|DENVBE003908~CCS2:50
+1163647	RheiNet GmbH	Hauptstraße / Parkplatz Rathaus	Hauptstr. 16	48485	Neuenkirchen	52.243542	7.370177	1	24/7	Keine Beschränkung	DEEWRE000301~TYPE2:22|DEEWRE000302~TYPE2:22
+1164251	lwi	Ladepark Ahaus	Rotdornstr. 67A	48683	Ahaus	52.088827	7.025007	1	24/7	Keine Beschränkung	DE67A~CCS2:400|DE67A~CCS2:400
+1164631	Westenergie Metering GmbH		Hauptstr. 43	48480	Spelle	52.364656	7.471636	1	24/7	Keine Beschränkung	DE*WEA*E0000179*1~TYPE2:22|DE*WEA*E0000179*2~TYPE2:22

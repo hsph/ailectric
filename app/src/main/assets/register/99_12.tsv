@@ -1,0 +1,25 @@
+1012795	Westenergie Metering GmbH		Sauerstaden 31	54669	Bollendorf	49.851250	6.358616	1			~TYPE2:22|~TYPE2:22
+1012835	Westenergie Metering GmbH		In der Klaus 11	54636	Oberweis	49.959430	6.424797	1			~TYPE2:22|~TYPE2:22
+1012838	Westenergie Metering GmbH		Maximinstraße 7	54646	Bettingen	49.941573	6.400872	1			~TYPE2:22|~TYPE2:22
+1013244	Westenergie Metering GmbH		Heesterter Straße 12	54457	Wincheringen	49.604950	6.416017	1			~TYPE2:22|~TYPE2:22
+1035470	ALDI SÜD		Im Schwarzenstein 42	54666	Irrel	49.848464	6.452306	1			~TYPE2:22|~TYPE2:22
+1038003	FABRYSHOF		Neuerburger Str. 10	54669	Bollendorf	49.851950	6.357389	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1041030	Gebr. Fischbach GmbH & Co KG		Prümzurlayer Straße 18	54666	Irrel	49.847284	6.451012	1			~CCS2:30|~TYPE2:22
+1102317	Herbert Molitor		Gaytalstraße 2a	54675	Körperich	49.918198	6.261538	1			~TYPE2:11|~TYPE2:11
+1103336	Prümtal-Camping Oberweis	Prümtal-Camping	In der Klaus 17	54636	Oberweis	49.959150	6.424630	1	24/7	Keine Beschränkung	DE*EUL*EPRU0001*01~TYPE2:22|DE*EUL*EPRU0001*02~TYPE2:22|DE*EUL*EPRU0001*03~TYPE2:22|DE*EUL*EPRU0001*04~CCS2:50|DE*EUL*EPRU0001*05~CCS2:50
+1107706	E.ON Drive GmbH		Hauptstr. 32	54675	Gleichlingen	49.949439	6.265354	1			~TYPE2_TETHERED:11
+1108860	E.ON Drive GmbH		Hauptstr. 32	54675	Geichlingen	49.949857	6.265590	1		Keine Beschränkung	~CCS2:75
+1109222	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855051	6.349111	1	24/7	Keine Beschränkung	~TYPE2:11
+1109223	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855180	6.349409	1	24/7	Keine Beschränkung	~TYPE2:11
+1109224	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855024	6.349045	1	24/7	Keine Beschränkung	~TYPE2:11
+1109225	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855217	6.349507	1		Keine Beschränkung	~TYPE2:11
+1109322	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855106	6.348820	1	24/7	Keine Beschränkung	~TYPE2:22
+1109323	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.855080	6.348734	1	24/7	Keine Beschränkung	~TYPE2:11
+1109418	E.ON Drive GmbH		Sonnenbergallee 1	54669	Bollendorf	49.854960	6.348908	1	24/7	Keine Beschränkung	~TYPE2:22
+1114400	Möbelhaus Thiex		Hauptstr. 32	54675	Geichlingen	49.949450	6.265392	1			~TYPE2:22|~TYPE2:22|~CCS2:50
+1114843	ALDI SÜD	BOU-042	Erlenweg 8	66706	Perl	49.519170	6.376170	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23342~CCS2:50|DE*ALD*E23343~CCS2:50
+1121810	Westenergie Metering GmbH		Mindener Str. 17	54668	Echternacherbrück	49.812605	6.431580	1	24/7	Keine Beschränkung	DE*EON*E002845~TYPE2:22|DE*EON*E002847~TYPE2:22|DE*EON*E002846~TYPE2:22|DE*EON*E002844~TYPE2:22
+1134429	Charge and Co	Charge & Co Culinarium	In der Abswies 2	54453	Nittel	49.651504	6.444718	1	24/7	Keine Beschränkung	DK*MON*E2903876~TYPE2:22|DK*MON*E2903878~TYPE2:22|DK*MON*E2903878~TYPE2:22
+1139795	E.ON Drive GmbH		Waldhotel Nübel 0	54669	Bollendorf	49.855114	6.349254	1		Keine Beschränkung	DE*EDR*29001020*1~TYPE2:11
+1141296	Stadtwerke Trier	Temmels Kirchstraße	Kirchstr. 9b	54441	Temmels	49.690463	6.463379	1	24/7	Keine Beschränkung	DESWTE007201~CCS2:150|DESWTE007202~CCS2:150
+1159970	Westenergie Metering GmbH		Talstr. 1	54666	Irrel	49.846813	6.457699	1	24/7	Keine Beschränkung	DE*WEA*E0000153*1~TYPE2:22|DE*WEA*E0000153*2~TYPE2:22

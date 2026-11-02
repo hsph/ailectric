@@ -1,0 +1,257 @@
+1002974	GETEC mobility solutions GmbH		Marktplatz 1	97702	Münnerstadt	50.249126	10.194810	1			~TYPE2:11|~TYPE2:11
+1005434	EVU Gochsheim		Am Plan 4-6	97469	Gochsheim	50.018893	10.281254	1			~TYPE2:11|~TYPE2:11
+1005435	EVU Gochsheim		Frankenstraße 1	97469	Gochsheim	50.023772	10.290168	1			~TYPE2:22|~TYPE2:22
+1005436	EVU Gochsheim		Gegenüber Schonunger Straße 18	97469	Gochsheim	50.021401	10.283361	1			~TYPE2:22|~TYPE2:22
+1005437	EVU Gochsheim		Schweinfurter Straße 95	97469	Gochsheim	50.023100	10.272466	1			~TYPE2:22|~TYPE2:22
+1005438	EVU Gochsheim		Am kleinen Plan 12	97469	Gochsheim	50.017320	10.281560	1			~TYPE2:22|~TYPE2:22
+1005439	EVU Gochsheim		Uhlandstraße 43	97469	Gochsheim	50.023176	10.278565	1			~TYPE2:22|~TYPE2:22
+1006609	N-ERGIE Aktiengesellschaft		Am Festplatz 12	97729	Ramsthal	50.137990	10.062200	1			~TYPE2:22|~TYPE2:22
+1009371	Shell Deutschland GmbH		Schweinfurter Strasse 85	97469	Gochsheim	50.021990	10.274670	1			~CCS2:150|~CCS2:150
+1011538	Comfort Charge		Sven Wingquist Straße 2	97424	Schweinfurt	50.031040	10.229850	1			~CCS2:150|~CCS2:100|~TYPE2:22
+1022077	EWE Go GmbH		Niederwerrner Str. 93	97421	Schweinfurt	50.048264	10.209337	1			~CCS2:150|~CCS2:150
+1022139	EWE Go GmbH		An der Heide 19	97714	Oerlenbach	50.145120	10.152005	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1025074	EnBW mobility+ AG und Co.KG		Raststätte Mellrichstädter Höhe Ost 0	97638	Mellrichstadt - Rosenrieth	50.421180	10.350946	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025084	EnBW mobility+ AG und Co.KG		Industriestraße 10	97616	Bad Neustadt	50.333280	10.222510	1			~TYPE2:22|~TYPE2:22
+1026396	EnBW mobility+ AG und Co.KG		Rudolf-Diesel-Str. 21	97688	Bad Kissingen	50.180079	10.078384	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026875	EnBW mobility+ AG und Co.KG		An der Heide 11	97714	Oerlenbach	50.144590	10.153970	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1026993	EnBW mobility+ AG und Co.KG		Steubenstraße 1	97688	Bad Kissingen	50.209220	10.080140	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1027292	EnBW mobility+ AG und Co.KG		Heufurter Straße 10-12	97647	Nordheim vor der Rhön	50.482160	10.180310	1			~CCS2:150|~CCS2:150
+1027650	EnBW mobility+ AG und Co.KG		Steubenstr. 2	97688	Bad Kissingen	50.210171	10.081361	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1028086	EnBW mobility+ AG und Co.KG		Heckenweg 4	97422	Schweinfurt	50.055990	10.228190	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1030468	Fastned Deutschland GmbH & Co. KG		Oberwerrner Weg 0	97502	Euerbach	50.062347	10.145342	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300
+1031580	CUBOS Service GmbH		Strassburgstraße 2	97424	Schweinfurt	50.021819	10.215294	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1035459	ALDI SÜD	HEL-062-01	Bahnhofstr. 20	97653	Bischofsheim i.d.Rhön	50.402502	10.017541	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11309~TYPE2:22|DE*ALD*E11310~TYPE2:22
+1035460	ALDI SÜD	HEL-037-01	Thüringer Str. 29	97638	Mellrichstadt	50.435178	10.306958	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11313~TYPE2:22|DE*ALD*E11314~TYPE2:22
+1035461	ALDI SÜD	HEL-034-01	Im Lindes 2	97688	Bad Kissingen	50.183110	10.076470	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11311~TYPE2:22|DE*ALD*E11312~TYPE2:22
+1035476	ALDI SÜD		Heckenweg 5	97422	Schweinfurt	50.056245	10.225941	1			~TYPE2:22|~TYPE2:22
+1035940	ALDI SÜD		Schweinfurter Straße 122	97464	Niederwerrn	50.033010	10.111960	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1036683	Numbat GmbH	Süd #3	Gretel-Baumbach-Str. 8	97424	Schweinfurt	50.059396	10.191597	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1036687	Numbat GmbH	West 2	Gretel-Baumbach-Str. 8	97424	Schweinfurt	50.059392	10.191327	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1036691	Numbat GmbH	Nordwest #1	Gretel-Baumbach-Str. 8	97424	Schweinfurt	50.059770	10.191821	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1036895	RhönEnergie Fulda GmbH		Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317682	10.198868	1		Keine Beschränkung	DEREFE001501~TYPE2:11|DEREFE001502~TYPE2:11|DEREFE001503~TYPE2:11|DEREFE001504~TYPE2:11|DEREFE001505~TYPE2:11|DEREFE001506~TYPE2:11
+1037528	Citywatt GmbH		Friedrich-Rätzer-Straße 5	97424	Schweinfurt	50.028892	10.236908	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~TYPE2:22
+1037529	Citywatt GmbH		Friedrich-Rätzer-Straße 5	97424	Schweinfurt	50.028937	10.237010	1			~CCS2:300|~CCS2:300|~TYPE2:22|~CCS2:300|~CCS2:300
+1037530	Citywatt GmbH		Friedrich-Rätzer-Straße 5	97424	Schweinfurt	50.028903	10.237080	1			~CCS2:300|~CCS2:300
+1037644	Citywatt GmbH		Theresienstraße 12	97688	Bad Kissingen	50.199800	10.073921	1			~TYPE2:22|~TYPE2:22
+1037645	Citywatt GmbH		Theresienstraße 12	97688	Bad Kissingen	50.199848	10.074120	1			~TYPE2:22|~TYPE2:22
+1037646	Citywatt GmbH		Theresienstraße 12	97688	Bad Kissingen	50.199818	10.073991	1			~TYPE2:22|~TYPE2:22
+1040178	Autohaus Streit GmbH		Nordheimer Straße 3b	97645	Ostheim v. d. Rhön	50.459223	10.223450	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040187	Hotel Sturm GmbH & Co.KG		Ignaz-Reder-Str. 3	97638	Mellrichstadt	50.419687	10.293547	1			~TYPE2:22|~TYPE2:22
+1040188	Rhön-Genuss GmbH		Wollbacher Straße 3	97618	Heustreu	50.354380	10.237624	1			~CCS2:100|~CCS2:100|~TYPE2:22
+1040190	Auto Weber GmbH & Co. KG		Rhönstraße 17	97653	Bischofsheim	50.404030	10.005270	1			~TYPE2:22|~CCS2:50
+1040191	Autokaufhaus Rhön GmbH		Paulinenstraße 1b	97645	Ostheim	50.458598	10.238428	1			~TYPE2:22|~CCS2:30
+1040192	Autokaufhaus Rhön GmbH		Paulinenstr. 1b	97645	Ostheim vor der Rhön	50.458900	10.238263	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1040193	Autokaufhaus Rhön GmbH		Paulinenstr. 1	97645	Ostheim v.d.Rhön	50.458960	10.238393	1	24/7	Keine Beschränkung	DE*VIR*E159873~CCS2:50|DE*VIR*E160033~CCS2:50|DE*VIR*E160034~TYPE2:22
+1040372	Sanus Capital GmbH		Am Sportplatz 28	97618	Hohenroth	50.317583	10.176424	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1040519	DS-Energies Holding GmbH		Gartenstraße 11	97616	Bad Neustadt	50.326627	10.207652	1			~TYPE2:11|~TYPE2:11
+1040757	ÜZ Mainfranken eG		Gartenstraße 39	97493	Bergrheinfeld	50.009530	10.181690	1			~TYPE2:22|~TYPE2:22
+1040758	ÜZ Mainfranken eG		Martin-Werner-Platz 0	97490	Poppenhausen	50.099480	10.144200	1			~TYPE2:22|~TYPE2:20
+1040764	ÜZ Mainfranken eG		Hofhaltung 2	97505	Geldersheim	50.041650	10.156130	1			~TYPE2:22|~TYPE2:22
+1040774	ÜZ Mainfranken eG		Alter Mühlweg 5	97453	Schonungen	50.121020	10.385980	1			~TYPE2:22|~TYPE2:22
+1040776	ÜZ Mainfranken eG		Schulstraße 59	97525	Schwebheim	50.000700	10.249870	1			~TYPE2:22|~TYPE2:22
+1040781	ÜZ Mainfranken eG		Obertor 1	97469	Gochsheim	50.022250	10.315930	1			~TYPE2:22|~TYPE2:22
+1040783	ÜZ Mainfranken eG		Alleestraße 0	97539	Wonfurt	50.008510	10.468060	1			~TYPE2:22|~TYPE2:22
+1040784	ÜZ Mainfranken eG		Kirchgasse 0	97539	Wonfurt	50.011970	10.465490	1			~TYPE2:22|~TYPE2:22
+1040785	ÜZ Mainfranken eG		Untere Straße 1	97453	Schonungen	50.039050	10.329910	1			~TYPE2:22|~TYPE2:22
+1040786	ÜZ Mainfranken eG		Marktplatz 1	97453	Schonungen	50.051270	10.051240	1			~TYPE2:22|~TYPE2:22
+1040787	ÜZ Mainfranken eG		Hauptstraße 0	97453	Schonungen	50.049300	10.305220	1			~TYPE2:22|~TYPE2:22
+1040788	ÜZ Mainfranken eG		Werlingstraße 0	97453	Schonungen	50.053520	10.307810	1			~TYPE2:22|~TYPE2:22
+1040791	ÜZ Mainfranken eG		An den Schanzen 0	97421	Schweinfurt	50.047250	10.228410	1			~TYPE2:22|~TYPE2:22
+1040792	ÜZ Mainfranken eG		An der Tann 8	97453	Schonungen	50.050290	10.310940	1			~TYPE2:22|~TYPE2:22
+1040801	ÜZ Mainfranken eG		Kirchstraße 1	97535	Wasserlosen	50.075998	10.037381	1			~TYPE2:22|~TYPE2:22
+1040805	ÜZ Mainfranken eG		Bahnhofstraße 27	97490	Poppenhausen	50.100180	10.139520	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040806	ÜZ Mainfranken eG		Schulstraße 1	97502	Euerbach	50.060460	10.135210	1			~TYPE2:22|~TYPE2:22
+1040811	ÜZ Mainfranken eG		Friedhofstraße 16	97535	Wasserlosen	50.096616	10.031420	1			~TYPE2:22|~TYPE2:22
+1040813	ÜZ Mainfranken eG		Pendlerparkplatz A70	97447	Werneck	50.003900	10.120980	1			~TYPE2:22|~TYPE2:22
+1040822	ÜZ Mainfranken eG		Unterer Dorfgraben 0	97506	Grafenrheinfeld	50.002090	10.196960	1			~TYPE2:22|~TYPE2:22
+1040823	ÜZ Mainfranken eG		Gartenweg 0	97506	Grafenrheinfeld	50.003520	10.200480	1			~TYPE2:22|~TYPE2:22
+1040824	ÜZ Mainfranken eG		Bühlstraße 0	97506	Grafenrheinfeld	50.001260	10.200260	1			~TYPE2:22|~TYPE2:22
+1040825	ÜZ Mainfranken eG		Hermasweg 0	97506	Grafenrheinfeld	50.005610	10.202550	1			~TYPE2:22|~TYPE2:22
+1040835	ÜZ Mainfranken eG		Sömmersdorfer Straße 3	97502	Euerbach	50.072130	10.098650	1			~TYPE2:22|~TYPE2:22
+1040844	ÜZ Mainfranken eG		Sömmersdorfer Straße 2	97502	Euerbach	50.072120	10.098660	1			~TYPE2:22|~TYPE2:22
+1040847	ÜZ Mainfranken eG		Kaistener Straße 29	97450	Schwebenried	50.021359	10.007848	1			~TYPE2:22|~TYPE2:22
+1040966	EnBW mobility+ AG und Co.KG		Rudolf-Diesel-Str. 33	97424	Schweinfurt	50.034704	10.235633	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1040997	Numbat GmbH	Tegut Bad Neustadt - West - Eingang	Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317768	10.198967	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1040998	Numbat GmbH	Tegut Bad Neustadt - West - Einfahrt	Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317888	10.199801	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1040999	Numbat GmbH	Tegut Bad Neustadt - Ost - Durchfahrt	Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317841	10.199540	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1041000	Numbat GmbH	Tegut Bad Neustadt - West - Durchfahrt	Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317829	10.199296	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1042472	Energielösung GmbH		Frankenstraße 31	97491	Aidhausen	50.153682	10.436888	1			~TYPE2:22|~TYPE2:22
+1042473	Energielösung GmbH		Schulstraße 21	97633	Großbardorf	50.268341	10.369914	1			~TYPE2:22|~TYPE2:22
+1042476	Energielösung GmbH		Neue Straße 3	97711	Maßbach	50.184191	10.281230	1			~TYPE2:22|~TYPE2:22
+1042478	Energielösung GmbH		Aschacher Straße 1	97708	Bad Bocklet	50.265917	10.074828	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1042494	Energielösung GmbH		Uferstraße 0	97488	Stadtlauringen	50.151800	10.381500	1			~TYPE2:22|~TYPE2:22
+1042495	Energielösung GmbH		Haintorstraß 0	97488	Stadtlauringen	50.188600	10.359300	1			~TYPE2:22|~TYPE2:22
+1042521	Energielösung GmbH		Dorfplatz 1	97633	Sulzfeld	50.261690	10.403976	1			~TYPE2:22|~TYPE2:22
+1042684	Energielösung GmbH		Schweinfurter Str. 9	97631	Bad Königshofen	50.296141	10.459110	1			~CCS2:50|~CCS2:50
+1042769	Energielösung GmbH		Craheim 1	97488	Stadtlauringen	50.201210	10.414679	1			~TYPE2:22|~TYPE2:22
+1042770	Energielösung GmbH		Craheim 1	97488	Stadtlauringen	50.201272	10.414645	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045394	Stadtwerke Schweinfurt GmbH		Maininsel 0	97424	Schweinfurt	50.041810	10.236880	1			~TYPE2:22|~TYPE2:22
+1045396	Stadtwerke Schweinfurt GmbH		Bodelschwinghstraße 1	97421	Schweinfurt	50.050706	10.217371	1			~TYPE2:22|~TYPE2:22
+1045397	Stadtwerke Schweinfurt GmbH		Gabelsbergerstraße 15	97421	Schweinfurt	50.045987	10.221394	1			~TYPE2:22|~TYPE2:22
+1045398	Stadtwerke Schweinfurt GmbH		Roßbrunnstraße 9	97421	Schweinfurt	50.044428	10.226941	1			~TYPE2:22|~TYPE2:22
+1045400	Stadtwerke Schweinfurt GmbH		Schrammstraße 1	97421	Schweinfurt	50.041279	10.227362	1			~TYPE2:22|~TYPE2:22
+1045401	Stadtwerke Schweinfurt GmbH		Siebenbrückleinsgasse 2	97421	Schweinfurt	50.043316	10.231476	1			~TYPE2:22|~TYPE2:22
+1045402	Stadtwerke Schweinfurt GmbH		Am Volksfestplatz 0	97421	Schweinfurt	50.049735	10.202200	1			~TYPE2:22|~TYPE2:22
+1045403	Stadtwerke Schweinfurt GmbH		Ludwigstraße 15	97421	Schweinfurt	50.042507	10.222109	1			~TYPE2:22|~TYPE2:22
+1045404	Stadtwerke Schweinfurt GmbH		Alte Bahnhofstraße 10	97422	Schweinfurt	50.046470	10.242077	1			~TYPE2:22|~TYPE2:22
+1045405	Stadtwerke Schweinfurt GmbH		Robert-Koch-Straße 3	97422	Schweinfurt	50.050176	10.242948	1			~TYPE2:22|~TYPE2:22
+1045406	Stadtwerke Schweinfurt GmbH		Bahnhofsplatz 0	97424	Schweinfurt	50.036270	10.210275	1			~TYPE2:22|~TYPE2:22
+1045407	Stadtwerke Schweinfurt GmbH		Im I. Wehr 0	97424	Schweinfurt	50.040560	10.240181	1			~TYPE2:22|~TYPE2:22
+1045408	Stadtwerke Schweinfurt GmbH		Kornmarkt 0	97421	Schweinfurt	50.047514	10.232564	1			~TYPE2:22|~TYPE2:22
+1045409	Stadtwerke Schweinfurt GmbH		Hermann-Barthel-Straße 64	97424	Schweinfurt	50.042669	10.195487	1			~TYPE2:22|~TYPE2:22
+1045410	Stadtwerke Schweinfurt GmbH		Deutschhöfer Straße 45	97422	Schweinfurt	50.054095	10.229822	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:43
+1045411	Stadtwerke Schweinfurt GmbH		Schweinfurter Straße 113	97464	Niederwerrn	50.059289	10.185731	1			~TYPE2:22|~TYPE2:22
+1045412	Stadtwerke Schweinfurt GmbH		Kirchgasse 0	97421	Schweinfurt	50.045456	10.231709	1			~TYPE2:22|~TYPE2:22
+1045413	Stadtwerke Schweinfurt GmbH		Bodelschwinghstraße 1	97421	Schweinfurt	50.050563	10.217355	1			~CCS2:75|~CCS2:75|~TYPE2:22|~TYPE2_TETHERED:43
+1045414	Stadtwerke Schweinfurt GmbH		Am Friedhof 30	97421	Schweinfurt	50.051767	10.229225	1			~TYPE2:22|~TYPE2:22
+1045415	Stadtwerke Schweinfurt GmbH		Gunnar-Wester-Straße 7	97421	Schweinfurt	50.041097	10.229349	1			~TYPE2:22|~TYPE2:22
+1045416	Stadtwerke Schweinfurt GmbH		Albin-Kitzinger-Straße 0	97422	Schweinfurt	50.064789	10.246959	1			~TYPE2:22|~TYPE2:22
+1045417	Stadtwerke Schweinfurt GmbH		Grottenweg 2	97456	Dittelbrunn	50.095770	10.209918	1			~TYPE2:22|~TYPE2:22
+1045418	Stadtwerke Schweinfurt GmbH		Bodelschwinghstraße 1	97421	Schweinfurt	50.050640	10.217317	1			~TYPE2:22|~TYPE2:22
+1045419	Stadtwerke Schweinfurt GmbH		Margarita-Calvary-Straße 0	97424	Schweinfurt	50.047560	10.198250	1			~TYPE2:22|~TYPE2:22
+1045420	Stadtwerke Schweinfurt GmbH		Am Deutschhof 5	97422	Schweinfurt	50.067772	10.251158	1			~TYPE2:22|~TYPE2:22
+1045421	Stadtwerke Schweinfurt GmbH		Berliner Platz 7	97424	Schweinfurt	50.036944	10.200928	1			~TYPE2:22|~TYPE2:22
+1045422	Stadtwerke Schweinfurt GmbH		Am Oberndorfer Weiher 15	97424	Schweinfurt	50.026810	10.199778	1			~TYPE2:22|~TYPE2:22
+1045423	Stadtwerke Schweinfurt GmbH		Mainberger Straße 16 1/2	97422	Schweinfurt	50.048308	10.243873	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045425	Stadtwerke Schweinfurt GmbH		Mainberger Straße 16 1/2	97422	Schweinfurt	50.048319	10.243959	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045427	Stadtwerke Schweinfurt GmbH		Johannisgasse 10	97421	Schweinfurt	50.042883	10.230009	1			~TYPE2:22|~TYPE2:22
+1045428	Stadtwerke Schweinfurt GmbH		Wittelsbacher Straße 1	97464	Niederwerrn	50.064595	10.184178	1			~TYPE2:22|~TYPE2:22
+1045429	Stadtwerke Schweinfurt GmbH		Galgenleite 120	97424	Schweinfurt	50.056819	10.212882	1			~TYPE2:22|~TYPE2:22
+1045430	Stadtwerke Schweinfurt GmbH		Schweinfurter Straße 54	97464	Niederwerrn	50.061074	10.177475	1			~TYPE2:22|~TYPE2:22
+1045431	Stadtwerke Schweinfurt GmbH		Graben 15	97421	Schweinfurt	50.046477	10.231780	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045433	Stadtwerke Schweinfurt GmbH		Mozartstraße 23	97421	Schweinfurt	50.050606	10.216348	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045435	Stadtwerke Schweinfurt GmbH		Mozartstraße 23	97421	Schweinfurt	50.050674	10.216408	1			~TYPE2:22
+1045436	deer GmbH		Wittelsbacher Straße 1	97464	Niederwerrn	50.064806	10.184016	1			~TYPE2:22|~TYPE2:22
+1045437	Stadtwerke Schweinfurt GmbH		Mozartstraße 23	97421	Schweinfurt	50.050621	10.216411	1			~TYPE2:22|~TYPE2:22
+1049703	E.ON Drive Infrastructure		Raststätte Mellrichstädter Höhe West 0	97638	Mellrichstadt	50.423684	10.349945	1			~CCS2:50|~CCS2:50
+1049707	E.ON Drive Infrastructure		Raststätte Mellrichstädter Höhe Ost 0	97638	Mellrichstadt	50.421205	10.350991	1			~CCS2:50|~CCS2:50
+1051659	MER Germany		Meininger Straße 21	97616	Bad Neustadt	50.325320	10.220300	1			~TYPE2:22|~TYPE2:22
+1052201	Tourismus und Stadtmarketing Bad Neustadt GmbH		Goethestraße 17-19	97616	Bad Neustadt	50.324547	10.212484	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1052202	Tourismus und Stadtmarketing Bad Neustadt GmbH		Mühlbacher Straße Busbahnhof 0	97616	Bad Neustadt	50.319804	10.216281	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1052203	Tourismus und Stadtmarketing Bad Neustadt GmbH		Mühlbacher Straße Busbahnhof 0	97616	Bad Neustadt	50.319729	10.216242	1			~TYPE2_TETHERED:43|~CHADEMO:50|~CCS2:50
+1052429	RegioGrünStrom GmbH & Co. KG		Unterhofer Straße 0	97633	Großbardorf	50.264400	10.370810	1			~TYPE2:22|~TYPE2:22
+1053516	Präg Strom	Kloster Maria Bildhausen	Maria Bildhausen 1	97702	Münnerstadt	50.274666	10.286632	1	24/7	Keine Beschränkung	DE*PSG*E00055*001~TYPE2:22|DE*PSG*E00056*001~TYPE2:22
+1054662	Aral Pulse		Straßburgstraße 1	97424	Schweinfurt	50.021655	10.216618	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054893	Aral Pulse		Oberwerrner Weg 10	97502	Euerbach	50.062846	10.144527	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055235	Aral Pulse		Straßburg Straße 3	97424	Schweinfurt	50.021482	10.215779	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055591	Tourismus und Stadtmarketing Bad Neustadt GmbH	Rathausgasse	Rathausgasse 2	97616	Bad Neustadt a.d.Saale	50.322652	10.217375	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1060263	Pluq		Maxstraße 9	97688	Bad Kissingen	50.201458	10.073368	1			~TYPE2:22|~TYPE2:22
+1062364	GETEC mobility solutions GmbH	LAD001B1905512923	Thundorfer Weg 1	97702	Münnerstadt	50.229693	10.324418	1	24/7	Keine Beschränkung	DE*LAD*EGRUEN10059*01~TYPE2:22|DE*LAD*EGRUEN10059*02~TYPE2:22
+1062445	IONITY GmbH	IONITY Werneck	Am Eschenbach 1	97440	Werneck	50.003327	10.117434	1	24/7	Nur für Kunden/Besucher	DE*IOY*E225001~CCS2:350|DE*IOY*E225002~CCS2:350|DE*IOY*E225003~CCS2:350|DE*IOY*E225004~CCS2:350|DE*IOY*E225005~CCS2:350|DE*IOY*E225006~CCS2:350|DE*IOY*E225007~CCS2:350|DE*IOY*E225008~CCS2:350|DE*IOY*E225009~CCS2:350|DE*IOY*E225010~CCS2:350|DE*IOY*E225011~CCS2:350|DE*IOY*E225012~CCS2:350
+1063035	EnBW mobility+ AG und Co.KG		Sondheimer Str. 13	97638	Mellrichstadt	50.428234	10.309329	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1063103	Tourismus und Stadtmarketing Bad Neustadt GmbH	Busbahnhof	Mühlbacher Str. 0	97616	Bad Neustadt a.d.Saale	50.319804	10.216432	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1063238	LEW Natur GmbH		Kreuzbergstraße 0	97657	Sandberg	50.355618	10.003421	1			~TYPE2:22|~TYPE2:22
+1063338	Energielösung GmbH	Vorndran Metallbau GmbH & Co. KG	Vorndranweg 8	97702	Münnerstadt	50.252720	10.282260	1		Keine Beschränkung	DE*BEM*E010788~CCS2:50|DE*BEM*E010789~CCS2:50
+1064101	Kaufland	1713_Kland_Bad Neustadt_T53-IT1-3516-020	Meininger Str. 6	97616	Bad Neustadt a.d.Saale	50.325876	10.221644	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064337	Kaufland	7740_KLAND_T65-IT1-4022-146	Hauptbahnhofstr. 4	97424	Schweinfurt	50.038050	10.218350	1		Keine Beschränkung	~CCS2:60|xdwVsPiaAgHJS1MXpKjK5qVJ/51FPJWtsz1lh7YGH4hinTWyX+EQH55bnNTdW77B~TYPE2:11|MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEloK5pMVZr+gAeHLqBev/OFkJF62pSe04p/qBP2By6dVKLsPBUCKUsCQDnACEDqPf+kjh3Nt1caA3IQ/TLY/riA==~CCS2:60
+1068472	Frank Engel		Am Steinhaag 6	97711	Maßbach	50.219885	10.229898	1			~TYPE2:13.8
+1070353	Markus Hegel		Ehrlichstrasse 36	97464	Niederwerrn	50.066330	10.189577	1			~TYPE2:11
+1071006	elektro Bühler GmbH		Ernst-Sachs-Str. 94-96	97424	Schweinfurt	50.029439	10.207151	1			~TYPE2_TETHERED:43
+1071504	Natalia Floth		Gartenstraße 9	97616	Bad Neustadt	50.326160	10.209080	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071569	Krisztian Fülöp		Eichelbergstr. 20	97503	Gädheim	50.023872	10.349092	1		Nur für Kunden/Besucher	~TYPE2:11
+1073039	EnBW mobility+ AG und Co.KG		Herrnfeld 3	97708	Bad Bocklet	50.257600	10.068500	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1074578	Stadt Bischofsheim i. d. Rhön		Am Pfarrgrund 0	97653	Bischofsheim i.d.Rhön	50.400940	10.004700	1			~TYPE2:22|~TYPE2:22
+1075249	Umweltbildungsstätte Oberelsbach gGmbH		Auweg 1	97656	Oberelsbach	50.441938	10.120475	1			~TYPE2_TETHERED:35|~CCS2:43+CHADEMO:43
+1075474	ÜWR Mobilität GmbH & Co. KG	Besucherparkplatz Hauptverwaltung Mellrichstadt	Sondheimer Str. 5	97638	Mellrichstadt	50.429560	10.307000	1	24/7	Keine Beschränkung	bis 30.09.2025 DE*VIR*E255092 ab 01.10.2025 DELMSE1234788375*1~CCS2:300|bis 30.09.2025 DE*VIR*E255090 ab 01.10.2025 DELMSE1234788375*2~CCS2:300
+1076778	ÜWR Mobilität GmbH & Co. KG	Parkplatz Streuwiese	Mühlenweg 1	97638	Mellrichstadt	50.426540	10.300040	1	24/7	Keine Beschränkung	bis 30.09.2025 DE*VIR*E255144 ab 01.10.2025 DELMSE1234788376*1~CCS2:160|bis 30.09.2025 DE*VIR*E255146 ab 01.10.2025 DELMSE1234788376*3~CCS2:160|bis 30.09.2025 DE*VIR*E255145 ab 01.10.2025 DELMSE1234788376*2~TYPE2:22
+1080794	Ferchau Management GmbH		Amsterdamstr. 6a	97424	Schweinfurt	50.019726	10.219045	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1081249	DS-Energies Holding GmbH	PointCenter Bad Neustadt a.d. Saale	Gartenstr. 11	97616	Bad Neustadt a.d.Saale	50.326164	10.208776	1	24/7	Keine Beschränkung	DE*EFL*EV4041075*C1~CCS2:50|DE*EFL*EV4041075*C2~CCS2:50
+1081251	DS-Energies Holding GmbH	PointCenter Bad Neustadt a.d. Saale	Gartenstr. 11	97616	Bad Neustadt a.d.Saale	50.326102	10.208726	1	24/7	Keine Beschränkung	DE*EFL*EV3379409*C1~CCS2:150|DE*EFL*EV3379409*C2~CCS2:150
+1081258	Rhön-Park-Hotel GmbH & Co. K		Rother Kuppe 2	97647	Hausen	50.479558	10.104446	1			~TYPE2:22|~TYPE2:22
+1081259	Rhön-Park-Hotel GmbH & Co. K		Rother Kuppe 2	97647	Hausen-Roth	50.479575	10.103936	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1081450	Autohaus Heermann und Rhein GmbH		Amsterdamstr. 3	97424	Schweinfurt	50.020749	10.219361	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1081453	Autohaus Heermann und Rhein GmbH		Ludwig-Elsbett-Str. 1	97616	Salz b. Bad Neustadt	50.296723	10.192086	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1081541	Pfalzwerke AG		Rudolf-Diesel-Str. 24	97424	Schweinfurt	50.033699	10.238357	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1083793	Gemeinde Dittelbrunn		Rathausplatz 1	97456	Dittelbrunn	50.095769	10.209962	1			~TYPE2:22|~TYPE2:22
+1084460	EnBW mobility+ AG und Co.KG		Am Zauser 1	97502	Euerbach	50.060900	10.144200	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1084618	Andrea Bauer		Siedlungsweg 30	97631	Bad Königshofen im Grabfeld	50.301348	10.466277	1			~TYPE2:11
+1085428	Dominic Vikuk		Armin-Knab-Straße 9	97456	Dittelbrunn	50.100636	10.213620	1			~TYPE2_TETHERED:11
+1085495	Elektro Schmitt GmbH		Sailershäuser Straße 8	97531	Theres	50.025485	10.447300	1	Mo-Fr 08:00-16:00	Nur für Kunden/Besucher	~TYPE2:22
+1085921	Harald Then		Am alten Brunnen 4	97440	Werneck	50.031015	10.086458	1			~TYPE2:11
+1086246	Joachim Fischer		Ottonenstr. 13	97505	Geldersheim	50.043654	10.156587	1			~TYPE2_TETHERED:22
+1086405	Kai Lang		Hohler Weg 12	97654	Bastheim	50.392856	10.205491	1			~TYPE2:11
+1086632	Maik Plenz		Schulstraße 20	97705	Burkardroth	50.274507	10.005401	1			~TYPE2_TETHERED:5
+1086850	Martin Heusinger		Einsteinstr 12	97469	Gochsheim	50.026428	10.287750	1			~TYPE2_TETHERED:11
+1086863	Martin Pommer		Kiefernweg 12	97456	Dittelbrunn	50.071174	10.214968	1			~TYPE2:11
+1087729	Sergej Manz		Am Hohnholz 3	97724	Burglauer	50.272000	10.177334	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087801	Stanislaw Schatilo		Neuer Weg 10	97656	Oberelsbach	50.425118	10.136768	1			~TYPE2:11
+1087936	Steve Lang		Steinellerweg 1	98631	Grabfeld	50.454628	10.399988	1			~TYPE2:6
+1088047	Thomas Friedrich		Burgstr 3	97618	Rödelmaier	50.319669	10.277302	1			~TYPE2:11|~TYPE2_TETHERED:11
+1088059	Thomas Hemmert		Am Bergstück 15	97618	Niederlauer	50.295576	10.143834	1			~TYPE2:11
+1089747	Waschkiste		Hoher Markstein 8	97631	Bad Königshofen	50.306001	10.464980	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089749	Waschkiste		Hoher Markstein 8	97631	Bad Königshofen im Grabfeld	50.305910	10.465030	1			~CCS2:50|~CCS2:50
+1089750	Waschkiste		Hoher Markstein 8	97631	Bad Königshofen im Grabfeld	50.305980	10.465220	1			~CCS2:50|~CCS2:50
+1091129	Cramermühle GmbH & Co. KG		Handwerkerstraße 0	97526	Sennfeld	50.034320	10.256139	1			~TYPE2:22|~TYPE2:22
+1091130	Cramermühle GmbH & Co. KG		Am Hexenbrünnlein 0	97526	Sennfeld	50.044288	10.258736	1			~TYPE2:22|~TYPE2:22
+1091131	Cramermühle GmbH & Co. KG		Am Partensee 2	97526	Sennfeld	50.040090	10.265200	1			~TYPE2:22|~TYPE2:22
+1091132	Cramermühle GmbH & Co. KG		Lindenstraße 19	97526	Sennfeld	50.037472	10.258943	1			~TYPE2:22|~TYPE2:22
+1091133	Cramermühle GmbH & Co. KG		Hauptstraße 19	97526	Sennfeld	50.041962	10.260150	1			~TYPE2:22|~TYPE2:22
+1091134	Cramermühle GmbH & Co. KG		Bergstraße 20	97526	Sennfeld	50.036346	10.255011	1			~TYPE2:22|~TYPE2:22
+1091135	Cramermühle GmbH & Co. KG		Konrad Wagner Straße 2	97526	Sennfeld	50.037951	10.261061	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093576	Gemeinde Heustreu		Am Salzbrunnen 10	97618	Heustreu	50.356220	10.257970	1			~TYPE2:22|~TYPE2:22
+1096732	Autohaus Hölzer GmbH		Thüringer Str. 23	97631	Bad Königshofen im Grabfeld	50.301994	10.474096	1			~CCS2:22|~TYPE2:11
+1096779	Autohaus Kehm GmbH		Hauptstraße 7	97616	Bad Neustadt an der Saale	50.330058	10.217527	1			~TYPE2:11
+1097222	Auto-Weber GmbH & Co. KG		Rhönstraße 17	97653	Bischofsheim in der Rhön	50.403604	10.004718	1			~TYPE2:11|~CCS2:22
+1097322	Gelder & Sorg Schweinfurt GmbH & Co. KG		Würzburger Str. 16	97688	Bad Kissingen	50.185856	10.076932	1			~CCS2:22|~TYPE2:11
+1102337	Parkgarage Altstadt Bad Neustadt a. d. Saale GmbH & Co. KG		Mühlbacher Straße 0	97616	Bad Neustadt a. d. Saale	50.324861	10.224098	1			~TYPE2:22|~TYPE2:22
+1102416	Golfpark-Betriebs GmbH		Ebertshäuser Str 17	97453	Schonungen	50.094817	10.363592	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1102533	Manuel Thoma		Keltenweg 2	97488	Stadtlauringen	50.189376	10.375586	1			~TYPE2:11
+1103820	ALDI SÜD	HEL-067	Borsigstr. 13	97616	Bad Neustadt a.d.Saale	50.332906	10.228524	1	 	Keine Beschränkung	DE*ALD*E11071~TYPE2:22|DE*ALD*E11070~TYPE2:22
+1104474	Gemeindewerke Nüdlingen		Mühlweg 0	97720	Nüdlingen	50.217990	10.115940	1			~TYPE2:22|~TYPE2:22
+1104475	Gemeindewerke Nüdlingen		Josef-Willmann-Str. 0	97720	Nüdlingen	50.220990	10.129610	1			~TYPE2:22|~TYPE2:22
+1109789	Timm Simonoff		Untere Dorfstraße 3	97638	Mellrichstadt	50.382622	10.327301	1			~TYPE2:22
+1109855	Landratsamt Rhön-Grabfeld		Roßmarktstraße 50	97616	Bad Neustadt a.d. Saale	50.322670	10.219500	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1110082	Preh GmbH		Schweinfurter Str. 5-9	97616	Bad Neustadt	50.320280	10.208620	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1110113	Sparkasse Bad Neustadt a.d. Saale		Meininger Str. 31-37	97616	Bad Neustadt a. d. Saale	50.327387	10.219862	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1110114	Sparkasse Bad Neustadt a.d. Saale		Sparkassenstr. 6-8	97631	Bad Königshofen	50.301260	10.466592	1			~TYPE2:22|~TYPE2:22
+1110115	Sparkasse Bad Neustadt a.d. Saale		Goethestraße 15A	97616	Bad Neustadt a.d.Saale	50.323830	10.210900	1			~TYPE2:22|~TYPE2:22
+1117249	Engelmann		An der Sauerwiese 20	97618	Wollbach	50.364891	10.217877	1	Mo-Do 07:00-16:00, Fr 07:00-12:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1117949	ÜZ Mainfranken eG	Bergrheinfeld Feuerwehrhaus	Schnackenwerther Str. 15	97493	Bergrheinfeld	50.007747	10.175921	1	24/7	Keine Beschränkung	DEUEZE011701~TYPE2:22|DEUEZE011702~TYPE2:22
+1118304	E.ON Drive Infrastructure	REWE, Bamberger Straße 11, 97631 Bad Königshofen	Bamberger Str. 11	97631	Bad Königshofen i. Grabfeld	50.297186	10.471236	1	24/7	Keine Beschränkung	DE*UFC*E00457*1~CCS2:400|DE*UFC*E00457*2~CCS2:400|DE*UFC*E00458*1~CCS2:400|DE*UFC*E00458*2~CCS2:400
+1119679	Robert Bosch GmbH		Röntgenstr. 5	97424	Schweinfurt	50.025524	10.235280	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1119686	Robert Bosch GmbH		Röntgenstr. 5	97424	Schweinfurt	50.025491	10.235363	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1120388	Pfalzwerke AG	XXXLutz Schweinfurt	Amsterdamstr. 7	97424	Schweinfurt	50.020050	10.223018	1	24/7	Keine Beschränkung	DE*PWA*EENC22285X01420*01~CCS2:160|DE*PWA*EENC22285X01420*02~CCS2:160
+1120390	Pfalzwerke AG	XXXLutz Schweinfurt	Amsterdamstr. 7	97424	Schweinfurt	50.020090	10.222954	1	24/7	Keine Beschränkung	DE*PWA*EENC22285X01419*01~CCS2:160|DE*PWA*EENC22285X01419*02~CCS2:160|DE*PWA*EALP22537X01422*01~CCS2:50|DE*PWA*EALP22537X01422*02~CCS2:50
+1120392	Pfalzwerke AG	XXXLutz Schweinfurt	Amsterdamstr. 7	97424	Schweinfurt	50.020052	10.222940	1	24/7	Keine Beschränkung	DE*PWA*EENC22285X01418*01~CCS2:160|DE*PWA*EENC22285X01418*02~CCS2:160|DE*PWA*EALP22537X01421*01~CCS2:50|DE*PWA*EALP22537X01421*02~CCS2:50
+1120448	Autohaus Kehm GmbH		Hauptstr. 7-9	97616	Bad Neustadt a.d.Saale	50.330048	10.217299	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2_TETHERED:22|~TYPE2:22
+1121811	Stadtwerke Schweinfurt GmbH	SILVANA Sport- und Freizeitbad	An den Unteren Eichen 1	97422	Schweinfurt	50.061836	10.236977	1	24/7	Keine Beschränkung	DE*BDO*E986063684*1~TYPE2:22|DE*BDO*E986063684*2~TYPE2:22
+1125804	ALDI SÜD	HEL-041	Am Eschenbach 5	97440	Werneck	50.003094	10.116308	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23330~CCS2:50|DE*ALD*E23331~CCS2:50
+1126656	Energielösung GmbH	AC_Rannungen	Hauptstr. 12	97517	Rannungen	50.166920	10.204080	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1126657	Energielösung GmbH	AC-Rannungen	Hauptstr. 12	97517	Rannungen	50.166960	10.203950	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1127215	ParkHotel CUP VITALIS	Ladepunkt 1+2	Menzelstr. 19	97688	Bad Kissingen	50.194540	10.083590	1	24/7	Nur für Kunden/Besucher	EMVM9~TYPE2:22|EXJ6H~TYPE2:22
+1127782	Hotel Sturm GmbH & Co.KG		Ignaz-Reder-Str. 3	97638	Mellrichstadt	50.420059	10.294180	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1127908	Stadtwerke Schweinfurt GmbH	Tiefgarage Georg-Wichtermann-Platz	Georg-Wichtermann-Platz 5-10	97421	Schweinfurt	50.044077	10.231779	1	24/7	Keine Beschränkung	DE*BDO*E363189156*1~TYPE2:22|DE*BDO*E363189156*2~TYPE2:22
+1128129	Stadtwerke Schweinfurt GmbH	Zeughaus	Am Zeughaus 15	97421	Schweinfurt	50.045683	10.229345	1	24/7	Keine Beschränkung	DE*BDO*E510725681*1~TYPE2:11|DE*BDO*E510725681*2~TYPE2:11
+1128191	CUBOS Service GmbH	2318	Saalestr. 2	97616	Bad Neustadt a.d.Saale	50.317714	10.198775	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235
+1128213	CUBOS Service GmbH		Gretel-Baumbach-Str. 8	97424	Schweinfurt	50.059418	10.191602	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235
+1128800	Edeka Sczygiel & Pfrang KG		Brückenstr. 35	97506	Grafenrheinfeld	50.003887	10.189401	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1129549	EnBW mobility+ AG und Co.KG		Heckenweg 4	97422	Schweinfurt	50.055905	10.228332	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129692	BayWa Mobility Solutions GmbH		Heini-Dittmar-Str. 1	97424	Schweinfurt	50.030040	10.240760	1	24/7	Keine Beschränkung	DE*122*E7011601~CCS2:200|DE*122*E7011602~CCS2:200
+1129886	Aral Pulse		Lehmgrube 1	97488	Stadtlauringen	50.183100	10.369500	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131162	Pluq	Pension Hubertushof	Friedhofstr. 5	97702	Münnerstadt	50.249082	10.200761	1		Nur für Kunden/Besucher	DEEFLEV6233720C1~TYPE2:11|DEEFLEV6233720C2~TYPE2:11
+1133477	EWE Go GmbH	McD_1158_1A	Würzburger Str. 8	97688	Bad Kissingen	50.186973	10.076259	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1135282	BayWa Mobility Solutions GmbH		Alter Molkereiweg 5	97616	Bad Neustadt a.d.Saale	50.331837	10.226270	1	24/7	Keine Beschränkung	DE*122*E7010301~CCS2:400|DE*122*E7010302~CCS2:200|DE*122*E7010307~CCS2:200|DE*122*E7010308~CCS2:200|DE*122*E7010303~CCS2:200|DE*122*E7010304~CCS2:200|DE*122*E7010305~CCS2:200|DE*122*E7010306~CCS2:200|DE*122*E7010309~CCS2:200|DE*122*E7010310~CCS2:200|DE*122*E7010311~CCS2:200|DE*122*E7010312~CCS2:200
+1135995	BayWa Mobility Solutions GmbH		Heini-Dittmar-Str. 1	97424	Schweinfurt	50.030608	10.240315	1	24/7	Keine Beschränkung	DE*122*E7011603~CCS2:200|DE*122*E7011604~CCS2:200
+1137271	autostrom.plus	Rastplatz Maibacher Höhe Ost - Fahrtrichtung Bernburg (073)	Hainer Weg 0	97490	Poppenhausen	50.101515	10.161672	1	24/7	Nur für Kunden/Besucher	DE*AUP*E07301*01~CCS2:400|DE*AUP*E07301*02~CCS2:400|DE*AUP*E07302*01~CCS2:400|DE*AUP*E07302*02~CCS2:400
+1137273	autostrom.plus	Rastplatz Maibacher Höhe Ost - Fahrtrichtung Bernburg (073)	Hainer Weg 0	97490	Poppenhausen	50.101588	10.161693	1	24/7	Nur für Kunden/Besucher	DE*AUP*E07303*01~CCS2:400|DE*AUP*E07303*02~CCS2:400
+1137486	Jochen Menninger	Scheune	Lorenzgasse 3	97654	Bastheim	50.395210	10.173923	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:16
+1137640	deer GmbH	Dittelbrunn, Sportplatz	Lindenstr. 2	97456	Dittelbrunn	50.070239	10.218139	1	24/7	Keine Beschränkung	DE*753*E00498~TYPE2:22|DE*753*E00498*002~TYPE2:22
+1137897	CUBOS Service GmbH	3802	Thomas-Mann-Str. 1	97616	Bad Neustadt a.d.Saale	50.331688	10.206820	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1139329	Jochen Menninger	Scheune	Lorenzgasse 3	97654	Bastheim	50.395332	10.173316	1		Nur für Kunden/Besucher	~TYPE2:22
+1139513	Comfort Charge	Bad Neustadt, CC_97_0002	Am Zollberg 8	97616	Bad Neustadt a.d.Saale	50.324000	10.218250	1	24/7	Keine Beschränkung	DECCH*ECCH2300025DLT*1~CCS2:200|DECCH*ECCH2300025DLT*2~CCS2:200
+1140577	Robert Bosch GmbH		Röntgenstraße 5	97424	Schweinfurt	50.025720	10.233430	1		Keine Beschränkung	DE*811*E17AA02F5*1001~TYPE2:22|DE*811*E17AA02F5*1002~TYPE2:22|DE*811*E179502EF*1001~TYPE2:22|DE*811*E179502EF*1002~TYPE2:22|DE*811*E122F0225*1001~TYPE2:22|DE*811*E12230291*1001~TYPE2:22|DE*811*E12250293*1001~TYPE2:22|DE*811*E12230290*1001~TYPE2:22|DE*811*E12250292*1001~TYPE2:22|DE*811*EA5F021A*1001~TYPE2:22
+1140788	Aral Pulse		Straßburgstr. 1	97424	Schweinfurt	50.021780	10.216850	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1140816	Aral Pulse		Siebenäcker 3	97717	Euerdorf	50.149710	10.018010	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141185	Netto Marken-Discount Stiftung & Co. KG	ACHTUNG die richtige Adresse lautet: Im Bodes 1	Auraer Str. 3	97717	Euerdorf	50.148580	10.017100	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1144168	IONITY GmbH	Schweinfurt	Straßburgstr. 63	97424	Schweinfurt	50.021333	10.214668	1	24/7	Nur für Kunden/Besucher	DE*IOY*E237301~CCS2:350|DE*IOY*E237302~CCS2:350|DE*IOY*E237303~CCS2:350|DE*IOY*E237304~CCS2:350|DE*IOY*E237305~CCS2:200|DE*IOY*E237306~CCS2:200
+1145293	Energielösung GmbH		Am Heiligenberg 1	97717	Euerdorf	50.142470	10.036710	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1148300	Präg Strom	REWE Maßbach	Am Heidig 1	97711	Maßbach	50.174245	10.282143	1	24/7	Keine Beschränkung	DE*PSG*E00103*001~CCS2:200|DE*PSG*E00103*002~CCS2:200
+1148597	deer GmbH	Oberwerrn, Bahnhof	Bahnhofstr. 1	97464	Niederwerrn	50.069970	10.154312	1	24/7	Keine Beschränkung	DE*753*E00507*001~TYPE2:22|DE*753*E00507*002~TYPE2:22
+1150383	elektro Bühler GmbH	elektro Bühler GmbH	Ernst-Sachs-Str. 94	97424	Schweinfurt	50.029445	10.207104	1	24/7	Keine Beschränkung	DE*ONE* ELT6V~CCS2:40
+1150561	Robert Bosch GmbH		Ernst-Sachs-Straße 100	97424	Schweinfurt	50.030110	10.205770	1		Nur für Kunden/Besucher	DE*811*E12220290*1001~TYPE2:22|DE*811*E12300299*1001~TYPE2:22
+1155405	Tesla Germany GmbH		Straßburgstr. 3	97424	Schweinfurt	50.020371	10.215157	1	24/7	Keine Beschränkung	DE*TSL*E4XKE0U~CCS2:250|DE*TSL*E4XKE0V~CCS2:250|DE*TSL*E4XKDPX~CCS2:250|DE*TSL*E4XKDUD~CCS2:250|DE*TSL*E4XKDRL~CCS2:250|DE*TSL*E4XKDRI~CCS2:250|DE*TSL*E4XKDWT~CCS2:250|DE*TSL*E4XKE10~CCS2:250|DE*TSL*E4XKE0U~CCS2:250|DE*TSL*E4XKE0V~CCS2:250|DE*TSL*E4XKDPX~CCS2:250|DE*TSL*E4XKDUD~CCS2:250|DE*TSL*E4XKDRL~CCS2:250|DE*TSL*E4XKDRI~CCS2:250|DE*TSL*E4XKDWT~CCS2:250|DE*TSL*E4XKE10~CCS2:250
+1158734	EMPiRE Electronic	Hofeinfahrt	Gerolzhofer Str. 6	97526	Sennfeld	50.036779	10.252345	1	24/7	Keine Beschränkung	CH*ECUEE4V5WQJDKNTXSYPRH9L68FNFRX~TYPE2_TETHERED:11
+1162428	MVV Energie AG	MaLIS_Mueller_Sennfeld	Schweinfurter Str. 3c	97526	Sennfeld	50.038491	10.246569	1	24/7	Keine Beschränkung	DE*MVV*E00671*L1~CCS2:300|DE*MVV*E00671*R1~CCS2:300
+1162431	MVV Energie AG	MaLIS_Mueller_Schweinfurt	Gretel-Baumbach-Str. 10	97424	Schweinfurt	50.060124	10.192275	1	24/7	Keine Beschränkung	DE*MVV*E00689*L1~CCS2:300|DE*MVV*E00689*R1~CCS2:300
+1162441	MVV Energie AG	MaLIS_Mueller_Werneck	Am Eschenbach 6	97440	Werneck	50.004275	10.115790	1	24/7	Keine Beschränkung	DE*MVV*E00703*L1~CCS2:300|DE*MVV*E00703*R1~CCS2:300
+1164305	Stadtwerke Würzburg AG		An der Heide 4	97714	Oerlenbach	50.145561	10.151919	1	24/7	Keine Beschränkung	DE*BDO*E627804177*1~CCS2:150|DE*BDO*E627804177*2~CCS2:150

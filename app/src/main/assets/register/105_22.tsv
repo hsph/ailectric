@@ -1,0 +1,51 @@
+1011459	Comfort Charge		Vor dem Lüchower Tor 12	29410	Salzwedel	52.857590	11.155900	1			~CCS2:100|~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:22
+1016313	Avacon AG		Am Chüdenwall 1	29410	Salzwedel	52.848274	11.155090	1			~TYPE2:22|~TYPE2:22
+1016314	Avacon AG		Kleinbahnstraße 1	29410	Salzwedel	52.857150	11.161580	1			~TYPE2:22|~TYPE2:22
+1016315	Avacon AG		Dr.-Lindemann-Straße 12	29439	Lüchow	52.969010	11.154470	1			~TYPE2:22|~TYPE2:22
+1016351	Avacon AG		Rudolf-Breitscheid-Straße 4	39638	Gardelegen	52.526500	11.393440	1			~TYPE2:22|~TYPE2:22
+1016375	Avacon AG		Dessauer Worth 0	39619	Arendsee	52.880460	11.485580	1			~TYPE2:22|~TYPE2:22
+1016376	Avacon AG		Breite Straße 12	38486	Klötze	52.625400	11.164330	1			~TYPE2:22|~TYPE2:22
+1021676	EWE Go GmbH	McD_0949	Magdeburger Str. 7a	29410	Salzwedel , Hansestadt	52.841137	11.172090	1	24/7	Keine Beschränkung	DE*2GO*EMCD0949*1A*1~CCS2:150|DE*2GO*EMCD0949*1A*2~CCS2:150
+1025993	EnBW mobility+ AG und Co.KG		Am Kleinbahnhof 2	29439	Lüchow	52.964059	11.165428	1			~CCS2:75|~CCS2:75
+1026165	EnBW mobility+ AG und Co.KG		Kleinbanstr. 2	29410	Salzwedel	52.856866	11.165122	1			~CCS2:150|~CCS2:150
+1027082	EnBW mobility+ AG und Co.KG		Poppauer Straße 1	38486	Klötze	52.629390	11.155780	1			~CCS2:150|~CCS2:150
+1027142	EnBW mobility+ AG und Co.KG		Dannenberger Straße 4	29439	Lüchow	52.968290	11.140597	1			~CCS2:150|~CCS2:150
+1027369	EnBW mobility+ AG und Co.KG		Buschhorstweg 2	39638	Gardelegen	52.515680	11.401577	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1032033	TotalEnergies Charging Solutions		Brewitz 8	29410	Salzwedel	52.814841	11.166428	1			~CCS2:75|~CCS2:75
+1037977	Edith und Burghard Bannier GbR		Friedensstraße 91	39619	Arendsee	52.882323	11.489174	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040298	EnBW mobility+ AG und Co.KG		Theodor-Körner-Straße 18	29439	Lüchow (Wendland)	52.966477	11.161949	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1041378	team energie		Seerauerstr. 41	29439	Lüchow	52.977593	11.164269	1			~CCS2:300|~CCS2:300|~CCS2:300|~CHADEMO:100+CCS2:300
+1048681	Lidl		Klammstieg 3	39638	Gardelegen	52.527254	11.384007	1			~TYPE2:22+CCS2:22|~TYPE2:11+TYPE2_TETHERED:11
+1049843	TotalEnergies Charging Solutions		Brewitz 8	29410	Salzwedel , Hansestadt	52.814918	11.166556	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75|~TYPE2:22
+1051372	Stadtwerke Stendal GmbH	Arendsee Mutter-Kind-Klinik	Kurgebiet 1	39619	Arendsee (Altmark)	52.878495	11.455893	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1060147	EA-DD		Brunnenstr. 30	29410	Salzwedel , Hansestadt	52.858201	11.144911	1	24/7	Nur für Kunden/Besucher	DE*EAD*E100123~TYPE2:22|DE*EAD*E100124~TYPE2:22
+1064290	Kaufland		Karl-Marx Straße 13	29410	Salzwedel	52.856870	11.150000	1			~TYPE2:11|~CCS2:60|~CCS2:60
+1069249	scm energy GmbH		Krangener Straße 12	29410	Salzwedel	52.834805	11.258473	1			~CCS2:50|~TYPE2:22
+1075895	Helionat eG		Gerichtstraße 31	39624	Kalbe (Milde)	52.651460	11.388730	1			~TYPE2:22
+1077991	Westaflexwerk GmbH	ERO Edelstahl-Rohrtechnik GmbH	Industriestr. 1	29410	Salzwedel , Hansestadt	52.801959	11.153699	1	Mo-Do 08:00-17:00, Fr 08:00-12:00	Keine Beschränkung	DE*WFX*E4830135~TYPE2:22|DE*WFX*E4830136~TYPE2:22
+1080495	Autohaus Meyer GmbH		Bahnhofstraße 53	38486	Klötze	52.632670	11.150410	1			~TYPE2:22
+1084185	Holger Fritz-Gröger		Bungalowsiedlung 65	39619	Arendsee	52.878612	11.468421	1			~TYPE2:22|~TYPE2:22
+1084871	AXEL GERO GNADE		Im Putzlein 5	29439	Lüchow	52.988566	11.125683	1			~TYPE2_TETHERED:11
+1085373	Dieter Schulze		Zethlinger Dorfstr. 48	39624	Kalbe (Milde)	52.656504	11.387695	1			~TYPE2:4
+1089304	Sparkasse Altmark West		Wallstr. 1	29410	Salzwedel	52.853466	11.151216	1			~TYPE2:22|~TYPE2:22
+1091317	WELLER	WELLER Salzwedel	Hauptstr. 6	29410	Salzwedel , Hansestadt	52.866790	11.095144	1	Mo-Fr 09:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1096555	Autohaus Belling GmbH & Co.KG		Fichtestraße 1	29439	Lüchow	52.968158	11.139795	1			~CCS2:22|~TYPE2:11
+1096556	Autohaus Belling GmbH & Co.KG		An der Brücke 0	29410	Salzwedel	52.852875	11.181135	1			~TYPE2:11
+1096905	Autohaus Neuling GmbH & Co.KG		Poppauer Str. 37	38486	Klötze	52.633190	11.155986	1			~CCS2:22|~TYPE2:11
+1097092	Autohaus Thormann OHG		An der Breiten Gehre 20	39638	Gardelegen	52.539822	11.401421	1			~TYPE2_TETHERED:11
+1097166	Autohaus Wolter-Lüchow GmbH		Drawehner Straße 0	29439	Lüchow	52.964914	11.148901	1			~TYPE2:11|~CCS2:22
+1099771	Vattenfall Smarter Living GmbH		Bahnhofstraße 2	29410	Salzwedel	52.857764	11.157311	1			~CCS2:180|~CCS2:180
+1102809	Avacon AG		Am Kronsberg 1	29410	Salzwedel , Hansestadt	52.853222	11.144638	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1106468	E.ON Drive GmbH		Dr.-Lindemann-Straße 12	29439	Lüchow	52.968590	11.155890	1			~TYPE2:22|~TYPE2:22
+1106485	E.ON Drive GmbH		Rudolf-Breitscheid-Str 4	39638	Gardelegen	52.526500	11.393440	1			~TYPE2:22|~TYPE2:22
+1106507	E.ON Drive GmbH		Kleinbahnstraße 1	29410	Salzwedel	52.857150	11.161590	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1106767	E.ON Drive GmbH		Am Chüdenwall 1	29410	Salzwedel	52.848273	11.155097	1			~TYPE2:22|~TYPE2:22
+1106943	E.ON Drive GmbH		An der Breiten Gehre 5	39638	Gardelegen	52.539356	11.408109	1			~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:22|~CHADEMO:50+CCS2:50|~TYPE2_TETHERED:22
+1114171	AUTOPLUS AG		Karl-Marx-Str. 3	29410	Salzwedel	52.857422	11.153681	1			~TYPE2:22|~TYPE2:22
+1134312	Vattenfall Smarter Living GmbH		Hopfenstr. 18	39638	Gardelegen	52.518470	11.397347	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1136206	TotalEnergies Charging Solutions		Bahnhofstr. 60	38486	Klötze	52.630261	11.153529	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50013*001*1~CCS2:200|DE*TCB*E3D9CS50013*001*2~CCS2:200|DE*TCB*E3D9CS50013*002*1~CCS2:200|DE*TCB*E3D9CS50013*002*2~CCS2:200
+1138627	VINCharge 2 GmbH	eliso - zum Seeadler - Arendsee	Bahnhofstr. 60	39619	Arendsee (Altmark)	52.873510	11.489968	1	24/7	Keine Beschränkung	DE*ELI*E3603096~CCS2:400|DE*ELI*E3603097~CCS2:400|DE*ELI*E3603098~CCS2:400|DE*ELI*E3603099~CCS2:400
+1141042	Autohaus Schmidt GmbH		An der Ritzer Brücke 5	29410	Salzwedel , Hansestadt	52.852061	11.181975	1		Keine Beschränkung	~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150
+1145105	STERNPARTNER SE + Co.KG	SALZWEDEL 1	Arendseer Str. 28	29410	Salzwedel , Hansestadt	52.841691	11.187944	1	Mo-Fr 08:00-18:00, Sa 09:00-12:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1145977	VINCharge 2 GmbH	eliso - OBI - Gardelegen	Straße der Opfer des Faschismus 0	39638	Gardelegen	52.531828	11.408165	1	24/7	Keine Beschränkung	DE*ELI*E3603088~CCS2:400|DE*ELI*E3603089~CCS2:400|DE*ELI*E3603090~CCS2:400|DE*ELI*E3603091~CCS2:400|DE*ELI*E3603092~CCS2:400|DE*ELI*E3603093~CCS2:400|DE*ELI*E3603094~CCS2:400|DE*ELI*E3603095~CCS2:400
+1160409	Stadtwerke Stendal GmbH	Parkplatz Märchenpark Salzwedel	An der Warthe 3	29410	Salzwedel , Hansestadt	52.825591	11.138024	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22

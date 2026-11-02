@@ -6,6 +6,7 @@ import app.ailectric.core.provider.Http
 import app.ailectric.core.provider.OpenChargeMapProvider
 import app.ailectric.core.provider.OsmStationProvider
 import app.ailectric.core.provider.OverpassPoiProvider
+import app.ailectric.core.provider.RegisterProvider
 import app.ailectric.core.search.ChargerSearch
 import app.ailectric.core.search.StationRepository
 import app.ailectric.data.AppDatabase
@@ -18,6 +19,7 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 import org.maplibre.android.MapLibre
+import java.io.FileNotFoundException
 
 open class AilectricApplication : Application() {
     val appScope = CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)
@@ -33,12 +35,19 @@ open class AilectricApplication : Application() {
         val endpoints = { settings.overpassEndpoints }
         val stations = StationRepository(
             providers = listOf(
+                RegisterProvider(asset("stand.txt")?.trim(), ::asset),
                 OpenChargeMapProvider({ settings.effectiveOcmKey }, http),
                 OsmStationProvider(http, endpoints),
             ),
             cache = cache,
         )
         SearchSession(ChargerSearch(stations, OverpassPoiProvider(http, endpoints), cache), this, appScope)
+    }
+
+    private fun asset(name: String): String? = try {
+        assets.open("register/$name").bufferedReader().use { it.readText() }
+    } catch (_: FileNotFoundException) {
+        null
     }
 
     override fun onCreate() {

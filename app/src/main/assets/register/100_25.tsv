@@ -1,0 +1,16 @@
+1002959	Bürger Energie Erzgebirge eG		Karlsbader Straße 164	09465	Sehmatal	50.479984	12.973743	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1032495	envia Mitteldeutsche Energie AG	PH03391	Karlsbader Str. 3	09484	Kurort Oberwiesenthal	50.419290	12.968970	1	24/7	Keine Beschränkung	DE*ISE*E0004757~TYPE2:22|DE*ISE*E0004758~TYPE2:22
+1066858	LADEFIX		Karlsbader Straße 1	08309	Eibenstock	50.492801	12.601996	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1093517	Stadtwerke Schneeberg GmbH		Haberleithe 0	08309	Eibenstock	50.495514	12.595724	1			~TYPE2:22|~TYPE2:22
+1102654	Sportpark Rabenberg e.V.		Rabenberg 1	08359	Breitenbrunn	50.455784	12.744742	1			~TYPE2:22|~TYPE2:22
+1105524	Wohnungsbaugesellschaft Eibenstock mbH		Funckstraße 18	08309	Eibenstock	50.492625	12.608030	1			~TYPE2:22|~TYPE2:22
+1110303	Ahorn Hotels		Vierenstraße 18	09484	Oberwiesenthal	50.424658	12.970206	1			~TYPE2:22|~TYPE2:22
+1110304	Ahorn Hotels		Karlsbader Straße 40	09484	Oberwiesenthal	50.419450	12.963478	1			~TYPE2:22|~TYPE2:22
+1112417	Tischlerei Fenzl GmbH		Glockenklanger Straße 32	08349	Johanngeorgenstadt	50.434538	12.718593	1			~TYPE2:11
+1114420	JENS WEISSFLOG APPARTEMENTHOTEL GmbH & Co.KG		Emil-Riedel-Straße 50	09484	Oberwiesenthal	50.436466	12.970431	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1129695	LADEFIX		Wittigsthalstr. 15Z	08349	Johanngeorgenstadt	50.428688	12.731145	1	24/7	Keine Beschränkung	DE*EME*EFIX*0015~CHADEMO:50+CCS2:50+TYPE2_TETHERED:22
+1129696	LADEFIX		Eibenstocker Str. 69Z	08349	Johanngeorgenstadt	50.433503	12.710428	1	24/7	Keine Beschränkung	DE*EME*EFIX*0019~CHADEMO:50+CCS2:50+TYPE2_TETHERED:22
+1140169	LADEFIX	Summit of Saxony	Vierenstr. 12	09484	Kurort Oberwiesenthal	50.422990	12.968880	1	24/7	Keine Beschränkung	DE*EME*EFIX*0018*1~CCS2:50+CHADEMO:50+TYPE2_TETHERED:22
+1143182	Stadtwerke Leipzig GmbH		Crottendorfer Str. 1	09465	Sehmatal-Neudorf	50.482202	12.972793	1	24/7	Keine Beschränkung	DE*961*E0341*1461~TYPE2:22|DE*961*E0341*1461*2~TYPE2:22
+1143183	Stadtwerke Leipzig GmbH		Crottendorfer Str. 1	09465	Sehmatal-Neudorf	50.482272	12.972692	1	24/7	Keine Beschränkung	DE*961*E0341*1462~TYPE2:22|DE*961*E0341*1462*2~TYPE2:22
+1144370	Stadtwerke Schwarzenberg GmbH		Glockenklanger Str. 32	08349	Johanngeorgenstadt	50.434538	12.718593	1	24/7	Keine Beschränkung	DE*SZB*ESPP*TF*001~TYPE2:11

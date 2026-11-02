@@ -20,6 +20,8 @@ class ProviderException(message: String, cause: Throwable? = null, val retryable
 /** A swappable source of charging stations (Open Charge Map, OSM, later an own backend). */
 interface StationProvider {
     val id: String
+    /** Answers from data on the device: never fails for lack of a network, needs no cache. */
+    val local: Boolean get() = false
     suspend fun search(query: StationQuery): StationResult
 }
 

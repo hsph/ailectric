@@ -1,0 +1,112 @@
+1009327	Shell Deutschland GmbH		Hermannstr. 16	03042	Cottbus	51.763120	14.348620	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1011630	E-Merge Mobility GmbH		Am Gewerbepark 14	03051	Cottbus	51.707366	14.352758	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1011659	E-Merge Mobility GmbH		Am Gewerbepark 11	03051	Cottbus	51.708377	14.354067	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1021669	EWE Go GmbH	McD_0793	Güterbahnhofstr. 33	01968	Senftenberg	51.527376	14.009162	1	24/7	Keine Beschränkung	DE*2GO*EMCD0793*1~CCS2:300|DE*2GO*EMCD0793*2~CCS2:300
+1025830	EnBW mobility+ AG und Co.KG		Am Seegraben 1	03051	Cottbus	51.717879	14.318019	1			~CCS2:75|~CCS2:75
+1026201	EnBW mobility+ AG und Co.KG		Muskauer Platz 3	03042	Cottbus	51.760922	14.347983	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1027052	EnBW mobility+ AG und Co.KG		Paul-Greifzu-Straße 2	03042	Cottbus	51.764100	14.359820	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028525	MVZ Gemeinschaftslabor Cottbus GmbH		Uhlandstr. 53	03050	Cottbus	51.724151	14.339594	1	24/7	Keine Beschränkung	DE*EAZ*E0105*1~CCS2:150|DE*EAZ*E0105*2~CCS2:150
+1029209	EDEKA-MIHA Charge GmbH		Madlower Chaussee 4	03051	Cottbus	51.716975	14.322312	1			~CCS2:50|~TYPE2:22
+1029210	EDEKA-MIHA Charge GmbH		Madlower Chaussee 4	03051	Cottbus	51.716937	14.322349	1			~CCS2:50|~TYPE2:22
+1031954	Circle K Deutschland		Berliner Straße 23	03226	Vetschau	51.785881	14.066802	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032491	envia Mitteldeutsche Energie AG	SL00397	Annahofer Graben 1-3	03099	Kolkwitz	51.717890	14.288380	1	24/7	Keine Beschränkung	DE*ISE*E0004482~TYPE2:22|DE*ISE*E0004481~TYPE2:22
+1032509	envia Mitteldeutsche Energie AG	113191437981011431	Seestr. 85z	01983	Großräschen	51.576256	14.010139	1	24/7	Keine Beschränkung	DE*ISE*EA179591~CCS2:50+CHADEMO:50|DE*ISE*EA115283~TYPE2:22
+1032615	envia Mitteldeutsche Energie AG	KP01253	Berliner Str. 18	03099	Kolkwitz	51.749698	14.245264	1	24/7	Keine Beschränkung	DE*ISE*E0004709~TYPE2:22|DE*ISE*E0004710~TYPE2:22
+1032616	envia Mitteldeutsche Energie AG	KP01225	Mühlspreeweg 1	03096	Burg (Spreewald)	51.838977	14.149024	1	24/7	Keine Beschränkung	DE*ISE*E0004765~TYPE2:22|DE*ISE*E0004766~TYPE2:22
+1032688	envia Mitteldeutsche Energie AG	CSN0057608	Thiemstr. 136	03048	Cottbus	51.748680	14.328070	1	24/7	Keine Beschränkung	DE*ISE*E0100215~CCS2:50|DE*ISE*E0100481~TYPE2:22
+1032691	envia Mitteldeutsche Energie AG	CSN0065851	Annahofer Graben 1	03099	Kolkwitz	51.717878	14.288533	1	24/7	Keine Beschränkung	DE*ISE*E0022445~CCS2:50|DE*ISE*E0022443~TYPE2:22|DE*ISE*E0004912~TYPE2:22|DE*ISE*E0004911~TYPE2:22|DE*ISE*E0022445~CCS2:50|DE*ISE*E0022443~TYPE2:22
+1037603	Citywatt GmbH		Cottbuser Straße 17a	15913	Neu Zauche	51.925548	14.093941	1			~TYPE2:22|~TYPE2:22
+1037604	Citywatt GmbH		Cottbuser Straße 17a	15913	Neu Zauche	51.925571	14.093994	1			~TYPE2:22|~TYPE2:22
+1037762	Citywatt GmbH		Am Gleis 17	03042	Cottbus	51.768961	14.374850	1			~TYPE2:22|~TYPE2:22
+1040959	Mark-E AG		Dubinaweg 1	01968	Senftenberg	51.514100	14.004160	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1040960	Mark-E AG		Am Stadthafen 2	01968	Senftenberg	51.513320	14.005800	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1040961	Mark-E AG		Laugkstr. 13	01968	Senftenberg	51.523070	14.006440	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1040963	Mark-E AG		Puschkinstr. 4	01968	Senftenberg	51.525058	14.004500	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1041031	Mark-E AG		Ritterstr. 0	01968	Senftenberg	51.518120	14.004870	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1043034	Allego		Harnischdorfer Straße 4	03051	Cottbus	51.716093	14.336277	1			DEALLEGO000392*1~CCS2:50+CHADEMO:50|DEALLEGO000392*2~TYPE2_TETHERED:43
+1043691	Allego		Hardenbergstr. 1	03050	Cottbus	51.734590	14.336793	1		Keine Beschränkung	DEALLEGO003598*1~CCS2:150|DEALLEGO003598*2~CCS2:150
+1047808	Lausitz Energie Kraftwerke AG	KW Schwarze Pumpe	An der alten Ziegelei 1	03130	Spremberg	51.534227	14.350263	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048022	Handelshof Cottbus - Partner für Technik		Drewitzer Straße 7	03042	Cottbus	51.771471	14.365058	1			~TYPE2:22|~TYPE2:22
+1048025	egNEOS		Kirchstraße 1	03103	Neupetershain-Nord	51.624416	14.160895	1			~TYPE2:22|~TYPE2:22
+1048497	Lidl		Freienhufener Str. 21a	01983	Großräschen	51.586070	14.001450	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1060175	CCE		Lausitzerstr. 4	03046	Cottbus	51.759605	14.321022	1			~TYPE2:22|~TYPE2:22
+1060176	CCE		Siemens-Halske-Ring 2	03044	Cottbus	51.767210	14.321020	1			~TYPE2:22|~TYPE2:22
+1060181	CCE		Thiemstraße 121	03050	Cottbus	51.745701	14.325297	1			~TYPE2:22|~TYPE2:22
+1060182	CCE		Weinbergstraße 1	03050	Cottbus	51.747810	14.330840	1			~TYPE2:22|~TYPE2:22
+1060196	CCE		Sielower Landstrasse 19	03044	Cottbus	51.771068	14.328280	1			~TYPE2:22|~TYPE2:22
+1060208	EA-DD		Wendenkönigstr. 23	03096	Burg (Spreewald)	51.851949	14.108576	1	24/7	Keine Beschränkung	DE*EAD*E100143~TYPE2:22|DE*EAD*E100144~TYPE2:22
+1060228	CCE		Neustädter Platz 0	03046	Cottbus	51.759649	14.336247	1			~TYPE2:22|~TYPE2:22
+1064236	Kaufland	6430_Kland_Cottbus_T65-IT1-3422-102	Hardenbergstr. 5	03050	Cottbus	51.734500	14.334100	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064307	Kaufland	3450_Kland_Spremberg_T65-IT1-4522-105	An der Lusatia 1	03130	Spremberg	51.558220	14.355330	1		Keine Beschränkung	~CCS2:11|~TYPE2:11|~CCS2:60
+1064333	Kaufland	5053_Kland_Kolkwitz_T65-IT1-4522-172	Berliner Str. 114	03099	Kolkwitz	51.751771	14.260411	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064891	Aral Pulse		Kleine Bahnhofstr. 1	03226	Vetschau/Spreewald	51.784152	14.078491	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1064982	Shell Deutschland GmbH		IFA-Park 2-6	01983	Großräschen	51.591101	14.012752	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1065076	SMATRICS GmbH & Co KG		Ecke Gubenestraße/Mauerstraße 0	03185	Peitz	51.858904	14.412257	1			~TYPE2:22|~TYPE2:22
+1066210	Lausitz Energie Kraftwerke AG		Leagplatz 1	03050	Cottbus	51.737207	14.334859	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1066780	mobilforum GmbH | BMW Vertragshändler		Laugkfeld 28	01968	Senftenberg	51.528492	14.014337	1			~TYPE2:22|~TYPE2:22
+1068822	Stadtwerke Forst GmbH		Liebermannstr. 27	03042	Cottbus	51.756307	14.369187	1			~TYPE2:11|~TYPE2:11
+1068829	Stadtwerke Forst GmbH		Liebermannstr. 27	03042	Cottbus	51.756772	14.369307	1			~TYPE2:11|~TYPE2:11
+1072100	Städtische Werke Spremberg (Lausitz) GmbH		Georgenstraße 37	03130	Spremberg	51.573321	14.379096	1			~TYPE2:22|~TYPE2:22
+1072101	Städtische Werke Spremberg (Lausitz) GmbH		An der Lusatia 23-24	03130	Spremberg	51.558880	14.358400	1			~TYPE2:22|~TYPE2:22
+1072102	Städtische Werke Spremberg (Lausitz) GmbH		Alexander-Puschkin-Platz 1b	03130	Spremberg	51.570977	14.370005	1			~TYPE2:22|~TYPE2:22
+1072103	Städtische Werke Spremberg (Lausitz) GmbH		Schillerstraße 20	03130	Spremberg	51.577097	14.392300	1			~TYPE2:22|~TYPE2:22
+1072104	Städtische Werke Spremberg (Lausitz) GmbH		Burgstraße 10	03130	Spremberg	51.572817	14.375487	1			~TYPE2:22|~TYPE2:22
+1072105	Städtische Werke Spremberg (Lausitz) GmbH		Stieglitzweg 21	03130	Spremberg	51.571282	14.359864	1			~TYPE2:22|~TYPE2:22
+1072106	Städtische Werke Spremberg (Lausitz) GmbH		Kollerbergring 46	03130	Spremberg	51.564981	14.367469	1			~TYPE2:22|~TYPE2:22
+1072107	Städtische Werke Spremberg (Lausitz) GmbH		Artur-Becker-Ring 7	03130	Spremberg	51.546249	14.383774	1			~TYPE2:22|~TYPE2:22
+1073091	Shell Deutschland GmbH		Turower Str. 62	03048	Cottbus	51.724955	14.321162	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1074550	SÜLL		Dubkow-Mühle 1	03222	Lübbenau/Spreewald	51.845174	14.059759	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076865	mobilforum GmbH | BMW Vertragshändler	BMW Senftenberg	Laugkfeld 28	01968	Senftenberg	51.526203	14.015365	1	Mo-Fr 07:00-18:00, Sa 09:00-13:00	Nur für Kunden/Besucher	DE*ISE*EA155698~CCS2:50|DE*ISE*EA177475~TYPE2:22
+1080789	Nerlich & Lesser KG		Am Gleis 17	03042	Cottbus	51.768753	14.374467	1			~TYPE2:11|~TYPE2:11
+1081384	Wernecke GmbH		Lamsfelder Str. 2	03044	Cottbus	51.779150	14.320639	1			~TYPE2:22|~TYPE2:22
+1085353	Detlef Milost		Dorfstr. 22	15913	Schwielochsee	51.983483	14.218556	1			~TYPE2_TETHERED:22
+1086215	Jens Härtel		Am Nordrand 19	03044	Cottbus	51.778036	14.331552	1			~TYPE2:11
+1086703	Marco Jetschin		Kastanienallee 3	15868	Jamlitz	51.991718	14.359193	1			~TYPE2_TETHERED:3
+1086833	Marlies Geschka		Wiesenweg 11	03185	Turnow-Preilack	51.873901	14.399591	1			~TYPE2_TETHERED:11
+1089675	RenErGate GmbH		Gerhart-Hauptmann-Straße 15	03044	Cottbus	51.772370	14.341680	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:150|~CCS2:150
+1090762	Gemeinde Neuhausen/Spree		Amtsweg 1	03058	Neuhausen/Spree	51.682375	14.415217	1			~TYPE2:11
+1093218	SolBlock Solution GmbH & Co. KG		Kleinkoschener Str. 24	01968	Senftenberg	51.513582	14.042577	1			~TYPE2:22|~TYPE2:22
+1093486	Autohaus Krause und Sohn GmbH		Sachsendorfer Str. 3	03051	Cottbus	51.714918	14.317522	1			~TYPE2:22|~TYPE2:22
+1096396	ASS Automobil Service GmbH		Knappenstraße 2	01968	Senftenberg	51.520449	14.012970	1			~CCS2:22|~TYPE2:11
+1097033	Autohaus Schulze GmbH NL Spremberg		Berliner Str. 23a	03130	Spremberg	51.593007	14.362322	1			~CCS2:22|~TYPE2:11
+1097107	Autohaus Vetschau		Berliner Chaussee 0	03226	Vetschau/Spreewald	51.798112	14.052304	1			~CCS2:22|~TYPE2:11
+1097252	Die Wagenmeister GmbH		Guhrower Straße 2	03044	Cottbus	51.783644	14.318814	1			~TYPE2:11
+1097515	Schmelling Automobile GmbH		Berliner Str. 95	03099	Kolitz	51.750715	14.277433	1			~CCS2:22|~TYPE2:11
+1099774	Vattenfall Smarter Living GmbH		Cottbuser Straße 45	15868	Lieberose	51.982344	14.299263	1			~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1099787	Vattenfall Smarter Living GmbH		Leuthener Str. 7	03050	CB	51.740828	14.332163	1			~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1112429	Wellnesshotel Seeschlößchen - Privat-SPA & Naturresort		Buchwalder Straße 75	01968	Senftenberg	51.512690	14.022980	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113588	SORAT Hotel Verwaltuns GmbH & Co. SKP Quartier KG		Neustädter Straße 12	03046	Cottbus	51.759298	14.335562	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1113757	ZM Vermögensverwaltungs GmbH		Am Teufelsteich 2	03185	Peitz	51.850084	14.397190	1			~TYPE2_TETHERED:11+SCHUKO:11|~TYPE2_TETHERED:11+SCHUKO:11
+1116743	Autohaus Härtel & Söhne GmbH		Lamsfelder Str. 1	03044	Cottbus	51.779673	14.319379	1	Mo-Fr 07:00-18:00, Sa 09:00-12:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1118525	Siegert Ingenieure GmbH & Co.KG	Bürohaus Vetschauer Straße 24 Cottbus	Vetschauer Str. 24	03048	Cottbus	51.748320	14.318790	1		Nur für Kunden/Besucher	~TYPE2:22
+1118889	Wolf & Wolf eGbR	Schwanstraße	Schwanstr. 10	03046	Cottbus	51.756690	14.329010	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118895	Wolf & Wolf eGbR	KLS 110	Karl-Liebknecht-Str. 110	03046	Cottbus	51.757030	14.322470	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1119049	Lidl	7207_Lidl_Cottbus_T65-IT1-0523-183	Sielower Landstr. 21	03044	Cottbus	51.772210	14.326720	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1119850	Lausitz Energie Kraftwerke AG	Stadthaus Erich Kästner Platz	Erich-Kästner-Platz 1	03046	Cottbus	51.759939	14.328162	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:22+TYPE2:22
+1119869	Stadtwerke Forst GmbH	Waldhotel Cottbus 1	Drachhausener Str. 70	03044	Cottbus	51.781811	14.320810	1	24/7	Keine Beschränkung	DESWFE001501~TYPE2:22|DESWFE001502~TYPE2:22|DESWFE001601~TYPE2:22|DESWFE001602~TYPE2:22
+1121570	Gewerbe 19	Parkplatz Bürogebäude	Gewerbeparkstr. 19	03099	Kolkwitz	51.737619	14.257933	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1125451	Therme	Spreewald Thermenhotel Gästeparkplatz nur Girokarte	Ringchaussee 152	03096	Burg (Spreewald)	51.838410	14.136880	1	24/7	Nur für Kunden/Besucher	SPREEWALDTHERME02*02~TYPE2:22|SPREEWALDTHERME02*01~TYPE2:22
+1125453	Therme	Spreewald Thermenhotel Gästeparkplatz nur Girokarte	Ringchaussee 152	03096	Burg (Spreewald)	51.838430	14.136830	1	24/7	Nur für Kunden/Besucher	SPREEWALDTHERME03*02~TYPE2:22|SPREEWALDTHERME03*01~TYPE2:22
+1125454	Therme	Spreewaldtherme Gästeparkplatz nur Girokarte	Ringchaussee 152	03096	Burg (Spreewald)	51.838700	14.133750	1	24/7	Nur für Kunden/Besucher	SPREEWALDTHERME04*02~TYPE2:22|SPREEWALDTHERME04*01~TYPE2:22|SPREEWALDTHERME05*02~TYPE2:22|SPREEWALDTHERME05*01~TYPE2:22
+1130909	Pluq	Seniorenresidenz Cottbus	Schweriner Str. 4	03046	Cottbus	51.762750	14.317100	1	24/7	Nur für Kunden/Besucher	DEEFLEV5138465C1~TYPE2:22|DEEFLEV5138465C2~TYPE2:22
+1131889	EWE Go GmbH	McD_0791_1A	Heinrich-Hertz-Str. 1	03044	Cottbus	51.778528	14.320179	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1137317	POTR	Plenitude On The Road Ladestation	Hänchener Str. 4	03050	Cottbus	51.720670	14.343100	1	24/7	Keine Beschränkung	DE*BEC*H003103-1~CCS2:300|DE*BEC*H003103-2 DE*BEC*H003103-3~CHADEMO:51+CCS2:300|DE*BEC*H001306-1~CCS2:300|DE*BEC*H001306-2 DE*BEC*H001306-3~CHADEMO:51+CCS2:300
+1141048	Autohaus Schulze GmbH		Harnischdorfer Str. 4	03051	Cottbus	51.716057	14.336355	1			~TYPE2:11|~TYPE2_TETHERED:22
+1147886	VINCharge 2 GmbH	eliso - PP Neumarkt - Senftenbrg	Am Neumarkt 9	01968	Senftenberg	51.517452	14.001232	1	24/7	Keine Beschränkung	DE*ELI*E3603112~CCS2:400|DE*ELI*E3603113~CCS2:400|DE*ELI*E3603114~CCS2:400|DE*ELI*E3603115~CCS2:400|DE*ELI*E3603116~CCS2:400|DE*ELI*E3603117~CCS2:400|DE*ELI*E3603118~CCS2:400|DE*ELI*E3603119~CCS2:400
+1149679	Medizinische Universität Lausitz - Carl Thiem (KdöR)	Ladestationen MUL-CT; Welzower Straße 27	Thiemstr. 11	03048	Cottbus	51.740969	14.320422	1	24/7	Keine Beschränkung	DE*ONE*EU9RD~TYPE2:22|DE*ONE*E16SR~TYPE2:22
+1149730	Medizinische Universität Lausitz - Carl Thiem (KdöR)	Ladestationen MUL-CT; Welzower Straße 27	Thiemstr. 11	03048	Cottbus	51.740969	14.320275	1	24/7	Keine Beschränkung	DE*ONE*ENJ9H~TYPE2:22|DE*ONE*ER6UX~TYPE2:22|DE*ONE*E7A3H~TYPE2:22
+1150765	Medizinische Universität Lausitz - Carl Thiem (KdöR)	Parkhaus MUL-CT , Leipziger Strasse	Thiemstr. 111	03048	Cottbus	51.744213	14.320982	1	24/7	Nur für Kunden/Besucher	DE*ONE*ENZC4~TYPE2:22|DE*ONE*57TFP~TYPE2:22|DE*ONE* EZ21F~TYPE2:22
+1150770	Medizinische Universität Lausitz - Carl Thiem (KdöR)	Ladestationen MUL-CT; Welzower Straße 27	Thiemstr. 111	03048	Cottbus	51.740969	14.320237	1	24/7	Keine Beschränkung	DE*ONE*E11EZ~TYPE2:22|DE*ONE*EZM1H~TYPE2:22
+1151652	Wirelane GmbH	Saarbrücker Str. 8, 03048 Cottbus	Saarbrücker Str. 7B	03048	Cottbus	51.735222	14.319278	1		Keine Beschränkung	DE*WLN*EP000617~TYPE2:22|DE*WLN*EP000618~TYPE2:22
+1151679	Wirelane GmbH	Kolkwitzer Str. 28 (Parkplatz schräg ggü.), 03046 Cottbus	Kolkwitzer Str. 28	03046	Cottbus	51.755111	14.304778	1		Keine Beschränkung	DE*WLN*EP000767~TYPE2:22|DE*WLN*EP000768~TYPE2:22
+1151680	Wirelane GmbH	Schwarzheider Str. 6-1, 03048 Cottbus	Schwarzheider Str. 6	03048	Cottbus	51.724611	14.322639	1		Keine Beschränkung	DE*WLN*EP000769~TYPE2:22|DE*WLN*EP000770~TYPE2:22
+1152438	Medizinische Universität Lausitz - Carl Thiem (KdöR)	Parkhaus MUL-CT , Leipziger Strasse	Thiemstr. 111	03048	Cottbus	51.744213	14.320937	1	24/7	Nur für Kunden/Besucher	DE*ONE* E6BFF~TYPE2:22
+1153500	Medizinische Universität Lausitz - Carl Thiem (KdöR)		Welzower Str. 27	03048	Cottbus	51.741841	14.321139	1		Nur für Kunden/Besucher	E77LP~TYPE2:22|EKNH5~TYPE2:22|E4XGM~TYPE2:22|EN9HA~TYPE2:22
+1153504	Medizinische Universität Lausitz - Carl Thiem (KdöR)		Welzower Str. 27	03048	Cottbus	51.741144	14.320982	1		Nur für Kunden/Besucher	EEP94~TYPE2:22|E7YYP~TYPE2:22|E5JLY~TYPE2:22|EQF6K~TYPE2:22
+1155316	Lidl	1651_Lidl_Cottbus_QP-20012-0525-060-121-QP-VER.321	Uhlandstr. 12	03050	Cottbus	51.725784	14.336095	1	24/7	Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1155324	Tesla Germany GmbH		Gallinchener Hauptstr. 4	03051	Cottbus	51.715834	14.352272	1	24/7	Keine Beschränkung	DE*TSL*ECAU4KP~CCS2:250|DE*TSL*ECAU4KT~CCS2:250|DE*TSL*ECAU4L0~CCS2:250|DE*TSL*ECAU25L~CCS2:250|DE*TSL*ECAU4KK~CCS2:250|DE*TSL*ECAU25K~CCS2:250|DE*TSL*ECAU1B5~CCS2:250|DE*TSL*ECAU25A~CCS2:250|DE*TSL*ECAU25Q~CCS2:250|DE*TSL*ECAU4LD~CCS2:250|DE*TSL*ECAU4L9~CCS2:250|DE*TSL*ECAU052~CCS2:250
+1158857	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Am Gleis 14	03042	Cottbus	51.768216	14.372908	1	Mo-Fr 07:00-17:00	Nur für Kunden/Besucher	DE*FKU*EUE90071~TYPE2:11
+1159727	EMB Energie Brandenburg GmbH	EMB Cottbus 1	Nordparkstr. 30	03044	Cottbus	51.786000	14.327000	1	24/7	Keine Beschränkung	DE*EMB*E*0*04501~TYPE2:22|DE*EMB*E*0*04502~TYPE2:22|DE*EMB*E*0*04503~TYPE2:22|DE*EMB*E*0*04504~TYPE2:22|DE*EMB*E*0*04505~TYPE2:22|DE*EMB*E*0*04506~TYPE2:22
+1162808	ALDI Nord	ALDI Nord Parkplatz	Stadtring 8	03042	Cottbus	51.765330	14.358077	1	24/7	Keine Beschränkung	DE-ALN-EDE361091-1-1~CCS2:50|DE-ALN-EDE361091-1-2~CCS2:50
+1162809	ALDI Nord	ALDI Nord Parkplatz	Limberger Str. 1	03044	Cottbus	51.781520	14.318177	1	24/7	Keine Beschränkung	DE-ALN-EDE361086-1-1~CCS2:150|DE-ALN-EDE361086-1-2~CCS2:150
+1164767	Stadtwerke Forst GmbH	Gut Branitz 2	Liebermannstr. 27	03042	Cottbus	51.756873	14.369083	1	24/7	Keine Beschränkung	DESWFE001201~TYPE2:22|DESWFE001202~TYPE2:22

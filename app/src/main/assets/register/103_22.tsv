@@ -1,0 +1,109 @@
+1000965	Stadtwerke Hettstedt GmbH		Ahornweg 2	06333	Hettstedt	51.658900	11.498570	1			~TYPE2:22|~TYPE2:22
+1010766	Stadtwerke Aschersleben GmbH		Magdeburger Strasse 22a	06449	Aschersleben	51.758889	11.449863	1			~TYPE2:22|~TYPE2:22
+1010767	Stadtwerke Aschersleben GmbH		Düsteres Tor 2	06449	Aschersleben	51.754573	11.453623	1			~TYPE2:22|~TYPE2:22
+1010768	Stadtwerke Aschersleben GmbH		Oberstrasse 60	06449	Aschersleben	51.759053	11.472237	1			~TYPE2:22|~TYPE2:22
+1010769	Stadtwerke Aschersleben GmbH		Kopernikusstrasse 10	06449	Aschersleben	51.763293	11.466104	1			~TYPE2:22|~TYPE2:22
+1010770	Stadtwerke Aschersleben GmbH		Geschwister-Scholl-Strasse 0	06449	Aschersleben	51.758982	11.456848	1			~TYPE2:22|~TYPE2:22
+1010771	Stadtwerke Aschersleben GmbH		Klopstockstrasse 24	06449	Aschersleben	51.763973	11.461867	1			~TYPE2:22|~TYPE2:22
+1011625	E-Merge Mobility GmbH		Am Sülzegraben 2	38820	Halberstadt	51.883373	11.072315	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1021657	EWE Go GmbH	McD_0761	Im Sülzeteiche 9	38820	Halberstadt	51.880397	11.076899	1	24/7	Keine Beschränkung	DE*2GO*EMCD0761*1A*1~CCS2:150|DE*2GO*EMCD0761*1A*2~CCS2:150
+1021679	EWE Go GmbH	McD_0732	Güstener Str. 19	06449	Aschersleben	51.767362	11.485192	1	24/7	Keine Beschränkung	DE*2GO*EMCD0732*1~CCS2:300|DE*2GO*EMCD0732*2~CCS2:300
+1025820	EnBW mobility+ AG und Co.KG		Guestenerstr. 10	06449	Aschersleben	51.764250	11.473594	1			~CCS2:75|~CCS2:75+CHADEMO:75
+1026415	EnBW mobility+ AG und Co.KG		Weyhegarten 1	06484	Quedlinburg	51.794595	11.153872	1			~CCS2:150|~CCS2:150
+1026484	EnBW mobility+ AG und Co.KG		Quedlinburgerstr 101	38820	Halberstadt	51.889350	11.063186	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026486	EnBW mobility+ AG und Co.KG		Güstenerstr 19c	06449	Aschersleben	51.767763	11.484102	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026603	EnBW mobility+ AG und Co.KG		Magdeburger Straße 15	06484	Quedlinburg	51.792387	11.172860	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1026648	EnBW mobility+ AG und Co.KG		Breiter Weg 13	38820	Halberstadt	51.896373	11.055120	1			~CCS2:150|~CCS2:150
+1032537	envia Mitteldeutsche Energie AG	KP00932	Hexentanzplatz 1	06502	Thale	51.732491	11.027346	1	24/7	Keine Beschränkung	DE*ISE*E0004969~TYPE2:22|DE*ISE*E0004970~TYPE2:22
+1032590	envia Mitteldeutsche Energie AG	KP00079	Hubertusstr. 9	06502	Thale	51.743341	11.031817	1	24/7	Keine Beschränkung	DE*ISE*E0004575~TYPE2:22|DE*ISE*E0004576~TYPE2:22
+1032594	envia Mitteldeutsche Energie AG	PH03209	Bahnhofstr. 18	06308	Klostermansfeld	51.575540	11.494117	1	24/7	Keine Beschränkung	DE*ISE*E0004726~TYPE2:22|DE*ISE*E0004725~TYPE2:22
+1032690	envia Mitteldeutsche Energie AG	CSN0061787	Bahnhofstr. 18	06308	Klostermansfeld	51.575549	11.494186	1	24/7	Keine Beschränkung	DE*ISE*E0100210~CCS2:50|DE*ISE*E0100212~TYPE2:22
+1051219	Danpower-Gruppe		Friedensstraße 12	06308	Benndorf	51.570438	11.495658	1			~TYPE2:22|~TYPE2:22
+1062329	Undine Weidemann		Straße des Friedens 271	06502	Thale	51.804950	11.055690	1	Mo-So 08:00-18:00	Keine Beschränkung	DE*ONE*E2X4P~TYPE2:11
+1062974	Stadtwerke Aschersleben GmbH	Ladebox 2	Magdeburger Str. 26	06449	Aschersleben	51.761522	11.449637	1	Mo-Do 16:00-23:59, Fr 12:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1063393	BERDING BETON GmbH		Große Gasse 370	06493	Ballenstedt Badeborn	51.780420	11.250740	1			~TYPE2:11|~TYPE2:11
+1064297	Kaufland	2890_Kland_Halberstadt_T65-IT1-4622-011	Braunschweiger Str. 83-88	38820	Halberstadt	51.898330	11.039222	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1066368	S & G Automobil GmbH		Am Sülzegraben 1	38820	Halberstadt	51.882285	11.073887	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066370	S & G Automobil GmbH		Daimlerstraße 1	06449	Aschersleben	51.769453	11.482969	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1069932	Schubert Motors GmbH		Im Sülzeteiche 1	38820	Halberstadt	51.879763	11.076868	1			~TYPE2:22|~TYPE2:22
+1069933	Schubert Motors GmbH		OttoStraße 5	06449	Aschersleben	51.769992	11.486023	1			~TYPE2:22|~TYPE2:22
+1070514	SEES		Lehde 900 Z	06526	Sangerhausen	51.516847	11.281902	1			~TYPE2:22|~TYPE2:22
+1072451	GETEC mobility solutions GmbH		F.-Freiligrath-Straße 53	06502	Thale	51.748255	11.047591	1			~TYPE2:22|~TYPE2:22
+1083855	Stadtwerke Quedlinburg GmbH		Parkplatz Carl-Ritter-Straße 0	06484	Quedlinburg	51.787850	11.137800	1			~TYPE2:22
+1084876	Axel Schmidt		Unter der Altenburg 7	06484	Quedlinburg	51.779102	11.122891	1			~TYPE2:11
+1087860	Steffen Adler		David-Oistrach-Straße 22	38820	Halberstadt	51.891648	11.048870	1			~TYPE2_TETHERED:11
+1088668	Lidl	5060_Lidl_Halberstadt_T65-IT1-0623-148	Tschaikowskistr. 10	38820	Halberstadt	51.888963	11.061948	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:11|~CCS2:60
+1089946	S-Power (Einzelunternehmen)		Schiebberg 13	06463	Meisdorf	51.708915	11.299731	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22
+1091589	Stadtwerke Lutherstadt Eisleben GmbH		Jacobstraße 9	06308	Klostermansfeld	51.585919	11.490232	1			~TYPE2:22|~TYPE2:22
+1091590	Stadtwerke Lutherstadt Eisleben GmbH		Chausseestraße 1	06308	Benndorf	51.571283	11.488966	1			~TYPE2:22|~TYPE2:22
+1091596	Stadtwerke Lutherstadt Eisleben GmbH		Knappenstraße 4	06308	Benndorf	51.572687	11.495219	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11|~TYPE2:11
+1092075	Hotel Weiße Taube		Johannisplatz 6	06449	Aschersleben	51.758970	11.461350	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1093212	Stadtwerke Blankenburg GmbH		Lindestraße 14 Z	06502	Timmenrode	51.773486	11.007206	1			~TYPE2:22|~TYPE2:22
+1097013	Autohaus Schmidt & Söhne Aschersleben GmbH & Co. KG		Siemensstraße 1	06449	Aschersleben	51.770991	11.488817	1			~TYPE2:11|~CCS2:22|~TYPE2:11
+1097249	CCH Müller & Werian KG		Am Galgenberg 1	38829	Harsleben	51.878818	11.078410	1			~TYPE2:11
+1097364	Halbac-Autohaus-GmbH		In den langen Stücken 1	38820	Halberstadt	51.901774	11.078983	1			~CCS2:22|~TYPE2:11
+1097447	KW Am Südharz GmbH		Kämmritzer Weg 9	06333	Walbeck	51.656453	11.482516	1			~CCS2:22|~TYPE2:11
+1097491	QuedacAutohaus		Zwergkuhle 10	06484	Quedlinburg	51.788597	11.135294	1			~CCS2:22|~TYPE2:11
+1099782	Vattenfall Smarter Living GmbH		Häuschenstraße 31	06485	Quedlinburg	51.727638	11.135673	1		Keine Beschränkung	~CCS2:175|~CCS2:175
+1102331	Ferienhausdorf Thale GmbH & Co. KG		Walther-Rathenau-Strasse 3	06502	Thale	51.746050	11.025610	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104280	Jahnsmüller GmbH		Auf den Steinen 22	06485	Quedlinburg	51.739654	11.149773	1			~TYPE2:11|~TYPE2:11
+1104281	Jahnsmüller GmbH		Ottostrasse 1	06449	Aschersleben	51.769256	11.485094	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1104282	Jahnsmüller GmbH		Auf den Steinen 22	06485	Quedlinburg OT Gernrode	51.739916	11.149158	1			~TYPE2:11|~TYPE2:11
+1105722	Falk Zimmermann Vermögensberatung		Lehbreite 6z	06311	Helbra	51.555180	11.498582	1			~TYPE2:22|~TYPE2:22
+1105723	Falk Zimmermann Vermögensberatung		Wilhelmstraße 22	06311	Helbra	51.555280	11.485820	1			~TYPE2:22|~TYPE2:22
+1105725	Falk Zimmermann Vermögensberatung	ParkplatzHauptstr	Hauptstraße 7	06311	Helbra	51.555470	11.487170	1	24/7	Keine Beschränkung	AT*HTB*ECSN0548451~CCS2:40|AT*HTB*ECSN00548452~TYPE2_TETHERED:22
+1106072	Autohaus Schmidt & Söhne GmbH		Magdeburger Chaussee 24	39435	Egeln	51.959435	11.440304	1			~TYPE2:11|~CCS2:22
+1110253	Regioladen+		Voigtei 37	38820	Halberstadt	51.898919	11.045502	1			~TYPE2:22|~TYPE2:22
+1110254	Regioladen+		Bahnhofstr. 13	38820	Halberstadt	51.899237	11.071975	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1110255	Regioladen+		Kühlinger Str. 26	38820	Halberstadt	51.894043	11.051669	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1110256	Regioladen+		Peterstreppe 0	38820	Halberstadt	51.896522	11.044467	1			~TYPE2:22|~TYPE2:22
+1110257	Regioladen+		Domplatz 49	38820	Halberstadt	51.896090	11.044315	1			~TYPE2:22|~TYPE2:22
+1110258	Regioladen+		Martiniplan 0	38820	Halberstadt	51.895295	11.050209	1			~TYPE2:22|~TYPE2:22
+1110259	Regioladen+		Gebrüder-Rehse-Str. 12	38820	Halberstadt	51.877635	11.049658	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1112472	Träger Autohaus GmbH		Ascherslebener Str. 18f	06467	Hoym	51.785149	11.328316	1			~TYPE2:22
+1112473	Träger Autohaus GmbH		Ascherslebener Str. 18f	06467	Hoym	51.784924	11.327695	1			~CCS2:150|~CCS2:150
+1113214	Regioladen+	Kühlinger Str. DC	Kühlinger Str. 12	38820	Halberstadt	51.894348	11.054207	1	24/7	Keine Beschränkung	DEHBSE001501~CCS2:150|001502~CCS2:150
+1113626	Andre Sanderhoff		Rübchenstraße 43	06502	Thale	51.754143	11.027566	1			~TYPE2:11|~TYPE2:11
+1114368	DSPTA Photovoltaik Aschersleben Einzelunternehmen		Meisenweg 31	06449	Aschersleben	51.748989	11.455400	1			~TYPE2_TETHERED:11
+1115185	Fitnesspark (Einzelunternehmen)	Fitnesspark	Am Spittelsberg 6	06449	Aschersleben	51.753840	11.432890	1	Mo-So 08:00-22:00	Keine Beschränkung	~TYPE2:22
+1115897	Ferienpark Merkelbach		Am Bergrad Müllerteich 1	06502	Thale	51.679485	11.060603	1			~TYPE2:22
+1118292	Stadtwerke Hettstedt GmbH	Parkplatz am Lutherplatz	Lutherplatz 4	06343	Mansfeld	51.592162	11.451261	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1120399	ALDI Nord	Parkplatz	Magdeburger Str. 47	38820	Halberstadt	51.898000	11.062200	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1121073	Vattenfall Smarter Living GmbH		Heinrichstr. 22	06449	Aschersleben	51.754664	11.464448	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1121074	Vattenfall Smarter Living GmbH		Heinrichstr. 22	06449	Aschersleben	51.754620	11.464507	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1121580	Kaufland	3420_KLAND_Quedlinburg_T54-IT1-4624-006	Badeborner Weg 2	06484	Quedlinburg	51.789560	11.159670	1	Mo-Fr 07:00-22:00, Sa 07:00-20:00	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1127005	SimplyCharge	SimplyCharge Klostermannsfeld Dorfgemeinschaftshaus	Chausseestr. 29	06308	Klostermansfeld	51.585130	11.493522	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1127298	GETEC mobility solutions GmbH		Hexentanzplatz 0	06502	Thale	51.732255	11.027630	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1127897	Regioladen+	Landkreis Harz	Friedrich-Ebert-Str. 44	38820	Halberstadt	51.888761	11.057775	1	24/7	Keine Beschränkung	DEHBSE001601~TYPE2:22|DEHBSE001602~TYPE2:22
+1127899	Regioladen+	Peterstreppe 2	Peterstreppe 1	38820	Halberstadt	51.896483	11.044010	1	24/7	Keine Beschränkung	DEHBSE000203~TYPE2_TETHERED:22|DEHBSE000204~TYPE2:22
+1127901	Regioladen+	Schuhstraße	Schuhstr. 1	38820	Halberstadt	51.896444	11.052913	1	24/7	Keine Beschränkung	DEHBSE001801~TYPE2_TETHERED:22|DEHBSE001802~TYPE2:22
+1127903	Regioladen+	Ameos Klinikum Parkplatz	Wehrstedter Str. 48	38820	Halberstadt	51.900138	11.056675	1	24/7	Keine Beschränkung	DEHBSE001701~TYPE2_TETHERED:22|DEHBSE001702~TYPE2:22
+1129165	TotalEnergies Charging Solutions		Gröperstr. 88	38820	Halberstadt	51.903027	11.045420	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50024*001*1~CCS2:200|DE*TCB*E3D9CS50024*001*2~CCS2:200|DE*TCB*E3D9CS50024*002*1~CCS2:200|DE*TCB*E3D9CS50024*002*2~CCS2:200|DE*TCB*E3D9CS50024*003*1~CCS2:200|DE*TCB*E3D9CS50024*003*2~CCS2:200|DE*TCB*E3D9CS50024*004*1~CCS2:200|DE*TCB*E3D9CS50024*004*2~CCS2:200
+1129398	Kaufland	5600_KLand_Thale_T65-IT1-0925-009	Blankenburger Str. 37	06502	Thale	51.756900	11.041700	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1129474	EnBW mobility+ AG und Co.KG		Schloßberg 5	06493	Harzgerode	51.643510	11.140440	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1129552	Regioladen+		Gebrüder-Rehse-Str. 12	38820	Halberstadt	51.877708	11.049568	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1130254	Stadtwerke Hettstedt GmbH	Verkehrsgesellschaft Südharz mbH	Ritteröder Str. 11	06333	Hettstedt	51.643412	11.493312	1	Mo-Fr 07:00-17:00	Keine Beschränkung	HET161~CCS2:25|HET162~CCS2:25|HET171~CCS2:25|HET172~CCS2:25
+1131677	Wolff Energy Group GmbH	Moorhof	Gernröder Weg 4a	06484	Quedlinburg	51.777480	11.142840	1	Mo-Fr 07:00-18:00	Keine Beschränkung	DE*ONE*E8PZK~CCS2:220|DE*ONE*E32QL~CCS2:220
+1140844	Aral Pulse		Hauptstr. 1	37589	Echte	51.787980	11.433140	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141439	Dayser Deutschland GmbH	Park Your Truck, 06449 Aschersleben	Hans-Grade-Str. 14	06449	Aschersleben	51.761608	11.471821	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1141690	EDEKA-MIHA Charge GmbH		Goethepromenade 13	39397	Gröningen	51.935619	11.219603	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1141706	EDEKA-MIHA Charge GmbH		Halberstädter Str. 21	39387	Oschersleben (Bode)	51.992760	11.301830	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1143338	Schubert Motors GmbH	Schubert Motors - DE*DES*E1004560	Im Sülzeteiche 1	38820	Halberstadt	51.879703	11.076404	1		Keine Beschränkung	DE*DES*E1004560*1~CCS2:27|DE*DES*E1004560*2~TYPE2:22
+1143481	Stadtwerke Quedlinburg GmbH	Parkplatz Stadtwerke Quedlinburg	Rathenaustr. 9	06484	Quedlinburg	51.787273	11.155542	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1145581	Circle K Deutschland	Quedlinburg	Halberstädter Str. 87	06484	Quedlinburg	51.808773	11.129031	1	24/7	Keine Beschränkung	HYC_400_24BZ1095D~CCS2:400|HYC_400_24BZ1095D~CCS2:400|HYC_400_24BZ1124D~CCS2:400+CHADEMO:100|HYC_400_24BZ1124D~CCS2:400|HYC_400_24BZ1125D~CCS2:400|HYC_400_24BZ1125D~CCS2:400
+1147031	ORLEN Deutschland GmbH	DC-10017-01	Gernröder Chaussee 1	06484	Quedlinburg	51.770800	11.140600	1	24/7	Keine Beschränkung	DE*ODE*EDC1001701*01~CCS2:200|DE*ODE*EDC1001701*02~CCS2:200
+1147436	Große Bau und Transport GmbH		Güstener Str. 19	06449	Aschersleben	51.765724	11.482326	1		Nur für Kunden/Besucher	333784~CCS2:50|DE*VIR*E308956~CHADEMO:75+CCS2:75
+1148228	Große Bau und Transport GmbH		Güstener Str. 19	06449	Aschersleben	51.766027	11.480721	1	24/7	Keine Beschränkung	DE*VIR*E302374~CCS2:25|DE*VIR*E302375~CCS2:25
+1149909	cocharge	DECOC299	Egelner Str. 12B	39448	Börde-Hakel	51.957622	11.392912	1	24/7	Keine Beschränkung	DE*COC*E299*01~TYPE2:22
+1150204	Köthen Energie GmbH	Parkplatz Gemeindeverwaltung	Lindenstr. 0	06469	Nachterstedt	51.800644	11.334481	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1150206	Köthen Energie GmbH	Parkplatz Bürgerhaus	Lange Str. 50	06466	Gatersleben	51.823523	11.286730	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1152975	VINCharge 2 GmbH	Los_7_23259_DNR_Busbahnhof_Egeln_S	Am Busbahnhof 1	39435	Egeln	51.943569	11.429379	1	24/7	Keine Beschränkung	DE*ELI*E3603124~CCS2:400|DE*ELI*E3603125~CCS2:400|DE*ELI*E3603126~CCS2:400|DE*ELI*E3603127~CCS2:400
+1154120	Shell Deutschland GmbH		Otto-Schönermark-Str. 2	06502	Thale	51.750904	11.039478	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1154121	Shell Deutschland GmbH		Otto-Schönermark-Str. 2	06502	Thale	51.750911	11.039559	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1155417	SimplyCharge	Ladestation Hergisdorf	Thomas-Müntzer-Str. 135	06313	Hergisdorf	51.537989	11.479155	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1155804	Große Bau und Transport GmbH		Güstener Str. 19	06449	Aschersleben	51.765754	11.482230	1	24/7	Keine Beschränkung	DE*VIR*E308956 DE*VIR*E308957~CCS2:75+CHADEMO:75
+1155821	EWE Go GmbH	EWE_7248_1A	Neinstedter Feldweg 3	06484	Quedlinburg	51.779110	11.141750	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1156621	Allego		Im Sülzeteiche 3	38820	Halberstadt	51.880866	11.075802	1	24/7	Keine Beschränkung	DEALLEGO004088_1~CCS2:150|DEALLEGO004088_2~CCS2:150
+1159722	E.ON Drive GmbH	D097	Kühlinger Str. 39	38820	Halberstadt	51.894315	11.052667	1	24/7	Keine Beschränkung	DE*EDR*E22015388*1~TYPE2:11|DE*EDR*E22015394*1~TYPE2:11|DE*EDR*E22015395*1~TYPE2:11|DE*EDR*E22015399*1~TYPE2:11|DE*EDR*E22015446*1~TYPE2:11|DE*EDR*E22015449*1~TYPE2:11|DE*EDR*E22015450*1~TYPE2:11|DE*EDR*E22015451*1~TYPE2:11|DE*EDR*E22015452*1~TYPE2:11|DE*EDR*E22015453*1~TYPE2:11
+1160527	Servipark Deutschland GmbH	Contipark Parkhaus Zentrum Halberstadt D097 Wallbox 1	Kühlinger Str. 39	38820	Halberstadt	51.894344	11.051940	1	24/7	Nur für Kunden/Besucher	DE-CTP-E09700-01-1~TYPE2:11|DE-CTP-E09700-02-1~TYPE2:11|DE-CTP-E09700-03-1~TYPE2:11|DE-CTP-E09700-04-1~TYPE2:11|DE-CTP-E09700-05-1~TYPE2:11|DE-CTP-E09700-06-1~TYPE2:11|DE-CTP-E09700-07-1~TYPE2:11|DE-CTP-E09700-08-1~TYPE2:11|DE-CTP-E09700-09-1~TYPE2:11|DE-CTP-E09700-10-1~TYPE2:11
+1161972	Allego		Avenariusstr. 4	38820	Halberstadt	51.900836	11.075146	1	24/7	Keine Beschränkung	DEALLEGO003474_1~CCS2:150|DEALLEGO003474_2~CCS2:150

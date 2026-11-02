@@ -1,0 +1,120 @@
+1011204	Stadtwerke Husum GmbH		Koopmannsweg 1	24991	Großsolt	54.707289	9.529503	1			~TYPE2:22|~TYPE2:22
+1011205	Stadtwerke Husum GmbH		Flensburger Str. 36	24975	Husby	54.765510	9.577511	1			~TYPE2:22|~TYPE2:22
+1011206	Stadtwerke Husum GmbH		Glücksburger Straße 1a	24975	Husby	54.765917	9.575831	1			~TYPE2:22|~TYPE2:22
+1011572	Comfort Charge	Schleswig, CC_24_0010	Schwarzer Weg 13	24837	Schleswig	54.515010	9.563510	1	24/7	Keine Beschränkung	DECCH*ECCH2300024DLT*1~CCS2:200|DECCH*ECCH2300024DLT*2~CCS2:200
+1040095	Stadtwerke SH		Friedrich-Ebert-Straße 1	24837	Schleswig	54.518628	9.551668	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040102	Stadtwerke SH		Sandkoppel 2	24395	Nieby	54.775015	9.943678	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040107	Stadtwerke SH		Sankt Jürgener Straße 1	24837	Schleswig	54.523980	9.570095	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040108	Stadtwerke SH		Flensburger Straße 7	24837	Schleswig	54.513860	9.545090	1			~TYPE2:22|~TYPE2:22
+1040110	Stadtwerke SH		Rathausmarkt 1	24837	Schleswig	54.514135	9.571629	1			~TYPE2:22|~TYPE2:22
+1040111	Stadtwerke SH		Am Hafen 1	24837	Schleswig	54.511670	9.571210	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040112	Stadtwerke SH		Schloßinsel 1	24837	Schleswig	54.511280	9.541220	1			~TYPE2:22|~TYPE2:22
+1040114	Stadtwerke SH		Werkstraße 1	24837	Schleswig	54.517570	9.584570	1			~TYPE2:22|~TYPE2:22
+1040115	Stadtwerke SH		Stadtfeld 13	24837	Schleswig	54.521061	9.563741	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040116	Stadtwerke SH		Toft 7	24860	Böklund	54.605581	9.582466	1			~TYPE2:22|~TYPE2:22
+1040121	Stadtwerke SH		Sankt Jürgener Straße 52	24837	Schleswig	54.531200	9.574990	1			~TYPE2:22|~TYPE2:22
+1040124	Stadtwerke SH		Lutherstr. 22	24837	Schleswig	54.518213	9.559171	1			~TYPE2:22|~TYPE2:22
+1040125	Stadtwerke SH		Am Fabrikhof 7-9	24837	Schleswig	54.511058	9.584054	1			~TYPE2:22|~TYPE2:22
+1040126	Stadtwerke SH		Friedrichstr. 57	24837	Schleswig	54.502705	9.541937	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040155	Stadtwerke SH		Dorfstr. 41	24364	Holzdorf	54.557211	9.894404	1			~TYPE2:22|~TYPE2:22
+1041151	GP JOULE Connect GmbH	DE*CNT*EP04127*001	Schleswiger Str. 10	24986	Mittelangeln	54.691113	9.603901	1		Keine Beschränkung	DE*CNT*EP04127*001*1~TYPE2:22|DE*CNT*EP04127*001*2~TYPE2:22
+1041237	GP JOULE Connect GmbH	DE*CNT*EP04091*001	Kolonnenweg 152	24837	Schleswig	54.508616	9.520183	1		Keine Beschränkung	DE*CNT*EP04091*001*1~TYPE2:22|DE*CNT*EP04091*002*1~TYPE2:22|DE*CNT*EP04091*003*1~TYPE2:22
+1041248	GP JOULE Connect GmbH	DE*CNT*EP03095*001	Königstr. 9	24837	Schleswig	54.514816	9.566383	1		Keine Beschränkung	DE*CNT*EP03095*001*1~TYPE2:22|DE*CNT*EP03095*001*2~TYPE2:22
+1041249	GP JOULE Connect GmbH	DE*CNT*EP03067*001	An der Nordstr. 4	24989	Dollerup	54.783749	9.671981	1		Keine Beschränkung	DE*CNT*EP03067*001*1~TYPE2:22|DE*CNT*EP03067*001*2~TYPE2:22
+1041252	GP JOULE Connect GmbH	DE*CNT*EP00785*003	Ilensee 8	24837	Schleswig	54.516933	9.583036	1		Keine Beschränkung	DE*CNT*EP00785*003*1~TYPE2:22|DE*CNT*EP00785*003*2~TYPE2:22
+1041277	GP JOULE Connect GmbH	DE*CNT*EP00504*001	Kirstenstr. 6	24960	Glücksburg (Ostsee)	54.841489	9.532520	1		Keine Beschränkung	DE*CNT*EP00504*001*1~TYPE2:22|DE*CNT*EP00504*001*2~TYPE2:22|DE*CNT*EP00504*001*3~TYPE2:22
+1041279	GP JOULE Connect GmbH	DE*CNT*EP00511*001	Strandweg 0	24977	Langballig	54.821651	9.655175	1		Keine Beschränkung	DE*CNT*EP00511*001*1~TYPE2:22|DE*CNT*EP00511*001*2~TYPE2:22|DE*CNT*EP00511*001*3~TYPE2:22|DE*CNT*EP00511*001*4~TYPE2:22
+1041283	GEWOBA Nord		Moltkestr. 32	24837	Schleswig	54.519967	9.557392	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1041298	team energie		team Allee 1	24392	Süderbrarup	54.638660	9.760640	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:100+CHADEMO:100
+1041300	GEWOBA Nord		Moltkestraße 34	24837	Schleswig	54.520035	9.558295	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041302	GEWOBA Nord		Moltkestraße 34	24837	Schleswig	54.520067	9.558327	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041329	team energie		Eckernförder Str. 9	24376	Kappeln	54.657538	9.945909	1			~CCS2:300|~CCS2:300
+1041330	team energie		Eckernförder Str. 9	24376	Kappeln	54.657481	9.945991	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:150
+1041335	team energie		Marie-Curie-Str. 1	24837	Schleswig	54.542206	9.581089	1		Keine Beschränkung	~CCS2:300+CHADEMO:300|~CCS2:300
+1041336	team energie		Marie-Curie-Str. 1	24837	Schleswig	54.542180	9.581189	1			~CCS2:300|~CCS2:300
+1041337	team energie		Marie-Curie-Str. 1	24837	Schleswig	54.542111	9.581449	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041402	GP JOULE Connect GmbH	DE*CNT*EP01158*001	Königstr. 17	24837	Schleswig	54.514528	9.564880	1		Keine Beschränkung	DE*CNT*EP01158*001*1~TYPE2:22|DE*CNT*EP01158*001*2~TYPE2:22|DE*CNT*EP01158*002*1~TYPE2:22|DE*CNT*EP01158*002*2~TYPE2:22
+1041798	HanseWerk Charging Station		Flensburger Straße 29	24986	Mittelangeln	54.693724	9.596409	1			~TYPE2:22
+1056839	EDEKA Handelsgesellschaft Nord mbH		Meiereistraße 10	24972	Steinbergkirche	54.756551	9.756354	1			~TYPE2:22|~TYPE2:22
+1057256	nonoxx pro		Am Pionierhafen 1+2	24837	Schleswig	54.514155	9.588587	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061477	Allego		Glücksburger Str. 3	24376	Kappeln	54.658598	9.948204	1	24/7	Keine Beschränkung	DEALLEGO002821_1~CCS2:150|DEALLEGO002821_2~CCS2:150
+1067217	EnBW mobility+ AG und Co.KG		Mühlenstr. 14	24986	Mittelangeln	54.691193	9.606909	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1068562	Elektro Jessen		Heinrich-Hertz-Straße 18	24837	Schleswig	54.537282	9.584805	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1068722	Janbeck*s FAIRhaus		Lehbek 10	24395	Gelting	54.741240	9.878840	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068975	Pension Tüxen		Eckeberg 1	24376	Hasselberg	54.720919	9.965061	1			~TYPE2:22|~TYPE2:22
+1069348	Anton Willer Mineralölhandel GmbH & Co. KG		Nordstr. 3	24376	Kappeln	54.665528	9.920774	1		Keine Beschränkung	~CHADEMO:50+CCS2:50|~TYPE2_TETHERED:43
+1076319	Gärten von Meyer GmbH & Co. KG		Dorfstraße 41	24364	Holzdorf	54.557213	9.894347	1			~TYPE2:22|~TYPE2:22
+1076662	Gemeinde Süderbrarup, Gebietskörperschaft		Große Str. 16	24392	Süderbrarup	54.635104	9.773658	1			~TYPE2:22|~TYPE2:22
+1076663	Gemeinde Süderbrarup, Gebietskörperschaft		Bahnhofstr. 9	24392	Süderbrarup	54.636404	9.771689	1			~TYPE2:22|~TYPE2:22
+1076664	Gemeinde Süderbrarup, Gebietskörperschaft		Holmer Str. 2	24392	Süderbrarup	54.636249	9.781249	1			~TYPE2:22|~TYPE2:22
+1076665	Gemeinde Süderbrarup, Gebietskörperschaft		Bahnhofstr. 15	24392	Süderbrarup	54.637207	9.771172	1			~TYPE2:22|~TYPE2:22
+1077509	Stadtwerke SH	Parkplatz	Wiesenstr. 1	24837	Schleswig	54.514138	9.565164	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22
+1077546	Glück in Sicht Hospitality GmbH & Co. KG		Sandwigstr. 1a	24960	Glücksburg (Ostsee)	54.840443	9.533336	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077547	Glück in Sicht Hospitality GmbH & Co. KG		Schwennaustr 41	24960	Glücksburg (Ostsee)	54.846569	9.539579	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077548	Glück in Sicht Hospitality GmbH & Co. KG		Schwennaustr. 37	24960	Glücksburg (Ostsee)	54.846542	9.541133	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1077549	Glück in Sicht Hospitality GmbH & Co. KG		Quellental 1	24960	Glücksburg (Ostsee)	54.846803	9.541481	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1081229	amperio GmbH (DEAMP)		Hans-Redlefsen-Str. 1	24986	Mittelangeln	54.692730	9.596459	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1084827	Autohaus Lorenzen GmbH		Nordstraße 45510	24395	Gelting	54.746119	9.893738	1			~TYPE2:22|~TYPE2:22
+1084993	Björn Köpp		Fraulundhof 1	24405	Mohrkirch	54.676429	9.714625	1			~TYPE2:11
+1086143	Iris Kölln		Zum Rühholz 2	24890	Stolk	54.601533	9.558659	1			~TYPE2_TETHERED:7
+1086253	Jochen Hinrichs		Kirchenweg 4	24392	Boren	54.613658	9.818481	1			~TYPE2_TETHERED:11
+1086299	Johannes Nissen		Schleibogen 7	24837	Schleswig	54.511898	9.584251	1			~TYPE2:11
+1086600	Lindenhof Habernis		Habernis 3	24972	Steinberg	54.794846	9.775984	1			~TYPE2_TETHERED:22
+1086654	Manuel Erdel		Wildbahn 32	24879	Neuberend	54.552186	9.520580	1			~CCS2:10
+1086970	Melanie Stuska		Terkelsmai 11-13	24996	Sterup	54.726426	9.742701	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1087074	Mike Hansen		Ketelsby 1	24392	Boren	54.605510	9.836260	1			~TYPE2:11
+1091309	Ferienhof Gintoft		Gintoft 22	24972	Steinbergkirche	54.769539	9.765019	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1096767	Autohaus Jordt		St. Jürgener Str. 52	24837	Schleswig	54.531215	9.574939	1			~CCS2:22|~TYPE2:11
+1097469	Nicolaus Schmidt GmbH & Co. KG		Hospitalstraße 1	24376	Kappeln	54.659258	9.926121	1			~CCS2:22|~TYPE2:11
+1097470	Nicolaus Schmidt GmbH & Co. KG		Kappelner Str. 2-7	24392	Süderbrarup	54.635808	9.777998	1			~CCS2:22|~TYPE2:11
+1102448	Campingplatz Seehof		Gammeldamm 5	24395	Pommerby	54.765161	9.967817	1			~TYPE2:22|~TYPE2:22
+1103578	Lüttmer Property Management GmbH		Am Pionierhafen 7	24837	Schleswig	54.514977	9.590254	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1103580	Lüttmer Projektentwicklungsgesellschaft mbH		Am Pionierhafen 1+2	24837	Schleswig	54.514100	9.588562	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1103588	Marie-Luise Lüttmer		Am Pionierhafen 6	24837	Schleswig	54.514575	9.589479	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1106451	E.ON Drive GmbH		Flensburger Str. 29	24986	Mittelangeln (Satrup)	54.693720	9.596410	1			~TYPE2:22
+1106610	E.ON Drive GmbH		Falshöft Parkplatz Strand 0	24395	Nieby	54.770441	9.961035	1			~TYPE2:22|~TYPE2:22
+1106612	E.ON Drive GmbH		Schleswiger Straße 1	24966	Sörup	54.716507	9.669377	1			~TYPE2:22|~TYPE2:22
+1106624	E.ON Drive GmbH		Hauptstr. 42	24893	Taarstedt	54.579445	9.689340	1			~TYPE2:22|~TYPE2:22
+1112524	Kirchengemeinde Haddeby		D 85	24857	Fahrdorf	54.505470	9.602920	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1113658	Torsten Volle		Eschelsmarker Allee 2	24354	Bohnert	54.530930	9.767940	1			~TYPE2:22
+1113980	Zum goldenen Stern		Hauptstr. 6	24890	Stolk	54.598194	9.541237	1			~TYPE2:22|~TYPE2:22
+1114340	Helga und Karsten Heide GbR		Strandweg 31	24369	Waabs	54.532918	9.999570	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114933	Audi Zentrum FL	SFL058	Werner-von-Siemens-Str. 5	24837	Schleswig	54.537626	9.581049	1		Nur für Kunden/Besucher	~TYPE2:22|~CCS2:24
+1115686	Energiepark Schlei-Ostsee GmbH & Co KG	Damp Auf der Höhe 1	Auf der Höhe 1	24351	Damp	54.570400	9.958400	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1116077	Flow Carsharing GmbH	Tolk	Pastoratsweg 5	24894	Tolk	54.579686	9.640369	1	24/7	Keine Beschränkung	DE*ISE*E0019423~TYPE2_TETHERED:22|DE*ISE*E0019424~TYPE2_TETHERED:22
+1116079	Flow Carsharing GmbH	Maasholm	Uleweg 31	24404	Maasholm	54.682686	9.993571	1	24/7	Keine Beschränkung	DE*ISE*E0019425~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1116131	Bauer-Gruppe		Heinrich-Hertz-Str. 1	24837	Schleswig	54.530651	9.582138	1		Keine Beschränkung	~CCS2:50|~CCS2:50
+1116171	Flow Carsharing GmbH	Gelting	Wolfgang-Miether-Str. 4	24395	Gelting	54.746929	9.895764	1	24/7	Keine Beschränkung	DE*ISE*E0019427~TYPE2:22|DE*ISE*E0019428~TYPE2:22
+1116172	Flow Carsharing GmbH	Steinbergkiche	Am Wasserwerk 2	24972	Steinbergkirche	54.754415	9.758622	1	24/7	Keine Beschränkung	DE*ISE*E0019429~TYPE2:22|DE*ISE*E0019430~TYPE2:22
+1116176	Flow Carsharing GmbH	Barkelsby	Riesebyer Str. 3	24360	Barkelsby	54.501804	9.835344	1	24/7	Keine Beschränkung	DE*ISE*E0019431~TYPE2:22|DE*ISE*E0019432~TYPE2:22
+1116183	Flow Carsharing GmbH	Kappeln Feldstraße	Feldstr. 4	24376	Kappeln	54.659583	9.929590	1	24/7	Keine Beschränkung	DE*ISE*E0019665~CCS2:50|DE*ISE*E0019666~CCS2:50
+1116189	Flow Carsharing GmbH	Waabs	Mühlenstr. 1	24369	Waabs	54.532663	9.985207	1	24/7	Keine Beschränkung	DE*ISE*E0019675~TYPE2:22|DE*ISE*E0019676~TYPE2:22
+1116190	Flow Carsharing GmbH	Süderbrarup	Bahnhofstr. 15	24392	Süderbrarup	54.636336	9.771600	1	24/7	Keine Beschränkung	DE*ISE*E0019677~TYPE2:22|DE*ISE*E0019678~TYPE2:22
+1117530	Stadtwerke SH		St.-Jürgener-Str. 1-3	24837	Schleswig	54.523990	9.570006	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119481	GP JOULE Connect GmbH	DE*CNT*EP03908*001	Grabstr. 7	24989	Dollerup	54.780300	9.676400	1		Keine Beschränkung	DE*CNT*EP03908*001*1~TYPE2:22|DE*CNT*EP03908*001*2~TYPE2:22
+1121482	Müller e-drive GmbH	Camping Seehof	Gammeldamm 5	24395	Pommerby	54.764970	9.968066	1	24/7	Nur für Kunden/Besucher	WMCSN0050868~TYPE2:22|WMCSN0050868~TYPE2_TETHERED:22
+1121798	Gemeinde Grundhof (Körperschaft des öffentlichen Rechts)	Grundhof Krug	Holnisser Weg 1A	24977	Grundhof	54.773917	9.652470	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1127919	Amt Süderbrarup	Amt Süderbrarup	team Allee 22	24392	Süderbrarup	54.640700	9.761670	1	24/7	Keine Beschränkung	E4DL6~TYPE2:22|EZ67R~TYPE2:22|EEKA8~TYPE2:22|EDFU3~TYPE2:22
+1136491	Autohaus Jordt	Rechts von Haupteingang und Dialogannahme	St.-Jürgener-Str. 52	24837	Schleswig	54.531215	9.574833	1	24/7	Nur für Kunden/Besucher	DE*GCE*EACCM225281~CCS2:22+TYPE1:11
+1136860	EnBW mobility+ AG und Co.KG	REWE Schleswig, Georg-Pfingsten-Weg 3	Georg-Pfingsten-Weg 3	24837	Schleswig	54.503583	9.543694	1	24/7	Keine Beschränkung	DE*EBW*E911649*1~CCS2:200|DE*EBW*E911649*2~CCS2:200|DE*EBW*E911583*1~CCS2:200|DE*EBW*E911583*2~CCS2:200
+1143982	EnBW mobility+ AG und Co.KG	PENNY Kappeln, Ziegeleiweg 2	Ziegeleiweg 2	24376	Kappeln	54.665953	9.932525	1	24/7	Keine Beschränkung	DE*EBW*E911635*1~CCS2:200|DE*EBW*E911635*2~CCS2:200
+1143983	EnBW mobility+ AG und Co.KG	PENNY Kappeln, Ziegeleiweg 2	Ziegeleiweg 2	24376	Kappeln	54.666153	9.934132	1	24/7	Keine Beschränkung	DE*EBW*E911581*1~CCS2:200|DE*EBW*E911581*2~CCS2:200
+1145171	Stadtwerke SH		Strandweg 1a	24866	Busdorf	54.502578	9.553369	1		Nur für Kunden/Besucher	DE*ISE*EA119363~TYPE2:22|DE*ISE*EA149155~TYPE2:22
+1145192	Stadtwerke SH		Jollenweg 2	24837	Schleswig	54.516925	9.588704	1		Nur für Kunden/Besucher	DE*ISE*E0017767~TYPE2:22|DE*ISE*E0017768~TYPE2:22
+1148916	Flow Carsharing GmbH	Kappeln Wiker Straße	Wiker Str. 4	24376	Kappeln	54.661056	9.945751	1	24/7	Keine Beschränkung	DE*ISE*EA158826~TYPE2_TETHERED:22|DE*ISE*EA195698~TYPE2_TETHERED:22
+1148918	Flow Carsharing GmbH	Rieseby	Eckernförder Landstr. 1	24354	Rieseby	54.541519	9.820849	1	24/7	Keine Beschränkung	DE*ISE*E0019615~TYPE2_TETHERED:22|DE*ISE*E0019616~TYPE2_TETHERED:22
+1149235	EDEKA Eggert Kim-David Eggert e.K		Bahnhofstr. 40	24966	Sörup	54.719020	9.677690	1	24/7	Keine Beschränkung	DE*384*E*151519CS0001*3~TYPE2:22|DE*384*E*151519CS0001*1~CCS2:50+CHADEMO:50
+1152341	GEWOBA Nord		Moltkestr. 32	24837	Schleswig	54.520516	9.558359	1	24/7	Keine Beschränkung	DEGFCE1234701976*1~CCS2:400|DEGFCE1234701976*2~CCS2:400|DEGFCE1234701976*1~CCS2:400|DEGFCE1234701976*2~CCS2:400
+1157502	Stadt Glücksburg		Drei 1	24960	Glücksburg (Ostsee)	54.857060	9.590666	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1157504	Stadt Glücksburg		Sandwighof 15	24960	Glücksburg (Ostsee)	54.839030	9.533380	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157505	Stadt Glücksburg		Kurlandstr. 2c	24960	Glücksburg (Ostsee)	54.825012	9.539021	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157506	Stadt Glücksburg		Am Krogbarg 1	24960	Glücksburg (Ostsee)	54.845988	9.586995	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157510	Stadt Glücksburg		Am Noor 33	24960	Glücksburg (Ostsee)	54.859826	9.573993	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157512	Stadt Glücksburg		Klaus-Groth-Weg 6	24960	Glücksburg (Ostsee)	54.835429	9.555490	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157513	Stadt Glücksburg		Schinderdam 5	24960	Glücksburg (Ostsee)	54.835058	9.546856	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1157516	Stadt Glücksburg		Rathausstr. 15a	24960	Glücksburg (Ostsee)	54.835523	9.549652	1	24/7	Keine Beschränkung	~CCS2:75
+1157668	team energie		Schwarze Str. 19	24977	Langballig	54.799150	9.635879	1	24/7	Keine Beschränkung	DE*TME*E30206~CCS2:150|DE*TME*E30207~CCS2:150|DE*TME*E30221~CCS2:150|DE*TME*E30223~CCS2:150
+1161439	LichtBlick eMobility GmbH		Flensburger Str. 58	24975	Husby	54.766561	9.570247	1		Keine Beschränkung	DE*BDO*EQ10006*001*01~CCS2:300|DE*BDO*EQ10006*001*02~CCS2:299|DE*BDO*EQ10006*002*01~CCS2:300|DE*BDO*EQ10006*002*02~CCS2:300|DE*BDO*EQ10006*003*01~CCS2:300|DE*BDO*EQ10006*003*02~CCS2:300|DE*BDO*EQ10006*004*01~CCS2:300|DE*BDO*EQ10006*004*02~CCS2:300
+1161711	Stadt Glücksburg		Bahnhofstr. 4	24960	Glücksburg (Ostsee)	54.833838	9.549217	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1161712	Stadt Glücksburg		Philosophenweg 1	24960	Glücksburg (Ostsee)	54.838355	9.532538	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1162302	ALDI Nord	Aldi Nord Parkplatz	Westerfeld 1	24986	Mittelangeln	54.695801	9.587742	1	24/7	Keine Beschränkung	DE-ALN-EDE040200-1-1~CCS2:150|DE-ALN-EDE040200-1-2~CCS2:150|DE-ALN-EDE040200-1-1~CCS2:150|DE-ALN-EDE040200-1-2~CCS2:150

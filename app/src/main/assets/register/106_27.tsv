@@ -1,0 +1,42 @@
+1026521	EnBW mobility+ AG und Co.KG		Rudolf-Breitscheid-Straße 27	16278	Angermünde	53.013349	13.992809	1			~CCS2:150|~CCS2:150
+1034745	Energie und Wasser Potsdam GmbH		Heinestraße 1	17268	Templin	53.118560	13.504320	1			~TYPE2:22|~TYPE2:22
+1048101	Shell Deutschland GmbH		Prenzlauer Str. 32	16278	Angermünde	53.028810	13.994029	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1048107	Shell Deutschland GmbH		Prenzlauer Str. 41	16278	Angermünde	53.022020	13.999400	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1048760	Lidl		Stettiner Str. 47	17291	Prenzlau	53.321485	13.864231	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:50+CCS2:50|~TYPE2_TETHERED:50+CHADEMO:50
+1050130	amperio GmbH (DEAMP)		An der Automeile 4	17291	Prenzlau	53.343274	13.871000	1			~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:22
+1050131	amperio GmbH (DEAMP)		An der Automeile 4	17291	Prenzlau	53.343374	13.871000	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1056795	Stromversorgung Angermünde GmbH		Blumberger Mühle 2	16278	Angermünde	53.035113	13.965978	1	24/7	Keine Beschränkung	AT*HTB*EE1015377~TYPE2:22|AT*HTB*EE1015378~TYPE2:22
+1057287	Inselwerke eG		Nechlin 7a	17337	Uckerland OT Nechlin	53.444649	13.889017	1			~TYPE2:22
+1057297	Inselwerke eG		Lindenallee 18	17268	Temmen	53.096350	13.759960	1			~TYPE2:22
+1057319	Inselwerke eG		Suckower Str. 31	17268	Flieth-Stegelitz	53.161017	13.812593	1			~TYPE2:22|~TYPE2:22
+1057320	Inselwerke eG		Am Schmiedeberg 4	17268	Boitzenburger Land OT Boitzenburg	53.263167	13.603969	1			~TYPE2:22|~TYPE2:22
+1058003	Stromversorgung Angermünde GmbH	Bahnhofsplatz	Bahnhofsplatz 0	16278	Angermünde	53.014676	13.997832	1	24/7	Keine Beschränkung	AT*HTB*EE1022044~TYPE2:22|AT*HTB*EE1022043~TYPE2:22
+1068406	KoRegEn Einzelunternehmen		Seeweg 3	17291	Grünow	53.313380	13.945870	1			~TYPE2_TETHERED:11
+1068407	KoRegEn Einzelunternehmen		Seeweg 3	17291	Grünow	53.313484	13.945778	1			~TYPE2:10.4
+1070102	amperio GmbH (DEAMP)		Grundmühlenweg 11	16278	Angermünde	53.015352	13.995139	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1071964	SWS Stadtwerke Stralsund GmbH		Ernst-Thälmann-Str. 8	17348	Woldegk	53.459677	13.583082	1	24/7	Keine Beschränkung	DEHSTE1234643776*1~CCS2:20|DEHSTE1234643776*2~TYPE2:22
+1093058	Kommunalwind Nord GmbH		Friedrichstr. 2a	17291	Prenzlau	53.314045	13.859820	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093059	Kommunalwind Nord GmbH		Am Steintor 4	17291	Prenzlau	53.309603	13.863414	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093060	Kommunalwind Nord GmbH		Fischerstr. 7	17291	Prenzlau	53.311814	13.852571	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093061	Kommunalwind Nord GmbH		Schwedter Str. 100a	17291	Prenzlau	53.305187	13.881856	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093062	Kommunalwind Nord GmbH		Geschwister-Scholl-Str. 49	17291	Prenzlau	53.311456	13.857264	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093063	Kommunalwind Nord GmbH		Freyschmidtstr. 20	17291	Prenzlau	53.322139	13.854622	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1097756	Pluq		Fährkrug 1	17268	Templin	53.131175	13.550623	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|DE*EFL*EV7597962*C1~TYPE2:22|DE*EFL*EV7597962*C2~TYPE2:22
+1101744	Tesla Germany GmbH		Prenzlauer Str. 6	17291	Uckerfelde	53.234947	13.986081	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1106055	PaechElektroEndres GmbH & Co. KG		Automeile 11	17291	Prenzlau	53.345734	13.872670	1			~TYPE2:22|~TYPE2:22
+1106396	E.ON Drive GmbH		Heinestr. 1	17268	Templin	53.118590	13.504330	1			~TYPE2:22|~TYPE2:22
+1110305	Ahorn Hotels		Am Lübbesee 1	17268	Templin	53.111908	13.530573	1			~TYPE2:22|~TYPE2:22
+1110502	Hotel garni "Zum Eichwerder"		Werderstraße 38	17268	Templin	53.121274	13.501613	1			~TYPE2:22|~TYPE2:22
+1119823	Roy Jetter	11KW SIS	Hauptstr. 7	17268	Boitzenburger Land	53.259616	13.548221	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1120583	Netto Marken-Discount Stiftung & Co. KG		Gewerbegebiet Süd 14	17268	Milmersdorf	53.107870	13.641470	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1121395	Circle K Deutschland	Prenzlau	Stettiner Str. 100	17291	Prenzlau	53.330340	13.867660	1	24/7	Keine Beschränkung	Seriennummer: T175-IT1-1322-209~CCS2:175+CHADEMO:100|Seriennummer: T175-IT1-2122-121~CCS2:175+CHADEMO:100
+1129104	Kommunalwind Nord GmbH		Uckerpromenade 85	17291	Prenzlau	53.293620	13.871340	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1129105	Kommunalwind Nord GmbH		Goethestr. 2 b	17291	Prenzlau	53.307220	13.875457	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1132509	smopi	Angermuende.Bahnhofsplatz1.Public	Bahnhofsplatz 1	16278	Angermünde	53.014900	13.998091	1	24/7	Keine Beschränkung	DE*SMC*E0000300~TYPE2:11|DE*SMC*E0000299~TYPE2:11
+1134202	Vattenfall Smarter Living GmbH		Zur Ziegelei 8	17348	Woldegk	53.461265	13.578371	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134203	Vattenfall Smarter Living GmbH		Zur Ziegelei 8	17348	Woldegk	53.461297	13.578309	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134204	Vattenfall Smarter Living GmbH		Neubrandenburger Str. 85	17291	Prenzlau	53.317549	13.854727	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134205	Vattenfall Smarter Living GmbH		Neubrandenburger Str. 85	17291	Prenzlau	53.317445	13.854647	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1147967	Vattenfall Smarter Living GmbH		Templiner Str. 10	16278	Angermünde	53.023426	13.996306	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1148026	ORLEN Deutschland GmbH	DC-10032-03	Gramzower Str. 1A	17291	Uckerfelde	53.234900	13.985800	1	24/7	Keine Beschränkung	DE*ODE*EDC1003203*05~CCS2:200|DE*ODE*EDC1003203*06~CCS2:200|DE*ODE*EDC1003201*01~CCS2:200|DE*ODE*EDC1003201*02~CCS2:200|DE*ODE*EDC1003202*03~CCS2:200|DE*ODE*EDC1003202*04~CCS2:200|DE*ODE*EDC1003204*07~CCS2:200|DE*ODE*EDC1003204*08~CCS2:200
+1150734	Autohaus Woldegk GmbH	Marktplatz Woldegk	Ernst-Thälmann-Str. 8	17348	Woldegk	53.459736	13.853060	1	24/7	Nur für Kunden/Besucher	DEAHWE000102~CCS2:20

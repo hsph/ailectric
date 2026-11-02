@@ -1,0 +1,154 @@
+1009010	Shell Deutschland GmbH		Lerchenbreite 34a	38889	Blankenburg	51.804724	10.943131	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1011653	GreenVesting GmbH & Co. KG	Braunlage Rathaus	Herzog-Johann-Albrecht-Str. 2	38700	Braunlage	51.727463	10.608515	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1021704	EWE Go GmbH		Dornbergsweg 38	38855	Wernigerode	51.852520	10.790140	1			~CCS2:150|~CCS2:150|DE*2GO*EMCD1010*1A*1~CCS2:150|DE*2GO*EMCD1010*1A*2~CCS2:150
+1022119	EWE Go GmbH		Lerchenbreite 34	38889	Blankenburg	51.806396	10.942582	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1026721	EnBW mobility+ AG und Co.KG		Marktstr. 47	37441	Bad Sachsa	51.593530	10.558450	1			~CCS2:150|~CCS2:150
+1028784	TEAG Mobil GmbH	Neustadt/Harz - Parkplatz Ort	Am Wiesenplatz 1	99768	Harztor	51.559118	10.833600	1	24/7	Keine Beschränkung	DE*TMO*E11*101*001~TYPE2:22|DE*TMO*E11*101*002~TYPE2:22
+1028812	TEAG Mobil GmbH	Ellrich - Marktplatz	Am Markt 0	99755	Ellrich	51.586888	10.664389	1	24/7	Keine Beschränkung	DE*TMO*E11*106*001~TYPE2:22|DE*TMO*E11*106*002~TYPE2:22
+1028903	TEAG Mobil GmbH	St. Andreasberg - Touristinfo	Am Kurpark 9	37444	St. Andreasberg	51.714596	10.521198	1		Keine Beschränkung	DE*TMO*E11*258*001~TYPE2:22|DE*TMO*E11*258*002~TYPE2:22
+1028904	TEAG Mobil GmbH	Braunlage-Hohegeiß - Caffee	Hindenburgstr. 1	38700	Braunlage	51.664327	10.668760	1		Keine Beschränkung	DE*TMO*E11*257*001~TYPE2:22|DE*TMO*E11*257*002~TYPE2:22
+1028907	TEAG Mobil GmbH	Harztor - Raststätte	Netzkater 5A	99768	Harztor	51.603229	10.785404	1	24/7	Keine Beschränkung	DE*TMO*E11*071*001~CCS2:150|DE*TMO*E11*071*002~CCS2:150
+1028965	TEAG Mobil GmbH	Harztor - HERKULES	Im Steinfeld 5	99768	Harztor	51.542382	10.768745	1		Keine Beschränkung	DE*TMO*E11*149*001~CCS2:150|DE*TMO*E11*149*002~CCS2:150|DE*TMO*E11*149*003~CCS2:150|DE*TMO*E11*149*004~CCS2:150
+1034572	Wattif Europe GmbH	Braunlage, Hotel Relexa, Karl-Röhrig Strasse 5a	Karl-Röhrig-Str. 5a	38700	Braunlage	51.736130	10.610820	1	24/7	Keine Beschränkung	DE*WAT*EW049001001~TYPE2:22|DE*WAT*EW049001002~TYPE2:22|DE*WAT*EW049001003~TYPE2:22|DE*WAT*EW049001004~TYPE2:22
+1038414	Oelkers Hotel Betriebs GmbH		Bismarckstraße 17	37441	Bad Sachsa	51.599216	10.547338	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038443	Schlosshotel Blankenburg UG & Co. OHG		Schnappelberg 5	38889	Blankenburg	51.787201	10.960544	1			~TYPE2:22|~TYPE2:22
+1040183	Autohaus Osterwieck GmbH	Tankstelle	Lüttgenröder Straße 1	38835	Osterwieck	51.968409	10.699869	1	24/7	Nur für Kunden/Besucher	~CCS2:90|~TYPE2_TETHERED:22
+1041028	Autohaus Wernigerode GmbH		Am Stadtweg 1	38855	Wernigerode - Reddeber	51.861829	10.802242	1			~TYPE2:22|~CCS2:90
+1041029	Autohaus Wernigerode GmbH		Lüttgenröder Str. 1	38835	Osterwieck	51.968409	10.699869	1			~TYPE2:22|~CCS2:90
+1041489	GP JOULE Connect GmbH	DE*CNT*EP02987*001	Oderbrück Süd 2	37444	St. Andreasberg	51.775186	10.552245	1		Keine Beschränkung	DE*CNT*EP02987*001*1~CCS2:50|DE*CNT*EP02987*001*2~CCS2:50
+1051366	Zacher Betriebsgesellschaft mbH	Oderbrück	Oderbrück Süd 2	37444	St. Andreasberg	51.775140	10.552070	1	24/7	Keine Beschränkung	~TYPE2:11
+1059050	Harz Energie GmbH & Co. KG		Am Amtsweg 5	38700	Braunlage	51.731811	10.612628	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1059064	Harz Energie GmbH & Co. KG		Klosterweg 5	37445	Walkenried	51.581970	10.620450	1			~TYPE2:22|~TYPE2:22
+1059068	Harz Energie GmbH & Co. KG		Kaiserstr. 18	38690	Goslar/Vienenburg	51.952470	10.563840	1			~TYPE2:22|~TYPE2:22
+1059069	Harz Energie GmbH & Co. KG		Marktstraße 66	37441	Bad Sachsa	51.594724	10.555803	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1059070	Harz Energie GmbH & Co. KG		Pfaffenwiese 1	37441	Bad Sachsa	51.596920	10.550970	1	24/7	Keine Beschränkung	~CCS2:40|~CCS2:40
+1059072	Harz Energie GmbH & Co. KG		Torfhaus 38A	38667	Altenau	51.803932	10.535823	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:160|~CCS2:160|~CCS2:160|~CCS2:160
+1064222	Kaufland	2970_Kland_Wenigerode_T65-IT1-4622-082	Am Schreiberteich 3	38855	Wernigerode	51.843560	10.780890	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1066751	Solehotel Winterberg		Nordhäuser Str. 8	38667	Bad Harzburg	51.870090	10.559750	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1067951	Gruppenhäuser Lehmann		Bodestraße 10	38700	Braunlage	51.721058	10.614318	1			~TYPE2:11|~TYPE2:11
+1068213	WELLER		Waldhofstraße 19	38855	Wernigerode	51.837482	10.778564	1			~CCS2:50|~TYPE2:22
+1070622	nonoxx pro		Am Katzenteich 0	38855	Wernigerode	51.839606	10.782276	1			~TYPE2:22|~TYPE2:22
+1070623	nonoxx pro		Am Eichberg 1	38855	Wernigerode	51.827705	10.760499	1			~TYPE2:22|~TYPE2:22
+1070624	nonoxx pro		Im langen Schlage 40	38855	Wernigerode	51.847176	10.781905	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070625	nonoxx pro		Kohlgartenstraße 0	38856	Wernigerode	51.838161	10.795205	1			~TYPE2:22|~TYPE2:22
+1070626	nonoxx pro		Harzburger Straße 3	38871	Ilsenburg	51.865664	10.676553	1			~TYPE2:22|~TYPE2:22
+1070627	nonoxx pro		Halberstädter Str. 0	38855	Wernigerode	51.838227	10.795883	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:22|DE*WER*E01*018*01~TYPE2:22|DE*WER*E01*018*02~TYPE2:22|DE*WER*E01*018*03~TYPE2:22|DE*WER*E01*018*04~TYPE2:22
+1070628	nonoxx pro		A.-Schweitzer-Straße 19	38855	Wernigerode	51.838981	10.806412	1			~TYPE2:22|~TYPE2:22
+1070629	nonoxx pro		Nöschenröder Straße 61 - 62	38855	Wernigerode	51.829625	10.792017	1			~TYPE2:22|~TYPE2:22
+1070630	nonoxx pro		Kopernikusstraße 2	38855	Wernigerode	51.838407	10.804747	1			~TYPE2:22|~TYPE2:22
+1070631	nonoxx pro		Alte Dorfstraße 1	38879	Wernigerode OT Schierke	51.761746	10.671711	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070633	nonoxx pro		Harzburger Str. 24	38871	Ilsenburg	51.871830	10.675451	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070635	nonoxx pro		Kreisstraße 1354	38875	Wernigerode / OT Drei Annen Hohne	51.771339	10.730532	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070637	nonoxx pro		Am Katzenteich 0	03885	Wernigerode	51.839625	10.781994	1			~TYPE2:22|~TYPE2:22
+1070638	nonoxx pro		Walther-Grosse-Ring 25	38855	Wernigerode	51.843433	10.803989	1			~TYPE2:22|~TYPE2:22
+1070639	nonoxx pro		Hasselfelder Straße 6	38889	Oberharz am Brocken OT Rübeland	51.742803	10.888270	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070641	nonoxx pro		Friedrichstraße 57 - 59	38855	Wernigerode	51.826942	10.763440	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070644	nonoxx pro		Am Kupferhammer 38	38855	Wernigerode	51.850303	10.802723	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070646	nonoxx pro		Schreiberstraße 0	38855	Wernigerode	51.838922	10.789763	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070648	nonoxx pro		Goetheweg 23a	38871	Ilsenburg / OT Darlingerode	51.845450	10.721099	1			~TYPE2:22|~TYPE2:22
+1070649	nonoxx pro		Dornbergsweg 27	38855	Wernigerode	51.843902	10.782366	1			~TYPE2:22|~TYPE2:22
+1071458	Sandy Golze	Parkplatz Eiscafe und Kreativstube	Hochofenstr. 12b	38871	Ilsenburg (Harz)	51.866136	10.682855	1		Keine Beschränkung	~CCS2:50+CCS2:25
+1072304	Energieversorgung Nordhausen GmbH		Dr. Robert-Koch-Str. 0	99734	Nordhausen	51.514710	10.800420	1			~TYPE2:22|~TYPE2:22
+1072305	Energieversorgung Nordhausen GmbH		Grimmelallee 40a	99734	Nordhausen	51.504470	10.785140	1			~TYPE2:22|~TYPE2:22
+1072306	Energieversorgung Nordhausen GmbH		Engelsburg 10	99734	Nordhausen	51.503240	10.793400	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1072307	Energieversorgung Nordhausen GmbH		Rautenstraße 9	99734	Nordhausen	51.500335	10.793992	1			~TYPE2:11+SCHUKO:11|~TYPE2:22+SCHUKO:22
+1072309	Energieversorgung Nordhausen GmbH		August-Bebel-Platz 0	99734	Nordhausen	51.502330	10.802030	1			~TYPE2:22|~TYPE2:22
+1074958	Landhäuser BergWiese		Braunlager Str. 11	37444	Sankt Andreasberg	51.716640	10.527520	1			~TYPE2_TETHERED:22
+1075754	FAHRWerk Inh. René Kussin		Feldstr. 29	38855	Wernigerode	51.841970	10.790110	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1076751	Autohaus Wernigerode GmbH		Dornbergsweg 45	38855	Wernigerode	51.851960	10.787900	1	24/7	Keine Beschränkung	DE*GCE*EACCR271471~TYPE2:22|DE*GCE*EDCCR271472~CCS2:50
+1077563	Charge and Co		Talstraße 27	37441	Bad Sachsa	51.596052	10.542000	1			~TYPE2:22|~TYPE2:22
+1078280	nonoxx pro	Arena Schierke	Barenberg 4a	38879	Schierke	51.762371	10.664855	1	24/7	Keine Beschränkung	DE*WER*E01*024*01~TYPE2:22|DE*WER*E01*024*02~TYPE2:22
+1078281	nonoxx pro	Trafostation Wetterwarte	An den Sieben Teichen 17	38855	Wernigerode	51.847636	10.772604	1	24/7	Keine Beschränkung	DE*WERE01*025*01~TYPE2:22|DE*WERE01*025*02~TYPE2:22
+1080491	Central Gebäudemanagement GmbH Abt. Elektromobilität		Katzenstein 1	37441	Bad Sachsa	51.607770	10.533990	1			~TYPE2:22|~TYPE2:22
+1081144	EnBW mobility+ AG und Co.KG		Wiedelaher Str. 10	38690	Goslar	51.954890	10.566200	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1083856	Stadtwerke Bad Harzburg GmbH		Nordhäuserstrasse 0	38667	Bad Harzburg	51.868641	10.558991	1			~TYPE2:22|~TYPE2:22
+1083857	Stadtwerke Bad Harzburg GmbH		Herzog-Wilhelm-Str. 86	38667	Bad Harzburg	51.878079	10.558822	1			~TYPE2:22|~TYPE2:22
+1083858	Stadtwerke Bad Harzburg GmbH		Nordhäuser Str. 4	38667	Bad Harzburg	51.870743	10.560795	1			~TYPE2:22|~TYPE2:22
+1086749	Maria Büchner		Osterwiecker Straße 5	38835	Osterwieck	51.946087	10.820161	1			~TYPE2_TETHERED:11
+1087530	Restaurant Casa Vita		Damaschkestraße 2	38855	Wernigerode	51.832579	10.766861	1			~TYPE2_TETHERED:11
+1088216	Tobias König		Köllingstraße 4	99734	Nordhausen	51.506829	10.799870	1			~TYPE2:11
+1089925	EDEKA-MIHA Charge GmbH		Apfelweg 1a	38871	Ilsenburg (Harz)	51.872804	10.692087	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1090805	Stadtwerke Bad Sachsa GmbH		Marktstraße 66	37441	Bad Sachsa	51.594743	10.555756	1			~TYPE2:11|~TYPE2:11
+1091045	LINDIG		Am Köhlerteich 13	38855	Wernigerode	51.841740	10.770410	1			~TYPE2:22|~TYPE2:22
+1091701	AreaCharge	NDH_WBG_1_1	Hesseröder Str. 27-29	99734	Nordhausen	51.502020	10.781194	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091702	AreaCharge	NDH_WBG_2_1	Albert-Traeger-Str. 61	99734	Nordhausen	51.516417	10.799446	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093001	Johannes Meyer		Ravenstraße 13	99755	Ellrich	51.588934	10.663827	1			~TYPE2_TETHERED:22+SCHUKO:22
+1093203	Stadtwerke Blankenburg GmbH		Börnecker Straße 6	38889	Blankenburg (Harz)	51.797066	10.966681	1			~TYPE2:22|~TYPE2:22
+1093204	Stadtwerke Blankenburg GmbH		Am Thie 0	38889	Blankenburg (Harz)	51.794317	10.952996	1			~TYPE2:22|~TYPE2:22
+1093205	Stadtwerke Blankenburg GmbH		Michaelstein 0	38889	Blankenburg OT Oesig	51.807815	10.913316	1			~TYPE2:22|~TYPE2:22
+1093206	Stadtwerke Blankenburg GmbH		Theaterstraße 0	38889	Blankenburg (Harz)	51.791164	10.955008	1			~TYPE2:22|~TYPE2:22
+1093207	Stadtwerke Blankenburg GmbH		Am Platenberg 0	38889	Blankenburg (Harz)	51.812653	10.953686	1			~TYPE2:22|~TYPE2:22
+1093208	Stadtwerke Blankenburg GmbH		Schnappelberg 6	38889	Blankenburg (Harz)	51.788020	10.960485	1			~TYPE2:22|~TYPE2:22
+1093209	Stadtwerke Blankenburg GmbH		Regensteinsweg 0	38889	Blankenburg (Harz)	51.800189	10.953004	1			~TYPE2:22|~TYPE2:22
+1093210	Stadtwerke Blankenburg GmbH		Im Freien Felde 5	38895	Derenburg	51.867400	10.880746	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093211	Stadtwerke Blankenburg GmbH		Harzstraße 3	38889	Blankenburg	51.788742	10.952873	1			~TYPE2:22|~TYPE2:22
+1093213	Stadtwerke Blankenburg GmbH		Michaelstein 18	38889	Blankenburg OT Oesig	51.805081	10.918332	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093214	Stadtwerke Blankenburg GmbH		Am Rosentale 2	38899	Hasselfelde	51.703410	10.871130	1			~TYPE2:22|~TYPE2:22
+1096527	Autohaus am Regenstein NL der AH Wernigerode GmbH		Am Hasenwinkel 1	38889	Blankenburg (Harz)	51.811206	10.938833	1			~CCS2:22|~TYPE2:11
+1097027	Autohaus Scholl GmbH		Dr.-Heinrich-Jasper-Straße 59	38667	Bad Harzburg	51.890317	10.542620	1			~TYPE2:11|~CCS2:22
+1097155	Autohaus Wille GmbH		Otto-von-Guericke-Straße 2	38855	Wernigerode	51.850050	10.810767	1			~CCS2:22|~TYPE2:11
+1097840	Charge and Co	Charge & Co Landal PG Line - Left & Right	Talstr. 27	37441	Bad Sachsa	51.596088	10.542845	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11
+1097938	Allego		Halberstädter Str. 10	38855	Wernigerode	51.847268	10.811819	1	24/7	Keine Beschränkung	DEALLEGO003405_1~CCS2:50|DEALLEGO003405_2~CCS2:50|DEALLEGO003412_1~CCS2:50|DEALLEGO003412_2~CCS2:50|DEALLEGO003413_1~CCS2:50|DEALLEGO003413_2~CCS2:50
+1097941	Allego		Halberstädter Str. 10	38855	Wernigerode	51.847499	10.811494	1	24/7	Keine Beschränkung	DEALLEGO003484_1~CCS2:300|DEALLEGO003484_2~CCS2:300|DEALLEGO003537_1~CCS2:300|DEALLEGO003537_2~CCS2:300|DEALLEGO003569_1~CCS2:300|DEALLEGO003569_2~CCS2:300
+1103300	Stadtwerke Blankenburg GmbH		Fichtestr. 0	38889	Blankenburg (Harz)	51.796692	10.969701	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO7*01~TYPE2:22|DE*MSU*ESWBL*CO7*02~TYPE2:22
+1103301	Stadtwerke Blankenburg GmbH	Parkplatz Friedhof	Helsunger Str. 0	38889	Blankenburg (Harz)	51.789406	10.972037	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO6*01~TYPE2:22|DE*MSU*ESWBL*CO6*02~TYPE2:22
+1103303	Stadtwerke Blankenburg GmbH	Ärztehaus	Ludwig-Rudolf-Str. 3 A	38889	Blankenburg (Harz)	51.793381	10.945893	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO9*01~TYPE2:22|DE*MSU*ESWBL*CO9*02~TYPE2:22
+1103304	Stadtwerke Blankenburg GmbH	Parkplatz kleines Schloss	Schnappelberg 5	38889	Blankenburg (Harz)	51.787969	10.960578	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO2*01~TYPE2:22|DE*MSU*ESWBL*CO2*02~TYPE2:22
+1103305	Stadtwerke Blankenburg GmbH	Körnerparkplatz	Neue Halberstädter Str. 0	38889	Blankenburg (Harz)	51.791536	10.951902	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO4*01~TYPE2:22|DE*MSU*ESWBL*CO4*02~TYPE2:22
+1103306	Stadtwerke Blankenburg GmbH	Besucherparkplatz Burg Ruine	Am Platenberg 1	38889	Blankenburg (Harz)	51.812618	10.953788	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO3*01~TYPE2:22|DE*MSU*ESWBL*CO3*02~TYPE2:22
+1103307	Stadtwerke Blankenburg GmbH		Bahnhofstr. 4	38889	Blankenburg (Harz)	51.795202	10.960815	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO8*01~TYPE2:22|DE*MSU*ESWBL*CO8*02~TYPE2:22
+1103309	Stadtwerke Blankenburg GmbH		Karl-Zerbst-Str. 26	38889	Blankenburg (Harz)	51.801660	10.948806	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO5*01~TYPE2:22|DE*MSU*ESWBL*CO5*02~TYPE2:22
+1103311	Stadtwerke Blankenburg GmbH	Treseburg Wanderparkplatz	Ortsstr. 20 A	06502	Thale	51.715762	10.973751	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO10*01~TYPE2:22|DE*MSU*ESWBL*CO10*02~TYPE2:22
+1103312	Stadtwerke Blankenburg GmbH		Am Markt 0	38899	Hasselfelde	51.690365	10.855298	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO12*01~TYPE2:22|DE*MSU*ESWBL*CO12*02~TYPE2:22
+1103314	Stadtwerke Blankenburg GmbH		Blankenburger Str. 35 A	38889	Rübeland	51.754590	10.844386	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO11*01~TYPE2:22|DE*MSU*ESWBL*CO11*02~TYPE2:22
+1103315	Stadtwerke Blankenburg GmbH		Heinrich-Georg-Neuß-Str. 0	38875	Elbingerode	51.773080	10.793099	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO13*01~TYPE2:22|DE*MSU*ESWBL*CO13*02~TYPE2:22
+1103317	Stadtwerke Blankenburg GmbH		Marktstr. 3	38899	Stiege	51.667361	10.886766	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO15*01~TYPE2:22|DE*MSU*ESWBL*CO15*02~TYPE2:22
+1103318	Stadtwerke Blankenburg GmbH		Hauptstr. 24	38875	Elend	51.744087	10.686916	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO14*01~TYPE2:22|DE*MSU*ESWBL*CO14*02~TYPE2:22
+1103505	EDEKA-MIHA Charge GmbH		Lerchenbreite 1-5c	38889	Blankenburg (Harz)	51.806452	10.941755	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1103563	nonoxx pro	Parkplatz Schwimmhalle	Weinbergstr. 1	38855	Wernigerode	51.836923	10.769543	1	24/7	Keine Beschränkung	DE*WER*E01*027*01~TYPE2:22|DE*WER*E01*027*02~TYPE2:22
+1103564	nonoxx pro	Am Auerhahn	Ilsenburger Str. 9	38855	Wernigerode	51.834408	10.778102	1	24/7	Keine Beschränkung	DE*WER*E01*026*01~TYPE2:22|DE*WER*E01*026*02~TYPE2:22
+1103615	nonoxx pro	Parkplatz Marktstraße	Johann-Sebastian-Bach-Str. 6	38855	Wernigerode	51.831143	10.788548	1	24/7	Keine Beschränkung	DE*WER*E01*028*01~TYPE2:22|DE*WER*E01*028*02~TYPE2:22
+1109513	Intrasol GmbH		Karl-Meyer-Str. 16	99734	Nordhausen	51.501773	10.820251	1			~TYPE2_TETHERED:24|~CCS2:20+CHADEMO:20
+1110465	Eckehard Peter Paul Meitz		Nordhäuser Str. 48	99755	Ellrich	51.583977	10.665642	1			~TYPE2:22
+1113176	Jochen Borchers PV		Fleischerweg 12	38667	Bad Harzburg	51.907624	10.516883	1			~TYPE2:11|~TYPE2:11
+1113177	Ivonne Borchers PV		Planstrasse 8	38667	Bad Harzburg	51.909735	10.521257	1			~TYPE2:11|~TYPE2:11
+1113567	Silvanus		Bergstraße 13	37441	Bad Sachsa / Steina	51.592315	10.520306	1			~TYPE2:11|~TYPE2:11
+1114213	Wernigeröder Wohnungsgenossenschaft eG		Ilsenburger Straße 42c	38855	Wernigerode	51.838180	10.772670	1			~TYPE2:22|~TYPE2:22
+1114214	Wernigeröder Wohnungsgenossenschaft eG		Schreiberstraße 3	38855	Wernigerode	51.840310	10.791320	1			~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1114215	Wernigeröder Wohnungsgenossenschaft eG		Ilsenburger Straße 42c	38855	Wernigerode	51.838040	10.772750	1			~TYPE2:11|~TYPE2:11
+1114281	Punkt & Komma GmbH & Co. KG		Am Jermerstein 15-19	38700	Braunlage	51.731106	10.603332	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114419	Ingenieurgesellschaft Meinhardt Fulst GmbH		Kaiserstraße 18	38690	Goslar	51.952470	10.563850	1			~TYPE2:22|~TYPE2:22
+1117964	Wernigeröder Wohnungsgenossenschaft eG	Georgiistraße 20	Georgiistr. 20	38855	Wernigerode	51.837815	10.776862	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1119689	nonoxx pro	Kloster	Hauptstr. 0	38871	Ilsenburg (Harz)	51.856579	10.715995	1	24/7	Keine Beschränkung	DE*WER*E01*029*01~TYPE2:22|DE*WER*E01*029*02~TYPE2:22
+1121037	MER Germany	Blankenburg (DE*MER*E016829)	Theaterstr. 8	38889	Blankenburg (Harz)	51.791356	10.954348	1	24/7	Keine Beschränkung	DE*MER*E016829*01~CCS2:400|DE*MER*E016829*02~CCS2:400|DE*MER*E016859*01~CCS2:400|DE*MER*E016859*02~CCS2:400|DE*MER*E016889*01~CCS2:400|DE*MER*E016889*02~CCS2:400|DE*MER*E016919*01~CCS2:400|DE*MER*E016919*02~CCS2:400
+1126626	TEAG Mobil GmbH	Bad Sachsa - EDEKA	Sachsensteinstr. 2-6	37441	Bad Sachsa	51.591284	10.569064	1	24/7	Keine Beschränkung	DE*TMO*E11*429*001~CCS2:50|DE*TMO*E11*429*002~CCS2:50
+1128635	nonoxx pro	Parkplatz Krankenhaus	Ilsenburger Str. 15	38855	Wernigerode	51.836650	10.773220	1	24/7	Keine Beschränkung	DE*WER*E01*031*01~TYPE2:22|DE*WER*E01*031*02~TYPE2:22|DE*WER*E01*031*03~TYPE2:22|DE*WER*E01*031*04~TYPE2:22
+1130954	CUBOS Service GmbH	6662	Straße der Opfer des Faschismus 44	99734	Nordhausen	51.519021	10.769908	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1135203	nonoxx pro	Pappelweg	Pappelweg 32a-c	38855	Wernigerode	51.844080	10.786310	1	24/7	Keine Beschränkung	DE*WER*E01*030*01~TYPE2:22|DE*WER*E01*030*02~TYPE2:22
+1136242	Circle K Deutschland	Wernigerode	Am Anger 1	38855	Wernigerode	51.837856	10.795217	1	24/7	Keine Beschränkung	Serialnumber HYC400-24BZ4674D~CCS2:400+CHADEMO:100|Serialnumber HYC400-24BZ4674D~CCS2:400|Serialnumber HYC400-24BZ4675D~CCS2:400|Serialnumber HYC400-24BZ4675D~CCS2:400
+1136514	TEAG Mobil GmbH	Nordhausen - Gedenkstätte Mittelbau-Dora	Kohnsteinweg 20	99734	Nordhausen	51.535408	10.752796	1	24/7	Keine Beschränkung	DE*TMO*E11*436*001~CCS2:50|DE*TMO*E11*436*002~CCS2:50
+1136604	TEAG Mobil GmbH	Braunlage - Hexenritt	Große Wurmbergstr. 4	38700	Braunlage	51.750988	10.630435	1	24/7	Keine Beschränkung	DE*TMO*E11*370*001~CCS2:50|DE*TMO*E11*370*002~CCS2:50|DE*TMO*E11*370*003~CCS2:50|DE*TMO*E11*370*004~CCS2:50
+1137254	EnBW mobility+ AG und Co.KG	REWE Goslar, Wiedelaher Straße	Wiedelaher Straße 10	38690	Goslar	51.954923	10.567291	1	24/7	Keine Beschränkung	DE*EBW*E911619*1~CCS2:300|DE*EBW*E911619*2~CCS2:300
+1137399	Nicole und Timo Weckman Grundstücksgemeinschaft GbR		Schützenstr. 3	38700	Braunlage	51.719460	10.611840	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1139041	Klinik Dr. Barner gGmbH		Dr.-Barner-Str. 1	38700	Braunlage	51.729590	10.617613	1		Nur für Kunden/Besucher	DE*ONE*E82RZ~TYPE2:11|DE*ONE*EPE2B~TYPE2:11
+1139370	Klinik Dr. Barner gGmbH		Dr.-Barner-Str. 1	38700	Braunlage	51.728900	10.617000	1		Nur für Kunden/Besucher	DE*ONE*ENF6G~TYPE2:11|DE*ONE*EV4E4~TYPE2:11
+1141208	Wattif Europe GmbH	Blankenburg Netto Karl-Zerbst-Straße 28 e	Karl-Zerbst-Str. 28e	38889	Blankenburg (Harz)	51.802023	10.949109	1	24/7	Keine Beschränkung	DE*WAT*EW049290001~TYPE2:22
+1141707	EDEKA-MIHA Charge GmbH		An der Zuckerfabrik 3	38835	Osterwieck	51.967620	10.722235	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1143887	Wernigeröder Wohnungsgenossenschaft eG	Ärztehaus Ilsenburger Straße	Ilsenburger Str. 40	38855	Wernigerode	51.837180	10.773260	1	24/7	Keine Beschränkung	EM6JL~TYPE2:22|E8MV3~TYPE2:22
+1144468	Pluq		Markt 6	06536	Südharz	51.573052	10.954927	1	24/7	Keine Beschränkung	DE*EFL*EV6494137*C1~TYPE2:22|DE*EFL*EV6494137*C2~TYPE2:22
+1145165	Stadtwerke Blankenburg GmbH	Blauvogel Ferienpark	Blauvogel 1	38899	Hasselfelde	51.676251	10.835726	1	24/7	Keine Beschränkung	DE*MSU*ESWBL*CO17*01~TYPE2:22|DE*MSU*ESWBL*CO17*02~TYPE2:22
+1147969	Vattenfall Smarter Living GmbH		Am Steinkreis 2	38871	Ilsenburg (Harz)	51.848364	10.737610	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1149857	autostrom.plus	Regensteinblick Süd	Blankenburger Str. 0	38855	Wernigerode	51.839280	10.884517	1	24/7	Keine Beschränkung	DE*AUP*E13701*01~CCS2:400|DE*AUP*E13701*02~CCS2:400|DE*AUP*E13702*01~CCS2:400|DE*AUP*E13702*02~CCS2:400
+1152019	Wirelane GmbH		Marktplatz 2	38855	Wernigerode	51.832701	10.783020	1		Keine Beschränkung	DE*WLN*ES001485~TYPE2:11|DE*WLN*ES001486~TYPE2:11|DE*WLN*ES001487~TYPE2:11|DE*WLN*ES001488~TYPE2:11
+1153148	TEAG Mobil GmbH	St. Andreasberg - Parkplatz am Kirchplatz	Glückauf-Weg 0	37444	St. Andreasberg	51.710129	10.520181	1	24/7	Keine Beschränkung	DE*TMO*E11*402*001~CCS2:50|DE*TMO*E11*402*002~CCS2:50|DE*TMO*E11*402*003~CCS2:50|DE*TMO*E11*402*004~CCS2:50
+1153391	Shell Deutschland GmbH	OBN 3461 Shell Tankstelle Wernigerode Ilsenburger Str. 70	Ilsenburger Str. 70	38855	Wernigerode	51.837965	10.769288	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1154181	autostrom.plus	Regensteinblick Nord - A36 - Fahrtr. Braunschweig (136)	Blankenburger Str. 0	38855	Wernigerode	51.840371	10.885769	1	24/7	Nur für Kunden/Besucher	DE*AUP*E13601*01~CCS2:400|DE*AUP*E13601*02~CCS2:400
+1154182	autostrom.plus	Regensteinblick Nord - A36 - Fahrtr. Braunschweig (136)	Blankenburger Str. 0	38855	Wernigerode	51.840362	10.885893	1	24/7	Nur für Kunden/Besucher	DE*AUP*E13602*01~CCS2:400|DE*AUP*E13602*02~CCS2:400
+1154882	Autohaus Wernigerode GmbH		Dornbergsweg 45	38855	Wernigerode	51.852425	10.789513	1	24/7	Keine Beschränkung	DK*MON*E5873493~CCS2:80|DK*MON*E5873551~CCS2:80
+1156356	Wirelane GmbH	Brauner Hirsch Osterwieck GmbH	Stephanikirchgasse 1	38835	Osterwieck	51.971841	10.708732	1		Keine Beschränkung	DE*WLN*ES000224~TYPE2:4|DE*WLN*ES000225~TYPE2:4
+1156431	Wirelane GmbH	Parkhotel Bad Harzburg	Hindenburgring 12A	38667	Bad Harzburg	51.877075	10.553857	1		Keine Beschränkung	DE*WLN*ES000365~TYPE2:11|DE*WLN*ES000366~TYPE2:11|DE*WLN*ES000363~TYPE2:11|DE*WLN*ES000364~TYPE2:11
+1157596	EnBW mobility+ AG und Co.KG	Saller Blankenburg, 38889 Blankenburg, Lerchenbreite 1-5a	Lerchenbreite 1-5a	38889	Blankenburg (Harz)	51.806716	10.942843	1	24/7	Keine Beschränkung	DE*EBW*E911424*1~CCS2:400|DE*EBW*E911424*2~CCS2:400|DE*EBW*E910526*1~CCS2:400|DE*EBW*E910526*2~CCS2:400|DE*EBW*E910374*1~CCS2:400|DE*EBW*E910374*2~CCS2:400|DE*EBW*E910527*1~CCS2:200|DE*EBW*E910527*2~CCS2:200|DE*EBW*E910513*1~CCS2:200|DE*EBW*E910513*2~CCS2:200|DE*EBW*E911413*1~CCS2:200|DE*EBW*E911413*2~CCS2:200
+1158642	Harz Energie GmbH & Co. KG	Neuhof am Kranichteich	Am Kranichteich 9	37441	Bad Sachsa	51.574930	10.578230	1	24/7	Keine Beschränkung	DEHEGE004101~TYPE2:22|DEHEGE004102~TYPE2:22
+1160263	WELLER	WELLER Wernigerode	Waldhofstr. 19	38855	Wernigerode	51.837932	10.779023	1	Mo-Fr 08:00-17:00, Sa 09:00-11:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1163640	TEAG Mobil GmbH	Nordhausen - EDEKA Schäfer	Dr.-Robert-Koch-Str. 3	99734	Nordhausen	51.515056	10.800844	1		Keine Beschränkung	DE*TMO*E11*460*001~CCS2:150|DE*TMO*E11*460*002~CCS2:150
+1164846	Electra Germany GmbH	Nordhausen - Netto Gerhart-Hauptmann-Straße	Gerhart-Hauptmann-Str. 7	99734	Nordhausen	51.508393	10.781968	1	24/7	Keine Beschränkung	DE*ELD*EMNX5~CCS2:300|DE*ELD*EUQSG~CCS2:300|DE*ELD*ELZTM~CCS2:300|DE*ELD*E2G8W~CCS2:300

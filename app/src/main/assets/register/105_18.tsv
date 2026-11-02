@@ -1,0 +1,196 @@
+1011401	Comfort Charge		Heemser Weg 38	31582	Nienburg (Weser)	52.668944	9.253389	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1016317	Avacon AG		Weserstraße 1	27318	Hoya	52.804690	9.142780	1			~TYPE2:22|~TYPE2:22
+1016328	Avacon AG		Carl-Schütte-Strasse 12	31582	Nienburg	52.637860	9.210699	1			~TYPE2:22|~TYPE2:22
+1016336	Avacon AG		Hoyaer Straße 27	31608	Marklohe	52.664814	9.157402	1			~TYPE2:22|~TYPE2:22
+1016341	Avacon AG		Schloßplatz 2	27318	Hoya	52.806410	9.146460	1			~TYPE2:22|~TYPE2:22
+1016346	Avacon AG		Alexanderweg 70-72	27318	Eystrup	52.783290	9.229629	1			~TYPE2:22|~TYPE2:22
+1016371	Avacon AG		Alte Heerstraße 23	27330	Asendorf	52.768860	9.005990	1			~TYPE2:22|~TYPE2:22
+1016373	Avacon AG		Hoyaer Straße 13	27327	Schwarme	52.895340	9.021110	1			~TYPE2:22|~TYPE2:22
+1016374	Avacon AG		Schulstraße 1	27327	Martfeld	52.874970	9.063580	1			~TYPE2:22|~TYPE2:22
+1016381	Avacon AG		Bahnhofstraße 53	27324	Eystrup	52.781320	9.224590	1			~TYPE2:22|~TYPE2:22
+1019364	MER Germany	Steimbke (DE*MER*E006332)	Stöckser Str. 4	31634	Steimbke	52.654871	9.389019	1	24/7	Keine Beschränkung	DE*MER*E006332*01~CCS2:50|DE*MER*E006332*02~CCS2:50
+1019386	MER Germany	Verden (DE*MER*E006542)	Reeperbahn 10	27283	Verden (Aller)	52.921965	9.226749	1	24/7	Keine Beschränkung	DE*MER*E006542*01~TYPE2:22|DE*MER*E006542*02~TYPE2:22
+1021716	EWE Go GmbH	McD_0532	Celler Str. 1	31582	Nienburg (Weser)	52.652883	9.218490	1	24/7	Keine Beschränkung	DE*2GO*EMCD0532*1A*1~CCS2:150|DE*2GO*EMCD0532*1A*2~CCS2:150
+1021976	EWE Go GmbH		Hauptstr. 23	27327	Martfeld	52.876670	9.062750	1			~TYPE2:22|~TYPE2:22
+1022117	EWE Go GmbH		Hamburger Str. 55	27283	Verden	52.948397	9.233354	1			~CCS2:300|~CCS2:300
+1026159	EnBW mobility+ AG und Co.KG		Goldbach Süd 0	27299	Langenwedel	52.998706	9.180830	1			~CCS2:300|~CCS2:300
+1029068	EDEKA-MIHA Charge GmbH		Verdener Landstraße 55	31582	Nienburg/Weser	52.653583	9.217986	1			~TYPE2:22|~CCS2:50
+1029069	EDEKA-MIHA Charge GmbH		Verdener Landstraße 55	31582	Nienburg/Weser	52.653536	9.217963	1			~TYPE2:22|~CCS2:50
+1029070	EDEKA-MIHA Charge GmbH		Verdener Landstraße 55	31582	Nienburg/Weser	52.653491	9.217944	1			~TYPE2:22|~CCS2:50
+1029091	EDEKA-MIHA Charge GmbH		Hauptstraße 3	27308	Kirchlinteln	52.939878	9.316660	1			~TYPE2:11|~TYPE2:11
+1029103	EDEKA-MIHA Charge GmbH		Bürgermeister-Heuvemann-Straße 1	29690	Stolzenau	52.511251	9.060493	1			~CCS2:50|~TYPE2:22
+1029104	EDEKA-MIHA Charge GmbH		Bürgermeister-Heuvemann-Straße 1	29690	Stolzenau	52.511206	9.060491	1			~CCS2:50|~TYPE2:22
+1029107	EDEKA-MIHA Charge GmbH		Altenfelder Weg 9-11	27330	Asendorf	52.778427	9.002084	1			~CCS2:50|~TYPE2:22
+1029181	EDEKA-MIHA Charge GmbH		Syker Straße 14	27321	Thedinghausen	52.960941	9.019531	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1032049	TotalEnergies Charging Solutions		Kräher Weg 33	31582	Nienburg/Weser	52.641358	9.234923	1			~CCS2:50|~TYPE2:22
+1032210	TotalEnergies		Große Brinkstraße 12	31592	Stolzenau	52.526139	9.079010	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038379	Hotel-Gasthaus "Zur Linde"		Zum Bergfeld 5	27308	Kirchlinteln	52.887898	9.365031	1			~TYPE2:11|~TYPE2:11
+1038520	Thöles Betriebs GmbH		Reeperbahn 1	27283	Verden	52.920416	9.227136	1			~TYPE2:22|~TYPE2:22
+1038521	Thöles Betriebs GmbH		Hoyaer Straße 33	27333	Bücken	52.785178	9.133174	1			~TYPE2:22|~TYPE2:22
+1039646	IONITY GmbH		Goldbach Süd 0	27299	Langwedel	52.998531	9.181213	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E206005~CCS2:350|DE*IOY*E206006~CCS2:350
+1043411	Allego		Max-Planck-Str. 1	27283	Verden	52.913786	9.252549	1			DEALLEGO002773*1~CCS2:150|DEALLEGO002773*2~CCS2:150
+1043573	Allego		Hamburger Str. 58	27283	Verden (Aller)	52.949320	9.235026	1		Keine Beschränkung	DEALLEGO002933*1~CCS2:150|DEALLEGO002933*2~CCS2:150
+1043597	Allego		Im Meerbachbogen 2	31582	Nienburg (Weser)	52.638019	9.220892	1	24/7	Keine Beschränkung	DEALLEGO003121*1~CCS2:150|DEALLEGO003121*2~CCS2:150
+1048499	Lidl		Auf dem Kuhkamp 26	27318	Hoya	52.811990	9.138792	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:43+CCS2:43|~TYPE2_TETHERED:43+CHADEMO:43
+1048501	Lidl		Berliner Ring 1	27283	Verden	52.921015	9.251471	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:43+CCS2:43|~TYPE2_TETHERED:43+CHADEMO:43
+1048985	Lidl		Göttinger Str. 1	31582	Nienburg (Weser)	52.633841	9.221567	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1051193	Nienburg Energie GmbH		Bahnhofstr. 9	31582	Nienburg	52.645830	9.215000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051199	Nienburg Energie GmbH		Mühlenstr. 0	31582	Nienburg	52.637564	9.205270	1			~TYPE2:22|~TYPE2:22
+1051201	Nienburg Energie GmbH		Hannoversche Straße 75	31582	Nienburg	52.628790	9.222134	1			~TYPE2:22|~TYPE2:22
+1051202	Nienburg Energie GmbH		Autohaus Südring 2	31582	Nienburg	52.619650	9.202039	1			~TYPE2:22|~TYPE2:22
+1051203	Nienburg Energie GmbH		Amalie-Thomas-Platz 0	31582	Nienburg	52.635472	9.223108	1			~TYPE2:22|~TYPE2:22
+1051204	Nienburg Energie GmbH		Grüner Jäger 29	27324	Hassel	52.806403	9.195927	1			~TYPE2:22|~TYPE2:22
+1051205	Nienburg Energie GmbH		Am Hafen 0	31582	Nienburg	52.643325	9.207239	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051206	Nienburg Energie GmbH		Neue Straße 2	31582	Nienburg	52.638124	9.205080	1			~TYPE2:22|~TYPE2:22
+1051207	Nienburg Energie GmbH		Celler Straße 1	31582	Nienburg	52.652740	9.218232	1			~TYPE2:22|~TYPE2:22
+1051208	Nienburg Energie GmbH		Mühlentorsweg 6	31582	Nienburg	52.634964	9.207100	1			~TYPE2:22|~TYPE2:22
+1051209	Nienburg Energie GmbH		Celler Straße 112	31582	Nienburg	52.660185	9.237164	1			~TYPE2:22|~TYPE2:22
+1051210	Nienburg Energie GmbH		Schlossplatz 1	31582	Nienburg	52.641783	9.205962	1			~TYPE2:22|~TYPE2:22
+1051211	Nienburg Energie GmbH		Mühlenplatz 0	31628	Landesbergen	52.560088	9.125144	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051213	Nienburg Energie GmbH		Fichtestraße 19-21	31582	Nienburg	52.657583	9.224214	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051214	Nienburg Energie GmbH		Hafenstraße 4-6	31582	Nienburg	52.641896	9.208680	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051418	MER Germany		Nienburger Damm 8	31582	Nienburg	52.623786	9.237174	1			~CCS2:145|~CCS2:62+CHADEMO:62|~TYPE2:22
+1051419	MER Germany		Lange-Straße 21	31595	Steyerberg	52.567618	9.021840	1			~CCS2:50|~TYPE2:22+CHADEMO:22
+1051540	MER Germany		Verdener Landstraße 2	31623	Drakenburg	52.689249	9.233946	1			~TYPE2:22|~CCS2:50
+1051901	MER Germany		Weserstraße 26	27283	Verden	52.930543	9.225944	1			~TYPE2:22|~TYPE2:22
+1052615	Ladesonne		Steinfeld 9	27308	Kirchlinteln	52.844003	9.346383	1			~TYPE2:22|~TYPE2:22
+1052617	Ladesonne		Eschweg 20	27308	Kirchlinteln-Otersen	52.844926	9.344614	1			~TYPE2_TETHERED:22
+1052634	Ladesonne		Eilveser Hauptstraße 23	31535	Neustadt	52.546200	9.414800	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052640	Ladesonne		Armsener Dorfstraße 48	27308	Kirchlinteln-Otersen	52.893190	9.341200	1			~TYPE2_TETHERED:11
+1052641	Ladesonne		Armsener Dorfstraße 48	27308	Kirchlinteln-Otersen	52.892800	9.342000	1			~TYPE2_TETHERED:11
+1052649	Ladesonne		Großer Weg 17	31535	Neustadt am Rübenberge	52.510800	9.460550	1			~CCS2:50|~CCS2:50
+1052650	Ladesonne		Großer Weg 17	31535	Neustadt am Rübenberge	52.510850	9.460760	1			~TYPE2:11
+1053237	Charge Construct GmbH		Elitzer Straße 215	27283	Verden	52.909929	9.257374	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1054687	Aral Pulse		Achimer Straße 4-4b	27283	Verden a.d. Aller	52.950150	9.234330	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1057240	nonoxx pro		Am Rathaus 1	27299	Langwedel	52.977058	9.183703	1			~TYPE2:22|~TYPE2:22
+1059248	AGRAVIS		Auf dem Rövekamp 11	27321	Thedinghausen	52.962875	9.023485	1			~CCS2:150|~CCS2:150
+1061564	Allego		Allee 4	31592	Stolzenau	52.512630	9.076930	1	24/7	Keine Beschränkung	DEALLEGO002805_1~CCS2:150|DEALLEGO002805_2~CCS2:150
+1064357	Kaufland	3850_Kland_Verden_T65-IT1-2922-059	Schulstr. 22	27283	Verden (Aller)	52.952576	9.236029	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1065282	Ladesonne	Neustadt - B.B. Reifenservice	Mecklenhorster Str. 22	31535	Neustadt am Rübenberge	52.504220	9.476942	1	24/7	Keine Beschränkung	DE*LDS*E1042*1~CCS2:50|DE*LDS*E1041*2~CCS2:50
+1066136	reCHARGEon		Heinrich-Schröder-Weg 5-7	27283	Verden	52.933730	9.273580	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1066149	reCHARGEon		Heinrich-Schröder-Weg 5-7	27283	Verden	52.933650	9.273710	1			~TYPE2:22
+1066150	reCHARGEon		Heinrich-Schröder-Weg 5-7	27283	Verden	52.933640	9.273720	1			~TYPE2:22
+1066151	reCHARGEon		Heinrich-Schröder-Weg 5-7	27283	Verden	52.933600	9.273800	1			~TYPE2:22|~TYPE2:22
+1066153	reCHARGEon		Heinrich-Schröder-Weg 5-7	27283	Verden	52.933560	9.273870	1			~TYPE2:22
+1067307	Netto Marken-Discount Stiftung & Co. KG		Artilleriestr. 4	27283	Verden (Aller)	52.926530	9.247570	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1068559	Jörg Hillmer		Täubnerstr. 23	31592	Stozenau	52.515803	9.070122	1			~TYPE2:11
+1068906	Heiko Römke		Wacholderweg 6	31628	Landesbergen	52.556137	9.128028	1			~TYPE2_TETHERED:3.6
+1069261	Kreissparkasse Verden		Ostertorstraße 16	27283	Verden	52.920984	9.232752	1			~TYPE2:22|~TYPE2:22
+1070427	Kirche Etelsen		Am Denkmal 6	27299	Langwedel	52.996497	9.121305	1			~TYPE2:22+SCHUKO:22
+1071541	Christoph Thürey		Ritterallee 20	27308	Kirchlinteln	52.936030	9.309640	1			~TYPE2_TETHERED:11
+1074615	Autohaus Becker-Tiemann Minden-Lübbecke GmbH & Co. KG		Windmühlenstr. 19	31592	Stolzenau	52.510100	9.064090	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074695	Stadtwerke Verden GmbH		Saumurplatz 0	27283	Verden	52.923757	9.257316	1			~TYPE2:22|~TYPE2:22
+1074696	Stadtwerke Verden GmbH		Reeperbahn 0	27283	Verden	52.921281	9.227106	1			~TYPE2:22|~TYPE2:22
+1074697	Stadtwerke Verden GmbH		Mainstraße 1	27283	Verden	52.935408	9.228472	1			~TYPE2:22|~TYPE2:22
+1074698	Stadtwerke Verden GmbH		Warwickplatz 0	27283	Verden	52.926423	9.248975	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1074700	Stadtwerke Verden GmbH		Warwickplatz 0	27283	Verden	52.926455	9.249107	1			~TYPE2:22|~TYPE2:22
+1074701	Stadtwerke Verden GmbH		Bahnhofstraße 0	27283	Verden	52.921928	9.237010	1			~TYPE2:22|~TYPE2:22
+1074702	Stadtwerke Verden GmbH		Moorstraße 2A	27283	Verden	52.916667	9.241157	1			~TYPE2:22|~TYPE2:22
+1074703	Stadtwerke Verden GmbH		Rheinstraße 3	27283	Verden	52.933782	9.228580	1			~TYPE2:22|~TYPE2:22
+1074704	Stadtwerke Verden GmbH		Schleppenföhrerstraße 12	27283	Verden	52.919974	9.232019	1			~TYPE2:22|~TYPE2:22
+1074705	Stadtwerke Verden GmbH		Weserstraße 26	27283	Verden	52.930544	9.225487	1			~TYPE2:22|~TYPE2:22
+1074706	Stadtwerke Verden GmbH		Weserstraße 26	27283	Verden	52.930531	9.225421	1			~TYPE2:22|~TYPE2:22
+1074707	Stadtwerke Verden GmbH		Reeperbahn 10	27283	Verden	52.921965	9.226749	1			~TYPE2:22|~TYPE2:22
+1075758	Golf Club Verden e.V.		Holtumer Straße 24	27283	Verden	52.976927	9.269583	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1076481	Autohaus am Damm GmbH		Nienburger Damm 8	31582	Nienburg	52.622856	9.240446	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:75+CHADEMO:75
+1081305	Cloppenburg GmbH		Industriestr. 8-10	27283	Verden/Aller	52.940000	9.230000	1			~TYPE2:22|~TYPE2:22
+1084699	Andreas Trai		Im Kampe 11	31622	Heemsen	52.707618	9.259491	1			~TYPE2:11
+1084853	Autohaus Südring GmbH		Brombeerweg 14	31582	Nienburg/Weser	52.627190	9.228284	1			~TYPE2_TETHERED:11
+1084854	Autohaus Südring GmbH		Südring 2	31582	Nienburg (Weser)	52.619981	9.201262	1	24/7	Keine Beschränkung	~CCS2:22|~TYPE2_TETHERED:11
+1085196	Christopher Hahn		Nöpker Straße 1	31535	Neustadt am Rübenberge	52.592504	9.400128	1			~TYPE2_TETHERED:11|~TYPE2:11
+1085267	Daniel Müller		Bgm-Rippe-Str. 20	27321	Thedinghausen	52.962275	9.020875	1			~TYPE2:22
+1085409	Dirk Maß		Hubertusweg 3A	31608	Marklohe	52.669280	9.140822	1			~TYPE2:11|~TYPE2:11
+1086406	Kai Märtens		Wacholderweg 8	31628	Landesbergen	52.555930	9.127846	1			~TYPE2_TETHERED:22
+1086434	Karsten Bultmann		Ernstingstraße 47	31582	Nienburg/Weser	52.638092	9.208416	1			~TYPE2_TETHERED:11
+1086737	Marcus Tamme		Diers Kamp 27	27327	Martfeld	52.876049	9.060823	1			~TYPE2_TETHERED:10
+1086826	Markus Wehrenberg		An der Bleiche 7	31592	Stolzenau	52.509978	9.068256	1			~TYPE2_TETHERED:11
+1087304	Paul Scharke		Edelhof 13	27321	Thedinghausen	52.951970	9.082635	1			~TYPE2:11|~TYPE2:11
+1087352	Philipp Fröhling		An der Schleifmühle 10	31608	Marklohe	52.669270	9.147081	1			~TYPE2_TETHERED:22
+1087375	Pierre Koch		Am Meerbach 23	31582	Nienburg/Weser	52.634531	9.231374	1			~TYPE2:22
+1088064	Thomas Hummer		Triftweg 17	31623	Drakenburg	52.687374	9.217560	1			~TYPE2:11
+1088256	Torsten Schomburg		Hauptstraße 17	31619	Binnen	52.619326	9.131890	1			~TYPE2:11
+1088417	Wilhelm Winsemann		Lindenweg 13	27337	Blender	52.924893	9.130662	1			~TYPE2:3
+1088618	Comfort Charge	Nienburg, CC_31_0018	Kleine Drakenburger Str. 7	31582	Nienburg (Weser)	52.644930	9.208370	1	24/7	Keine Beschränkung	DECCH*ECCH2300012DLT*1~CCS2:200|DECCH*ECCH2300012DLT*2~CCS2:200
+1089978	Autohaus Gerd Hoyer GmbH	Hoyer GmbH Nienburg - AC/DC - DE*DES*E1004094	Kräher Weg 33	31582	Nienburg (Weser)	52.641358	9.234923	1		Keine Beschränkung	DE*DES*E1004094*1~CCS2:50|DE*DES*E1004094*2~TYPE2:22
+1090083	IKN GmbH	IKN Verwaltung	Herzog-Erich-Allee 1	31535	Neustadt am Rübenberge	52.502772	9.459818	1	Fr 18:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	DE*ONE*E95YA~TYPE2:11|DE*ONE*E9NZM~TYPE2:11|DE*ONE*E6PW1~TYPE2:11|DE*ONE*ER7SJ~TYPE2:11|DE*ONE*EQA4E~TYPE2:11|DE*ONE*E9K6S~TYPE2:11|DE*ONE*EVP18~TYPE2:11|DE*ONE*E2ZGQ~TYPE2:11
+1091384	Stadtwerke Neustadt		Mecklenhorster Str. 13	31535	Neustadt a. Rbge.	52.504211	9.474719	1			~TYPE2:22|~TYPE2:22
+1091385	Stadtwerke Neustadt		An der Eisenbahn 18	31535	Neustadt a. Rbge.	52.500672	9.454405	1			~TYPE2:22
+1091386	Stadtwerke Neustadt		An der Eisenbahn 18	31535	Neustadt am Rübenberge	52.500922	9.454937	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091387	Stadtwerke Neustadt		An der Eisenbahn 18	31535	Neustadt am Rübenberge	52.500412	9.454615	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091389	Stadtwerke Neustadt		An der Eisenbahn 18	31535	Neustadt am Rübenberge	52.500519	9.454431	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091390	Stadtwerke Neustadt		An der Eisenbahn 18	31535	Neustadt am Rübenberge	52.500507	9.454304	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091391	Stadtwerke Neustadt		Zur Kirche 10	31535	Neustadt am Rübenberge	52.576766	9.426658	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091392	Stadtwerke Neustadt		Justus-von-Liebig-Str. 3	31535	Neustadt am Rübenberge	52.504117	9.480051	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091394	Stadtwerke Neustadt		Königsberger Str. 59	31535	Neustadt am Rübenberge	52.511423	9.449825	1	Mo-Sa 07:00-21:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1091395	Stadtwerke Neustadt		Königsberger Str. 59	31535	Neustadt am Rübenberge	52.511451	9.449784	1	Mo-Sa 07:00-21:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1091396	Stadtwerke Neustadt		Justus-von-Liebig-Str. 1	31535	Neustadt am Rübenberge	52.504091	9.479910	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091399	Stadtwerke Neustadt	Parkdeck 2 City-Parkhaus	Wallgraben 2	31535	Neustadt am Rübenberge	52.505511	9.458364	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1091401	Stadtwerke Neustadt		Am Walle 13	31535	Neustadt a. Rbge.	52.506740	9.460250	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091403	Stadtwerke Neustadt		Leinstr. 87	31535	Neustadt am Rübenberge	52.515650	9.462370	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091404	Stadtwerke Neustadt		Zum Puddelwerk 7	31535	Neustadt a. Rbge.	52.500060	9.440190	1			~TYPE2:22|~TYPE2:22
+1091405	Stadtwerke Neustadt	Zum Puddelwerk	Zum Puddelwerk 7	31535	Neustadt am Rübenberge	52.500140	9.440150	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092911	Fritz Ohlmeyer GmbH		Bahnhofstr 9	27333	Bücken	52.775220	9.151700	1			~TYPE2:22|~TYPE2:22
+1093048	Mühlenberg-Solar Einzelunternehmen		Mühlenberg 24	27283	Verden	52.918915	9.240799	1			~TYPE2_TETHERED:11
+1093118	NaturEnergie Region Hannover eG		Balschenweg 6	31535	Neustadt am Rübenberge	52.549170	9.417993	1			~TYPE2:22
+1096694	Autohaus Grünhagen GmbH & Co KG		Auf dem Kuhkamp 3	27318	Hoya	52.809733	9.135631	1			~CCS2:22|~TYPE2:11
+1097079	Autohaus Südring GmbH		Südring 2	31582	Nienburg/Weser	52.620124	9.201916	1			~TYPE2:11|~CCS2:22
+1097823	go2zero	Hotel-Restaurant Allerhof	Lindenallee 4	27336	Frankenfeld	52.764238	9.455909	1	24/7	Nur für Kunden/Besucher	DE*GO2*E4984308~TYPE2:22|DE*GO2*E4984310~TYPE2:22
+1103350	EDEKA-MIHA Charge GmbH		Herrlichkeit 17	31613	Wietzen	52.710854	9.074771	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1103572	Ladesonne	Neustadt - EH45 - Eilvese3	Eilveser Hauptstr. 45	31535	Neustadt am Rübenberge	52.545656	9.408900	1	24/7	Keine Beschränkung	DE*LDS*E1067*1~CCS2:300|DE*LDS*E1067*2~CCS2:300
+1104288	Gemeinde Dörverden		Große Str. 80	27313	Dörverden	52.846460	9.226340	1			~TYPE2:22|~TYPE2:22
+1104321	Stadt Rethem (Aller)		Amts-Hauptmann-Jordan-Platz 0	27336	Rethem	52.785390	9.378120	1			~TYPE2:22
+1104322	Stadt Rethem (Aller)		Rathaus-Vorplatz 0	27336	Rethem	52.785410	9.384370	1			~TYPE2:22
+1104361	Gemeinde Kirchlinteln		Am Rathaus 1	27308	Kirchlinteln	52.940460	9.325010	1			~TYPE2:22|~TYPE2:22
+1106347	E.ON Drive GmbH		Schlossplatz 2	27318	Hoya	52.806410	9.146460	1			~TYPE2:22|~TYPE2:22
+1106358	E.ON Drive GmbH		Hoyaer Straße 27	31608	Marklohe	52.664790	9.157440	1			~TYPE2:22|~TYPE2:22
+1106418	E.ON Drive GmbH		Alexanderweg 70-72	27324	Eystrup	52.783306	9.229613	1			~TYPE2:22|~TYPE2:22
+1106481	E.ON Drive GmbH		Carl-Schütte-Straße 12	31582	Nienburg	52.637860	9.210700	1			~TYPE2:22|~TYPE2:22
+1106482	E.ON Drive GmbH		Weserstraße 1	27318	Hoya	52.804690	9.142780	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110018	Christian Lühmann GmbH		Verdener Landstraße 2	31623	drakenburg	52.689505	9.233940	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:42
+1110432	Freqcon GmbH		Hainholzstraße 59	27336	Rethem	52.776543	9.390378	1			~TYPE2_TETHERED:7.4|~TYPE2_TETHERED:7.4|~TYPE2_TETHERED:7.4
+1110433	Freqcon GmbH		Bürgerwiesenweg 5	27336	Rethem	52.777209	9.387842	1			~TYPE2_TETHERED:11
+1113624	Hans-Heinrich Meier Einzelunternehmen		Am Kaarbusch 2	31634	Steimbke	52.679339	9.323398	1			~TYPE2:3.7|~TYPE2:3.7
+1113647	Allerquartier GmbH & Co KG		Klein Hutberger Straße 30	27283	Verden	52.923216	9.217722	1			~TYPE2:22|~TYPE2:22
+1116262	Nienburg Energie GmbH	Feuerwehr Lagendamm	Führser Mühlweg 64-68	31582	Nienburg (Weser)	52.615982	9.264874	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116973	Bäckerei Pomplun		Lange Str. 28	31618	Liebenau	52.604398	9.092906	1	Mo-So 06:00-18:00	Nur für Kunden/Besucher	~CCS2:22
+1117180	Autohaus Anders GmbH		Nienburger Damm 11	31582	Nienburg (Weser)	52.622980	9.240490	1	24/7	Keine Beschränkung	DE*ELW*ELW0025*01~TYPE2:22|DE*ELW*ELW0025*02~TYPE2:22
+1117240	go2zero	Hotel-Restaurant Allerhof	Lindenallee 4	27336	Frankenfeld	52.764653	9.455179	1	24/7	Nur für Kunden/Besucher	DE*GO2*E4984311~TYPE2:22|DE*GO2*E4984312~TYPE2:22
+1117425	Anders Kraftfahrzeuge GmbH		Bertha-Benz-Str. 1	27283	Verden (Aller)	52.954320	9.241610	1	24/7	Keine Beschränkung	DE*ELW*ELW0028*01~TYPE2:22|DE*ELW*ELW0028*02~TYPE2:22
+1118181	autostrom.plus	Rastanlage Hamwiede Nord A27 - Fahrtrichtung Cuxhaven	Hamwiede 0	29664	Walsrode	52.883046	9.474439	1	24/7	Keine Beschränkung	DE*AUP*E07801*01~CCS2:400|DE*AUP*E07801*02~CCS2:400
+1118182	autostrom.plus	Rastanlage Hamwiede Nord A27 - Fahrtichtung Cuxhaven	Hamwiede 0	29664	Walsrode	52.883031	9.474517	1	24/7	Keine Beschränkung	DE*AUP*E07802*01~CCS2:400|DE*AUP*E07802*02~CCS2:400
+1119480	Nienburg Energie GmbH	Kita Alpheide	Dürerring 32	31582	Nienburg (Weser)	52.630120	9.233644	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119735	Nienburg Energie GmbH	Wohngebiet Neißestraße 1	Neißestr. 1	31582	Nienburg (Weser)	52.620550	9.216450	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1119737	Nienburg Energie GmbH	Wohngebiet An der Alpheide	An der Alpheide 73	31582	Nienburg (Weser)	52.628855	9.236259	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1120013	MER Germany	Nienburg (DE*MER*E017498)	An der Alpheide 73	31582	Nienburg (Weser)	52.628572	9.236213	1	24/7	Keine Beschränkung	DE*MER*E017498*01~TYPE2:22|DE*MER*E017498*02~TYPE2:22
+1120014	MER Germany	Nienburg (DE*MER*E017499)	Havelstr. 2	31582	Nienburg (Weser)	52.620605	9.216465	1	24/7	Keine Beschränkung	DE*MER*E017499*01~TYPE2:22|DE*MER*E017499*02~TYPE2:22|DE*MER*E017500*01~TYPE2:22|DE*MER*E017500*02~TYPE2:22
+1120016	MER Germany	Nienburg (DE*MER*E017502)	Dürerring 32	31582	Nienburg (Weser)	52.630120	9.233644	1	24/7	Keine Beschränkung	DE*MER*E017502*01~TYPE2:22|DE*MER*E017502*02~TYPE2:22
+1120531	autostrom.plus	Rastplatz Hamwiede Nord - Fahrtichtung Walsrode (079)	Hamwiede 0	29664	Walsrode	52.886205	9.453249	1	24/7	Keine Beschränkung	DE*AUP*E07901*01~CCS2:400|DE*AUP*E07901*02~CCS2:400
+1120534	autostrom.plus	Rastplatz Hamwiede Süd - Fahrtichtung Walsrode (079)	Hamwiede 0	29664	Walsrode	52.886208	9.453313	1	24/7	Keine Beschränkung	DE*AUP*E07902*01~CCS2:400|DE*AUP*E07902*02~CCS2:400
+1125985	MER Germany	Verden (DE*MER*E007119)	Bremer Str. 4	27283	Verden (Aller)	52.925171	9.228999	1	24/7	Keine Beschränkung	DE*MER*E007119*01~TYPE2:22|DE*MER*E007119*02~TYPE2:22
+1125988	MER Germany	Verden (DE*MER*E017532)	Holzmarkt 7	27283	Verden (Aller)	52.922413	9.235020	1	24/7	Keine Beschränkung	DE*MER*E017532*01~TYPE2:22|DE*MER*E017532*02~TYPE2:22
+1127669	Stadtwerke Verden GmbH		Zollstr. 26	27283	Verden (Aller)	52.925578	9.229665	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1127671	Stadtwerke Verden GmbH		Holzmarkt 0	27283	Verden (Aller)	52.922109	9.234993	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1129380	Stadtwerke Neustadt	Parklpatz am Open-Worke-Space RouvenWERK 22-Links	An der Eisenbahn 19	31535	Neustadt am Rübenberge	52.500067	9.454806	1	24/7	Keine Beschränkung	DE*ISE*EA162642~TYPE2:22|DE*ISE*EA197639~TYPE2:22
+1129381	Stadtwerke Neustadt	Open-Office Rouwen 22	An der Eisenbahn 19	31535	Neustadt am Rübenberge	52.500008	9.454791	1	24/7	Keine Beschränkung	DE*ISE*EA153788~TYPE2:22|DE*ISE*EA195939~TYPE2:22
+1130196	Aral Pulse		Nienburger Str. 1	27283	Verden (Aller)	52.918390	9.220130	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131380	Stadtwerke Neustadt	Bahnhof Neustadt am Rübenberge	An der Eisenbahn 8	31535	Neustadt am Rübenberge	52.502508	9.454650	1	24/7	Keine Beschränkung	DE*ISE*EA112731~TYPE2:22|DE*ISE*EA144787~TYPE2:22
+1132527	GLS Mobility GmbH	CJD Niedersachsen (Zeisigweg 2) DEOMSECA0146	Zeisigweg 2	31582	Nienburg (Weser)	52.645493	9.219765	1	24/7	Keine Beschränkung	DEGLSENICJD0101~TYPE2:11
+1134121	Volker Wolters		Hoher Weg 7	27337	Blender	52.925500	9.129910	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1134358	Vattenfall Smarter Living GmbH		Altes Ölfeld 1	31634	Steimbke	52.654618	9.402745	1	24/7	Keine Beschränkung	~CCS2:120|~CCS2:120|~CCS2:150|~CCS2:150
+1134473	Udo Menze		Kleiner Heideweg 1	31618	Liebenau	52.621710	9.053950	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1138574	Matthäi Energie	Matthäi Verden ZV	Bremer Str. 135	27283	Verden (Aller)	52.937952	9.230790	1	24/7	Keine Beschränkung	DECPIE6993885~CCS2:150|DECPIE6993885~CCS2:150
+1139025	MER Germany	Nienburg (DE*MER*E000420)	Nienburger Damm 8	31582	Nienburg (Weser)	52.622876	9.240442	1	24/7	Keine Beschränkung	DE*MER*E000420*01~TYPE2:22|DE*MER*E000420*02~TYPE2:22|DE*MER*E000420*03~TYPE2:22
+1139381	Oliver Klose	Parkplatz EASYFITNESS Verden	Brunnenweg 1	27283	Verden (Aller)	52.925060	9.236640	1	24/7	Keine Beschränkung	E5ZJV~TYPE2:22|EG7W5~TYPE2:22
+1139619	EnBW mobility+ AG und Co.KG	PENNY Eystrup, Bahnhofstraße 46	Bahnhofstraße 46	27324	Eystrup	52.780568	9.222310	1	24/7	Keine Beschränkung	DE*EBW*E911725*1~CCS2:100|DE*EBW*E911725*2~CCS2:100|DE*EBW*E911576*1~CCS2:100|DE*EBW*E911576*2~CCS2:100
+1140456	Julian Meyer	Ladepunkt Moorweg	Moorweg 13	31618	Liebenau	52.602789	9.086696	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1141046	Autohaus KAHLE Nienburg GmbH		Verdener Landstr. 185	31582	Nienburg/Weser	52.668817	9.223671	1			~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:22
+1143284	Vattenfall Smarter Living GmbH		Am Büschen 1	31627	Rohrsen	52.702925	9.241294	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1144931	Personal Mobility Center Nordwest eG	Feuerwehr Wellie	Stolzenauer Str. 79	31595	Steyerberg	52.572112	9.079211	1	24/7	Keine Beschränkung	DE-PMC~TYPE2:11|DE*PMC~TYPE2:11
+1144933	alex holtzmeyer	heideweg 5	Heideweg 5	31595	Steyerberg	52.583470	9.022870	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11
+1145894	Wilhelm Winsemann		Lindenweg 13	27337	Blender	52.924830	9.130636	1	Mo-Fr 13:00-18:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1149680	Kreissparkasse Verden		Ostertorstr. 16	27283	Verden (Aller)	52.921110	9.232330	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1152291	Jan Richter	Parkplatz vor dem Haus	Kükenmoorer Str. 28	27308	Kirchlinteln	52.939110	9.323100	1	24/7	Keine Beschränkung	E43W6~TYPE2:22
+1154097	MER Germany	Nienburg DE*MER*E0018425	Ziegelkampstr. 7a	31582	Nienburg (Weser)	52.634842	9.217050	1	24/7	Keine Beschränkung	DE*MER*E018425*01~TYPE2:22|DE*MER*E018425*02~TYPE2:22
+1154187	E.ON Drive Infrastructure		Rudolf-Diesel-Ring 30	31535	Neustadt am Rübenberge	52.510952	9.477356	1	24/7	Keine Beschränkung	DE*UFC*E01360*1~CCS2:400|DE*UFC*E01360*2~CCS2:400|DE*UFC*E01429*1~CCS2:400|DE*UFC*E01429*2~CCS2:400|DE*UFC*E01361*1~CCS2:400|DE*UFC*E01361*2~CCS2:400|DE*UFC*E01362*1~CCS2:400|DE*UFC*E01362*2~CCS2:400|DE*UFC*E01393*1~CCS2:400|DE*UFC*E01393*2~CCS2:400|DE*UFC*E01422*1~CCS2:400|DE*UFC*E01422*2~CCS2:400
+1156887	EWE Go GmbH	EWE_7677_1A	Hauptstr. 23	27327	Martfeld	52.876570	9.062773	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1163870	EDEKA-MIHA Charge GmbH		Hauptstr. 3	27308	Kirchlinteln	52.939824	9.317140	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22

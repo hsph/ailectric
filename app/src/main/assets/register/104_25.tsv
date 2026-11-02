@@ -1,0 +1,137 @@
+1004478	Energie und Wasser Potsdam GmbH		Fahrländer Str. 0	14476	Potsdam	52.458920	12.971220	1	24/7	Keine Beschränkung	DE*EWP*E7274*001~TYPE2:22|DE*EWP*E7274*002~TYPE2:22
+1004479	Energie und Wasser Potsdam GmbH		Karl-Liebknecht-Str. 0	14476	Potsdam	52.410720	12.972810	1	24/7	Keine Beschränkung	DE*EWP*E7273*001~TYPE2:22|DE*EWP*E7273*002~TYPE2:22
+1004499	Energie und Wasser Potsdam GmbH		Am Mühlenberg 11	14476	Potsdam	52.413110	12.970593	1	24/7	Keine Beschränkung	DE*EWP*E7420*001~TYPE2:22|DE*EWP*E7420*002~TYPE2:22
+1004502	Energie und Wasser Potsdam GmbH		Zum Bahnübergang 0	14476	Potsdam	52.458867	12.972385	1	24/7	Keine Beschränkung	DE*EWP*E7430*001~CCS2:100|DE*EWP*E7430*002~CCS2:100|DE*EWP*E7431*001~CCS2:100|DE*EWP*E7431*002~CCS2:100|DE*EWP*E7432*001~TYPE2:22|DE*EWP*E7432*002~TYPE2:22|DE*EWP*E7433*001~TYPE2:22|DE*EWP*E7433*002~TYPE2:22|DE*EWP*E7434*001~TYPE2:22|DE*EWP*E7434*002~TYPE2:22
+1009146	Shell Deutschland GmbH		Hauffstr. 34	14548	Schwielowsee	52.363170	12.972580	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1021675	EWE Go GmbH	McD_0841	Obstzüchterstr. 1	14542	Werder (Havel)	52.364558	12.937045	1	24/7	Keine Beschränkung	DE*2GO*EMCD0841*1A*1~CCS2:150|DE*2GO*EMCD0841*1A*2~CCS2:150
+1021946	EWE Go GmbH	McD_0753_1A	Rathenower Landstr. 1	14772	Brandenburg an der Havel	52.433075	12.533196	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1026196	EnBW mobility+ AG und Co.KG		Upstallstraße 3	14772	Brandenburg an der Havel	52.430611	12.550501	1			~CCS2:150|~CCS2:150
+1026583	EnBW mobility+ AG und Co.KG		Hauffstr 41	14548	Schwielowsee	52.363860	12.965440	1			~CCS2:150|~CCS2:150
+1026952	EnBW mobility+ AG und Co.KG		Auf dem Strengfeld 7A	14542	Werder (Havel)	52.362130	12.936190	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1029088	EDEKA-MIHA Charge GmbH		Gördenallee 204	14774	Brandenburg (Havel)	52.424835	12.525177	1			~TYPE2:11|~TYPE2:11
+1029115	EDEKA-MIHA Charge GmbH		Kaltenhausen 81	14797	Kloster Lehnin	52.319994	12.737665	1			~TYPE2:22|~TYPE2:22
+1029197	EDEKA-MIHA Charge GmbH		Weitzgrunder Straße 2	14806	Bad Belzig	52.145170	12.590490	1			~TYPE2:22|~CCS2:50
+1029198	EDEKA-MIHA Charge GmbH		Weitzgrunder Straße 2	14806	Bad Belzig	52.145170	12.590400	1			~TYPE2:22|~CCS2:50
+1031847	Circle K Deutschland		Am Magna Park 4	14542	Pölzin	52.394366	12.842743	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1031927	Circle K Deutschland		Am Bahnhof Lienewitz 5	14548	Ferch	52.303543	12.971563	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032162	TotalEnergies		An der Bundesstraße 1	14776	Brandenburg an der Havel	52.408882	12.615182	1			~TYPE2:22|~TYPE2:22
+1034743	E.DIS AG		Lübnitzer Str. 6A	14806	Bad Belzig	52.141744	12.583615	1			~TYPE2:22|~TYPE2:22
+1034747	E.DIS AG		Albrechtstraße 4	14669	Ketzin	52.475815	12.842431	1			~TYPE2:22|~TYPE2:22
+1034758	E.DIS AG		Trebbiner Str. 22	14547	Beelitz	52.235087	12.984845	1			~TYPE2:22|~TYPE2:22
+1037269	Shell Deutschland GmbH		Trebbiner Str. 3-9	14547	Beelitz	52.234862	12.980057	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1037623	Citywatt GmbH		Friedenstraße 13	14797	Kloster Lehnin	52.317428	12.743926	1			~TYPE2:22|~TYPE2:22
+1037624	Citywatt GmbH		Friedenstraße 13	14797	Kloster Lehnin	52.317458	12.743899	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1039766	IONITY GmbH		Westfalenstraße 2	14822	Linthe	52.160095	12.779865	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1043486	Allego		Upstallstr. 15	14772	Brandenburg an der Havel	52.431263	12.534299	1			DEALLEGO001703*1~TYPE2:22|DEALLEGO001703*2~TYPE2:22|DEALLEGO001704*1~TYPE2:22|DEALLEGO001704*2~TYPE2:22
+1043488	Allego		Upstallstr. 15	14772	Brandenburg an der Havel	52.431341	12.534188	1			DEALLEGO001705*1~TYPE2:22|DEALLEGO001705*2~TYPE2:22
+1043603	Allego		Upstallstr. 15	14772	Brandenburg an der Havel	52.431414	12.534205	1		Keine Beschränkung	DEALLEGO003138*1~CCS2:300|DEALLEGO003138*2~CCS2:300|DEALLEGO003139*1~CCS2:300|DEALLEGO003139*2~CCS2:300
+1045122	EMB Energie Brandenburg GmbH		Kurfürstenstraße 36	14797	Kloster Lehnin	52.320369	12.746536	1			~TYPE2:22|~TYPE2:22
+1045123	EMB Energie Brandenburg GmbH		B.-Kellermann-Straße 20	14542	Werder (Havel)	52.377686	12.936196	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045138	EMB Energie Brandenburg GmbH		Beelitzer Straße 3	14548	Schwielowsee OT Ferch	52.310957	12.929861	1			~TYPE2:22
+1045139	EMB Energie Brandenburg GmbH		Adolf-Damaschke-Str. 58b	14542	Werder (Havel)	52.392486	12.927100	1			~TYPE2:22|~TYPE2:22
+1045140	EMB Energie Brandenburg GmbH		Zum Großen Zernsee 3	14542	Werder (Havel)	52.398427	12.918653	1			~TYPE2:22|~TYPE2:22
+1045143	EMB Energie Brandenburg GmbH		Friedensplatz 3	14542	Werder (Havel) - OT Glindow	52.365223	12.910281	1			~TYPE2:22|~TYPE2:22
+1045153	EMB Energie Brandenburg GmbH		Weinbergstr. 28	14548	Schwielowsee OT Caputh	52.345357	12.985308	1			~TYPE2:22|~TYPE2:22
+1045154	EMB Energie Brandenburg GmbH		Resi-Salomon-Straße 778	14542	Werder (Havel)	52.348714	12.904750	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045155	EMB Energie Brandenburg GmbH		Dorfplatz 1	14542	Werder (Havel)	52.431649	12.907052	1			~TYPE2:22|~TYPE2:22
+1045156	EMB Energie Brandenburg GmbH		Zum Inselparadies 1	14542	Werder (Havel) OT Petzow	52.344657	12.939953	1			~TYPE2:22|~TYPE2:22
+1045157	EMB Energie Brandenburg GmbH		Parkplatz an der Baumgartenbrücke 0	14548	Schwielowsee OT Geltow	52.360944	12.964708	1			~TYPE2:22|~TYPE2:22
+1045158	EMB Energie Brandenburg GmbH		Plantagenplatz 6	14542	Werder/Havel	52.377498	12.931510	1			~TYPE2:22|~TYPE2:22
+1046242	StWB Stadtwerke Brandenburg GmbH & Co. KG		Hauptbahnhof 0	14776	Brandenburg	52.400379	12.563834	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046244	StWB Stadtwerke Brandenburg GmbH & Co. KG		Hauptbahnhof 0	14776	Brandenburg	52.400349	12.563765	1			~TYPE2:22|~TYPE2:22
+1046245	StWB Stadtwerke Brandenburg GmbH & Co. KG		Kaiserslauterner Str. 5	14772	Brandenburg	52.438723	12.528053	1			~TYPE2:22|~TYPE2:22
+1046246	StWB Stadtwerke Brandenburg GmbH & Co. KG		Packhofstr. 31	14776	Brandenburg	52.411885	12.558278	1			~TYPE2:22|~TYPE2:22
+1046247	StWB Stadtwerke Brandenburg GmbH & Co. KG		Packhofstr. 31	14776	Brandenburg	52.411888	12.558388	1			~TYPE2:22|~TYPE2:22
+1046248	StWB Stadtwerke Brandenburg GmbH & Co. KG		Molkenmarkt 0	14776	Brandenburg	52.409511	12.563621	1			~TYPE2:22|~TYPE2:22
+1046249	StWB Stadtwerke Brandenburg GmbH & Co. KG		Nicolaiplatz 0	14776	Brandenburg	52.411261	12.550202	1			~TYPE2:22|~TYPE2:22
+1046250	StWB Stadtwerke Brandenburg GmbH & Co. KG		Vereinsstraße 0	14770	Brandenburg	52.410873	12.546294	1			~TYPE2:22|~TYPE2:22
+1046251	StWB Stadtwerke Brandenburg GmbH & Co. KG		Ziegelstraße 0	14776	Brandenburg	52.416988	12.559183	1			~TYPE2:22|~TYPE2:22
+1046252	StWB Stadtwerke Brandenburg GmbH & Co. KG		Prager Str. 9-15	14772	Brandenburg	52.426193	12.528507	1			~TYPE2:22|~TYPE2:22
+1046253	StWB Stadtwerke Brandenburg GmbH & Co. KG		Carl-Reichstein-Str. 35	14770	Brandenburg	52.415060	12.504916	1			~TYPE2:11|~TYPE2:11
+1046254	StWB Stadtwerke Brandenburg GmbH & Co. KG		Robert-Koch-Str. 25	14770	Brandenburg	52.414831	12.541831	1			~TYPE2:11|~TYPE2:11
+1046255	StWB Stadtwerke Brandenburg GmbH & Co. KG		Alfred-Messel-Platz 0	14776	Brandenburg	52.408798	12.552568	1			~TYPE2:22|~TYPE2:22
+1046256	StWB Stadtwerke Brandenburg GmbH & Co. KG		Werner-Seelenbinder-Str. 52	14770	Brandenburg	52.422410	12.546832	1			~TYPE2:22|~TYPE2:22
+1046257	StWB Stadtwerke Brandenburg GmbH & Co. KG		An der Regattastrecke 8	14772	Brandenburg	52.429863	12.561250	1			~TYPE2:22|~TYPE2:22
+1046258	StWB Stadtwerke Brandenburg GmbH & Co. KG		Wiesenweg 16	14776	Brandenburg	52.404659	12.546586	1			~TYPE2:22|~TYPE2:22
+1046259	StWB Stadtwerke Brandenburg GmbH & Co. KG		Münstersche Str. 5	14772	Brandenburg	52.442190	12.523560	1			~TYPE2:11|~TYPE2:11
+1046261	StWB Stadtwerke Brandenburg GmbH & Co. KG		Carl-Reichstein-Str. 31	14770	Brandenburg	52.414901	12.507055	1			~TYPE2:22|~TYPE2:24+CCS2:24|~TYPE2:22|~TYPE2:24+CCS2:24+CHADEMO:24|~CCS2:24
+1046262	StWB Stadtwerke Brandenburg GmbH & Co. KG		Schlossallee 101	14776	Brandenburg OT Gollwitz	52.421099	12.646941	1			~TYPE2:22|~TYPE2:22
+1046264	StWB Stadtwerke Brandenburg GmbH & Co. KG		Rietzer Straße 19	14776	Brandenburg OT Schmerzke	52.387969	12.596780	1			~TYPE2:22|~TYPE2:22
+1046265	StWB Stadtwerke Brandenburg GmbH & Co. KG		Domkietz 9	14776	Brandenburg	52.414161	12.563704	1			~TYPE2:22|~TYPE2:22
+1046266	StWB Stadtwerke Brandenburg GmbH & Co. KG		Paulinerstraße 9	14776	Brandenburg	52.406853	12.563560	1			~TYPE2:22|~TYPE2:22
+1046267	StWB Stadtwerke Brandenburg GmbH & Co. KG		Magdeburger Straße 50	14770	Brandenburg	52.411967	12.539890	1			~TYPE2:22|~TYPE2:22
+1046268	StWB Stadtwerke Brandenburg GmbH & Co. KG		Magdeburger Straße 50	14770	Brandenburg	52.411978	12.539662	1			~TYPE2:22|~TYPE2:22
+1047876	StWB Stadtwerke Brandenburg GmbH & Co. KG		Kopenhagener Straße 26	14772	Brandenburg	52.429345	12.526480	1			~TYPE2:22|~TYPE2:22
+1047877	StWB Stadtwerke Brandenburg GmbH & Co. KG		Max-Herm-Straße 77	14772	Brandenburg	52.432802	12.516700	1			~TYPE2:22|~TYPE2:22
+1047878	StWB Stadtwerke Brandenburg GmbH & Co. KG		Rosa-Luxemburg-Allee 60	14772	Brandenburg	52.432620	12.525114	1			~TYPE2:22|~TYPE2:22
+1047879	StWB Stadtwerke Brandenburg GmbH & Co. KG		Werner-Seelenbinder-Straße 106	14770	Brandenburg	52.420687	12.539496	1			~TYPE2:22|~TYPE2:22
+1049724	E.ON Drive Infrastructure		Raststätte Fläming Ost 0	14822	Mühlenfließ	52.133086	12.754556	1			~CCS2:50|~CCS2:50
+1049906	Shell Deutschland GmbH		Brücker Landstr. 5A	14806	Bad Belzig	52.144539	12.609381	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1051451	MER Germany		Fläming An der A9 West 2	14823	Mühlenfließ	52.132549	12.751164	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1051756	MER Germany		Fläming West 0	14823	Mühlenfließ- Grabow	52.132321	12.750125	1			~CCS2:150|~CCS2:150
+1060148	EA-DD		Brennereiweg 45	14823	Raben	52.041466	12.575419	1	24/7	Nur für Kunden/Besucher	DE*EAD*E100029~TYPE2:22|DE*EAD*E100030~TYPE2:22
+1060152	EA-DD		Straße nach Fichtenwalde 10	14547	Beelitz	52.263409	12.924107	1	24/7	Keine Beschränkung	DE*EAD*E100215~TYPE2:22|DE*EAD*E100216~TYPE2:22
+1060207	EA-DD		Kirchplatz 0	14823	Niemegk	52.074784	12.689253	1	24/7	Keine Beschränkung	DE*EAD*E100037~TYPE2:22|DE*EAD*E100038~TYPE2:22
+1069437	Franziska Dietrich		Pappelhain 77	14669	Ketzin /Havel	52.486086	12.816511	1		Nur für Kunden/Besucher	~TYPE2:11
+1076696	Dirk Stumpf		Dorfstraße 15	16818	Kuhhorst	52.430990	12.510890	1			~TYPE2_TETHERED:11+SCHUKO:11
+1078059	Die Akustikerin	Töplitz	Am Berg 3	14542	Werder (Havel)	52.420179	12.925363	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1081131	Kaufland	1520_KLand_Linthe_T65-IT1-2824-004	Dorfstr. 29	14822	Linthe	52.158790	12.784730	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1083794	ADAC Fahrsicherheitszentrum Berlin-Brandenburg GmbH		Am Kalkberg 6	14822	Brück	52.159250	12.776496	1			~CCS2:50+CHADEMO:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084944	Bernd Brewer		Eichenallee 13	14806	Bad Belzig	52.150449	12.593806	1			~TYPE2_TETHERED:22
+1084986	Björn Dunkel		Am Silokanal 16	14772	Brandenburg an der Havel	52.423894	12.524869	1			~TYPE2_TETHERED:11
+1085604	Fahrschule Reeger		Am Stadtpark 12	14669	Ketzin	52.480945	12.845980	1			~TYPE2_TETHERED:11
+1085605	Fahrschule Reeger		Schwarzer Weg 29	14669	Ketzin	52.494830	12.829390	1			~TYPE2:11
+1086506	Knut Plank		Heidestrasse 24	14550	Groß Kreutz (Havel)	52.403849	12.780760	1			~TYPE2:11
+1087592	Ronald Messner		Sperberweg 8	14547	Beelitz	52.244530	12.953280	1			~TYPE2_TETHERED:11
+1087743	Silvio von Knobelsdorff		Neue Dorfstraße 19A	14542	Werder (Havel)	52.388071	12.854602	1			~TYPE2_TETHERED:11
+1087811	Stefan Georgi		Wustermarkstr. 18	14550	Groß Kreutz (Havel)	52.390799	12.710121	1			~TYPE2_TETHERED:11
+1089458	Winkelmanns Hof Klaistow GmbH		Glindower Str. 28	14547	Beelitz	52.296763	12.858851	1		Keine Beschränkung	E51KC~TYPE2:11|EUEA8~TYPE2:11
+1091844	E.ON Drive Infrastructure	Autohof Linthe	Westfalenstr. 3	14822	Linthe	52.160592	12.781675	1	24/7	Keine Beschränkung	DE*UFC*E00785*1~CCS2:70|DE*UFC*E00785*2~CCS2:70
+1092912	Michael Henze		Hermann-Tischler-Weg 9	14548	Schwielowsee	52.311438	12.930642	1			~TYPE2:11
+1092980	Christoph Wallner		Rotfedernweg 10	14542	Werder	52.403622	12.917277	1			~TYPE2_TETHERED:11
+1096569	Autohaus Böttche GmbH		Brandenburger Str. 58	14806	Bad Belzig	52.149778	12.600504	1			~CCS2:22|~TYPE2:11
+1096809	Autohaus Kröger		Bahnhofstraße 4	14929	Treuenbrietzen	52.092346	12.859120	1			~CCS2:22|~TYPE2:11
+1096969	Autohaus Raschick GmbH		Dr.-Külz-Straße 2-4	14542	Werder (Havel)	52.369733	12.910739	1			~CCS2:22|~TYPE2:11
+1097217	Auto-Technik Dähne GmbH		Münstersche Str. 1	14772	Brandenburg an der Havel	52.440130	12.525128	1			~CCS2:22|~TYPE2:11
+1097218	Auto-Technik Dähne GmbH		Carl-Reichstein-Straße 37	14770	Brandenburg an der Havel	52.415208	12.504065	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1101591	Tesla Germany GmbH		Dr.-Herrmann-Str. 2	14547	Beelitz	52.266766	12.922528	1	24/7	Keine Beschränkung	~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102896	Paulinenhof	Paulinenhof	Kuhlowitzer Dorfstr. 1	14806	Bad Belzig	52.137970	12.640170	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103274	Autohaus Teichmann Renault/Dacia	Autohaus Teichmann Renault/Dacia	Schäfereistr. 2	14548	Schwielowsee	52.362190	12.979840	1	24/7	Keine Beschränkung	~TYPE2:22
+1106336	E.ON Drive GmbH		Albrechtstrasse 4	14669	Ketzin	52.475840	12.842430	1			~TYPE2:22|~TYPE2:22
+1106414	E.ON Drive GmbH		Ratinger Str. 20	14547	Beelitz	52.235652	12.979907	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106415	E.ON Drive GmbH		Karl Liebknecht Park 0	14547	Beelitz	52.238428	12.963217	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106420	E.ON Drive GmbH		Trebbiner Str. 22	14547	Beelitz	52.235478	12.985027	1			~TYPE2:22|~TYPE2:22
+1106600	E.ON Drive GmbH		Fläming An der A9 Ost 2	14823	Mühlenfließ	52.132662	12.753397	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106739	E.ON Drive GmbH		Lübnitzer Str. 6a	14806	Bad Belzig	52.141766	12.583619	1			~TYPE2:22|~TYPE2:22
+1107564	E.ON Drive GmbH		Berliner Straße 5	14547	Beelitz	52.233228	12.977998	1		Keine Beschränkung	~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:22
+1114542	Dynalectro GmbH		Brielowerstr. 32	14770	Brandenburg	52.423194	12.557415	1			~TYPE2:11
+1114715	Service4Charger GmbH		Kemnitzer Schmiedeweg 1	14542	Werder (Havel)	52.413417	12.874208	1			~TYPE2:11|~TYPE2:11
+1114716	Service4Charger GmbH		Kemnitzer Schmiedeweg 1	14542	Werder	52.413418	12.874123	1			~TYPE2:11|~TYPE2:11
+1114717	Service4Charger GmbH		Kemnitzer Schmiedeweg 1	14542	Werder	52.413428	12.873935	1			~TYPE2:11|~TYPE2:11
+1120334	Pfalzwerke AG	BBH - Bad Belzig	Brücker Landstr. 20A	14806	Bad Belzig	52.144248	12.612299	1	24/7	Keine Beschränkung	DE*PWA*EALP22267X00326*01~CCS2:150|DE*PWA*EALP22267X00326*01~CCS2:150
+1120335	Pfalzwerke AG	BBH - Bad Belzig	Brücker Landstr. 20A	14806	Bad Belzig	52.144306	12.612264	1	24/7	Keine Beschränkung	12.61226400~CCS2:150|DE*PWA*EALP22270X00327*02~CCS2:150
+1121481	Phönix Hausverwaltungs GmbH	APS 29	Alte Potsdamer Str. 29	14776	Brandenburg an der Havel	52.406900	12.574255	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1121483	Phönix Hausverwaltungs GmbH	APS 42	Alte Potsdamer Str. 42	14776	Brandenburg an der Havel	52.405878	12.571968	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1126851	EnBW mobility+ AG und Co.KG		Willibald-Alexis-Str. 40	14772	Brandenburg an der Havel	52.432327	12.531415	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1128716	Kaufland	4103_Kland_Brandenburg_QP-16720-0225-060-121-QP-VER.311	Brielower Landstr. 19	14772	Brandenburg an der Havel	52.433035	12.547892	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1132568	Pietrucha Bau GmbH	Ladepark Damsdorf	Alte Berliner Str. 4	14797	Kloster Lehnin	52.346743	12.762946	1	24/7	Keine Beschränkung	Ladepunkt 1 von links~CCS2:185|Ladepunkt 2 von links~CCS2:185|Ladepunkt 3 von links~CCS2:185|Ladpunkt 4 von links~CCS2:185
+1132786	Shell Deutschland GmbH	13016338_Brandenburg	Neuendorfer Str. 52	14770	Brandenburg an der Havel	52.406585	12.538198	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1132787	Shell Deutschland GmbH	13016338_Brandenburg	Neuendorfer Str. 52	14770	Brandenburg an der Havel	52.406605	12.538294	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1133929	Energie und Wasser Potsdam GmbH	Blütenviertel Caputh	Kirschanger 4	14548	Schwielowsee	52.347232	12.996856	1	24/7	Keine Beschränkung	DE*EWP*E7650*001~TYPE2:22|DE*EWP*E7650*002~TYPE2:22|DE*EWP*E7651*001~TYPE2:22|DE*EWP*E7651*002~TYPE2:22
+1134207	Vattenfall Smarter Living GmbH		Karl-Marx-Str. 10	14770	Brandenburg an der Havel	52.414946	12.538142	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360
+1134208	Vattenfall Smarter Living GmbH		Karl-Marx-Str. 10	14770	Brandenburg an der Havel	52.415277	12.537986	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360
+1136148	Lidl	7278_Lidl_Ketzing_QP-17764-0225-060-121	Nauener Str. 9	14669	Ketzin /Havel	52.481860	12.846050	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1136831	E.ON Drive GmbH		Am Kalkberg 6	14822	Linthe	52.159200	12.776562	1		Keine Beschränkung	DE*EDR*E51000613*1~TYPE2:22|DE*EDR*E51000613*2~TYPE2:22
+1143886	Winkelmanns Hof Klaistow GmbH	Parkplatz Caravan	Glindower Str. 28	14547	Beelitz	52.296470	12.855370	1	24/7	Keine Beschränkung	E9WU3~TYPE2:11|EGB3P~TYPE2:11|E8ZWZ~TYPE2:11|E3PYY~TYPE2:11
+1145151	EA-DD		Klein Glien 24	14806	Bad Belzig	52.131936	12.516149	1	24/7	Keine Beschränkung	DE*EAD*E500048~TYPE2_TETHERED:22|DE*EAD*E500049~TYPE2_TETHERED:22
+1145157	EA-DD		Großstr. 70	14929	Treuenbrietzen	52.097931	12.872520	1	24/7	Keine Beschränkung	DE*EAD*E100125~TYPE2_TETHERED:22|DE*EAD*E100126~TYPE2_TETHERED:22
+1147961	Vattenfall Smarter Living GmbH		Ziesarer Landstr. 101	14776	Brandenburg an der Havel	52.381346	12.522071	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1148103	Vattenfall Smarter Living GmbH		Karl-Marx-Str. 10	14770	Brandenburg an der Havel	52.414995	12.538075	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1149063	Allego		August-Sonntag-Str. 10	14770	Brandenburg an der Havel	52.415227	12.503265	1	24/7	Keine Beschränkung	DEALLEGO003804_1~CCS2:150|DEALLEGO003804_2~CCS2:150
+1149365	TotalEnergies Charging Solutions		An der Bundesstraße 1 1	14776	Brandenburg an der Havel	52.409749	12.609189	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS45100*003*1~CCS2:200|DE*TCB*E3D9CS45100*003*2~CCS2:200|DE*TCB*E3D9CS45100*002*1~CCS2:200|DE*TCB*E3D9CS45100*002*2~CCS2:200|DE*TCB*E3D9CS45100*001*1~CCS2:200|DE*TCB*E3D9CS45100*001*2~CCS2:200|DE*TCB*E3D9CS45100*009*1~CCS2:50|DE*TCB*E3D9CS45100*009*2~CCS2:50|DE*TCB*E3D9CS45100*004*1~CCS2:50|DE*TCB*E3D9CS45100*004*2~CCS2:50|DE*TCB*E3D9CS45100*007*1~CCS2:50|DE*TCB*E3D9CS45100*004*2~CCS2:50|DE*TCB*E3D9CS45100*008*1~CCS2:50|DE*TCB*E3D9CS45100*008*2~CCS2:50|DE*TCB*E3D9CS45100*005*1~CCS2:50|DE*TCB*E3D9CS45100*005*2~CCS2:50|DE*TCB*E3D9CS45100*006*1~CCS2:50|DE*TCB*E3D9CS45100*006*2~CCS2:50
+1152699	ADS-TEC Energy Service GmbH	Norma Groß Kreutz	Potsdamer Str. 46B	14550	Groß Kreutz (Havel)	52.401131	12.794430	1	24/7	Keine Beschränkung	DEAESE001001~CCS2:300|DEAESE001002~CCS2:300
+1154303	IP Innovative Power		Am Schwielowsee 117	14542	Werder (Havel)	52.353679	12.960014	1	24/7	Keine Beschränkung	DEIPGE00001296~TYPE2:22|DEIPGE00001297~TYPE2:22|DEIPGE00001407~TYPE2:22|DEIPGE00001408~TYPE2:22|DEIPGE00001409~TYPE2:22|DEIPGE00001410~TYPE2:22
+1154830	Lidl	8674_Lidl_ Brandenburg_QP-20013-0525-060-121	Upstallstr. 22	14772	Brandenburg an der Havel	52.430534	12.532754	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1161127	E.ON Drive GmbH		Seestr. 9	14542	Werder (Havel)	52.408516	12.867337	1	24/7	Keine Beschränkung	DE*EDR*E22000566*1~TYPE2:11
+1161939	Aral Pulse		Potsdamer Str. 82	14542	Werder (Havel)	52.364629	12.940459	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1163649	EDEKA-MIHA Charge GmbH		Brandenburger Str. 151	14542	Werder (Havel)	52.375492	12.932264	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22

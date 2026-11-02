@@ -1,0 +1,553 @@
+1009140	Shell Deutschland GmbH		Karower Weg 1a	16356	Ahrensfelde	52.601190	13.514510	1			~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1009213	Shell Deutschland GmbH		Kulmseestr. 9	12683	Berlin	52.513349	13.553718	1			~CCS2:150|~CCS2:150
+1009218	Shell Deutschland GmbH		Märkische Allee 61	12681	Berlin	52.521612	13.540396	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1009330	Shell Deutschland GmbH		Mierwerder Weg 100	15370	Petershagen	52.519023	13.769662	1			~CCS2:150|~CCS2:150
+1009342	Shell Deutschland GmbH		Lindenallee 6	15366	Dahlwitz- Hoppegarten	52.515400	13.669610	1			~CCS2:150|~CCS2:150
+1017479	Berliner Stadtwerke KommunalPartner GmbH		Alfred-Kowalke-Str. 29	10315	Berlin	52.506263	13.521016	1			~TYPE2:22|~TYPE2:22
+1017547	Berliner Stadtwerke KommunalPartner GmbH		Max-Hermann-Str 2	12687	Berlin	52.555434	13.566658	1			~TYPE2:11|~TYPE2:11
+1017809	Berliner Stadtwerke KommunalPartner GmbH		Rhinstr. 163	10315	Berlin	52.534426	13.517820	1			~TYPE2:11|~TYPE2:11
+1017831	Berliner Stadtwerke KommunalPartner GmbH		Janusz-Korczak-Str. 6	12627	Berlin	52.537113	13.602068	1			~TYPE2:11|~TYPE2:11
+1017946	Berliner Stadtwerke KommunalPartner GmbH		Hanoier Str. 10	12683	Berlin	52.507150	13.555783	1			~TYPE2:11|~TYPE2:11
+1017967	Berliner Stadtwerke KommunalPartner GmbH		Volkerstr. 8	10365	Berlin	52.515014	13.504232	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22
+1018021	Berliner Stadtwerke KommunalPartner GmbH		Grevesmühlener Str. 43	13059	Berlin	52.570269	13.517748	1			~TYPE2:22|~TYPE2:22
+1018036	Berliner Stadtwerke KommunalPartner GmbH		Klausdorfer Str. 2	12629	Berlin	52.545420	13.594040	1			~TYPE2:22|~TYPE2:22
+1018041	Berliner Stadtwerke KommunalPartner GmbH		Minsker Str. 10	12683	Berlin	52.506050	13.557200	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1018096	Berliner Stadtwerke KommunalPartner GmbH		Brodowiner Ring 1	12679	Berlin	52.550500	13.579230	1			~TYPE2:11|~TYPE2:11
+1018099	Berliner Stadtwerke KommunalPartner GmbH		Boxberger Str. 9	12681	Berlin	52.547090	13.536810	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1021195	Stadtwerke Strausberg GmbH		Am Flugplatz 0	15344	Strausberg	52.572079	13.902243	1			~TYPE2:22|~TYPE2:22
+1021213	Stadtwerke Strausberg GmbH		Rudolf Egelhofer Straße 0	15344	Strausberg	52.533023	13.835263	1			~TYPE2:22|~TYPE2:22
+1021336	Stadtwerke Strausberg GmbH		Prötzeler Chaussee 0	15344	Strausberg	52.590525	13.908273	1			~TYPE2:22|~TYPE2:22
+1021715	EWE Go GmbH		An der B167	16244	Finowfurt	52.841849	13.696802	1			~CCS2:150|~CCS2:150
+1021765	EWE Go GmbH	McD_0625_1A	Zeppelinstr. 2	16356	Ahrensfelde	52.595997	13.599036	1	24/7	Keine Beschränkung	DE*2GO*EMCD0625*1A*1~CCS2:150|DE*2GO*EMCD0625*1A*2~CCS2:150
+1021933	EWE Go GmbH		Altlandsberger Chaussee 1	15366	Hönow	52.544025	13.644269	1			~CCS2:156|~CCS2:156
+1022274	EWE Go GmbH	McD_0717_1A	Alt-Mahlsdorf 59	12623	Berlin	52.504114	13.623458	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1024044	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 18/A	12683	Berlin	52.517341	13.555229	1			~TYPE2:3.7
+1024045	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 17	12683	Berlin	52.517057	13.555167	1			~TYPE2:3.7
+1024046	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 15	12683	Berlin	52.516696	13.555088	1			~TYPE2:3.7
+1024047	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 9	12683	Berlin	52.515192	13.554755	1			~TYPE2:3.7
+1024048	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 7	12683	Berlin	52.514839	13.554678	1			~TYPE2:3.7
+1024049	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 41	12683	Berlin	52.522255	13.556315	1			~TYPE2:3.7
+1024050	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 33	12683	Berlin	52.521038	13.556051	1			~TYPE2:3.7
+1024051	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 32	12683	Berlin	52.520757	13.555987	1			~TYPE2:3.7
+1024052	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 30	12683	Berlin	52.520457	13.555916	1			~TYPE2:3.7
+1024053	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 11/A	12683	Berlin	52.516103	13.554955	1			~TYPE2:3.7
+1024158	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 4A	12623	Berlin	52.515880	13.637186	1			~TYPE2:3.7
+1024159	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 0	12623	Berlin	52.516797	13.638093	1			~TYPE2:3.7
+1024160	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 21	12623	Berlin	52.517182	13.636563	1			~TYPE2:3.7
+1024161	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 26	12623	Berlin	52.517019	13.637533	1			~TYPE2:3.7
+1024162	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 0	12623	Berlin	52.516274	13.637810	1			~TYPE2:3.7
+1024163	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bisamstraße 0	12623	Berlin	52.517017	13.637227	1			~TYPE2:3.7
+1024164	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 21	12623	Berlin	52.514102	13.606983	1			~TYPE2:3.7
+1024165	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 23	12623	Berlin	52.514277	13.607212	1			~TYPE2:3.7
+1024166	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 27	12623	Berlin	52.514491	13.607484	1			~TYPE2:3.7
+1024167	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 29	12623	Berlin	52.514678	13.607713	1			~TYPE2:3.7
+1024168	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 33A	12623	Berlin	52.514893	13.607983	1			~TYPE2:3.7
+1024169	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Briesener Weg 0	12623	Berlin	52.515060	13.608202	1			~TYPE2:3.7
+1024170	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 10A	12623	Berlin	52.517970	13.612760	1			~TYPE2:3.7
+1024171	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 11	12623	Berlin	52.517978	13.613087	1			~TYPE2:3.7
+1024172	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 14	12623	Berlin	52.517803	13.613260	1			~TYPE2:3.7
+1024173	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 23	12623	Berlin	52.517540	13.614333	1			~TYPE2:3.7
+1024174	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 5	12623	Berlin	52.518188	13.612483	1			~TYPE2:3.7
+1024175	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 6	12623	Berlin	52.518180	13.612180	1			~TYPE2:3.7
+1024176	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Sudermannstraße 50	12623	Berlin	52.520749	13.612044	1			~TYPE2:3.7
+1024177	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Sudermannstraße 60	12623	Berlin	52.520433	13.612939	1			~TYPE2:3.7
+1024178	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Sudermannstraße 69B	12623	Berlin	52.519957	13.614685	1			~TYPE2:3.7
+1024188	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 18	12621	Berlin	52.510230	13.590330	1			~TYPE2:3.7
+1024189	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 3	12621	Berlin	52.510282	13.588925	1			~TYPE2:3.7
+1024190	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 32	12621	Berlin	52.510240	13.591010	1			~TYPE2:3.7
+1024191	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 50	12621	Berlin	52.510355	13.591917	1			~TYPE2:3.7
+1024195	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Georgstraße 4	12621	Berlin	52.509233	13.586483	1			~TYPE2:3.7
+1024208	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 38	12683	Berlin	52.521732	13.556199	1			~TYPE2:3.7
+1024214	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Budsiner Straße 17	12683	Berlin	52.507129	13.542357	1			~TYPE2:3.7
+1024215	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Budsiner Straße 0	12683	Berlin	52.506499	13.545727	1			~TYPE2:3.7
+1024216	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Dudweilerstraße 10	12683	Berlin	52.529360	13.573926	1			~TYPE2:3.7
+1024217	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Dudweilerstraße 12	12683	Berlin	52.529308	13.574543	1			~TYPE2:3.7
+1024218	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Dudweilerstraße 6	12683	Berlin	52.529447	13.573176	1			~TYPE2:3.7
+1024224	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 11	12621	Berlin	52.510300	13.589780	1			~TYPE2:3.7
+1024225	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 10	12621	Berlin	52.510210	13.589420	1			~TYPE2:3.7
+1024226	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 39	12621	Berlin	52.510340	13.591340	1			~TYPE2:3.7
+1024227	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Ferdinandstraße 46	12621	Berlin	52.510260	13.591680	1			~TYPE2:3.7
+1024234	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Grabensprung 120	12683	Berlin	52.500787	13.555029	1			~TYPE2:3.7
+1024235	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Grabensprung 130	12683	Berlin	52.500095	13.555391	1			~TYPE2:3.7
+1024236	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Grabensprung 0	12683	Berlin	52.500410	13.555258	1			~TYPE2:3.7
+1024243	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Neuenhagener Straße 3	12623	Berlin	52.505964	13.606679	1			~TYPE2:3.7
+1024244	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Neuenhagener Straße 5	12623	Berlin	52.506453	13.606990	1			~TYPE2:3.7
+1024246	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Georgstraße 2A	12621	Berlin	52.509367	13.586791	1			~TYPE2:3.7
+1024247	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Georgstraße 1	12621	Berlin	52.509618	13.587134	1			~TYPE2:3.7
+1024250	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lübzer Straße 13	12623	Berlin	52.521833	13.617851	1			~TYPE2:3.7
+1024251	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lübzer Straße 7A	12623	Berlin	52.522105	13.617087	1			~TYPE2:3.7
+1024252	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lübzer Straße 4	12623	Berlin	52.522307	13.616518	1			~TYPE2:3.7
+1024253	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mädewalder Weg 53	12621	Berlin	52.510252	13.587409	1			~TYPE2:3.7
+1024254	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 0	12683	Berlin	52.511844	13.554027	1			~TYPE2:3.7
+1024255	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 0	12683	Berlin	52.512125	13.554219	1			~TYPE2:3.7
+1024256	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Oberfeldstraße 38	12683	Berlin	52.521969	13.556252	1			~TYPE2:3.7
+1024271	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Siegmarstraße 2A	12683	Berlin	52.528109	13.573021	1			~TYPE2:3.7
+1024272	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Siegmarstraße 4	12683	Berlin	52.528400	13.573192	1			~TYPE2:3.7
+1024273	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Siegmarstraße 29	12683	Berlin	52.530633	13.573791	1			~TYPE2:3.7
+1024274	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Siegmarstraße 33	12683	Berlin	52.531022	13.573875	1			~TYPE2:3.7
+1024275	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Siegmarstraße 65	12683	Berlin	52.534005	13.574646	1			~TYPE2:3.7
+1024276	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Theodorstraße 0	12623	Berlin	52.500919	13.617182	1			~TYPE2:3.7
+1024277	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Theodorstraße 39	12623	Berlin	52.501143	13.617153	1			~TYPE2:3.7
+1024278	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Theodorstraße 0	12623	Berlin	52.501608	13.617092	1			~TYPE2:3.7
+1024290	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Georgstraße 1	12621	Berlin	52.509516	13.587134	1			~TYPE2:3.7
+1024293	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mädewalder Weg 47	12621	Berlin	52.509343	13.587612	1			~TYPE2:3.7
+1024294	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mädewalder Weg 49	12621	Berlin	52.509810	13.587507	1			~TYPE2:3.7
+1024295	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mädewalder Weg 49	12621	Berlin	52.510013	13.587462	1			~TYPE2:3.7
+1024296	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mädewalder Weg 57	12621	Berlin	52.510457	13.587362	1			~TYPE2:3.7
+1024357	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Carola-Neher-Straße 0	12619	Berlin	52.531714	13.593223	1			~TYPE2:3.7
+1024358	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Adele-Sandrock-Straße 0	12627	Berlin	52.534044	13.619327	1			~TYPE2:3.7
+1024359	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lenbachstraße 7	12621	Berlin	52.500149	13.576706	1			~TYPE2:3.7
+1024360	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lenbachstraße 9	12621	Berlin	52.500132	13.576224	1			~TYPE2:3.7
+1024361	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 0	12623	Berlin	52.517245	13.615123	1			~TYPE2:3.7
+1024362	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 0	12623	Berlin	52.517007	13.615816	1			~TYPE2:3.7
+1024363	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 39	12623	Berlin	52.516755	13.616560	1			~TYPE2:3.7
+1024364	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Liebensteiner Straße 39	12687	Berlin	52.559321	13.560921	1			~TYPE2:3.7
+1024365	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Liebensteiner Straße 43	12687	Berlin	52.559696	13.561242	1			~TYPE2:3.7
+1024366	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Liebensteiner Straße 0	12687	Berlin	52.559901	13.561496	1			~TYPE2:3.7
+1024386	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße 85	12683	Berlin	52.525070	13.553029	1			~TYPE2:3.7
+1024387	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße LM12 0	12683	Berlin	52.524749	13.552959	1			~TYPE2:3.7
+1024388	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße LM13 0	12683	Berlin	52.524333	13.552869	1			~TYPE2:3.7
+1024389	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße 95	12683	Berlin	52.522876	13.552542	1			~TYPE2:3.7
+1024390	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße 102	12683	Berlin	52.521734	13.552285	1			~TYPE2:3.7
+1024391	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße 24	12683	Berlin	52.520066	13.552076	1			~TYPE2:3.7
+1024392	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Otto-Nagel-Straße 17	12683	Berlin	52.518418	13.551703	1			~TYPE2:3.7
+1024393	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Parchimer Straße LM2 0	12619	Berlin	52.513960	13.578400	1			~TYPE2:3.7
+1024394	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Parchimer Straße LM11 0	12619	Berlin	52.515252	13.577778	1			~TYPE2:3.7
+1024395	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Wuhletalstraße 46	12687	Berlin	52.560649	13.563970	1			~TYPE2:3.7
+1024419	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Althansweg 0	12685	Berlin	52.535446	13.557462	1			~TYPE2:3.7
+1024420	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Althansweg 8	12685	Berlin	52.535788	13.557774	1			~TYPE2:3.7
+1024423	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Golliner Straße 47	12689	Berlin	52.569129	13.576917	1			~TYPE2:3.7
+1024424	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Golliner Straße 45	12689	Berlin	52.569221	13.577410	1			~TYPE2:3.7
+1024459	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Auersbergstraße 0	12685	Berlin	52.539330	13.559062	1			~TYPE2:3.7
+1024460	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Parchimer Straße 0	12619	Berlin	52.513667	13.578762	1			~TYPE2:3.7
+1024461	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rudolf-Leonhard-Straße 13F	12679	Berlin	52.550558	13.569898	1			~TYPE2:3.7
+1024462	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rudolf-Leonhard-Straße 13	12679	Berlin	52.550660	13.569326	1			~TYPE2:3.7
+1024463	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Liebensteiner Straße 35	12687	Berlin	52.558946	13.560588	1			~TYPE2:3.7
+1024620	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Boschpoler Str. 21	12683	Berlin	52.527766	13.552793	1			~TYPE2:3.7
+1024621	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Boschpoler Str. 19	12683	Berlin	52.527720	13.553449	1			~TYPE2:3.7
+1024622	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 95	12681	Berlin	52.526670	13.546515	1			~TYPE2:3.7
+1024623	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 99	12681	Berlin	52.527010	13.547057	1			~TYPE2:3.7
+1024624	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 103	12681	Berlin	52.527371	13.547436	1			~TYPE2:3.7
+1024625	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Borkheider Str. 17	12689	Berlin	52.564774	13.572294	1			~TYPE2:3.7
+1024626	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Borkheider Str. 19	12689	Berlin	52.564484	13.572038	1			~TYPE2:3.7
+1024627	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Borkheider Str. 23	12689	Berlin	52.564153	13.571738	1			~TYPE2:3.7
+1024628	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Carola-Neher-Straße 4	12619	Berlin	52.530938	13.592894	1			~TYPE2:3.7
+1024629	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Carola-Neher-Straße 14	12619	Berlin	52.531587	13.593368	1			~TYPE2:3.7
+1024630	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Cecilienstraße 45	12683	Berlin	52.529897	13.554813	1			~TYPE2:3.7
+1024631	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Cecilienstraße 49	12683	Berlin	52.529851	13.555422	1			~TYPE2:3.7
+1024693	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eitelstraße 27	12683	Berlin	52.525659	13.550777	1			~TYPE2:3.7
+1024694	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eitelstraße 31	12683	Berlin	52.525553	13.552055	1			~TYPE2:3.7
+1024695	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eitelstraße 84A	12683	Berlin	52.525499	13.552727	1			~TYPE2:3.7
+1024696	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eitelstraße 38	12683	Berlin	52.525284	13.555379	1			~TYPE2:3.7
+1024697	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eitelstraße 40	12683	Berlin	52.525231	13.556042	1			~TYPE2:3.7
+1024698	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lemkestraße 161A	12623	Berlin	52.520892	13.630636	1			~TYPE2:3.7
+1024699	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lemkestraße 168	12683	Berlin	52.519335	13.628517	1			~TYPE2:3.7
+1024700	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lemkestraße 170	12683	Berlin	52.519023	13.628099	1			~TYPE2:3.7
+1024701	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 41	12683	Berlin	52.516571	13.617051	1			~TYPE2:3.7
+1024702	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 45	12683	Berlin	52.516394	13.617548	1			~TYPE2:3.7
+1024703	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Linderhofstraße 49	12683	Berlin	52.516193	13.618129	1			~TYPE2:3.7
+1024704	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lübzer Straße 23	12623	Berlin	52.521212	13.619646	1			~TYPE2:3.7
+1024705	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lichtenhainer Straße 23	12627	Berlin	52.535463	13.615025	1			~TYPE2:3.7
+1024706	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Schönagelstraße 49	12621	Berlin	52.548854	13.570393	1			~TYPE2:3.7
+1024707	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rabensteiner Straße 7	12689	Berlin	52.565197	13.573890	1			~TYPE2:3.7
+1024708	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Tangermünder Straße 7	12627	Berlin	52.544359	13.605892	1			~TYPE2:3.7
+1024709	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Tangermünder Straße 7	12627	Berlin	52.544318	13.605351	1			~TYPE2:3.7
+1024710	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Tangermünder Straße 3	12627	Berlin	52.544274	13.604788	1			~TYPE2:3.7
+1024711	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Maxie-Wander-Straße 40	12619	Berlin	52.529602	13.596219	1			~TYPE2:3.7
+1024827	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Schönagelstraße 70	12685	Berlin	52.549107	13.570446	1			~TYPE2:3.7
+1024841	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 0	12681	Berlin	52.526489	13.544661	1			~TYPE2:3.7
+1024842	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 0	12681	Berlin	52.526479	13.545318	1			~TYPE2:3.7
+1024843	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Allee der Kosmonauten 0	12681	Berlin	52.527746	13.547437	1			~TYPE2:3.7
+1024844	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rabensteiner Straße 19	12689	Berlin	52.565972	13.574955	1			~TYPE2:3.7
+1024845	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rabensteiner Straße 29	12689	Berlin	52.565891	13.575544	1			~TYPE2:3.7
+1024846	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Rabensteiner Straße 33	12689	Berlin	52.565716	13.576066	1			~TYPE2:3.7
+1024847	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eisenacher Straße 0	12629	Berlin	52.539444	13.589744	1			~TYPE2:3.7
+1024848	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Eisenacher Straße 0	12629	Berlin	52.539471	13.590180	1			~TYPE2:3.7
+1024849	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Havelländer Ring 43	12629	Berlin	52.541654	13.596743	1			~TYPE2:3.7
+1024850	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Döbelner Straße 0	12627	Berlin	52.529647	13.616909	1			~TYPE2:3.7
+1024851	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Döbelner Straße 0	12627	Berlin	52.529741	13.616472	1			~TYPE2:3.7
+1024852	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Fercher Straße 0	12629	Berlin	52.540483	13.585291	1			~TYPE2:3.7
+1024853	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Fercher Straße 0	12629	Berlin	52.540484	13.585835	1			~TYPE2:3.7
+1024854	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mark-Twain-Straße 6	12627	Berlin	52.534705	13.610471	1			~TYPE2:3.7
+1024855	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mark-Twain-Straße 38	12627	Berlin	52.535964	13.612857	1			~TYPE2:3.7
+1024856	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mark-Twain-Straße 44	12627	Berlin	52.536033	13.613493	1			~TYPE2:3.7
+1024857	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Mark-Twain-Straße 48	12627	Berlin	52.536082	13.613967	1			~TYPE2:3.7
+1024858	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Cecilienstraße 233	12619	Berlin	52.522957	13.591888	1			~TYPE2:3.7
+1024859	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Cecilienstraße 243	12619	Berlin	52.522812	13.593041	1			~TYPE2:3.7
+1025822	EnBW mobility+ AG und Co.KG		Neuenhagener Str. 48	12623	Berlin	52.505337	13.607021	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026017	EnBW mobility+ AG und Co.KG		Frankfurter Chaussee 37	15370	Vogelsdorf	52.500327	13.735027	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1026426	EnBW mobility+ AG und Co.KG		Alt-Biesdorf 38	12683	Berlin	52.506880	13.565920	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026575	EnBW mobility+ AG und Co.KG		Handwerkerstr 34	15366	Hoppengarten	52.503312	13.632772	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026735	EnBW mobility+ AG und Co.KG		Roelckestr. 108-109	13086	Berlin	52.506845	13.565922	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1026835	EnBW mobility+ AG und Co.KG		Ferdinand-Schultze-Str. 106	13055	Berlin	52.543979	13.508305	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027112	EnBW mobility+ AG und Co.KG		Freienwalder Str. 30 a-e	16225	Eberswalde	52.829875	13.830186	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027160	EnBW mobility+ AG und Co.KG		Möbel-Hübner-Str. 7	16356	Ahrensfelde	52.597702	13.601763	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1027649	EnBW mobility+ AG und Co.KG		Ferdinand-Schultze-Str. 106	13055	Berlin	52.544328	13.510067	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1029057	EDEKA-MIHA Charge GmbH		Templiner Straße 3	16247	Joachimsthal	52.978528	13.743799	1			~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1031766	TotalEnergies Charging Solutions		Schwanebecker Chaussee 50	13125	Berlin	52.631709	13.508478	1			~TYPE2:22|~TYPE2:22
+1031866	Circle K Deutschland		BAB Ost A11	16244	Schorfheide-Buckowsee	52.872924	13.690590	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032268	IKEA Deutschland GmbH & Co.KG		Landsberger Allee 364	10365	Berlin	52.534317	13.512700	1			~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20|~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20|~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20
+1032380	GETEC mobility solutions GmbH		Myslowitzer Straße 45	12621	Berlin	52.507555	13.593550	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1034638	Berliner Stadtwerke KommunalPartner GmbH		Blumberger Damm 14	12683	Berlin	52.528750	13.567210	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1034640	Berliner Stadtwerke KommunalPartner GmbH		Bausdorfstr. 10	12621	Berlin	52.512953	13.592668	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1034642	Berliner Stadtwerke KommunalPartner GmbH		Etkar-Andre-Str. 7	12619	Berlin	52.530400	13.593540	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1034766	E.DIS AG		Bahnhofstraße 2	16244	Schorfheide	52.904451	13.536876	1			~TYPE2:22|~TYPE2:22
+1036193	KADEA		Lindenstraße 16	12555	Berlin	52.505083	13.563282	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037270	Shell Deutschland GmbH		Landhausstr. 11	15345	Eggersdorf	52.539595	13.828408	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1037960	Besch GmbH		Karl-Marx-Straße 1a	16356	Ahrensfelde	52.600495	13.515498	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037961	Besch GmbH		Alt-Buch 53-57	13125	Berlin	52.636279	13.501710	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038324	TRIO JENNA GmbH		Zur Alten Börse 57	12681	Berlin	52.519293	13.526025	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041061	Berliner Stadtwerke KommunalPartner GmbH		Geraer Ring 7	12689	Berlin	52.565957	13.556933	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1041062	Berliner Stadtwerke KommunalPartner GmbH		Florastr. 1	12623	Berlin	52.513950	13.616640	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1043056	Allego		Landsberger Chaussee 17	16356	Ahrensfelde	52.548761	13.593228	1			DEALLEGO001251*1~TYPE2:22|DEALLEGO001251*2~TYPE2:22
+1043222	Allego		Dorfstr. 1	16341	Panketal	52.621152	13.542544	1			DEALLEGO002570*1~CCS2:150|DEALLEGO002570*2~CCS2:150
+1043423	Allego		An der B167 6	16244	Schorfheide	52.849737	13.686620	1			DEALLEGO002759*1~CCS2:150|DEALLEGO002759*2~CCS2:150
+1043542	Allego		Alt-Mahlsdorf 40	12623	Berlin	52.504900	13.616753	1		Keine Beschränkung	DEALLEGO002852*1~CCS2:150|DEALLEGO002852*2~CCS2:150
+1046369	Mercedes- Benz AG - Niederlassung Berlin		Rhinstr. 100	12681	Berlin	52.530206	13.519893	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1046370	Mercedes- Benz AG - Niederlassung Berlin		Rhinstr. 120	12681	Berlin	52.530207	13.519818	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1048098	Shell Deutschland GmbH		Alt-Kaulsdorf 45-49	12621	Berlin	52.505561	13.588271	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1048440	Lidl		Einbeckerstr. 59	10315	Berlin	52.509074	13.506379	1			~TYPE2:22|~TYPE2:22
+1048583	Lidl		Mahlsdorferstr. 82	15366	Berlin Hönow	52.540712	13.638088	1			~TYPE2:22+TYPE2_TETHERED:22|~CCS2:75+CHADEMO:75
+1048687	Lidl	6614_Lidl_Berlin-Marzahn-Hellersdorf_T54-HU1-3020-020	Märkische Allee 276	12679	Berlin	52.556560	13.554170	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50
+1048719	Lidl	3242_Lidl_Berlin_T54-HU1-3021-002	Prötzeler Ring 8	12679	Berlin	52.546067	13.575379	1		Keine Beschränkung	~TYPE2:22|~TYPE2_TETHERED:50+CCS2:50
+1048744	Lidl	5789_Lidl_Berlin-Marzahn_LS1_T54-HU1-3721-063	Hönower Str. 99	12623	Berlin	52.513671	13.611333	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1048785	Lidl	6072_Lidl_Berlin_T54-HU1-4520-014	Havemannstr. 1	12689	Berlin	52.569760	13.569398	1		Keine Beschränkung	~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1048999	Lidl	6440_Lidl_Berlin_T65-IT1-0523-168	Marzahner Chaussee 201	12681	Berlin	52.524828	13.533465	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049545	E.ON Drive Infrastructure		Seeberg Ost BAB 10 BAB 10	15366	Neuenhagen bei Berlin	52.543728	13.692682	1			~CCS2:62.5+CHADEMO:62.5|~CCS2:160
+1049546	E.ON Drive Infrastructure		Seeberg West BAB 10 BAB 10	15366	Neuenhangen bei Berlin	52.542448	13.690376	1			~CCS2:175|~CCS2:175
+1049612	E.ON Drive Infrastructure		toom, Eberswalder Straße 4, 16227 Eberswalde 4	16227	Eberswalde	52.840108	13.769127	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1049613	E.ON Drive Infrastructure		toom, Eberswalder Straße 4, 16227 Eberswalde 4	16227	Eberswalde	52.840011	13.769136	1			~CCS2:150|~CCS2:150
+1049627	E.ON Drive Infrastructure		toom, Eberswalder Straße 4, 16227 Eberswalde 0	16227	Eberswalde	52.840167	13.769116	1			~CCS2:300|~CCS2:300
+1049771	E.ON Drive Infrastructure		Marzahner Promenade 8	12679	Berlin	52.541991	13.543875	1			~TYPE2:22|~TYPE2:22
+1049775	E.ON Drive Infrastructure		Einbecker Straße 119	10315	Berlin	52.505879	13.513451	1			~TYPE2:22|~TYPE2:22
+1049785	E.ON Drive Infrastructure		Hönower Straße 89	12623	Berlin	52.512976	13.611845	1			~TYPE2:22|~TYPE2:22
+1049790	E.ON Drive Infrastructure		Marzahner Straße 24	13053	Berlin	52.544364	13.520168	1			~TYPE2:22|~TYPE2:22
+1049791	E.ON Drive Infrastructure		Leuenberger Straße 20	13055	Berlin	52.547845	13.504574	1			~TYPE2:22|~TYPE2:22
+1050157	amperio GmbH (DEAMP)		Rhinstraße 141	10315	Berlin	52.530873	13.513187	1			~CCS2:300|~CCS2:300
+1050553	Pfalzwerke AG		Rudolf-Diesel-Straße 6	16356	Ahrensfelde	52.608110	13.528230	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050569	Pfalzwerke AG		Märkische Spitze 15	12681	Berlin	52.518710	13.541930	1			~TYPE2:22|~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1050781	Pfalzwerke AG		Bollensdorfer Weg 2	15366	Hoppegarten	52.502180	13.665074	1			~CCS2:300|~CCS2:300
+1050782	Pfalzwerke AG		Bollensdorfer Weg 2	15366	Hoppegarten	52.502254	13.665073	1			~CCS2:300|~CCS2:300
+1050783	Pfalzwerke AG		Bollensdorfer Weg 2	15366	Hoppegarten	52.502070	13.665066	1			~TYPE2:22|~TYPE2:22
+1052437	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Goethestr. bei 8	16225	Eberswalde	52.831867	13.818695	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052438	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Eberswalder Str. 94b	16230	Britz	52.874905	13.820536	1			~TYPE2:22|~TYPE2:22
+1052440	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Brunnenstr. 26	16225	Eberswalde	52.826930	13.806020	1			~TYPE2:22|~TYPE2:22
+1052441	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Am Markt 1	16359	Biesenthal	52.765530	13.631900	1			~TYPE2:22
+1052442	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Jahnstr. 45	16321	Bernau	52.681400	13.592890	1			~TYPE2:22|~TYPE2:22
+1052443	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Lieper Schleuse 6	16248	Niederfinow	52.848185	13.942299	1			~TYPE2:22|~TYPE2:22
+1052445	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Amt Chorin bei 11	16230	Chorin	52.892468	13.885519	1			~TYPE2:22|~TYPE2:22
+1052446	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Finower Straße 2	16230	Melchow	52.776172	13.702498	1			~TYPE2:22
+1052447	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Kirchstraße 99	16230	Breydin	52.754235	13.788236	1			~TYPE2:22|~TYPE2:22
+1052448	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Rudolf-Breitscheid-Straße 110	16225	Eberswalde	52.828025	13.792680	1			~TYPE2:22|~TYPE2:22
+1052449	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Dorfstraße 33	16348	Marienwerder OT Ruhlsdorf	52.826131	13.559740	1			~TYPE2:22|~TYPE2:22
+1052450	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Schorfheidestraße / Choriner Straße 16	16227	Eberswalde	52.833233	13.764353	1			~TYPE2:22|~TYPE2:22
+1052453	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Bahnhofsring 0	16225	Eberswalde	52.833185	13.797260	1			~TYPE2:22|~TYPE2:22
+1052454	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Lindenbergerstraße 1	16356	Ahrensfelde	52.575696	13.575232	1			~TYPE2:22|~TYPE2:22|DE*KWB*E*162250173~TYPE2:22
+1052455	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Am Bahnhof 2	16356	Werneuchen	52.637065	13.737566	1			~TYPE2:22
+1052456	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Potsdamer Allee 38	16227	Eberswalde	52.831610	13.758519	1			~TYPE2:22|~TYPE2:22
+1052457	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Rudolf-Virchow-Straße 19	16225	Eberswalde	52.838811	13.816662	1			~TYPE2:22|~TYPE2:22
+1052458	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Zum Grenzfließ 2	16227	Eberswalde	52.832413	13.768444	1			~TYPE2:22|~TYPE2:22
+1052459	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Brückenstraße 8	16227	Eberswalde	52.840638	13.734327	1			~TYPE2:22|~TYPE2:22
+1052460	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Michaelisstraße 10	16225	Eberswalde	52.834265	13.817347	1			~TYPE2:22|~TYPE2:22
+1052462	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Eisenbahnstraße 4	16225	Eberswalde	52.834675	13.815724	1			~TYPE2:22|~TYPE2:22
+1052463	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Breitscheidstraße 45	16321	Bernau	52.675168	13.587199	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052465	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Marienstraße 2	16255	Eberswalde	52.835508	13.825498	1			~TYPE2:22|~TYPE2:22
+1052466	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Heegermühler Straße 69 A	16225	Eberswalde	52.838496	13.778098	1			~TYPE2:22|~TYPE2:22
+1052467	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Heinestraße 49	16341	Panketal	52.649126	13.516634	1			~TYPE2:22|~TYPE2:22
+1052468	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Prenzlauer Straße 16	16244	Schorfheide	52.921716	13.549417	1			~TYPE2:22|~TYPE2:22
+1052469	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Ladestraße 104	16341	Panketal	52.659317	13.534165	1			~TYPE2:22|~TYPE2:22
+1052470	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Hauptstraße 101	16244	Schorfheide	52.844499	13.683021	1			~TYPE2:22|~TYPE2:22
+1052471	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Ladestraße 0	16321	Bernau	52.674817	13.592037	1			~TYPE2:22|~TYPE2:22
+1052472	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Werbelliner Straße 2a	16225	Eberswalde	52.836894	13.787823	1			~TYPE2:22|~TYPE2:22
+1052473	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Fritz-Weineck-Straße 24	16227	Eberswalde	52.837130	13.739888	1			~TYPE2:22|~TYPE2:22
+1052474	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Ostender Höhen 70	16225	Eberswalde	52.839191	13.851797	1			~TYPE2:22|~TYPE2:22
+1052475	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Berliner Allee 12	16356	Werneuchen	52.630051	13.732943	1			~TYPE2:22|~TYPE2:22
+1052476	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Lenastraße 0	16321	Bernau	52.668926	13.564675	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052477	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Neue Straße 4	16225	Eberswalde	52.850425	13.818756	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052478	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Lindenallee 3	15370	Fredersdorf-Vogelsdorf	52.528621	13.755535	1			~TYPE2:22|~TYPE2:22
+1053258	Q1 Autostrom	Biesenthal, Eberswalder Chaussee	Eberswalder Chaussee 5	16359	Biesenthal	52.767752	13.648661	1	24/7	Keine Beschränkung	DE*Q1A*E3050005211~CCS2:150|DE*Q1A*E3050005212~CCS2:150|DE*Q1A*E3050005213~TYPE2:22
+1053293	Q1 Autostrom	Eberswalde, Freienwalder Straße - W	Freienwalder Str. 47	16225	Eberswalde	52.828300	13.836842	1	24/7	Keine Beschränkung	DE*Q1A*E48145947~TYPE2:22
+1054826	Aral Pulse		McDonald's-Str. 1	16356	Ahrensfelde	52.596650	13.600410	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054865	Aral Pulse		Altlandsberger Chaussee 27	15366	Hoppegarten	52.544390	13.647020	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055172	Aral Pulse		Freienwalder Straße 56	16356	Werneuchen	52.635677	13.744871	1			~CCS2:150|~CCS2:150
+1055301	Aral Pulse		Altlandsberger Chaussee 27	15366	Hoppegarten	52.544156	13.647600	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055676	Berliner Stadtwerke EnergiePartner GmbH		Rotkamp 41	13053	Berlin	52.563046	13.510636	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1055677	Berliner Stadtwerke EnergiePartner GmbH		Falkenberger Chaussee 40	13053	Berlin	52.562446	13.506643	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1057135	Lidl	5789_Lidl_Berlin-Marzahn_T54-HU1-1622-002	Hönower Str. 99	12623	Berlin	52.513555	13.611685	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1057544	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Lincolnstraße 78	10315	Berlin	52.503053	13.502410	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1058001	Stromversorgung Angermünde GmbH	Hemme Milch	Heideweg 4	16278	Angermünde	52.988502	13.955067	1	24/7	Keine Beschränkung	AT*HTB*EE1023110~TYPE2:22|AT*HTB*EE1023109~TYPE2:22
+1058015	Sense Electra GmbH		Helene-Weigel-Platz 1	12681	Berlin	52.526937	13.539438	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1058016	Sense Electra GmbH		Helene-Weigel-Platz 2	12681	Berlin	52.527538	13.538539	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1060178	CCE		Wuhlestr. 31	12683	Berlin	52.528731	13.569233	1			~TYPE2:22|~TYPE2:22
+1061135	Autokreisel Olbrich & Söhne OHG		Rhinstr. 52 A	12681	Berlin	52.518182	13.521098	1	24/7	Keine Beschränkung	~TYPE2:22
+1063446	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Carl-Zeiss-Straße 4	16225	Eberswalde	52.856482	13.766440	1			~TYPE2:11|~TYPE2:11
+1063901	GSG Gewerbehöfe Berlin 2. GmbH & Co. KG		Plauener Str. 163-165	13053	Berlin	52.545307	13.514164	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:75|~CCS2:75
+1063914	GSG Gewerbehöfe Berlin 4. GmbH & Co. KG		Döbelner Straße 1-5,7	12627	Berlin	52.529863	13.615456	1			~TYPE2:11|~TYPE2:11|~CCS2:75|~CCS2:75
+1063918	GSG Gewerbehöfe Berlin 4. GmbH & Co. KG		Wolfener Straße 32-34	12681	Berlin	52.559919	13.552702	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:150
+1063921	GSG Gewerbehöfe Berlin 4. GmbH & Co. KG		Wolfener Straße 32-34	12681	Berlin	52.560010	13.552602	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1064209	Kaufland	1780_Kland_Berlin-Marzahn_T54-IT1-3022-211	Märkische Allee 166-172	12681	Berlin	52.533420	13.538700	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064245	Kaufland	2040_Kland_Strausberg_T65-IT1-3422-189	Otto-Grotewohl-Ring 72	15344	Strausberg	52.573310	13.897180	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064250	Kaufland	6620_Kland_Berlin_T65-IT1-3422-082	Hauptstr. 9-10	13055	Berlin	52.548229	13.505931	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064826	Aral Pulse		An der B 167 4	16244	Finowfurt	52.850072	13.685749	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1068416	Forstbetrieb Haller		Ernst-Thälmann-Str. 20	16321	Bernau	52.663980	13.639800	1			~TYPE2_TETHERED:11
+1068709	Tobias Hahne		Mühlenstr. 21	16341	Panketal	52.647934	13.545783	1			~TYPE2:11
+1069012	Berliner Energieagentur GmbH		Schleizer Straße 63	13055	Berlin	52.539500	13.506130	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1069414	Gewobag ED		Henriette-Herz-Allee 9	13057	Berlin	52.573280	13.560243	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069422	Volbracht Solar Mining		Pilgramer Straße 335b	12623	Berlin	52.502911	13.619981	1			~TYPE2:11
+1069983	Stadtwerke Strausberg GmbH		Fichteplatz 1	15344	Strausberg	52.575532	13.879184	1			~TYPE2:22|~TYPE2:22
+1069984	Stadtwerke Strausberg GmbH		Bahnstrasse 1c	15345	Rehfelde	52.528690	13.921955	1			~TYPE2:22|~TYPE2:22
+1069985	Stadtwerke Strausberg GmbH		Bahnhofstraße 38 a	15345	Rehfelde	52.530664	13.926514	1			~TYPE2:22|~TYPE2:22
+1069986	Stadtwerke Strausberg GmbH		Annemariestraße 1	15345	Rehfelde	52.531131	13.912385	1			~TYPE2:22|~TYPE2:22
+1069987	Stadtwerke Strausberg GmbH		Ernst-Thälmann-Straße 76a	15345	Rehfelde	52.530273	13.888907	1			~TYPE2:22|~TYPE2:22
+1069988	Stadtwerke Strausberg GmbH		Elsholzstraße 6	15345	Rehfelde	52.530860	13.924300	1			~TYPE2:22|~TYPE2:22
+1069989	Stadtwerke Strausberg GmbH		Josef-Zettler-Ring 1	15344	Strausberg	52.576659	13.887522	1			~TYPE2:22|~TYPE2:22
+1069990	Stadtwerke Strausberg GmbH		Rudolf-Egelhofer-Straße 0	15344	Strausberg	52.533150	13.835171	1			~TYPE2:22|~TYPE2:22
+1069991	Stadtwerke Strausberg GmbH		Herrenseeallee 15	15344	Strausberg	52.557544	13.872617	1			~TYPE2:22|~TYPE2:22
+1069992	Stadtwerke Strausberg GmbH		Herrenseeallee 15	15344	Strausberg	52.558162	13.871961	1			~CCS2:50|~TYPE2:22
+1069993	Stadtwerke Strausberg GmbH		Gustav-Kurtze-Promenade 58	15344	Strausberg	52.538582	13.843493	1			~TYPE2:22|~TYPE2:22
+1069994	Stadtwerke Strausberg GmbH		Artur-Becker-Straße 14	15344	Strausberg	52.575366	13.892241	1			~TYPE2:22|~TYPE2:22
+1069995	Stadtwerke Strausberg GmbH		Berliner Straße bei 1a	15378	Hennickendorf	52.505918	13.844389	1			~TYPE2:22|~TYPE2:22
+1069999	Stadtwerke Strausberg GmbH		Am Herrensee 16	15344	Strausberg	52.550181	13.864274	1			~TYPE2:22|~TYPE2:22
+1070000	Stadtwerke Strausberg GmbH		Gustav-Kurtze-Promenade 80	15344	Strausberg	52.539453	13.846192	1			~TYPE2:22|~TYPE2:22
+1072835	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Archenholdstr. 2	10315	Berlin	52.509070	13.504790	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1072837	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Wörlitzer Str. 5	12689	Berlin	52.568250	13.568910	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1072839	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Blumberger Damm 162	12679	Berlin	52.547400	13.573320	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1072842	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Auersbergstr. 14	12685	Berlin	52.539004	13.556974	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1072843	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Niemegker Str. 24	12689	Berlin	52.565230	13.570260	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1073033	E.ON Drive Infrastructure		Havemannstr. 4	12689	Berlin	52.569627	13.566712	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1075775	Ökodorf Brodowin Meierei GmbH & Co. Betriebs KG		Brodowiner Dorfstraße 89	16230	Chorin OT Brodowin	52.915550	13.956850	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076448	Pflanzen-Kölle Gartencenter GmbH & Co. KG		Bollensdorfer Weg 2-4	15366	Dahlwitz-Hoppegarten	52.501200	13.663990	1			~TYPE2:22|~TYPE2:22
+1076921	Berliner Stadtwerke KommunalPartner GmbH		Braunsdorfstr. 26	12683	Berlin	52.509840	13.550690	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077302	E.ON Drive Infrastructure		Planitzstr. 1	12621	Berlin	52.511240	13.587448	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077303	E.ON Drive Infrastructure		Teterower Ring 43	12619	Berlin	52.521687	13.585812	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077758	EDEKA-MIHA Charge GmbH		Bernauer Str. 44	16341	Panketal	52.656524	13.546656	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1077947	EDEKA-MIHA Charge GmbH		Lessingstr. 5	15370	Petershagen	52.530240	13.792142	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:22|~CCS2:50|~TYPE2_TETHERED:22
+1080857	BORCHARDT Immobilien, Einzelunternehmen		Hoppegartener Straße 83	15366	Hönow	52.531537	13.642290	1			~TYPE2:22
+1081025	E.ON Drive Infrastructure		Hasenholzer Allee 2	12685	Berlin	52.540672	13.574287	1	24/7	Keine Beschränkung	DE*UFC*E01115*1~TYPE2:22|DE*UFC*E01115*2~TYPE2:22
+1081031	E.ON Drive Infrastructure		Kulmseestr. 4	12683	Berlin	52.513886	13.554322	1	24/7	Keine Beschränkung	DE*UFC*E01101*1~TYPE2:22|DE*UFC*E01101*2~TYPE2:22
+1082061	eze.network GmbH		Warener Straße 1	12683	Berlin	52.518886	13.564914	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082062	eze.network GmbH		Minsker Straße 44	12683	Berlin	52.504477	13.557604	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082101	eze.network GmbH	TTA000454	Kokoschkastr. 1	12627	Berlin	52.536990	13.606500	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082109	eze.network GmbH		Feldberger Ring 68	12619	Berlin	52.529644	13.587631	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082118	eze.network GmbH		Henny-Porten-Straße 6	12627	Berlin	52.539040	13.602807	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082169	eze.network GmbH		Marie-Curie-Allee 35	10315	Berlin	52.506815	13.501778	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1082170	eze.network GmbH		Franz-Stenzer-Straße 3	12679	Berlin	52.544700	13.545344	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1083861	Autohaus Schatka GmbH & Co KG		Freienwalder Str. 80	16225	Eberswalde	52.826112	13.848852	1			~TYPE2:11|~TYPE2:22|~TYPE2:11
+1084573	Alexander Geue		Meiningener Straße 31	15366	Neuenhagen bei Berlin	52.505639	13.693561	1			~TYPE2_TETHERED:11
+1085336	Dennis Köpp		Schwarzwurzelstraße 20	12689	Berlin	52.568257	13.554481	1			~TYPE2:11
+1085382	Dietmar Graff		Worbiser Straße 11	13055	Berlin	52.538559	13.513936	1			~TYPE2:11
+1085389	Dino Maluck		Mühlenbergring 23	16341	Panketal	52.646419	13.545816	1			~TYPE2:11|~TYPE2:11
+1085550	Enrico Wulff		Gärtnerstraße 17	13055	Berlin	52.546211	13.503938	1			~TYPE2_TETHERED:11
+1085822	Gerold Angermüller		Rebhuhnwinkel 2	16356	Ahrensfelde	52.581719	13.574793	1			~TYPE2_TETHERED:11
+1086453	Katrin Lausch		Wesendahler Straße 2	15344	Strausberg	52.565913	13.877755	1			~TYPE2_TETHERED:11
+1086618	Lutz Witt		Ahornstraße 15	16227	Eberswalde	52.840954	13.721926	1			~TYPE2_TETHERED:22
+1087489	Rechtsanwaltskanzlei Dr. Bock		Waldemarstr. 48	15344	Strausberg	52.541391	13.851675	1			~TYPE2:11
+1087496	Reik Packheiser		Eschenweg 31	16244	Schorfheide	52.907738	13.707200	1			~TYPE2:11
+1087522	Rene Kasch		Karl-Bach-Straße 6	16225	Eberswalde	52.835271	13.833757	1			~TYPE2_TETHERED:11
+1087524	Rene Kemna		Unter den Ulmen 4	15366	Neuenhagen bei Berlin	52.532448	13.671413	1			~TYPE2_TETHERED:11
+1087976	Sven Napieraj		Graf-Spreti-Straße 22	15366	Neuenhagen bei Berlin	52.529830	13.681397	1			~TYPE2_TETHERED:11
+1087983	Sven Suehring		Bonsaiweg 51	15370	Fredersdorf-Vogelsdorf	52.530586	13.760447	1			~TYPE2:16
+1088437	Wolfgang Kuhn		Kastanienweg 10	15345	Altlandsberg	52.602027	13.747120	1		Keine Beschränkung	~TYPE2:11
+1088675	Kaufland	3150_KDL_Eberswalde_T65-IT1-1324-002	Angermünder Str. 66	16225	Eberswalde	52.849391	13.779682	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1088713	InnoZent GmbH	Parkplatz InnoZent	Alfred-Nobel-Str. 1	16225	Eberswalde	52.850000	13.770000	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11
+1089494	SozDia Stiftung Berlin		Liebenwalder Str. 18	13055	Berlin	52.536417	13.502514	1	24/7	Keine Beschränkung	DE*LAD*EGRUEN10175*01~TYPE2:22|DE*LAD*EGRUEN10143*01~TYPE2:22
+1089505	MD-Autowerkstatt - Einzelunternehmen		Gärtnerstraße 17	13055	Berlin	52.545451	13.502109	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1089939	Berliner Stadtwerke KommunalPartner GmbH		Märkische Allee 284	12687	Berlin	52.559002	13.556664	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091177	Flexi ER Schulz - Einzelunternehmung		Am Grassee 43	15370	Fredersdorf-Vogelsdorf	52.509163	13.753919	1			~TYPE2_TETHERED:11
+1091314	Heckelberger Wohnungswirtschaftsgesellschaft mbH		Hauptstraße 14-16	16259	Beiersdorf-Freudenberg	52.693440	13.783510	1			~TYPE2:22|~TYPE2:22
+1091805	E.ON Drive Infrastructure		Große-Leege-Str. 115	13055	Berlin	52.548339	13.501326	1	24/7	Keine Beschränkung	DE*UFC*E01116*1~TYPE2:22|DE*UFC*E01116*2~TYPE2:22
+1092031	Jolt Energy GmbH		Nordring 4	12681	Berlin	52.560790	13.550669	1	24/7	Keine Beschränkung	DE*JEG*EB009101~CCS2:300|DE*JEG*EB009102~CCS2:300
+1093116	Auto Treff Oranke GmbHUlf		Gärtnerstraße 17	13055	Berlin	52.546390	13.503910	1			~TYPE2:22|~TYPE2:22
+1093117	Auto Treff Oranke GmbHUlf		Gärtnerstraße 17	13055	Berlin	52.546430	13.503029	1			~TYPE2:22|~TYPE2:22
+1093616	LUKAT Automobile & Service GmbH		Am Pankeborn 5	16321	Bernau	52.685204	13.600371	1			~TYPE2:22|~TYPE2:22
+1093617	LUKAT Automobile & Service GmbH		Pankeborn 5	16321	Bernau	52.685043	13.601331	1			~TYPE2:22|~TYPE2:22
+1093618	LUKAT Automobile & Service GmbH		Am Pankeborn 5	16321	Bernau bei Berlin	52.685290	13.600330	1			~CCS2:50|~CCS2:50
+1093763	Greenman Energy Operations GmbH & Co. KG	Mahlsdorf	An der Schule 82	12623	Berlin	52.506237	13.614815	1	24/7	Keine Beschränkung	AT*HTB*E1024093~CCS2:300|AT*HTB*E1024093~CCS2:300|AT*HTB*E1024095~CCS2:300|AT*HTB*E1024096~CCS2:300|AT*HTB*E1024097~CCS2:300|AT*HTB*E1024098~CCS2:300|AT*HTB*E1024099~CCS2:300|AT*HTB*E1024100~CCS2:300
+1096593	Autohaus Dahlmann e.K.		Hohensteiner Chaussee 0	15344	Strausberg	52.572510	13.902725	1			~CCS2:22|~TYPE2:11
+1097424	Knaack GmbH		Magistrale 5	16244	Schorfheide	52.847879	13.691964	1			~TYPE2:11|~TYPE2:11
+1097615	Zemke Autohaus Bernau GmbH		Magistrale 2	16244	Schorfheide	52.848471	13.690049	1			~CCS2:22|~TYPE2:11
+1097617	Zemke Autohaus Bernau GmbH		Schwanebecker Chaussee 21b	16321	Bernau bei Berlin	52.671028	13.585413	1			~TYPE2:22|~CCS2:50
+1099673	Vattenfall Smarter Living GmbH		Allee der Kosmonauten 26b	12681	Berlin	52.525209	13.523430	1			~TYPE2:11
+1099674	Vattenfall Smarter Living GmbH		Allee der Kosmonauten 26b	12681	Berlin	52.524932	13.523215	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1099681	Vattenfall Smarter Living GmbH		Allee der Kosmonauten 26b	12681	Berlin	52.525087	13.522955	1			~CCS2:360|~CCS2:360|~CCS2:120|~CCS2:120|~CCS2:150|~CCS2:150
+1099692	Vattenfall Smarter Living GmbH		Am Gehrensee 2	13057	Berlin	52.572574	13.564568	1			~CCS2:180|~CCS2:180
+1099730	Vattenfall Smarter Living GmbH		Lindenstraße 61	15366	Neuenhagen	52.530008	13.669113	1			~CCS2:120|~CCS2:120
+1099743	Vattenfall Smarter Living GmbH		Neue Kärntner Str. 27	16341	Panketal	52.629380	13.527888	1			~CCS2:180|~CCS2:180
+1099747	Vattenfall Smarter Living GmbH		Dahlwitzer Str. 60	12623	Berlin	52.521003	13.647266	1			~CCS2:180|~CCS2:180
+1099748	Vattenfall Smarter Living GmbH		Dahlwitzer Str. 60	12623	Berlin	52.520985	13.647244	1			~CCS2:180|~CCS2:180
+1099765	Vattenfall Smarter Living GmbH		Malchower Weg 51	13053	Berlin	52.554673	13.502714	1			~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1099822	Vattenfall Smarter Living GmbH		Köpenicker Straße 45	12683	Berlin	52.502444	13.562047	1		Keine Beschränkung	~CCS2:360|~CCS2:360
+1099823	Vattenfall Smarter Living GmbH		Köpenicker Straße 45	12683	Berlin	52.502434	13.562216	1		Keine Beschränkung	~CCS2:360|~CCS2:360
+1099827	Vattenfall Smarter Living GmbH		Köpenicker Straße 45	12683	Berlin	52.502434	13.562117	1		Keine Beschränkung	~CCS2:360|~CCS2:360
+1101000	Tesla Germany GmbH		Dorfstraße 1A	16341	Panketal	52.620732	13.541620	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102803	eze.network GmbH	TTA000585	Döbelner Str. 4	12627	Berlin	52.529937	13.615451	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103007	Berliner Stadtwerke KommunalPartner GmbH		Lyonel-Feininger-Str. 23	12627	Berlin	52.539270	13.606911	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103331	Berliner Stadtwerke KommunalPartner GmbH		Karlstr. 16a	12621	Berlin	52.506548	13.590974	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103835	Berliner Stadtwerke KommunalPartner GmbH		Allee der Kosmonauten 119A	12681	Berlin	52.528140	13.547910	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200
+1103865	E.ON Drive Infrastructure		Adorfer Str. 5	12627	Berlin	52.532240	13.607210	1	24/7	Keine Beschränkung	DE*UFC*E01131*1~TYPE2:22|DE*UFC*E01131*2~TYPE2:22
+1103981	Michael Hagemann		Goetheweg 1	15366	Neuenhagen	52.517774	13.700270	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1105982	PaechElektro		Gärtnerstraße 17	13125	Berlin	52.546430	13.503029	1			~TYPE2:22|~TYPE2:22
+1106339	E.ON Drive GmbH		Bahnhofstrasse 2	16244	Schorfheide	52.904450	13.536890	1			~TYPE2:22|~TYPE2:22
+1107591	E.ON Drive GmbH		Landsberger Straße 233	12623	Berlin	52.504146	13.627396	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1109416	E.ON Drive GmbH		Alfred-Nobel-Straße 1	16225	Eberswalde	52.856478	13.774927	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1109875	BMW AG		Blumberger Damm 2	12683	Berlin	52.509480	13.562264	1			~TYPE2:22|~TYPE2:22
+1112553	Autohaus Körner GmbH		Dingolfinger Str. 7	12683	Berlin	52.509300	13.564510	1			~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1112697	Prodontos Dentaltechnik GmbH & Co. KG		Falkenberger Chaussee 134/136	13057	Berlin	52.567900	13.525685	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113544	Beicon Energy GmbH		Falkenberger Chaussee 134/136	13057	Berlin	52.567730	13.525188	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114571	BÄRMAG Berlin Makler UG		Dorfstr. 28	15345	Rehfelde bei Strausberg	52.534769	13.909104	1			~TYPE2:11
+1115008	Vattenfall Smarter Living GmbH		Gülzower Str. 28	12621	Berlin	52.514586	13.583544	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1115660	E.ON Drive Infrastructure		Mark-Twain-Str. 24	12627	Berlin	52.535800	13.611230	1	24/7	Keine Beschränkung	DE*UFC*E01017*1~TYPE2:22|DE*UFC*E01017*2~TYPE2:22
+1116263	EWE Go GmbH	McD_0814_1A	An der B 167 0	16244	Schorfheide	52.841720	13.696730	1	24/7	Keine Beschränkung	DE*2GO*EMCD0814*1A*1~CCS2:150|DE*2GO*EMCD0814*1A*2~CCS2:150
+1116643	Stadtwerke Strausberg GmbH		Flugplatzstr. F1 1	15344	Strausberg	52.586154	13.917142	1	24/7	Keine Beschränkung	DESSGE001701~TYPE2:22|DESSGE001702~TYPE2:22
+1116701	Stadtwerke Strausberg GmbH		Konradstr. 1a	15344	Strausberg	52.536186	13.841458	1	24/7	Keine Beschränkung	DESSGE001901~TYPE2:22|DESSGE001902~TYPE2:22|DESSGE001903~TYPE2:22|DESSGE001904~TYPE2:22
+1118282	CoMoly GmbH	OBI Bernau	Johann-Friedrich-A.-Borsig-Str. 4	16321	Bernau bei Berlin	52.688772	13.563797	1	24/7	Keine Beschränkung	7431597~CCS2:300|7431597~CCS2:300|8695917~CCS2:150|8695917~CCS2:150
+1118590	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-KYMMD5	Klandorfer Str. 2A	12689	Berlin	52.571528	13.569183	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118591	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-MWRXJF	Boizenburger Str. 57	12619	Berlin	52.517270	13.579428	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118593	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-V8A2V2	Eichhorster Str. 28	12689	Berlin	52.571990	13.574550	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118599	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-WVNXWR	Adele-Sandrock-Str. 113	12627	Berlin	52.536583	13.620278	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1119789	Vattenfall Smarter Living GmbH		Am Fuchsbau 3	15345	Eggersdorf	52.532107	13.807115	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1120034	Vonovia Energie GmbH		Hugo-Distler-Str. 2 Y	12619	Berlin	52.521109	13.599996	1	24/7	Keine Beschränkung	DEGLSEEASY03401~TYPE2:22|DEGLSEEASY03402~TYPE2:22
+1120650	Berliner Stadtwerke KommunalPartner GmbH		Sitzendorfer Str. 2	12687	Berlin	52.558335	13.574389	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121472	GETEC mobility solutions GmbH	LAD001X229U SozDia Liebenwalder	Liebenwalder Str. 18	13055	Berlin	52.536492	13.502666	1	24/7	Keine Beschränkung	MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+kt8Cu5O0ICaSCDHDSqE~TYPE2:22|DE*LAD*EGRUEN10143*01~TYPE2:22
+1125885	cocharge	DECOC159	Siegfriedstr. 79	10365	Berlin	52.531284	13.500357	1	24/7	Keine Beschränkung	DE*COC*E159*01~CCS2:150|DE*COC*E159*02~CCS2:150|DE*COC*E159*01~CCS2:150|DE*COC*E159*02~CCS2:150
+1125934	Shell Deutschland GmbH		Freienwalder Chaussee 21B	16356	Ahrensfelde	52.606733	13.617140	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1125935	Shell Deutschland GmbH		Freienwalder Chaussee 21B	16356	Ahrensfelde	52.606848	13.617580	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1126143	Q1 Autostrom	Eberswalde, Freienwalder Straße	Freienwalder Str. 47A	16225	Eberswalde	52.828008	13.836687	1	24/7	Nur für Kunden/Besucher	DE*Q1A*E48140056~CCS2:150|DE*Q1A*E48140057~CCS2:150
+1126517	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Blumberg Barnimer Feldmark	Am Bahnhof 2	16356	Ahrensfelde	52.605062	13.611972	1	24/7	Keine Beschränkung	DE*KWB*E*162250153~TYPE2:22
+1126520	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Eberswalde Familiengarten	Am Alten Walzwerk 1	16227	Eberswalde	52.841069	13.766439	1	24/7	Keine Beschränkung	DE*KWB*E*162250086~TYPE2:22|DE*KWB*E*162250087~TYPE2:22
+1126521	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Eberswalde Zoo	Am Wasserfall 1	16225	Eberswalde	52.824695	13.783162	1	24/7	Keine Beschränkung	DE*KWB*E*162250088~TYPE2:22|DE*KWB*E*162250089~TYPE2:22
+1127054	timpla GmbH		Heinrich-Hertz-Str. 10	16225	Eberswalde	52.855522	13.787977	1	24/7	Keine Beschränkung	PARDE0885S001~TYPE2:22+TYPE2:22|PARDE0885S002~TYPE2:22+TYPE2:22|PARDE0885S003~TYPE2:22+TYPE2:22|PARDE0885S004~TYPE2:22+TYPE2:22
+1128270	Berliner Stadtwerke KommunalPartner GmbH		Bietzkestr. 23	10315	Berlin	52.504491	13.503696	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128415	Berliner Stadtwerke KommunalPartner GmbH		Köpenicker Str. 42	12683	Berlin	52.503226	13.562030	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1128712	ALDI Nord		Rüdnitzer Chaussee 48-50	16321	Bernau bei Berlin	52.688200	13.600500	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1128779	TotalEnergies Charging Solutions		Ernst-Barlach-Str. 19	13059	Berlin	52.575166	13.508781	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS45005*001*1~CCS2:75|DE*TCB*E3D9CS45005*001*2~CCS2:75|DE*TCB*E3D9CS45005*002*1~CCS2:75|DE*TCB*E3D9CS45005*002*2~CCS2:75
+1129334	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Bernau Rathaus	Alte Brauerei 5	16321	Bernau bei Berlin	52.678792	13.587187	1	24/7	Keine Beschränkung	DE*KWB*E*162250154~TYPE2:22|DE*KWB*E*162250155~TYPE2:22
+1129917	Shell Deutschland GmbH		Freienwalder Chaussee 21B	16356	Ahrensfelde	52.606769	13.617354	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1130708	Dayser Deutschland GmbH	Park Your Truck, 15344 Strausberg	Landhausstr. 16-18	15344	Strausberg	52.540054	13.837467	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1131234	Vonovia Energie GmbH		Wernerstr. 55	12619	Berlin	52.519108	13.597674	1	24/7	Keine Beschränkung	DEGLSEEASY05201~TYPE2:22|DEGLSEEASY05202~TYPE2:22
+1131243	TotalEnergies Charging Solutions		Landsberger Chaussee 17	16356	Ahrensfelde	52.548309	13.599828	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS45102*008*1~CCS2:25|DE*TCB*E3D9CS45102*008*2~CCS2:25|DE*TCB*E3D9CS45102*007*1~CCS2:25|DE*TCB*E3D9CS45102*007*2~CCS2:25|DE*TCB*E3D9CS45102*006*1~CCS2:25|DE*TCB*E3D9CS45102*006*2~CCS2:25|DE*TCB*E3D9CS45102*010*1~CCS2:25|DE*TCB*E3D9CS45102*010*2~CCS2:25|DE*TCB*E3D9CS45102*005*1~CCS2:25|DE*TCB*E3D9CS45102*005*2~CCS2:25|DE*TCB*E3D9CS45102*009*1~CCS2:25|DE*TCB*E3D9CS45102*009*2~CCS2:25|DE*TCB*E3D9CS45102*001*1~CCS2:100|DE*TCB*E3D9CS45102*001*2~CCS2:100|DE*TCB*E3D9CS45102*002*1~CCS2:100|DE*TCB*E3D9CS45102*002*2~CCS2:100|DE*TCB*E3D9CS45102*004*1~CCS2:100|DE*TCB*E3D9CS45102*004*2~CCS2:100|DE*TCB*E3D9CS45102*003*2~CCS2:100|DE*TCB*E3D9CS45102*003*1~CCS2:100
+1131507	GLS Mobility GmbH	Vonovia Hugo-Distler-Straße (12619 Berlin) TE200001821	Hugo-Distler-Str. 4	12619	Berlin	52.521066	13.599982	1	24/7	Keine Beschränkung	DEGLSEEASY03401~TYPE2:22|DEGLSEEASY03402~TYPE2:22
+1131721	GLS Mobility GmbH	Vonovia Wernerstraße (12619 Berlin) TE200002548	Wernerstr. 55	12619	Berlin	52.519108	13.597674	1	24/7	Keine Beschränkung	DEGLSEEASY05201~TYPE2:22|DEGLSEEASY05202~TYPE2:22
+1132357	eze.network GmbH	TTA000441	Alte Berliner Str. 20	15366	Hoppegarten	52.501033	13.655173	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132502	Allego		Rhinstr. 240	13055	Berlin	52.547070	13.509567	1	24/7	Keine Beschränkung	DEALLEGO003923_1~CCS2:400|DEALLEGO003923_2~CCS2:400|DEALLEGO003924_1~CCS2:400|DEALLEGO003924_2~CCS2:400|DEALLEGO003927_1~CCS2:400|DEALLEGO003927_2~CCS2:400
+1132597	Tesla Germany GmbH		Märkische Spitze 9	12681	Berlin	52.516492	13.543520	1	24/7	Keine Beschränkung	DE*TSL*E1BTFWN~CCS2:250|DE*TSL*E1BTFWO~CCS2:250|DE*TSL*E1BTFWP~CCS2:250|DE*TSL*E1BTFWQ~CCS2:250|DE*TSL*E1BTFWR~CCS2:250|DE*TSL*E1BTFWS~CCS2:250|DE*TSL*E1BTFXI~CCS2:250|DE*TSL*E1BTFYU~CCS2:250
+1132788	Shell Deutschland GmbH	12986490_Hoppegarten Ot Hönow	Stienitzstr. 15	15366	Hoppegarten	52.541586	13.649886	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1132789	Shell Deutschland GmbH	12986490_Hoppegarten Ot Hönow	Stienitzstr. 15	15366	Hoppegarten	52.541700	13.649699	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1132812	Shell Deutschland GmbH		Stendaler Str. 176	12627	Berlin	52.545325	13.603627	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1134180	ALDI Nord		Carl-Schmäcke-Str. 29	15366	Neuenhagen	52.535500	13.698400	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1134240	Vattenfall Smarter Living GmbH		Freienwalder Str. 48	16225	Eberswalde	52.828049	13.838119	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134241	Vattenfall Smarter Living GmbH		Freienwalder Str. 48	16225	Eberswalde	52.828004	13.838264	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134567	amperio GmbH (DEAMP)	Ahrensfelde - Rudolf-Diesel-Straße 7 - SELGROS (ID 1)	Rudolf-Diesel-Str. 7	16356	Ahrensfelde	52.609308	13.527911	1		Keine Beschränkung	DEAMPE103300009871~CCS2:100|DEAMPE103300009872~CCS2:100
+1134910	Vonovia Energie GmbH		Blumberger Damm 209	12687	Berlin	52.552031	13.572882	1	24/7	Keine Beschränkung	DEGLSEEASY05701~TYPE2:22|DEGLSEEASY05702~TYPE2:22|DEGLSEEASY05601~TYPE2:22|DEGLSEEASY05602~TYPE2:22
+1134918	Vonovia Energie GmbH		Vincent-van-Gogh-Str. 13	13057	Berlin	52.566515	13.523376	1	24/7	Keine Beschränkung	DEGLSEEASY06701~TYPE2:22|DEGLSEEASY06702~TYPE2:22|DEGLSEEASY06801~TYPE2:22|DEGLSEEASY06802~TYPE2:22
+1134925	Vonovia Energie GmbH		Falkenberger Chaussee 18	13053	Berlin	52.562744	13.504967	1	24/7	Keine Beschränkung	DEGLSEEASY06601~TYPE2:22|DEGLSEEASY06602~TYPE2:22|DEGLSEEASY06501~TYPE2:22|DEGLSEEASY06502~TYPE2:22
+1135207	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Heinestr. 49	16341	Panketal	52.649084	13.516529	1	24/7	Keine Beschränkung	DE*KWB*E*162250160~TYPE2:22
+1135454	Shell Deutschland GmbH		Allee der Kosmonauten 196	12685	Berlin	52.541158	13.563380	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1136214	GLS Mobility GmbH	Vonovia (Vincent-van-Gogh-Straße 13, 13057 Berlin) TE2000023	Vincent-van-Gogh-Str. 13	13057	Berlin	52.566515	13.523376	1	24/7	Keine Beschränkung	DEGLSEEASY06701~TYPE2:22|DEGLSEEASY06702~TYPE2:22|DEGLSEEASY06801~TYPE2:22|DEGLSEEASY0802~TYPE2:22
+1136219	GLS Mobility GmbH	Vonovia (Falkenberger Chaussee 20, 130053 Berlin)TE200002349	Falkenberger Chaussee 20	13053	Berlin	52.562744	13.504967	1	24/7	Keine Beschränkung	DEGLSEEASY06501~TYPE2:22|DEGLSEEASY06502~TYPE2:22|DEGLSEEASY06601~TYPE2:22|DEGLSEEASY06602~TYPE2:22
+1136312	ALDI Nord		Carl-Schmäcke-Str. 29	15366	Neuenhagen	52.535600	13.698000	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1137014	Rene Pissula	privat Grundstück	Karl-Marx-Str. 22	16230	Sydower Fließ	52.744883	13.722499	1	Mo-Fr 15:00-19:00, Sa 08:00-19:00, So 09:00-19:00	Keine Beschränkung	~TYPE2:11
+1137046	Berliner Stadtwerke KommunalPartner GmbH		Chemnitzer Str. 42	12621	Berlin	52.501650	13.579930	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1137301	POTR	Plenitude On The Road Ladestation	Blumberger Chaussee 1	16356	Ahrensfelde	52.582600	13.587730	1	24/7	Keine Beschränkung	DE*BEC*H000668-1~CCS2:150|DE*BEC*H000668-2 DE*BEC*H000668-3~CCS2:150+TYPE2_TETHERED:22|DE*BEC*H000722-1~CCS2:150|DE*BEC*H000722-2 DE*BEC*H000722-3~CCS2:150+TYPE2_TETHERED:22|DE*BEC*H000723-1~CCS2:150|DE*BEC*H000723-2 DE*BEC*H000723-3~CCS2:150+TYPE2_TETHERED:22
+1137913	Green Energy	Finowfurt-Schorfheide Kaufland	An der B 167 3	16244	Schorfheide	52.839208	13.700716	1	24/7	Nur für Kunden/Besucher	DE*BDO*E481791149*1~CCS2:150|DE*BDO*E481791149*2~CCS2:150
+1138421	Berliner Stadtwerke KommunalPartner GmbH		Peter-Huchel-Str. 18-20	12619	Berlin	52.524760	13.590010	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1140763	Comfort Charge	Berlin, CC_10_0016	Hellersdorfer Str. 80	13057	Berlin	52.567670	13.543370	1	24/7	Keine Beschränkung	DECCH*ECCH2300230EBG*1~CCS2:49|DECCH*ECCH2300230EBG*2~TYPE2_TETHERED:22|DECCH*ECCH2300230EBG*1~CCS2:49|DECCH*ECCH2300230EBG*2~TYPE2_TETHERED:22
+1141290	Shell Deutschland GmbH		Randowstr. 3	13057	Berlin	52.567521	13.528005	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1141863	Qwello Deutschland GmbH		Cecilienstraße 225	12619	Berlin	52.523182	13.590376	1	24/7	Keine Beschränkung	DEQRME3J98R11~TYPE2_TETHERED:11|DEQRME3J98R21~TYPE2_TETHERED:11
+1141865	Qwello Deutschland GmbH		Havelländer Ring 2	12629	Berlin	52.543079	13.599261	1	24/7	Keine Beschränkung	DEQRMEC448P11~TYPE2_TETHERED:11|DEQRMEC448P21~TYPE2_TETHERED:11
+1142219	Qwello Deutschland GmbH		Luise-Zietz-Straße 104	12683	Berlin	52.523514	13.548077	1	24/7	Keine Beschränkung	DEQRME8HVM711~TYPE2_TETHERED:11|DEQRME8HVM721~TYPE2_TETHERED:11
+1142230	Qwello Deutschland GmbH		Franz-Stenzer-Straße 63	12679	Berlin	52.546783	13.554295	1	24/7	Keine Beschränkung	DEQRMEP8W6511~TYPE2_TETHERED:11|DEQRMEP8W6521~TYPE2_TETHERED:11|DEQRMEP8W6531~TYPE2_TETHERED:11|DEQRMEP8W6541~TYPE2_TETHERED:11
+1142256	Qwello Deutschland GmbH		Teterower Ring 118	12619	Berlin	52.522827	13.580623	1	24/7	Keine Beschränkung	DEQRME37MWH11~TYPE2_TETHERED:11|DEQRME37MWH21~TYPE2_TETHERED:11|DEQRME37MWH31~TYPE2_TETHERED:11
+1142291	Qwello Deutschland GmbH		Schneeberger Straße 21	12627	Berlin	52.530743	13.603125	1	24/7	Keine Beschränkung	DEQRMEC8F4511~TYPE2_TETHERED:11
+1142292	Qwello Deutschland GmbH		Schneeberger Straße 21	12627	Berlin	52.530758	13.603119	1	24/7	Keine Beschränkung	DEQRMEC8F4521~TYPE2_TETHERED:11|DEQRMEC8F4531~TYPE2_TETHERED:11
+1142294	Qwello Deutschland GmbH		Bansiner Straße 62	12619	Berlin	52.518661	13.587171	1	24/7	Keine Beschränkung	DEQRME2839G11~TYPE2_TETHERED:11|DEQRME2839G21~TYPE2_TETHERED:11|DEQRME2839G31~TYPE2_TETHERED:11
+1142297	Qwello Deutschland GmbH		Döbelner Straße 6	12627	Berlin	52.529594	13.617603	1	24/7	Keine Beschränkung	DEQRME284CF11~TYPE2_TETHERED:11|DEQRME284CF21~TYPE2_TETHERED:11
+1142299	Qwello Deutschland GmbH		Kummerower Ring 9	12619	Berlin	52.525398	13.584443	1	24/7	Keine Beschränkung	DEQRMEV365M11~TYPE2_TETHERED:11
+1142300	Qwello Deutschland GmbH		Kummerower Ring 9	12619	Berlin	52.525417	13.584452	1	24/7	Keine Beschränkung	DEQRMEV365M21~TYPE2_TETHERED:11
+1142301	Qwello Deutschland GmbH		Lubminer Straße 8	12619	Berlin	52.518044	13.580978	1	24/7	Keine Beschränkung	DEQRME2H86611~TYPE2_TETHERED:11|DEQRME2H86621~TYPE2_TETHERED:11
+1142303	Qwello Deutschland GmbH		Franz-Stenzer-Straße 21	12679	Berlin	52.545025	13.548770	1	24/7	Keine Beschränkung	DEQRMEGJF5611~TYPE2_TETHERED:11
+1142304	Qwello Deutschland GmbH		Franz-Stenzer-Straße 21	12679	Berlin	52.545033	13.548724	1	24/7	Keine Beschränkung	DEQRMEGJF5621~TYPE2_TETHERED:11|DEQRMEGJF5631~TYPE2_TETHERED:11
+1142306	Qwello Deutschland GmbH		Franz-Stenzer-Straße 21	12679	Berlin	52.545059	13.548651	1	24/7	Keine Beschränkung	DEQRMEGJF5641~TYPE2_TETHERED:11
+1142307	Qwello Deutschland GmbH		Langhoffstraße 26	12681	Berlin	52.530842	13.543324	1	24/7	Keine Beschränkung	DEQRME6X6WM11~TYPE2_TETHERED:11|DEQRME6X6WM21~TYPE2_TETHERED:11
+1142313	Qwello Deutschland GmbH		Wustrower Straße 27	13051	Berlin	52.568241	13.505822	1	24/7	Keine Beschränkung	DEQRMEV65CH11~TYPE2_TETHERED:11|DEQRMEV65CH21~TYPE2_TETHERED:11
+1142315	Qwello Deutschland GmbH		Sella-Hasse-Straße 18	12687	Berlin	52.554287	13.558692	1	24/7	Keine Beschränkung	DEQRMECP5MW11~TYPE2_TETHERED:11|DEQRMECP5MW21~TYPE2_TETHERED:11
+1142317	Qwello Deutschland GmbH		Sella-Hasse-Straße 18	12687	Berlin	52.554222	13.558638	1	24/7	Keine Beschränkung	DEQRMECP5MW31~TYPE2_TETHERED:11|DEQRMECP5MW41~TYPE2_TETHERED:11
+1142329	Qwello Deutschland GmbH		Parsteiner Ring 35	12679	Berlin	52.552094	13.582355	1	24/7	Keine Beschränkung	DEQRMEC6WVW11~TYPE2_TETHERED:11|DEQRMEC6WVW21~TYPE2_TETHERED:11
+1142331	Qwello Deutschland GmbH		Martin-Riesenburger-Straße 6	12627	Berlin	52.533222	13.611050	1	24/7	Keine Beschränkung	DEQRMEWFCWG11~TYPE2_TETHERED:11|DEQRMEWFCWG21~TYPE2_TETHERED:11
+1142333	Qwello Deutschland GmbH		Walter-Felsenstein-Straße 14	12687	Berlin	52.554214	13.552903	1	24/7	Keine Beschränkung	DEQRMEFW4J911~TYPE2_TETHERED:11
+1142334	Qwello Deutschland GmbH		Walter-Felsenstein-Straße 14	12687	Berlin	52.554234	13.552970	1	24/7	Keine Beschränkung	DEQRMEFW4J921~TYPE2_TETHERED:11
+1142335	Qwello Deutschland GmbH		Senftenberger Straße 43	12627	Berlin	52.536751	13.597850	1	24/7	Keine Beschränkung	DEQRMEC936G11~TYPE2_TETHERED:11|DEQRMEC936G21~TYPE2_TETHERED:11
+1142337	Qwello Deutschland GmbH		Ludwig-Renn-Straße 31	12679	Berlin	52.550499	13.557798	1	24/7	Keine Beschränkung	DEQRMEWWF2W11~TYPE2_TETHERED:11|DEQRMEWWF2W21~TYPE2_TETHERED:11
+1142350	Qwello Deutschland GmbH		Hoyerswerdaer Straße 4	12627	Berlin	52.538010	13.620927	1	24/7	Keine Beschränkung	DEQRMEFJ7JJ11~TYPE2_TETHERED:11
+1142351	Qwello Deutschland GmbH		Hoyerswerdaer Straße 4	12627	Berlin	52.538021	13.620970	1	24/7	Keine Beschränkung	DEQRMEFJ7JJ21~TYPE2_TETHERED:11
+1142372	Qwello Deutschland GmbH		Albert-Kuntz-Straße 40	12627	Berlin	52.537472	13.618783	1	24/7	Keine Beschränkung	DEQRME3283911~TYPE2_TETHERED:11|DEQRME3283921~TYPE2_TETHERED:11
+1142382	Qwello Deutschland GmbH		Randowstraße 32	13057	Berlin	52.564907	13.521357	1	24/7	Keine Beschränkung	DEQRMEMC6GW11~TYPE2_TETHERED:11|DEQRMEMC6GW21~TYPE2_TETHERED:11
+1142390	Qwello Deutschland GmbH		Zachertstraße 23	10315	Berlin	52.506416	13.505074	1	24/7	Keine Beschränkung	DEQRME694MC11~TYPE2_TETHERED:11|DEQRME694MC21~TYPE2_TETHERED:11
+1142448	Qwello Deutschland GmbH		Egmontstraße 5A	10317	Berlin	52.511623	13.504179	1	24/7	Keine Beschränkung	DEQRMEF687711~TYPE2_TETHERED:11
+1142449	Qwello Deutschland GmbH		Egmontstraße 5A	10317	Berlin	52.511650	13.504049	1	24/7	Keine Beschränkung	DEQRMEF687721~TYPE2_TETHERED:11
+1142460	Qwello Deutschland GmbH		Ahrenshooper Straße 27	13051	Berlin	52.568169	13.502968	1	24/7	Keine Beschränkung	DEQRMEWRV6411~TYPE2_TETHERED:11|DEQRMEWRV6421~TYPE2_TETHERED:11
+1142462	Qwello Deutschland GmbH		Paul-Gesche-Straße 2	10315	Berlin	52.509613	13.510628	1	24/7	Keine Beschränkung	DEQRME99C7R11~TYPE2_TETHERED:11|DEQRME99C7R21~TYPE2_TETHERED:11|DEQRME99C7R31~TYPE2_TETHERED:11|DEQRME99C7R41~TYPE2_TETHERED:11
+1142466	Qwello Deutschland GmbH		Am Tierpark 8	10315	Berlin	52.508240	13.518362	1	24/7	Keine Beschränkung	DEQRMEPP2WP11~TYPE2_TETHERED:11|DEQRMEPP2WP21~TYPE2_TETHERED:11
+1142490	Qwello Deutschland GmbH		Rabensteiner Straße 38	12689	Berlin	52.565212	13.577879	1	24/7	Keine Beschränkung	DEQRME9CMR511~TYPE2_TETHERED:11|DEQRME9CMR521~TYPE2_TETHERED:11
+1142492	Qwello Deutschland GmbH		Rabensteiner Straße 38	12689	Berlin	52.565170	13.577846	1	24/7	Keine Beschränkung	DEQRME9CMR531~TYPE2_TETHERED:11|DEQRME9CMR541~TYPE2_TETHERED:11
+1142519	Qwello Deutschland GmbH		Schorfheidestraße 6	12689	Berlin	52.568272	13.575644	1	24/7	Keine Beschränkung	DEQRME7MX9V11~TYPE2_TETHERED:11|DEQRME7MX9V21~TYPE2_TETHERED:11
+1142521	Qwello Deutschland GmbH		Jan-Petersen-Straße 15	12679	Berlin	52.549122	13.563700	1	24/7	Keine Beschränkung	DEQRME7RV5611~TYPE2_TETHERED:11|DEQRME7RV5621~TYPE2_TETHERED:11
+1142533	Qwello Deutschland GmbH		Feldberger Ring 26	12619	Berlin	52.528233	13.586784	1	24/7	Keine Beschränkung	DEQRME794FP11~TYPE2_TETHERED:11|DEQRME794FP21~TYPE2_TETHERED:11
+1142561	Qwello Deutschland GmbH		Kurze Straße 11	10315	Berlin	52.507412	13.515723	1	24/7	Keine Beschränkung	DEQRMEHV24X11~TYPE2_TETHERED:11|DEQRMEHV24X21~TYPE2_TETHERED:11
+1142615	Qwello Deutschland GmbH		Schwarzwurzelstraße 1	12689	Berlin	52.568516	13.550876	1	24/7	Keine Beschränkung	DEQRME4PP7811~TYPE2_TETHERED:11|DEQRME4PP7821~TYPE2_TETHERED:11
+1142721	Qwello Deutschland GmbH		Boizenburger Straße 2	12619	Berlin	52.514462	13.580256	1	24/7	Keine Beschränkung	DEQRMECJ53H11~TYPE2_TETHERED:11|DEQRMECJ53H21~TYPE2_TETHERED:11
+1142784	Qwello Deutschland GmbH		Maxie-Wander-Straße 53	12619	Berlin	52.530418	13.597131	1	24/7	Keine Beschränkung	DEQRME875CW11~TYPE2_TETHERED:11|DEQRME875CW21~TYPE2_TETHERED:11
+1142832	Qwello Deutschland GmbH		Schorfheidestraße 42	12689	Berlin	52.570595	13.576014	1	24/7	Keine Beschränkung	DEQRMEM4GC211~TYPE2_TETHERED:11|DEQRMEM4GC221~TYPE2_TETHERED:11
+1143281	Vattenfall Smarter Living GmbH		Altlandsberger Chaussee 1	15370	Fredersdorf-Vogelsdorf	52.526930	13.762001	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1143532	Greenman Energy Operations GmbH & Co. KG	GMO_025_Berlin Biesdorf_01	Weißenhöher Str. 88	12683	Berlin	52.507046	13.558979	1	24/7	Keine Beschränkung	AT*HTB*E1026287~CCS2:300|AT*HTB*E1026288~CCS2:300|AT*HTB*E1026285~CCS2:300|AT*HTB*E1026286~CCS2:300|AT*HTB*E1026221~CCS2:300|AT*HTB*E1026222~CCS2:300
+1143590	Vattenfall Smarter Living GmbH		Louis-Lewin-Str. 40e	12627	Berlin	52.533179	13.622630	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1143644	Aral Pulse		Spenglerstr. 2	16356	Ahrensfelde	52.608122	13.529102	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1144012	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Panketal, Straße der Jugend	Straße der Jugend 35	16341	Panketal	52.651840	13.533857	1	24/7	Keine Beschränkung	DE*KWB*E*162250148~TYPE2:22|DE*KWB*E*162250149~TYPE2:22
+1144429	Qwello Deutschland GmbH		Boizenburger Straße 39	12619	Berlin	52.516251	13.579415	1	24/7	Keine Beschränkung	DEQRME36X2G11~TYPE2_TETHERED:11|DEQRME36X2G21~TYPE2_TETHERED:11
+1144782	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-X9Y3CN	Josef-Höhn-Str. 19a	13053	Berlin	52.555774	13.515367	1		Keine Beschränkung	~TYPE2:3.7
+1144784	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-6V9DVJ	Gottfriedstr. 15A	13053	Berlin	52.556421	13.518146	1		Keine Beschränkung	~TYPE2:3.7
+1144788	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-JDXPFP	Rosenfelder Ring 77	10315	Berlin	52.513374	13.513897	1		Keine Beschränkung	~TYPE2:3.7
+1144866	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-5YYFPC	Robert-Uhrig-Str. 2b	10318	Berlin	52.509626	13.511885	1		Keine Beschränkung	~TYPE2:3.7
+1146007	Shell Deutschland GmbH		Weitlingstr. 9	10317	Berlin	52.510144	13.500071	1		Keine Beschränkung	~CCS2:120|~CCS2:120
+1146008	Shell Deutschland GmbH		Weitlingstr. 9	10317	Berlin	52.510156	13.500000	1		Keine Beschränkung	~CCS2:120|~CCS2:120
+1147265	E.DIS AG		Schwarze-Pumpe-Weg 16	12681	Berlin	52.548726	13.532853	1	 	Nur für Kunden/Besucher	DE*ISE*E0022567~TYPE2:22|DE*ISE*E0022568~TYPE2:22|DE*ISE*E0022569~TYPE2:22|DE*ISE*E0022570~TYPE2:22
+1147982	Vattenfall Smarter Living GmbH		Eberswalder Str. 86	16227	Eberswalde	52.837935	13.735588	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1148646	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Bernau Erich-Wünsch-Halle	Heinersdorfer Str. 52	16321	Bernau bei Berlin	52.675000	13.574000	1	Mo-Fr 06:00-22:00, Sa 08:00-20:30, So 08:00-22:00	Nur für Kunden/Besucher	DE*KWB*E*162250158~TYPE2:22|DE*KWB*E*162250159~TYPE2:22
+1148647	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)	Kita Pankewichtel	Schönfelder Weg 9	16321	Bernau bei Berlin	52.677584	13.604346	1	24/7	Keine Beschränkung	DE*KWB*E*162250164~TYPE2:22|DE*KWB*E*162250165~TYPE2:22
+1149105	Allego		Rüdnitzer Chaussee 4	16321	Bernau bei Berlin	52.684613	13.598491	1	24/7	Keine Beschränkung	DEALLEGO004087_1~CCS2:150|DEALLEGO004087_2~CCS2:150
+1149660	EnBW mobility+ AG und Co.KG	FMZ mit Takko, Eberswalde	Heegermühler Straße 1a	16225	Eberswalde	52.835075	13.794451	1	24/7	Keine Beschränkung	DE*EBW*E911062*1~CCS2:200|DE*EBW*E911062*2~CCS2:200|DE*EBW*E910963*1~CCS2:200|DE*EBW*E910963*2~CCS2:200
+1150181	Berliner Stadtwerke KommunalPartner GmbH	BIM	Ferdinand-Schultze-Str. 55	13055	Berlin	52.539840	13.509090	1	Mo 06:00-16:00, Di 06:00-18:00, Mi-Do 06:00-16:00, Fr 06:00-15:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1150299	Berliner Stadtwerke KommunalPartner GmbH	BIM	Alt-Friedrichsfelde 60	10315	Berlin	52.509630	13.528850	1	Mo-Fr 05:30-22:00, Sa 06:00-14:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1150306	Berliner Stadtwerke KommunalPartner GmbH	BIM	Alt-Friedrichsfelde 60	10315	Berlin	52.508380	13.528170	1	Mo-Fr 05:30-22:00, Sa 06:00-14:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:200|~CCS2:200
+1150849	STIC Wirtschaftsfördergesellschaft Märkisch-Oderland mbH		Garzauer Chaussee 1a	15344	Strausberg	52.570130	13.893530	1		Keine Beschränkung	DE*BLN*E*15344001~TYPE2:22
+1150853	STIC Wirtschaftsfördergesellschaft Märkisch-Oderland mbH		Garzauer Chaussee 1a	15344	Strausberg	52.569910	13.893260	1		Keine Beschränkung	DE*BLN*E*15344002~TYPE2:22|DE*BLN*E*15344003~TYPE2:22
+1150855	STIC Wirtschaftsfördergesellschaft Märkisch-Oderland mbH		Garzauer Chaussee 1a	15344	Strausberg	52.570000	13.892910	1		Keine Beschränkung	DE*BLN*E*15344004~TYPE2:22|DE*BLN*E*15344005~TYPE2:22
+1150978	Volkswagen Automobile Berlin	Volkswagen Automobile Berlin Marzahn	Marzahner Chaussee 234	12681	Berlin	52.531470	13.532100	1	Mo-Fr 06:00-20:00, Sa 09:00-13:00	Nur für Kunden/Besucher	~CCS2:75|~TYPE2:11
+1151447	Wirelane GmbH	Zühlsdorferstraße 38	Zühlsdorferstraße 38	12679	Berlin	52.548361	13.550278	1		Keine Beschränkung	DE*WLN*EP000525~TYPE2:22|DE*WLN*EP000526~TYPE2:22
+1151449	Wirelane GmbH	Sella-Hasse-Straße 35	Sella-Hasse-Straße 35	12687	Berlin	52.554167	13.558167	1		Keine Beschränkung	DE*WLN*EP000720~TYPE2:22|DE*WLN*EP000530~TYPE2:22
+1152445	GLS Mobility GmbH	TE200002346 Vonovia (Blumberger Damm 211, 12687 Berlin)	Blumberger Damm 209	12687	Berlin	52.551983	13.572868	1	24/7	Keine Beschränkung	DEGLSEEASY05601~TYPE2:22|DEGLSEEASY05602~TYPE2:22|DEGLSEEASY05701~TYPE2:22|DEGLSEEASY05702~TYPE2:22
+1152867	Shell Deutschland GmbH	Shell Eberswalde, Britzer Str	Britzer Str. 43	16225	Eberswalde	52.847413	13.789172	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1153003	Electra Germany GmbH	Berlin Hellersdorf - La Festa	Gülzower Str. 34	12621	Berlin	52.515020	13.584617	1	24/7	Keine Beschränkung	DE*ELD*EK9K5~CCS2:300|DE*ELD*ESGGX~CCS2:300|DE*ELD*EUSEC~CCS2:300|DE*ELD*EGXJB~CCS2:300|DE*ELD*EQZDZ~CCS2:300|DE*ELD*EGNNC~CCS2:300
+1154213	Berliner Stadtwerke KommunalPartner GmbH		Einbecker Str. 15	10317	Berlin	52.510737	13.500945	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1154215	Berliner Stadtwerke KommunalPartner GmbH		Zossener Str. 154	12629	Berlin	52.544040	13.596040	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1154685	Berliner Stadtwerke KommunalPartner GmbH		Lauinger Str. 82	12683	Berlin	52.505520	13.566900	1	24/7	Keine Beschränkung	~TYPE2:3.7
+1154688	Berliner Stadtwerke KommunalPartner GmbH		Krummenseer Str. 2	12685	Berlin	52.541945	13.570834	1	24/7	Keine Beschränkung	~TYPE2:3.7
+1154715	Berliner Stadtwerke KommunalPartner GmbH		Landsberger Str. 178	12623	Berlin	52.517228	13.631431	1	24/7	Keine Beschränkung	~TYPE2:3.7
+1154723	Berliner Stadtwerke KommunalPartner GmbH		Bitterfelder Str. 12	12681	Berlin	52.553598	13.543103	1	24/7	Keine Beschränkung	~TYPE2:3.7
+1154724	Berliner Stadtwerke KommunalPartner GmbH		Arendsweg 19	13055	Berlin	52.537276	13.505635	1	24/7	Keine Beschränkung	~TYPE2:3.7
+1154861	Autohaus Berthold GmbH		Hönower Str. 140	12623	Berlin	52.516727	13.614535	1	Mo-Fr 08:30-17:30, Sa 09:00-12:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1155045	Tesla Germany GmbH		Rudolf-Diesel-Str. 14	16321	Bernau bei Berlin	52.687535	13.566817	1	24/7	Keine Beschränkung	DE*TSL*ECLZQUN~CCS2:250|DE*TSL*ECLZQUN~CCS2:250|DE*TSL*ECLZQUP~CCS2:250|DE*TSL*ECLZQUJ~CCS2:250|DE*TSL*ECLZQUL~CCS2:250|DE*TSL*ECLZNYW~CCS2:250|DE*TSL*ECLZQV0~CCS2:250|DE*TSL*ECLZQUY~CCS2:250|DE*TSL*ECLZNZ0~CCS2:250|DE*TSL*ECLZQV5~CCS2:250|DE*TSL*ECLZNZ6~CCS2:250|DE*TSL*ECLZNZB~CCS2:250|DE*TSL*ECLZQV7~CCS2:250|DE*TSL*ECLZQUT~CCS2:250|DE*TSL*ECLZQUR~CCS2:250|DE*TSL*ECLZQUW~CCS2:250|DE*TSL*ECLZNYT~CCS2:250
+1155268	Berliner Stadtwerke KommunalPartner GmbH		Buckower Ring 17-19	12683	Berlin	52.524610	13.570150	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1156160	Jägerheim Ützdorf – Hotel und Restaurant am Liepnitzsee	Jägerheim Ützdorf – Hotel und Restaurant am Liepnitzsee	Wandlitzer Str. 12	16348	Wandlitz	52.756604	13.529218	1	24/7	Keine Beschränkung	DE*ONE* E625J~TYPE2:22|DE*ONE*E5FVZ~TYPE2:22
+1157270	Qwello Deutschland GmbH		Liebensteiner Straße 33	12687	Berlin	52.558586	13.560102	1	24/7	Keine Beschränkung	DEQRMEXFJVV11~TYPE2_TETHERED:11|DEQRMEXFJVV21~TYPE2_TETHERED:11
+1158160	Qwello Deutschland GmbH		Schwarzburger Straße 13	12687	Berlin	52.558918	13.571776	1	24/7	Keine Beschränkung	DEQRMEVGXXC11~TYPE2_TETHERED:11|DEQRMEVGXXC21~TYPE2_TETHERED:11
+1158477	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-9YJ3CF	Wittenberger Str. 91	12689	Berlin	52.566487	13.572338	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1158596	ubitricity Gesellschaft für verteilte Energiesysteme mbH	S-UT9T5A	Am Breiten Luch 6	13053	Berlin	52.564035	13.511454	1		Keine Beschränkung	~TYPE2:3.7
+1159430	Lidl	7434_Lidl_Berlin_T65-IT1-0226-002	Malchower Weg 134	13053	Berlin	52.561229	13.501468	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1161084	EWE Go GmbH	EWE_7630_1A	Wilhelmstr. 40	16225	Eberswalde	52.833290	13.807360	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1162043	Vattenfall Smarter Living GmbH		Angermünder Chaussee 2	16225	Eberswalde	52.852399	13.826231	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*2323*036*1~CCS2:180|DE*VAT*E*T184*IT1*2323*036*2~CCS2:180
+1162044	Vattenfall Smarter Living GmbH		Angermünder Chaussee 2	16225	Eberswalde	52.852329	13.826204	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*2323*037*1~CCS2:180|DE*VAT*E*T184*IT1*2323*037*2~CCS2:180
+1162562	ALDI Nord	ALDI Nord Parkplatz	Märkische Allee 59	12681	Berlin	52.521297	13.541091	1	24/7	Keine Beschränkung	DE-ALN-EDE240946-1-1~CCS2:150|DE-ALN-EDE240946-1-2~CCS2:150
+1163651	EDEKA-MIHA Charge GmbH		Carl-Schmäcke-Str. 28	15366	Neuenhagen	52.535245	13.697708	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1163694	Walter Fritz deutsche Gesellschaft für Energieversorgung mbH	CBB-001	Robert-Rössle-Str. 0	13125	Berlin	52.626330	13.500151	1	24/7	Keine Beschränkung	DE*193*EX098300014729~TYPE2:11|DE*193*EX098300014730~TYPE2:11|DE*193*EX098300014762~TYPE2:11|DE*193*EX098300014763~TYPE2:11|DE*193*EX098300014767~TYPE2:11|DE*193*EX098300014778~TYPE2:11
+1164195	Qwello Deutschland GmbH		Dankwartstraße 18	10365	Berlin	52.516445	13.504352	1	24/7	Keine Beschränkung	DEQRMEX6XHM11~TYPE2_TETHERED:11|DEQRMEX6XHM21~TYPE2_TETHERED:11

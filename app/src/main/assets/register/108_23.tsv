@@ -1,0 +1,40 @@
+1017316	Nutzfahrzeuge Bargeshagen GmbH		Admannshäger Damm 15	18211	Admannshagen-Bargeshagen	54.114773	11.994200	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:184|~CCS2:184
+1035134	WEMAG AG		Heinrich-Schreiber-Ring 1	18225	Kühlungsborn	54.139833	11.743537	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1035136	WEMAG AG		Schulzentrift 1	18225	Kühlungsborn	54.149520	11.735603	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1035137	WEMAG AG		Fischersteig 0	18225	Kühlungsborn	54.148034	11.755081	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038323	Green Energy Neubukow		Wismarsche Str. 20a	18233	Neubukow	54.030142	11.669131	1			~TYPE2:22|~TYPE2:22
+1038562	Kühlungsborner Zimmervermittlung		Strandstrasse 44	18225	Kühlungsborn	54.152919	11.760167	1			~TYPE2:22|~TYPE2:22
+1041702	Stadtwerke Rostock AG		Beethovenstraße 19	18209	Bad Doberan	54.108434	11.906215	1			~TYPE2:22|~TYPE2:22
+1041716	Stadtwerke Rostock AG		Am großen Parkplatz 1	18236	Kröpelin	54.071852	11.798890	1			~TYPE2:22|~TYPE2:22
+1048099	Shell Deutschland GmbH		An der B 105 105	18209	Bad Doberan	54.105956	11.928312	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1060298	Pluq		Hermannstr. 6	18225	Kühlungsborn	54.148519	11.731008	1			~TYPE2:22|~TYPE2:22
+1070584	U. Giebel		Cubanzestrasse 66a	18225	Kühlungsborn	54.152199	11.766765	1			~TYPE2_TETHERED:11
+1071654	SimplyCharge	Ladestation Rerik Dünenstraße	Dünenstr. 7a	18230	Ostseebad Rerik	54.105700	11.610947	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071655	SimplyCharge		Am Parkplatz 7a	18230	Rerik	54.107013	11.618979	1			~TYPE2:22|~TYPE2:22
+1072311	Komm ans Meer eGbR	Ferienwohnung Vellamo	Leuchtturmstr. 3A	18230	Ostseebad Rerik	54.106835	11.615016	1	24/7	Nur für Kunden/Besucher	~TYPE2:22
+1084368	Backcharge		Ostseeallee 26	18225	Kühlungsborn	54.152261	11.744592	1			~TYPE2:22|~TYPE2:22
+1084757	auto-birne GmbH		An der Gartenanlage 6	18209	Bad Doberan	54.105968	11.926741	1			~TYPE2:11|~CCS2:22
+1088080	Thomas Lubeck		F 25A	18209	Reddelich	54.084120	11.846000	1			~TYPE2_TETHERED:22
+1088390	Waldkrone		Tannenstraße 4	18225	Kühlungsborn	54.152241	11.724137	1			~TYPE2_TETHERED:11
+1096420	auto-birne GmbH		An der Gartenanlage 6	18209	Bad Doberan	54.105732	11.926376	1			~CCS2:22|~TYPE2:11|~CCS2:22|~TYPE2:11
+1097602	VW-Autohaus Neubukow GmbH		Gewerbestraße 13	18233	Neubukow	54.038001	11.686047	1			~CCS2:22|~TYPE2:11
+1106427	E.ON Drive GmbH		Fischersteig 1	18225	Kühlungsborn	54.147879	11.755066	1			~TYPE2:22|~TYPE2:22
+1109762	Strandschloss Arielle, Inh. Carlo Schmidt		Seestraße 83	18211	Börgerende	54.149970	11.888340	1			~TYPE2:22
+1116792	Hans-Günter Thieme	Rerik	Heinrich-Heine-Str. 4a	18230	Ostseebad Rerik	54.104630	11.619210	1	Mo-Fr 10:00-15:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1116966	SimplyCharge	SimplyCharge Neubukow	Am Markt 1	18233	Neubukow	54.031589	11.671883	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118022	Stadtwerke Rostock AG	öffentliche LIS Hafenstraße Kühlungsborn	Hafenstr. bei 3	18225	Kühlungsborn , Ostseebad	54.150604	11.762808	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1125485	Hofcafe Grete	Hofcafe	Dorfweg 3	18230	Ostseebad Rerik	54.104431	11.657232	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1127603	Allego		Am Mühlenfließ 1	18209	Bad Doberan	54.114839	11.910528	1	24/7	Keine Beschränkung	DEALLEGO003658_1~CCS2:300|DEALLEGO003658_2~CCS2:300|DEALLEGO003661_1~CCS2:300|DEALLEGO003661_2~CCS2:300
+1129553	Stadtwerke Rostock AG	öffentliche LIS Bussardstraße 11	Bussardstr. 11	18209	Bad Doberan	54.113979	11.908016	1	24/7	Keine Beschränkung	DE*HRO*E4254*01~TYPE2:22|DE*HRO*E4254*02~TYPE2:22
+1129554	Stadtwerke Rostock AG	öffentliche LIS Wiesengrund 8	Wiesengrund 8	18209	Bad Doberan	54.099075	11.910944	1	24/7	Keine Beschränkung	DE*HRO*E4255*01~TYPE2:22|DE*HRO*E4255*02~TYPE2:22
+1130779	Pariamus	Strandschloss Arielle	Seestr. 83	18211	Börgerende	54.150030	11.888380	1	24/7	Keine Beschränkung	DE*PAR*E1829869~TYPE2:11
+1131508	MBB Molli	Bahnhof Kühlungsborn West	Fritz-Reuter-Str. 1	18225	Kühlungsborn , Ostseebad	54.146502	11.726086	1	24/7	Keine Beschränkung	DE*MDS*E008705~TYPE2:22|DE*MDS*E010232~TYPE2:22
+1131520	MBB Molli	Bahnhof Bad Doberan	Am Bahnhof 1	18209	Bad Doberan	54.100398	11.902905	1	24/7	Keine Beschränkung	DE*MDS*E012576~TYPE2:22|DE*MDS*E012994~TYPE2:22
+1144011	Q1 Autostrom	Bastorf, Kühlungsborner Straße	Kühlungsborner Str. 28	18230	Bastorf	54.125372	11.693125	1	24/7	Keine Beschränkung	DE*Q1A*E48140070~CCS2:200|DE*Q1A*E48140071~CCS2:200
+1149968	WEMAG AG		Ostseeallee 19	18225	Kühlungsborn , Ostseebad	54.152245	11.748845	1	24/7	Keine Beschränkung	DE*WLI*E5241*01~TYPE2:22|DE*WLI*E5241*02~TYPE2:22
+1149979	WEMAG AG	Lindenpark	Lindenstr. 10	18225	Kühlungsborn , Ostseebad	54.147840	11.754819	1	24/7	Keine Beschränkung	DE*WLI*E5290*01~TYPE2:22|DE*WLI*E5290*02~TYPE2:22
+1149983	WEMAG AG	Lindenpark	Lindenstr. 10	18225	Kühlungsborn , Ostseebad	54.147962	11.754640	1	24/7	Keine Beschränkung	DE*WLI*E5291*01~TYPE2:22|DE*WLI*E5291*02~TYPE2:22
+1151175	Wirelane GmbH	Amtsgarten 17 ggü., 18233 Neubukow	Amtsgarten 17	18233	Neubukow	54.034028	11.673278	1		Keine Beschränkung	DE*WLN*EP000059~TYPE2:22|DE*WLN*EP000060~TYPE2:22
+1153225	JET Tankstellen Deutschland GmbH		An der Krim 1	18209	Bad Doberan	54.108265	11.918493	1	24/7	Nur für Kunden/Besucher	DE*JET*E5774797~CCS2:400|DE*JET*E5774798~CCS2:400
+1153226	JET Tankstellen Deutschland GmbH		An der Krim 1	18209	Bad Doberan	54.108280	11.918363	1	24/7	Nur für Kunden/Besucher	DE*JET*E5774799~CCS2:400|DE*JET*E5774800~CCS2:400
+1157584	Stadtwerke Rostock AG	öffentliche LIS Maxim-Gorki-Platz Bad Doberan	Maxim-Gorki-Platz 6	18209	Bad Doberan	54.103803	11.897664	1	24/7	Keine Beschränkung	DE*HRO*E4259*01~TYPE2:22|DE*HRO*E4259*02~TYPE2:22

@@ -1,0 +1,34 @@
+1004160	SachsenEnergie AG		Dresdner Str. 3	01814	Bad Schandau	50.918421	14.149496	1		Keine Beschränkung	DE*SAE*E7001*01~CCS2:50+CHADEMO:50|DE*SAE*E7001*02~TYPE2:22
+1004165	SachsenEnergie AG		Elbweg 13	01824	Kurort Rathen	50.956012	14.079159	1		Keine Beschränkung	DE*SAE*E7202*01~TYPE2:22|DE*SAE*E7202*02~TYPE2:22
+1004170	SachsenEnergie AG		Elbufer 5	01829	Stadt Wehlen	50.956385	14.032453	1		Keine Beschränkung	DE*SAE*E7240*01~TYPE2:22|DE*SAE*E7240*02~TYPE2:22
+1004176	SachsenEnergie AG		Lange Str. 3Z	01855	Sebnitz	50.972177	14.272946	1		Keine Beschränkung	DE*SAE*E7207*01~TYPE2:22|DE*SAE*E7207*02~TYPE2:22
+1004186	SachsenEnergie AG		An der Tankstelle 2	01848	Hohnstein	50.986467	14.054313	1		Keine Beschränkung	DE*SAE*E7261*01~TYPE2:22|DE*SAE*E7261*02~TYPE2:22
+1004187	SachsenEnergie AG		Max-Jacob-Str. 1	01848	Hohnstein	50.979047	14.114291	1		Keine Beschränkung	DE*SAE*E7265*01~TYPE2:22|DE*SAE*E7265*02~TYPE2:22
+1004202	SachsenEnergie AG		Schmilka 20Z	01814	Bad Schandau	50.892407	14.229878	1		Keine Beschränkung	DE*SAE*E7254*01~TYPE2:22|DE*SAE*E7254*02~TYPE2:22
+1004314	SachsenEnergie AG		Basteistr. 1N	01847	Lohmen	50.966098	14.066070	1		Nur für Kunden/Besucher	DE*SAE*E7333*01~TYPE2:22|DE*SAE*E7333*02~TYPE2:22
+1004337	SachsenEnergie AG		Schandauer Str. 31Y	01855	Sebnitz	50.969370	14.270280	1		Keine Beschränkung	DE*SAE*E7031*01~CCS2:150|DE*SAE*E7031*02~CCS2:150|DE*SAE*E7031*03~TYPE2:22
+1004350	SachsenEnergie AG		Basteistr. 34Y	01814	Bad Schandau	50.922102	14.139518	1		Keine Beschränkung	DE*SAE*E7321*01~TYPE2:22|DE*SAE*E7321*02~TYPE2:22
+1004351	SachsenEnergie AG		Elbstr. 34X	01814	Bad Schandau	50.922084	14.139587	1		Keine Beschränkung	DE*SAE*E7322*01~TYPE2:22|DE*SAE*E7322*02~TYPE2:22
+1008034	Robert Bosch GmbH		Siedlerstraße 2	01855	Sebnitz	50.967750	14.235676	1			~TYPE2:22|~TYPE2:22
+1008035	Robert Bosch GmbH		Siedlerstraße 2	01855	Sebnitz	50.967700	14.235456	1			~TYPE2:11|~TYPE2:11
+1037903	Citywatt GmbH		Kirnitzschtalstr. 11	01855	Lichtenhain	50.929138	14.242896	1	24/7	Keine Beschränkung	DE*CIW*E001252~TYPE2:22|DE*CIW*E001251~TYPE2:22|DE*CIW*E001254~TYPE2:22|DE*CIW*E001253~TYPE2:22
+1038424	QUARTIER 5  Der Landgasthof in Gohrisch		Neue Hauptstraße 118	01824	Gohrisch	50.910914	14.106688	1			~TYPE2:5.5|~TYPE2:5.5
+1048564	Lidl		Dresdner Str. 15	01814	Bad Schandau	50.921430	14.142250	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1053378	Stadtwerke Pirna GmbH		Bauerngasse 97	01824	Gohrisch	50.896201	14.131840	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1053381	Stadtwerke Pirna GmbH		Papstdorfer Straße 130	01824	Gohrisch	50.908991	14.108877	1			~TYPE2_TETHERED:11
+1053386	Stadtwerke Pirna GmbH		Rudolf-Sendig-Str. 12	01814	Bad Schandau	50.915808	14.163195	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1053387	Stadtwerke Pirna GmbH		Am Hockstein 1	01848	Hohnstein	50.984278	14.091711	1			~TYPE2:11|~TYPE2:11
+1053388	Stadtwerke Pirna GmbH		Am Zirkelstein 109 b	01814	Schöna	50.876062	14.222420	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1075756	Gasthof Hertigswalde		Hertigswalde 29	01855	Sebnitz	50.960340	14.286270	1			~TYPE2:22
+1083996	KWE Königstein GmbH		Am Königstein 1	01824	Königstein / Sächs. Schweiz	50.921700	14.048135	1			~TYPE2:11|~TYPE2:11
+1084745	Aron Zedler		Neuhäuser 40	01844	Neustadt in Sachsen	50.994409	14.189993	1			~TYPE2_TETHERED:11
+1088302	Uwe Ehlert		Schulstrasse 1	01829	Stadt Wehlen	50.957837	14.024747	1			~TYPE2_TETHERED:11
+1112543	WEKA-Wellpappen und Kartonagen GmbH		Schandauer Str. 72	01855	Sebnitz	50.967716	14.254514	1			~CCS2:50|~CCS2:50
+1113516	Felix Zschoge		Bächelweg 12z	01814	Bad Schandau	50.909488	14.167098	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1117332	Stadtwerke Pirna GmbH	Wanderparkplatz Reinhardtsdorf Schöna	Waldbadstr. 1	01814	Reinhardtsdorf	50.888015	14.200070	1	24/7	Keine Beschränkung	DE*PIR*E01796*034~TYPE2:11|DE*PIR*E01796*033~TYPE2:11
+1121706	Stadtwerke Pirna GmbH	Bahnhof Rathen	Elbweg 2	01824	Kurort Rathen	50.956816	14.075728	1	24/7	Keine Beschränkung	DE*LSP*E01796*045~TYPE2:11|DE*LSP*E01796*046~TYPE2:11
+1127468	Stadtwerke Pirna GmbH	Feuerwache Rathen	Füllhölzelweg 1	01824	Kurort Rathen	50.958364	14.087782	1	24/7	Keine Beschränkung	DE*LSP*E01796*057~TYPE2:11|DE*LSP*E01796*058~TYPE2:11
+1145958	SachsenEnergie AG		Reißiger Platz 1U	01824	Königstein /Sächs. Schw.	50.918994	14.075031	1		Keine Beschränkung	DE*SAE*E7028*01~CCS2:50|DE*SAE*E7028*02~CCS2:50
+1150895	Wohnungsgenossenschaft Neustadt/Sachsen eG	Lessingweg Sebnitz	Lessingweg 1	01855	Sebnitz	50.966492	14.269313	1	24/7	Keine Beschränkung	E939D~TYPE2:11|EYKU3~TYPE2:11
+1156609	Autohaus Büchner GmbH	Autohaus Büchner GmbH	Löbauer Str. 2a	02763	Eckartsberg	50.915000	14.480000	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:22
+1156773	Wirelane GmbH		Hauptstr. 11	01814	Reinhardtsdorf	50.884658	14.213019	1	24/7	Keine Beschränkung	DE*WLN*ES000240~TYPE2:11|DE*WLN*ES000241~TYPE2:11

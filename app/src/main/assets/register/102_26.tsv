@@ -1,0 +1,122 @@
+1004185	SachsenEnergie AG		Am Markt 1	01623	Lommatzsch	51.196952	13.309314	1		Keine Beschränkung	DE*SAE*E7231*01~TYPE2:22|DE*SAE*E7231*02~TYPE2:22
+1004195	SachsenEnergie AG		Freiberger Str. 1Y	01683	Nossen	51.056664	13.297809	1		Keine Beschränkung	DE*SAE*E7262*01~TYPE2:22|DE*SAE*E7262*02~TYPE2:22
+1004215	SachsenEnergie AG		Markt 3Z	01616	Strehla	51.352476	13.226564	1		Keine Beschränkung	DE*SAE*E7027*01~CCS2:50+CHADEMO:50|DE*SAE*E7027*02~TYPE2:22
+1004309	SachsenEnergie AG		An der Weinstr. 8Y	01612	Diesbar-Seußlitz	51.241152	13.415507	1		Keine Beschränkung	DE*SAE*E7331*01~TYPE2:22|DE*SAE*E7331*02~TYPE2:22
+1004310	SachsenEnergie AG		Glaubitzer Str. 10z	01612	Nünchritz	51.303154	13.384876	1		Keine Beschränkung	DE*SAE*E7332*01~TYPE2:22|DE*SAE*E7332*02~TYPE2:22
+1004316	SachsenEnergie AG		Hauptstr. 18Z	01609	Gröditz	51.409501	13.446226	1		Keine Beschränkung	DE*SAE*E7036*01~CCS2:50+CHADEMO:50|DE*SAE*E7036*02~TYPE2:22
+1004382	SachsenEnergie AG		Henningstr. 1	01665	Klipphausen	51.070010	13.413457	1		Keine Beschränkung	DE*SAE*E7377*01~TYPE2:22|DE*SAE*E7377*02~TYPE2:22
+1009139	Shell Deutschland GmbH		Mastener Str. 1	04720	Döbeln	51.122543	13.101225	1			~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1011451	Comfort Charge		Berliner Str. 27	01587	Riesa	51.307960	13.292390	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1021744	EWE Go GmbH	McD_0875_1A	Fabrikstr. 12	01662	Meißen	51.164972	13.489342	1	24/7	Keine Beschränkung	DE*2GO*EMCD0875*1A*1~CCS2:150|DE*2GO*EMCD0875*1A*2~CCS2:150
+1021823	EWE Go GmbH	McD_0847_1A	Heiterer Blick 1	04720	Großweitzschen	51.153380	13.119770	1	24/7	Keine Beschränkung	DE*2GO*EMCD0847*1A*1~CCS2:300|DE*2GO*EMCD0847*1A*2~CCS2:300
+1022054	EWE Go GmbH		Lommatzscher Str. 29	01587	Riesa	51.295455	13.286232	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1022118	EWE Go GmbH		Augustusberg 72	01683	Nossen	51.037017	13.297621	1			~CCS2:300|~CCS2:300
+1026520	EnBW mobility+ AG und Co.KG		Richard-Köberlin-Straße 5	04720	Döbeln	51.118133	13.147500	1			~CCS2:150|~CCS2:150
+1026893	EnBW mobility+ AG und Co.KG		Franz-Mehring-Straße 16	04769	Mügeln	51.236160	13.039120	1			~CCS2:150|~CCS2:150
+1032496	envia Mitteldeutsche Energie AG	SL00985	Altoschatzer Str. 6	04758	Oschatz	51.297307	13.107235	1	24/7	Keine Beschränkung	DE*ISE*E0004772~TYPE2:22|DE*ISE*E0004977~TYPE2:22
+1032508	envia Mitteldeutsche Energie AG	KP00974	Markt 4	04741	Roßwein	51.065139	13.184188	1	24/7	Keine Beschränkung	DE*ISE*E0004609~TYPE2:22|DE*ISE*E0004610~TYPE2:22
+1032558	envia Mitteldeutsche Energie AG	KP01227	Niedermarkt 42 Z	04736	Waldheim	51.073515	13.024542	1	24/7	Keine Beschränkung	DE*ISE*E0004419~TYPE2:22|DE*ISE*E0004420~TYPE2:22
+1037613	Citywatt GmbH		Niederlommatzscher Straße 10	01665	Diera-Zehren	51.239768	13.407494	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037744	Citywatt GmbH		Freiberger Straße 30	09603	Siebenlehn	51.024810	13.305768	1			~TYPE2:22|~TYPE2:22
+1037745	Citywatt GmbH		Freiberger Straße 30	09603	Siebenlehn	51.024796	13.306122	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037746	Citywatt GmbH		Freiberger Straße 30	09603	Siebenlehn	51.024843	13.306020	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037749	Citywatt GmbH		Freiberger Straße 30	09603	Siebenlehn	51.025812	13.304577	1			~TYPE2:22|~TYPE2:22
+1037750	Citywatt GmbH		Freiberger Straße 30	09603	Siebenlehn	51.025866	13.304551	1			~TYPE2:22|~TYPE2:22
+1043607	Allego		Im Industriegebiet 1	01683	Nossen	51.082719	13.274013	1		Keine Beschränkung	DEALLEGO003144*1~CCS2:300|DEALLEGO003144*2~CCS2:300|DEALLEGO003148*1~CCS2:300|DEALLEGO003148*2~CCS2:300|DEALLEGO003149*1~CCS2:300|DEALLEGO003149*2~CCS2:300
+1047812	ESAM Energieservice und Arealmanagement GmbH		Alleestraße 81 y	01591	Riesa	51.320246	13.262848	1			~TYPE2:22|~TYPE2:22
+1047813	ESAM Energieservice und Arealmanagement GmbH		Zwickauer Str. 3 z	01587	Riesa	51.301997	13.262261	1			~TYPE2:22|~TYPE2:22
+1047814	ESAM Energieservice und Arealmanagement GmbH		Rathausplatz 10 z	01589	Riesa	51.302622	13.312147	1			~TYPE2:22|~TYPE2:22
+1047815	ESAM Energieservice und Arealmanagement GmbH		Dr.-Külz-Straße 39 z	01589	Riesa	51.297904	13.309104	1			~TYPE2:22|~TYPE2:22
+1047817	ESAM Energieservice und Arealmanagement GmbH		Bahnhofstraße 43 z	01587	Riesa	51.309565	13.290332	1			~TYPE2:22|~TYPE2:22
+1047818	ESAM Energieservice und Arealmanagement GmbH		Merzdorfer Str. 48	01591	Riesa	51.316813	13.257384	1			~TYPE2:22|~TYPE2:22
+1047819	ESAM Energieservice und Arealmanagement GmbH		Dr.-Scheider-Str. 7y	01589	Riesa	51.301539	13.309768	1			~CCS2:150|~TYPE2:22
+1047822	ESAM Energieservice und Arealmanagement GmbH		Am Sportzentrum 5	01587	Riesa	51.297165	13.296425	1			~TYPE2:22|~TYPE2:22
+1047825	ESAM Energieservice und Arealmanagement GmbH		Karl-Marx-Ring 6y	01587	Riesa	51.305720	13.297220	1			~TYPE2:22|~TYPE2:22
+1048224	ESAM Energieservice und Arealmanagement GmbH		Karl-Marx-Ring 32	01587	Riesa	51.305818	13.294501	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048228	ESAM Energieservice und Arealmanagement GmbH		Dresdner Str. 1y	01587	Riesa	51.303394	13.266034	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1049731	E.ON Drive Infrastructure		Raststätte Hansens Holz Nord 0	04720	Döbeln	51.090952	13.236838	1			~CCS2:50|~CCS2:50
+1055115	Aral Pulse		Großenhainer Straße 41	01662	Meißen	51.165799	13.486726	1			~CCS2:150|~CCS2:150
+1055116	Aral Pulse		Hochuferstraße 11	01662	Meißen	51.169111	13.471323	1			~CCS2:150|~CCS2:150
+1060146	EA-DD		Westewitzer Str. 47	04720	Großweitzschen	51.159550	13.051514	1	24/7	Nur für Kunden/Besucher	DE*EAD*E100039~TYPE2:22|DE*EAD*E100040~TYPE2:22
+1060155	EA-DD		Westewitzer Str. 47	04720	Großweitzschen	51.159567	13.051565	1	24/7	Nur für Kunden/Besucher	DE*DEA*E260241*01*001*1~CCS2:30|EVSE ID: DE*DEA*E260241*01*001*2~CCS2:30
+1060166	EA-DD		Westbogen 2	04910	Elsterwerda	51.466116	13.495844	1	24/7	Keine Beschränkung	DE*EAD*E100045~CCS2:30|DE*EAD*E100046~TYPE2:11
+1060232	EA-DD		Hauptstr. 92	01609	Gröditz	51.419036	13.458656	1	24/7	Keine Beschränkung	DE*DEA*E272642*04*001*1~TYPE2:22|DE*DEA*E272642*04*001*2~TYPE2:22
+1060233	EA-DD		Hauptstr. 92	01609	Gröditz	51.419101	13.458631	1	24/7	Keine Beschränkung	DE*DEA*E272642*07*001*1~CCS2:30|DE*DEA*E272642*07*001*2~CCS2:30
+1063444	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Am Fuchsloch 3	04720	Döbeln	51.111659	13.185705	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064888	Aral Pulse		Leipziger Straße 31	04758	Oschatz	51.303952	13.093961	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1066518	ESAM Energieservice und Arealmanagement GmbH	MVZ Riesa	Bahnhofstr. 10	01587	Riesa	51.182898	13.175439	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1068041	Pfendt		Am Wüsten Schloß 5	04758	Oschatz	51.287780	13.063900	1			~TYPE2:8.3
+1068137	Hotel Weiße Taube		Eisenbahnstraße 1	04720	Döbeln	51.127811	13.096743	1			~TYPE2:22+TYPE2_TETHERED:22+CCS2:22|~TYPE2:22+TYPE2_TETHERED:22+CCS2:22
+1068146	REEG Regenerative Energien GmbH		Pröda 1	01665	Käbschütztal	51.175061	13.388304	1			~TYPE2:11|~TYPE2_TETHERED:11
+1068196	Service- und Vertriebsges. der Kreishandwerkerschaften mbH		Kirchplatz 1	04758	Oschatz	51.297829	13.107606	1			~TYPE2:22|~TYPE2:22
+1068620	StrockenWind GmbH & Co KG	Parkplatz Nord	Strocken 22	04720	Großweitzschen	51.201992	13.001942	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1069329	Schmidt - Ihr Ausstatter		Berghausstr. 9	01662	Meißen	51.175514	13.497070	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1069408	David Hampel		Proschwitzer Str. 12	01662	Meißen	51.178885	13.476992	1			~TYPE2:11
+1070939	Meißener Stadtwerke GmbH		Meisastraße 13	01662	Meißen	51.166956	13.469158	1			~TYPE2:22|~TYPE2:22+SCHUKO:22
+1070940	Meißener Stadtwerke GmbH		Talstraße 10	01662	Meißen	51.154400	13.463650	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1070941	Meißener Stadtwerke GmbH		Schulplatz 5	01662	Meißen	51.163120	13.473410	1			~TYPE2:22|~TYPE2:22
+1075335	Auto-Köhler GmbH		Hauptstr. 35	04736	Waldheim	51.076959	13.004824	1			~TYPE2:22|~TYPE2:22
+1080805	Prinz zur Lippe GmbH & Co. KG		Heiliger Grund 2	01662	Meißen	51.179520	13.475510	1			~TYPE2:22|~TYPE2:22
+1084443	SachsenEnergie AG		An der Borntelle 1	01619	Zeithain	51.339862	13.346284	1	24/7	Keine Beschränkung	DE*SAE*E7450*01~TYPE2:22|DE*SAE*E7450*02~TYPE2:22
+1085753	Frische Erleben UG (haftungsbeschränkt)		Hauptstraße 124	09661	Striegistal	51.045006	13.230944	1			~TYPE2_TETHERED:11
+1086891	Mathias Diesner		Carl-Schäfer-Weg 19d	01662	Meißen	51.161784	13.497659	1			~TYPE2_TETHERED:11
+1087499	Reiner Engelhardt		Volksgut 5	01589	Riesa	51.302091	13.337604	1			~TYPE2_TETHERED:11
+1089945	Yoo GmbH		Breitenbacher Str. 4	09603	Großschirma	51.027719	13.312192	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2:22
+1091717	AreaCharge	DL_PRO_1_1	Albert-Schweitzer-Str. 18	04720	Döbeln	51.130118	13.118502	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1093424	MK Döbeln GmbH		Richard-Köberlin-Str. 2	04720	Döbeln	51.118733	13.145908	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096602	Autohaus Döbeln GmbH		Rosa-Luxemburg-Straße 1A	04720	Döbeln	51.121111	13.115156	1			~CCS2:22|~TYPE2:11
+1096724	Autohaus Hirth GmbH		Mügelner Str. 2	04769	Mügeln	51.237122	13.071559	1			~CCS2:22|~TYPE2:11
+1096832	Autohaus Lassotta GmbH		Berghausstraße 2A	01662	Meißen	51.174606	13.497654	1			~TYPE2:11
+1096833	Autohaus Lassotta GmbH		Berghausstraße 2A	01662	Meißen	51.174858	13.498147	1			~TYPE2:11
+1097520	Seat Autohaus Himpel GmbH		Wasserturmstraße 15	09603	Großschirma	51.031926	13.302538	1			~CCS2:75|~TYPE2:22
+1097876	ESAM Energieservice und Arealmanagement GmbH	Parkplatz WGR - Wismaer	Wismarer Str. 2d	01587	Riesa	51.304606	13.265657	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1097952	Allego		Großenhainer Str. 118a	01662	Meißen	51.175599	13.494007	1	24/7	Keine Beschränkung	DEALLEGO003459_1~CCS2:150|DEALLEGO003459_2~CCS2:150
+1100960	Tesla Germany GmbH		Im Industriegebiet 1	01683	Starbach	51.082460	13.274088	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1103182	Wattif Europe GmbH	Oschatz Oschatzer Freizeitstätten GmbH Berufsschulstraße 20	Berufsschulstr. 20	04758	Oschatz	51.292878	13.105890	1	24/7	Keine Beschränkung	DEUOSF001~TYPE2:22|DEUOSF002~TYPE2:22|DEUOSF003~TYPE2:22|DEUOSF004~TYPE2:22
+1103440	Einzelunternehmen David Pfennig	Baunativ Parkplatz	Lichtstr. 3	04758	Oschatz	51.303123	13.110078	1	Mo-Fr 06:00-18:00	Keine Beschränkung	~TYPE2:11+TYPE2:11+TYPE2:11+TYPE2:11+TYPE2:11
+1106517	E.ON Drive GmbH		Hansens Holz 0	04720	Döbeln	51.091030	13.237360	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1109682	Autohaus Berger GmbH		An der B 0	04910	Elsterwerda	51.465758	13.499416	1			~TYPE2:11|~TYPE2:11
+1109926	Stadtwerke Döbeln GmbH		Blumenstraße 51 A	04720	Döbeln	51.121511	13.133973	1			~TYPE2:22|~TYPE2:22
+1109927	Stadtwerke Döbeln GmbH		Badische Straße 3A	04720	Döbeln	51.128479	13.122743	1			~TYPE2:22|~TYPE2:22
+1109928	Stadtwerke Döbeln GmbH		Klostergärten 0	04720	Döbeln	51.123566	13.115330	1			~TYPE2:22|~TYPE2:22
+1109929	Stadtwerke Döbeln GmbH		Bahnhofstraße 42	04720	Döbeln	51.122180	13.106096	1			~TYPE2:22|~TYPE2:22
+1109930	Stadtwerke Döbeln GmbH		Theodor-Kunzemann-Straße 10	04720	Döbeln	51.120300	13.109758	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1112270	Wattif Europe GmbH	Oschatz Collm Klinik Oschatz Krankenhaus Parkstraße 1	Eichstädtpromenade 0	04758	Oschatz	51.293429	13.113738	1	24/7	Keine Beschränkung	DE*WAT*EW049095001~TYPE2:22|DE*WAT*EW049095002~TYPE2:22|DE*WAT*EW049095003~TYPE2:22|DE*WAT*EW049095004~TYPE2:22
+1112771	Handelshof Riesa GmbH		Glogauer Straße 1	01587	Riesa	51.299150	13.270590	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1112772	Handelshof Riesa GmbH		Wittenberger Straße 3	01591	Riesa	51.329480	13.271520	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1114369	Buchsteiner		Hirschfelder Weg 6	01683	Nossen	51.052975	13.344941	1			~TYPE2_TETHERED:22
+1114950	Vattenfall Smarter Living GmbH		Karl-Marx-Ring 7	01587	Riesa	51.307345	13.293307	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1115041	Wattif Europe GmbH	Oschatz Parkplatz Bahnhof Bahnhofsplatz 1	Bahnhofsplatz 1	04758	Oschatz	51.310480	13.107032	1	24/7	Keine Beschränkung	DE*WAT*EW049085001~CCS2:49.9|DE*WAT*EW049085002~CCS2:49.9|DE*WAT*EW049085003~CCS2:49.9|DE*WAT*EW049085004~CCS2:49.9
+1115052	Wattif Europe GmbH	Oschatz Stadthalle LIDL Parkplatz Eichstadt-Promenade	Promenade 12	04758	Oschatz	51.299315	13.106991	1	24/7	Keine Beschränkung	DE*WAT*EW049089001~CCS2:49.9|DE*WAT*EW049089002~CCS2:49.9|DE*WAT*EW049089003~CCS2:49.9|DE*WAT*EW049089004~CCS2:49.9
+1120766	TotalEnergies Charging Solutions		Lauchhammerstr. 5	01591	Riesa	51.313593	13.288773	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50036*003*1~CCS2:200|DE*TCB*E3D9CS50036*003*2~CCS2:200
+1120767	TotalEnergies Charging Solutions		Lauchhammerstr. 5	01591	Riesa	51.313718	13.288823	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50036*004*1~CCS2:200|DE*TCB*E3D9CS50036*004*2~CCS2:200
+1120770	TotalEnergies Charging Solutions		Lauchhammerstr. 5	01591	Riesa	51.313752	13.288927	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50036*002*1~CCS2:200|DE*TCB*E3D9CS50036*002*2~CCS2:200
+1120778	TotalEnergies Charging Solutions		Lauchhammerstr. 5	01591	Riesa	51.313801	13.289041	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50036*001*1~CCS2:200|DE*TCB*E3D9CS50036*001*2~CCS2:200
+1121076	Kaufland	1940_Kland_Döbeln_T54-IT1-4524-002	Schillerstr. 6	04720	Döbeln	51.119530	13.121820	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1127031	Service- und Vertriebsges. der Kreishandwerkerschaften mbH	Parkplatz Sperlingsberg	Berufsschulstr. 1 Z	04758	Oschatz	51.295789	13.105600	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1127308	Kaufland	3800_KLAND_Großenhain_T65-IT1-2924-006	Riesaer Str. 54	01558	Großenhain	51.288480	13.492620	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1127395	TotalEnergies Charging Solutions		Lauchhammerstr. 12	01591	Riesa	51.313638	13.288962	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50036*001*1~CCS2:200|DE*TCB*E3D9CS50036*001*2~CCS2:200|DE*TCB*E3D9CS50036*002*2~CCS2:200|DE*TCB*E3D9CS50036*002*1~CCS2:200|DE*TCB*E3D9CS50036*003*1~CCS2:200|DE*TCB*E3D9CS50036*003*2~CCS2:200|DE*TCB*E3D9CS50036*004*1~CCS2:200|DE*TCB*E3D9CS50036*004*2~CCS2:200
+1127442	Autohaus Bruno Widmann GmbH	Autohaus Widmann Zeithain	Teninger Str. 11	01619	Zeithain	51.338710	13.341660	1	Mo-Fr 07:00-18:00, Sa 07:00-14:00	Keine Beschränkung	DE*ONE*EQMB6~TYPE2:11|DE*ONE*EFJX4~TYPE2:11|DE*ONE*ERD53~CCS2:320|DE*ONE*ENVU9~CCS2:320
+1127478	Autohaus Bruno Widmann GmbH	Widmann Röderland	Heideweg 3	04932	Röderland	51.485922	13.485498	1	Mo-Fr 07:00-18:00, Sa 07:00-14:00	Keine Beschränkung	DE*ONE*EYKR7~CCS2:320|DE*ONE*ELWD5~CCS2:320
+1127699	Autohaus Bruno Widmann GmbH	Widmann Röderland (LS1)	Heideweg 3	04932	Röderland	51.458710	13.485250	1	Mo-Fr 07:00-18:00, Sa 07:00-14:00	Keine Beschränkung	DE*ONE*EN2DX~TYPE2:11|DE*ONE*EYFE1~TYPE2:11
+1130882	ESAM Energieservice und Arealmanagement GmbH		Bayern-und-Sachsen-Str. 1x	01589	Riesa	51.293906	13.294600	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1132023	Meißener Stadtwerke GmbH	Parkplatz Kleinmarkt/Gerbergasse	Kleinmarkt 0	01662	Meißen	51.162610	13.472505	1	24/7	Keine Beschränkung	DE*MSW*E60034*01~CCS2:150|DE*MSW*E60034*02~CCS2:150
+1141059	Hercher Die Servicefamilie GmbH		Hauptstr. 68A	01587	Riesa	51.305599	13.305185	1			~TYPE2_TETHERED:22|~TYPE2:11
+1141285	Shell Deutschland GmbH		Augustusberg 72	01683	Nossen	51.372700	13.296860	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141444	Dayser Deutschland GmbH	Park Your Truck, 01609 Gröditz	Hauptstr. 15a	01609	Gröditz	51.410084	13.443772	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1143444	Vattenfall Smarter Living GmbH		Dresdner Str. 17	01662	Meißen	51.160390	13.484222	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1144120	ALDI Nord		Neumarkt 42	01662	Meißen	51.157700	13.470300	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1144124	ALDI Nord		Grimmaische Str. 67	04720	Döbeln	51.133300	13.096500	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1144192	Autohaus & Reisemobile Nicklisch		Am Kirschberg 0	01587	Riesa	51.295510	13.248080	1	24/7	Nur für Kunden/Besucher	E5XBD~TYPE2:22|E7M1L~TYPE2:22
+1144676	SachsenEnergie AG		Am Rittergut 7	01723	Wilsdruff	51.050920	13.478346	1		Keine Beschränkung	DE*SAE*E7054*01~CCS2:50|DE*SAE*E7054*02~CCS2:50
+1146003	ALDI Nord		Filderstädter Str. 5	04758	Oschatz	51.300700	13.092900	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1147993	Vattenfall Smarter Living GmbH		Torgauer Str. 3c	04874	Belgern	51.481622	13.119139	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1152012	Wirelane GmbH		Geyersbergstraße 39	04720	Döbeln	51.116417	13.112667	1		Keine Beschränkung	DE*WLN*EP001389~TYPE2:22|DE*WLN*EP001390~TYPE2:22
+1152013	Wirelane GmbH		Muldenstraße 5	04720	Döbeln	51.118778	13.121750	1		Keine Beschränkung	DE*WLN*EP001391~TYPE2:22|DE*WLN*EP001392~TYPE2:22
+1154899	ESAM Energieservice und Arealmanagement GmbH	Parkplatz Kundencenter Stadtwerke Riesa GmbH	Alter Pfarrweg 1a	01587	Riesa	51.299987	13.265761	1		Nur für Kunden/Besucher	DE*EFL*EV1944932*C1~TYPE2:22|DE*EFL*EV1944932*C2~TYPE2:22
+1155898	ESAM Energieservice und Arealmanagement GmbH	Tiefgarage Elbgalerie	Hauptstr. 74-78	01587	Riesa	51.306481	13.303763	1	Mo-Sa 06:30-22:00	Keine Beschränkung	DE*EFL*EV9014025*C1~TYPE2:11|DE*EFL*EV9014025*C2~TYPE2:11
+1156358	Wirelane GmbH	Dorint Hotel Meißen	Hafenstraße 27-31	01662	Meißen	51.168454	13.477338	1		Keine Beschränkung	DE*WLN*ES000218~TYPE2:11|DE*WLN*ES000219~TYPE2:11|DE*WLN*EP000717~TYPE2:11|DE*WLN*ES000217~TYPE2:11
+1159919	Meißener Stadtwerke GmbH	Wochenmarkt Meißen	Brauhausstr. 9	01662	Meißen	51.162579	13.483934	1	24/7	Keine Beschränkung	DE*MSW*ESE10330*01~TYPE2:22|DE*MSW*ESE10330*02~TYPE2:22
+1162404	Allego		Teninger Str. 10	01619	Zeithain	51.338978	13.343370	1	24/7	Keine Beschränkung	DEALLEGO004173_1~CCS2:150|DEALLEGO004173_2~CCS2:150
+1162905	ALDI Nord	ALDI Nord Parkplatz	Filderstädter Str. 5a	04758	Oschatz	51.300734	13.092972	1	24/7	Keine Beschränkung	DE-ALN-EDE212417-1-1~CCS2:50|DE-ALN-EDE212417-1-2~CCS2:50
+1163521	Electra Germany GmbH	Meißen - Retail Center Fabrikstraße	Fabrikstr. 0	01662	Meißen	51.162093	13.492255	1	24/7	Keine Beschränkung	DE*ELD*EDFQQ~CCS2:300|DE*ELD*EUEXQ~CCS2:300|DE*ELD*EVVTS~CCS2:200|DE*ELD*EV67J~CCS2:200|DE*ELD*EPN7R~CCS2:200|DE*ELD*E3HUN~CCS2:200|DE*ELD*EQJQ9~CCS2:50|DE*ELD*ED28A~CCS2:50

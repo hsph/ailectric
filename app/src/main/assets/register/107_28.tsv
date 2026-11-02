@@ -1,0 +1,30 @@
+1026894	EnBW mobility+ AG und Co.KG		Torgelower Straße 21	17309	Pasewalk	53.514650	14.010800	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1038515	Haffhus GmbH		Dorfstraße 35	17373	Seebad Ueckermünde	53.736429	14.120533	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1042748	Energielösung GmbH		Fischerdorf Zirchow Nord, Am Kiefernwald 5	17419	Zirchow	53.875120	14.143270	1			~TYPE2:22
+1057280	Kur- und Strandhotel Usedom GmbH & Co. Investitions KG		Strandpromenade 21	17429	Seebad Bansin	53.972050	14.145180	1			~TYPE2:22|~TYPE2:22
+1057283	Inselwerke eG		Hangar 11	17419	Zirchow	53.876167	14.150806	1			~TYPE2:22
+1057284	Inselwerke eG		Labahnstr. 40	17429	Heringsdorf	53.959860	14.157300	1			~TYPE2:22
+1057288	Inselwerke eG		Bülowstr. 9	17424	Ostseebad Heringsdorf	53.953360	14.164250	1		Keine Beschränkung	DE*BLN*E*174060005~TYPE2:22|~TYPE2:22
+1057289	Inselwerke eG		Ferdinand-Egelinski-Str. 1	17429	Seebad Ahlbeck	53.933854	14.194133	1			~TYPE2:22|~TYPE2:22
+1057294	Inselwerke eG		Labahnstr. 40	17424	Heringsdorf	53.959690	14.157150	1			~TYPE2:22
+1057299	Inselwerke eG		Ferdinand-Egelinski-Straße 1	17419	Seebad Ahlbeck	53.933897	14.194472	1			~TYPE2:22|~TYPE2:22
+1057306	Inselwerke eG		Delbrückstr. 69	17429	Heringsdorf	53.571890	14.100370	1			~TYPE2:22|~TYPE2:22
+1057311	Inselwerke eG		Badstr. -	17429	Bansin	53.968809	14.140374	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057321	Inselwerke eG		Ferdinand-Egelinski-Straße 1	17419	Ahlbeck	53.933719	14.194330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1060197	CCE		Pestalozzistrasse 21	17309	Pasewalk	53.506880	14.004788	1			~TYPE2:22|~TYPE2:22
+1068238	Haffhus GmbH		Dorfstraße 35	17373	Ueckermünde	53.736690	14.120342	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071742	Sebastian Beer		Strandstraße 14	17419	Seebad Ahlbeck	53.938355	14.193724	1			~TYPE2:22|~TYPE2:22
+1076136	Hotel Balmer See GmbH		Drewinscher Weg 1	17429	Benz / OT Balm	53.951250	14.008624	1			~TYPE2:22|~TYPE2:22
+1087294	Paul Bensemann		Gothenweg 16	17429	Heringsdorf	53.961390	14.133175	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1097596	Volkswagen Service Torgelow/ Grützner GmbH		Eggesiner Str. 9B	17358	Torgelow	53.635113	14.027069	1			~CCS2:22|~TYPE2:11
+1106463	E.ON Drive GmbH		Bahnhofstraße 2	17358	Torgelow	53.630200	14.011030	1			~TYPE2:22|~TYPE2:22
+1110148	Gemeinde Altwarp über "Amt am Stettiner Haff"		Am Hafen 0	17375	Altwarp	53.738340	14.270272	1			~TYPE2:22+CCS2:22+CHADEMO:22
+1110261	Stadt Eggesin		Am Bahnhof 3	17367	Eggesin	53.681649	14.073227	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22+CCS2:22+CHADEMO:22
+1110410	Stadt Seebad Ueckermünde, Kommune		Altes Bollwerk 9	17373	Ueckermünde	53.735830	14.049260	1			~TYPE2:22
+1126655	Haffhus GmbH	Haffhus Ladestationen	Dorfstr. 35	17373	Ueckermünde	53.737010	14.121160	1	24/7	Keine Beschränkung	DE*WLN*E0005519~TYPE2:22|DE*WLN*E0005520~TYPE2:22|DE*WLN*E0005521~TYPE2:22|DE*WLN*E0005522~TYPE2:22
+1134058	Vattenfall Smarter Living GmbH		Chausseestr. 71	17373	Ueckermünde	53.732559	14.029470	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134299	Vattenfall Smarter Living GmbH		Lindenstr. 8	17419	Seebad Ahlbeck	53.938175	14.186721	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1138272	Inselwerke eG	Wasserschloss Mellenthin	Schlossallee 5	17429	Mellenthin	53.923499	14.015288	1	24/7	Keine Beschränkung	DE*BLN*E*174060089~TYPE2:22|DE*BLN*E*174060090~TYPE2:22|DE*BLN*E*174060091~TYPE2:22|DE*BLN*E*174060091*2~TYPE2:22
+1145155	EA-DD		Kurparkstr. 4	17419	Seebad Ahlbeck	53.940003	14.191388	1	24/7	Keine Beschränkung	DE*EAD*E100159~TYPE2_TETHERED:22|DE*EAD*E100160~TYPE2_TETHERED:22
+1160349	Wirelane GmbH		Haffring 88	17373	Ueckermünde	53.740049	14.077440	1		Keine Beschränkung	DE*WLN*EP001823~TYPE2:22|DE*WLN*EP001824~TYPE2:22
+1160882	Wirelane GmbH		Ispericher Straße 16	17373	Ueckermünde	53.738519	14.083035	1		Keine Beschränkung	DE*WLN*EP001793~TYPE2:22|DE*WLN*EP001794~TYPE2:22

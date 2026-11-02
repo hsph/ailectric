@@ -1,0 +1,128 @@
+1021906	EWE Go GmbH		Umgehungsstr. 37	36341	Lauterbach	50.642041	9.401030	1			~CCS2:160|~CCS2:160
+1026718	EnBW mobility+ AG und Co.KG		Disröder Feld 2	36304	Alsfeld	50.738251	9.246279	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1030856	MER Germany	Frielendorf (DE*MER*E006723)	Ziegenhainer Str. 2	34621	Frielendorf	50.975046	9.319101	1	24/7	Keine Beschränkung	DE*MER*E006723*01~TYPE2:22|DE*MER*E006723*02~TYPE2:22
+1031913	TotalEnergies Charging Solutions		Autohof Pfefferhöhe 18	36304	Alsfeld	50.734167	9.241630	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032229	Circle K Deutschland		Pfefferhöhe 18	36304	Alsfeld	50.733329	9.240842	1			~CCS2:175|~CCS2:175|~CCS2:175|~CCS2:175+CHADEMO:175
+1032469	TEAG Mobil GmbH	Stadtallendorf - EDEKA	Straße des 17. Juni 6	35260	Stadtallendorf	50.828117	9.012544	1	24/7	Keine Beschränkung	DE*TMO*E11*026*001/2~CCS2:225|DE*TMO*E11*026*001/2~CCS2:225|DE*TMO*E11*026*003/4~CCS2:225|DE*TMO*E11*026*003/4~CCS2:225|DE*TMO*E11*026*005/6~CCS2:225|DE*TMO*E11*026*005/6~CCS2:225|DE*TMO*E11*026*001~CCS2:225|DE*TMO*E11*026*002~CCS2:225|DE*TMO*E11*026*003~CCS2:225|DE*TMO*E11*026*004~CCS2:225|DE*TMO*E11*026*005~CCS2:225|DE*TMO*E11*026*006~CCS2:225
+1036152	Nau		Marburger Str. 2	35260	Stadtallendorf	50.829460	9.005010	1			~TYPE2:22|~TYPE2:22
+1036909	RhönEnergie Fulda GmbH		Burgenweg 2	34593	Knüllwald- Schellbach	50.992470	9.450650	1			~TYPE2:11|~TYPE2:11
+1036937	RhönEnergie Fulda GmbH		Dr.-Rudolf-Kellermann-Straße 2	35315	Homberg (Ohm)	50.722233	9.005017	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036939	RhönEnergie Fulda GmbH		Dr.-Rudolf-Kellermann-Straße 2	35315	Homberg (Ohm)	50.722233	9.005170	1			~TYPE2:22|~TYPE2:22
+1036976	RhönEnergie Fulda GmbH		Dr.-Rudolf-Kellermann-Straße 2	35315	Homberg (Ohm)	50.719694	9.006858	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1036980	RhönEnergie Fulda GmbH		Hainzeller Straße 1	36154	Hosenfeld	50.505314	9.478664	1			~TYPE2:11|~TYPE2:11
+1037083	RhönEnergie Fulda GmbH		Bahnhofstraße 0	36364	Bad Salzschlirf	50.627183	9.493756	1			~TYPE2:22|~TYPE2:22
+1037084	RhönEnergie Fulda GmbH		Stückweg 4 4	35325	Mücke	50.619922	9.028686	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038489	mein kleinHOTEL Franchise und Vertriebs GmbH		Am Scheerwasser 16	36358	Herbstein	50.560078	9.351170	1			~TYPE2:11|~TYPE2:11
+1038881	MER Germany	TuR Rimberg (DE*MER*E003807)	Autobahnraststätte Rimberg 1	36287	Breitenbach a. Herzberg	50.793156	9.473105	1	24/7	Keine Beschränkung	DE*MER*E003807*01~CCS2:150|DE*MER*E003807*02~CCS2:150|~TYPE2_TETHERED:50|~CCS2:43+CHADEMO:43
+1042836	Oberhessische Versorgungsbetriebe AG		Am Schnepfenhain 49	36304	Alsfeld	50.750367	9.269176	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042837	Oberhessische Versorgungsbetriebe AG		Seehotel Antrifttal 0	36326	Antrifttal	50.773630	9.202623	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042839	Oberhessische Versorgungsbetriebe AG		Schulstraße 2	36325	Feldatal	50.649783	9.171662	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042845	Oberhessische Versorgungsbetriebe AG		Hindenburgstraße 80	36355	Grebenhain	50.519120	9.317209	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042855	Oberhessische Versorgungsbetriebe AG		Hügelstraße 0	36329	Romrod	50.713468	9.217666	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042859	Oberhessische Versorgungsbetriebe AG		Hirschberg 0	36320	Kirtorf	50.769481	9.106306	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042860	Oberhessische Versorgungsbetriebe AG		Zum Thermalbad 1	36358	Herbstein	50.568771	9.345498	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042864	Oberhessische Versorgungsbetriebe AG		Rathausgasse 0	35325	Mücke	50.647031	9.031254	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042869	Oberhessische Versorgungsbetriebe AG		Am Hoherodskopf 0	63679	Schotten	50.510543	9.226137	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042870	Oberhessische Versorgungsbetriebe AG		Am Vulkaneum 0	63679	Schotten	50.504396	9.126801	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042871	Oberhessische Versorgungsbetriebe AG		Alsfelder Strße 72	36318	Schwalmtal	50.700740	9.314574	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042872	Oberhessische Versorgungsbetriebe AG		Marktstraße 34	35327	Ulrichstein	50.574405	9.195299	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042873	Oberhessische Versorgungsbetriebe AG		Stangenweg 26	36367	Wartenberg-Angersbach	50.625886	9.451780	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042879	Oberhessische Versorgungsbetriebe AG		Jahnstraße 11A	36323	Grebenau	50.741965	9.474748	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042883	Oberhessische Versorgungsbetriebe AG		Lauterbacher Straße 0	36369	Lautertal	50.606890	9.302154	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042885	Oberhessische Versorgungsbetriebe AG		Brühlweg 6	35329	Gemünden	50.693574	9.054933	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042889	Oberhessische Versorgungsbetriebe AG		Goldhelg 20	36341	Lauterbach	50.640553	9.399457	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042891	Oberhessische Versorgungsbetriebe AG		Hersfelderstraße 53	36304	Alsfeld	50.751317	9.276280	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1043055	Allego		Schwabenröder Straße 0	36304	Alsfeld	50.760528	9.267837	1		Keine Beschränkung	DEALLEGO001255*1~CCS2:22
+1046292	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Bahnhofstraße 2	35260	Stadtallendorf	50.827043	9.017241	1			~TYPE2:22|~TYPE2:22
+1047669	EnBW mobility+ AG und Co.KG		An der Au 10	36304	Alsfeld	50.752779	9.278101	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1049620	E.ON Drive Infrastructure		Raststätte Berfa Nord 0	36304	Alsfeld	50.759790	9.357805	1			~CCS2:50|~CCS2:50
+1051520	MER Germany		Am Rathaus 4	34626	Neukirchen	50.869238	9.343792	1			~TYPE2:22|~TYPE2:22
+1051657	MER Germany		Hersfelder Straße 4	36280	Oberaula	50.857352	9.471884	1			~TYPE2:22|~TYPE2:22
+1053550	EAM Natur Energie GmbH		Homberger Str. 43	34621	Frielendorf	50.978480	9.326898	1			~CCS2:150|~CCS2:150
+1053551	EAM Natur Energie GmbH		Eselweg 1	34639	Schwarzenborn	50.913789	9.449923	1			~TYPE2:11|~TYPE2:11
+1053553	EAM Natur Energie GmbH		Marktplatz 1	34639	Schwarzenborn	50.910056	9.446139	1			~TYPE2:11
+1053565	EAM Natur Energie GmbH		Niederkleiner Str. 7	35260	Stadtallendorf	50.824003	9.014990	1			~CCS2:50|~TYPE2:22
+1053578	Stadt Schwalmstadt		Ziegenhainerstr. 0	34613	Schwalmstadt	50.911561	9.253218	1			~TYPE2:11
+1053579	Stadt Schwalmstadt		Ziegenhainerstr. 0	34613	Schwalmstadt	50.914240	9.253218	1			~TYPE2:11
+1053620	EAM Natur Energie GmbH		Landgraf-Philipp-Straße 25	34613	Schwalmstadt	50.911641	9.239670	1			~TYPE2:22|~TYPE2:22
+1053637	EAM Natur Energie GmbH		Friedrich-Ebert-Str. 90	34613	Schwalmstadt	50.918498	9.201826	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1053639	EAM Natur Energie GmbH		Walkmühlenweg 7	34613	Schwalmstadt-Treysa	50.913668	9.181833	1			~CCS2:225|~CCS2:225|~CCS2:225|~CCS2:225|~CCS2:150|~CCS2:150
+1063780	EnBW mobility+ AG und Co.KG		Flensunger Weg 77	35325	Mücke	50.616737	9.026243	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1068038	Autohaus Hartmann GmbH		Hersfelder Str. 81	36304	Alsfeld	50.751630	9.285057	1			~TYPE2:22|~TYPE2:22
+1069728	Stadt Alsfeld		Parkplatz Ecke Schellengasse/Landgraf-Hermann-Str. 0	36304	Stadt Alsfeld	50.752693	9.272792	1			~CCS2:50|~CCS2:50
+1071083	Stadtwerke Lauterbach GmbH		Bleichstraße 5	36341	Lauterbach	50.638292	9.402730	1			~TYPE2:22|~TYPE2_TETHERED:22|~CCS2:50|~CCS2:50
+1071084	Stadtwerke Lauterbach GmbH		Hinter dem Spittel 15	36341	Lauterbach (Hessen)	50.636720	9.394180	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071085	Stadtwerke Lauterbach GmbH		Am Sportfeld 8	36341	Lauterbach	50.627801	9.392130	1			~TYPE2:22|~TYPE2:22
+1071086	Stadtwerke Lauterbach GmbH		Kanalstraße 21	36341	Lauterbach	50.635433	9.397119	1			~TYPE2:22|~TYPE2:22
+1071087	Stadtwerke Lauterbach GmbH		Am Wörth 50	36341	Lauterbach	50.634210	9.393410	1			~TYPE2:22|~TYPE2:22
+1071088	Stadtwerke Lauterbach GmbH		HAuptstraße 6	36341	Lauterbach	50.659920	9.387210	1			~TYPE2:22|~TYPE2:22
+1071089	Stadtwerke Lauterbach GmbH		Eichhofstraße 1	36341	Lauterbach	50.629370	9.389730	1			~TYPE2:22|~TYPE2:22
+1071522	Gemeindevorstand des Marktfleckens Frielendorf		Zum Silbersee 333	34621	Frielendorf	50.981440	9.340660	1			~TYPE2:11|~TYPE2:11
+1071624	Silke und Ulrich Berg		Hohlweg 12	35305	Grünberg	50.582638	9.018550	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1074878	Ingrid Wolters		Tulpenweg 1	34628	Willingshausen	50.872919	9.194893	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1076142	Kreisausschuss des Schwalm-Eder-Kreises		Dammweg 5	34613	Schwalmstadt	50.915137	9.240283	1			~TYPE2:22|~TYPE2:22
+1076145	Kreisausschuss des Schwalm-Eder-Kreises		Im Seckenhain 10	34576	Homberg	50.988160	9.433526	1			~TYPE2:11|~TYPE2:11
+1076289	Magistrat der Stadt Neustadt (Hessen)		Querallee 13	35279	Neustadt	50.849904	9.109657	1			~TYPE2:11|~TYPE2:11
+1080617	Nicole Schott		Hauptstraße 32	35329	Gemünden (Ehringshausen)	50.706712	9.108717	1			~TYPE2_TETHERED:11
+1084681	Andreas Schmittdiel		Töpferweg 16	35279	Neustadt (Hessen)	50.853260	9.120297	1			~TYPE2:11
+1084978	Hans-Georg Ehrhardt-Gerst		Kasseler Straße 2	36304	Alsfeld	50.776076	9.355392	1			~TYPE2_TETHERED:11
+1085692	Frank Rienau		Ulmenweg 4	34621	Frielendorf	50.974954	9.311582	1			~TYPE2_TETHERED:11
+1086293	Johannes Hühner		Komotauer Straße 1	34613	Schwalmstadt	50.909709	9.194564	1			~TYPE2_TETHERED:11
+1086322	Jörg Gutendorf		Weilburger Straße 17	35260	Stadtallendorf	50.829825	9.007541	1			~TYPE2_TETHERED:11
+1086588	Lena Schmittdiel		Töpferweg 18	35279	Neustadt (Hessen)	50.852448	9.115276	1			~TYPE2:11
+1086816	Markus Reiß		Steinatalstraße 4	34628	Willingshausen	50.849945	9.196119	1			~TYPE2_TETHERED:11
+1088072	Thomas Kotman		Hoherodskopfstraße 97	35327	Ulrichstein	50.577636	9.142152	1			~TYPE2_TETHERED:11
+1088411	Wigbert Hosenfeld		In der Katzenbach 9	36154	Hosenfeld	50.505158	9.479218	1			~TYPE2:11
+1092943	David Dippell		An den Hohlgärten 4b	36304	Alsfeld	50.753981	9.261746	1			~TYPE2:11+SCHUKO:11
+1096939	Autohaus Ostmann GmbH & Co. KG		Festungsstraße 17	34613	Schwalmstadt	50.905137	9.233068	1			~CCS2:22|~TYPE2:11
+1096971	Autohaus Rausch GmbH		Umgehungsstraße 41	36341	Lauterbach (Hessen)	50.642612	9.393889	1			~CCS2:22|~TYPE2:11
+1097458	Ludwig Dippel GmbH		Marburger Str. 50	35279	Neustadt (Hessen)	50.851116	9.106066	1			~CCS2:22|~TYPE2:11
+1097880	IONITY GmbH	Alsfeld	Dirsröder Feld 2	36304	Alsfeld	50.737449	9.245285	1	24/7	Nur für Kunden/Besucher	DE*IOY*E225601~CCS2:350|DE*IOY*E225602~CCS2:350|DE*IOY*E225603~CCS2:350|DE*IOY*E225604~CCS2:350|DE*IOY*E225605~CCS2:350|DE*IOY*E225606~CCS2:350|DE*IOY*E225607~CCS2:350|DE*IOY*E225608~CCS2:350|DE*IOY*E225671~CCS2:200|DE*IOY*E225672~CCS2:200|DE*IOY*E225673~CCS2:200|DE*IOY*E225674~CCS2:200
+1100408	Tesla Germany GmbH		Pfefferhöhe 2	36304	Alsfeld	50.733955	9.241483	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102377	Villa Raab GmbH & Co. KG		Altenburger Straße 60	36304	Alsfeld	50.743940	9.272560	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1102449	Farbrausch.net		Am Vockeroth 25	34632	Jesberg	50.993858	9.144108	1			~TYPE2_TETHERED:11
+1103045	E-Merge Mobility GmbH	Stadtallendorf Sparkasse	Aufbauplatz 2-4	35260	Stadtallendorf	50.825637	9.012694	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1103385	VR-Bankverein Bad Hersfeld-Rotenburg eG	Filiale Oberaula	Bahnhofstr. 10	36280	Oberaula	50.855210	9.468880	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1103821	Oberhessische Versorgungsbetriebe AG		Schellengasse 13	36304	Alsfeld	50.752726	9.271528	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104217	Stadt Schwalmstadt		Hexengässchen 0	34613	Schwalmstadt	50.911028	9.184243	1			~CCS2:50
+1110541	Oberhessische Versorgungsbetriebe AG		Rathausstr. 3	36369	Lautertal (Vogelsberg)	50.586966	9.285780	1	24/7	Keine Beschränkung	DE*OVA*E00169~TYPE2:22
+1110548	Oberhessische Versorgungsbetriebe AG		Kirtorfer Höfe 1	36320	Kirtorf	50.768576	9.108028	1	24/7	Keine Beschränkung	DE*OVA*E00268~TYPE2:22|DE*OVA*E00269~TYPE2:22|DE*OVA*E00270~TYPE2:22|DE*OVA*E00271~TYPE2:22
+1113632	Parkhotel zu Stern GmbH & Co. KG		Teichstr. 1	36280	Oberaula	50.858290	9.471450	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1117035	TankE GmbH		Landgraf-Hermann-Str. 11	36304	Alsfeld	50.752731	9.272774	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1117419	EWE Go GmbH	McD_1855_1A	Faudi-Str. 3	35260	Stadtallendorf	50.833570	9.039193	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1118398	TEAG Mobil GmbH	Neustadt - EDEKA	Querallee 15	35279	Neustadt (Hessen)	50.849078	9.110469	1	24/7	Keine Beschränkung	DE*TMO*E11*283*001~CCS2:50|DE*TMO*E11*283*002~CCS2:50
+1120779	TotalEnergies Charging Solutions		Walkmühlenweg 2	34613	Schwalmstadt	50.912247	9.181592	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS90050*001*1~CCS2:200|DE*TCB*E3D9CS90050*001*2~CCS2:200|DE*TCB*E3D9CS90050*002*1~CCS2:200|DE*TCB*E3D9CS90050*002*2~CCS2:200
+1121057	Pfalzwerke AG	D-Netz Vulkaneum Schotten	Am Vulkaneum 160	63679	Schotten	50.504736	9.126295	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01513*01~CCS2:400|DE*PDN*EALP22541X01513*02~CCS2:400
+1121058	Pfalzwerke AG	D-Netz Vulkaneum Schotten	Am Vulkaneum 160	63679	Schotten	50.504788	9.126381	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01514*01~CCS2:400|DE*PDN*EALP22541X01514*02~CCS2:400
+1121620	TEAG Mobil GmbH	Oberaula - EDEKA	Raiffeisenstr. 1	36280	Oberaula	50.850951	9.469702	1	24/7	Keine Beschränkung	DE*TMO*E11*293*001~CCS2:150|DE*TMO*E11*293*002~CCS2:150
+1126008	TEAG Mobil GmbH	Lauterbach - EDEKA	An der Gall 7	36341	Lauterbach (Hessen)	50.643546	9.387325	1	24/7	Keine Beschränkung	DE*TMO*E11*259*001~CCS2:150|DE*TMO*E11*259*002~CCS2:150|DE*TMO*E11*259*003~CCS2:150|DE*TMO*E11*259*004~CCS2:150
+1126011	TEAG Mobil GmbH	Lauterbach - EDEKA	An der Gall 7	36341	Lauterbach (Hessen)	50.643529	9.387379	1	24/7	Keine Beschränkung	DE*TMO*E11*259*005~CCS2:150|DE*TMO*E11*259*006~CCS2:150
+1126092	TankE GmbH		Jahnstr. 14	36304	Alsfeld	50.746742	9.267591	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1126093	TankE GmbH		An der Bleiche 12	36304	Alsfeld	50.746257	9.274916	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1126704	Philipp Weitzel		Brechtstr. 2	36329	Romrod	50.714196	9.226370	1	Mo-Fr 17:00-22:00, Sa-So 10:00-18:00	Keine Beschränkung	~TYPE2:11
+1128485	EAM Natur Energie GmbH	Schwalmstadt, Aldi	Ernst-Ihle-Str. 10	34613	Schwalmstadt	50.910693	9.242611	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1130959	CUBOS Service GmbH	3252	Kasseler Str. 25	34637	Schrecksbach	50.840126	9.287602	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1131132	Mann Naturenergie	Hotel Villa Raab	Altenburger Str. 60	36304	Alsfeld	50.744070	9.272610	1	24/7	Keine Beschränkung	DEMANE001301~TYPE2:22
+1131887	EnBW mobility+ AG und Co.KG		Friedrich-Ebert-Str. 92	34613	Schwalmstadt	50.918698	9.202505	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100
+1132269	EAM Natur Energie GmbH	Jesberg Rathaus	Schloßstr. 7	34632	Jesberg	50.996198	9.146279	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:22
+1134686	EAM Natur Energie GmbH	Neukirchen Rossmann 1	Am Rathaus 5	34626	Neukirchen	50.870644	9.343049	1	24/7	Keine Beschränkung	DE*GUC*E*EAM*0739~CCS2:200|DE*GUC*E*EAM*0740~CCS2:200|DE*GUC*E*EAM*0741~CCS2:200|DE*GUC*E*EAM*0742~CCS2:200
+1136611	TEAG Mobil GmbH	Herbstein - EDEKA	Hessenstr. 110	36358	Herbstein	50.556347	9.352627	1	24/7	Keine Beschränkung	DE*TMO*E11*328*001~CCS2:225|DE*TMO*E11*328*002~CCS2:225|DE*TMO*E11*328*003~CCS2:225|DE*TMO*E11*328*004~CCS2:225
+1136738	POTR	Plenitude On The Road Ladestation	An der Hessenhalle 7	36304	Alsfeld	50.738500	9.247200	1	24/7	Keine Beschränkung	DE*BEC*H001302-1~CCS2:300|DE*BEC*H001302-2 DE*BEC*H001302-3~CHADEMO:51+CCS2:300|DE*BEC*H001629-1~CCS2:300|DE*BEC*H001629-2 DE*BEC*H001629-3~CHADEMO:51+CCS2:300
+1137663	EAM Natur Energie GmbH	Willingshausen Hotel Bechtel 1	Vor der Brücke 4	34628	Willingshausen	50.876444	9.258224	1	24/7	Keine Beschränkung	DE*GUC*E*EAM*0816~CCS2:49|DE*GUC*E*EAM*0817~TYPE2:22|DE*GUC*E*EAM*0818~CCS2:49|DE*GUC*E*EAM*0819~TYPE2:22
+1138306	E.ON Drive GmbH		Faudi-Str. 1	35260	Stadtallendorf	50.833756	9.040431	1		Keine Beschränkung	DE*EDR*E51000702*1~TYPE2:11|DE*EDR*E51000702*2~TYPE2:22|DE*EDR*E51000828*1~TYPE2:11|DE*EDR*E51000828*2~TYPE2:22
+1140351	MER Germany	Neukirchen (DE*MER*E017973)	Am Rathaus 9	34626	Neukirchen	50.870793	9.342880	1	24/7	Keine Beschränkung	DE*MER*E017973*01~CCS2:400|DE*MER*E017973*02~CCS2:400|DE*MER*E017974*01~CCS2:400|DE*MER*E017974*02~CCS2:400
+1140695	Lidl	8227_Lidl_Alsfeld_T65-IT1-0725-013	Grünberger Str. 83	36304	Alsfeld	50.743730	9.258770	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1140827	Aral Pulse		Daimlerstr. 2	35260	Stadtallendorf	50.835060	9.039110	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141613	TEAG Mobil GmbH	Schotten - EDEKA	Parkstr. 11	63679	Schotten	50.505366	9.127305	1		Keine Beschränkung	DE*TMO*E11*344*001~CCS2:225|DE*TMO*E11*344*002~CCS2:225|DE*TMO*E11*344*003~CCS2:225|DE*TMO*E11*344*004~CCS2:225
+1143998	TEAG Mobil GmbH	Neustadt - EDEKA	Hindenburgstr. 10	35279	Neustadt (Hessen)	50.850666	9.114821	1	24/7	Keine Beschränkung	DE*TMO*E11*264*001~CCS2:150|DE*TMO*E11*264*002~CCS2:150|DE*TMO*E11*264*003~CCS2:150|DE*TMO*E11*264*004~CCS2:150
+1144291	Eugen Kessler	Parkplat1	Warthe-Weichsel-Str. 11	34613	Schwalmstadt	50.901649	9.270590	1	Mo-So 17:00-20:00	Nur für Kunden/Besucher	#ss3158633336~TYPE2:22|#ss478647582~TYPE2_TETHERED:22
+1145137	Ensev GmbH	Aquariohm	Merlauer Str. 38	35325	Mücke	50.633968	9.030501	1	24/7	Keine Beschränkung	DE*217*E4338751*001~CCS2:50|DE*217*E4338751*002~CCS2:50
+1145953	eliso	eliso - Eichhorn Baumarkt - Wartenberg-Angersbach	Am Sportplatz 2	36367	Wartenberg	50.624468	9.450499	1	24/7	Keine Beschränkung	DE*ELI*E3584545~CCS2:400|DE*ELI*E3584546~CCS2:400|DE*ELI*E3585551~CCS2:200|DE*ELI*E3585553~CCS2:200
+1147865	TEAG Mobil GmbH	Jesberg - EDEKA	Industriestr. 7	34632	Jesberg	50.999206	9.147983	1		Keine Beschränkung	DE*TMO*E11*398*001~CCS2:50|DE*TMO*E11*398*002~CCS2:50
+1149056	Allego		An der Hessenhalle 11	36304	Alsfeld	50.737331	9.247349	1	24/7	Keine Beschränkung	DEALLEGO003929_1~CCS2:400|DEALLEGO003929_2~CCS2:400|DEALLEGO003930_1~CCS2:400|DEALLEGO003930_2~CCS2:400|DEALLEGO003933_1~CCS2:400|DEALLEGO003933_2~CCS2:400|DEALLEGO003937_1~CCS2:400|DEALLEGO003937_2~CCS2:400|DEALLEGO003940_1~CCS2:400|DEALLEGO003940_2~CCS2:400
+1149718	Thomas Altenhof		Kohlenstr. 5	34613	Schwalmstadt	50.901950	9.276900	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1152043	Wirelane GmbH		Freiligrathstraße 16	36304	Alsfeld	50.758083	9.274500	1		Keine Beschränkung	DE*WLN*EP001489~TYPE2:22|DE*WLN*EP001490~TYPE2:22
+1153518	Kaufland	4890_Kland_Schwalmstadt_T65-IT1-5224-001	Osttangente 6	34613	Schwalmstadt	50.912630	9.198870	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1155049	EnBW mobility+ AG und Co.KG	Euronics XXL Lauterbach	Umgehungsstraße 45	36341	Lauterbach (Hessen)	50.641554	9.392389	1	24/7	Keine Beschränkung	DE*EBW*E914921*1~CCS2:93|DE*EBW*E914921*2~CCS2:93
+1157316	Andreas Kornmann	Kornmann's Strohschweine	Pfefferhöhe 0	36304	Alsfeld	50.739334	9.236627	1		Keine Beschränkung	E3Q66~TYPE2:22|E936R~TYPE2:22|EG1AQ~CCS2:125|EN3R6~CCS2:125
+1161833	EAM Natur Energie GmbH	Oberaula REWE HYC1	Schwimmbadstr. 1	36280	Oberaula	50.855474	9.461296	1	24/7	Keine Beschränkung	DE*EAM*E*1088~CCS2:300|DE*EAM*E*1089~CCS2:300|DE*EAM*E*1076~CCS2:300|DE*EAM*E*1077~CCS2:300

@@ -1,0 +1,252 @@
+1009293	Shell Deutschland GmbH		Merziger Str. 1	66663	Merzig	49.441973	6.622723	1			~CCS2:150|~CCS2:150
+1021837	EWE Go GmbH	McD_0376_1A	Merziger Str. 85	66763	Dillingen	49.356785	6.719916	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1021912	EWE Go GmbH	McD_0355_1A	Saarwiesenstr. 11	66333	Völklingen	49.244854	6.863317	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1022013	EWE Go GmbH	McD_1212_1A	Provinzialstr. 248	66740	Saarlouis	49.289048	6.760031	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1025136	EnBW mobility+ AG und Co.KG		Autobahnraststätte Goldene Bremm Nord 0	66117	Saarbrücken	49.209508	6.966453	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025137	EnBW mobility+ AG und Co.KG		Autobahnraststätte Goldene Bremm Süd 0	66117	Saarbrücken	49.207538	6.967183	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025812	EnBW mobility+ AG und Co.KG		Autobahn 0	66117	Saarbrücken	49.209445	6.966223	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026118	EnBW mobility+ AG und Co.KG		Bezirkstraße 112	66663	Merzig	49.476201	6.605946	1			~CCS2:150|~CCS2:150
+1027641	EnBW mobility+ AG und Co.KG		Gustav-Stresemann-Straße 7	66806	Ensdorf	49.291840	6.781296	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027844	EnBW mobility+ AG und Co.KG		Im Betzen 2	66333	Völklingen	49.248160	6.861953	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1027976	EnBW mobility+ AG und Co.KG		Uferstraße 9	66763	Dillingen/Saar	49.348510	6.730579	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1028021	EnBW mobility+ AG und Co.KG		Heeresstraße 10	66822	Lebach	49.410210	6.894571	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1028029	EnBW mobility+ AG und Co.KG		Brauerstraße 8	66663	Merzig	49.442066	6.637411	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1028084	EnBW mobility+ AG und Co.KG		Bahnhofstraße 9	66352	Großrosseln	49.207306	6.842962	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1030421	Q-Park Recharge Germany GmbH		Schillerplatz 0	66111	Saarbrücken	49.231397	6.996527	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1030428	Q-Park Recharge Germany GmbH		Talstrasse 38-42	66111	Saarbrücken	49.228219	6.994163	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1031679	CUBOS Service GmbH		Europaallee 14	66113	Saarbrücken	49.242317	6.988525	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1032328	IKEA Deutschland GmbH & Co.KG		Im Hader 1	66740	Saarlouis	49.293496	6.757584	1			~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20|~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20
+1035276	energis GmbH		Am Bahnhof 8	66265	Heusweiler	49.335083	6.929650	1			~TYPE2:11|~TYPE2:11
+1035277	energis GmbH		Am Bahnhof 12	66822	Lebach	49.408604	6.909701	1			~TYPE2:11|~TYPE2:11
+1035282	energis GmbH		Saarbrücker Straße 31-33	66292	Riegelsberg	49.300513	6.944525	1			~TYPE2:11|~TYPE2:11
+1035284	energis GmbH		Marktstraße 21	66346	Püttlingen	49.289700	6.884300	1			~TYPE2:11|~TYPE2:11
+1035288	energis GmbH		Freiherr-vom-Steinstraße 0	66693	Mettlach	49.491153	6.593952	1			~TYPE2:22|~TYPE2:22
+1035294	energis GmbH		Marktstraße 2-4	66839	Schmelz	49.441563	6.855182	1			~TYPE2:22|~TYPE2:22
+1035297	energis GmbH		Mannesmannstraße 4	66359	Bous	49.278093	6.793272	1			~TYPE2:22|~TYPE2:22
+1035301	energis GmbH		Hospitalstraße 1	66798	Wallerfangen	49.329414	6.716605	1			~TYPE2:22|~TYPE2:22
+1035302	energis GmbH		Vier-Winde-Straße 0	66773	Schwalbach	49.299418	6.809945	1			~TYPE2:22|~TYPE2:22
+1035303	energis GmbH		Rathausplatz 1	66809	Nalbach	49.379600	6.786533	1			~TYPE2:22|~TYPE2:22
+1035304	energis GmbH		Fresagrandinariastraße 0	66346	Püttlingen	49.300272	6.895036	1			~TYPE2:22|~TYPE2:22
+1035305	energis GmbH		Am Burgplatz 14	66346	Püttlingen	49.285975	6.884697	1			~TYPE2:22|~TYPE2:22
+1035308	energis GmbH		Parkstraße 3a	66701	Beckingen	49.392698	6.700288	1			~TYPE2:22|~TYPE2:22
+1035312	energis GmbH		Emmersweilerstraße 7	66352	Großrosseln	49.205620	6.841903	1			~TYPE2:22|~TYPE2:22
+1035319	energis GmbH		Am Wäldchen 0	66292	Riegelsberg	49.307825	6.936188	1			~TYPE2:22|~TYPE2:22
+1035320	energis GmbH		Köllertalstraße 143	66346	Püttlingen	49.294814	6.892273	1			~TYPE2:22|~TYPE2:22
+1035321	energis GmbH		Am Güterbahnhof 0	66571	Eppelborn	49.408760	6.967852	1			~TYPE2:22|~TYPE2:22
+1035322	energis GmbH		Saarbrücker Straße 2	66292	Riegelsberg	49.295556	6.952704	1			~TYPE2:22|~TYPE2:22
+1035323	energis GmbH		Wallerfanger Straße 60	66780	Rehlingen-Siersburg	49.371525	6.682628	1			~TYPE2:22|~TYPE2:22
+1035325	energis GmbH		Victoriastraße 26	66346	Püttlingen	49.283548	6.898659	1			~TYPE2:22|~TYPE2:22
+1035328	energis GmbH		In der Humes 35	66346	Püttlingen	49.277552	6.869530	1			~TYPE2:22|~TYPE2:22
+1035329	energis GmbH		Bahnhofstraße 0	66701	Beckingen	49.386500	6.690360	1			~TYPE2:22|~TYPE2:22
+1035330	energis GmbH		Provinzialstraße 110	66806	Ensdorf	49.307491	6.778068	1			~TYPE2:22|~TYPE2:22
+1035336	energis GmbH		Am Rathaus 0	66780	Rehlingen-Siersburg	49.363232	6.666479	1			~TYPE2:22|~TYPE2:22
+1035338	energis GmbH		Lauterbacher Str. 6	66352	Großrosseln	49.174058	6.809735	1			~TYPE2:22|~TYPE2:22
+1035340	energis GmbH		Bergstraße 48	66701	Beckingen	49.388496	6.701301	1			~TYPE2:22|~TYPE2:22
+1035342	energis GmbH		Talstraße 4	66773	Schwalbach	49.317882	6.813221	1			~TYPE2:22|~TYPE2:22
+1035474	ALDI SÜD	BOU-055-01	Im Betzen 1	66333	Völklingen	49.248752	6.862715	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11513~TYPE2:22|DE*ALD*E11514~TYPE2:22
+1035483	ALDI SÜD		Trierer Straße 155	66265	Heusweiler	49.346209	6.934792	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035506	ALDI SÜD		Hoher Staden 2a	66839	Schmelz	49.436055	6.846652	1			~TYPE2:22|~TYPE2:22
+1035535	ALDI SÜD		Hauptstraße 10	66128	Saarbrücken	49.236714	6.940811	1			~TYPE2:22|~TYPE2:22
+1035536	ALDI SÜD		Zur Langelänge 1	66773	Schwalbach	49.302811	6.802469	1			~TYPE2:22|~TYPE2:22
+1035770	ALDI SÜD		In Dürrfeldslach 1	66780	Rehlingen-Siersburg	49.372306	6.686250	1			~CCS2:90|~CCS2:90|~TYPE2:22
+1035827	ALDI SÜD		Hirtenwies 4	66117	Saarbrücken	49.218833	6.968444	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035834	ALDI SÜD		Fresagrandinaria Straße 7	66346	Püttlingen	49.300425	6.894179	1			~TYPE2:22|~TYPE2:22
+1035846	ALDI SÜD		Siemensstraße 1	66763	Dillingen	49.370697	6.713171	1			~TYPE2:22|~TYPE2:22
+1035945	ALDI SÜD	BOU-010	Rieffstraße 9	66663	Merzig	49.436861	6.632111	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22833~CCS2:150|DE*ALD*E22834~CCS2:150|DE*ALD*E22835~TYPE2:22
+1040535	Netto Marken-Discount Stiftung & Co. KG		Steinbacher Str. 20	66822	Lebach-Thalexweiler	49.448260	6.964550	1			~CCS2:50|~TYPE2:22
+1043565	Allego		Gasweg 1	66115	Saarbrücken	49.240842	6.962856	1		Keine Beschränkung	DEALLEGO002911*1~CCS2:150|DEALLEGO002911*2~CCS2:150
+1045853	Stadtwerke Saarlouis GmbH		Am Bahndamm 0	66740	Saarlouis	49.327162	6.749190	1			~TYPE2:22|~TYPE2:22
+1045854	Stadtwerke Saarlouis GmbH		Holtzendorffer Str. 12	66740	Saarlouis	49.320076	6.746609	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045856	Stadtwerke Saarlouis GmbH		Hohenzollernring 0	66740	Saarlouis	49.313906	6.754853	1			~TYPE2:22|~TYPE2:22
+1045857	Stadtwerke Saarlouis GmbH		Berliner Allee 0	66740	Saarlouis	49.335211	6.771160	1			~TYPE2:22|~TYPE2:22
+1045858	Stadtwerke Saarlouis GmbH		Husarenweg 0	66740	Saarlouis	49.315577	6.739217	1			~TYPE2:22|~TYPE2:22
+1045859	Stadtwerke Saarlouis GmbH		Provinzialstraße 242	66740	Saarlouis	49.290541	6.759095	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:43|~CCS2:150|~TYPE2:22|~TYPE2_TETHERED:43|~CCS2:150
+1045862	Stadtwerke Saarlouis GmbH		Großer Markt 0	66740	Saarlouis	49.316173	6.750567	1			~TYPE2:22|~TYPE2:22
+1045863	Stadtwerke Saarlouis GmbH		Großer Markt 0	66740	Saarlouis	49.315554	6.751459	1			~TYPE2:22|~TYPE2:22
+1045864	Stadtwerke Saarlouis GmbH		Großer Markt 0	66740	Saarlouis	49.315496	6.751449	1			~TYPE2:22|~TYPE2:22
+1045865	Stadtwerke Saarlouis GmbH		Marktplatz 0	66740	Saarlouis	49.329968	6.747612	1			~TYPE2:22|~TYPE2:22
+1045866	Stadtwerke Saarlouis GmbH		Ulanenstr. 0	66740	Saarlouis	49.325261	6.768839	1			~TYPE2:22|~TYPE2:22
+1045867	Stadtwerke Saarlouis GmbH		Neuhofstr. 0	66740	Saarlouis	49.286214	6.730184	1			~TYPE2:22|~TYPE2:22
+1045868	Stadtwerke Saarlouis GmbH		Fort Rauch 1	66740	Saarlouis	49.310672	6.757744	1			~TYPE2:22|~TYPE2:11|~TYPE2:22|~TYPE2:11
+1045870	Stadtwerke Saarlouis GmbH		Saarbrücker Str. 95	66740	Saarlouis	49.320791	6.774394	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046034	Stadtwerke Saarlouis GmbH	St.Nazairer Allee	St. Nazairer Allee 13	66740	Saarlouis	49.319012	6.741132	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1046035	Stadtwerke Saarlouis GmbH	Albert-Einstein-Str.	Albert-Einstein-Str. 16	66740	Saarlouis	49.338200	6.776600	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1046036	Stadtwerke Saarlouis GmbH	Hohenzollernring LIS 3	Hohenzollernring 0	66740	Saarlouis	49.313743	6.754343	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22|~TYPE2:22
+1046037	Stadtwerke Saarlouis GmbH	Am Soutyhof	Hauptstr. 0	66740	Saarlouis	49.304400	6.733447	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1047321	Stadtwerke Dillingen/Saar GmbH		Odilienplatz 0	66763	Dillingen/Saar	49.354400	6.727380	1			~TYPE2:22|~TYPE2:22
+1047322	Stadtwerke Dillingen/Saar GmbH		Hüttenwerkstraße 0	66763	Dillingen/Saar	49.353050	6.730570	1			~TYPE2:22|~TYPE2:22
+1047323	Stadtwerke Dillingen/Saar GmbH		Hoyerswerdaplatz 0	66763	Dillingen/Saar	49.352700	6.723348	1			~TYPE2:22|~TYPE2:22
+1047324	Stadtwerke Dillingen/Saar GmbH		Feldstraße 40	66763	Dillingen/Saar	49.360330	6.714680	1			~TYPE2:22|~TYPE2:22
+1047325	Stadtwerke Dillingen/Saar GmbH		Mathildenstraße 0	66763	Dillingen/Saar	49.346760	6.709330	1			~CCS2:150|~CCS2:75
+1047326	Stadtwerke Dillingen/Saar GmbH		Konrad-Adenauer-Allee 0	66763	Dillingen/Saar	49.347094	6.715750	1			~TYPE2:22|~TYPE2:22
+1047327	Stadtwerke Dillingen/Saar GmbH	Steinmetzstraße	Steinmetzstr. 24	66763	Dillingen	49.359248	6.733541	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048364	GETEC mobility solutions GmbH	Treuhand Saar	Feldmannstr. 103	66119	Saarbrücken	49.222914	6.989963	1	24/7	Keine Beschränkung	DE*LAD*EGRUEN10129*01~TYPE2:22|DE*LAD*EGRUEN10129*02~TYPE2:22
+1048424	Lidl		Zechenstrasse 7	66333	Völklingen-Fürstenhausen	49.247500	6.868400	1			~TYPE2:22|~TYPE2:22
+1048494	Lidl		Zur Breitwies 3	66793	Saarwellingen	49.351000	6.807000	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:43+CHADEMO:43|~TYPE2_TETHERED:43+CCS2:43
+1048531	Lidl	6460_Lidl_Wadgassen_12323900040015	Provinzialstr. 154	66787	Wadgassen	49.252309	6.817993	1		Keine Beschränkung	~TYPE2:22|~TYPE2:50+CCS2:50|~TYPE2_TETHERED:50+CHADEMO:50
+1048642	Lidl	5969_Lidl_Schmelz_T54-HU1-3519-009	Bettinger Str. 41	66839	Schmelz	49.428816	6.847425	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048771	Lidl	6588_Lidl_Schwalbach_T54-HU1-4720-019	Ensdorfer Str. 72	66773	Schwalbach	49.303248	6.802151	1		Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:43
+1049993	amperio GmbH (DEAMP)		Rathausstraße 53	66333	Völklingen	49.248558	6.851130	1			~TYPE2:22|~TYPE2:22
+1050010	amperio GmbH (DEAMP)		Dieselstraße 1	66740	Saarlouis	49.320265	6.747037	1			~TYPE2:22|~TYPE2:22
+1050174	Gas- und Wasserwerke Bous-Schwalbach GmbH		Saarbrücker Str. 195	66359	Bous	49.281918	6.786928	1			~CCS2:300|~CCS2:300
+1050512	Pfalzwerke AG		Schanzenstraße 18	66780	Saarlouis	49.324400	6.748690	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~TYPE2:22|~TYPE2:22
+1050575	Pfalzwerke AG		Zum Wiesenhof 80	66663	Merzig	49.458000	6.624000	1			~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050632	Pfalzwerke AG		Saarbrücker Str. 197	66359	Bous	49.284770	6.785690	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~TYPE2:22|~TYPE2:22
+1050735	Pfalzwerke AG		Zechenstraße 8	66333	Völklingen	49.249408	6.870902	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1050830	Pfalzwerke AG		Käthe-Kollwitz-Str. 16	66115	Saarbrücken	49.237235	6.960218	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1050920	Gas- und Wasserwerke Bous-Schwalbach GmbH	Auf der Mühlenscheib	Auf der Mühlenscheib 0	66359	Bous	49.280730	6.803563	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1055049	Aral Pulse		Trierer Straße 44-46	66265	Heusweiler	49.341230	6.933610	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1055352	Aral Pulse		Metzer Straße 44	66740	Saarlouis	49.305580	6.740170	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1055846	Energie SaarLorLux AG		Trierer Straße 1	66111	Saarbrücken	49.239308	6.989924	1			~TYPE2:22|~TYPE2:22
+1055849	Energie SaarLorLux AG		Altenkesseler Straße 17/B1	66115	Saarbrücken	49.246300	6.937332	1			~TYPE2:22|~TYPE2:22
+1055850	Energie SaarLorLux AG		Heinrich-Barth-Straße 16	66115	Saarbrücken	49.239445	6.955436	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055851	Energie SaarLorLux AG		Europaallee 22	66113	Saarbrücken	49.243103	6.991138	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055852	Energie SaarLorLux AG		André-Caplet-Straße 1	66117	Saarbrücken	49.223160	6.978262	1			~TYPE2:22|~TYPE2:22
+1055854	Energie SaarLorLux AG		Europaallee 16	66113	Saarbrücken	49.242116	6.989200	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055857	Energie SaarLorLux AG		Rathausstr. 27	66571	Eppelborn	49.405376	6.963597	1			~TYPE2:22|~TYPE2:22
+1055858	Energie SaarLorLux AG		Saaruferstraße 0	66117	Saarbrücken	49.236182	6.989057	1			~TYPE2:22|~TYPE2:22
+1055865	Energie SaarLorLux AG		Dillinger Str. 116	66822	Lebach	49.404880	6.890690	1			~TYPE2:22|~TYPE2:22
+1055866	Energie SaarLorLux AG		Franz-Josef-Röder-Str. 17	66119	Saarbrücken	49.227870	6.998990	1			~TYPE2:22|~TYPE2:22
+1055867	Energie SaarLorLux AG		Johannisstr. 2	66111	Saarbrücken	49.236380	6.997450	1			~TYPE2:22|~TYPE2:22
+1055869	Energie SaarLorLux AG		Am Markt 9a	66265	Heusweiler	49.337680	6.929603	1			~TYPE2:22|~TYPE2:22
+1055870	Energie SaarLorLux AG		An der Saarlandhalle 1	66111	Saarbrücken	49.249780	6.984400	1			~TYPE2:11|~TYPE2:11
+1055874	Energie SaarLorLux AG		Franz-Josef-Röder-Str. 7	66119	Saarbrücken	49.229802	6.994074	1			~TYPE2:11|~TYPE2:11
+1055875	Energie SaarLorLux AG		Am Markt 1	66822	Lebach	49.411089	6.906241	1			~TYPE2:22|~TYPE2:22
+1057064	Elektro Jäckel GmbH & Co.KG		Theeltalstraße 49b	66636	Tholey	49.488022	6.984344	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22
+1057065	Elektro Jäckel GmbH & Co.KG		Theeltalstraße 50	66636	Tholey	49.487530	6.984130	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:24+CHADEMO:24|~CCS2:24+CHADEMO:24
+1060018	MER Germany	Bous (DE*MER*E006973)	Auf der Mühlenscheib 24	66359	Bous	49.280780	6.803580	1	24/7	Keine Beschränkung	DE*MER*E006973*01~TYPE2:22|DE*MER*E006973*02~TYPE2:22
+1064070	Kaufland	2350_Kland_Völkingen_T53-HU1-4217-004	Hallerstr. 21	66333	Völklingen	49.243792	6.840912	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064156	Kaufland	1870_Lidl_Dillingen_T54-HU1-3021-003	Daimlerstr. 4	66763	Dillingen	49.367908	6.713398	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064318	Kaufland	7620_Kland_Riegelsberg_T65-IT1-4322-153	Saarbrücker Str. 262	66292	Riegelsberg	49.322610	6.938420	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1066099	Team-Emobility GmbH		Ernst-Abbe-Straße 1	36115	Saarbrücken	49.245148	6.952122	1			~TYPE2:11|~TYPE2:11
+1066650	Lichttechnik Klassen GmbH & Co. KG		Handwerkstraße 6	66663	Merzig	49.464300	6.623150	1			~TYPE2:22|~TYPE2:22
+1067284	Stefan Schadick	11kW	Dompstr. 13	66571	Eppelborn	49.408446	6.941343	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1067953	Isabell De Saedeleer		Am Kleinbahnhof 0	66740	Saarlouis	49.311605	6.751709	1			~TYPE2:22|~TYPE2:22
+1067954	Isabell De Saedeleer		Kavalleriestraße 0	66740	Saarlouis	49.315510	6.753346	1			~TYPE2:22|~TYPE2:22
+1067955	Isabell De Saedeleer		Lothringerstraße 0	66740	Saarlouis	49.313457	6.751718	1			~TYPE2:22|~TYPE2:22
+1067956	Isabell De Saedeleer		Bibelstraße 0	66740	Saarlouis	49.314609	6.752978	1			~TYPE2:22|~TYPE2:22
+1067957	Isabell De Saedeleer		Vaubanstraße 5	66740	Saarlouis	49.314544	6.743110	1			~TYPE2:22|~TYPE2:22
+1067958	Isabell De Saedeleer		Pavillonstraße 6	66740	Saarlouis	49.316948	6.749724	1			~TYPE2:22|~TYPE2:22
+1067959	Isabell De Saedeleer		Lisdorferstraße 0	66740	Saarlouis	49.311166	6.755205	1			~TYPE2:22|~TYPE2:22
+1069069	Woll Maschinenbau GmbH		Krughütterstr. 93	66128	Saarbrücken	49.228560	6.919013	1			~TYPE2:11
+1069319	Hotel Mercure Saarbrücken City		Hafenstrasse 8	66111	Saarbrücken	49.237214	6.989694	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069514	Michael Knoth		Am Emmersberg 108	66113	Saarbrücken	49.259608	6.977437	1			~TYPE2_TETHERED:11
+1069547	Philipp Römmert Einzelunternehmen		Siebenmorgenweg 28	66802	Überherrn	49.293438	6.706471	1			~TYPE2_TETHERED:22
+1069821	Kommunale Dienste Überherrn		Am Alten Bahnhof 0	66802	Überherrn	49.243988	6.703945	1			~TYPE2:22|~TYPE2:22
+1069856	Gemeinde Überherrn		Rathausstraße 101	66802	Überherrn	49.250170	6.697690	1			~TYPE2:22|~TYPE2:22
+1070585	Stadtwerke Völklingen Vertrieb GmbH		Stadionstraße 1	66333	Völklingen	49.251693	6.860799	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1234570372*1~CCS2:50|NLLMSE1234570372*2~CCS2:50
+1070586	Stadtwerke Völklingen Vertrieb GmbH		Rathausstraße 75	66333	Völklingen	49.247214	6.845845	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070587	Stadtwerke Völklingen Vertrieb GmbH		Poststraße 1	66333	Völklingen	49.250064	6.851486	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070588	Stadtwerke Völklingen Vertrieb GmbH		Hohenzollernstraße 10	66333	Völklingen	49.251725	6.860141	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070589	Stadtwerke Völklingen Vertrieb GmbH		Rheinstraße 2	66333	Völklingen	49.255342	6.878255	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070590	Stadtwerke Völklingen Vertrieb GmbH		Neue Straße 14	66333	Völklingen	49.249094	6.901919	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070591	Stadtwerke Völklingen Vertrieb GmbH		Saarbrücker Straße 179	66333	Völklingen	49.248123	6.886058	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070592	Stadtwerke Völklingen Vertrieb GmbH		Saarbrücker Straße 53	66333	Völklingen	49.244273	6.867993	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070593	Stadtwerke Völklingen Vertrieb GmbH		Zur Turnhalle 4	66333	Völklingen	49.247842	6.836957	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070594	Stadtwerke Völklingen Vertrieb GmbH		Trierer Straße 38	66333	Völklingen	49.242280	6.836931	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070595	Stadtwerke Völklingen Vertrieb GmbH		Völklingen Straße 65	66333	Völklingen	49.221753	6.808614	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070596	Stadtwerke Völklingen Vertrieb GmbH		Fröbelstraße 6	66333	Völklingen	49.184094	6.738730	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070597	Stadtwerke Völklingen Vertrieb GmbH		Pasteurstraße 0	66333	Völklingen	49.258183	6.852338	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070602	Stadtwerke Völklingen Vertrieb GmbH		Robert-Koch-Str. 1	63333	Völklingen	49.259090	6.852970	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070603	Stadtwerke Völklingen Vertrieb GmbH		Am Hauptbahnhof 0	66333	Völklingen	49.248915	6.849539	1	24/7	Keine Beschränkung	NLLMSE1809221*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809221*2~TYPE2:22+TYPE2_TETHERED:22
+1070604	Stadtwerke Völklingen Vertrieb GmbH		Pestalozziplatz 0	66333	Völklingen	49.257769	6.883098	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070605	Stadtwerke Völklingen Vertrieb GmbH		Saarbrücker Str. 53	66333	Völklingen	49.244198	6.868005	1	24/7	Keine Beschränkung	NLLMSE1812122*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1812122*2~TYPE2:22+TYPE2_TETHERED:22
+1070606	Stadtwerke Völklingen Vertrieb GmbH		Bismarckstr. 31	66333	Völklingen	49.251143	6.853385	1	24/7	Keine Beschränkung	NLLMSE1808337*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1808337*2~TYPE2:22+TYPE2_TETHERED:22
+1070607	Stadtwerke Völklingen Vertrieb GmbH		Köhlerstr. 2	66333	Völklingen	49.183599	6.745313	1	24/7	Keine Beschränkung	NLLMSE1809117*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809117*2~TYPE2:22+TYPE2_TETHERED:22
+1070608	Stadtwerke Völklingen Vertrieb GmbH		Völklinger Str. 65	66333	Völklingen	49.221729	6.808417	1		Keine Beschränkung	NLLMSE1808335*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1808335*2~TYPE2:22+TYPE2_TETHERED:22
+1070609	Stadtwerke Völklingen Vertrieb GmbH		Hohlstr. 31	66333	Völklingen	49.223537	6.800228	1	24/7	Keine Beschränkung	NLLMSE1809133*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809133*2~TYPE2:22+TYPE2_TETHERED:22
+1070610	Stadtwerke Völklingen Vertrieb GmbH		Homburger Str. 40	66333	Völklingen	49.273286	6.827508	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070611	Stadtwerke Völklingen Vertrieb GmbH		Kleine Bergstr. 84	66333	Völklingen	49.250901	6.822641	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070612	Stadtwerke Völklingen Vertrieb GmbH		Marktstr. 8	66333	Völklingen	49.250856	6.857855	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070613	Stadtwerke Völklingen Vertrieb GmbH		Stadionstr. 6	66333	Völklingen	49.256063	6.868755	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070614	Stadtwerke Völklingen Vertrieb GmbH		Waldstr. 20	66333	Völklingen	49.240286	6.841657	1	24/7	Keine Beschränkung	NLLMSE1809100*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809100*2~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809101*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE1809101*2~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070616	Stadtwerke Völklingen Vertrieb GmbH		Am Dietrichsberg 1A	66333	Völklingen	49.234600	6.834817	1	24/7	Keine Beschränkung	NLLMSE11722197*1~TYPE2:22+TYPE2_TETHERED:22|NLLMSE11722197*2~TYPE2:22+TYPE2_TETHERED:22
+1072982	Shell Deutschland GmbH	10024748_Völklingen	Karolingerstr. 7	66333	Völklingen	49.246861	6.860250	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1072985	Shell Deutschland GmbH	10024748_Völklingen	Karolingerstr. 7	66333	Völklingen	49.246849	6.860150	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1076634	STEAG Technischer Service GmbH		Sankt Johanner Straße 101-105	66115	Saarbrücken	49.238281	6.978495	1			~CCS2:150|~TYPE2_TETHERED:22|~TYPE2:22
+1078078	Kommunale Dienste Überherrn	Kollwitzwiese Wohnstadt	Helmut-Bulle-Str. 1	66802	Überherrn	49.235397	6.701117	1	24/7	Keine Beschränkung	KOLKDUE0001~TYPE2:22|KOLKDUE0002~TYPE2:22|KOLKDUE0003~TYPE2:22|KOLKDUE000~TYPE2:22|KOLKDUE0005~TYPE2:22|KOLKDUE0006~TYPE2:22|KOLKDUE00017~TYPE2:22|KOLKDUE0008~TYPE2:22
+1078244	ALDI SÜD	BOU-045-02	Hirtenwies 4	66117	Saarbrücken	49.218887	6.967838	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23212~CCS2:150|DE*ALD*E23213~CCS2:150|DE*ALD*E23214~TYPE2:22
+1083833	Gemeindewerke Wadgassen GmbH		Lindenstraße 114	66787	Wadgassen	49.265996	6.804232	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083834	Gemeindewerke Wadgassen GmbH		Pater-Lorson-Straße 60	66787	Wadgassen	49.236965	6.773926	1			~CCS2:150|~TYPE2_TETHERED:22|~TYPE2:22
+1083835	Gemeindewerke Wadgassen GmbH		Am Abteihof 1	66787	Wadgassen	49.271529	6.792587	1			~CCS2:150|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083836	Gemeindewerke Wadgassen GmbH		Lindenstraße Höhe 0	66787	Wadgassen	49.269777	6.783526	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2:22
+1084075	LightPro		Hauptstraße 83	66780	Rehlingen-Siersburg	49.361999	6.662419	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1084626	Andreas Bach		Augrät 44	66809	Nalbach	49.377529	6.770179	1			~TYPE2:11
+1084704	Andrzej Gonsior		Überhofer Straße 24	66346	Püttlingen	49.310035	6.916915	1			~TYPE2:11
+1085333	Dennis Greveldinger		Hasenstraße 38	66663	Merzig	49.439378	6.607176	1			~TYPE2:11
+1085342	Dennis Weiler		Piesbacher Straße 40	66839	Schmelz	49.414905	6.836791	1			~TYPE2:22
+1085370	Dieter Klein		Von-Braun-Straße 5	66773	Schwalbach	49.303501	6.807646	1			~TYPE2_TETHERED:11
+1085407	Dirk Leuprecht		Sterresweg 8	66798	Wallerfangen	49.306320	6.663140	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:9
+1085594	Fabian München		Saarlouiser Straße 22	66265	Heusweiler	49.338420	6.927018	1			~TYPE2_TETHERED:11
+1085674	Frank Hewer		Am Tiefen Graben 3	66127	Saarbrücken	49.234993	6.898960	1			~TYPE2:11
+1086148	Isabell Jung		Pastor-Thielen-Straße 25	66773	Schwalbach	49.299442	6.804278	1			~TYPE2_TETHERED:11
+1086167	Jan Eckhoff		Hausbacher Str. 76	66663	Merzig	49.471899	6.676089	1			~TYPE2:11
+1086320	Jörg Geibel		Marienstraße 14	66346	Püttlingen	49.286163	6.888539	1			~TYPE2_TETHERED:11
+1086488	Klaus Kasper		Am Großen Graben 17	66333	Völklingen	49.214896	6.804271	1			~TYPE2_TETHERED:11
+1086535	KSW Betriebs gmbh		Oberlimberger Weg 43	66798	Wallerfangen	49.341110	6.667164	1			~TYPE2:11
+1086647	Manfred Kade		Wahlener Straße 2	66839	Schmelz	49.466272	6.834680	1			~TYPE2_TETHERED:11
+1086708	Marco Schmitt		In der Pottaschdell 11	66333	Völklingen	49.254841	6.889317	1			~TYPE2:11
+1086940	Maurice Horn		Hauptstraße 20	66333	Völklingen	49.188707	6.751697	1			~TYPE2:11
+1087059	Michael Ewen		Fichtestraße 14	66333	Völklingen	49.229996	6.807672	1			~TYPE2:11
+1087325	Peter Jonas		Haardter Kopp 24	66663	Merzig	49.461539	6.581637	1			~TYPE2:11
+1087445	Rainer Tinnes		Gottfried-Keller-Straße 17	66839	Schmelz	49.424867	6.833844	1			~TYPE2:11
+1087805	Stefan Comtesse		Im Naubrauch 7	66787	Wadgassen	49.252047	6.806573	1			~TYPE2_TETHERED:11
+1087830	Stefan Nagel		Glück-Auf-Straße 19	66773	Schwalbach	49.310948	6.832830	1			~TYPE2_TETHERED:11
+1088398	WD Kommunikationsgeräte Wagner Dieter GmbH		Zeppelinstraße 4	66117	Saarbrücken	49.225885	6.975586	1			~TYPE2_TETHERED:11
+1088634	Comfort Charge	Merzig, CC_66_0008	Rieffstr. 2-4	66663	Merzig	49.440120	6.632950	1	24/7	Keine Beschränkung	DECCH*ECCH2200017DLT*1~CCS2:200|DECCH*ECCH2200017DLT*2~CCS2:200
+1092034	Netto Marken-Discount Stiftung & Co. KG		Merziger Str. 77	66763	Dillingen	49.356090	6.719890	1	24/7	Keine Beschränkung	~CCS2:72|~TYPE2:22
+1093504	Stadtwerke Merzig GmbH		Am Gaswerk 5	66663	Merzig	49.441078	6.639013	1			~TYPE2:22|~TYPE2:22
+1093505	Stadtwerke Merzig GmbH		Bahnhofstr. 57	66663	Merzig	49.437234	6.635156	1			~TYPE2:22|~TYPE2:22
+1093506	Stadtwerke Merzig GmbH		Saarwiesenring 3	66663	Merzig	49.441629	6.626519	1			~TYPE2:22|~TYPE2:22
+1093507	Stadtwerke Merzig GmbH		Schillerstraße 23a	66663	Merzig	49.443116	6.650254	1			~TYPE2:22|~TYPE2:22
+1093508	Stadtwerke Merzig GmbH		Trierer Straße 148	66663	Merzig	49.457760	6.633990	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093510	Stadtwerke Merzig GmbH		Zur Stadthalle 4	66663	Merzig	49.441134	6.633525	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50
+1093512	Stadtwerke Merzig GmbH		Brauerstrasse 4	66663	Merzig	49.442347	6.636656	1			~TYPE2:22|~TYPE2:22
+1096865	Autohaus Lydorf GmbH		Bettinger Straße 33	66839	Schmelz	49.431618	6.846418	1			~CCS2:22|~TYPE2:11
+1097001	Autohaus Scherer GmbH & Co. KG		Wiesenstraße 3	66115	Saarbrücken	49.236720	6.968156	1			~TYPE2:11
+1097002	Autohaus Scherer GmbH & Co. KG		Wiesenstraße 5	66115	Saarbrücken	49.236769	6.967554	1			~TYPE2:11
+1097237	Auto-Zentrum Schwinn GmbH & Co. KG		Im Flürchen 27	66571	Eppelborn	49.414617	6.923556	1			~CCS2:22|~TYPE2:11
+1102764	Lidl	6845_Lidl_Merzig_LS1_T65-IT1-0523-263	Rieffstr. 7 a	66663	Merzig	49.437581	6.632407	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60|~CCS2:60|~TYPE2:11|~CCS2:60
+1104598	Ramona Sperling	Doppelladesäule Nr. 1	Primsweilerstr. 39a	66839	Schmelz	49.416250	6.848950	1	Mo-Fr 09:00-16:00	Nur für Kunden/Besucher	~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4|~TYPE2:7.4
+1107078	E.ON Drive GmbH		Trierer Straße 1	66111	Saarbrücken	49.239450	6.989358	1			~TYPE2:11|~TYPE2:11
+1107461	E.ON Drive GmbH		Trierer Straße 1	66111	Saarbrücken	49.239451	6.989360	1			~TYPE2:11
+1112624	Architektur- und Sachverständigenbüro		Primsstraße 7	66763	Dillingen	49.368615	6.756416	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1113017	Immobiliengesellschaft im Holzhau GmbH & Co. KG		Zum Wiesenhof 84	66663	Merzig	49.462540	6.619411	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1113024	Reitsportanlage Ballern GmbH & Co.KG		Reitweg 6	66663	Merzig	49.448992	6.612609	1			~CCS2:24+CHADEMO:24|~CCS2:24+CHADEMO:24|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1113423	Timo Friedrich		Rotbüschstr. 20	66740	Saarlouis	49.313051	6.715087	1			~TYPE2_TETHERED:11
+1113608	FAMIS GmbH		Am Litermont 40	66809	Nalbach	49.398460	6.786790	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1113944	Oliver Winter		Burgstraße 5	66740	Saarlouis	49.312457	6.715592	1			~TYPE2_TETHERED:11
+1114203	netz.work gmbh		I. Gartenreihe 8	66740	Saarlouis	49.309367	6.752306	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114299	Holger Weyand		Steinbachstraße 31	66113	Saarbrücken	49.259243	6.971721	1			~TYPE2:11+SCHUKO:11
+1114301	Holger Weyand		Newerweg 51	66687	Nunkirchen	49.482090	6.833550	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1119794	Allego		Dr.-Tietz-Str. 2-4	66115	Saarbrücken	49.238195	6.959815	1	24/7	Keine Beschränkung	DEALLEGO003494_1~CCS2:300|DEALLEGO003494_2~CCS2:300|DEALLEGO003522_1~CCS2:300|DEALLEGO003522_2~CCS2:300|DEALLEGO003859_1~CCS2:50|DEALLEGO003859_2~CCS2:50|DEALLEGO003857_1~CCS2:50|DEALLEGO003857_2~CCS2:50
+1120861	Lidl	6801_Lidl_Überherrn_T65-IT1-4922-077	Langwies 4	66802	Überherrn	49.249130	6.698820	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1121325	Shell Deutschland GmbH	10026812_Eppelborn	Rathausstr. 114	66571	Eppelborn	49.406350	6.954290	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1129546	EnBW mobility+ AG und Co.KG		Im Hader 5	66740	Saarlouis	49.294800	6.757700	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1129963	Shell Deutschland GmbH	10024285_Saarbrücken	Lebacherstr. 136	66113	Saarbrücken	49.248430	6.966110	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131168	Stadtwerke Dillingen/Saar GmbH	Kirchplatz Pachten	Friedrichstr. 1	66763	Dillingen	49.355906	6.711802	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1131170	Stadtwerke Dillingen/Saar GmbH	Marktplatz Diefflen	Nalbacher Str. 110	66763	Dillingen	49.372097	6.763335	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1132097	TWS Technische Werke der Gemeinde Saarwellingen GmbH		Schloßstr. 27	66793	Saarwellingen	49.353538	6.808499	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132959	EnBW mobility+ AG und Co.KG		Rathausstr. 53	66333	Völklingen	49.248800	6.850300	1	24/7	Keine Beschränkung	DE*EBW*E916404*1~CCS2:150|DE*EBW*E916404*2~CCS2:150|DE*EBW*E916363*1~CCS2:150|DE*EBW*E916363*2~CCS2:150|DE*EBW*E916397*1~CCS2:150|DE*EBW*E916397*2~CCS2:150|DE*EBW*E916365*1~CCS2:300|DE*EBW*E916365*2~CCS2:300
+1134095	autostrom.plus	Rastplatz Kutzhof Nord - Fahrtrichtung Saarlouis (156)	Wiesbacher Str. 0	66265	Heusweiler	49.352604	6.989630	1	24/7	Keine Beschränkung	DE*AUP*E15601*01~CCS2:400|DE*AUP*E15601*02~CCS2:400
+1134096	autostrom.plus	Rastplatz Kutzhof Nord - Fahrtrichtung Saarlouis (156)	Wiesbacher Str. 0	66265	Heusweiler	49.352590	6.989697	1	24/7	Keine Beschränkung	DE*AUP*E15602*01~CCS2:400|DE*AUP*E15602*02~CCS2:400
+1134097	autostrom.plus	Rastplatz Kutzhof Nord - Fahrtrichtung Saarlouis (156)	Wiesbacher Str. 0	66265	Heusweiler	49.352570	6.989799	1	24/7	Keine Beschränkung	DE*AUP*E15603*01~CCS2:400|DE*AUP*E15603*02~CCS2:400
+1134098	autostrom.plus	Rastplatz Kutzhof Süd - Fahrtrichtung Saarbrücken (157)	Am Steckenbüsch 0	66265	Heusweiler	49.350118	6.994337	1	24/7	Keine Beschränkung	DE*AUP*E15701*01~CCS2:400|DE*AUP*E15701*02~CCS2:400
+1134099	autostrom.plus	Rastplatz Kutzhof Süd - Fahrtrichtung Saarbrücken (157)	Am Steckenbüsch 0	66265	Heusweiler	49.350127	6.994200	1	24/7	Keine Beschränkung	DE*AUP*E15702*01~CCS2:400|DE*AUP*E15702*02~CCS2:400
+1134100	autostrom.plus	Rastplatz Kutzhof Süd - Fahrtrichtung Saarbrücken (157)	Am Steckenbüsch 0	66265	Heusweiler	49.350130	6.994123	1	24/7	Keine Beschränkung	DE*AUP*E15703*01~CCS2:400|DE*AUP*E15703*02~CCS2:400
+1134275	Sparkasse Merzig-Wadern		Schankstr. 7	66663	Merzig	49.440700	6.635400	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1135605	energis GmbH		Bahnhofstr. 32	66693	Mettlach	49.498380	6.595840	1	24/7	Keine Beschränkung	DE*ISE*EA142344~TYPE2:22|DE*ISE*EA174841~TYPE2:22|DE*ISE*EA167394~TYPE2:22|DE*ISE*EA152187~TYPE2:22
+1144705	EWE Go GmbH	McD_0974_1A	Saarwiesenring 2	66663	Merzig	49.442948	6.625672	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1147767	Pfalzwerke AG	Globus Heusweiler	Am Bahnhof 13	66265	Heusweiler	49.335096	6.928229	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01661*01~CCS2:400|DE*PWA*EALP22541X01661*02~CCS2:400|DE*PWA*EALP22541X01662*01~CCS2:400|DE*PWA*EALP22541X01662*02~CCS2:400
+1147770	Pfalzwerke AG	Globus Heusweiler (ALP22541X01663)	Am Bahnhof 13	66265	Heusweiler	49.335206	6.928083	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01663*01~CCS2:400|DE*PWA*EALP22541X01663*02~CCS2:400
+1148603	Benjamin Sauer-Theisen	Gewiss Wallbox	Primsweilerstr. 34	66839	Schmelz	49.416070	6.847970	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1148948	Witsch-Maul, Dietrich, Scherer Ingenieurbüro für Haustechnik GmbH		Berliner Str. 3	66839	Schmelz	49.424850	6.845360	1	24/7	Keine Beschränkung	EAX4K~TYPE2:11|ESY93~TYPE2:11
+1152662	Servipark Deutschland GmbH	Contipark Parkhaus Saarbrücken Ursulinenstraße	Ursulinenstr. 31	66111	Saarbrücken	49.240017	6.994858	1	24/7	Nur für Kunden/Besucher	DE-CTP-E154610-01-1~TYPE2:11|DE-CTP-E154610-01-2~TYPE2:11|DE-CTP-E154610-02-1~TYPE2:11|DE-CTP-E154610-02-2~TYPE2:11|DE-CTP-E154610-03-1~TYPE2:11|DE-CTP-E154610-03-2~TYPE2:11|DE-CTP-E154610-04-1~TYPE2:11|DE-CTP-E154610-04-2~TYPE2:11|DE-CTP-E154610-05-1~TYPE2:11|DE-CTP-E154610-05-2~TYPE2:11
+1153380	Autohaus Weiland GmbH	Autohaus Weiland GmbH Riegelsberg	Am Mühlengarten 1	66292	Riegelsberg	49.317560	6.913930	1	24/7	Keine Beschränkung	DE*POW*E02586~TYPE2:22|DE*POW*E02585~CCS2:75
+1153448	Shell Deutschland GmbH		Provinzialstr. 63	66663	Merzig	49.467876	6.679360	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1153449	Shell Deutschland GmbH		Provinzialstr. 63	66663	Merzig	49.467884	6.679324	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1154114	Stadtwerke Saarlouis GmbH	Parkhaus ASPRO	Ludwig-Karl-Balzer-Allee 17	66740	Saarlouis	49.319192	6.755050	1	24/7	Keine Beschränkung	DE*BDO*E952622240*1~TYPE2:11|DE*BDO*E952622240*2~TYPE2:11|DE*BDO*E419655233*1~TYPE2:11|DE*BDO*E419655233*2~TYPE2:11|DE*BDO*E623754704*1~TYPE2:11|DE*BDO*E623754704*2~TYPE2:11
+1157147	Wirelane GmbH	Motel One Saarbrücken	Schillerplatz 4	66111	Saarbrücken	49.232021	6.995665	1		Keine Beschränkung	DE*WLN*ES000018~TYPE2:11|DE*WLN*ES000019~TYPE2:11
+1158060	Energie SaarLorLux AG	Parkhaus am Rathaus ( Wallbox 1)	Kaltenbachstr. 16	66111	Saarbrücken	49.233947	6.997760	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1158068	Energie SaarLorLux AG	Parkhaus am Hauptbahnhof (Wallbox 1)	Bormannspfad 38	66111	Saarbrücken	49.240151	6.993771	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1158074	Energie SaarLorLux AG	Parkhaus Congresshalle (Wallbox 1)	Hafenstr. 20	66111	Saarbrücken	49.238633	6.985052	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11

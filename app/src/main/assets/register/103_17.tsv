@@ -1,0 +1,561 @@
+1000987	ASP-Eigenbetrieb der Stadt PaderbornDietmar		Heiersmauer 21	33098	Paderborn	51.723160	8.756030	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1000991	ASP-Eigenbetrieb der Stadt PaderbornDietmar		An der Talle 21	33102	Paderborn	51.747740	8.751030	1			~TYPE2:11|~TYPE2:11
+1004072	Stadtwerke Bielefeld		Schopketalweg 9	33689	Bielefeld	51.932960	8.610150	1	24/7	Keine Beschränkung	DE*ISE*E0011835~CCS2:50|DE*ISE*E0011725~TYPE2:22
+1004083	Stadtwerke Bielefeld		Travestraße 28	33689	Bielefeld	51.953566	8.590812	1			~TYPE2:22|~TYPE2:22
+1004085	Stadtwerke Bielefeld		Lindemann-Platz 3	33689	Bielefeld	51.945373	8.584286	1			~TYPE2:22|~TYPE2:22
+1004086	Stadtwerke Bielefeld		An der Rosenhöhe 11	33647	Bielefeld	51.983646	8.527499	1			~TYPE2:22|~TYPE2:22
+1004087	Stadtwerke Bielefeld		An der Rosenhöhe 5	33647	Bielefeld	51.983446	8.526454	1			~TYPE2:22|~TYPE2:22
+1004088	Stadtwerke Bielefeld		Krackser Straße 202	33689	Bielefeld	51.940133	8.568123	1			~TYPE2:22|~TYPE2:22
+1004089	Stadtwerke Bielefeld		Krackser Straße 202	33689	Bielefeld	51.940098	8.568245	1			~TYPE2:22|~TYPE2:22
+1004091	Stadtwerke Bielefeld		Gildemeisterstraße 135	33689	Bielefeld	51.926730	8.589085	1			~TYPE2:22|~TYPE2:22
+1004096	Stadtwerke Bielefeld		Karl-Oldewurtel-Straße 11	33659	Bielefeld	51.958483	8.521749	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1004106	Stadtwerke Bielefeld		Wächterstraße 28	33659	Bielefeld	51.966021	8.519671	1			~TYPE2:22|~TYPE2:22
+1004107	Stadtwerke Bielefeld		Postheide 34	33659	Bielefeld	51.944790	8.508124	1			~TYPE2:22|~TYPE2:22
+1004109	Stadtwerke Bielefeld		Normannenstraße 10	33647	Bielefeld	51.989961	8.509580	1			~TYPE2:22|~TYPE2:22
+1004126	Stadtwerke Bielefeld		Kirchweg 36	33647	Bielefeld	51.988746	8.515040	1			~TYPE2:22|~TYPE2:22
+1013080	Westenergie Metering GmbH		Leihbühl 21	33165	Lichtenau (Westfalen)	51.621183	8.886450	1			~TYPE2:22|~TYPE2:22
+1021691	EWE Go GmbH	McD_1580	Stauffenbergstr. 2	32791	Lage	51.989849	8.789867	1	24/7	Keine Beschränkung	DE*2GO*EMCD1580*1~CCS2:150|DE*2GO*EMCD1580*2~CCS2:150
+1021732	EWE Go GmbH	McD_0455_1A	Hansaweg 2a	32758	Detmold	51.946702	8.856461	1	24/7	Keine Beschränkung	DE*2GO*EMCD0455*1A*1~CCS2:150|DE*2GO*EMCD0455*1A*2~CCS2:150
+1021737	EWE Go GmbH	McD_0337	Schäferweg 4	33100	Paderborn	51.730910	8.764580	1	24/7	Keine Beschränkung	DE*2GO*EMCD0337*1A*1~CCS2:150|DE*2GO*EMCD0337*1A*2~CCS2:150
+1021773	EWE Go GmbH	McD_0627_1A	Frankfurter Weg 17	33106	Paderborn	51.705102	8.724412	1	24/7	Keine Beschränkung	DE*2GO*EMCD0627*1A*1~CCS2:150|DE*2GO*EMCD0627*1A*2~CCS2:150
+1022026	EWE Go GmbH		Geseker Str. 78	33154	Salzkotten	51.666893	8.589292	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1022097	EWE Go GmbH		Anreppener Str. 2	33129	Delbrück	51.761738	8.573263	1			~CCS2:300|~CCS2:300
+1022098	EWE Go GmbH		Anreppener Str. 2	33129	Delbrück	51.761552	8.572662	1			~CCS2:300|~CCS2:300
+1022226	EWE Go GmbH		Bürener Straße 153	59590	Geseke	51.599064	8.515382	1			~CCS2:300|~CCS2:300
+1025175	EnBW mobility+ AG und Co.KG		Autobahnraststätte Obergassel 0	33689	Bielefeld	51.929800	8.532100	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025785	EnBW mobility+ AG und Co.KG		Südstr. 25	33129	Delbrück	51.759986	8.561964	1			~CCS2:75|~CCS2:75
+1026130	EnBW mobility+ AG und Co.KG		Detmolder Str. 485	33605	Bielefeld	51.996258	8.594841	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1026501	EnBW mobility+ AG und Co.KG		Grünerweg 24	33098	Paderborn	51.706608	8.729369	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1026981	EnBW mobility+ AG und Co.KG		Balhornstraße 6	33102	Paderborn	51.712500	8.734013	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1027965	EnBW mobility+ AG und Co.KG		Hansestraße 1f	33689	Bielefeld	51.951122	8.572704	1			~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1027966	EnBW mobility+ AG und Co.KG		Hansestraße 1F	33689	Bielefeld	51.951100	8.572630	1			~CCS2:400|~CCS2:400
+1027967	EnBW mobility+ AG und Co.KG		Hansestraße 1F	33689	Bielefeld	51.951032	8.572610	1			~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1028174	Westfalen Weser Ladeservice GmbH		Adenauerstr. 59	33184	Altenbeken	51.763400	8.941670	1			~TYPE2:22|~TYPE2:22
+1028175	Westfalen Weser Ladeservice GmbH		Tegelweg 25	33102	Paderborn	51.725974	8.757092	1			~TYPE2:22|~TYPE2:22
+1028177	Westfalen Weser Ladeservice GmbH		Lange Straße 72	32791	Lage	51.990000	8.792000	1			~TYPE2:22|~TYPE2:22
+1028183	Westfalen Weser Ladeservice GmbH		Kirchstraße 5	32805	Horn-Bad Meinberg	51.871448	8.942755	1			~TYPE2:22|~TYPE2:22
+1028185	Westfalen Weser Ladeservice GmbH		Arminiusstraße 31	33175	Bad Lippspringe	51.784460	8.814390	1			~TYPE2:22|~TYPE2:22
+1028187	Westfalen Weser Ladeservice GmbH	10123	Stadtweg 52	33178	Borchen	51.666907	8.723824	1		Keine Beschränkung	DE*WWL*E10123*04~TYPE2:22|DE*WWL*E10123*05~TYPE2:22
+1028191	Westfalen Weser Ladeservice GmbH		Marktstraße 2	33129	Delbrück	51.764641	8.559950	1			~TYPE2:22|~TYPE2:22
+1028194	Westfalen Weser Ladeservice GmbH		Kirchplatz 6	33189	Schlangen	51.808600	8.845536	1			~TYPE2:22|~TYPE2:22
+1028199	Westfalen Weser Ladeservice GmbH	10138	Fürstenallee 7	33102	Paderborn	51.731210	8.736160	1		Keine Beschränkung	DE*WWL*E10138*04~TYPE2:22|DE*WWL*E10138*05~TYPE2:22
+1028201	Westfalen Weser Ladeservice GmbH	10100	Senefelderstr. 16	33100	Paderborn	51.734999	8.788524	1	24/7	Keine Beschränkung	DE*WWL*E10100*04~TYPE2:22|DE*WWL*E10100*05~TYPE2:22
+1028202	Westfalen Weser Ladeservice GmbH	10101	Domplatz 18	33098	Paderborn	51.718978	8.757367	1		Keine Beschränkung	DE*WWL*E10101*04~TYPE2:22|DE*WWL*E10101*05~TYPE2:22
+1028203	Westfalen Weser Ladeservice GmbH		Kurparkstraße 2	33175	Bad Lippspringe	51.783780	8.822140	1			~TYPE2:22|~TYPE2:22
+1028204	Westfalen Weser Ladeservice GmbH		Hauptstr. 21	33758	Schloß Holte-Stukenbrock	51.911300	8.659480	1			~TYPE2:22|~TYPE2:22
+1028205	Westfalen Weser Ladeservice GmbH	10105	Marktstr. 17	33154	Salzkotten	51.671110	8.604910	1		Keine Beschränkung	DE*WWL*E10105*04~TYPE2:22|DE*WWL*E10105*05~TYPE2:22
+1028214	Westfalen Weser Ladeservice GmbH		Im Bruch 5	33175	Bad Lippspringe	51.780526	8.818417	1			~TYPE2:22|~TYPE2:22
+1028217	Westfalen Weser Ladeservice GmbH		Detmarstraße 15	33142	Büren	51.552750	8.560190	1			~TYPE2:22|~TYPE2:22
+1028220	Westfalen Weser Ladeservice GmbH		Schloßstr. 1	33161	Hövelhof	51.820860	8.658170	1			~TYPE2:22|~TYPE2:22
+1028222	Westfalen Weser Ladeservice GmbH		Upsprunger Straße 1	33154	Salzkotten	51.670140	8.600562	1			~TYPE2:22|~TYPE2:22
+1028231	Westfalen Weser Ladeservice GmbH		Nordring 1	33129	Delbrück	51.769490	8.554510	1			~TYPE2:22|~TYPE2:22
+1028234	Westfalen Weser Ladeservice GmbH		Warburger Str. 100	33098	Paderborn	51.709687	8.773750	1			~TYPE2:22|~TYPE2:22
+1028236	Westfalen Weser Ladeservice GmbH		Ahornallee 20	33106	Paderborn	51.726233	8.714426	1			~TYPE2:22|~TYPE2:22
+1028237	Westfalen Weser Ladeservice GmbH		Schloß Hamborn 15	33178	Borchen	51.662812	8.772730	1			~TYPE2:22|~TYPE2:22
+1028248	Westfalen Weser Ladeservice GmbH		Stedener Feld 14	33104	Paderborn	51.730265	8.722771	1			~TYPE2:22|~TYPE2:22
+1028251	Westfalen Weser Ladeservice GmbH		Marienstraße 11	33758	Schloß Holte-Stukenbrock	51.902590	8.616479	1			~TYPE2:22|~TYPE2:22
+1028262	Westfalen Weser Ladeservice GmbH		Bahnhofstraße 28	33102	Paderborn	51.713862	8.740785	1			~TYPE2:22|~TYPE2:22
+1028263	Westfalen Weser Ladeservice GmbH		Westernmauer 38	33098	Paderborn	51.718540	8.747458	1			~TYPE2:22|~TYPE2:22
+1028265	Westfalen Weser Ladeservice GmbH		Tegelweg 25	33102	Paderborn	51.725988	8.756882	1			~CCS2:150+CHADEMO:150|~TYPE2:11
+1028267	Westfalen Weser Ladeservice GmbH		Geseker Straße 45	33154	Salzkotten	51.666739	8.591418	1			~TYPE2:22|~TYPE2:22
+1028271	Westfalen Weser Ladeservice GmbH		Leihbühl 21	33165	Lichtenau	51.621181	8.886449	1			~TYPE2:22|~TYPE2:22
+1028272	Westfalen Weser Ladeservice GmbH		Helmerner Weg 0	33165	Lichtenau	51.566349	8.838943	1			~TYPE2:22|~TYPE2:22
+1028279	Westfalen Weser Ladeservice GmbH		Wilfried Finke Allee 2	33104	Paderborn	51.731117	8.717192	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028286	Westfalen Weser Ladeservice GmbH		Allee 15	33161	Hövelhof	51.821403	8.662104	1			~TYPE2:22|~TYPE2:22
+1028289	Westfalen Weser Ladeservice GmbH		Otto-Stadtler-Straße 4	33100	Paderborn	51.735632	8.780941	1			~TYPE2:22|~TYPE2:22
+1028290	Westfalen Weser Ladeservice GmbH	98102	Thülecke 12	33129	Delbrück	51.764340	8.563752	1		Keine Beschränkung	DE*WWL*E98102*04~TYPE2:22|DE*WWL*E98102*05~TYPE2:22
+1028291	Westfalen Weser Ladeservice GmbH		Warburger Straße 136	33100	Paderborn	51.703816	8.779148	1			~TYPE2:22|~TYPE2:22
+1028299	Westfalen Weser Ladeservice GmbH		An der Heller 53	33758	Schloß Holte-Stukenbrock	51.885314	8.626138	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028301	Westfalen Weser Ladeservice GmbH		Am Hoppenhof 33	33106	Paderborn	51.732263	8.724046	1			~TYPE2:22|~TYPE2:22
+1028305	Westfalen Weser Ladeservice GmbH		Klingenderstraße 10-14	33100	Paderborn	51.729770	8.776640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028310	Westfalen Weser Ladeservice GmbH		Wewelsburger Str. 8	33181	Bad Wünnenberg	51.570137	8.724389	1			~TYPE2:22|~TYPE2:22
+1028312	Westfalen Weser Ladeservice GmbH		Bahnhofstraße 31 b	33102	Paderborn	51.711949	8.734837	1			~TYPE2:22|~TYPE2:22
+1028316	Westfalen Weser Ladeservice GmbH		Frankfurter Weg 28	33106	Paderborn	51.704729	8.724412	1			~TYPE2:22|~TYPE2:22
+1028317	Westfalen Weser Ladeservice GmbH		Friedrich List Str. 42	33100	Paderborn	51.728416	8.793514	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028323	Westfalen Weser Ladeservice GmbH		Fürstenberger Str. 2	33142	Büren	51.548209	8.563402	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028329	Westfalen Weser Ladeservice GmbH		Im Sudahl 11	33100	Paderborn	51.697449	8.852546	1			~TYPE2:22|~TYPE2:22
+1028332	Westfalen Weser Ladeservice GmbH		Kötterhagen 1-3	33100	Paderborn	51.717773	8.756752	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028338	Westfalen Weser Ladeservice GmbH		Senefelderstraße 1	33100	Paderborn	51.732352	8.784663	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028348	Westfalen Weser Ladeservice GmbH		Siddinghäuser Straße 42	33142	Büren	51.547271	8.554704	1			~TYPE2:22|~TYPE2:22
+1028351	Westfalen Weser Ladeservice GmbH		Am Turnplatz 1	33098	Paderborn	51.713730	8.752927	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028352	Westfalen Weser Ladeservice GmbH		Dr. Rörig-Damm 43a	33102	Paderborn	51.738600	8.758410	1			~TYPE2:22|~TYPE2:22
+1028353	Westfalen Weser Ladeservice GmbH		Hatzfelder Platz 2a	33104	Paderborn	51.747480	8.715125	1			~TYPE2:22|~TYPE2:22
+1028354	Westfalen Weser Ladeservice GmbH		Von Ketteler-Straße 10a	33106	Paderborn	51.734100	8.691400	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028355	Westfalen Weser Ladeservice GmbH		Alter Hellweg 89	33106	Paderborn	51.683200	8.695990	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028356	Westfalen Weser Ladeservice GmbH		Grundsteinheimer Weg 38	33100	Paderborn	51.690800	8.853190	1			~TYPE2:22|~TYPE2:22
+1028357	Westfalen Weser Ladeservice GmbH		Gogreven Staße 8	33100	Paderborn	51.743500	8.850170	1			~TYPE2:22|~TYPE2:22|DE*WWL*E16206*04~TYPE2:22|DE*WWL*E16206*05~TYPE2:22
+1028358	Westfalen Weser Ladeservice GmbH		Bendeslo 14	33104	Paderborn	51.764920	8.787549	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028359	Westfalen Weser Ladeservice GmbH		Ostenländer Straße 5	33106	Paderborn	51.757610	8.661303	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028360	Westfalen Weser Ladeservice GmbH		Bielefelder Straße 1	33104	Paderborn	51.776400	8.712450	1			~TYPE2:22|~TYPE2:22|DE*WWL*E16209*04~TYPE2:22|DE*WWL*E16209*05~TYPE2:22
+1028361	Westfalen Weser Ladeservice GmbH		Eggestraße 70	33100	Paderborn	51.739500	8.823740	1			~TYPE2:22|~TYPE2:22
+1028362	Westfalen Weser Ladeservice GmbH	10197	Technologiepark 13a	33100	Paderborn	51.701123	8.762932	1		Keine Beschränkung	DE*WWL*E10197*01~CCS2:150|DE*WWL*E10197*02~CCS2:150
+1028364	Westfalen Weser Ladeservice GmbH		Am Wallgraben 33	33154	Salzkotten	51.672369	8.603883	1			~CCS2:150|~CCS2:150
+1028367	Westfalen Weser Ladeservice GmbH		Bahnhofstraße 13	33184	Altenbeken	51.765860	8.943380	1			~TYPE2:22|~TYPE2:22
+1028368	Westfalen Weser Ladeservice GmbH		Boker Str. 8	33129	Delbrück	51.761480	8.563502	1			~CCS2:24|~TYPE2:11
+1028369	Westfalen Weser Ladeservice GmbH		Heinrich-Bette-Straße 1	33129	Delbrück	51.781000	8.593000	1			~TYPE2:22|~TYPE2:22
+1028376	Westfalen Weser Ladeservice GmbH		Bielefelder Str. 8	33175	Bad Lippspringe	51.783265	8.817349	1			~TYPE2:22|~TYPE2:22
+1028379	Westfalen Weser Ladeservice GmbH		Vattmannstraße 6	33100	Paderborn	51.726543	8.796739	1			~CCS2:50|~TYPE2:22
+1028382	Westfalen Weser Ladeservice GmbH		Schwimmbadstraße 14	33175	Bad Lippspringe	51.792000	8.824000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028384	Westfalen Weser Ladeservice GmbH		Klingenderstraße 13	33100	Paderborn	51.728211	8.776284	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028386	Westfalen Weser Ladeservice GmbH		Am Furlbach 33	33758	Schloß Holte-Stukenbrock	51.871138	8.671925	1			~TYPE2:22|~TYPE2:22
+1028387	Westfalen Weser Ladeservice GmbH		Burgwall 19	33142	Büren	51.606437	8.652162	1			~TYPE2:22|~TYPE2:22
+1028389	Westfalen Weser Ladeservice GmbH		Waldenburger Straße 19	33098	Paderborn	51.706166	8.731017	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028390	Westfalen Weser Ladeservice GmbH		Waldenburger Straße 19	33098	Paderborn	51.706241	8.731113	1			~TYPE2:22
+1028392	Westfalen Weser Ladeservice GmbH		Hatzfelder Platz 2A	33104	Paderborn	51.747372	8.714948	1			~TYPE2:22|~TYPE2:22
+1028395	Westfalen Weser Ladeservice GmbH	16205	Grundsteinheimer Weg 38	33100	Paderborn	51.690862	8.853199	1		Keine Beschränkung	DE*WWL*E16205*04~TYPE2:22|DE*WWL*E16205*05~TYPE2:22
+1028400	Westfalen Weser Ladeservice GmbH		Eggestraße 70	33100	Paderborn	51.739590	8.823743	1			~TYPE2:22|~TYPE2:22
+1028401	Westfalen Weser Ladeservice GmbH		Brückengasse 1	33098	Paderborn	51.717055	8.747937	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028403	Westfalen Weser Ladeservice GmbH		Neuhäuser Straße 9	33102	Paderborn	51.720788	8.746968	1			~TYPE2:22|~TYPE2:22
+1028404	Westfalen Weser Ladeservice GmbH		Rolandsweg 95	33102	Paderborn	51.727383	8.754641	1			~TYPE2:22|~TYPE2:22
+1028423	Westfalen Weser Ladeservice GmbH		Piepenturmweg 43	33100	Paderborn	51.722054	8.779305	1			~TYPE2:22|~TYPE2:22
+1028424	Westfalen Weser Ladeservice GmbH	52200	Arndtstr. 20	33100	Paderborn	51.726430	8.780774	1		Keine Beschränkung	DE*WWL*E52200*04~TYPE2:22|DE*WWL*E52200*05~TYPE2:22
+1028425	Westfalen Weser Ladeservice GmbH	52300	Franz-Hitze-Str. 20	33102	Paderborn	51.713094	8.725843	1		Keine Beschränkung	DE*WWL*E52300*04~TYPE2:22|DE*WWL*E52300*05~TYPE2:22
+1028426	Westfalen Weser Ladeservice GmbH	52500	Tegelweg 34	33102	Paderborn	51.726337	8.757762	1		Keine Beschränkung	DE*WWL*E52400*04~TYPE2:22|DE*WWL*E52400*05~TYPE2:22
+1028427	Westfalen Weser Ladeservice GmbH	52500	Sighardstr. 42A	33098	Paderborn	51.708556	8.742017	1		Keine Beschränkung	DE*WWL*E52500*04~TYPE2:22|DE*WWL*E52500*05~TYPE2:22
+1028428	Westfalen Weser Ladeservice GmbH	52600	Robert-Koch-Str. 50	33102	Paderborn	51.725649	8.764628	1		Keine Beschränkung	DE*WWL*E52600*04~TYPE2:22|DE*WWL*E52600*05~TYPE2:22
+1028433	Westfalen Weser Ladeservice GmbH		Siddinghäuser Straße 42	33142	Büren	51.547256	8.554788	1			~TYPE2:22|~TYPE2:22
+1028450	Westfalen Weser Ladeservice GmbH		Fürstenberger Straße 1a	33142	Büren	51.549360	8.563250	1			~CCS2:100|~CCS2:100
+1028451	Westfalen Weser Ladeservice GmbH		Neuer Weg 0	33142	Büren	51.556008	8.555710	1			~CCS2:100|~CCS2:100
+1028461	Westfalen Weser Ladeservice GmbH		Abelbachstr. 9	33142	Büren	51.586000	8.519379	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028471	Westfalen Weser Ladeservice GmbH		Glashüttenweg 1	33181	Bad Wünnenberg	51.509287	8.743148	1			~TYPE2:22|~TYPE2:22
+1028472	Westfalen Weser Ladeservice GmbH		Haarener Straße 7	33181	Bad Wünnenberg	51.519893	8.740911	1			~TYPE2:22|~TYPE2:22
+1028473	Westfalen Weser Ladeservice GmbH		Kirchweg 80	33181	Bad Wünnenberg	51.567844	8.727039	1			~TYPE2:22|~TYPE2:22
+1028474	Westfalen Weser Ladeservice GmbH		Westfalenstraße 9	33181	Bad Wünnenberg	51.569698	8.762718	1			~TYPE2:22|~TYPE2:22
+1028475	Westfalen Weser Ladeservice GmbH		Hauptstraße 42	33181	Bad Wünnenberg	51.519736	8.652908	1			~TYPE2:22|~TYPE2:22
+1028476	Westfalen Weser Ladeservice GmbH		Wiesenweg 1	33181	Bad Wünnenberg	51.517336	8.644406	1			~TYPE2:22|~TYPE2:22
+1028477	Westfalen Weser Ladeservice GmbH		In den Erlen 31	33181	Bad Wünnenberg	51.515620	8.703119	1			~TYPE2:22|~TYPE2:22
+1028478	Westfalen Weser Ladeservice GmbH		Am Kirchplatz 6	33181	Bad Wünnenberg	51.517399	8.697031	1			~TYPE2:22|~TYPE2:22
+1028479	Westfalen Weser Ladeservice GmbH		In den Erlen 2	33181	Bad Wünnenberg	51.520540	8.701172	1			~TYPE2:22|~TYPE2:22
+1028480	Westfalen Weser Ladeservice GmbH		Im Aatal 80	33181	Bad Wünnenberg	51.508823	8.704251	1			~TYPE2:22|~TYPE2:22
+1028484	Westfalen Weser Ladeservice GmbH	98164	Am Bahnhof 2	32805	Horn-Bad Meinberg	51.881816	8.954405	1		Keine Beschränkung	DE*WWL*E98164*04~TYPE2:22|DE*WWL*E98164*05~TYPE2:22
+1028486	Westfalen Weser Ladeservice GmbH		Zur Krulsmühle 4	33165	Lichtenau	51.620994	8.902338	1			~TYPE2:22|~TYPE2:22
+1028488	Westfalen Weser Ladeservice GmbH		Barkhauser Straße 6	33106	Paderborn	51.705979	8.719414	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028505	Westfalen Weser Ladeservice GmbH	53100	Busdorfmauer 13	33098	Paderborn	51.719731	8.761275	1		Keine Beschränkung	DE*WWL*E53100*04~TYPE2:11|DE*WWL*E53100*05~TYPE2:11
+1028508	Westfalen Weser Ladeservice GmbH	65100	Heimatstr. 5	33175	Bad Lippspringe	51.783075	8.829864	1		Keine Beschränkung	DE*WWL*E65101*04~TYPE2:22|DE*WWL*E65101*05~TYPE2:22
+1028509	Westfalen Weser Ladeservice GmbH	65101	Heimatstr. 5	33175	Bad Lippspringe	51.783115	8.829714	1		Keine Beschränkung	DE*WWL*E65101*04~TYPE2:22|DE*WWL*E65101*05~TYPE2:22
+1028510	Westfalen Weser Ladeservice GmbH	65102	Heimatstr. 5	33175	Bad Lippspringe	51.783141	8.829778	1		Keine Beschränkung	DE*WWL*E65102*04~TYPE2:22|DE*WWL*E65102*05~TYPE2:22
+1028512	Westfalen Weser Ladeservice GmbH		Daimlerstraße 23	32791	Lage	51.978302	8.818637	1			~CCS2:50|~CCS2:50
+1028517	Westfalen Weser Ladeservice GmbH		Am Wilhelmsberg 11	33104	Paderborn	51.753773	8.715445	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028521	Westfalen Weser Ladeservice GmbH		Friedrich-List-Straße 28	33100	Paderborn	51.730522	8.792335	1			~TYPE2:22|~TYPE2:22
+1028522	Westfalen Weser Ladeservice GmbH		Friedrich-List-Straße 47	33100	Paderborn	51.730442	8.793547	1			~TYPE2:22|~TYPE2:22
+1028530	Westfalen Weser Ladeservice GmbH		Navarrastraße 27	33106	Paderborn	51.688258	8.725634	1			~CCS2:50|~CCS2:50
+1028534	Westfalen Weser Ladeservice GmbH		Hauptstraße 5	33178	Borchen	51.661226	8.715629	1			~TYPE2:22|~TYPE2:22
+1028538	Westfalen Weser Ladeservice GmbH	98170	Sprottauer Str. 44	32756	Detmold	51.937287	8.857995	1		Keine Beschränkung	DE*WWL*E98170*01~CCS2:25|DE*WWL*E98170*02~CCS2:25|DE*WWL*E98171*01~CCS2:25|DE*WWL*E98171*01~CCS2:25|DE*WWL*E98172*01~CCS2:300|DE*WWL*E98172*02~CCS2:300
+1028540	Westfalen Weser Ladeservice GmbH		Domplatz 3	33098	Paderborn	51.719710	8.757122	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030526	Fastned Deutschland GmbH & Co. KG		Borchenerstraße 322	33106	Paderborn	51.683640	8.721940	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300
+1030884	Fraunhofer-Gesellschaft e. V.		Zukunftsmeile 1	33102	Paderborn	51.730802	8.738609	1			~TYPE2:22|~TYPE2:22
+1030887	Fraunhofer-Gesellschaft e. V.		Zukunftsmeile 1	33102	Paderborn	51.730909	8.738340	1			~TYPE2:22
+1031023	Fraunhofer-Gesellschaft e. V.		Zukunftsmeile 1	33102	Paderborn	51.730757	8.738679	1			~CCS2:25|~CCS2:32+CHADEMO:32|~TYPE2:22
+1031477	CUBOS Service GmbH		Bahnhofstr 31	33102	Paderborn	51.712103	8.735585	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031517	CUBOS Service GmbH		Brinkeweg 11	33758	Schloss Holte-Stukenbrock	51.883084	8.622701	1			~TYPE2:11|~TYPE2:11
+1032363	GETEC mobility solutions GmbH		Auf der Bache 3	33129	Delbrück	51.795209	8.611277	1			~TYPE2:22|~TYPE2:22
+1037196	Westfalen AG & Co. KG		Paderborner Str. 319	33689	Bielefeld	51.932047	8.608644	1			~CCS2:75
+1041844	Stadtwerke Schloß Holte-Stukenbrock GmbH		Rathausstraße 2	33758	Scholß Holte-Stukenbrock	51.901346	8.636976	1			~TYPE2:22|~TYPE2:22
+1043489	Allego		Gesekerstraße 62-66	33154	Salzkotten	51.667180	8.591250	1			DEALLEGO001707*1~TYPE2:22|DEALLEGO001707*2~TYPE2:22|DEALLEGO001708*1~TYPE2:22|DEALLEGO001708*2~TYPE2:22
+1043547	Allego		Gesekerstraße 62-66	33154	Salzkotten	51.667250	8.591420	1		Keine Beschränkung	DEALLEGO002868*1~CCS2:50|DEALLEGO002868*2~CCS2:50|DEALLEGO002869*1~CCS2:150|DEALLEGO002869*2~CCS2:150
+1043591	Allego		Frankfurter Weg 35	33106	Paderborn	51.696750	8.734701	1		Keine Beschränkung	DEALLEGO003111*1~CCS2:150|DEALLEGO003111*2~CCS2:150
+1043614	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998639	8.609473	1		Keine Beschränkung	DEALLEGO003153*1~CCS2:150|DEALLEGO003153*2~CCS2:150
+1043618	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998635	8.609254	1		Keine Beschränkung	DEALLEGO003164*1~CCS2:150|DEALLEGO003164*2~CCS2:150|DEALLEGO003178*1~CCS2:150|DEALLEGO003178*2~CCS2:150
+1043620	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998636	8.609398	1		Keine Beschränkung	DEALLEGO003168*1~CCS2:150|DEALLEGO003168*2~CCS2:150
+1043621	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998634	8.609000	1		Keine Beschränkung	DEALLEGO003170*1~CCS2:150|DEALLEGO003170*2~CCS2:150
+1043623	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998633	8.608887	1		Keine Beschränkung	DEALLEGO003172*1~CCS2:150|DEALLEGO003172*2~CCS2:150
+1043624	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998634	8.608712	1		Keine Beschränkung	DEALLEGO003175*1~CCS2:150|DEALLEGO003175*2~CCS2:150
+1043627	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998635	8.608800	1		Keine Beschränkung	DEALLEGO003180*1~CCS2:150|DEALLEGO003180*2~CCS2:150
+1043653	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998489	8.608844	1		Keine Beschränkung	DEALLEGO003369*1~CCS2:50|DEALLEGO003369*2~CCS2:50|DEALLEGO003371*1~CCS2:50|DEALLEGO003371*2~CCS2:50|DEALLEGO003382*1~CCS2:50|DEALLEGO003382*2~CCS2:50|DEALLEGO003395*1~CCS2:50|DEALLEGO003395*2~CCS2:50
+1043654	Allego		Bielitzer Straße 40	33699	Bielefeld	51.998494	8.609369	1		Keine Beschränkung	DEALLEGO003370*1~CCS2:50|DEALLEGO003370*2~CCS2:50|DEALLEGO003381*1~CCS2:50|DEALLEGO003381*2~CCS2:50|DEALLEGO003396*1~CCS2:50|DEALLEGO003396*2~CCS2:50|DEALLEGO003397*1~CCS2:50|DEALLEGO003397*2~CCS2:50
+1046241	EnKL GmbH		Hansestr. 1	33689	Bielefeld	51.951907	8.572470	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1047123	Westfalen Weser Ladeservice GmbH	1700101	Lange Str. 39	33165	Lichtenau	51.616688	8.897392	1	24/7	Keine Beschränkung	DE*WWL*E1700101*01~CCS2:150|DE*WWL*E1700101*02~CCS2:150
+1048363	Westfalen Weser Ladeservice GmbH	1020101	Kolpingstr. 5	33181	Bad Wünnenberg	51.515363	8.740262	1	24/7	Keine Beschränkung	DE*WWL*E1020101*05~TYPE2:22|DE*WWL*E1020101*04~TYPE2:22
+1048462	Lidl		Bahnhofstr. 1	33178	Borchen	51.661150	8.716920	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048488	Lidl		Neuhäuser Str. 127	33102	Paderborn	51.728790	8.731530	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22+CHADEMO:22
+1048576	Lidl		Friedrich-Petrie-Str. 18-26	32791	Lage	51.992460	8.790250	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048904	Lidl	6809_Lidl_Bielefeld-Brackwede_T65-IT1-2422-011	Kimbernstr. 1	33647	Bielefeld	51.989299	8.507156	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048906	Lidl	6739_Lidl_Bad Lippspringe_T54-IT1-2822-286	An der Weberei 2	33175	Bad Lippspringe	51.776051	8.804655	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1049648	E.ON Drive Infrastructure		Raststätte Obergassel 0	33659	Bielefeld	51.930074	8.532181	1			~CCS2:50|~CCS2:50
+1049658	E.ON Drive Infrastructure		Raststätte Niedergassel 0	33689	Bielefeld	51.927961	8.529158	1			~CCS2:50|~CCS2:50
+1050419	Pfalzwerke AG		Wilfried-Finke-Allee 0	33104	Paderborn	51.731553	8.718354	1			~CCS2:225|~CCS2:225|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1053270	Q1 Autostrom	Paderborn, Neuhäuser Straße	Neuhäuser Str. 102	33102	Paderborn	51.726312	8.735182	1	24/7	Keine Beschränkung	DE*Q1A*E50010217~CCS2:150|DE*Q1A*E50010218~CCS2:150|DE*Q1A*E50010219~TYPE2:22
+1053300	Q1 Autostrom	Bielefeld, Krackser Straße	Krackser Str. 188	33689	Bielefeld	51.941181	8.563994	1	24/7	Keine Beschränkung	DE*Q1A*E50010785~CCS2:50|DE*Q1A*E50010786~TYPE2:22
+1053407	SWARCO Traffic Systems GmbH		Leopoldstr. 25	32756	Detmold	51.934555	8.882721	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1054601	Aral Pulse		Bürener Straße 155	59590	Geseke	51.597548	8.515615	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054883	Aral Pulse		Borchener Straße 336	33106	Paderborn	51.684090	8.721498	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055030	Aral Pulse		Paderborner Straße 324	33689	Bielefeld	51.932192	8.607066	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055147	Aral Pulse		Dubelohstraße 143	33104	Paderborn	51.745679	8.731283	1			~CCS2:150|~CCS2:150
+1055156	Aral Pulse		Dubelohstraße 143	33104	Paderborn	51.745338	8.730833	1			~CCS2:150|~CCS2:150
+1055284	Aral Pulse		Paderborner Straße 324	33689	Bielefeld	51.932092	8.606882	1			~CCS2:300|~CCS2:300
+1055645	IONITY GmbH	IONITY Paderborn	Frankfurter Weg 11	33106	Paderborn	51.707229	8.722920	1	24/7	Nur für Kunden/Besucher	DE*IOY*E228571~CCS2:200|DE*IOY*E228572~CCS2:200|DE*IOY*E228573~CCS2:200|DE*IOY*E228574~CCS2:200|DE*IOY*E228505~CCS2:350|DE*IOY*E228506~CCS2:350|DE*IOY*E228507~CCS2:350|DE*IOY*E228508~CCS2:350|DE*IOY*E228509~CCS2:350|DE*IOY*E228510~CCS2:350|DE*IOY*E228511~CCS2:350|DE*IOY*E228512~CCS2:350
+1057836	Stadtwerke Detmold GmbH		Bahnhofstraße 3	32756	Detmold	51.939499	8.874776	1			~TYPE2:22|~TYPE2:22
+1057837	Stadtwerke Detmold GmbH		Gerichtsstraße 5	32756	Detmold	51.936404	8.873086	1			~TYPE2:22|~TYPE2:22
+1057838	Stadtwerke Detmold GmbH		Georgstraße 10	32756	Detmold	51.950028	8.872704	1			~TYPE2:22|~TYPE2:22
+1057839	Stadtwerke Detmold GmbH		Rosental 13	32756	Detmold	51.937031	8.880502	1			~TYPE2:22|~TYPE2:22
+1057840	Stadtwerke Detmold GmbH		Schülerstraße 41	32756	Detmold	51.933926	8.881715	1			~TYPE2:22|~TYPE2:22
+1057841	Stadtwerke Detmold GmbH		Bad Meinberger Straße 1	32760	Detmold	51.931978	8.915851	1			~TYPE2:22
+1057842	Stadtwerke Detmold GmbH		Marienstr. 1A	32756	Detmold	51.943223	8.878522	1			~TYPE2:22|~TYPE2:22
+1057843	Stadtwerke Detmold GmbH		Wittekindstr. 3	32756	Detmold	51.942809	8.863036	1			~TYPE2:22|~TYPE2:22
+1057844	Stadtwerke Detmold GmbH		Im Kampe 16	32760	Detmold	51.922893	8.850013	1			~TYPE2:22|~TYPE2:22
+1057845	Stadtwerke Detmold GmbH		Leopoldstraße 27	32756	Detmold	51.934233	8.882717	1			~TYPE2:22|~TYPE2:22
+1057846	Stadtwerke Detmold GmbH		Grünstr. 17	32756	Detmold	51.950154	8.884230	1			~TYPE2:22|~TYPE2:22
+1057847	Stadtwerke Detmold GmbH		Georg-Weerth-Str. 19	32756	Detmold	51.932607	8.886349	1			~TYPE2:22|~TYPE2:22
+1057848	Stadtwerke Detmold GmbH		Blomberger Str. 355	32760	Detmold	51.944400	8.943276	1			~TYPE2:22|~TYPE2:22
+1057849	Stadtwerke Detmold GmbH		Hornschestraße 52	32756	Detmold	51.929809	8.886583	1			~TYPE2:22|~TYPE2:22
+1057850	Stadtwerke Detmold GmbH		Industriestraße 2	32756	Detmold	51.941048	8.873425	1			~TYPE2:22|~TYPE2:22
+1057851	Stadtwerke Detmold GmbH		Am Eichenkrug 30	32758	Detmold	51.946024	8.784527	1			~TYPE2:22|~TYPE2:22
+1057852	Stadtwerke Detmold GmbH		An der Pyramideneiche 0	32760	Detmold	51.892867	8.876738	1			~TYPE2:22|~TYPE2:22
+1057853	Stadtwerke Detmold GmbH		Wotanstraße 6	32756	Detmold	51.940389	8.877264	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057856	Stadtwerke Detmold GmbH		Wotanstraße 6	32756	Detmold	51.940321	8.877221	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057860	Stadtwerke Detmold GmbH		Theaterplatz 0	32756	Detmold	51.937506	8.881344	1			~TYPE2:22
+1057861	Stadtwerke Detmold GmbH		Elisabeth-Selbert-Weg 4	32756	Detmold	51.946635	8.883532	1			~TYPE2:22|~TYPE2:22
+1057862	Stadtwerke Detmold GmbH		Am Eichenkrug 30	32758	Detmold	51.945632	8.784765	1			~TYPE2:22|~TYPE2:22
+1057863	Stadtwerke Detmold GmbH		Sprottauer Str. 0	32756	Detmold	51.937235	8.858149	1			~TYPE2:22|~TYPE2:22
+1057864	Stadtwerke Detmold GmbH		Paderborner Str. 40	32760	Detmold	51.909870	8.875614	1			~TYPE2:22|~TYPE2:22
+1057865	Stadtwerke Detmold GmbH		Kronenplatz 0	32756	Detmold	51.941113	8.874645	1			~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057867	Stadtwerke Detmold GmbH		Industriestr. 2	32756	Detmold	51.941081	8.873104	1			~TYPE2:22|~TYPE2:22
+1057868	Stadtwerke Detmold GmbH		Rosental 21	32756	Detmold	51.937295	8.879473	1			~TYPE2:22|~TYPE2:22
+1057869	Stadtwerke Detmold GmbH		Richthofenstr. 18	32756	Detmold	51.938623	8.884691	1			~TYPE2:22|~TYPE2:22
+1057870	Stadtwerke Detmold GmbH		Bad Meinberger Str. 1	32760	Detmold	51.932731	8.916237	1			~TYPE2:22|~TYPE2:22
+1057871	Stadtwerke Detmold GmbH		Hornsche Str. 52	32756	Detmold	51.929538	8.886029	1			~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057873	Stadtwerke Detmold GmbH		Neustadt 24	32756	Detmold	51.929846	8.874639	1			~TYPE2:22|~TYPE2:22
+1059998	Westfalen Weser Ladeservice GmbH	37099	Detmolder Str. 73	33100	Paderborn	51.731843	8.764559	1	24/7	Keine Beschränkung	DE*WWL*EVIRTUALCP*01~CCS2:350
+1060000	Westfalen Weser Ladeservice GmbH	44400	Lange Str. 42-44	33165	Lichtenau	51.616308	8.897461	1	24/7	Keine Beschränkung	DE*WWL*E44400*04~TYPE2:22|DE*WWL*E44400*05~TYPE2:22
+1060005	Westfalen Weser Ladeservice GmbH	44420	Bismarckstr. 5	32756	Detmold	51.938299	8.876696	1	24/7	Keine Beschränkung	DE*WWL*E44420*04~TYPE2:22|DE*WWL*E44420*05~TYPE2:22
+1060036	Westfalen Weser Ladeservice GmbH	6400201	Kalli-Gaulke-Weg 8-10	33175	Bad Lippspringe	51.776812	8.802645	1	24/7	Keine Beschränkung	DE*WWL*E6400201*04~TYPE2_TETHERED:22|DE*WWl*E6400201*05~TYPE2_TETHERED:22
+1060037	Westfalen Weser Ladeservice GmbH	6400202	Kalli-Gaulke-Weg 8-10	33175	Bad Lippspringe	51.776832	8.802758	1	24/7	Keine Beschränkung	DE*WWL*E6400202*04~TYPE2:22|DE*WWL*E6400202*05~TYPE2:22
+1060038	Westfalen Weser Ladeservice GmbH	6400203	Kalli-Gaulke-Weg 8-10	33175	Bad Lippspringe	51.776855	8.802849	1	24/7	Keine Beschränkung	DE*WWL*E6400203*04~TYPE2:22|DE*WWL*E6400203*05~TYPE2:22
+1060039	Westfalen Weser Ladeservice GmbH	6400204	Kalli-Gaulke-Weg 8-10	33175	Bad Lippspringe	51.776879	8.802935	1	24/7	Keine Beschränkung	DE*WWL*E6400204*04~TYPE2:11|DE*WWL*E6400204*05~TYPE2:11
+1060261	Pluq		Pyrmonter Str. 51	32805	Horn-Bad Meinberg	51.896353	8.999977	1			~TYPE2:22|~TYPE2:22
+1060270	Pluq		Sender Str. 6	33689	Bielefeld	51.938222	8.571255	1			~TYPE2:22|~TYPE2:22
+1061136	Westfalen Weser Ladeservice GmbH	6400101	An der Weberei 7	33175	Bad Lippspringe	51.776849	8.803756	1	24/7	Keine Beschränkung	DE*WWL*E6400101*01~CCS2:100|DE*WWL*E6400101*02~CCS2:100
+1061137	Westfalen Weser Ladeservice GmbH	6400103	An der Weberei 7	33175	Bad Lippspringe	51.776962	8.803305	1	24/7	Keine Beschränkung	DE*WWL*E6400103*04~TYPE2_TETHERED:11|DE*WWL*E6400103*05~TYPE2_TETHERED:11
+1061138	Westfalen Weser Ladeservice GmbH	6400104	An der Weberei 7	33175	Bad Lippspringe	51.776988	8.803413	1	24/7	Keine Beschränkung	DE*WWL*E6400104*04~TYPE2:22|DE*WWL*E6400104*05~TYPE2:22
+1061139	Westfalen Weser Ladeservice GmbH	6400105	An der Weberei 7	33175	Bad Lippspringe	51.777008	8.803504	1	24/7	Keine Beschränkung	DE*WWL*E6400105*04~TYPE2:22|DE*WWL*E6400105*05~TYPE2:22
+1061140	Westfalen Weser Ladeservice GmbH	6400106	An der Weberei 7	33175	Bad Lippspringe	51.777031	8.803611	1	24/7	Keine Beschränkung	DE*WWL*E6400106*04~TYPE2:22|DE*WWL*E6400106*04~TYPE2:22
+1061142	Westfalen Weser Ladeservice GmbH	6400102	An der Weberei 7	33175	Bad Lippspringe	51.776895	8.803725	1	24/7	Keine Beschränkung	DE*WWL*E6400102*01~CCS2:100|DE*WWL*E6400102*02~CCS2:100
+1062374	Allego		Bielitzer Str. 40	33699	Bielefeld	51.998517	8.608896	1	24/7	Keine Beschränkung	DEALLEGO003809_1~CCS2:50|DEALLEGO003809_2~CCS2:50
+1062375	Allego		Bielitzer Str. 40	33699	Bielefeld	51.998486	8.609319	1	24/7	Keine Beschränkung	DEALLEGO003834_1~CCS2:50|DEALLEGO003834_2~CCS2:50
+1062753	Epping Green Energy GmbH		Paderborner Str. 33	33161	Hövelhof	51.817098	8.661859	1	24/7	Keine Beschränkung	DE*EPP*E0005*1~CCS2:300+CCS2:300|DE*EPP*E0005*2~CCS2:300|DE*EPP*E0006*1~CCS2:300|DE*EPP*E0006*2~CCS2:300|DE*EPP*E0007*1~CCS2:50|DE*EPP*E0007*2~CCS2:50
+1062991	Wissenschafts- und Sportverein Haxterpark e.V.	Ladepark Haxterpark	Haxterhöhe 2	33100	Paderborn	51.699920	8.776640	1	24/7	Keine Beschränkung	DE*ONE*E66HB DE*ONE*ER7QZ~CCS2:50+CCS2:50|DE*ONE*E8TZM DE*ONE*E7SBU~CCS2:50+CCS2:50|DE*ONE*EXNX2 DE*ONE*EVU5J~CCS2:50+CCS2:50|DE*ONE*ECW8Y DE*ONE*E953K~CCS2:50+CCS2:50|DE*ONE*EPE9J DE*ONE*EHP4F~CCS2:50+CCS2:50
+1063005	REA eCharge GmbH	Bioladen Wedde Paderborn	Nordstr. 38	33102	Paderborn	51.727427	8.758992	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1063811	Max Brandt		Rotheweg 18a	33102	Paderborn	51.734893	8.758196	1	24/7	Keine Beschränkung	~TYPE2:11
+1064909	Aral Pulse		Bürener Straße 155	59590	Geseke	51.598150	8.515789	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1067125	Thiele Thiele Storm GbR		Friedrich-List-Strasse 67	33100	Paderborn	51.728541	8.796327	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1067980	Sven Groeger		Hudeweg 12	33818	Leopoldshöhe	51.985703	8.682639	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068564	Stefan Fahnenschmidt		Grubenweg 10	33415	Verl	51.876940	8.545960	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068566	Ernst Herrmann		Ostring 15	33129	Delbrück	51.765074	8.572291	1			~TYPE2_TETHERED:22
+1068576	Glockenbach Gebäudedienste GmbH		Detmolder Str. 204	33100	Paderborn	51.744552	8.773846	1			~TYPE2:11|~TYPE2:11
+1068896	Markus Baumhögger	E-Tankstelle Paderborn	Halberstädter Straße 38a	33106	Paderborn	51.691621	8.745524	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1068898	Markus Baumhögger		Halberstädter Straße 38a	33106	Paderborn	51.691935	8.745626	1		Keine Beschränkung	DE*ISE*EA144383~TYPE2:22+TYPE2_TETHERED:22|DE*ISE*EA172768~TYPE2:22+TYPE2_TETHERED:22|DE*ISE*EA196836~TYPE2:22+TYPE2_TETHERED:22|DE*ISE*EA154112~TYPE2:22+TYPE2_TETHERED:22
+1069126	Westfalen Weser Ladeservice GmbH	4400601	Königstr. 9	33142	Büren	51.554538	8.560179	1	24/7	Keine Beschränkung	DE*WWL*E4400601*04~TYPE2:22|DE*WWL*E4400601*05~TYPE2:22
+1069183	HCL Solar KG		Holter Straße 112	33758	Schloß Holte - Stukenbrock	51.905391	8.639961	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1069354	Cornelia Schulze PV, Einzelunternehmen		Lindenstr. 86	33189	Schlangen	51.806299	8.822761	1			~TYPE2_TETHERED:22
+1069476	Kreis Paderborn		Burgwall 19	33142	Büren - Wewelsburg	51.606467	8.652224	1			~TYPE2:22|~TYPE2:22
+1070798	RTB GmbH & Co.KG		Raiffeisenstraße 33	33175	Bad Lippspring	51.779789	8.799848	1			~TYPE2:22|~TYPE2:22
+1070904	Stadtwerke Lage GmbH		Am Drawen Hof bei 1	32791	Lage	51.990987	8.795010	1			~TYPE2:22|~TYPE2:22
+1070905	Stadtwerke Lage GmbH		Am Drawen Hof bei 1	32791	Lage	51.990946	8.794430	1			~TYPE2:22|~TYPE2:22
+1070906	Stadtwerke Lage GmbH		Zum Twilen 0	32791	Lage	51.981182	8.741330	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1071101	Compleo Connect GmbH		Liboriberg 35	33098	Paderborn	51.715166	8.755582	1			~TYPE2:22|~TYPE2:22
+1071102	Compleo Connect GmbH		Liboriberg 35	33189	Paderborn	51.715216	8.755522	1			~TYPE2:22|~TYPE2:22
+1071145	Richter ElektroCom GmbH		An der Burg 10	33154	Salzkotten	51.674559	8.618769	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50|~TYPE2:22
+1071146	Richter ElektroCom GmbH		Rotheweg 17	33154	Salzkotten	51.719847	8.623407	1			~TYPE2_TETHERED:22
+1071147	Richter ElektroCom GmbH		Scharmeder Straße 165	33106	Paderborn	51.713497	8.665639	1			~TYPE2_TETHERED:22
+1071148	Richter ElektroCom GmbH		Martinstr. 9	33129	Delbrück	51.735430	8.630635	1			~TYPE2_TETHERED:22
+1071150	Richter ElektroCom GmbH		Geseker Straße 64	33154	Salzkotten	51.667179	8.591247	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1071251	Westfalenwind Strom GmbH		Leihbühl 21	33165	Lichtenau	51.621599	8.885730	1			~TYPE2:22|~TYPE2:22
+1071519	Froli Kunststoffwerk e.Kf.		Liemker Straße 27	33758	Schloß Holte-Stukenbrock	51.870481	8.616159	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1071520	Froli Kunststoffwerk e.Kf.		Liemker Straße 27	33758	Schloß Holte-Stukenbrock	51.870385	8.616208	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1072302	Wirtschaftsbetriebe Bad Salzuflen GmbH		Asemisser Allee 18-20	33818	Leopoldshöhe	51.979690	8.666120	1			~TYPE2:11|~TYPE2:11
+1075184	Stadtwerk Verl GmbH		Paderborner Str. 28	33415	Verl	51.881923	8.506691	1			~TYPE2:22|~TYPE2:22
+1075186	Stadtwerk Verl GmbH		Paderborner Str. 28	33415	Verl	51.857463	8.564808	1			~TYPE2:22|~TYPE2:22
+1075187	Stadtwerk Verl GmbH		Bahnhofstr. 11	33415	Verl	51.884093	8.512691	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075188	Stadtwerk Verl GmbH		Bahnhofstr. 11	33415	Verl	51.880856	8.508914	1			~TYPE2:22
+1075189	Stadtwerk Verl GmbH		Gütersloher Str. 9z2	33415	Verl	51.881976	8.507713	1			~TYPE2:22|~TYPE2:22
+1075190	Stadtwerk Verl GmbH		Paderborner Str. 3	33415	Verl	51.882723	8.509572	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075191	Stadtwerk Verl GmbH		Zum Meierhof 91	33415	Verl	51.888761	8.501359	1			~TYPE2:22|~TYPE2:22
+1076416	Augustinum Energiemanagement GmbH		Römerweg 9	32760	Detmold-Hiddesen	51.922210	8.845340	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076656	Stadtwerke Geseke		Bürener Str. 15	59590	Geseke	51.630869	8.512970	1			~TYPE2:22|~TYPE2:22
+1076657	Stadtwerke Geseke	Ladesäule Bäckerei Lange	Erwitter Straße 10	59590	Geseke	51.635580	8.505810	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1076658	Stadtwerke Geseke		Mühlenstraße 11	59590	Geseke	51.643333	8.510706	1			~TYPE2:22|~TYPE2:22
+1076659	Stadtwerke Geseke		Noltengasse 8	59590	Geseke	51.640743	8.509617	1			~TYPE2:22|~TYPE2:22
+1076660	Stadtwerke Geseke		Salzkottener Str. 42	59590	Geseke	51.642443	8.531300	1			~TYPE2:22|~TYPE2:22
+1078233	Sievering Gbr		Stephanusstr. 75B	33098	Paderborn	51.701814	8.744972	1	24/7	Keine Beschränkung	~TYPE2:22
+1078959	HomE of Mobility GmbH	Schröder Team Sennestadt GmbH & Co. KG · Werkstattneubau ·AC	Edisonstr. 1	33689	Bielefeld	51.955092	8.575907	1	24/7	Keine Beschränkung	DE*HOM*E500201*001~TYPE2_TETHERED:22|DE*HOM*E500201*002~TYPE2_TETHERED:22|DE*HOM*E500201*003~TYPE2_TETHERED:22|DE*HOM*E500201*004~TYPE2_TETHERED:22|DE*HOM*E500201*005~TYPE2_TETHERED:22|DE*HOM*E500201*006~TYPE2_TETHERED:22|DE*HOM*E500201*007~TYPE2_TETHERED:22|DE*HOM*E500201*008~TYPE2_TETHERED:22|DE*HOM*E500201*501~CCS2:300|DE*HOM*E500201*502~CCS2:300
+1081501	Westfalen Weser Ladeservice GmbH	4400701	Marktstr. 15	33154	Salzkotten	51.670482	8.605297	1	24/7	Keine Beschränkung	DE*WWL*E4400701*04~TYPE2:22|DE*WWL*E4400701*05~TYPE2:22
+1084120	LST-Laserschneidtechnik GmbH	Mitarbeiterparkplatz I	Heinz-Sallads-Str. 9	33161	Hövelhof	51.837701	8.645722	1		Nur für Kunden/Besucher	DE*ONE*ET9UX~TYPE2:11|DE*ONE*EFA8Q~TYPE2:11|DE*ONE*E1NH6~TYPE2:11|DE*ONE*E1N38~TYPE2:11|DE*ONE*EVRF6~TYPE2:11|DE*ONE*E9DQ9~TYPE2:11|DE*ONE*ECC8C~TYPE2:11|DE*ONE*EX63H~TYPE2:11
+1084144	Dietrich Falk GbR		Kurt Schumacher Straße 61	32758	Detmold	51.950722	8.798454	1			~TYPE2_TETHERED:11
+1084762	autoForum Wiegers GmbH		Detmolder Straße 378	33605	Bielefeld	51.999720	8.577000	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~CCS2:22
+1084867	Automobile Hillebrand GmbH & Co.KG		Frankfurter Weg 42	33106	Paderborn	51.701013	8.727147	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1084868	Automobile Hillebrand GmbH & Co.KG		Zinsdorfer Weg 8	33181	Bad Wünnenberg	51.525845	8.713304	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085019	Brigitte Baron		Rosenstraße 29	33175	Bad Lippspringe	51.772499	8.805064	1			~TYPE2:11
+1085089	Christian Holtkamp		Zum Brandhof 15	33154	Salzkotten	51.666954	8.601071	1			~TYPE2:11
+1085301	David Driesner		Hagenbieke 16	33129	Delbrück	51.754295	8.594771	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085307	David Kopecki		Leinertsberg 3	33178	Borchen	51.648071	8.701525	1			~TYPE2_TETHERED:22
+1085384	Dietrich Falk		Kurt-Schumacher-Straße 61	32758	Detmold	51.946335	8.798831	1			~TYPE2_TETHERED:11
+1085387	Dimitri Huber		Rolfshof 10	33104	Paderborn	51.760335	8.717625	1			~TYPE2:11|~TYPE2:11
+1085414	Dirk Sascha Jablotschkin		Saumweg 23	33142	Büren	51.507385	8.584213	1			~TYPE2_TETHERED:22
+1085465	Eckhard Czapula		Körnerstraße 12	33129	Delbrück	51.769170	8.560076	1			~TYPE2:11
+1085818	Gerhard Weitekemper		Lange Straße 15	33758	Schloß Holte-Stukenbrock	51.888193	8.650733	1			~TYPE2_TETHERED:11
+1085855	Guido Harst		Gartenweg 11	33181	Bad Wünnenberg	51.566878	8.722395	1			~TYPE2_TETHERED:11
+1085861	Günter Andretzky		Im Holzkamp 35	33818	Leopoldshöhe	51.979639	8.681299	1			~TYPE2_TETHERED:11
+1085985	Heinz-Josef Fahle		Am Buchenwald 5	34431	Marsberg	51.524430	8.868744	1			~TYPE2_TETHERED:22
+1085992	Helmut Esau		Zum Buschhof 17	33415	Verl	51.856810	8.568820	1			~TYPE2_TETHERED:11
+1086220	Jens Kochsiek		Max-Schmeling-Straße 5	32791	Lage	51.972894	8.740032	1			~TYPE2_TETHERED:22
+1086234	Jens-Henning Gläsker		Winkelweg 4	32758	Detmold	51.947988	8.785246	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086275	Johann Voth		Schlüsselblumenweg 23	33161	Hövelhof	51.817256	8.640594	1			~TYPE2_TETHERED:11
+1086280	Johann Kraft		Bauernkamp 44	32832	Augustdorf	51.905466	8.752264	1			~TYPE2_TETHERED:11
+1086410	Kampmeier Kunststoff GmbH		Auf dem Haupte 29	33129	Delbrück	51.793259	8.612423	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11
+1086413	Kampmeier Kunststoff GmbH		Auf der Bache 21	33129	Delbrück	51.793438	8.612260	1			~TYPE2_TETHERED:11
+1086425	Karla Huber		Winkelweg 13	32758	Detmold	51.949458	8.786757	1			~TYPE2_TETHERED:11
+1086496	Klaus Troja		Heitwinkel 8	33129	Delbrück	51.717075	8.557857	1			~TYPE2_TETHERED:11
+1086515	Konstantin Schwiddessen		Kampstraße 31	33181	Bad Wünnenberg	51.520542	8.660637	1			~TYPE2_TETHERED:11
+1086516	Konstantin Schwiddessen		Blasiusstraße 7	33098	Paderborn	51.717995	8.763361	1			~TYPE2:11
+1086543	Kurt Stricker GmbH & Co. KG	Stark-in-Strom Serviceeingang	Weidenweg 4	32805	Horn-Bad Meinberg	51.877381	8.952514	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11
+1086689	Marcel Rehfeldt		Thüringer Weg 1	33154	Salzkotten	51.642958	8.660708	1			~TYPE2_TETHERED:11
+1086810	Markus Lüke		Furlwiese 8	33161	Hövelhof	51.850579	8.623328	1			~TYPE2_TETHERED:11
+1086997	Michael Götte		Im Winkel 2	33142	Büren	51.585631	8.514279	1			~TYPE2:11
+1087167	Norbert Even		Wewelsburger Straße 24a	33154	Salzkotten	51.671576	8.612596	1			~TYPE2_TETHERED:11
+1087198	Oleg Schall		An der Rethlage 21	32791	Lage	51.990600	8.789587	1			~TYPE2_TETHERED:3
+1087367	Phillip Lüdeling		Dionysiusstraße 8	32839	Steinheim	51.821946	8.988028	1			~TYPE2_TETHERED:11
+1087481	Raphael Kemmler		Oerlinghauser Straße 95a	32758	Detmold	51.944393	8.790413	1			~TYPE2:22
+1087531	REZA TAHERI		Bergsohle 36	33100	Paderborn	51.700111	8.837280	1			~TYPE2_TETHERED:11
+1087682	Sebastian Belker		Hamberg 6	33106	Paderborn	51.746001	8.677347	1			~TYPE2:11
+1087720	Sebastian Ernst		Thüringer Weg 12	33154	Salzkotten	51.642073	8.660297	1			~TYPE2:22
+1087943	Stromerzeugung Scholtyssek		Zum Wasserberg 15	33154	Salzkotten	51.641060	8.672159	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11
+1087948	Stromerzeugung Scholtyssek		Thüringer Weg 7	33154	Salzkotten	51.641980	8.660755	1			~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11
+1088169	Tim Sperlich		Am Böker Grund 11	33165	Lichtenau	51.566758	8.838532	1			~TYPE2:11
+1088503	EnBW mobility+ AG und Co.KG		Lange Str. 58	32791	Lage	51.990800	8.790800	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:200|~CCS2:200|~CCS2:400|~CCS2:400
+1088611	Comfort Charge	Bielefeld, CC_33_0002	Detmolder Str. 380	33605	Bielefeld	51.998980	8.576920	1	24/7	Keine Beschränkung	DECCH*ECCH2300015DLT*1~CCS2:200|DECCH*ECCH2300015DLT*2~CCS2:200
+1088630	Comfort Charge	Detmold, CC_32_0008	Braunenbrucher Weg 12-16	32758	Detmold	51.942860	8.860050	1	24/7	Keine Beschränkung	DECCH*ECCH2300009DLT*1~CCS2:200|DECCH*ECCH2300009DLT*2~CCS2:200
+1089379	Autohaus Becker-Tiemann Bielefeld GmbH & Co. KG		Sprungbachstr. 15-19	33689	Bielefeld	51.942760	8.584650	1			~CCS2:50|~TYPE2:22
+1089547	LandEi Energie GbR		Hinter der Lanfert 1	33178	Borchen	51.652991	8.760040	1			~TYPE2_TETHERED:22+SCHUKO:22
+1089950	Westfalen Weser Ladeservice GmbH	1700201	Heierstr. 15	33165	Lichtenau	51.594365	8.802259	1	24/7	Keine Beschränkung	DE*WWL*E1700201*04~TYPE2:22|DE*WWL*E1700201*05~TYPE2:22
+1090045	Citywatt GmbH		Walter-Schrader-Weg 1	33100	Paderborn	51.716534	8.807572	1	24/7	Keine Beschränkung	DE*CIW*E001508~CCS2:60|DE*CIW*E001507~CCS2:60
+1090777	Fichtner & Schicht GmbH		Germaniastr. 4	33189	Schlangen	51.802199	8.826410	1			~TYPE2:22|~TYPE2:22
+1090778	Fichtner & Schicht GmbH		Germaniastraße 4	33189	Schlangen	51.802692	8.825945	1			~TYPE2:11|~TYPE2:11
+1090779	Fichtner & Schicht GmbH		Germaniastraße 4	33189	Schlangen	51.802396	8.826097	1			~TYPE2:11|~TYPE2:11
+1090780	Fichtner & Schicht GmbH		Germaniastraße 4	33189	Schlangen	51.802463	8.826050	1			~TYPE2:11|~TYPE2:11
+1091321	WELLER	WELLER Paderborn	Stedener Feld 2	33104	Paderborn	51.730429	8.721432	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1091325	WELLER	WELLER Detmold	Windmeierweg 12	32758	Detmold	51.961235	8.842273	1	Mo-Fr 08:30-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1091871	IONITY GmbH	Geseke	Bürener Str. 153a	59590	Geseke	51.598296	8.515443	1	24/7	Nur für Kunden/Besucher	DE*IOY*E229501~CCS2:350|DE*IOY*E229502~CCS2:350|DE*IOY*E229503~CCS2:350|DE*IOY*E229504~CCS2:350|DE*IOY*E229505~CCS2:350|DE*IOY*E229506~CCS2:350|DE*IOY*E229507~CCS2:350|DE*IOY*E229508~CCS2:350|DE*IOY*E229571~CCS2:200|DE*IOY*E229572~CCS2:200|DE*IOY*E229573~CCS2:200|DE*IOY*E229574~CCS2:200
+1092890	Nadim Behnam		Klippenbrede 1	32756	Detmold	51.931681	8.848361	1			~TYPE2_TETHERED:11
+1092897	Franke & Werner GmbH		Karl-Korthaus-Str. 64	33106	Paderborn	51.761243	8.658600	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093037	Stadtwerke Oerlinghausen GmbH		An der Bleiche 19a	33813	Oerlinghausen	51.945380	8.661191	1			~TYPE2:22
+1093038	Stadtwerke Oerlinghausen GmbH		Stukenbrocker Weg 43	33813	Oerlinghausen	51.932221	8.659004	1			~TYPE2:22|~TYPE2:22
+1093039	Stadtwerke Oerlinghausen GmbH		Am Kopphof 1	33813	Oerlinghausen	51.971633	8.708140	1			~TYPE2:22|~TYPE2:22
+1093040	Stadtwerke Oerlinghausen GmbH		Albrecht-Ober-Platz 0	33813	Oerlinghausen	51.970013	8.711517	1			~TYPE2:22|~TYPE2:22
+1093041	Stadtwerke Oerlinghausen GmbH		Heinrich-Drake-Platz 0	33813	Oerlinghausen	51.941544	8.656520	1			~TYPE2:22|~TYPE2:22
+1093120	Stadtwerke Lichtenau GmbH		Leihbühl 21	33165	Lichtenau	51.621176	8.886448	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1093121	Stadtwerke Lichtenau GmbH		Leihbühl 15	33165	Lichtenau	51.620983	8.885906	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1093122	Stadtwerke Lichtenau GmbH		Helmerner Weg 1	33165	Lichtenau	51.566255	8.838978	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1093140	Wincor Nixdorf International GmbH		Heinz-Nixdorf-Ring 1	33106	Paderborn	51.719447	8.719362	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096439	Auto Henke GmbH		Fürstenberger Str. 40	33142	Büren	51.542793	8.566757	1			~CCS2:22|~TYPE2:11
+1096663	Autohaus G.Niere GmbH&Co.KG		Alte Chaussee 11-13	32825	Blomberg	51.987475	8.997624	1			~CCS2:22|~TYPE2:11
+1096692	Autohaus Gröpper GmbH		Bielefelder Str. 84	33104	Paderborn	51.780565	8.710551	1			~CCS2:22|~TYPE2:11
+1096921	Autohaus Niggemeier		Gesekerstr. 41	33154	Salzkotten	51.667560	8.592642	1			~CCS2:22|~TYPE2:11|~TYPE2:11
+1097071	Autohaus Stricker GmbH u. Co. KG		Weidenweg 4	32805	Horn-Bad Meinberg	51.877507	8.952696	1			~CCS2:22|~TYPE2:11
+1097072	Autohaus Stricker GmbH u. Co. KG		Lise-Meitner-Straße 15	32760	Detmold	51.932865	8.920126	1			~CCS2:22|~TYPE2:11
+1097726	EnBW mobility+ AG und Co.KG		Sander Str. 66	33106	Paderborn	51.744560	8.671261	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1097924	Westfalen Weser Ladeservice GmbH	63EA1 / 63EA2	An den Kapuzinern 5-7	33098	Paderborn	51.721299	8.759151	1	24/7	Keine Beschränkung	DE*WWL*E63EA1*04~TYPE2:22|DE*WWL*E63EA2*04~TYPE2:22|DE*WWL*E63EA3*04~TYPE2:22|DE*WWL*E63EA4*04~TYPE2:22
+1097926	Westfalen Weser Ladeservice GmbH	63BA1 / 63BA2	Kamp 6	33098	Paderborn	51.715669	8.755074	1	Mo-Fr 07:30-16:00	Nur für Kunden/Besucher	DE*WWL*E63BA1*04~TYPE2:22|DE*WWL*E63BA2*04~TYPE2:22
+1097927	Westfalen Weser Ladeservice GmbH	63DA1 / 63DA2	Leostr. 21	33098	Paderborn	51.713057	8.754982	1	Mo-Do 07:30-17:00, Fr 07:30-13:30	Nur für Kunden/Besucher	DE*WWL*E63DA1*04~TYPE2:22|DE*WWL*E63DA2*04~TYPE2:22
+1097928	Westfalen Weser Ladeservice GmbH	63DA3 / 63DA4	Leostr. 21	33098	Paderborn	51.713124	8.754913	1	Mo-Do 07:30-17:00, Fr 07:30-13:30	Nur für Kunden/Besucher	DE*WWL*E63DA3*04~TYPE2:22|DE*WWL*E63DA4*04~TYPE2:22
+1097929	Westfalen Weser Ladeservice GmbH	63DB1 / 63DB2	Leostr. 19	33098	Paderborn	51.714112	8.757836	1	Mo-Do 07:30-17:00, Fr 07:30-13:30	Nur für Kunden/Besucher	DE*WWL*E63DB1*04~TYPE2:22|DE*WWL*E63DB2*04~TYPE2:22
+1099799	Vattenfall Smarter Living GmbH		Bahnhofstraße 40a	32805	Horn-Bad Meinberg	51.876833	8.955249	1			~CCS2:180|~CCS2:180
+1099800	Vattenfall Smarter Living GmbH		Bahnhofstraße 40a	32805	Horn-Bad Meinberg	51.876818	8.955355	1			~CCS2:180|~CCS2:180
+1100988	Tesla Germany GmbH		Balhorner Feld 11	33106	Paderborn	51.710912	8.713781	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102235	Erzbistum Paderborn Körperschaft des öffentlichen Rechts		Domplatz 0	33098	Paderborn	51.719761	8.757074	1			~TYPE2:22|~TYPE2:22
+1102542	Viktor Pankraz Elektronik (Einzelunternehmen)		Lippstädter Weg 94	33758	Stukenbrock	51.869656	8.681418	1			~TYPE2:11+TYPE2_TETHERED:11
+1102568	Hubertus Schmidt GmbH		Im Mirsch 1	33178	Borchen	51.641980	8.759496	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1102876	Westfalen Weser Ladeservice GmbH	9200101	Bahnhofstr. 1	33758	Schloß Holte-Stukenbrock	51.906759	8.612037	1	24/7	Keine Beschränkung	DE*WWL*E9200101*01~CCS2:150|DE*WWL*E9200101*02~CCS2:150
+1103193	Marktkauf EHG Rhein-Ruhr mbH	Marktkauf Lage	Heidensche Str. 68	32791	Lage	51.986737	8.802789	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1103196	Marktkauf EHG Rhein-Ruhr mbH	Marktkauf Lage	Heidensche Str. 68	32791	Lage	51.986758	8.802952	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1103381	Westfalen Weser Ladeservice GmbH	9500101	Oberes Feld 19	33106	Paderborn	51.701900	8.714148	1	Mo-So 03:30-16:00	Keine Beschränkung	DE*WWL*E9500101*01~CCS2:156|DE*WWL*E9500101*02~CCS2:156
+1103530	Allego		Klöcknerstr. 38	33102	Paderborn	51.715367	8.729693	1	24/7	Keine Beschränkung	DEALLEGO002807_1~CCS2:150|DEALLEGO002807_2~CCS2:150|DEALLEGO002808_1~CCS2:150|DEALLEGO002808_2~CCS2:150|DEALLEGO002809_1~CCS2:150|DEALLEGO002809_2~CCS2:150|DEALLEGO002810_1~CCS2:150|DEALLEGO002810_2~CCS2:150
+1103912	Westenergie Metering GmbH		Iserkuhle 3	33181	Bad Wünnenberg	51.512681	8.693577	1	24/7	Keine Beschränkung	DE*EON*E002820~CCS2:200|DE*EON*E002821~CCS2:200
+1103958	eliso	eliso - Flughafen - Paderborn	Flughafenstr. 33	33142	Büren	51.610601	8.620932	1	24/7	Keine Beschränkung	DE*ELI*E3538199~CCS2:300|DE*ELI*E3538200~CCS2:300|DE*ELI*E3538201~CCS2:300|DE*ELI*E3538202~CCS2:300
+1104134	TLS Anilox GmbH		Am Schlinge 20	33154	Salzkotten	51.672350	8.573150	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104141	Gröpper IT-Systemtechnik Gmb		Josef-Förster-Str. 3	33161	Hövelhof	51.840010	8.648230	1			~TYPE2:11|~TYPE2:11
+1104268	Sparkasse Paderborn-Detmold-Höxter		Hathumarstr. 15-19	33098	Paderborn	51.721890	8.754187	1			~TYPE2:22|~TYPE2:22
+1104270	Sparkasse Paderborn-Detmold-Höxter		Paulinenstr. 34	32756	Detmold	51.934963	8.873207	1			~TYPE2:22|~TYPE2:22
+1104528	Dennis Daniel Clothing GmbH	DDC GmbH, Lager Bielefeld, Halle 2	Heidegrundweg 104-108	33689	Bielefeld	51.936421	8.560401	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1105917	Erzb. Priesterseminar und Collegium Leoninum zu Paderborn		Leostraße 19	33098	Paderborn	51.713358	8.754838	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1105918	Erzb. Priesterseminar und Collegium Leoninum zu Paderborn		Leostraße 21	33098	Paderborn	51.714069	8.757840	1			~TYPE2:11|~TYPE2:11
+1106288	Q1 Autostrom	Verl, Bergstraße	Bergstr. 16	33415	Verl	51.875535	8.536380	1	24/7	Nur für Kunden/Besucher	DE*Q1A*E48140037~CCS2:150|DE*Q1A*E48140038~CCS2:150
+1106616	E.ON Drive GmbH		Lange Str. 17	33129	Delbrück	51.763708	8.560860	1			~TYPE2:11|~TYPE2:22
+1109536	Gemeinde Altenbeken		Bahnhofstraße 13	33184	Altenbeken	51.765857	8.943703	1			~TYPE2:22|~TYPE2:22
+1109537	Gemeinde Altenbeken		Mühlenweg 14	33184	Altenbeken	51.742563	8.944990	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1109594	Stadtwerkenergie Ostwestfalen-Lippe GmbH		Stuckenbrocker Straße 7	32832	Aufgustdorf	51.907922	8.728169	1			~TYPE2:22|~TYPE2:22
+1109598	Stadtwerkenergie Ostwestfalen-Lippe GmbH		Stukenbrocker Straße 7	32832	Augustdorf	51.907886	8.728111	1			~TYPE2:22|~TYPE2:22
+1110000	Stadtwerke Schloss Holte-Stukenbrock GmbH		Rathausstraße 2	33758	Schloss Holte-Stukenbrock	51.901506	8.636864	1			~TYPE2:22|~TYPE2:22
+1110149	NovaTec Kommunikationstechnik Gmbh		Technologiepark 9	33100	Paderborn	51.700844	8.762734	1			~TYPE2_TETHERED:22
+1110458	Thiel Sportwagen GmbH		Detmolder Str. 73	33100	Paderborn	51.731833	8.764194	1			~CCS2:50|~CCS2:350+CHADEMO:350|~CCS2:350+CHADEMO:350
+1112453	Autohaus Becker-Tiemann Bielefeld GmbH & Co. KG		Sprungbachstr. 15-19	33689	Bielefeld	51.942530	8.585470	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1112606	MARKTKAUF Lehr		Detmolder Str. 4	33102	Paderborn	51.723500	8.760082	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1112607	MARKTKAUF Lehr		Detmolder Str. 4	33102	Paderborn	51.723612	8.760026	1			~TYPE2:22|~CCS2:150|~CCS2:75
+1112982	Alfred Romberg		Otto-Hahn-Straße 22	33104	Paderborn	51.770438	8.706401	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1112983	Alfred Romberg		Otto-Hahn-Straße 22	33104	Paderborn	51.770793	8.706529	1			~TYPE2:22|~TYPE2:22
+1112985	Alfred Romberg		Otto-Hahn-Straße 22	33104	Paderborn	51.770453	8.706436	1			~TYPE2:22
+1113091	Körber Pharma Packaging GmbH		Grenzweg 1	33758	Schloß Holte-Stukenbrock	51.922570	8.594880	1		Keine Beschränkung	ESA36~TYPE2:11|EE2B9~TYPE2:11|EZU7C~TYPE2:11|E6BRQ~TYPE2:11|E31R9~TYPE2:11|E7ZS2~TYPE2:11|ECV82~TYPE2:11|E531G~TYPE2:11
+1113131	Rasenmähroboter Türöffnung System		Warburger Straße 94	33098	Paderborn	51.711282	8.772696	1			~TYPE2:22|~TYPE2:22
+1113151	Karl-Josef Windmann Lebensmittel GmbH & Co. KG		Alisostraße 2	33106	Paderborn	51.734722	8.681486	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1113153	Karl-Josef Windmann Lebensmittel GmbH & Co. KG		Alter Hellweg 30	33106	Paderborn	51.687790	8.696340	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1113425	Ingo Brandt		Gütersloher Str. 54	33415	Verl	51.880444	8.500191	1			~TYPE2:22|~TYPE2:22
+1114445	Ottenshof		Im sudahl 11	33100	Paderborn	51.696844	8.849901	1			~TYPE2:22|~TYPE2:22
+1114544	Peter Jakob Elektrotechnik GmbH & Co. KG		Halberstädter Straße 93	33106	Paderborn	51.681873	8.736955	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114815	AHD-Auto Gellermann GmbH		Bielefelderstr. 79	33104	Paderborn	51.764999	8.717490	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1115634	Tesla Germany GmbH		Hansestr. 1	33689	Bielefeld	51.951087	8.568182	1	24/7	Keine Beschränkung	DE*TSL*E0T31DQ~CCS2:250|DE*TSL*E0T31JY~CCS2:250|DE*TSL*E0T31L7~CCS2:250|DE*TSL*E0T31LJ~CCS2:250|DE*TSL*E0T31M1~CCS2:250|DE*TSL*E0T31MD~CCS2:250|DE*TSL*E0T31MP~CCS2:250|DE*TSL*E0T31N1~CCS2:250|DE*TSL*E0T31P9~CCS2:250|DE*TSL*E0T31Q1~CCS2:250|DE*TSL*E0T31RT~CCS2:250|DE*TSL*E0T31S5~CCS2:250
+1117030	NEUMANNwerbung GmbH		Habichtsweg 9	33129	Delbrück	51.756958	8.550759	1	24/7	Nur für Kunden/Besucher	~CCS2:11|~CCS2:11
+1117131	Schröder Team Sennestadt GmbH & Co. KG	Compleo Industriestr. 12	Industriestr. 19	33689	Bielefeld	51.954045	8.576283	1		Nur für Kunden/Besucher	~CCS2:24+TYPE1:22
+1117569	EWE Go GmbH	McD_1447_1A	Hansestr. 1	33689	Bielefeld	51.951898	8.573349	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1118091	Stadtwerke Oerlinghausen GmbH	Verwaltung Stadtwerke I	Rathausstr. 23	33813	Oerlinghausen	51.961481	8.665959	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1118092	Stadtwerke Oerlinghausen GmbH	Ev. Kirche Lipperreihe	Dalbker Str. 58	33813	Oerlinghausen	51.933952	8.632090	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119476	Paul Penner e.K.		Lüdische Str. 29	59590	Geseke	51.640989	8.505758	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1119697	Westfalen Weser Ladeservice GmbH	9600101	Hermann-Löns-Str. 165	33104	Paderborn	51.762112	8.690993	1	24/7	Keine Beschränkung	DE*WWL*E9600101*04~TYPE2:22|DE*WWL*E9600101*05~TYPE2:22
+1119847	LST-Laserschneidtechnik GmbH	Innenhof	Heinz-Sallads-Str. 9	33161	Hövelhof	51.836793	8.646669	1	Mo-Fr 00:00-06:00, Sa-So 00:00-23:00	Nur für Kunden/Besucher	E6PK4~TYPE2:22|EE9B3~TYPE2:22
+1119848	LST-Laserschneidtechnik GmbH	Haupteingang Werk 2	Heinz-Sallads-Str. 9	33161	Hövelhof	51.837233	8.646036	1		Nur für Kunden/Besucher	DE*ONE*E5EM1~TYPE2_TETHERED:22|DE*ONE*ET6P2~TYPE2_TETHERED:22
+1120674	Pfalzwerke AG	Blumen Risse Paderborn	Karl-Schurz-Str. 18	33100	Paderborn	51.727969	8.788655	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00523*01~CCS2:300|DE*PWA*EALP22270X00523*02~CCS2:300
+1120675	Pfalzwerke AG	Blumen Risse Paderborn	Karl-Schurz-Str. 18	33100	Paderborn	51.727995	8.788601	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00524*01~CCS2:300|DE*PWA*EALP22270X00524*02~CCS2:300
+1121220	Park Your Truck GmbH	Park Your Truck, 33106 Paderborn	Am Atlaswerk 26-28	33106	Paderborn	51.700773	8.743657	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100
+1121240	EnBW mobility+ AG und Co.KG		Sender Str. 8	33758	Schloß Holte-Stukenbrock	51.910178	8.608419	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200
+1121358	Stadtwerke Oerlinghausen GmbH	Wanderparkplatz Währentrup	Währentruper Str. 0	33813	Oerlinghausen	51.958513	8.711481	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1125650	Maximilian Böddeker		Lindenstr. 11	32832	Augustdorf	51.905037	8.726901	1	Mo-Fr 10:00-16:00	Nur für Kunden/Besucher	CH*ECUE3SNAGYEVB83XGNZCJZPNULS692~TYPE2_TETHERED:2.3
+1125652	HomE of Mobility GmbH	Schröder Team Sennestadt GmbH & Co. KG · VW · AC,DC	Industriestr. 12	33689	Bielefeld	51.953976	8.575597	1		Keine Beschränkung	DE*HOM*E500202*001~TYPE2:11|DE*HOM*E500202*501~CCS2:24
+1125773	Stadtwerke Warburg GmbH	Parkplatz Hardehausen	Blankenroder Str. 1	34414	Warburg	51.548410	8.993840	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1125862	Kaufland	1663_KLAND_Paderborn_LS1_T54-IT1-4324-015	Riemekestr. 37	33102	Paderborn	51.715725	8.740039	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1126118	Westfalen Weser Ladeservice GmbH	9200201	Marienstr. 0	33758	Schloß Holte-Stukenbrock	51.902800	8.616207	1	24/7	Keine Beschränkung	DE*WWL*E9200201*01~CCS2:150|DE*WWL*E9200201*02~CCS2:150
+1126425	Westfalen Weser Ladeservice GmbH	9200301	Lüchtenstr. 0	33758	Schloß Holte-Stukenbrock	51.908324	8.654870	1	24/7	Keine Beschränkung	DE*WWL*E9200301*01~CCS2:150|DE*WWL*E9200301*02~CCS2:150
+1126432	Westfalen Weser Ladeservice GmbH	9200401	Barbaraweg 0	33758	Schloß Holte-Stukenbrock	51.869921	8.690030	1	24/7	Keine Beschränkung	DE*WWL*E9200401*01~CCS2:150|DE*WWL*E9200401*02~CCS2:150
+1127839	Fred Pfennings GmbH & Co. KG	Paderborn rechts	Wollmarktstr. 27	33098	Paderborn	51.709200	8.725400	1		Nur für Kunden/Besucher	~TYPE2:22
+1127840	Fred Pfennings GmbH & Co. KG	Paderborn links	Wollmarktstr. 27	33098	Paderborn	51.709200	8.725600	1		Nur für Kunden/Besucher	~TYPE2:22
+1128330	Stadtwerke Detmold GmbH	Mobilpunkt Sigfriedstraße	Sylbeckestr. 52	32756	Detmold	51.947453	8.887488	1	24/7	Keine Beschränkung	DE*ISE*EA194273~TYPE2:22|DE*ISE*EA168858~TYPE2:22
+1129663	Vonovia Energie GmbH		Am Stadion 41	33689	Bielefeld	51.951301	8.599692	1	24/7	Keine Beschränkung	DEGLSEEASY04101~TYPE2:22|DEGLSEEASY04102~TYPE2:22
+1129664	Vonovia Energie GmbH		Marderweg 6	33689	Bielefeld	51.938280	8.585344	1	24/7	Keine Beschränkung	DEGLSEEASY03701~TYPE2:22|DEGLSEEASY03702~TYPE2:22
+1129666	Vonovia Energie GmbH		Württemberger Allee 30	33689	Bielefeld	51.952770	8.606239	1	24/7	Keine Beschränkung	DEGLSEEASY04301~TYPE2:22|DEGLSEEASY04302~TYPE2:22
+1129670	Vonovia Energie GmbH		Bleicherfeldstr. 89	33689	Bielefeld	51.937790	8.578040	1	24/7	Keine Beschränkung	DEGLSEEASY04601~TYPE2:22|DEGLSEEASY04602~TYPE2:22
+1130513	Westfalen Weser Ladeservice GmbH	40100	Oberes Feld 6	33106	Paderborn	51.701156	8.712158	1	Mo-Do 08:00-18:00, Fr 08:00-17:00	Nur für Kunden/Besucher	DE*WWL*E40100*04~TYPE2:11|DE*WWL*E40100*05~TYPE2:11|DE*WWL*E40101*04~TYPE2:11|DE*WWL*E40101*05~TYPE2:11
+1130520	Westfalen Weser Ladeservice GmbH	40110	Oberes Feld 6	33106	Paderborn	51.701390	8.711553	1	Mo-Do 08:00-18:00, Fr 08:00-17:00	Nur für Kunden/Besucher	DE*WWL*E40110*04~TYPE2:11|DE*WWL*E40110*05~TYPE2:11
+1130521	Westfalen Weser Ladeservice GmbH	40111	Oberes Feld 6	33106	Paderborn	51.701365	8.711496	1	Mo-Do 08:00-18:00, Fr 08:00-17:00	Nur für Kunden/Besucher	DE*WWL*E40111*04~TYPE2:11|DE*WWL*E40111*05~TYPE2:11
+1130525	Westfalen Weser Ladeservice GmbH	1020301	Kilianplatz 1	33098	Paderborn	51.705687	8.759223	1	24/7	Keine Beschränkung	DE*WWL*E1020301*01~CCS2:50|DE*WWL*E1020301*02~CCS2:50|DE*WWL*E1020302*01~CCS2:50|DE*WWL*E1020302*02~CCS2:50
+1130527	Westfalen Weser Ladeservice GmbH	1020401	Konrad-Martin-Platz 5	33102	Paderborn	51.719326	8.744224	1	24/7	Keine Beschränkung	DE*WWL*E1020401*01~CCS2:50|DE*WWL*E1020401*02~CCS2:50|DE*WWL*E1020402*01~CCS2:50|DE*WWL*E1020402*02~CCS2:50
+1131163	Q1 Autostrom	Bielefeld Gotenstraße	Gotenstr. 4	33647	Bielefeld	51.897424	8.509901	1	24/7	Keine Beschränkung	DE*Q1A*E48140058~CCS2:50|DE*Q1A*E48140059~CCS2:50
+1131214	GLS Mobility GmbH	Vonovia (Am Stadion 41, 33689 Bielefeld) TE200002555	Am Stadion 41	33689	Bielefeld	51.951301	8.599692	1	24/7	Keine Beschränkung	DEGLSEEASY04101~TYPE2:22|DEGLSEEASY04102~TYPE2:22
+1131216	GLS Mobility GmbH	Vonovia (Bleicherfeldstraße 89, 33689 Bielefeld) TE200002556	Bleicherfeldstr. 89	33689	Bielefeld	51.937790	8.578040	1	24/7	Keine Beschränkung	DEGLSEEASY04601~TYPE2:22|DEGLSEEASY04602~TYPE2:22
+1131320	Raiffeisen Westfalen Mitte eG	Raiffeisen Tankstelle Paderborn	Randebrockstr. 1	33100	Paderborn	51.724750	8.794368	1	24/7	Keine Beschränkung	ALP_23BZ1381E*1~CCS2:150|ALP_23BZ1381E*2~CCS2:150
+1131321	Raiffeisen Westfalen Mitte eG	Raiffeisen Tankstelle Paderborn	Randebrockstr. 1	33100	Paderborn	51.724733	8.794326	1	24/7	Keine Beschränkung	ALP_23BZ1387E*1~CCS2:150|ALP_23BZ1387E*2~CCS2:150
+1131604	Westfalen Weser Ladeservice GmbH	9800601	Rudolf-Diesel-Str. 6	33178	Borchen	51.643364	8.710415	1	24/7	Keine Beschränkung	DE*WWL*E9800601*01~CCS2:200|DE*WWL*E9800601*02~CCS2:200
+1132421	Raiffeisen Westfalen Mitte eG	Raiffeisen Markt Borchen	Bahnhofstr. 5	33178	Borchen	51.660586	8.715267	1	24/7	Keine Beschränkung	DE*EAZ*ERWM015*1~TYPE2:22|DE*EAZ*ERWM015*2~TYPE2:22
+1132524	GLS Mobility GmbH	Vonovia (Württemberger Allee 30, 33689 Bielefeld) TE20000255	Württemberger Allee 30	33689	Bielefeld	51.952770	8.606239	1	24/7	Keine Beschränkung	DEGLSEEASY04301~TYPE2:22|DEGLSEEASY04302~TYPE2:22
+1132567	GLS Mobility GmbH	Vonovia Marderweg (33689 Bielefeld) TE200002554	Marderweg 6	33689	Bielefeld	51.938281	8.585344	1	24/7	Keine Beschränkung	DEGLSEEASY03701~TYPE2:22|DEGLSEEASY03702~TYPE2:22
+1133539	Westfalen Weser Ladeservice GmbH	1020201	Jahnplatz 4	33102	Paderborn	51.721000	8.741230	1	24/7	Keine Beschränkung	DE*WWL*E1020201*01~CCS2:50|DE*WWL*E1020201*02~CCS2:50
+1133540	Westfalen Weser Ladeservice GmbH	1020202	Jahnplatz 8	33102	Paderborn	51.721000	8.741100	1	24/7	Keine Beschränkung	DE*WWL*E1020202*01~CCS2:50|DE*WWL*E1020202*02~CCS2:50
+1133613	Westfalen Weser Ladeservice GmbH	1020501	Liboriberg 35	33098	Paderborn	51.715185	8.755516	1	24/7	Keine Beschränkung	DE*WWL*E1020501*04~TYPE2:22|DE*WWL*E1020501*05~TYPE2:22|DE*WWL*E1020503*04~TYPE2:22|DE*WWL*E1020503*05~TYPE2:22|DE*WWL*E1020502*04~TYPE2:22
+1133718	Berg & Co. GmbH	Berg	Gildemeisterstr. 80	33689	Bielefeld	51.928481	8.593283	1	24/7	Keine Beschränkung	DE*ONE*E861E~TYPE2_TETHERED:11|DE*ONE*ETT67~TYPE2_TETHERED:11|DE*ONE*EWF2K~TYPE2_TETHERED:11|DE*ONE*ESEX8~TYPE2_TETHERED:11
+1134351	Vattenfall Smarter Living GmbH		Mohnweg 1	32760	Detmold	51.924059	8.838937	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134374	Vattenfall Smarter Living GmbH		Berliner Str. 75	33647	Bielefeld	51.983068	8.506132	1	24/7	Keine Beschränkung	~CCS2:90|~CCS2:90
+1134578	EnBW mobility+ AG und Co.KG	Höffner, 33104 Paderborn, Wilfried-Finke-Allee	Wilfried-Finke-Allee 2	33104	Paderborn	51.730500	8.715400	1	24/7	Keine Beschränkung	DE*EBW*E916390*1~CCS2:400|DE*EBW*E916390*2~CCS2:400|DE*EBW*E916351*1~CCS2:400|DE*EBW*E916351*2~CCS2:400|DE*EBW*E916309*1~CCS2:400|DE*EBW*E916309*2~CCS2:400|DE*EBW*E916344*1~CCS2:200|DE*EBW*E916344*2~CCS2:200|DE*EBW*E916375*1~CCS2:200|DE*EBW*E916375*2~CCS2:200|DE*EBW*E916358*1~CCS2:200|DE*EBW*E916358*2~CCS2:200
+1134641	EnBW mobility+ AG und Co.KG		Oerlinghauser Str. 33	33758	Schloß Holte-Stukenbrock	51.913500	8.609700	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1134851	EnKL GmbH	Bielefeld, Hansestraße 1	Hansestr. 1	33689	Bielefeld	51.951817	8.573300	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1134861	EnKL GmbH	Paderborn, Im Dörener Feld 4	Im Dörener Feld 4	33100	Paderborn	51.734661	8.782325	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1134982	amperio GmbH (DEAMP)	Bad Lippspringe - Detmolder Str. 222 - PENNY - (ID 1)	Detmolder Str. 222	33175	Bad Lippspringe	51.789385	8.826529	1	24/7	Keine Beschränkung	DEAMPEA101063221~CCS2:240|DEAMPEA101063222~CCS2:240
+1135116	Lidl	7082_Lidl_Bielefeld_QP-17712-0225-060-121	Henleinstr. 1	33689	Bielefeld	51.953809	8.576933	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1136529	Dr. Becker Klinikgesellschaft SE & Co. KG		Blomberger Str. 9	32805	Horn-Bad Meinberg	51.898660	8.984650	1	24/7	Nur für Kunden/Besucher	DBK00015~TYPE2:11|DBK00015~TYPE2:11|DBK00016~TYPE2:11|DBK00016~TYPE2:11
+1137873	EnBW mobility+ AG und Co.KG	33142 Büren, Kötterweg 10	Kötterweg 10	33142	Büren	51.608600	8.621820	1	24/7	Keine Beschränkung	DE*EBW*E911744*1~CCS2:200|DE*EBW*E911744*2~CCS2:200|DE*EBW*E911762*1~CCS2:400|DE*EBW*E911762*2~CCS2:400|DE*EBW*E911770*1~CCS2:200|DE*EBW*E911770*2~CCS2:200|DE*EBW*E911799*1~CCS2:400|DE*EBW*E911799*2~CCS2:400
+1137921	Kurt Stricker GmbH & Co. KG	FBT Stark in Strom 30kW DC Supercharger NW	Weidenweg 4	32805	Horn-Bad Meinberg	51.877500	8.952500	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Keine Beschränkung	~CCS2:22
+1139673	eze.network GmbH	TTA000856	Alderichstr. 1	33098	Paderborn	51.707000	8.753000	1	24/7	Keine Beschränkung	DE*EZE*ETTA000856*01~TYPE2:22|DE*EZE*ETTA000856*02~TYPE2:22
+1139706	E.ON Drive GmbH		Mersinweg 4	33100	Paderborn	51.706273	8.767885	1		Keine Beschränkung	DE*EDR*E22013907*1~TYPE2:11|DE*EDR*E22013907*2~TYPE2:11
+1139709	eze.network GmbH	TTA000855	Alderichstr. 1	33098	Paderborn	51.707179	8.752964	1	24/7	Keine Beschränkung	DE*EZE*ETTA000855*01~TYPE2:22|DE*EZE*ETTA000855*02~TYPE2:22
+1139747	eze.network GmbH	TTA000851	Borchener Str. 30	33098	Paderborn	51.712389	8.745730	1	24/7	Keine Beschränkung	DE*EZE*ETTA000851*01~TYPE2:22|DE*EZE*ETTA000851*02~TYPE2:22
+1139749	eze.network GmbH	TTA000865	Arndtstr. 19	33100	Paderborn	51.725675	8.777434	1	24/7	Keine Beschränkung	DE*EZE*ETTA000865*01~TYPE2:22|DE*EZE*ETTA000865*02~TYPE2:22|DE*EZE*ETTA000862*01~TYPE2:22|DE*EZE*ETTA000862*02~TYPE2:22
+1139752	eze.network GmbH	TTA000866	Warburger Str. 99	33098	Paderborn	51.711191	8.773768	1	24/7	Keine Beschränkung	DE*EZE*ETTA000866*01~TYPE2:22|DE*EZE*ETTA000866*02~TYPE2:22
+1139753	eze.network GmbH	TTA000868	Riemekestr. 130	33102	Paderborn	51.715909	8.730071	1	24/7	Keine Beschränkung	DE*EZE*ETTA000868*01~TYPE2:22|DE*EZE*ETTA000868*02~TYPE2:22|DE*EZE*ETTA000864*01~TYPE2:22|DE*EZE*ETTA000864*02~TYPE2:22
+1139755	eze.network GmbH	TTA000849	Fürstenweg 19	33102	Paderborn	51.727014	8.743155	1	24/7	Keine Beschränkung	DE*EZE*ETTA000849*01~TYPE2:22|DE*EZE*ETTA000849*02~TYPE2:22|DE*EZE*ETTA000863*01~TYPE2:22|DE*EZE*ETTA000863*02~TYPE2:22
+1139757	eze.network GmbH	TTA000854	Sertürnerstr. 11	33104	Paderborn	51.744408	8.710487	1	24/7	Keine Beschränkung	DE*EZE*ETTA000854*01~TYPE2:22|DE*EZE*ETTA000854*02~TYPE2:22
+1140413	EWE Go GmbH	McD_1897_1A	Paderborner Str. 59	33104	Paderborn	51.732302	8.704856	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1140669	Lidl	7212_LIdl_Büren_QP-19941-0525-060-121-QP-VER.321	Bahnhofstr. 41	33142	Büren	51.558050	8.553880	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1141167	Autohaus Steinböhmer GmbH & Co. KG		Hauptstr. 43	33758	Schloß Holte-Stukenbrock	51.909022	8.664032	1			~CCS2:50|~CCS2:50
+1141244	Stadtwerke Bielefeld	Senne Endstation	Waterboerstr. 2	33659	Bielefeld	51.979179	8.534057	1	24/7	Keine Beschränkung	DE*ISE*EA193877~TYPE2:22|DE*ISE*EA196592~TYPE2:22|DE*ISE*EA143811~TYPE2:22|DE*ISE*EA149137~TYPE2:22
+1141523	Cemil Evin	Home	Selhausenstr. 149	33699	Bielefeld	51.990210	8.606500	1		Keine Beschränkung	~CCS2:11
+1141559	TEAG Mobil GmbH	Lichtenau - EDEKA	Husener Str. 0	33165	Lichtenau	51.613646	8.894698	1		Keine Beschränkung	DE*TMO*E11*466*001~CCS2:50|DE*TMO*E11*466*002~CCS2:50
+1141698	EDEKA-MIHA Charge GmbH		Paderborner Str. 414	33415	Verl	51.858040	8.562925	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1143124	Dietmar Dumke		Auf dem Berge 6a	33154	Salzkotten	51.714800	8.636118	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:2.8
+1143442	Vattenfall Smarter Living GmbH		Detmolder Str. 85	33175	Bad Lippspringe	51.779124	8.810230	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1143581	Stadtwerke Detmold GmbH	Kundenparkplatz Stadtwerke Detmold GmbH	Am Gelskamp 10	32758	Detmold	51.948629	8.860189	1	24/7	Keine Beschränkung	DE*ISE*EA186946~TYPE2:22|DE*ISE*EA175677~TYPE2:22
+1143599	Vattenfall Smarter Living GmbH		Elisabethstr. 52	32756	Detmold	51.939826	8.866797	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1143632	Vattenfall Smarter Living GmbH		Orthagen 3	33184	Altenbeken	51.742982	8.949517	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1143824	Vonovia Energie GmbH		Schweidnitzer Str. 5	33605	Bielefeld	51.994289	8.599051	1	24/7	Keine Beschränkung	DEGLSEEASY11001~TYPE2:22|DEGLSEEASY11002~TYPE2:22
+1143825	Vonovia Energie GmbH		Kolberger Str. 1	33605	Bielefeld	51.997164	8.593294	1	24/7	Keine Beschränkung	DEGLSEEASY10901~TYPE2:22|DEGLSEEASY10902~TYPE2:22
+1144301	EnBW mobility+ AG und Co.KG	A44 AS59 Geseke, 33142 Büren, Geseker Str. 40	Geseker Straße 40	33142	Büren	51.593918	8.515920	1	24/7	Keine Beschränkung	DE*EBW*E911757*1~CCS2:400|DE*EBW*E911757*2~CCS2:400|DE*EBW*E911788*1~CCS2:200|DE*EBW*E911788*2~CCS2:200|DE*EBW*E916643*1~CCS2:200|DE*EBW*E916643*2~CCS2:200|DE*EBW*E914127*1~CCS2:200|DE*EBW*E914127*2~CCS2:200|DE*EBW*E914190*1~CCS2:400|DE*EBW*E914190*2~CCS2:400|DE*EBW*E914189*1~CCS2:400|DE*EBW*E914189*2~CCS2:400
+1147803	Pfalzwerke AG	Hornbach Paderborn (ALP22541X01868)	Wilfried-Finke-Allee 1	33104	Paderborn	51.731540	8.718888	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01868*01~CCS2:400|DE*PWA*EALP22541X01868*02~CCS2:400
+1148628	Cornelia Schulze PV		Lindenstr. 86	33189	Schlangen	51.806350	8.823040	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1149075	Allego		Frankfurter Weg 20B	33106	Paderborn	51.705474	8.723380	1	24/7	Keine Beschränkung	DEALLEGO003966_1~CCS2:400|DEALLEGO003966_2~CCS2:400|DEALLEGO003970_1~CCS2:400|DEALLEGO003970_2~CCS2:400|DEALLEGO003972_1~CCS2:400|DEALLEGO003972_2~CCS2:400
+1149782	Südring Center	Südring Center Paderborn	Pohlweg 110	33100	Paderborn	51.704748	8.770606	1	Mo-Sa 07:00-22:00	Keine Beschränkung	DECPIE7318115~CCS2:75|DECPIE7318115~CCS2:75|DECPIE7331005~TYPE2:22|DECPIE7331005~TYPE2:22|DECPIE7330975~TYPE2:22|DECPIE7330975~TYPE2:22|DECPIE7331015~TYPE2:22|DECPIE7330975~TYPE2:22|DECPIE7331035~TYPE2:22|DECPIE7330975~TYPE2:22|DECPIE7331055~TYPE2:22|DECPIE7330975~TYPE2:22|DECPIE7318105~CCS2:75|DECPIE7318105~CCS2:75
+1151218	Wirelane GmbH	Bonner Straße 9c	Bonner Straße 9c	33647	Bielefeld	51.987056	8.502989	1		Keine Beschränkung	DE*WLN*EP000181~TYPE2:22|DE*WLN*EP000182~TYPE2:22
+1151270	Wirelane GmbH	Am Großen Feld 19	Wilhelm-Thielke-Straße 36	33647	Bielefeld	51.980167	8.506056	1		Keine Beschränkung	DE*WLN*EP000210~TYPE2:22|DE*WLN*EP000209~TYPE2:22
+1151431	Wirelane GmbH	Am Rippinger Weg 87, 33098 Paderborn	Am Rippinger Weg 87	33098	Paderborn	51.714139	8.778417	1		Keine Beschränkung	DE*WLN*EP000487~TYPE2:22|DE*WLN*EP000488~TYPE2:22
+1151432	Wirelane GmbH	Pohlweg 50, 33098 Paderborn	Pohlweg 50	33098	Paderborn	51.710111	8.766750	1		Keine Beschränkung	DE*WLN*EP000489~TYPE2:22|DE*WLN*EP000490~TYPE2:22
+1151433	Wirelane GmbH	Am Turnplatz 31, 33098 Paderborn	Am Turnplatz 31	33098	Paderborn	51.712056	8.754889	1		Keine Beschränkung	DE*WLN*EP000491~TYPE2:22|DE*WLN*EP000492~TYPE2:22
+1151435	Wirelane GmbH	Im Lohfeld 63, 33102 Paderborn	Im Lohfeld 63	33102	Paderborn	51.719778	8.726056	1		Keine Beschränkung	DE*WLN*EP000330~TYPE2:22|DE*WLN*EP000498~TYPE2:22
+1151454	Wirelane GmbH	Fölsener Weg 23, 33100 Paderborn	Fölsener Weg 23	33100	Paderborn	51.715194	8.797389	1		Keine Beschränkung	DE*WLN*EP000539~TYPE2:22|DE*WLN*EP000540~TYPE2:22
+1151463	Wirelane GmbH	Schulstraße 84	Schulstraße 84	33647	Bielefeld	51.996917	8.505889	1		Keine Beschränkung	DE*WLN*EP000559~TYPE2:22|DE*WLN*EP000560~TYPE2:22
+1151505	Wirelane GmbH		Thymianweg 43	33100	Paderborn	51.722111	8.806333	1		Keine Beschränkung	DE*WLN*EP000847~TYPE2:22|DE*WLN*EP000848~TYPE2:22
+1151506	Wirelane GmbH		Dörener Weg 73	33100	Paderborn	51.728250	8.772056	1		Keine Beschränkung	DE*WLN*EP000852~TYPE2:22|DE*WLN*EP000851~TYPE2:22
+1151507	Wirelane GmbH		Schleswiger Weg 21	33102	Paderborn	51.742820	8.751398	1		Keine Beschränkung	DE*WLN*EP000854~TYPE2:22|DE*WLN*EP000853~TYPE2:22
+1151508	Wirelane GmbH		Querweg 140	33098	Paderborn	51.703333	8.756250	1		Keine Beschränkung	DE*WLN*EP000858~TYPE2:22|DE*WLN*EP000857~TYPE2:22
+1151509	Wirelane GmbH		Auf d. Töterlöh 23	33100	Paderborn	51.722833	8.774194	1		Keine Beschränkung	DE*WLN*EP000859~TYPE2:22|DE*WLN*EP000860~TYPE2:22
+1151510	Wirelane GmbH		Leuschnerstraße 22	33102	Paderborn	51.725472	8.727528	1		Keine Beschränkung	DE*WLN*EP000861~TYPE2:22|DE*WLN*EP000862~TYPE2:22
+1151511	Wirelane GmbH		Kleinenberger Weg 2	33100	Paderborn	51.708333	8.788889	1		Keine Beschränkung	DE*WLN*EP000864~TYPE2:22|DE*WLN*EP000863~TYPE2:22
+1151516	Wirelane GmbH		Enzianweg 93	33100	Paderborn	51.723444	8.802944	1		Keine Beschränkung	DE*WLN*EP000918~TYPE2:22|DE*WLN*EP000917~TYPE2:22
+1151517	Wirelane GmbH		Waldeyerweg 12	33100	Paderborn	51.706246	8.781665	1		Keine Beschränkung	DE*WLN*EP000924~TYPE2:22|DE*WLN*EP000923~TYPE2:22
+1151518	Wirelane GmbH		Fürstenweg 32	33102	Paderborn	51.726389	8.744667	1		Keine Beschränkung	DE*WLN*EP000926~TYPE2:22|DE*WLN*EP000925~TYPE2:22
+1151519	Wirelane GmbH		Rotheweg 189	33102	Paderborn	51.743250	8.767278	1		Keine Beschränkung	DE*WLN*EP000928~TYPE2:22|DE*WLN*EP000927~TYPE2:22
+1151650	Wirelane GmbH	Friedrich-Ebert-Straße 65, 33102 Paderborn	Friedrich-Ebert-Straße 65	33102	Paderborn	51.717667	8.734667	1		Keine Beschränkung	DE*WLN*EP000605~TYPE2:22|DE*WLN*EP000606~TYPE2:22
+1151661	Wirelane GmbH	Einhardstraße 1, 33098 Paderborn	Einhardstraße 1	33098	Paderborn	51.712250	8.753083	1		Keine Beschränkung	DE*WLN*EP000669~TYPE2:22|DE*WLN*EP000670~TYPE2:22
+1151697	Wirelane GmbH		Ernst-Reuter-Straße 28	33104	Paderborn	51.747944	8.725778	1		Keine Beschränkung	DE*WLN*EP000875~TYPE2:22|DE*WLN*EP000876~TYPE2:22
+1151698	Wirelane GmbH		Von-Ketteler-Straße 33	33106	Paderborn	51.733694	8.686750	1		Keine Beschränkung	DE*WLN*EP000877~TYPE2:22|DE*WLN*EP000878~TYPE2:22
+1151702	Wirelane GmbH		Im Lichtenfelde 47	33100	Paderborn	51.706583	8.779528	1		Keine Beschränkung	DE*WLN*ES001953~TYPE2:22|DE*WLN*ES001954~TYPE2:22
+1151703	Wirelane GmbH		Bleichstraße 21	33102	Paderborn	51.718889	8.741083	1		Keine Beschränkung	DE*WLN*EP000929~TYPE2:22|DE*WLN*EP000930~TYPE2:22
+1151713	Wirelane GmbH		Adolf-Kolping-Straße 1	33100	Paderborn	51.726944	8.770667	1		Keine Beschränkung	DE*WLN*EP001045~TYPE2:22|DE*WLN*EP001046~TYPE2:22
+1151714	Wirelane GmbH		Ferdinandstraße 49	33102	Paderborn	51.719306	8.742806	1		Keine Beschränkung	DE*WLN*EP001047~TYPE2:22|DE*WLN*EP001048~TYPE2:22
+1151908	Wirelane GmbH		Salierstraße 46	33102	Paderborn	51.730528	8.756639	1		Keine Beschränkung	DE*WLN*EP000850~TYPE2:22|DE*WLN*EP000849~TYPE2:22
+1151909	Wirelane GmbH		Thienhauser Weg 2	33100	Paderborn	51.716361	8.795389	1		Keine Beschränkung	DE*WLN*EP000856~TYPE2:22|DE*WLN*EP000855~TYPE2:22
+1151910	Wirelane GmbH		Auf d. Lieth ggü. 81	33100	Paderborn	51.713278	8.802333	1		Keine Beschränkung	DE*WLN*EP000866~TYPE2:22|DE*WLN*EP000865~TYPE2:22
+1152119	Wirelane GmbH	Lichtenturmweg 35, 33100 Paderborn	Lichtenturmweg 35	33100	Paderborn	51.707417	8.781583	1		Keine Beschränkung	DE*WLN*EP000541~TYPE2:22|DE*WLN*EP000542~TYPE2:22
+1152586	EnBW mobility+ AG und Co.KG	PENNY Geseke, Othmarstraße 1	Othmarstraße 1	59590	Geseke	51.635658	8.511836	1	24/7	Keine Beschränkung	DE*EBW*E914115*1~CCS2:100|DE*EBW*E914115*2~CCS2:100|DE*EBW*E911578*1~CCS2:200|DE*EBW*E911578*2~CCS2:200|DE*EBW*E911537*1~CCS2:200|DE*EBW*E911537*2~CCS2:200
+1153039	GLS Mobility GmbH	TE200002784 Vonovia (Kolberger Str. 21, 33605 Bielefeld)	Kolberger Str. 21	33605	Bielefeld	51.997164	8.593294	1	24/7	Keine Beschränkung	DEGLSEEASY10901~TYPE2:22|DEGLSEEASY10902~TYPE2:22
+1153164	GLS Mobility GmbH	TE200002787 Vonovia (Schweidnitzer Str. 5, 33605 Bielefeld)	Schweidnitzer Str. 5	33605	Bielefeld	51.994289	8.599051	1	24/7	Keine Beschränkung	DEGLSEEASY11001~TYPE2:22|DEGLSEEASY11002~TYPE2:22
+1153393	Grünstrom Ladepark A44 GmbH	Säule 1 11400101	Dalheimer Str. 90	34431	Marsberg	51.537685	8.839707	1	24/7	Nur für Kunden/Besucher	DE*GSL*E11400101*01~CCS2:400|DE*GSL11400101*02~CCS2:400|DE*GSL*E11400102*01~CCS2:400|DE*GSL*E11400102*02~CCS2:400|DE*GSL*E11400103*01~CCS2:400|DE*GSL*E11400103*02~CCS2:400|DE*GSL*E11400104*01~CCS2:400|DE*GSL*E11400104*02~CCS2:400|DE*GSL*E11400105*01~CCS2:400|DE*GSL*E11400105*02~CCS2:400
+1153464	Eviny	Horn-Bad Meinberg	Kampstr. 5	32805	Horn-Bad Meinberg	51.875060	8.949570	1	24/7	Keine Beschränkung	DE*EVY*EFHB1*A~CCS2:200|DE*EVY*EFHB1*B~CCS2:200|DE*EVY*EFHB2*A~CCS2:200|DE*EVY*EFHB2*B~CCS2:200
+1153804	Sparkasse Bielefeld		Elbeallee 11-15	33689	Bielefeld	51.946500	8.585800	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1153805	Sparkasse Bielefeld		Hauptstr. 102-108	33647	Bielefeld	51.992400	8.509200	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1154646	Westfalen Weser Ladeservice GmbH	1600101	Neuhäuser Str. 9	33102	Paderborn	51.720810	8.747172	1	24/7	Keine Beschränkung	DE*WWL*E1600101*04~TYPE2:22|DE*WWL*E1600101*05~TYPE2:22|DE*WWL*E1600102*04~TYPE2:22|DE*WWL*E1600102*05~TYPE2:22|DE*WWL*E1600103*04~TYPE2:22|DE*WWL*E1600103*05~TYPE2:22|DE*WWL*E1600104*04~TYPE2:22|DE*WWL*E1600104*05~TYPE2:22|DE*WWL*E1600105*04~TYPE2:22|DE*WWL*E1600105*05~TYPE2:22|DE*WWL*E1600106*04~TYPE2:22|DE*WWL*E1600106*05~TYPE2:22|DE*WWL*E1600107*04~TYPE2:22|DE*WWL*E1600107*05~TYPE2:22|DE*WWL*E1600108*04~TYPE2:22|DE*WWL*E1600108*05~TYPE2:22|DE*WWL*E1600109*04~TYPE2:22|DE*WWL*E1600109*05~TYPE2:22|DE*WWL*E1600110*04~TYPE2:22|DE*WWL*E1600110*05~TYPE2:22|DE*WWL*E1600111*04~TYPE2:22|DE*WWL*E1600111*05~TYPE2:22|DE*WWL*E1600112*04~TYPE2:22|DE*WWL*E1600112*05~TYPE2:22
+1154765	Südring Center	Center Am Wallgraben	Am Wallgraben 14	33154	Salzkotten	51.673749	8.604123	1	Mo-Sa 08:00-21:30	Keine Beschränkung	DECPIE7382965~TYPE2:22|DECPIE7382965~TYPE2:22
+1154948	Fastned Deutschland GmbH & Co. KG		Burgweg 0	33178	Borchen	51.629157	8.725147	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1155663	Kurt Stricker GmbH & Co. KG	Gebrauchtwagenverkauf Kampstr. 50	Kampstr. 50	32805	Horn-Bad Meinberg	51.878328	8.952417	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1157079	Wirelane GmbH		Boker Str. 11	33129	Delbrück	51.762722	8.564194	1		Keine Beschränkung	DE*WLN*EP001731~TYPE2:22|DE*WLN*EP001732~TYPE2:22
+1157080	Wirelane GmbH		Ulrichstraße 1	33129	Delbrück	51.763972	8.552167	1		Keine Beschränkung	DE*WLN*EP001733~TYPE2:22|DE*WLN*EP001734~TYPE2:22
+1157237	eze.network GmbH	TTA001121	Sighardstr. 41	33098	Paderborn	51.709326	8.741639	1	24/7	Keine Beschränkung	DE*EZE*ETTA001121*01~TYPE2:22|DE*EZE*ETTA001121*02~TYPE2:22
+1157993	Stadtwerke Bielefeld		Detmolder Str. 550	33699	Bielefeld	51.993318	8.605160	1	24/7	Keine Beschränkung	DE*ISE*EA182655~TYPE2:22|DE*ISE*EA158153~TYPE2:22
+1159046	Stadtwerke Oerlinghausen GmbH	Rathausplatz Oerlinghausen	Rathausstr. 1	33813	Oerlinghausen	51.959989	8.664338	1	24/7	Keine Beschränkung	DE*OER*E2377301*001~TYPE2:22|DE*OER*E2377301*002~TYPE2:22
+1159542	Electra Germany GmbH	Detmold - Aldi & Subway	Klingenbergstr. 25	32758	Detmold	51.951443	8.853989	1	24/7	Keine Beschränkung	DE*ELD*E92MV~CCS2:300|DE*ELD*E4S3F~CCS2:300|DE*ELD*ERC5D~CCS2:200|DE*ELD*ECEQC~CCS2:200|DE*ELD*EJ6NY~CCS2:200|DE*ELD*E2X4A~CCS2:200
+1160231	Citywatt GmbH	Elektro Claes GmbH - Bad Lippspringe	Am Vorderflöß 30	33175	Bad Lippspringe	51.778451	8.800010	1	24/7	Keine Beschränkung	DE*CIW*E001637~CCS2:50|DE*CIW*E001638~CCS2:50
+1160238	Citywatt GmbH	Elektro Claes GmbH - Borchen-Etteln	Kirchstr. 28	33178	Borchen	51.628311	8.762691	1	24/7	Keine Beschränkung	DE*CIW*E001635~CCS2:180|DE*CIW*E001636~CCS2:180
+1160368	Westenergie Metering GmbH		Alter Hof 52	33142	Büren	51.605361	8.651828	1	24/7	Keine Beschränkung	DE*WEA*E000004*1~TYPE2:22|DE*WEA*E000004*2~TYPE2:22
+1160372	Westenergie Metering GmbH		Neuer Weg 15	33142	Büren	51.554870	8.557472	1	24/7	Keine Beschränkung	DE*WEA*E000003*1~TYPE2:22|DE*WEA*E000003*2~TYPE2:22
+1160373	Westenergie Metering GmbH		Lindberghring 14	33142	Büren	51.607591	8.612232	1	24/7	Keine Beschränkung	DE*WEA*E000002*1~TYPE2:22|DE*WEA*E000002*2~TYPE2:22
+1160374	Westenergie Metering GmbH		Aftestr. 8	33142	Büren	51.549144	8.563353	1	24/7	Keine Beschränkung	DE*EON*E002804~TYPE2:22|DE*EON*E002805~TYPE2:22
+1160402	Westenergie Metering GmbH		Wassergraben 1	33142	Büren	51.550760	8.557769	1	24/7	Keine Beschränkung	DE*ISE*E0016599~TYPE2:22|DE*ISE*E0016600~TYPE2:22
+1160407	Westenergie Metering GmbH		Spielenweg 1	33142	Büren	51.553876	8.562504	1	24/7	Keine Beschränkung	DE*EON*E002792~TYPE2:22|DE*EON*E002793~TYPE2:22
+1160408	Westenergie Metering GmbH		Lindenstr. 4	33142	Büren	51.555973	8.560224	1	24/7	Keine Beschränkung	DE*EON*E002803~TYPE2:22|DE*EON*E002802~TYPE2:22
+1160463	Westenergie Metering GmbH		In den Erlen 20	33181	Bad Wünnenberg	51.517677	8.702526	1	24/7	Keine Beschränkung	DE*EON*E002798~TYPE2:22|DE*EON*E002799~TYPE2:22
+1160464	Westenergie Metering GmbH		Im Aatal 1	33181	Bad Wünnenberg	51.520066	8.699887	1	24/7	Keine Beschränkung	DE*EON*E002796~TYPE2:22|DE*EON*E002797~TYPE2:22
+1160465	Westenergie Metering GmbH		Leiberger Str. 10	33181	Bad Wünnenberg	51.522814	8.697110	1	24/7	Keine Beschränkung	DE*EON*E002794~TYPE2:22|DE*EON*E002795~TYPE2:22
+1160466	Westenergie Metering GmbH		Poststr. 15	33181	Bad Wünnenberg	51.516333	8.744682	1	24/7	Keine Beschränkung	DE*EON*E002800~TYPE2:22|DE*EON*E002801~TYPE2:22
+1161727	Fastned Deutschland GmbH & Co. KG		Am Kleeberg 0	33178	Borchen	51.627502	8.724302	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1162388	Allego		Charles-Lindbergh-Ring 30	32756	Detmold	51.945489	8.904572	1	24/7	Keine Beschränkung	DEALLEGO004172_1~CCS2:150|DEALLEGO004172_2~CCS2:150
+1162572	Vattenfall Smarter Living GmbH	T184_IT1_1924_006	Rolandsweg 111	33102	Paderborn	51.727950	8.758030	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*1924*006*1~CCS2:180|DE*VAT*E*T184*IT1*1924*006*2~CCS2:180
+1162573	Vattenfall Smarter Living GmbH	T184_IT1_1924_009	Rolandsweg 111	33102	Paderborn	51.727990	8.757980	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*1924*009*1~CCS2:180|DE*VAT*E*T184*IT1*1924*009*2~CCS2:180
+1162719	Vattenfall Smarter Living GmbH	T184_IT1_2424_018	Sperenberger Str. 1	33178	Borchen	51.665670	8.726100	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*2424*018*1~CCS2:180|DE*VAT*E*T184*IT1*2424*018*2~CCS2:180
+1162740	ALDI Nord	Aldi Nord Parkplatz	Hüttenstr. 67	33184	Altenbeken	51.755146	8.952546	1	24/7	Keine Beschränkung	DE-ALN-EDE050371-1-1~CCS2:150|DE-ALN-EDE050371-1-2~CCS2:150
+1162898	ALDI Nord	ALDI Nord Parkplatz	Hüttenstr. 67	33184	Altenbeken	51.756046	8.953129	1	24/7	Keine Beschränkung	DE-ALN-EDE050371-1-1~CCS2:150|DE-ALN-EDE050371-1-2~CCS2:150
+1163627	EWE Go GmbH	EWE_7242_1A	Anne-Frank-Str. 9	32756	Detmold	51.947260	8.897160	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1164349	Stromwerk Delbrück	AC Säule 1	Zur Alten Kapelle 13	33129	Delbrück	51.795186	8.555055	1	24/7	Keine Beschränkung	DE*331*E5049782*101~TYPE2:22|DE*331*E5049782*102~TYPE2:22|DE*331*E5049782*103~TYPE2:22|DE*331*E5049782*104~TYPE2:22
+1164527	WELLER	WELLER Paderborn Alfen	Stedener Feld 2	33104	Paderborn	51.729725	8.721997	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1164529	WELLER	WELLER Detmold Alfen	Windmeierweg 12	32758	Detmold	51.961054	8.842456	1	Mo-Fr 08:30-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11

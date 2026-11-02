@@ -1,0 +1,355 @@
+1004156	Gesellschaft für Intelligente Infrastruktur Zwickau mbH		Audistraße 12	08058	Zwickau	50.733374	12.484684	1			~TYPE2:22|~TYPE2:22
+1004157	Gesellschaft für Intelligente Infrastruktur Zwickau mbH		Audistraße 12	08058	Zwickau	50.733385	12.484753	1			~TYPE2:22|~TYPE2:22
+1004158	Gesellschaft für Intelligente Infrastruktur Zwickau mbH		Audistraße 12	08058	Zwickau	50.733356	12.484605	1			~TYPE2:22|~TYPE2:22
+1004159	Gesellschaft für Intelligente Infrastruktur Zwickau mbH		Bahnhofstr. 5z	08056	Zwickau	50.718400	12.486580	1			~TYPE2:22|~TYPE2:22
+1009321	Shell Deutschland GmbH		Ronneburger Str. 59	07546	Gera	50.881323	12.119942	1			~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1011390	Comfort Charge		Uferstraße 19	08412	Werdau	50.736070	12.373460	1			~CCS2:150+CHADEMO:150|~TYPE2:22|~TYPE2_TETHERED:22
+1011435	Comfort Charge		Postplatz 1	08468	Reichenbach im Vogtland	50.622600	12.303930	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2_TETHERED:22
+1011502	Comfort Charge		August-Bebel-Straße 45	04639	Gößnitz	50.893470	12.432550	1			~CCS2:150|~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:22
+1011525	Comfort Charge		Keplerplatz 5	04600	Altenburg	50.987040	12.440710	1			~CCS2:150|~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:22
+1016405	Schmidt Feinkost		Reißiger Gewerbering 15	08525	Plauen	50.528296	12.148623	1			~TYPE2:22|~TYPE2:22
+1021558	EWE Go GmbH	McD_0758_1A	Hohe Str. 15	08393	Meerane	50.841764	12.444806	1	24/7	Keine Beschränkung	DE*2GO*EMCD0758*1A*1~CCS2:150|DE*2GO*EMCD0758*1A*2~CCS2:150
+1021944	EWE Go GmbH		Rosa-Luxemburg-Str. 56	08468	Reichenbach	50.619489	12.285587	1			~CCS2:160|~CCS2:160|~CCS2:160|~CCS2:160
+1026434	EnBW mobility+ AG und Co.KG		Lengenfelder Straße 35	08228	Rodewisch	50.541170	12.394837	1			~CCS2:150|~CCS2:150
+1026466	EnBW mobility+ AG und Co.KG		Leipziger Straße 213	08058	Zwickau	50.753090	12.481640	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1026585	EnBW mobility+ AG und Co.KG		Plauensche Straße 1c	07973	Greiz	50.642174	12.195479	1			~CCS2:150|~CCS2:150
+1026783	EnBW mobility+ AG und Co.KG		Hohe Straße 16	08393	Meerane	50.841568	12.444859	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1026984	EnBW mobility+ AG und Co.KG		Reichenbacher Str. 27	08499	Mylau	50.618996	12.270785	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027122	EnBW mobility+ AG und Co.KG		Elsterdamm 5	07548	Gera	50.868480	12.078130	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027130	EnBW mobility+ AG und Co.KG		Thüringer Straße 26	07552	Gera	50.902570	12.113990	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1027582	EnBW mobility+ AG und Co.KG		Morgenbergstraße 0	08525	Plauen	50.513710	12.127878	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028764	TEAG Mobil GmbH	Bad Köstritz - Sportpark	Am Sommerbad 1	07586	Bad Köstritz	50.933874	12.010706	1	24/7	Keine Beschränkung	DE*TMO*E11*070*001~TYPE2:22|DE*TMO*E11*070*002~TYPE2:22
+1028786	TEAG Mobil GmbH	Ronneburg - Bogenbinderhalle	Bahnhofstr. 1	07580	Ronneburg	50.860774	12.183000	1	24/7	Keine Beschränkung	DE*TMO*E11*307*001~TYPE2:22|DE*TMO*E11*307*002~TYPE2:22
+1028790	TEAG Mobil GmbH	Schmölln - Marktplatz	Markt 1	04626	Schmölln	50.894626	12.351819	1		Keine Beschränkung	DE*TMO*E11*123*001~TYPE2:22|DE*TMO*E11*123*002~TYPE2:22
+1028839	TEAG Mobil GmbH	Berga-Wünschendorf - Ort	Brauhausstr. 13	07980	Berga-Wünschendorf	50.750756	12.161082	1	24/7	Keine Beschränkung	DE*TMO*E11*216*001~TYPE2:22|DE*TMO*E11*216*002~TYPE2:22
+1028849	TEAG Mobil GmbH	Elsterberg - Marktplatz	Marktplatz 8	07985	Elsterberg	50.608027	12.169172	1	24/7	Keine Beschränkung	DE*TMO*E11*249*001~TYPE2:22|DE*TMO*E11*249*002~TYPE2:22
+1028888	TEAG Mobil GmbH	Gera - REWE	August-Bebel-Str. 1A	07551	Gera	50.849202	12.086012	1		Keine Beschränkung	DE*TMO*E11*066*001~CCS2:150|DE*TMO*E11*066*002~CCS2:150
+1028908	TEAG Mobil GmbH	Gera - GLOBUS	An der Beerweinschänke 2	07554	Gera	50.886819	12.136717	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*017*010~CCS2:150|DE*TMO*E11*017*011~CCS2:150
+1028917	TEAG Mobil GmbH	Weida - Marktplatz	Scheunenweg 0	07570	Weida	50.774427	12.059308	1		Keine Beschränkung	DE*TMO*E11*077*001~CCS2:150|DE*TMO*E11*077*002~CCS2:150
+1028922	TEAG Mobil GmbH	Reichenbach - REWE	Lengenfelder Str. 3	08468	Reichenbach im Vogtland	50.615149	12.311450	1		Keine Beschränkung	DE*TMO*E11*081*001~CCS2:150|DE*TMO*E11*081*002~CCS2:150
+1029015	TEAG Mobil GmbH	Schmölln - Quartier Schwimmbad	Ronneburger Str. 65	04626	Schmölln	50.892117	12.335282	1		Keine Beschränkung	DE*TMO*E11*251*001~TYPE2:22|DE*TMO*E11*251*002~TYPE2:22|DE*TMO*E11*251*003~TYPE2:22|DE*TMO*E11*251*004~TYPE2:22
+1032486	envia Mitteldeutsche Energie AG	SL00992	Göltzschtalstr. 21	08209	Auerbach /Vogtl.	50.509111	12.398089	1	24/7	Keine Beschränkung	DE*ISE*E0004530~TYPE2:22|DE*ISE*E0004529~TYPE2:22
+1032502	envia Mitteldeutsche Energie AG	02.S95-01073	Mittlerer Ring 89	08233	Treuen	50.549091	12.286254	1	24/7	Keine Beschränkung	DE*ISE*E0008478~CHADEMO:50+CCS2:50|DE*ISE*E0008204~TYPE2:22
+1032566	envia Mitteldeutsche Energie AG	KP00972	Markt 5	08233	Treuen	50.538828	12.306321	1	24/7	Keine Beschränkung	DE*ISE*E0004704~TYPE2:22|DE*ISE*E0004703~TYPE2:22
+1032572	envia Mitteldeutsche Energie AG	KP00970	Lindenstr. 1z	08228	Rodewisch	50.530955	12.403143	1	24/7	Keine Beschränkung	DE*ISE*E0004485~TYPE2:22|DE*ISE*E0004486~TYPE2:22
+1032576	envia Mitteldeutsche Energie AG	KP00952	Altenburger Str. 21	04626	Schmölln	50.898230	12.354064	1	24/7	Keine Beschränkung	DE*ISE*E0004536~TYPE2:22|DE*ISE*E0004535~TYPE2:22
+1032577	envia Mitteldeutsche Energie AG	KP01226	Altenburger Str. 29	04603	Nobitz	50.980547	12.483547	1	24/7	Keine Beschränkung	DE*ISE*E0004531~TYPE2:22|DE*ISE*E0004532~TYPE2:22
+1032581	envia Mitteldeutsche Energie AG	PH03428	Markt 8	08485	Lengenfeld	50.569312	12.365187	1	24/7	Keine Beschränkung	DE*ISE*E0004573~TYPE2:22|DE*ISE*E0004574~TYPE2:22
+1032588	envia Mitteldeutsche Energie AG	SL00984	Schloßstr. 8b	08491	Netzschkau	50.615083	12.248498	1	24/7	Keine Beschränkung	DE*ISE*E0005119~TYPE2:22|DE*ISE*E0005120~TYPE2:22
+1032592	envia Mitteldeutsche Energie AG	KR00007	Freudenthal 1	08209	Auerbach /Vogtl.	50.513655	12.400975	1	24/7	Keine Beschränkung	DE*ISE*E0004571~TYPE2:22|DE*ISE*E0004572~TYPE2:22
+1032625	envia Mitteldeutsche Energie AG		Marchlewskistr. 3 z	08062	Zwickau	50.696818	12.461896	1			~TYPE2:22|~TYPE2:22
+1032626	envia Mitteldeutsche Energie AG		Lessingstr. 2 z	08056	Zwickau	50.725436	12.489505	1			~TYPE2:22|~TYPE2:22
+1032627	envia Mitteldeutsche Energie AG		Lessingstr. 2 zz	08056	Zwickau	50.725469	12.489606	1			~TYPE2:22|~TYPE2:22
+1032629	envia Mitteldeutsche Energie AG		Mittelstr. 1 Z	08058	Zwickau OT Crossen	50.675940	12.490430	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032631	envia Mitteldeutsche Energie AG		Dortmunder Str. 9 ZZ	08062	Zwickau	50.692035	12.460621	1			~TYPE2:22|~TYPE2:22
+1032632	envia Mitteldeutsche Energie AG		Geinitzstr. 22 ZZZ	08056	Zwickau	50.697587	12.487209	1			~TYPE2:22|~TYPE2:22
+1032633	envia Mitteldeutsche Energie AG		Am Fuchsgraben 11 ZZ	08056	Zwickau	50.703246	12.485906	1			~TYPE2:22|~TYPE2:22
+1032634	envia Mitteldeutsche Energie AG		Karl-Keil-Str. 60 z	08060	Zwickau	50.724610	12.433281	1			~TYPE2:22|~TYPE2:22
+1032635	envia Mitteldeutsche Energie AG		Karl-Keil-Str. 60 zz	08060	Zwickau	50.724647	12.433238	1			~TYPE2:22|~TYPE2:22
+1032636	envia Mitteldeutsche Energie AG		Karl-Keil-Str. 60 zzz	08060	Zwickau	50.724678	12.433199	1			~TYPE2:22|~TYPE2:22
+1032637	envia Mitteldeutsche Energie AG		Spiegelstr. 55 z	08056	Zwickau	50.717981	12.481021	1			~TYPE2:22|~TYPE2:22
+1032638	envia Mitteldeutsche Energie AG		Spiegelstr. 55 zz	08056	Zwickau	50.717965	12.480915	1			~TYPE2:22|~TYPE2:22
+1032639	envia Mitteldeutsche Energie AG		Leibnizstr. 12 z	08062	Zwickau	50.694826	12.466162	1			~TYPE2:22|~TYPE2:22
+1032640	envia Mitteldeutsche Energie AG		Leibnizstr. 12 zz	08062	Zwickau	50.694854	12.466102	1			~TYPE2:22|~TYPE2:22
+1032644	envia Mitteldeutsche Energie AG		Herbartstr. 13 zz	08062	Zwickau	50.692121	12.473879	1			~TYPE2:22|~TYPE2:22
+1032645	envia Mitteldeutsche Energie AG		Walther-Rathenau-Str. 27 z	08058	Zwickau	50.729508	12.487221	1			~TYPE2:22|~TYPE2:22
+1032646	envia Mitteldeutsche Energie AG		Maxhütte-Gewerbering 18 z	08056	Zwickau	50.704312	12.446988	1			~TYPE2:22|~TYPE2:22
+1032647	envia Mitteldeutsche Energie AG		Uhdestr. 8 zz	08056	Zwickau	50.714540	12.499230	1			~CCS2:150|~CCS2:150
+1032649	envia Mitteldeutsche Energie AG		Werdauer Str. 57 Z	08060	Zwickau	50.721237	12.472050	1			~TYPE2:22|~TYPE2:22
+1032650	envia Mitteldeutsche Energie AG		Werdauer Str. 57 ZZ	08060	Zwickau	50.721171	12.472239	1			~TYPE2:22|~TYPE2:22
+1032651	envia Mitteldeutsche Energie AG		Julius-Seifert-Str. 6 z	08060	Zwickau	50.720553	12.463406	1			~TYPE2:22|~TYPE2:22
+1032652	envia Mitteldeutsche Energie AG		Parkstr. 3 z	08056	Zwickau	50.716845	12.486804	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032660	envia Mitteldeutsche Energie AG		Dieselstraße 16 Z	08058	Zwickau	50.735195	12.477177	1			~TYPE2:22|~TYPE2:22
+1032661	envia Mitteldeutsche Energie AG		Eschenweg 40 Z	08058	Zwickau	50.725352	12.446566	1			~TYPE2:22|~TYPE2:22
+1032662	envia Mitteldeutsche Energie AG		Dorotheenstraße 14 Z	08058	Zwickau	50.741548	12.485945	1			~TYPE2:22|~TYPE2:22
+1032665	envia Mitteldeutsche Energie AG		Mittelstr. 1Z	08058	Zwickau	50.759361	12.486957	1			~TYPE2:22|~TYPE2:22
+1032666	envia Mitteldeutsche Energie AG		Ludwig-Erhard-Straße 24 ZZ	08058	Zwickau	50.722733	12.456961	1			~TYPE2:22|~TYPE2:22
+1032668	envia Mitteldeutsche Energie AG		Feuerbachweg 12 Z	08058	Zwickau	50.737675	12.478679	1			~TYPE2:22|~TYPE2:22
+1032669	envia Mitteldeutsche Energie AG		Mühlpfortstraße 76 ZZ	08058	Zwickau	50.734011	12.489697	1			~TYPE2:22|~TYPE2:22
+1032670	envia Mitteldeutsche Energie AG		Neuberinplatz 1 Z	08058	Zwickau	50.717187	12.499063	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032673	envia Mitteldeutsche Energie AG		Neumarkt 2 ZZ	08058	Zwickau	50.723221	12.494504	1			~TYPE2:22|~TYPE2:22
+1032674	envia Mitteldeutsche Energie AG		Dänkritzer Straße 23 L	08058	Zwickau	50.780795	12.473822	1			~TYPE2:22|~TYPE2:22
+1032675	envia Mitteldeutsche Energie AG		Karl-Keil-Straße 18 Z	08058	Zwickau	50.722383	12.441414	1			~TYPE2:22|~TYPE2:22
+1032676	envia Mitteldeutsche Energie AG		Neuberinplatz 1 ZZZ	08058	Zwickau	50.717122	12.499090	1			~TYPE2:22|~TYPE2:22
+1032677	envia Mitteldeutsche Energie AG		Ludwig-Erhard-Straße 24 Z	08058	Zwickau	50.722733	12.456868	1			~TYPE2:22|~TYPE2:22
+1032678	envia Mitteldeutsche Energie AG		Arndtstraße 19	08058	Zwickau	50.731033	12.494895	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032679	envia Mitteldeutsche Energie AG		Mühlpfortstraße 76 Z	08058	Zwickau	50.734013	12.494895	1			~TYPE2:22|~TYPE2:22
+1032681	envia Mitteldeutsche Energie AG		Neumarkt 2 Z	08058	Zwickau	50.723237	12.494559	1			~TYPE2:22|~TYPE2:22
+1032682	envia Mitteldeutsche Energie AG		Eschenweg 40 ZZ	08058	Zwickau	50.725243	12.446421	1			~TYPE2:22|~TYPE2:22
+1032683	envia Mitteldeutsche Energie AG		Crimmitschauer Straße 45 Z	08058	Zwickau	50.731172	12.482048	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032684	envia Mitteldeutsche Energie AG		Darwinstraße 5 Z	08058	Zwickau	50.676999	12.477480	1			~TYPE2:22|~TYPE2:22
+1032785	Stadtwerke Leipzig GmbH		Zehma 34a	04603	Nobitz	50.922230	12.446648	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1036004	Auto Exner GmbH & Co KG		Hinter dem Südbahnhof 19	07548	Gera	50.864035	12.081104	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037505	Citywatt GmbH		Maxhütte Gewerbering 15	08056	Zwickau	50.705227	12.446013	1			~TYPE2:22|~TYPE2:22
+1037506	Citywatt GmbH		Maxhütte Gewerbering 11d	08056	Zwickau	50.705322	12.444656	1			~TYPE2:22|~TYPE2:22
+1038511	Scholz Fahrzeugteile GmbH		An der Schöpsdrehe 14 14	08525	Plauen	50.537037	12.099000	1			~TYPE2:22|~TYPE2:22
+1038753	EnBW mobility+ AG und Co.KG		An der Beerweinschänke 2	07554	Gera	50.886030	12.138359	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1039634	IONITY GmbH		Altenburger Land Nord 0	04626	Schmölln	50.860662	12.307977	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E208201~CCS2:350|DE*IOY*E208202~CCS2:350
+1039638	IONITY GmbH		Altenburger Land Süd 0	04626	Schmölln	50.856750	12.313200	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E208301~CCS2:350|DE*IOY*E208302~CCS2:350
+1039945	IONITY GmbH		Hohe Straße 21	08393	Meerane	50.840764	12.445016	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1040160	Autohaus Poser GmbH & Co. KG		Ronneburger Straße 49	07546	Gera	50.881188	12.116785	1			~TYPE2:22|~CCS2:24
+1043479	Allego		Alexander-Wolfgang-Str. 25	07552	Gera	50.897914	12.100862	1			DEALLEGO001696*1~TYPE2:22|DEALLEGO001696*2~TYPE2:22|DEALLEGO002758*1~CCS2:150|DEALLEGO002758*2~CCS2:150
+1044583	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793660	12.483382	1			~TYPE2:11|~TYPE2:11
+1044584	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793658	12.483318	1			~TYPE2:11|~TYPE2:11
+1044585	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793663	12.483234	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1044588	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791599	12.483498	1			~TYPE2:22|~TYPE2:22
+1044589	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791685	12.483484	1			~TYPE2:22|~TYPE2:22
+1044590	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791774	12.483461	1			~TYPE2:22|~TYPE2:22
+1044591	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791864	12.483492	1			~TYPE2:22|~TYPE2:22
+1044592	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791955	12.483485	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044594	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793660	12.483020	1			~TYPE2:22|~TYPE2:22
+1044595	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793658	12.482810	1			~TYPE2:22|~TYPE2:22
+1044596	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793654	12.482667	1			~TYPE2:22|~TYPE2:22
+1044597	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793611	12.482699	1			~TYPE2:22|~TYPE2:22
+1044598	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793586	12.482842	1			~TYPE2:22|~TYPE2:22
+1044599	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793593	12.482979	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044600	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793593	12.483123	1			~TYPE2:22|~TYPE2:22
+1044601	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793593	12.483262	1			~TYPE2:22|~TYPE2:22
+1044602	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786277	12.489619	1			~TYPE2:22|~TYPE2:22
+1044603	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786273	12.489759	1			~TYPE2:22|~TYPE2:22
+1044604	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786283	12.489938	1			~TYPE2:22|~TYPE2:22
+1044605	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786277	12.490116	1			~TYPE2:22|~TYPE2:22
+1044606	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786281	12.490152	1			~TYPE2:22|~TYPE2:22
+1044607	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786572	12.491027	1			~TYPE2:22|~TYPE2:22
+1044608	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786571	12.491098	1			~TYPE2:22|~TYPE2:22
+1044609	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786575	12.491170	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044611	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786572	12.491290	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044612	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.792470	12.483457	1			~TYPE2:22|~TYPE2:22
+1044613	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786572	12.491555	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044614	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786571	12.491485	1			~TYPE2:22|~TYPE2:22
+1044615	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786569	12.491416	1			~TYPE2:22|~TYPE2:22
+1044616	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.792380	12.483467	1			~TYPE2:22|~TYPE2:22
+1044617	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.792290	12.483454	1			~TYPE2:22|~TYPE2:22
+1044618	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.792199	12.483472	1			~TYPE2:22|~TYPE2:22
+1044619	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791506	12.483498	1			~TYPE2:22|~TYPE2:22
+1044620	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791419	12.483495	1			~TYPE2:22|~TYPE2:22
+1044621	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791328	12.483496	1			~TYPE2:22|~TYPE2:22
+1044622	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791237	12.483501	1			~TYPE2:22|~TYPE2:22
+1044623	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.791149	12.483504	1			~TYPE2:22|~TYPE2:22
+1044624	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.792112	12.483474	1			~TYPE2:22|~TYPE2:22
+1044625	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.787924	12.492254	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044627	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.787845	12.492264	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044629	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.787713	12.492276	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044632	Volkswagen Sachsen GmbH, Werk Zwickau		Glauchauer Str. 40	08058	Zwickau	50.793642	12.482612	1			~CCS2:150
+1044634	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786575	12.491766	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044635	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786574	12.491697	1			~TYPE2:22|~TYPE2:22
+1044636	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786967	12.491204	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1044639	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786575	12.491908	1			~TYPE2:22|~TYPE2:22
+1044640	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786255	12.489273	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1044641	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786253	12.489175	1			~TYPE2:22|~TYPE2:22
+1044642	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786255	12.489097	1			~TYPE2:22|~TYPE2:22
+1044643	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786122	12.490864	1			~TYPE2:22|~TYPE2:22
+1044644	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786121	12.490794	1			~TYPE2:22|~TYPE2:22
+1044645	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786122	12.490724	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044647	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786118	12.490583	1			~TYPE2:22|~TYPE2:22
+1044648	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786118	12.490512	1			~TYPE2:22|~TYPE2:22
+1044649	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786115	12.490441	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044651	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786115	12.490299	1			~TYPE2:22|~TYPE2:22
+1044652	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786113	12.490229	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044654	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786112	12.490087	1			~TYPE2:22|~TYPE2:22
+1044655	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786110	12.490018	1			~TYPE2:22|~TYPE2:22
+1044656	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786108	12.489946	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1044658	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786107	12.489804	1			~TYPE2:22|~TYPE2:22
+1044659	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.786106	12.489733	1			~TYPE2:22|~TYPE2:22
+1044662	Volkswagen Sachsen GmbH, Werk Zwickau		Moseler Allee 1	08058	Zwickau	50.793629	12.482880	1			~TYPE2:22|~TYPE2:22
+1046541	Energieversorgung Gera GmbH		Naulitzer Straße 53	07546	Gera	50.877350	12.120721	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046542	Energieversorgung Gera GmbH		Neue Straße 5	07545	Gera	50.879771	12.076573	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046543	Energieversorgung Gera GmbH		Franz-Mehring-Straße 0	07545	Gera	50.884067	12.079147	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046544	Energieversorgung Gera GmbH		Kaimberger-Straße 1	07551	Gera	50.848557	12.087841	1			~TYPE2:22|~TYPE2:22
+1046545	Energieversorgung Gera GmbH		Zeulsdorfer-Straße 97	07549	Gera	50.844821	12.064685	1			~TYPE2:22|~TYPE2:22
+1046546	Energieversorgung Gera GmbH		Parkstraße 0	07548	Gera	50.881207	12.074507	1		Keine Beschränkung	~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1046548	Energieversorgung Gera GmbH		Gagarin-Straße 85	07545	Gera	50.886444	12.084449	1			~TYPE2:22|~TYPE2:22
+1046549	Energieversorgung Gera GmbH		Brücken-Straße 99	07545	Gera	50.871744	12.083811	1			~TYPE2:22|~TYPE2:22
+1046550	Energieversorgung Gera GmbH		Vogtlandstraße 8	07549	Gera	50.860020	12.076630	1			~TYPE2:22|~TYPE2:22
+1046551	Energieversorgung Gera GmbH		Siemensstraße 47	07546	Gera	50.907750	12.063420	1			~TYPE2:22|~TYPE2:22
+1046552	Energieversorgung Gera GmbH		Siemensstraße 47	07546	Gera	50.907720	12.063330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50
+1046554	Energieversorgung Gera GmbH		Siemensstraße 47	07546	Gera	50.907670	12.063230	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1046555	Energieversorgung Gera GmbH		Siemensstraße 55	07546	Gera	50.908020	12.066500	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~CCS2:150|~CCS2:150|~TYPE2:22
+1046556	Energieversorgung Gera GmbH		Schleizer-Straße 3	07549	Gera	50.847640	12.065710	1			~TYPE2:22|~TYPE2:22
+1046557	Energieversorgung Gera GmbH		Schleizer-Straße 33	07549	Gera	50.849012	12.065343	1			~TYPE2:22|~TYPE2:22
+1046558	Energieversorgung Gera GmbH		Gaswerkstraße 23	07546	Gera	50.895008	12.075981	1			~TYPE2:22|~TYPE2:22
+1046559	Energieversorgung Gera GmbH		Straße der Völkerfreundschaft 0	07551	Gera	50.848342	12.086576	1			~TYPE2:22|~TYPE2:22
+1046560	Energieversorgung Gera GmbH		Dr.-Schomburg-Straße 0	07548	Gera	50.867745	12.056787	1			~TYPE2:22|~TYPE2:22
+1046562	Energieversorgung Gera GmbH		Straße des Friedens 120	07548	Gera	50.867001	12.061321	1			~TYPE2:22|~TYPE2:22
+1046563	Energieversorgung Gera GmbH		Hinter dem Südbahnhof 11	07548	Gera	50.866062	12.081144	1			~TYPE2:22|~TYPE2:22
+1046564	Energieversorgung Gera GmbH		Karl-Wetzel-Straße 46	07549	Gera	50.837790	12.051353	1			~TYPE2:22|~TYPE2:22
+1046565	Energieversorgung Gera GmbH		Dornaer-Straße 6	07545	Gera	50.887670	12.090405	1			~TYPE2:22|~CCS2:150|~CCS2:150
+1046566	Energieversorgung Gera GmbH		Braustraße 6	07551	Gera	50.861418	12.086359	1			~TYPE2:22|~CCS2:150|~CCS2:150
+1046568	Energieversorgung Gera GmbH		Otto-Hahn-Straße 4	07552	Gera	50.902890	12.109135	1			~TYPE2:22|~TYPE2:22
+1046569	Energieversorgung Gera GmbH		GWP Keplerstraße 24	07552	Gera	50.854328	12.057204	1			~TYPE2:22|~TYPE2:22
+1046570	Energieversorgung Gera GmbH		Greizer-Strasse 89	07552	Gera	50.872485	12.087752	1			~TYPE2:22|~TYPE2:22
+1046571	Energieversorgung Gera GmbH		Haeckelstrasse 39	07548	Gera	50.864630	12.067328	1			~TYPE2:22|~TYPE2:22
+1046572	Energieversorgung Gera GmbH		Franz-Stephan-Straße 2	07546	Gera	50.839904	12.050478	1			~TYPE2:22|~TYPE2:22
+1046573	Energieversorgung Gera GmbH		Am Steingarten 2	07554	Gera	50.956467	12.125151	1			~CCS2:300|~CCS2:300|~TYPE2:22
+1046574	Energieversorgung Gera GmbH		Kornmarkt 12	07545	Gera	50.876002	12.084629	1			~TYPE2:22|~TYPE2:22
+1046575	Energieversorgung Gera GmbH		Keplerstrasse 11	07545	Gera	50.854800	12.073460	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~TYPE2:22
+1046576	Energieversorgung Gera GmbH		Dehmelstrasse 68	07546	Gera	50.885345	12.106582	1			~TYPE2:22|~TYPE2:22
+1046577	Energieversorgung Gera GmbH		Keplerstrasse 11	07546	Gera	50.854740	12.073450	1			~TYPE2:22|~TYPE2:22
+1046578	Energieversorgung Gera GmbH		Leibnizstraße 4	07548	Gera	50.885397	12.069183	1			~TYPE2:22|~TYPE2:22
+1046579	Energieversorgung Gera GmbH		Dr.-Theodor-Neubauer-Straße 2	07546	Gera	50.899010	12.088534	1			~TYPE2:22|~TYPE2:22
+1046580	Energieversorgung Gera GmbH		Heinrichstrasse 30	07545	Gera	50.875630	12.076460	1			~TYPE2:22|~TYPE2:22
+1046581	Energieversorgung Gera GmbH		Fritz-Reuter-Straße 32	07551	Gera	50.846614	12.090062	1			~TYPE2:22|~TYPE2:22
+1046582	Energieversorgung Gera GmbH		Weidenstrasse 7	07549	Gera	50.846904	12.073634	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046584	Energieversorgung Gera GmbH		Untermhäuser-Strasse 102	07548	Gera	50.892438	12.059477	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1046585	Energieversorgung Gera GmbH		Flanzstrasse 7	07545	Gera	50.873150	12.074930	1			~TYPE2:22|~CCS2:225|~TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22
+1046586	Energieversorgung Gera GmbH		Zschochern-Strasse 41	07545	Gera	50.879631	12.088792	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046587	Energieversorgung Gera GmbH		An der Beerweinschänke 5	07554	Gera	50.885000	12.135970	1			~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50
+1046589	Energieversorgung Gera GmbH		Langenberger-Strasse 21	07552	Gera	50.918180	12.054713	1			~TYPE2:22|~CCS2:150|~TYPE2_TETHERED:22
+1046590	Energieversorgung Gera GmbH		Naulitzer Straße 53	07546	Gera	50.876834	12.119599	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:150
+1048372	TEAG Mobil GmbH	Schmölln - ROSSMANN	Kapsgraben 38	04626	Schmölln	50.892931	12.332047	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*196*001~CCS2:150|DE*TMO*E11*196*002~CCS2:150|DE*TMO*E11*196*003~CCS2:150|DE*TMO*E11*196*004~CCS2:150
+1048395	Lidl		Zeulsdorfer Str. 50a	07549	Gera	50.844911	12.063713	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048474	Lidl		Äußere Crimmitschauer Str. 86	08393	Meerane	50.843490	12.444640	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:43+CHADEMO:43|~CCS2:43
+1048824	Lidl	6619_Lidl_GReiz_T54-HU1-3921-034	August-Bebel-Str. 1	07973	Greiz	50.654461	12.206287	1		Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50+CHADEMO:50
+1048825	Lidl	6630_Lidl_Gera_T54-HU1-3921-035	Straße des Friedens 32/34	07548	Gera	50.869733	12.069461	1		Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50+CHADEMO:50
+1048840	Lidl	1336_Lidl_Gera_T65-IT1-5122-059	Straße des Bergmanns 10	07545	Gera	50.892964	12.084697	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049681	E.ON Drive Infrastructure		Raststätte Altenburger Land Süd 0	04626	Schmölln	50.856697	12.313322	1			~CCS2:50|~CCS2:50
+1049684	E.ON Drive Infrastructure		Raststätte Altenburger Land Nord 0	04626	Schmölln	50.860779	12.308123	1			~CCS2:50|~CCS2:50
+1049997	amperio GmbH (DEAMP)		Äußere Schneeberger Straße 100	08056	Zwickau	50.707276	12.495725	1			~TYPE2:22|~TYPE2:22
+1049998	amperio GmbH (DEAMP)		Äußere Schneeberger Straße 100	08056	Zwickau	50.704860	12.496397	1			~TYPE2:22|~TYPE2:22
+1049999	amperio GmbH (DEAMP)		Äußere Schneeberger Straße 100	08056	Zwickau	50.705612	12.498011	1			~TYPE2:22|~TYPE2:22
+1050025	amperio GmbH (DEAMP)		An der Beerweinschänke 2	07554	Gera-Trebnitz	50.886354	12.136943	1			~TYPE2:20|~TYPE2:20
+1052418	Stadtwerke Altenburg GmbH		Kornmarkt 1	04600	Altenburg	50.984432	12.433288	1			~TYPE2:22|~TYPE2:22
+1052419	Stadtwerke Altenburg GmbH		Schmöllnsche Straße 31	04600	Altenburg	50.983494	12.431972	1			~TYPE2:22|~TYPE2:22
+1052420	Stadtwerke Altenburg GmbH		Am kleinen Teich 0	04600	Altenburg	50.983852	12.437473	1			~TYPE2:22|~TYPE2:22
+1052421	Stadtwerke Altenburg GmbH		Wettinerstraße 15	04600	Altenburg	50.996382	12.443344	1			~TYPE2:22|~TYPE2:22
+1052422	Stadtwerke Altenburg GmbH		Franz-Mehring-Straße 0	04600	Altenburg	50.991678	12.435296	1			~TYPE2:22|~TYPE2:22
+1052423	Stadtwerke Altenburg GmbH		Pohlhofgasse 7	04600	Altenburg	50.987088	12.433803	1			~CCS2:100|~CCS2:100|~TYPE2:22
+1052424	Stadtwerke Altenburg GmbH		Zwickauer Str 60	04600	Altenburg	50.977251	12.433753	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1052426	Stadtwerke Altenburg GmbH		Am Steinweg 12	04600	Altenburg	50.985759	12.426304	1			~TYPE2:22|~TYPE2:22
+1052427	Stadtwerke Altenburg GmbH		Birkenstraße 6	04600	Altenburg	50.980658	12.451516	1			~TYPE2:22|~TYPE2:22
+1055024	Aral Pulse		Leipziger Straße 208	08058	Zwickau	50.742670	12.488650	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1056144	eins energie in sachsen GmbH & Co. KG		Georgenstr. 6	08056	Zwickau	50.718932	12.490080	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056341	Auto Huster	Auto Huster	Cainsdorfer Hauptstr. 46	08064	Zwickau	50.674827	12.490410	1		Nur für Kunden/Besucher	~TYPE2:11
+1062555	Autohaus Hübsch GmbH		Sorge 48a	08412	Werdau	50.729870	12.406600	1	24/7	Keine Beschränkung	~TYPE2:22
+1063437	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Vordere Gellertstraße 7	08525	Plauen	50.507338	12.131330	1			~TYPE2:22|~TYPE2:22
+1064046	Kaufland	3260_Kland_Meerane_T53-HU1-4316-015	Seiferitzer Allee 1	08393	Meerane	50.840000	12.450000	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064304	Kaufland	3220_Kland_Gera_T65-IT1-3922-231	Schleizer Str. 36-39	07549	Gera	50.847683	12.065937	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1065401	EnBW mobility+ AG und Co.KG		Stiftstr. 6-8	08412	Werdau	50.710950	12.415070	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1066632	SB Handelsgesellschaft Nordbayern-Sachsen-Thüringen mbH		Greizer Str. 16	07987	Mohlsdorf	50.670210	12.265210	1			~TYPE2:22|~TYPE2:22
+1067312	Netto Marken-Discount Stiftung & Co. KG		Sorge 20	08412	Werdau	50.733950	12.396140	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1069845	Autohaus Meinhold GmbH		Werkstraße 6	08209	Auerbach	50.521690	12.380576	1			~TYPE2:22|~CCS2:50
+1071557	BuFu-Charge		Robert-Koch-Str. 9	08547	Jößnitz	50.536380	12.130249	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1071932	Energieversorgung Greiz GmbH		Bruno-Bergner-Straße 0	07973	Greiz	50.655730	12.195470	1			~TYPE2:22|~TYPE2:22
+1071933	Energieversorgung Greiz GmbH		Irchwitzer Straße 0	07973	Greiz	50.654568	12.201026	1			~TYPE2:22|~TYPE2:22
+1074121	Regioladen+		Erich-Mühsam-Str. 2	08468	Reichenbach im Vogtland	50.633325	12.315819	1			~TYPE2:22|~TYPE2:22
+1074122	Regioladen+		Zwickauer Str. 265	08468	Reichenbach im Vogtland	50.638618	12.324074	1			~TYPE2:22|~TYPE2:22
+1074123	Regioladen+		Solbrigplatz 7	08468	Reichenbach im Vogtland	50.623738	12.299592	1			~TYPE2:22|~TYPE2:22
+1074124	Regioladen+		Obermylauer Weg 40	08468	Reichenbach im Vogtland	50.624456	12.279278	1			~TYPE2:22|~TYPE2:22
+1074125	Regioladen+		Am Friedenshain 2	08499	Mylau	50.617954	12.267314	1			~TYPE2:22|~TYPE2:22
+1074126	Regioladen+		Badstraße 1	08468	Reichenbach im Vogtland	50.633365	12.328914	1			~TYPE2:22|~TYPE2:22
+1074127	Regioladen+		Kareliaweg 0	08468	Reichenbach im Vogtland	50.615106	12.285418	1			~TYPE2:22|~TYPE2:22
+1074128	Regioladen+		Lengenfelder Straße 3	08468	Reichenbach im Vogtland	50.614871	12.310966	1			~TYPE2:22|~TYPE2:22
+1074129	Regioladen+		Wiesenstraße 61	08468	Reichenbach im Vogtland	50.616416	12.307566	1			~TYPE2:22|~TYPE2:22
+1074130	Regioladen+		Markt 2	08499	Mylau	50.620800	12.263404	1			~TYPE2:22|~TYPE2:22
+1074131	Regioladen+		Rotschauer Straße 1	08468	Reichenbach im Vogtland	50.618830	12.301330	1			~CCS2:150|~CCS2:150
+1074132	Regioladen+		Alte Ziegelei 4	08468	Reichenbach im Vogtland	50.639750	12.328990	1			~CCS2:150|~CCS2:150
+1074133	Regioladen+		Rosa-Luxemburg-Straße 56	08468	Reichenbach im Vogtland	50.619380	12.285798	1			~TYPE2:22|~TYPE2:22
+1074135	Regioladen+		Markt Reichenbach 1	08468	Reichenbach im Vogtland	50.621078	12.303631	1			~TYPE2:22|~TYPE2:22
+1074136	Regioladen+		Marienstraße 16	08468	Reichenbach im Vogtland	50.621111	12.298889	1			~TYPE2:22|~TYPE2:22
+1074137	Regioladen+		Roßplatz 13	08468	Reichenbach im Vogtland	50.620556	12.302222	1			~TYPE2:22|~TYPE2:22
+1075111	Autohaus Strobel OHG		Werkstraße 7	08209	Auerbach	50.521086	12.379935	1			~TYPE2:3.7
+1075418	Autohaus Joachim Huster GmbH		Guteborner Alle 6 ZZ	08393	Meerane	50.839500	12.448500	1			~TYPE2:22|~TYPE2:11|~CCS2:24
+1075419	Autohaus Joachim Huster GmbH		Altenburger Straße 2Z	08058	Zwickau	50.751520	12.483510	1			~TYPE2:11|~CCS2:24
+1075420	Autohaus Joachim Huster GmbH		Leipziger Straße 250z	08058	Zwickau	50.751080	12.483890	1			~TYPE2:22
+1075955	Z+W Auto-Service GmbH & Co. KG		Ortsstraße 2b	07950	Weißendorf	50.674618	12.004508	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075956	Z+W Auto-Service GmbH & Co. KG		Ortsstraße 2b	07950	Weißendorf	50.674715	12.004341	1			~TYPE2:22|~TYPE2:22
+1076085	Autohaus Schlutter GmbH Hyundai Service		Adolph-Herbst Straße 5	07950	Zeulenroda-Triebes	50.676888	12.011514	1			~TYPE2:11|~TYPE2:11
+1077169	Energieversorgung Gera GmbH	LS Leibnizstrasse 61 (AC)	Leibnizstr. 61	07548	Gera	50.893801	12.068004	1	24/7	Keine Beschränkung	DEEGGE012501~TYPE2:22|DEEGGE012502~TYPE2:22
+1077170	Energieversorgung Gera GmbH	LS Leibnizstrasse 61 (DC)	Leibnizstr. 61	07548	Gera	50.893852	12.067945	1	24/7	Keine Beschränkung	DEEGGE012503~TYPE2:22|DEEGGE012504~CCS2:50
+1078196	Shell Deutschland GmbH		Johannes-R.-Becher-Str. 25A	07546	Gera	50.896154	12.085452	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1079578	Volkswagen AG, Standort Braunschweig		Industriepark 1	08393	Meerane	50.826312	12.440135	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1079579	Volkswagen AG, Standort Braunschweig		Industriepark 1	08393	Meerane	50.826112	12.440151	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1080899	Elektro - Enders		Uferstraße 50a	08228	Rodewisch	50.539405	12.400775	1			~TYPE2:22
+1081303	Cloppenburg GmbH		Otto-von-Guericke-Str. 1	07552	Gera	50.901320	12.103948	1			~TYPE2:22|~TYPE2:22
+1081403	Autohaus Zwingenberger		Seiferitzer Allee 5	08393	Meerane	50.833946	12.449176	1			~TYPE2:22|~TYPE2:22
+1081473	SWS Plauen		Plauensche Straße 1	08547	Plauen	50.538833	12.140764	1			~TYPE2:22|~TYPE2:22
+1085084	Christian Enders		Reumtengrüner Hauptstraße 100	08209	Auerbach/Vogtland	50.507969	12.398137	1			~TYPE2:11
+1085358	Detlef Walther		Am Schulberg 7	08209	Auerbach/Vogtland	50.504814	12.413958	1			~TYPE2_TETHERED:11
+1085902	Hans-Jürgen Ackermann		Kleinwolschendorfer Str. 10	07937	Zeulenroda-Triebes	50.629244	12.039116	1			~TYPE2:11
+1085965	Heiko Kästner		Glauchauer Straße 125A	08393	Meerane	50.840404	12.490276	1			~TYPE2_TETHERED:11
+1087006	Michael Illgen		Göhren 22	07950	Auma-Weidatal	50.720827	12.011631	1			~TYPE2:11
+1087075	Mike Röseler		Rothenmühlweg 1C	08451	Crimmitschau	50.808980	12.381230	1			~TYPE2_TETHERED:11
+1087153	Nils Geiler		Wernesgrüner Straße 1A	08209	Auerbach/Vogtland	50.508313	12.454477	1			~TYPE2:11
+1087547	Robby Pahlke		Mittelring 8	07937	Vogtländisches Oberland	50.566572	12.044910	1			~TYPE2:11
+1087771	SOERENDANIEL DESIGNAGENTUR		Hauptstraße 104	08428	Langenbernsdorf	50.752537	12.311784	1			~TYPE2:22
+1087789	Sören Tetzner		Crimmitschauer Straße 23	08412	Werdau	50.742641	12.374439	1			~TYPE2:11
+1088236	Tom Thieme		Hansastraße 2	08060	Zwickau	50.712155	12.438340	1			~TYPE2:11
+1088257	Torsten Springer		Dänkritzer Straße 54B	08058	Zwickau	50.781551	12.455096	1			~TYPE2_TETHERED:11
+1089874	RB Energietechnik GmbH	enerix Gera	Robert-Blum-Str. 31	07545	Gera	50.864279	12.088120	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1091692	AreaCharge	ABG_SWG_1_1	Buchenring 19	04600	Altenburg	50.979498	12.456570	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1096365	ACC AutoCentrum Carl GmbH		Zwickauer Str. 255	08468	Reichenbach im Vogtland	50.636652	12.322875	1			~CCS2:22|~TYPE2:11
+1096457	Auto Kühn GmbH		Kapsgraben 13	04626	Schmölln	50.893235	12.332975	1			~CCS2:22|~TYPE2:11|~TYPE2:11
+1096546	Autohaus Bauer GmbH		Alte Lengenfelder Str. 2B	08228	Rodewisch	50.544575	12.386202	1			~CCS2:22|~TYPE2:11
+1097030	Autohaus Schüler & Co GmbH		Hans-Sachs-Straße 26	08525	Plauen	50.515587	12.128161	1			~CCS2:22|~TYPE2:11
+1097255	Dröschler Werkstattausrüstung GmbH		Maxhütte-Gewerbering 9	08056	Zwickau	50.704940	12.443428	1			~CCS2:75|~TYPE2:22|~TYPE2:22|~CCS2:75
+1097554	VAG		Reichenbacher Str. 65	07973	Greiz	50.652464	12.213559	1			~TYPE2:11
+1097944	Allego		Äußere Schneeberger Str. 100	08056	Zwickau	50.706988	12.497789	1	24/7	Keine Beschränkung	DEALLEGO003552_1~CCS2:300|DEALLEGO003552_2~CCS2:300|DEALLEGO003553_1~CCS2:300|DEALLEGO003553_2~CCS2:300
+1097946	Allego		Äußere Schneeberger Str. 100	08056	Zwickau	50.706928	12.497597	1	24/7	Keine Beschränkung	DEALLEGO003864_1~CCS2:50|DEALLEGO003864_2~CCS2:50|DEALLEGO003869_1~CCS2:50|DEALLEGO003869_2~CCS2:50|DEALLEGO003872_1~CCS2:50|DEALLEGO003872_2~CCS2:50
+1099821	Vattenfall Smarter Living GmbH		Leipziger Str. 65	08451	Crimmitschau	50.823500	12.387625	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1102227	Tesla Germany GmbH		An d. Beerweinschänke 2	07554	Gera	50.887844	12.136536	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102394	Solar-Flemmig		Turnerstr. 1	07552	Gera	50.921722	12.058605	1			~TYPE2:11
+1103779	EnBW mobility+ AG und Co.KG		Äußere Schneeberger Str. 100	08056	Zwickau	50.705105	12.497151	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1104284	CM Immobilien		Planitzer Str. 2	08056	Zwickau	50.705959	12.492320	1			~TYPE2:11|~TYPE2:11
+1104285	CM Immobilien		Planitzer Str. 2	08056	Zwickau	50.705998	12.492355	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1104536	Pneuhage Management GmbH & Co. KG		Olzmannstr. 20	08060	Zwickau	50.714878	12.457625	1		Keine Beschränkung	6956705~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105457	DELTA Steuerberatungsgesellschaft mbH & Co. KG		Lessingstraße 25	08058	Zwickau	50.710000	12.470000	1			~TYPE2:22
+1106857	E.ON Drive GmbH		Raststätte Altenburger Land Süd 0	04626	Schmölln	50.856608	12.313048	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106858	E.ON Drive GmbH		Raststätte Altenburger Land Nord 0	04626	Schmölln	50.860870	12.307960	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1109694	Autohaus Kühnert GmbH & Co. KG		Pausaer Str. 190	08525	Plauen	50.520790	12.114587	1			~TYPE2:11|~TYPE2:11
+1109695	Autohaus Kühnert GmbH & Co. KG		Werdauer Straße 164	08060	Zwickau	50.731008	12.446683	1			~TYPE2:22|~TYPE2:22
+1112949	Autohaus Seidel, Steffen Seidel e.K.		Bürgerschachtstrasse 3b	08056	Zwickau	50.707478	12.482804	1			~TYPE2_TETHERED:22
+1113147	Markus Hörning GmbH		Strasse der Freundschaft 1	08485	Lengenfeld	50.572673	12.370562	1			~TYPE2:22|~TYPE2:22
+1113444	P-Systems GmbH		Schulstraße 3	08428	Langenbernsdorf	50.755690	12.323791	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1113474	Grundstücksgemeinschaft Sören und Steve Wagner eGbR		Nordstraße 12	08209	Auerbach	50.515389	12.397466	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113832	SFW		Ziegelstraße 79	08412	Werdau	50.732550	12.386030	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113885	VR-Bank Altenburger Land eG		Brühl 3	04600	Altenburg	50.987250	12.436290	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114393	Jens Ristok		Papiermühle 10	04626	Schmölln	50.928200	12.404118	1			~TYPE2:11
+1115410	P-Systems GmbH	Firma	Paitzdorfer Str. 4	07580	Rückersdorf	50.822420	12.219874	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:20|~TYPE2:20
+1116824	Shell Deutschland GmbH	13016327_Weida	Neustädter Str. 42	07570	Weida	50.777730	12.047170	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1118267	TEAG Mobil GmbH	Gera - GLOBUS	An der Beerweinschänke 2	07554	Gera	50.887559	12.138610	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*017*001~CCS2:150|DE*TMO*E11*017*002~CCS2:150
+1118268	TEAG Mobil GmbH	Gera - GLOBUS	An der Beerweinschänke 2	07554	Gera	50.887542	12.138605	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*017*004~CCS2:150|DE*TMO*E11*017*005~CCS2:150|DE*TMO*E11*017*007~CCS2:150|DE*TMO*E11*017*008~CCS2:150
+1118529	TEAG Mobil GmbH	Reichenbach - REWE	Lengenfelder Str. 3	08468	Reichenbach im Vogtland	50.615141	12.311403	1	24/7	Keine Beschränkung	DE*TMO*E11*081*003~CCS2:150|DE*TMO*E11*081*004~CCS2:150
+1119117	Energieversorgung Gera GmbH		Heeresbergstr. 1	07549	Gera	50.849209	12.076282	1	24/7	Keine Beschränkung	DEEGGE012701~TYPE2:22|DEEGGE012702~TYPE2:22
+1119118	Energieversorgung Gera GmbH		Zeitzer Str. 69	07552	Gera	50.922377	12.060573	1	24/7	Keine Beschränkung	DEEGGE012801~TYPE2:22|DEEGGE012802~TYPE2:22
+1119238	Aral Pulse		Goethestr. 30	08468	Reichenbach im Vogtland	50.622570	12.294378	1		Keine Beschränkung	~CCS2:150+CCS2:150|~CCS2:150+CCS2:150+CHADEMO:62.5|~CCS2:150|~CCS2:150
+1120424	TEAG Mobil GmbH	Berga-Wünschendorf - Einkaufsmark	Poststr. 10	07980	Berga-Wünschendorf	50.795275	12.096928	1	24/7	Keine Beschränkung	DE*TMO*E11*331*001~CCS2:150|DE*TMO*E11*331*002~CCS2:150
+1121265	Autohaus Zwingenberger		Seiferitzer Allee 5	08393	Meerane	50.834085	12.448930	1	Mo-Fr 09:00-15:00	Nur für Kunden/Besucher	~TYPE2:3.7
+1125550	Kaufland	4340_KLand_Altenburg_T65-IT1-0325-014	Käthe-Kollwitz-Str. 43	04600	Altenburg	50.980630	12.422010	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1125714	amperio GmbH (DEAMP)		Pölbitzer Str. 34	08058	Zwickau	50.738807	12.493954	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1127986	Energieversorgung Gera GmbH		Siemensstr. 49	07546	Gera	50.908061	12.064920	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1129107	Kaufland	3120_KLand_Zwickau_T65-IT1-0925-011	Bernhardstr. 5	08060	Zwickau	50.716601	12.462676	1	Mo-Sa 07:00-22:00	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1130209	Aral Pulse		Siemensstr. 58	07548	Gera	50.912100	12.064970	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1130720	envia Mitteldeutsche Energie AG	CSN0075582	Friedrich-August-Str. 1	08451	Crimmitschau	50.814701	12.387596	1	24/7	Keine Beschränkung	DE*ISE*E0022874~TYPE2:22|DE*ISE*E0022876~TYPE2:22
+1131680	SWS Plauen	Jößnitz, BG Bildung (RECHTS)	Feldstr. 8	08547	Jößnitz	50.548139	12.142194	1	24/7	Keine Beschränkung	DECPIE6797135~TYPE2:22|DECPIE6797135~TYPE2:22|DECPIE6797005~TYPE2:22|DECPIE6797005~TYPE2:22
+1132335	Energieversorgung Gera GmbH		Am Speitewitz 203	07552	Gera	50.900538	12.114068	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132336	Energieversorgung Gera GmbH		Südstr. 68	07548	Gera	50.863744	12.076401	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132845	Kaufland	3600_KLand_Rodewisch_T124-IT-4023-010	Zur Sternkoppel 1	08228	Rodewisch	50.520710	12.386350	1		Keine Beschränkung	~TYPE2:11|~CCS2:120|~CCS2:120
+1135092	RTEG	Raben Gera	An der Beerweinschänke 10	07554	Gera	50.888231	12.139824	1	Mo-Fr 09:00-17:00	Nur für Kunden/Besucher	DERABEN07DC1~CCS2:360
+1136384	Aral Pulse		Marienthaler Str. 2	08060	Zwickau	50.720700	12.472604	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1139030	TotalEnergies Charging Solutions		Ronneburger Str. 49	07546	Gera	50.882804	12.115426	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50054*001*1~CCS2:200|DE*TCB*E3D9CS50054*001*2~CCS2:200|DE*TCB*E3D9CS50054*002*1~CCS2:200|DE*TCB*E3D9CS50054*002*2~CCS2:200
+1140170	LADEFIX	Leitermann SLN	Blumenstr. 2	04626	Schmölln	50.883883	12.348704	1	Mo-Fr 08:00-19:00, Sa 08:00-16:00	Keine Beschränkung	DE*EME*EFIX*0021~CCS2:49+CHADEMO:49
+1141060	HERCHER Die Service Familie GmbH		Breithauptstr. 15	08056	Zwickau	50.708602	12.495861	1			~TYPE2_TETHERED:22|~TYPE2:11
+1143311	Aral Pulse		Siemensstr. 57	07546	Gera	50.906970	12.067521	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1144193	Energieversorgung Gera GmbH		Birkenstr. 16	07549	Gera	50.844915	12.073750	1	24/7	Keine Beschränkung	DEEGGE014201~TYPE2:22|DEEGGE014202~TYPE2:22|DEEGGE014203~TYPE2:22|DEEGGE014204~TYPE2:22
+1144194	Energieversorgung Gera GmbH		Rudolstädter Str. 2	07549	Gera	50.847605	12.063210	1	24/7	Keine Beschränkung	DEEGGE014301~TYPE2:22|DEEGGE014302~TYPE2:22|DEEGGE014303~TYPE2:22|DEEGGE014304~TYPE2:22
+1144196	Energieversorgung Gera GmbH		Zabelstr. 2	07545	Gera	50.881518	12.081599	1	24/7	Keine Beschränkung	DEEGGE014501~TYPE2:22|DEEGGE014502~TYPE2:22
+1144197	Energieversorgung Gera GmbH		Nicolaiberg 5	07545	Gera	50.877118	12.085755	1	24/7	Keine Beschränkung	DEEGGE014801~TYPE2:22|DEEGGE014802~TYPE2:22
+1144199	Energieversorgung Gera GmbH		Handwerkerhof 23A	07548	Gera	50.857989	12.073918	1	24/7	Keine Beschränkung	DEEGGE014401~TYPE2:22|DEEGGE014402~TYPE2:22
+1147327	Lidl	7291_Lidl_Zwickau_LS1_QP-20137-0525-180-121-QP-VER.321	Leipziger Str. 168	08058	Zwickau	50.738027	12.490212	1		Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:60|~CCS2:60
+1148034	ORLEN Deutschland GmbH	DC-10039-01	Vogtlandstr. 10	07549	Gera	50.853300	12.076600	1	24/7	Keine Beschränkung	DE*ODE*EDC1003901*01~CCS2:300|DE*ODE*EDC1003901*02~CCS2:300|DE*ODE*EDC1003902*03~CCS2:300|DE*ODE*EDC1003902*04~CCS2:300
+1151882	Wirelane GmbH		Schillerstraße 27	07545	Gera	50.875516	12.089703	1		Keine Beschränkung	DE*WLN*EP000303~TYPE2:22|DE*WLN*EP000304~TYPE2:22
+1152129	Wirelane GmbH		Herbert-Liebs-Hof 1	07551	Gera	50.846000	12.095889	1		Keine Beschränkung	DE*WLN*EP001131~TYPE2:22|DE*WLN*EP001132~TYPE2:22
+1152211	E.ON Drive Infrastructure		Franz-Mehring-Str. 169	08058	Zwickau	50.746989	12.483904	1	24/7	Keine Beschränkung	DE*UFC*E01306*1~CCS2:50|DE*UFC*E01306*2~CCS2:50|DE*UFC*E01310*1~CCS2:150|DE*UFC*E01310*2~CCS2:150
+1152220	Sparkasse zwickau		Crimmitschauer Str. 2	08056	Zwickau	50.720800	12.488100	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1153282	Autohaus Kühnert GmbH & Co. KG	Langenwetzendorf	Am Daßlitzer Kreuz 21	07957	Langenwetzendorf	50.683399	12.129596	1	24/7	Keine Beschränkung	DE*ISE*EA164334~CCS2:50|DE*ISE*EA125482~TYPE2:22
+1153291	Autohaus Kühnert GmbH & Co. KG	Plauen	Pausaer Str. 190	08525	Plauen	50.520690	12.114365	1	24/7	Keine Beschränkung	DE*ISE*EA134765~CCS2:50|DE*ISE*EA154418~TYPE2:22
+1156333	Wirelane GmbH		Schülerstraße 22	07545	Gera	50.872123	12.080178	1		Keine Beschränkung	DE*WLN*ES001399~TYPE2:11|DE*WLN*ES001400~TYPE2:11|DE*WLN*ES001401~TYPE2:11|DE*WLN*ES001402~TYPE2:11|DE*WLN*ES001403~TYPE2:11|DE*WLN*ES001404~TYPE2:11
+1156622	Allego		Leibnizstr. 63	07548	Gera	50.894524	12.068712	1	24/7	Keine Beschränkung	DEALLEGO003475_1~CCS2:150|DEALLEGO003475_2~CCS2:150
+1157489	Greenman Energy Operations GmbH & Co. KG	Crimmitschau 1	Am Roten Turm 2	08451	Crimmitschau	50.815781	12.388962	1	24/7	Keine Beschränkung	AT*HTB*E1026301~CCS2:300|AT*HTB*E1026302~CCS2:300|AT*HTB*E1026303~CCS2:300|AT*HTB*E1026304~CCS2:300
+1158106	EnBW mobility+ AG und Co.KG	Rossmann Zwickau, Pölbitzer Straße 30	Pölbitzer Straße 30	08058	Zwickau	50.737925	12.491723	1	24/7	Keine Beschränkung	DE*EBW*E915139*1~CCS2:100|DE*EBW*E915139*2~CCS2:100
+1158715	ADS-TEC Energy Service GmbH	Norma Altenburg	Rudolf-Breitscheid-Str. 45	04600	Altenburg	50.992363	12.430758	1	24/7	Keine Beschränkung	DEAESE001601~CCS2:300|DEAESE001602~CCS2:300
+1160624	Servipark Deutschland GmbH	Contipark Parkhaus Centrum Zwickau D160 Wallbox 1	Katharinenstr. 1	08056	Zwickau	50.716325	12.498647	1	24/7	Nur für Kunden/Besucher	DE-CTP-E16000-01-1~TYPE2:11|DE-CTP-E16000-02-1~TYPE2:11|DE-CTP-E16000-03-1~TYPE2:11|DE-CTP-E16000-04-1~TYPE2:11|DE-CTP-E16000-05-1~TYPE2:11|DE-CTP-E16000-06-1~TYPE2:11|DE-CTP-E16000-07-1~TYPE2:11|DE-CTP-E16000-08-1~TYPE2:11|DE-CTP-E16000-09-1~TYPE2:11|DE-CTP-E16000-10-1~TYPE2:11|DE-CTP-E16000-11-1~TYPE2:11|DE-CTP-E16000-12-1~TYPE2:11|DE-CTP-E16000-13-1~TYPE2:11|DE-CTP-E16000-14-1~TYPE2:11|DE-CTP-E16000-15-1~TYPE2:11|DE-CTP-E16000-16-1~TYPE2:11|DE-CTP-E16000-17-1~TYPE2:11|DE-CTP-E16000-18-1~TYPE2:11|DE-CTP-E16000-19-1~TYPE2:11|DE-CTP-E16000-20-1~TYPE2:11|DE-CTP-E16000-21-1~TYPE2:11|DE-CTP-E16000-22-1~TYPE2:11|DE-CTP-E16000-23-1~TYPE2:11|DE-CTP-E16000-24-1~TYPE2:11|DE-CTP-E16000-25-1~TYPE2:11|DE-CTP-E16000-26-1~TYPE2:11
+1161811	Servipark Deutschland GmbH	Contipark Tiefgarage Kornmarkt Zwickau D196 Wallbox 1	Schillerstr. 1a	08056	Zwickau	50.716011	12.494533	1	24/7	Nur für Kunden/Besucher	DE-CTP-E19600-01-1~TYPE2:11|DE-CTP-E19600-02-1~TYPE2:11|DE-CTP-E19600-03-1~TYPE2:11|DE-CTP-E19600-04-1~TYPE2:11|DE-CTP-E19600-05-1~TYPE2:11|DE-CTP-E19600-06-1~TYPE2:11|DE-CTP-E19600-07-1~TYPE2:11|DE-CTP-E19600-08-1~TYPE2:11|DE-CTP-E19600-09-1~TYPE2:11|DE-CTP-E19600-10-1~TYPE2:11|DE-CTP-E19600-11-1~TYPE2:11|DE-CTP-E19600-12-1~TYPE2:11|DE-CTP-E19600-13-1~TYPE2:11|DE-CTP-E19600-14-1~TYPE2:11|DE-CTP-E19600-15-1~TYPE2:11|DE-CTP-E19600-16-1~TYPE2:11|DE-CTP-E19600-17-1~TYPE2:11|DE-CTP-E19600-18-1~TYPE2:11|DE-CTP-E19600-19-1~TYPE2:11|DE-CTP-E19600-20-1~TYPE2:11|DE-CTP-E19600-21-1~TYPE2:11|DE-CTP-E19600-22-1~TYPE2:11|DE-CTP-E19600-23-1~TYPE2:11|DE-CTP-E19600-24-1~TYPE2:11|DE-CTP-E19600-25-1~TYPE2:11|DE-CTP-E19600-26-1~TYPE2:11|DE-CTP-E19600-27-1~TYPE2:11|DE-CTP-E19600-28-1~TYPE2:11|DE-CTP-E19600-29-1~TYPE2:11|DE-CTP-E19600-30-1~TYPE2:11|DE-CTP-E19600-31-1~TYPE2:11|DE-CTP-E19600-32-1~TYPE2:11|DE-CTP-E19600-33-1~TYPE2:11|DE-CTP-E19600-34-1~TYPE2:11
+1162419	ALDI Nord	ALDI Nord Parkplatz	Uferstr. 5a	08412	Werdau	50.734618	12.373016	1	24/7	Keine Beschränkung	DE-ALN-EDE212425-1-1~CCS2:50|DE-ALN-EDE212425-1-2~CCS2:50
+1162661	Servipark Deutschland GmbH	Contipark Parkhaus Arcaden Zwickau D118 Wallbox 1	Marienstr. 19	08056	Zwickau	50.719945	12.494684	1	24/7	Nur für Kunden/Besucher	DE-CTP-E11800-01-1~TYPE2:11|DE-CTP-E11800-01-2~TYPE2:11|DE-CTP-E11800-02-1~TYPE2:11|DE-CTP-E11800-02-2~TYPE2:11|DE-CTP-E11800-03-1~TYPE2:11|DE-CTP-E11800-03-2~TYPE2:11|DE-CTP-E11800-04-1~TYPE2:11|DE-CTP-E11800-04-2~TYPE2:11
+1164107	ADS-TEC Energy Service GmbH	Norma Zwickau	Äußere Zwickauer Str. 36	08064	Zwickau	50.682489	12.474896	1	24/7	Keine Beschränkung	DEAESE001701~CCS2:300|DEAESE001702~CCS2:300

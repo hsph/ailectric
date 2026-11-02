@@ -1,0 +1,280 @@
+1000992	Stadtwerke Aschaffenburg		Alexandrastr. 3	63739	Aschaffenburg	49.973467	9.150821	1			~TYPE2:11|~TYPE2:11
+1000993	Stadtwerke Aschaffenburg		Bert-Brecht-Str. 1	63741	Aschaffenburg	49.981697	9.145188	1			~TYPE2:11|~TYPE2:11
+1000994	Stadtwerke Aschaffenburg		Dalbergstr. 18	63739	Aschaffenburg	49.973902	9.145435	1			~TYPE2:11|~TYPE2:11
+1000995	Stadtwerke Aschaffenburg		Elisenstr. 24	63739	Aschaffenburg	49.979884	9.147350	1			~TYPE2:11|~TYPE2:11
+1000996	Stadtwerke Aschaffenburg		Löherstr. 21	63739	Aschaffenburg	49.972420	9.146760	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1000997	Stadtwerke Aschaffenburg		Schloßplatz 1	63739	Aschafenburg	49.976626	9.143890	1			~TYPE2:11|~TYPE2:11
+1000998	Stadtwerke Aschaffenburg		Darmstädter Str. 14	63741	Aschaffenburg	49.972530	9.136010	1			~TYPE2:22|~TYPE2:22
+1000999	Stadtwerke Aschaffenburg		Diemarusstr. 0	63843	Niedernberg	49.906300	9.136440	1			~TYPE2:22|~TYPE2:22
+1001000	Stadtwerke Aschaffenburg		Zum Stadion 0	63808	Haibach	49.962730	9.193260	1			~TYPE2:22|~TYPE2:22
+1001003	Stadtwerke Aschaffenburg		Seidelstr. 2	63741	Aschaffenburg	49.974800	9.127550	1			~TYPE2:11|~TYPE2:11
+1001004	Stadtwerke Aschaffenburg		Werkstr. 2	63739	Aschaffenburg	49.967600	9.143580	1			~TYPE2:22|~TYPE2:22
+1001141	Elektrizitätswerk Goldbach Hösbach		Sachsenhausen 1	63773	Goldbach	49.997901	9.181043	1			~TYPE2:22|~TYPE2:22
+1001143	Elektrizitätswerk Goldbach Hösbach		An der Lache 135-137	63773	Goldbach	49.989365	9.172760	1			~TYPE2:22|~TYPE2:22
+1001146	Elektrizitätswerk Goldbach Hösbach		Aschaffstrasse 1	63773	Goldbach	49.999320	9.192500	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001793	deer GmbH		Eisenbahnstraße 10	74722	Buchen	49.523442	9.328062	1			~TYPE2:22|~TYPE2:22
+1001887	deer GmbH		Heidelberger Straße 20	74746	Höpfingen	49.602191	9.429381	1			~TYPE2:22|~TYPE2:22
+1005515	Stadtwerke Wertheim Erneuerbare Energien GmbH		Mainstraße 0	97896	Freudenberg	49.740315	9.319557	1			~TYPE2:22|~TYPE2:22
+1005873	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG		Winterheltstraße 0	63897	Miltenberg	49.704775	9.252369	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005875	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG		Josef-Ullrich-Straße 2	63927	Bürgstadt	49.716226	9.264874	1			~TYPE2:22|~TYPE2:22
+1005876	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG		Engelplatz 69	63897	Miltenberg	49.700970	9.257523	1			~TYPE2:22|~TYPE2:22
+1005877	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG		Berliner Platz 1	63897	Miltenberg	49.705396	9.249174	1			~TYPE2:22|~TYPE2:22
+1005878	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG		Mainstraße 5	63897	Miltenberg	49.704279	9.258321	1			~TYPE2:22|~TYPE2:22
+1011533	Comfort Charge		Rudolf-Marburg-Str 40	64720	Michelstadt	49.683110	9.007390	1			~CCS2:100+CHADEMO:100|~TYPE2:22|~TYPE2_TETHERED:22
+1016222	MER Germany		Präsident-Wittemann-Straße 14	74722	Buchen	49.525116	9.322993	1			~TYPE2:22|~TYPE2:22
+1020561	Entega Plus GmbH		Hauptstr. 21	64750	Lützelbach	49.789613	9.122512	1			~TYPE2:22|~TYPE2:22
+1020562	Entega Plus GmbH		Reiterspfad 2	64750	Lützelbach	49.765289	9.101009	1			~TYPE2:22|~TYPE2:22
+1020582	Entega Plus GmbH		Gartenstr. 22	64850	Mosbach	49.888644	9.029234	1			~TYPE2:22|~TYPE2:22
+1020587	Entega Plus GmbH		Wilhelm Leuschner Str. 12-14	64850	Schaafheim	49.921556	9.007644	1			~TYPE2:22|~TYPE2:22
+1020606	Entega Plus GmbH		Berggartenstr. 77	64732	Bad König	49.745570	9.014110	1			~TYPE2:22|~TYPE2:22
+1020607	Entega Plus GmbH		Talstr. 1	64747	Breuberg	49.832220	9.043000	1			~TYPE2:22|~TYPE2:22
+1020623	Entega Plus GmbH		Kutschenweg 3	64720	Michelstadt	49.685410	9.000040	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1020635	Entega Plus GmbH		Am Festplatz 3	64720	Michelstadt	49.680710	9.001970	1			~CCS2:75|~CCS2:75
+1020697	Entega Plus GmbH		Sensbacher Str. 84	64760	Unter-Sensbach	49.530350	9.012160	1			~TYPE2:22|~TYPE2:22
+1020707	Entega Plus GmbH		Schwimmbadstr. 11	64737	Bad König	49.743000	9.003440	1			~TYPE2:22|~TYPE2:22
+1020734	Entega Plus GmbH		Mainstr. 1	64750	Lützelbach	49.787931	9.076379	1			~TYPE2:22|~TYPE2:22
+1020739	Entega Plus GmbH		Schulstr. 4	64732	Bad König	49.741479	9.006258	1			~TYPE2:22|~TYPE2:22
+1020747	Entega Plus GmbH		Hohlstr. 2	64747	Breuberg	49.819330	9.017122	1			~TYPE2:22|~TYPE2:22
+1020759	Entega Plus GmbH		Wilhelmstr. 1	64850	Schaafheim	49.924172	9.003185	1			~TYPE2:22|~TYPE2:22
+1020761	Entega Plus GmbH		Am Festplatz 3a	64720	Michelstadt	49.680564	9.001629	1			~TYPE2:22|~TYPE2:22
+1020762	Entega Plus GmbH		Am Festplatz 3a	64720	Michelstadt	49.680512	9.001650	1			~TYPE2:22|~TYPE2:22
+1020801	Entega Plus GmbH		Geschwister-Scholl-Straße 16	64720	Michelstadt	49.670065	9.009383	1			~TYPE2:22|~TYPE2:22
+1020813	Entega Plus GmbH		Höchster Str. 60	64747	Breuberg	49.811930	9.009692	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1021827	EWE Go GmbH	McD_1141_1A	Carl-Benz-Str. 2	74722	Buchen (Odenwald)	49.510909	9.314915	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1025577	EnBW mobility+ AG und Co.KG		Schloßauer Str. 2	69427	Mudau	49.534900	9.202465	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025647	MVV Energie AG	MaLIS_Walldürn_Mühlweg	Mühlweg 7	74731	Walldürn	49.618539	9.346892	1	24/7	Keine Beschränkung	DE*MVV*E00589*L1~TYPE2:22+SCHUKO:22|DE*MVV*E00589*R1~TYPE2:22+SCHUKO:22
+1025687	MVV Energie AG	MaLIS_Walldürn_Klosterstraße	Klosterstr. 16	74731	Walldürn	49.583449	9.366185	1	24/7	Keine Beschränkung	DE*MVV*E00588*L1~TYPE2:22+SCHUKO:22|DE*MVV*E00588*R1~TYPE2:22+SCHUKO:22
+1027304	EnBW mobility+ AG und Co.KG		In der Seehecke 7	63924	Kleinheubach	49.713590	9.216150	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1029921	MVV Energie AG		Eberstadter Str. 5	74722	Buchen	49.520978	9.328617	1			~TYPE2:22|~TYPE2:22
+1030014	MVV Energie AG	MaLIS3_Buchen	In der Vorderen Wanne 11	74722	Buchen (Odenwald)	49.526681	9.335101	1	24/7	Keine Beschränkung	DE*MVV*E00138*L1~CCS2:75|DE*MVV*E00138*R1~CCS2:75
+1030472	Fastned Deutschland GmbH & Co. KG		Aschaffenburger Straße 5	63773	Goldbach	49.993589	9.173334	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1031340	HomE of Mobility GmbH		Mörswiesenstraße 40	63741	Aschaffenburg	49.979187	9.111726	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11|~CCS2:22
+1031392	HomE of Mobility GmbH		Mörswiesenstr. 30	63741	Aschaffenburg	49.978198	9.112579	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1031607	CUBOS Service GmbH		Heinrich-Böll-Straße 1	63741	Aschaffenburg	49.981527	9.141047	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1035451	ALDI SÜD		Johann-Dahlem-Straße 11	63814	Mainaschaff	49.986561	9.084146	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035968	ALDI SÜD		Bahnhofstraße 11a	63820	Elsenfeld	49.841880	9.156660	1			~CCS2:140|~CCS2:140|~TYPE2:22
+1036679	Numbat GmbH		Schiller Straße 109	63741	Aschaffenburg	49.984904	9.132478	1			~CCS2:300|~CCS2:300
+1036832	HomE of Mobility GmbH	Autohaus Wolfert Großwallstadt	Grundtalring 28	63868	Großwallstadt	49.874449	9.148814	1	24/7	Keine Beschränkung	DE*HOM*E100502*002~TYPE2_TETHERED:11|DE*HOM*E100502*003~TYPE2_TETHERED:11|DE*HOM*E100502*004~TYPE2_TETHERED:11|DE*HOM*E100502*005~TYPE2_TETHERED:11|DE*HOM*E100502*006~TYPE2_TETHERED:11|DE*HOM*E100502*001~TYPE2_TETHERED:11
+1037908	EnBW mobility+ AG und Co.KG		Otto-Hahn-Str. 10A	74731	Walldürn	49.574818	9.368547	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1038368	Hotel Residenz Stockstadt Marijana und Nenad Todic GBR		Feuerwehrstrasse 12	63811	Stockstadt am Main	49.978057	9.061290	1			~TYPE2:22|~TYPE2:22
+1038717	HomE of Mobility GmbH	AH Wolfert Großwallstadt	Grundtalring 28	63868	Großwallstadt	49.874406	9.148853	1	24/7	Keine Beschränkung	DE*HOM*E100502*501~CCS2:300|DE*HOM*E100502*502~CCS2:300
+1039622	IONITY GmbH		Spessart Nord 0	63879	Weibersbrunn	49.898302	9.394346	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E212605~CCS2:350|DE*IOY*E212606~CCS2:350
+1040167	Autohaus Seitz GmbH - Obernburg		Dieselstraße 4	63785	Obernburg	49.833344	9.126156	1			~CCS2:100|~CCS2:100|~TYPE2:22
+1042477	Energielösung GmbH		Bayernstraße 14	63893	Kleinwallstadt	49.873167	9.174359	1			~TYPE2:22|~TYPE2:22
+1042496	Energielösung GmbH		Mühlweg 2	63820	Elsenfeld	49.843100	9.161000	1			~TYPE2:22|~TYPE2:22
+1042611	Energielösung GmbH		Am Kirchberg 1	63762	Großostheim	49.917834	9.079764	1			~TYPE2:22|~TYPE2:22
+1042619	Energielösung GmbH		Kanzleistraße 2	63762	Großostheim	49.918385	9.078377	1			~TYPE2:22|~TYPE2:22
+1042650	Energielösung GmbH		Jahnstraße 45	63834	Sulzbach am Main	49.907374	9.151793	1			~TYPE2:22|~TYPE2:22
+1042651	Energielösung GmbH		Heimathenhof 2	63872	Heimbuchenthal	49.877710	9.279342	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1042663	Energielösung GmbH		Hauptstaße 81	63872	Heimbuchenthal	49.881850	9.294436	1			~TYPE2:22|~TYPE2:22
+1042826	Energielösung GmbH		Hauptstraße 70	63853	Mömlingen	49.858559	9.084097	1			~TYPE2:22|~TYPE2:22
+1042827	Energielösung GmbH		Hauptstraße 29	97901	Altenbuch	49.982354	9.412321	1			~TYPE2:22
+1043301	Allego		Saaläckerstraße 2A	63801	Kleinostheim	49.994490	9.070180	1			DEALLEGO002666*1~CCS2:300|DEALLEGO002666*2~CCS2:300
+1043302	Allego		Saaläckerstraße 2A	63801	Kleinostheim	49.994490	9.070080	1			DEALLEGO002667*1~CCS2:300|DEALLEGO002667*2~CCS2:300
+1043303	Allego		Saaläckerstraße 2A	63801	Kleinostheim	49.994620	9.070000	1			DEALLEGO002668*1~CCS2:150|DEALLEGO002668*2~CCS2:150
+1043304	Allego		Saaläckerstraße 2A	63801	Kleinostheim	49.994650	9.070090	1			DEALLEGO002713*1~CCS2:150|DEALLEGO002713*2~CCS2:150
+1048341	Stadtwerke Aschaffenburg	Parkhaus Südbahnhof Aschaffenburg	Südbahnhofstr. 19	63739	Aschaffenburg	49.967571	9.145183	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1048683	Lidl	6467_Lidl_Aschaffenburg_T54-HU1-3519-019	Spessartstr. 40	63743	Aschaffenburg	49.965668	9.155074	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048789	Lidl	6562_Lidl_Mainaschaff_T54-HU1-2521-023	Johann-Dahlem-Str. 7-9	63814	Mainaschaff	49.987904	9.084540	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1048903	Lidl	6812_Lidl_Amorbach_T65-IT1-2422-018	Krummwiese 1	63916	Amorbach	49.647301	9.219639	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049649	E.ON Drive Infrastructure		Raststätte Spessart Nord 0	63879	Weibersbrunn	49.898259	9.394119	1			~CCS2:50|~CCS2:50
+1050821	Pfalzwerke AG		Carl-Benz-Straße 4	74722	Buchen	49.510347	9.314647	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1051676	MER Germany		Sansenhecken 1	74722	Buchen	49.500917	9.313127	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051677	MER Germany		Sansenhecken 1	74722	Buchen	49.504727	9.311785	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053317	e-jIn GmbH	e-jIn Ladestation Mainaschaff	Im Trauenloh 4	63814	Mainaschaff	49.988941	9.085012	1	24/7	Keine Beschränkung	DEEJIE1234590429*1~CCS2:240|DEEJIE1234590429*2~CCS2:240|DEEJIE1234590430*1~CCS2:240|DEEJIE1234590430*2~CCS2:240|DEEJIE1234590431*~CCS2:120|DEEJIE1234590431*2~CCS2:120
+1055198	Aral Pulse		Landstraße 6	63939	Wörth am Main	49.797804	9.156551	1			~CCS2:300|~CCS2:300
+1055206	Aral Pulse		Miltenberger Str. 13	63785	Obernburg a. Main	49.837205	9.144077	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055589	EWE Go GmbH	McD_0475_1A	Stadtring 269	64720	Michelstadt	49.687594	9.004981	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1059712	EMS		Bayernstraße 18	63739	Aschaffenburg	49.981028	9.160509	1			~TYPE2:22|~TYPE2:22
+1059715	EMS	Am Rathaus	Am Mühlbach 5	63857	Waldaschaff	49.974070	9.306590	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1059716	EMS		Ludwig-Straub-Straße 2	63856	Bessenbach	49.969717	9.252347	1			~TYPE2:22|~TYPE2:22
+1059717	EMS		Hauptstraße 6	63808	Haibach	49.966358	9.205109	1			~TYPE2:22|~TYPE2:22
+1060299	Pluq		Schlossplatz 1	63860	Rothenbuch	49.967930	9.397022	1			~TYPE2:22|~TYPE2:22
+1061291	Gebietskörperschaft	Gemeindeverwaltung Mömlingen, Parkplatz am Rathaus	Hauptstr. 70	63853	Mömlingen	49.858560	9.084100	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1061521	Allego		Hauptstr. 229	63879	Weibersbrunn	49.934483	9.353995	1	24/7	Keine Beschränkung	DEALLEGO003365_1~CCS2:300|DEALLEGO003365_2~CCS2:300|DEALLEGO003366_1~CCS2:300|DEALLEGO003366_2~CCS2:300
+1061547	Allego		Würzburger Str. 180	63743	Aschaffenburg	49.962682	9.174366	1	24/7	Keine Beschränkung	DEALLEGO003129_1~CCS2:150|DEALLEGO003129_2~CCS2:150
+1062414	Wattif Europe GmbH	Hösbach Hotel Gerber GmbH Aschaffenburger Str.	Aschaffenburger Str. 12-14	63768	Hösbach	49.999302	9.228266	1	24/7	Keine Beschränkung	DE*WAT*EW049046001~TYPE2:22|DE*WAT*EW049046002~TYPE2:22|DE*WAT*EW049046003~TYPE2:22|DE*WAT*EW049046004~TYPE2:22
+1063086	Energielösung GmbH	Roßmann Bernd	Straßlücke 3	97836	Bischbrunn	49.873974	9.495719	1	24/7	Keine Beschränkung	DE*BEM*E0010960~CCS2:150|DE*BEM*E0010961~CCS2:150
+1063445	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Kreuzäcker Ring 16	63814	Mainaschaff	49.983835	9.104533	1			~TYPE2:22
+1063833	Stadtwerke Aschaffenburg	Parkhaus am Hasenkopf Aschaffenburg	Am Hasenkopf 1	63739	Aschaffenburg	49.975480	9.186092	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1064071	Kaufland	4770_Kland_Aschaffenbrug_T53-HU1-4217-013	Würzburger Str. 144-148	63743	Aschaffenburg	49.968049	9.164981	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1066517	Zum Wiesengrund, Hotel- Betriebs- GmbH	Hotel Zum Wiesengrund	Elsavastr. 9	63872	Heimbuchenthal	49.892036	9.301118	1	24/7	Keine Beschränkung	~TYPE2:22
+1066637	Christian Hubrich		Rupert-Mayer-Str. 8b	63741	Aschaffenburg	49.963968	9.117158	1			~TYPE2_TETHERED:22
+1066786	Landhotel Klingerhof		Am Hügel 7	63768	Hösbach	49.969690	9.230440	1			~TYPE2:22|~TYPE2:22
+1067024	Süwag Vertrieb AG & Co. KG		Bahnhofstraße 1	63811	Stockstadt	49.977204	9.064150	1			~TYPE2:22|~TYPE2:22
+1067035	Süwag Vertrieb AG & Co. KG		Jahnstr. 51	63814	Mainaschaff	49.982515	9.089897	1			~TYPE2:22|~TYPE2:22
+1067255	Raiffeisen-Volksbank Niedernberg		Hauptstr. 51	63843	Niedernberg	49.913870	9.141520	1	24/7	Nur für Kunden/Besucher	EUL6Q~TYPE2:22|E3GJB~TYPE2:22
+1067305	EMS		Boschweg 9	63741	Aschaffenburg	49.983259	9.116813	1	24/7	Keine Beschränkung	DE*CM2*E1200498*AC001~TYPE2:11|DE*CM2*E1200498*AC002~TYPE2:11
+1067308	EMS		Höhenstr. 20	63857	Waldaschaff	49.976201	9.301120	1	24/7	Keine Beschränkung	DE*CM2*E1200315*AC001~TYPE2:22|DE*CM2*E1200315*AC002~TYPE2:22
+1067329	Entega Plus GmbH		Werkstr. 17	64732	Bad König	49.738720	9.001680	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1067332	Entega Plus GmbH		Radheimer Str. 2	64850	Schaafheim	49.891720	9.028030	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068617	Getränke Breunig		Industriestraße Ost 10	63808	Haibach	49.962709	9.191248	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068774	MVV Enamic GmbH		Karl-Trunzer-Straße 1	74722	Buchen	49.523607	9.322103	1			~TYPE2:22|~TYPE2:22
+1068775	MVV Enamic GmbH		Karl-Trunzer-Straße 1	74722	Buchen	49.523662	9.322060	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069055	Blumen Berchtenbreiter		Bachstr. 74	63762	Großostheim	49.919480	9.082020	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1069292	König System- & Elektrotechnik GmbH		Borngasse 10	63762	Großostheim	49.909110	9.058317	1			~TYPE2:22|~TYPE2:22
+1069440	Porsche Zentrum Aschaffenburg HENRICI Sportwagen GmbH		Berliner Allee 2	63739	Aschaffenburg	49.973361	9.183412	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1070123	Landgasthof und Pension Grüner Baum		Roßbacher Straße 116	63849	Leidersbach	49.878420	9.244361	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1072945	Aral Pulse		Aschaffenburger Straße 86	63801	Kleinostheim	49.995253	9.068557	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1073059	cocharge		Industriestr. 27e	63834	Sulzbach a. Main	49.918561	9.152235	1	24/7	Keine Beschränkung	~TYPE2:22
+1074968	AB Informationstechnologie GmbH		Kreuzfeldring 9	63820	Elsenfeld	49.839320	9.188350	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075215	Wirl Rental GmbH		Hauptstraße 48a	63924	Kleinheubach	49.722800	9.214700	1			~TYPE2:22|~TYPE2:22
+1075847	SPINNLER GmbH		Schwalbenrainweg 30a	63741	Aschaffenburg	49.984958	9.118938	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1077617	Dayser Deutschland GmbH		Hofgartenstr. 6	63739	Aschaffenburg	49.975390	9.155160	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22
+1077973	Energielösung GmbH		Schulgasse 1	97906	Faulbach	49.782510	9.442730	1	24/7	Keine Beschränkung	DE*BEM*E0010990~CCS2:50|DE*BEM*E0010991~CCS2:50
+1078017	Stadtwerke Aschaffenburg	Landratsamt Aschaffenburg	Friesenstr. 1	63739	Aschaffenburg	49.980831	9.158637	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1078018	Stadtwerke Aschaffenburg	Selgros Aschaffenburg	Neue Glattbacher Str. 2	63741	Aschaffenburg	49.986149	9.150619	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1078142	Energielösung GmbH		Oberer Neuer Weg 3	63785	Obernburg a. Main	49.839100	9.143350	1	24/7	Keine Beschränkung	DE*BEM*E0010981~TYPE2:22|DE*BEM*E0010983~TYPE2:22
+1080572	Andreas Schimpf		Im Kappespfad 41	64850	Schaafheim	49.924700	9.011600	1			~TYPE2:11
+1080837	Sparkasse Aschaffenburg Miltenberg AdöR		Pfarrer-Frömel-Ring 43/45	63924	Kleinheubach	49.715088	9.215600	1			~TYPE2:22|~TYPE2:22
+1080838	Sparkasse Aschaffenburg Miltenberg AdöR		Debonstraße 2	63916	Amorbach	49.643883	9.221799	1			~TYPE2:22|~TYPE2:22
+1081447	Autohaus Heermann und Rhein GmbH		Lasallestr. 9	63897	Miltenberg	49.705383	9.228540	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1081448	Autohaus Heermann und Rhein GmbH		Römerstr. 113	63785	Obernburg	49.850379	9.152210	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084438	Eduard Schmidt		Prof.-Albert-Str. 19	69427	Mudau	49.544810	9.241620	1	Mo-Fr 14:00-20:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1084469	Wideflex Bau+Service GmbH	Wideflex Bau+Service GmbH	Stockstädter Str. 19	63762	Großostheim	49.922600	9.075300	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11
+1084635	Andreas Dramski		Habichtstraße 33	63741	Aschaffenburg	49.991049	9.123463	1			~TYPE2_TETHERED:11
+1084790	Autohaus Gärtner GmbH		Weingärtner Str. 1	97877	Wertheim	49.733864	9.474325	1			~TYPE2:22|~TYPE2:22
+1084791	Autohaus Gärtner GmbH		Würzburger Straße 54	74736	Hardheim	49.610641	9.482817	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084935	Benjamin Verhoeven		Am Bocksberg 13	63925	Laudenbach	49.743008	9.171693	1			~TYPE2_TETHERED:11
+1084941	Berit Lang		Spessartstr 51	63834	Sulzbach am Main	49.911701	9.155743	1			~TYPE2_TETHERED:11
+1085037	Carolin Goldhammer		Kurmainzer Straße 22	63874	Dammbach	49.859716	9.332122	1			~TYPE2_TETHERED:22
+1085244	Daniel Frank		Südring 10A	63762	Großostheim	49.929629	9.040344	1			~TYPE2_TETHERED:11
+1085454	Druck-Werk GmbH		Auweg 16A	63920	Großheubach	49.727252	9.221989	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1085970	Heiko Oberle		Lauterhofstr. 14	63785	Obernburg am Main	49.838178	9.132358	1			~TYPE2:11
+1085972	Heiko Zahn		Alter Stadtweg 7	63762	Großostheim	49.922561	9.075326	1			~TYPE2:11
+1086232	Jens Waldhoff		Hauptstraße 61	64720	Michelstadt	49.654302	9.075975	1			~TYPE2:11
+1086258	Jochen Kunkel	Hof	Lauersend 26	63927	Bürgstadt	49.719932	9.270403	1	Mo-Fr 10:00-16:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086409	Kai-Uwe Ehret		Am Scheuerberg 21	64711	Erbach	49.637578	9.006435	1			~TYPE2_TETHERED:9
+1086700	Marco Fleckenstein		Spessartstr. 12	63857	Waldaschaff	49.975385	9.297754	1			~TYPE2:11
+1086701	Marco Gräber		Ferienstraße 15	63785	Obernburg am Main	49.835513	9.115559	1			~TYPE2_TETHERED:22
+1086716	Marco Zeberek		Erfelder Straße 55	74736	Hardheim	49.551810	9.497704	1			~TYPE2_TETHERED:3
+1087182	Norman Pfalzgraf		Kasseler Weg 2	64720	Michelstadt	49.695260	9.055549	1			~TYPE2_TETHERED:11
+1087183	Norman Pfalzgraf		Friedrich-Ebert-Str. 81a	64720	Michelstadt	49.695773	9.051493	1			~TYPE2_TETHERED:11
+1087540	Richard EBV		Hauptstraße 78A	63808	Haibach	49.962859	9.212890	1			~TYPE2:11
+1087967	Sven Erdmann		Wacholderweg 53	63741	Aschaffenburg	49.960240	9.119044	1			~TYPE2_TETHERED:11
+1088129	Thorsten Gehrig		Richard-Kuhn-Straße 2	63814	Mainaschaff	49.979385	9.079065	1			~TYPE2_TETHERED:11|~TYPE2:3|~TYPE2:11
+1088311	Uwe Krug		Kiefernweg 23	63741	Aschaffenburg	49.958155	9.115009	1			~TYPE2:11
+1089662	Autohaus Heinrich Gramling GmbH & Co. KG		Daimlerstraße 4	74731	Walldürn	49.589166	9.380721	1			~TYPE2:22|~TYPE2:22
+1089663	Autohaus Heinrich Gramling GmbH & Co. KG		Daimlerstraße 4	74731	Walldürn	49.589220	9.379673	1			~TYPE2:22|~TYPE2:22
+1089952	Sparkasse Aschaffenburg Miltenberg AdöR	Sparkasse Beratungscenter Miltenberg	Mainstr. 15	63897	Miltenberg	49.703030	9.257590	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091171	Markt Goldbach		Am Wingert 30	63773	Goldbach	49.997753	9.175751	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1092084	Stadtwerke Aschaffenburg	Park + Ride Parkplatz Volksfestplatz Aschaffenburg	Kleine Schönbuschallee 27	63741	Aschaffenburg	49.971655	9.135195	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092085	Stadtwerke Aschaffenburg	Park + Ride Parkplatz Volksfestplatz Aschaffenburg	Kleine Schönbuschallee 27	63741	Aschaffenburg	49.971601	9.135202	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092811	REWE Kornelius Golbik oHG		Hauptstraße 89	63856	Bessenbach	49.972123	9.254204	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1092996	Grundstücksgemeinschaft		Am Mattes 5	63773	Goldbach	49.998730	9.175130	1			~TYPE2_TETHERED:22+SCHUKO:22|~TYPE2_TETHERED:22+SCHUKO:22|~TYPE2_TETHERED:22
+1093109	Mainsite GmbH & Co. KG		Glanzstoffstraße 0	63906	Erlenbach	49.834330	9.151350	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1093111	Mainsite GmbH & Co. KG		Glanzstoffstraße 0	63906	Erlenbach	49.832090	9.155730	1			~TYPE2:11|~TYPE2:11
+1096468	Auto Nees GmbH		Obernburger Str. 121	63811	Stockstadt am Main	49.967369	9.074207	1			~CCS2:22|~TYPE2:11
+1096476	Auto Schenk GmbH		Miltenberger Str. 60	63920	Großheubach	49.720923	9.231051	1			~CCS2:22|~TYPE2:11
+1096564	Autohaus Berres-Hirsch GmbH		Gewerbegebiet 0	63928	Eichenbühl	49.706630	9.322110	1			~CCS2:22|~TYPE2:11
+1096609	Autohaus Ehingen GmbH		Lohrer Str. 2	63860	Rothenbuch	49.972756	9.400356	1			~CCS2:22|~TYPE2:11
+1096851	Autohaus Link GmbH		Aufseßring 26	63925	Laudenbach	49.738420	9.180444	1			~CCS2:22|~TYPE2:11
+1097353	Günter Schmitt GmbH & Co.KG		Aschaffenburger Str. 124	63773	Goldbach	49.997773	9.188770	1			~CCS2:22|~TYPE2:11|~TYPE2:11|~CCS2:22
+1097551	Treffpunkt Thierolf GmbH & Co. KG		Aschaffenburger Str. 71	64739	Höchst im Odenwald	49.804625	9.000506	1			~CCS2:22|~TYPE2:11
+1100814	Tesla Germany GmbH		Saaläckerstraße 2A	63801	Kleinostheim	49.994026	9.070627	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102523	RTA-Kon GmbH		Miltenberger Str. 28	63925	Laudenbach	49.739472	9.180022	1			~TYPE2_TETHERED:11
+1102555	Team Pilz GmbH		Danziger Str 5	64732	Bad König	49.751310	9.001890	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1103194	Richter+Frenzel GmbH + Co. KG	Aschaffenburg	Benzstr. 1	63741	Aschaffenburg	49.982883	9.110496	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11
+1103508	Jens Hümpfner		Falkenweg 17	63741	Aschaffenburg	49.990838	9.120572	1	24/7	Nur für Kunden/Besucher	DE*CIQ*E3JWYTU5MJEE9*1~TYPE2:11
+1104136	Hubert Hennig		Eichbergstr. 6	97896	Freudenberg	49.764846	9.403024	1			~TYPE2:11
+1104137	Hubert Hennig		Johannisstr. 2	63930	Neunkirchen	49.687873	9.398139	1			~CCS2:25
+1104138	Hubert Hennig		Eichbergstrasse 6	97896	Freudenberg	49.764842	9.403105	1			~TYPE2:22
+1104150	Hotel Jägerhof		Hauptstr. 223	63879	Weibersbrunn	49.933732	9.355585	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1105948	MTV Förster GmbH & Co. KG		Landstraße 6 A	63939	Wörth am Main	49.797776	9.156577	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1106424	E.ON Drive GmbH		Am Mühlweg 2	63820	Elsenfeld	49.843318	9.161025	1			~TYPE2:11|~TYPE2:22
+1106599	E.ON Drive GmbH		Hauptstraße 200	63872	Heimbuchenthal	49.881810	9.294672	1			~TYPE2:11|~TYPE2:22
+1109849	Markt Großostheim		Am Kirchberg 1	63762	Großostheim	49.917801	9.079583	1			~TYPE2:22|~TYPE2:22
+1109996	Hermann Arnold GmbH		Großostheimer Str. 90	63741	Aschaffenburg	49.959566	9.123806	1			~TYPE2:22|~TYPE2:22
+1110019	Gebrüder Eirich GmbH & Co KG		Walldürner Straße 49	74736	Hardheim	49.606811	9.469433	1			~TYPE2:22|~TYPE2:22
+1110020	Gebrüder Eirich GmbH & Co KG		Walldürner Straße 50	74736	Hardheim	49.606759	9.472557	1			~TYPE2:22|~TYPE2:22
+1110260	HENRICI Sportwagen GmbH		Berliner Allee 2	63739	Aschaffenburg	49.965057	9.172662	1			~CCS2:320+CHADEMO:320|~CCS2:320+CHADEMO:320
+1110434	Stadtwerke Walldürn GmbH		Klosterstr. 16	74731	Walldürn	49.583449	9.366181	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1112680	Hyundai Motor Deutschland GmbH		Aschaffenburger Straße 32	63768	Hösbach	49.998240	9.231226	1			~TYPE2:11
+1112786	steep GmbH		Aschaffenburger Straße 32	63768	Hösbach	49.998195	9.231236	1			~TYPE2:22|~TYPE2:22
+1113001	Alois Ullrich GmbH		Odenwaldstr. 4	63897	Miltenberg-Breitendiel	49.693940	9.220960	1			~CCS2:50|~CCS2:50
+1113059	Autohaus Lademann GmbH		Hettinger Straße 26	74722	Buchen	49.522174	9.331810	1			~CCS2:50|~TYPE2:22|~TYPE2_TETHERED:44
+1113096	Bretz & Hufer Gebäudesystemtechnik GmbH		Am Altenbach 4	63834	Sulzbach	49.919193	9.152818	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1113247	Tesla Germany GmbH		Hauptstr. 231	63879	Weibersbrunn	49.934838	9.353749	1	24/7	Keine Beschränkung	DE*TSL*E000DDR~CCS2:250|DE*TSL*E000DDX~CCS2:250|DE*TSL*E000DDV~CCS2:250|DE*TSL*E000DDT~CCS2:250|DE*TSL*E000DEF~CCS2:250|DE*TSL*E000DEH~CCS2:250|DE*TSL*E000DEJ~CCS2:250|DE*TSL*E000DEL~CCS2:250|DE*TSL*E000DE7~CCS2:250|DE*TSL*E000DE9~CCS2:250|DE*TSL*E000DEB~CCS2:250|DE*TSL*E000DED~CCS2:250|DE*TSL*E000DDZ~CCS2:250|DE*TSL*E000DE1~CCS2:250|DE*TSL*E000DE3~CCS2:250|DE*TSL*E000DE5~CCS2:250
+1113627	Paradiso Indoorspielplatz GmbH		Kilgenmühle 3	74722	Buchen	49.521565	9.331856	1			~TYPE2_TETHERED:7.4|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:7.4
+1113708	Emre Yüksel		Rothigstraße 8	74722	Buchen	49.540248	9.327668	1			~TYPE2:11
+1113843	JS Holding GmbH		Heimathenhof 2 2	63872	Bayern - Heimbuchenthal	49.877688	9.279270	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113872	Ambulanter Pflegedienst Hand in Hand GmbH		Walldürner Str. 5	74722	Buchen	49.523275	9.322233	1			~TYPE2:11|~TYPE2:11
+1113873	Ambulanter Pflegedienst Hand in Hand GmbH		Walldürner Str. 5	74722	Buchen	49.523694	9.321958	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113949	Clemens Junker		Umenhofstrasse 38	63743	Aschaffenburg	49.980663	9.135555	1			~TYPE2_TETHERED:11+SCHUKO:11|~TYPE2_TETHERED:11
+1114322	Peter Park System GmbH		Bürgstädter Str. 26	63897	Miltenberg	49.705523	9.263915	1			~TYPE2:22|~TYPE2:22
+1116918	Seehotel Niedernberg	Seehotel GmbH & Co.KG	Leerweg 1	63843	Niedernberg	49.902820	9.139130	1	24/7	Keine Beschränkung	EZ85Z~TYPE2:22|ESDG7~TYPE2:22|EY8KB~TYPE2:22|EPY3J~TYPE2:22|E9ZGV~TYPE2:22|ER1P1~TYPE2:22|E4EMQ~TYPE2:22|E2AXY~TYPE2:22|EB4DY~TYPE2:22|EB4DY~TYPE2:22|E447X~TYPE2:22|EPY3J~TYPE2:22|E9ZGV~TYPE2:22|ER1P1~TYPE2:22
+1117026	Markt Großostheim	Musikschule Kanzleistraße	Kanzleistr. 2	63762	Großostheim	49.918390	9.078380	1	24/7	Keine Beschränkung	DE*BEM*E0010248~TYPE2:22|DE*BEM*E0010249~TYPE2:22
+1117514	EWE Go GmbH	McD_0247_1A	Berliner Allee 1	63739	Aschaffenburg	49.965630	9.171820	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1120084	EnBW mobility+ AG und Co.KG		Kulmbacher Str. 1	63743	Aschaffenburg	49.961997	9.173090	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1120373	L'Erba Voglio Events & Catering		Bayreuther Str. 14	63743	Aschaffenburg	49.965360	9.175770	1	Mo-Fr 08:00-17:00	Keine Beschränkung	~TYPE2:22
+1120444	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG	Bürgstadt - Große Maingasse 4	Große Maingasse 4	63927	Bürgstadt	49.715840	9.266050	1	24/7	Keine Beschränkung	DE*LVP*E21966*001~TYPE2_TETHERED:22|DE*LVP*E21966*002~TYPE2_TETHERED:22
+1121171	Fastned Deutschland GmbH & Co. KG		Walther-Rathenau-Allee 24	64720	Michelstadt	49.691268	9.003184	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1121617	Markt Goldbach	Parkplatz Borngasse	Borngasse 19	63773	Goldbach	49.999330	9.181340	1	24/7	Keine Beschränkung	DE*ONE*E57XD~TYPE2:22
+1125707	Pfalzwerke AG	D-Netz Petra Hübner Buchen	Hettinger Str. 25	74722	Buchen (Odenwald)	49.522032	9.336892	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01511*01~CCS2:400|DE*PDN*EALP22541X01511*02~CCS2:400
+1125708	Pfalzwerke AG	D-Netz Petra Hübner Buchen	Hettinger Str. 25	74722	Buchen (Odenwald)	49.522018	9.336978	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01512*01~CCS2:400|DE*PDN*EALP22541X01512*02~CCS2:400
+1126166	Porsche Zentrum Aschaffenburg	Porsche Zentrum Aschaffenburg	Berliner Allee 2	63739	Aschaffenburg	49.965320	9.172670	1	24/7	Keine Beschränkung	EJB99~CCS2:300|EU6KX~CCS2:300
+1126878	Pfalzwerke AG	XXXLutz Obernburg (ALP22270X00914)	Römerstr. 115	63785	Obernburg a. Main	49.851934	9.153415	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00914*01~CCS2:300|DE*PWA*EALP22270X00914*02~CCS2:300|DE*PWA*EALP22537X01408*01~CCS2:50|DE*PWA*EALP22537X01408*02~CCS2:50
+1126879	Pfalzwerke AG	XXXLutz Obernburg (ALP22270X01405)	Römerstr. 115	63785	Obernburg a. Main	49.851763	9.153348	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01405*01~CCS2:300|DE*PWA*EALP22270X01405*02~CCS2:300
+1126880	Pfalzwerke AG	XXXLutz Obernburg (ALP22270X01406)	Römerstr. 115	63785	Obernburg a. Main	49.851832	9.153385	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01406*01~CCS2:300|DE*PWA*EALP22270X01406*02~CCS2:300
+1126882	Pfalzwerke AG	XXXLutz Obernburg (ALP22537X01409)	Römerstr. 115	63785	Obernburg a. Main	49.851980	9.153438	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01409*01~CCS2:50|DE*PWA*EALP22537X01409*02~CCS2:50
+1127002	CUBOS Service GmbH	2558	Schillerstr. 109	63741	Aschaffenburg	49.984916	9.132488	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1127034	MVV Energie AG	MaLIS_Walldürn_Würzburger Straße	Würzburger Str. 10-18	74731	Walldürn	49.581891	9.375302	1	24/7	Keine Beschränkung	DE*MVV*E00587*L1~CCS2:75|DE*MVV*E00587*R1~CCS2:75
+1127463	König System- & Elektrotechnik GmbH		Borngasse 10	63762	Großostheim	49.909250	9.058100	1	24/7	Nur für Kunden/Besucher	EURG1~TYPE2:22|ELQ85~TYPE2:22
+1127792	IWS-Monjé	Welpeq Mainaschaff	Kreuzäcker-Ring 17	63814	Mainaschaff	49.983262	9.101261	1	24/7	Keine Beschränkung	DE*ONE*EE8LX~TYPE2:11|DE*ONE*E2A9K~TYPE2:11
+1127953	IWS-Monjé	Welpeq Mainaschaff	Kreuzäcker-Ring 17	63814	Mainaschaff	49.983293	9.101203	1	24/7	Keine Beschränkung	DE*ONE*ESY9F~TYPE2:11|DE*ONE*E3XAT~TYPE2:11
+1128126	DRK Buchen		Henry-Dunant-Str. 1	74722	Buchen (Odenwald)	49.518725	9.327683	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1130173	Aral Pulse		Großostheimer Str. 18	64850	Schaafheim	49.924420	9.011910	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1130750	EnBW mobility+ AG und Co.KG		Horchstr. 120	63741	Aschaffenburg	49.980700	9.118310	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131042	Sparkasse Aschaffenburg Miltenberg AdöR		Erlenbacher Str. 2a	63820	Elsenfeld	49.841900	9.158300	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1131056	Sparkasse Aschaffenburg Miltenberg AdöR		Presentstr. 16a	63939	Wörth a. Main	49.789200	9.167400	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1131718	GLS Mobility GmbH	Klinik Schloss Waldleiningen (69427 Mudau) TE200000876	Waldleiningen 18	69427	Mudau	49.567255	9.115935	1	24/7	Keine Beschränkung	DEGLSEMOSKWL0101~TYPE2:22|DEGLSEMOSKWL0102~TYPE2:22|DEGLSEMOSKWL0201~TYPE2:22|DEGLSEMOSKWL0202~TYPE2:22
+1132308	EMS		Hauptstr. 19	63811	Stockstadt a. Main	49.979280	9.063500	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132309	EMS		Ludwig-Straub-Str. 7	63856	Bessenbach	49.969815	9.252954	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132783	Shell Deutschland GmbH	13053420_Buchen	Zu den Dilläckern 136	74722	Buchen (Odenwald)	49.522224	9.336691	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1133318	Renault	Autohaus Ehrlich GmbH	Magnolienweg 38-40	63741	Aschaffenburg	49.969174	9.131575	1	Mo-Fr 08:00-18:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1134006	EnBW mobility+ AG und Co.KG	REWE Wertheim	Willy-Brandt-Str. 19-21	97877	Wertheim	49.758564	9.496492	1	24/7	Keine Beschränkung	DE*EBW*E913289*1~CCS2:150|DE*EBW*E913289*2~CCS2:150|DE*EBW*E913290*1~CCS2:150|DE*EBW*E913290*2~CCS2:150|DE*EBW*E902361*1~CCS2:300|DE*EBW*E902361*2~CCS2:300
+1134471	AVIA Volt	Avia Tankstelle Eschau	In der Quelle 16	63863	Eschau	49.822498	9.259988	1	24/7	Keine Beschränkung	DE*APS*E120009~CCS2:400|DE*APS*E120010~CCS2:400|DE*APS*E120011~CCS2:400|DE*APS*E120012~CCS2:400
+1135048	Landhotel Klingerhof	Landhotel Klingerhof Ladesäule links	Am Hügel 7	63768	Hösbach	49.969500	9.229330	1	24/7	Keine Beschränkung	DE*ONE*E31UZ~TYPE2:22|DE*ONE*EP76W~TYPE2:22
+1135915	Shell Deutschland GmbH		Lorbeerweg 6	63741	Aschaffenburg	49.961467	9.128386	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1137358	HomE of Mobility GmbH	CIBA VISION GmbH · Öffentlicher Parkplatz · AC	Industriering 1	63868	Großwallstadt	49.879490	9.144767	1	24/7	Nur für Kunden/Besucher	DE*HOM*EF00006*031~TYPE2:22|DE*HOM*EF00006*032~TYPE2:22
+1138435	Greenman Energy Operations GmbH & Co. KG	Amorbach 01	Krummwiese 4	63916	Amorbach	49.648261	9.219565	1	24/7	Keine Beschränkung	AT*HTB*E1026295~CCS2:300|AT*HTB*E1026296~CCS2:300|AT*HTB*E1026289~CCS2:300|AT*HTB*E1026290~CCS2:300
+1138603	HomE of Mobility GmbH	Hommel Kaffeesysteme · Aschaffenburg · AC	Magnolienweg 14	63741	Aschaffenburg	49.964953	9.131626	1	24/7	Keine Beschränkung	DE*HOM*E500204*001~TYPE2_TETHERED:11|DE*HOM*E500204*002~TYPE2_TETHERED:11|DE*HOM*E500204*003~TYPE2_TETHERED:11
+1139408	wohnfitz	wohnfitz	Robert-Koch-Str. 1	74731	Walldürn	49.578221	9.372312	1	24/7	Keine Beschränkung	DEFLAE1234704153*1~CCS2:200|DEFLAE1234704153*2~CCS2:200
+1139417	wohnfitz	wohnfitz	Robert-Koch-Str. 1	74731	Walldürn	49.578170	9.372231	1	24/7	Keine Beschränkung	DEFLAE1234703985*1~CCS2:200|DEFLAE1234703985*2~CCS2:200
+1140200	E.ON Drive GmbH		Toni-Schecher-Str. 1	63820	Elsenfeld	49.836675	9.191563	1		Keine Beschränkung	DE*EDR*E22003488*1~TYPE2:11
+1140627	Hubert Hennig	Dorfladen	Wildbachstr. 37a	97896	Freudenberg	49.764255	9.401649	1	24/7	Keine Beschränkung	DE*ISE*EA136896~TYPE2:11|DE*ISE*EA162938~TYPE2:11
+1143583	RH GmbH	ABL_10377961	An der Südbrücke 3	63839	Kleinwallstadt	49.857320	9.166520	1	24/7	Keine Beschränkung	DE*ONE*EFU77~TYPE2:22|DE*ONE*EVB8R~TYPE2:22|DE*ONE*ET4CK~TYPE2:22|DE*ONE*ERD8K~TYPE2:22
+1143687	HomE of Mobility GmbH	Autohaus Adam Wolfert · Bürgstadt · AC,DC	Oberer Steffleinsgraben 8	63927	Bürgstadt	49.707720	9.268830	1	24/7	Keine Beschränkung	DE*HOM*E100501*503~CCS2:22|DE*HOM*E100501*504~CCS2:22|DE*HOM*E100501*002~TYPE2_TETHERED:11
+1144516	deer GmbH	Walldürn Parkhaus	Burgstr. 3	74731	Walldürn	49.583736	9.367020	1	24/7	Keine Beschränkung	DE*753*E09997*001~TYPE2:22|DE*753*E09998*001~TYPE2:22
+1145256	Volksbank Franken eG		Walldürner Str. 17	74722	Buchen (Odenwald)	49.523777	9.323484	1	24/7	Keine Beschränkung	DE*DGV*E003101~TYPE2:22|DE*DGV*E003102~TYPE2:22
+1146051	Stadtwerke Aschaffenburg	Parkplatz Martin-Luther-Straße OT Nilkheim	Martin-Luther-Str. 0	63741	Aschaffenburg	49.963920	9.123032	1	24/7	Keine Beschränkung	DEAVGE004102~TYPE2:22|DEAVGE004101~TYPE2:22
+1146052	Stadtwerke Aschaffenburg	Parkplatz Christian-Schad-Straße	Christian-Schad-Str. 2	63743	Aschaffenburg	49.965718	9.157475	1	24/7	Keine Beschränkung	DEAVGE004201~TYPE2:22|DEAVGE004202~TYPE2:22
+1147228	Entega Plus GmbH	Parkplatz Sporthalle Schaafheim	Wilhelmstr. 1	64850	Schaafheim	49.924190	9.002920	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1148347	Martin Schnabel & Sohn GmbH & Co.KG	Für Mitarbeiter und Mieter	Dr.-Konrad-Wiegand-Str. 8	63939	Wörth a. Main	49.785335	9.171385	1	Mo-Do 07:00-17:00, Fr 07:00-14:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:22
+1148800	Mainova AG	Mainova DC Goldbach Rewe Am Erlengrund	Erlengrund 14	63773	Goldbach	49.997708	9.189064	1		Keine Beschränkung	DE*MNV*E4384225*001~CCS2:300|DE*MNV*E4384225*002~CCS2:300|DE*MNV*E4384224*001~CCS2:150|DE*MNV*E4384224*002~CCS2:150
+1151093	EnBW mobility+ AG und Co.KG	74722 Buchen, Eberstadter Str. 5	Eberstadter Straße 5	74722	Buchen (Odenwald)	49.520980	9.328713	1	24/7	Keine Beschränkung	DE*EBW*E916710*1~CCS2:150|DE*EBW*E916710*2~CCS2:150
+1151660	Wirelane GmbH	Vordere Hart 3 ggü., 63820 Elsenfeld	Vordere Hart 3	63820	Elsenfeld	49.848028	9.168722	1		Keine Beschränkung	DE*WLN*EP000665~TYPE2:22|DE*WLN*EP000666~TYPE2:22
+1152968	Möbel Kempf GmbH & Co. KG	Parkdeck Möbel Kempf Aschaffenburg	Niedernberger Str. 8	63741	Aschaffenburg	49.945930	9.101310	1	Mo-Fr 08:00-19:00, Sa 08:00-18:00	Keine Beschränkung	W4366138 3059301306072A8648CE3D020106082A8648CE3D0301070342000402E71003504DA4DB38F005A39839095CB76B06B4F58A91E092AE418F36B6BFB3E3A4B30052507A74B918622~TYPE2:22|W4366332 3059301306072A8648CE3D020106082A8648CE3D030107034200047BC139B0193F63863CFC1CB4AA6820EA374D71A3A8064723B33E41BE6043DB9C9941E42EE0EE3D21302C1B7~TYPE2:22|W4376249 3059301306072A8648CE3D020106082A8648CE3D03010703420004BA7621C8FED98134232EAB1E0FB54C4DEF99E79EC9FE50020DEE300066CC989229C329F975434A2B2520548~TYPE2:22|W4376119 3059301306072A8648CE3D020106082A8648CE3D030107034200047621719DEC068A3D9265937DC6248C57F4DA57F9EC19DFD61873552AC9270ED98C5EE3E690A4228CD311780~TYPE2:22|E2X94~CCS2:49|EEQ1P~CCS2:49
+1154858	Entega Plus GmbH		Wilhelm-Leuschner-Str. 12-14	64850	Schaafheim	49.921480	9.007590	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1154963	EMB Energieversorgung Miltenberg - Bürgstadt GmbH & Co. KG	Bürgstadt - Tabakhalle	Streckfuß 38	63927	Bürgstadt	49.713138	9.274200	1		Keine Beschränkung	DE*LVP*E22571*001~TYPE2:22|DE*LVP*E22571*002~TYPE2:22
+1155002	Blumen Berchtenbreiter	Blumen Berchtenbreiter	Bachstr. 74	63762	Großostheim	49.919500	9.081890	1	24/7	Keine Beschränkung	DE*EFL*EV9928533*C1~TYPE2:22|DE*EFL*EV9928533*C2~TYPE2:22|DE*EFL*EV8045876*C1~TYPE2:22|DE*EFL*EV8045876*C2~TYPE2:22
+1155776	EMS	Landschaftspark Schönbusch	Kleine Schönbuschallee 1	63741	Aschaffenburg	49.964070	9.108910	1	24/7	Keine Beschränkung	DE*CM2*E2001008*AC001~TYPE2:22|DE*CM2*E2001008*AC002~TYPE2:22
+1156796	Stadtwerke Aschaffenburg	Parkplatz Dammer Tor Carré	Heinrich-Böll-Str. 2	63741	Aschaffenburg	49.981463	9.141623	1	24/7	Keine Beschränkung	DEAVGE005101~CCS2:100|DEAVGE005102~CCS2:100
+1157420	Qwello Deutschland GmbH		Theodor-Heuss-Straße 2	63741	Aschaffenburg	49.963303	9.126781	1	24/7	Keine Beschränkung	DEQRME77JGJ11~TYPE2_TETHERED:11+TYPE2:22|DEQRME77JGJ31~TYPE2_TETHERED:11+TYPE2:22|DEQRME77JGJ21~TYPE2_TETHERED:11+TYPE2:22|DEQRME77JGJ41~TYPE2_TETHERED:11+TYPE2:22
+1157424	Qwello Deutschland GmbH		Schoberstraße 35	63743	Aschaffenburg	49.967297	9.161812	1	24/7	Keine Beschränkung	DEQRME93J6W11~TYPE2_TETHERED:11+TYPE2:22|DEQRME93J6W21~TYPE2_TETHERED:11+TYPE2:22
+1157426	Qwello Deutschland GmbH		Grünewaldstraße 9	63739	Aschaffenburg	49.974739	9.156468	1	24/7	Keine Beschränkung	DEQRMEP329911~TYPE2:22|DEQRMEP329912~TYPE2:22
+1157439	Qwello Deutschland GmbH		Matthäusstraße 1	63743	Aschaffenburg	49.960842	9.160843	1	24/7	Keine Beschränkung	DEQRME93JCP11~TYPE2_TETHERED:11+TYPE2:22|DEQRME93JCP21~TYPE2_TETHERED:11+TYPE2:22|DEQRME93JCP41~TYPE2_TETHERED:11+TYPE2:22|DEQRME93JCP31~TYPE2_TETHERED:11+TYPE2:22
+1157443	Qwello Deutschland GmbH		Lamprechtstraße 4	63739	Aschaffenburg	49.971432	9.149280	1	24/7	Keine Beschränkung	DEQRMEVM45G11~TYPE2:22|DEQRMEVM45G12~TYPE2:22
+1157477	Qwello Deutschland GmbH		Platanenallee 19	63739	Aschaffenburg	49.976765	9.154580	1	24/7	Keine Beschränkung	DEQRMEF48XW11~TYPE2:22|DEQRMEF48XW12~TYPE2:22
+1158357	W&K Gesellschaft für Industrietechnik mbH		Frankenstr. 1	97906	Faulbach	49.789896	9.435817	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1158946	Elektro Hahn	Ladestation am Kurpark	An den Seen 33	64732	Bad König	49.740265	9.000427	1	24/7	Keine Beschränkung	DE*8VO*EAC0001396*1~TYPE2:22|DE*8VO*EAC0001396*2~TYPE2:22
+1159222	Ladepark Großwallstadt @ Schera GmbH	Ladepark Großwallstadt	Grundtalring 22	63868	Großwallstadt	49.872385	9.150308	1	24/7	Keine Beschränkung	DE*ONE*E11QE~TYPE2_TETHERED:22|DE*ONE*EK3SU~TYPE2_TETHERED:22|DE*ONE*EH6U6~TYPE2_TETHERED:22|DE*ONE*EN9EA~TYPE2_TETHERED:22|DE*ONE*ETR4T~TYPE2_TETHERED:22|DE*ONE*EYH1N~TYPE2_TETHERED:22|DE*ONE*E86KK~TYPE2_TETHERED:22|DE*ONE*ELW1D~TYPE2_TETHERED:22|DE*ONE*EGYM8~TYPE2_TETHERED:22|DE*ONE*E6HM6~TYPE2_TETHERED:22|DE*ONE*EA5QA~TYPE2_TETHERED:22|DE*ONE*EQA49~TYPE2_TETHERED:22|DE*ONE*E76T4~TYPE2_TETHERED:22|DE*ONE*EV7VV~TYPE2_TETHERED:22|DE*ONE*E385V~TYPE2_TETHERED:22|DE*ONE*EYQ6J~TYPE2_TETHERED:22|DE*ONE*E19L8~TYPE2_TETHERED:22|DE*ONE*EQ2B8~TYPE2_TETHERED:22|DE*ONE*ES7YR~TYPE2_TETHERED:22|DE*ONE*E9CQP~TYPE2_TETHERED:22
+1159728	eze.network GmbH	TTA001008	Güterberg 8	63739	Aschaffenburg	49.970218	9.145508	1	24/7	Keine Beschränkung	DE*EZE*ETTA001008*01~TYPE2:22|DE*EZE*ETTA001008*02~TYPE2:22
+1159730	eze.network GmbH	TTA001009	Am Dreispitz 32	63741	Aschaffenburg	49.973566	9.115274	1	24/7	Keine Beschränkung	DE*EZE*ETTA001009*01~TYPE2:22|DE*EZE*ETTA001009*02~TYPE2:22
+1159732	eze.network GmbH	TTA001010	Augasse 44	63741	Aschaffenburg	49.970568	9.114720	1	24/7	Keine Beschränkung	DE*EZE*ETTA001010*01~TYPE2:22|DE*EZE*ETTA001010*02~TYPE2:22
+1159734	Stadtwerke Wertheim Erneuerbare Energien GmbH	Wertheim - Fa. Schuller - Johns Manville	Werner-Schuller-Str. -	97877	Wertheim	49.787445	9.498270	1		Keine Beschränkung	DE*LVP*E22460*001~TYPE2:22|DE*LVP*E22460*002~TYPE2:22|DE*LVP*E22458*001~TYPE2:22|DE*LVP*E22458*002~TYPE2:22
+1160159	Shell Deutschland GmbH	Shell Aschaffenburg Schillerstr. 58	Schillerstr. 58	63741	Aschaffenburg	49.986957	9.140248	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1162021	Energielösung GmbH		Friedenstr. 2	63924	Kleinheubach	49.720228	9.214592	1	24/7	Keine Beschränkung	DE*BEM*E0011506~TYPE2:11|DE*BEM*E0011507~TYPE2:11
+1162069	Energielösung GmbH		In den Seegärten 1	63920	Großheubach	49.724766	9.225225	1	24/7	Keine Beschränkung	DE*BEM*E0011498~TYPE2:11
+1162862	Stadtwerke Aschaffenburg	Parkplatz Hensbachstraße	Hensbachstr. 0	63743	Aschaffenburg	49.957123	9.166101	1	24/7	Keine Beschränkung	DEAVGE004301~TYPE2:22|DEAVGE004302~TYPE2:22
+1163791	EWE Go GmbH	McD_1880_1A	An der Frühlingslust 5	63811	Stockstadt a. Main	49.958635	9.078662	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200

@@ -1,0 +1,135 @@
+1002956	Bürger Energie Erzgebirge eG		Bahnhofstraße 45B	09430	Drebach	50.702934	13.056297	1			~TYPE2:22
+1002957	Bürger Energie Erzgebirge eG		Am Kurpark 1	09488	Thermalbad Wiesenbad	50.619953	13.045588	1			~TYPE2:22
+1002960	Bürger Energie Erzgebirge eG		Bahnhofstraße 45B	09430	Drebach	50.703016	13.056185	1			~TYPE2:11
+1002961	Bürger Energie Erzgebirge eG		Straße der Jugend 9	09430	Drebach	50.674789	13.013633	1			~TYPE2:11|~TYPE2:11
+1004452	SachsenEnergie AG		In der Hütte 8	09526	Olbernhau	50.649267	13.367727	1		Keine Beschränkung	DE*SAE*E7234*01~TYPE2:22|DE*SAE*E7234*02~TYPE2:22
+1004453	SachsenEnergie AG		Markt 5F	09526	Olbernhau	50.660211	13.335670	1		Keine Beschränkung	DE*SAE*E7312*01~TYPE2:22|DE*SAE*E7312*02~TYPE2:22
+1009063	Shell Deutschland GmbH		Leipziger Str. 5 B	09603	Großschirma	50.987297	13.274759	1			~CCS2:360|~CCS2:360
+1009065	Shell Deutschland GmbH		Leipziger Str. 5 B	09603	Großschirma	50.987689	13.274877	1			~CCS2:360|~CCS2:360
+1010313	e-con AG		Zinnwalder Str. 3	09623	Fauenstein	50.816117	13.481261	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:16.5|~TYPE2_TETHERED:16.5
+1011392	Comfort Charge		Franz-Kögler-Ring 18h	09599	Freiberg	50.904067	13.317400	1			~CCS2:150|~CCS2:100|~TYPE2:22
+1021788	EWE Go GmbH	McD_1055_1A	Chemnitzer Str. 36	09456	Annaberg-Buchholz	50.591850	13.011058	1	24/7	Keine Beschränkung	DE*2GO*EMCD1055*1A*1~CCS2:150|DE*2GO*EMCD1055*1A*2~CCS2:150
+1021936	EWE Go GmbH		Häuersteig 8a	09599	Freiberg	50.895958	13.332225	1			~CCS2:160|~CCS2:160
+1026497	EnBW mobility+ AG und Co.KG		Dresdnerstr 52	09599	Freiberg	50.914105	13.362584	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026982	EnBW mobility+ AG und Co.KG		Großhartmannsdorfer Straße 9A	09618	Brand-Erbisdorf	50.858593	13.320599	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1032488	envia Mitteldeutsche Energie AG	SL00869	Markt 11a	09669	Frankenberg	50.912110	13.032813	1	24/7	Keine Beschränkung	DE*ISE*E0004719~TYPE2:22|DE*ISE*E0004720~TYPE2:22
+1032499	envia Mitteldeutsche Energie AG	SL00991	Neumarkt 2	09405	Zschopau	50.747407	13.069029	1	24/7	Keine Beschränkung	DE*ISE*E0022447~TYPE2:22|DE*ISE*E0022476~TYPE2:22
+1032545	envia Mitteldeutsche Energie AG	KP01206	Hauptstr. 73	09548	Kurort Seiffen	50.648439	13.448245	1	24/7	Keine Beschränkung	DE*ISE*E0004732~TYPE2:22|DE*ISE*E0004731~TYPE2:22
+1032548	envia Mitteldeutsche Energie AG	KP00955	Bahnhofstr. 1	09669	Frankenberg	50.911257	13.042743	1	24/7	Keine Beschränkung	DE*ISE*E0004537~TYPE2:22|DE*ISE*E0004538~TYPE2:22
+1032552	envia Mitteldeutsche Energie AG	KP00950	An der Rodelbahn 3	09573	Augustusburg	50.818280	13.099683	1	24/7	Keine Beschränkung	DE*ISE*E0005402~TYPE2:22|DE*ISE*E0005401~TYPE2:22
+1032553	envia Mitteldeutsche Energie AG	KP01229	Augustusburger Str. 77	09557	Flöha	50.850405	13.077082	1	24/7	Keine Beschränkung	DE*ISE*E0004526~TYPE2:22|DE*ISE*E0004525~TYPE2:22
+1032554	envia Mitteldeutsche Energie AG	KP01202	Annaberger Str. 12	09429	Wolkenstein	50.658003	13.065473	1	24/7	Keine Beschränkung	DE*ISE*E0004776~TYPE2:22|DE*ISE*E0004775~TYPE2:22
+1032571	envia Mitteldeutsche Energie AG	KP01214	Altmarkt 1	09569	Oederan	50.860755	13.166877	1	24/7	Keine Beschränkung	DE*ISE*E0004808~TYPE2:22|DE*ISE*E0004807~TYPE2:22
+1032589	envia Mitteldeutsche Energie AG	PP00637	Schloßallee 1	09577	Niederwiesa	50.883357	13.008531	1	24/7	Keine Beschränkung	DE*ISE*E0005381~TYPE2:22|DE*ISE*E0005382~TYPE2:22
+1032617	envia Mitteldeutsche Energie AG	PP00615	Schloß 1	09573	Augustusburg	50.812197	13.100850	1	24/7	Keine Beschränkung	DE*ISE*E0004487~TYPE2:22|DE*ISE*E0004488~TYPE2:22
+1032630	envia Mitteldeutsche Energie AG	PO00152	Marktstr. 6 L	09661	Hainichen	50.973609	13.122695	1	24/7	Keine Beschränkung	DE*ISE*E0004448~TYPE2:22|DE*ISE*E0004447~TYPE2:22
+1034329	FLEXIVA automation & Robotik GmbH		Gewerbering Süd 1	09439	Amtsberg	50.742315	13.005666	1			~TYPE2:22|~TYPE2:22
+1037568	Citywatt GmbH		Waldstraße 23	09573	Augustusburg	50.802955	13.098611	1			~TYPE2:22|~TYPE2:22
+1043738	Allego		Häuersteig 10	09599	Freiberg	50.895337	13.330942	1		Keine Beschränkung	DEALLEGO003466*1~CCS2:150|DEALLEGO003466*2~CCS2:50
+1048528	Lidl		August-Bebel-Str. 1	09661	Hainichen	50.967400	13.119800	1			~TYPE2:22|~TYPE2:22
+1051234	Danpower-Gruppe		Am Markt 2	09557	Flöha	50.851885	13.071651	1			~TYPE2:22|~TYPE2:22
+1056152	eins energie in sachsen GmbH & Co. KG		Gewerbering 4	09456	Annaberg-Buchholz	50.598644	13.019199	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056156	eins energie in sachsen GmbH & Co. KG		Dresdner Straße 58	09599	Freiberg	50.913554	13.368289	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056158	eins energie in sachsen GmbH & Co. KG		An den Anlagen 0	09405	Zschopau	50.747817	13.072780	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056175	eins energie in sachsen GmbH & Co. KG		An der Autobahn 2	09669	Frankenberg	50.918172	13.037873	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056179	eins energie in sachsen GmbH & Co. KG		Am Heizhaus 19	09405	Zschopau	50.756082	13.073106	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056180	eins energie in sachsen GmbH & Co. KG		Launer Ring 9	09405	Zschopau	50.754724	13.068593	1			~TYPE2:22|~TYPE2:22
+1056188	eins energie in sachsen GmbH & Co. KG		Straubeweg 1	09405	Zschopau	50.756832	13.069817	1			~TYPE2:22|~TYPE2:22
+1056317	Saydaer Energie Werke GmbH	am Heizhaus SEW GmbH Sayda	Am Wasserturm 12A	09619	Sayda	50.709114	13.425786	1	24/7	Keine Beschränkung	DE*MDS*E003395~TYPE2:22|DE*MDS*E003614~TYPE2:22|DE*MDS*E003754~TYPE2:22|DE*MDS*E003648~TYPE2:22
+1065246	SY Electric GmbH		Ratsstraße 11	09496	Marienberg	50.651036	13.160745	1			~TYPE2:11
+1066629	SB Handelsgesellschaft Nordbayern-Sachsen-Thüringen mbH		Mohorner Höhe 2	01723	Wilsdruff	50.994201	13.455610	1			~TYPE2:22|~CCS2:50
+1066741	Esso Station		Dresdner Straße 40	09599	Freiberg	50.915360	13.358870	1			~CCS2:150|~CCS2:150
+1066778	mobilforum GmbH | BMW Vertragshändler		Häuersteig 25	09599	Freiberg	50.898548	13.329248	1			~TYPE2:22|~TYPE2:22
+1066864	LADEFIX		Chemnitzer Straße 50b	09405	Zschopau	50.750230	13.068595	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1068149	ATM Reparaturzentrum		Äußere Hainichner Straße 5a	09669	Frankenberg	50.930410	13.064080	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068979	Olaf Opp		Am Birkenwald 5	09661	Rossau	50.966461	13.015570	1			~TYPE2:11
+1070943	Stadtwerke Freiberg AG		Am Bahnhof 3	09599	Freiberg	50.908000	13.436000	1			~TYPE2:22|~TYPE2:22
+1070944	Stadtwerke Freiberg AG		Hornstr. 9z	09599	Freiberg	50.916412	13.347121	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1070946	Stadtwerke Freiberg AG		Fischerstraße 17	09599	Freiberg	50.915310	13.343014	1			~TYPE2:11|~TYPE2:11
+1070948	Stadtwerke Freiberg AG		Beethovenstr. 0	09599	Freiberg	50.917144	13.338410	1			~TYPE2:11|~TYPE2:11
+1070949	Stadtwerke Freiberg AG		Beethovenstr. 0	09599	Freiberg	50.917192	13.338412	1			~TYPE2:11|~TYPE2:11
+1071137	SSS Energietechnik und Netzservice GmbH		Ahornstraße 9	09627	Bobritzsch-Hilbersdorf	50.921439	13.395617	1			~CCS2:50+CHADEMO:50
+1071807	Energieversorgung Marienberg GmbH		Walther-Mehnert-Straße 3	09496	Marienberg	50.652707	13.159200	1			~TYPE2:22|~TYPE2:22
+1072977	Shell Deutschland GmbH	12986472_Mildenau	Gewerbegebiet Nord 2	09456	Mildenau	50.599666	13.062688	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1075893	Marco Feller		Zschopauer Str 15	09496	Marienberg	50.652340	13.161130	1			~TYPE2:22|~TYPE2:22
+1076325	Hotel Freyhof		Mönchsstraße 1	09599	Freiberg	50.921389	13.343667	1			~TYPE2:11|~TYPE2:11
+1076326	Hotel Freyhof		Dresdner Straße 30	09599	Freiberg	50.916255	13.354796	1			~TYPE2:11|~TYPE2:11
+1076866	mobilforum GmbH | BMW Vertragshändler	BMW Freiberg	Häuersteig 25	09599	Freiberg	50.897916	13.330748	1	Mo-Fr 07:00-18:00, Sa 09:00-13:00	Nur für Kunden/Besucher	DE*ISE*EA185464~CCS2:50|DE*ISE*EA136135~TYPE2:22
+1080444	Stadtwerke Annaberg-Buchholz GmbH		Markt 4	09456	Annaberg-Buchholz	50.579947	13.002455	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1080445	Stadtwerke Annaberg-Buchholz GmbH		Robert-Schumann-Straße 1	09456	Annaberg-Buchholz	50.586010	13.014485	1			~TYPE2:22|~TYPE2:22
+1080449	Stadtwerke Annaberg-Buchholz GmbH		Mühle 2a	09488	Thermalbad Wiesenbad	50.620461	13.044742	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1080451	Stadtwerke Annaberg-Buchholz GmbH		Am Dürrenberg 121	09477	Jöhstadt	50.508223	13.098026	1			~TYPE2:22|~TYPE2:22
+1080452	Stadtwerke Annaberg-Buchholz GmbH		Bahnhofstraße 5	09477	Jöhstadt Steinbach	50.556968	13.149529	1			~TYPE2:22|~TYPE2:22
+1080453	Stadtwerke Annaberg-Buchholz GmbH		Markt 183	09477	Jöhstadt	50.514076	13.089592	1			~TYPE2:22|~TYPE2:22
+1080454	Stadtwerke Annaberg-Buchholz GmbH		Schlösselstraße 65	09477	Jöhstadt	50.514422	13.103620	1			~TYPE2:22|~TYPE2:22
+1080456	Stadtwerke Annaberg-Buchholz GmbH		Barbara-Uthmann-Ring 162	09456	Annaberg-Buchholzt	50.592644	13.012971	1			~TYPE2:22|~TYPE2:22
+1080457	Stadtwerke Annaberg-Buchholz GmbH		Heinestraße 14	09569	Oederan	50.863966	13.182831	1			~TYPE2:22|~TYPE2:22
+1080458	Stadtwerke Annaberg-Buchholz GmbH		Neuer Weg 4	09569	Oederan	50.860300	13.179588	1			~TYPE2:22|~TYPE2:22
+1080459	Stadtwerke Annaberg-Buchholz GmbH		Am Sportplatz 6	09488	Neundorf	50.633481	13.008556	1			~TYPE2:22|~TYPE2:22
+1084425	WirMachenEnergie eG	Freiberger Werkstätten	Hainichener Str. 104	09599	Freiberg	50.922003	13.317536	1	24/7	Keine Beschränkung	DE*8VO*EAC0000244*1~TYPE2:22|DE*8VO*EAC0000244*2~TYPE2:22
+1084598	Ana Lilia Garza Rosado		Dresdner Straße 85	09557	Flöha	50.862004	13.088786	1			~TYPE2:11
+1084606	Andre Obst		Am Erlengrund 32	09430	Drebach	50.696334	13.018253	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085005	Bodo Richter		Am Weidenring 8	09627	Bobritzsch-Hilbersdorf	50.911296	13.395061	1			~TYPE2_TETHERED:11
+1085120	Christian Schier		Talstraße 11	09603	Großschirma	50.988140	13.243262	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085347	Der Scheibendoc		Freiberger Straße 29	09526	Olbernhau	50.667666	13.326244	1			~TYPE2_TETHERED:11
+1085396	Dirk Bermuth		Mittelstraße 2	09661	Hainichen	50.978645	13.129487	1			~TYPE2_TETHERED:11
+1086768	Mario Möbius		Bahnhofstraße 12	09573	Leubsdorf	50.821265	13.134623	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1087595	Ronny Därr		Adelsbergweg 19	09127	Chemnitz	50.818399	13.009008	1			~TYPE2_TETHERED:11
+1088450	Roger Lohs		Hauptstr. 95a	09128	Chemnitz	50.840791	13.022334	1			~TYPE2_TETHERED:5
+1088451	Roger Lohs		Hauptstraße 95a	09128	Chemnitz	50.840756	13.022131	1			~TYPE2_TETHERED:6
+1089495	Wohnungsgenossenschaft Freiberg eG		Forstweg 74	09599	Freiberg	50.904684	13.328024	1			~TYPE2:22|~TYPE2:22
+1089496	Wohnungsgenossenschaft Freiberg eG		Franz-Kögler-Ring 81	09599	Freiberg	50.902721	13.322805	1			~TYPE2:22|~TYPE2:22
+1089497	Wohnungsgenossenschaft Freiberg eG		Siedlerweg 1	09599	Freiberg	50.899740	13.342236	1			~TYPE2:22|~TYPE2:22
+1089652	Erlebniswelt Seiffen		Bahnhofstrasse 18b	09548	Kurort Seiffen	50.654399	13.445007	1			~TYPE2:22|~TYPE2:22
+1089805	Hotel Waldesruh - Einzelfirma		Obervorwerk Nr. 1	09514	Pockau-Lengefeld	50.710890	13.175380	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090665	Deutsches Brennstoffinstitut Vermögensverwaltungs-GmbH		Halsbrücker Str. 34	09599	Freiberg	50.929140	13.348080	1			~TYPE2_TETHERED:7.4+SCHUKO:7.4
+1090666	Deutsches Brennstoffinstitut Vermögensverwaltungs-GmbH		Halsbrücker Straße 34	09599	Freiberg	50.928950	13.348130	1			~TYPE2_TETHERED:11
+1091722	AreaCharge	FLOE_WVBG_1_1	Augustusburger Str. 71	09557	Flöha	50.850753	13.075678	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1096601	Autohaus Dittmar Mäke		Gewerbegebiet Süd 4	09618	Brand-Erbisdorf	50.854352	13.320946	1			~CCS2:22|~TYPE2:11
+1096807	Autohaus Krauss GmbH031980,,		Waldkirchener Str. 20	09405	Gornau/Erzgeb.	50.758423	13.053257	1			~CCS2:22|~TYPE2:11
+1097037	Autohaus Schwenzer GmbH		An der Feuerwache 8	09669	Frankenberg/Sa.	50.902584	13.034006	1			~CCS2:22|~TYPE2:11
+1097040	Autohaus Seifert		Gewerbering 1	09456	Annaberg-Buchholz	50.596923	13.020322	1			~TYPE2:11|~CCS2:22
+1097076	Autohaus Stülpner und Kaden OHG		Am Abrahamschacht 9	09496	Marienberg	50.659840	13.151741	1			~CCS2:22|~TYPE2:11
+1097533	Stülpner & Kaden OHG		Dörfelstraße 0	09526	Olbernhau	50.652167	13.352197	1			~CCS2:22|~TYPE2:11
+1097706	Stülpner & Kaden OHG		Dörfelstr. 0	09526	Olbernhau	50.658700	13.342500	1	24/7	Keine Beschränkung	~TYPE2:11+CCS2:22
+1103648	Esso Station		Dresdner Str. 42	09599	Freiberg	50.915070	13.358154	1			~CCS2:22|~TYPE2:11
+1103649	Esso Station		Brander Str. 71	09599	Freiberg	50.901552	13.338065	1			~CCS2:22|~TYPE2:11|~TYPE2:11|~CCS2:22
+1104246	Autohaus Stephan Kaden GmbH		Freiberger Str. 41	09618	Brand-Erbisdorf	50.879085	13.324931	1			~TYPE2:11|~TYPE2:11
+1110489	Emobility East		Kirchstraße 34	09429	Wolkenstein	50.653848	13.049080	1			~TYPE2:11
+1110490	Emobility East		Hinterer Grund 0	09496	Marienberg OT Pobershau	50.640710	13.235620	1			~TYPE2:11
+1110491	Emobility East		Persterstraße 9	09430	Drebach	50.683590	13.020150	1	24/7	Keine Beschränkung	~TYPE2:11
+1110492	Emobility East		Straße der Jugend 2Z	09430	Drebach	50.673220	13.018252	1			~CCS2:50|~CCS2:50
+1110493	Emobility East		An den Anlagen 10Y	09405	Zschopau	50.748119	13.072668	1			~CCS2:50|~CCS2:50
+1112334	Volksbank Mittleres Erzgebirge eG		Zöblitzer Straße 2	09526	Olbernhau	50.661643	13.333254	1			~TYPE2:22|~CCS2:25|~CCS2:25
+1112418	Volksbank Mittleres Erzgebirge eG		Augustusburger Str. 74	09557	Flöha	50.852239	13.075613	1			~TYPE2:22|~CCS2:25|~CCS2:25
+1112512	Autohaus Fischer GmbH & Co. KG		Dresdner Straße 36	09557	Flöha	50.861472	13.084173	1			~TYPE2:11|~TYPE2:11
+1113203	Emobility East		Am Plan 38H	09430	Drebach	50.700269	13.058392	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113204	Emobility East		Am Kurpark 10	09429	Wolkenstein	50.665367	13.077687	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113850	Förderverein Natura Miriquidica e.V.		In der Gasse 3	09496	Marienberg	50.598555	13.298494	1			~TYPE2:11
+1114348	Energiegenossenschaft Chemnitz-Zwickau		Bärensteiner Str. 33	09456	Annaberg-Buchholz	50.564065	13.010748	1			~TYPE2:11
+1114349	Energiegenossenschaft Chemnitz-Zwickau		Bärensteiner Str. 33	09456	Annaberg-Buchholz	50.564376	13.010727	1			~TYPE2:11|~TYPE2:11
+1114630	SolarStromAnlagen S. Rösch Einzelunternehmen		Hauptstraße 77a	09430	Drebach	50.673774	13.018946	1			~TYPE2:11
+1114921	ALDI Nord		Bahnhofstr. 18	09661	Hainichen	50.970990	13.120170	1	24/7	Keine Beschränkung	DE ALN~CCS2:50|DE ALN~CCS2:50
+1119825	Allego		Frauensteiner Str. 55a	09599	Freiberg	50.911391	13.357701	1	24/7	Keine Beschränkung	DEALLEGO003581_1~CCS2:150|DEALLEGO003581_2~CCS2:150
+1120181	Kaufland	2640_KLAND_Freiberg-Sachsen_T54-IT1-4424-016	Bebelplatz 2	09599	Freiberg	50.913890	13.339930	1		Keine Beschränkung	~TYPE2:22|3059301306072A8648CE3D020106082A8648CE3D0301070342000412D077DA7727FFD723F0BE90F90DEBD0DF9A13667CFF370593CA7B7E85CEEF63605CC931E3B1C67B2DC50D06F50F005D~CCS2:50
+1120203	Stadtwerke Freiberg AG	Parkhaus "Tivoli"	Beethovenstr. 15	09599	Freiberg	50.919048	13.337703	1	24/7	Keine Beschränkung	DE*ISE*E0008121~TYPE2:11|DE*ISE*E0015376~TYPE2:11
+1125481	Kaufland	7400_KLAND_T65-IT1-0825-005	Jochen-Köhler-Str. 11	09669	Frankenberg	50.913730	13.030200	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1126167	Stadtwerke Freiberg AG	Parkplatz Geschw.-Scholl-Str.	Geschwister-Scholl-Str. 6	09599	Freiberg	50.921322	13.342580	1	24/7	Keine Beschränkung	DE*ISE*EA199661~CCS2:200|DE*ISE*EA145423~CCS2:200|DE*ISE*EA167873~TYPE2:22
+1126748	EnBW mobility+ AG und Co.KG		Abraham-von-Schönberg-Str. 3	09599	Freiberg	50.921764	13.321191	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1128456	Maik Raebiger e.K.		Forstweg 81	09599	Freiberg	50.904328	13.329307	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1129888	Aral Pulse		Leipziger Str. 43	09599	Freiberg	50.928840	13.327970	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131469	Stadtwerke Freiberg AG	TU Bergakademie Freiberg	Bernhard-von-Cotta-Str. 1	09599	Freiberg	50.925379	13.328881	1	24/7	Keine Beschränkung	DE*ISE*EA123124~TYPE2:22|DE*ISE*EA163945~TYPE2:22
+1135208	TotalEnergies Charging Solutions		Blumenauer Str. 9	09526	Olbernhau	50.662040	13.330130	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50058*002*1~CCS2:200|DE*TCB*E3D9CS50058*002*2~CCS2:200
+1137716	TotalEnergies Charging Solutions		Frankenberger Str. 56	09661	Hainichen	50.968256	13.105461	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50046*002*1~CCS2:200|DE*TCB*E3D9CS50046*002*2~CCS2:200|DE*TCB*E3D9CS50046*001*1~CCS2:200|DE*TCB*E3D9CS50046*001*2~CCS2:200
+1139562	Lebensmittel Ziegler KG		Leipziger Str. 44	09599	Freiberg	50.927314	13.332942	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1139620	envia Mitteldeutsche Energie AG	25BZ2628C	Frauensteiner Str. 73	09599	Freiberg	50.908134	13.363076	1	24/7	Keine Beschränkung	DE*ISE*EA113215~CCS2:100|DE*ISE*EA127547~CCS2:100
+1143122	Lars Steinbach		Mittelgutweg 7	09627	Bobritzsch-Hilbersdorf	50.912337	13.396888	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1147290	Lidl	6620_Lidl_Olbernhau_LS1_QP-20153-0525-060-121-QP-VER.321	Grünthaler Str. 87	09526	Olbernhau	50.652040	13.353970	1	24/7	Nur für Kunden/Besucher	~CCS2:180|~CCS2:180
+1147293	Lidl	6620_Lidl_Olbernhau_LS2_QP-19924-0525-060-121-QP-VER.321	Grünthaler Str. 87	09526	Olbernhau	50.651780	13.353675	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1147564	Emobility East	Dorfplatz Venusberg	Venusberger Hauptstr. 61B	09430	Drebach	50.698667	13.017424	1	24/7	Keine Beschränkung	DE*EME*EEME*0012~CCS2:30
+1148099	Vattenfall Smarter Living GmbH		Chemnitzer Str. 85	09599	Freiberg	50.911163	13.324016	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1151123	SimplyCharge	Zschopau Gartenstraße	Gartenstr. 5	09405	Zschopau	50.746599	13.071226	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1151124	SimplyCharge	Zschopau Marktgäßchen	Marktgäßchen 1	09405	Zschopau	50.747236	13.069691	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1152809	ALDI Nord	ALDI Nord Parkplatz	Dörfelstr. 4	09526	Olbernhau	50.651104	13.351255	1	24/7	Keine Beschränkung	DE-ALN-EDE361228-1-1~CCS2:50|DE-ALN-EDE361228-1-2~CCS2:50
+1153285	Autohaus Kühnert GmbH & Co. KG	Wolkenstein	Hoflindenstr. 1	09429	Wolkenstein	50.674456	13.123987	1	Mo-Fr 07:00-18:00	Nur für Kunden/Besucher	DE*ISE*EA186788~CCS2:50|DE*ISE*EA162275~TYPE2:22
+1158006	advercharge	ST-024-GER-SN Hmm Hainichen	Mittweidaer Str. 109a	09661	Hainichen	50.982071	13.105658	1	24/7	Keine Beschränkung	DE* ADV *E5724937~CCS2:40|DE* ADV *E5724944~CCS2:40

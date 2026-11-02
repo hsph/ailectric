@@ -1,0 +1,466 @@
+1001548	Stadtwerke Bramsche GmbH		Fichtenstr. 1	49565	Bramsche	52.407296	8.003344	1			~TYPE2:22|~TYPE2:22
+1004077	Stadtwerke Bielefeld		Morgenbreede 1	33615	Bielefeld	52.039863	8.491555	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1004095	Stadtwerke Bielefeld		Kreuzberger Straße 17	33619	Bielefeld	52.043938	8.485587	1			~TYPE2:22|~TYPE2:22
+1004509	Stadtwerke Georgsmarienhütte GmbH		Im Loh 44	49124	Georgsmarienhütte	52.226416	8.012492	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1004510	Stadtwerke Georgsmarienhütte GmbH		Brüsseler Str. 3	49124	Georgsmarienhütte	52.223110	8.084421	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1004511	Stadtwerke Georgsmarienhütte GmbH		Am Rathaus 16	49124	Georgsmarienhütte	52.205394	8.066986	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1004512	Stadtwerke Georgsmarienhütte GmbH		Am Markt 24	49124	Georgsmarienhütte	52.203526	8.111614	1			~TYPE2:22|~TYPE2:22
+1011011	Stadtwerke Versmold GmbH		Schulten-Allee 1	33775	Versmold	52.015790	8.100010	1			~TYPE2:22|~TYPE2:22
+1011012	Stadtwerke Versmold GmbH		Wiesenstraße 5	33775	Versmold	52.039185	8.156009	1			~TYPE2:22|~TYPE2:22
+1011013	Stadtwerke Versmold GmbH		Wirrusstraße 4	33775	Versmold	52.040420	8.146044	1			~TYPE2:22|~TYPE2:22
+1011014	Stadtwerke Versmold GmbH		Caldenhofer Weg 26	33775	Versmold	52.050337	8.155542	1			~TYPE2:22|~TYPE2:22
+1011015	Stadtwerke Versmold GmbH		Nordfelstraße 5	33775	Versmold	52.043810	8.146350	1			~TYPE2:22|~TYPE2:22
+1011019	Stadtwerke Versmold GmbH		Gartenstraße 4	33775	Versmold	52.039820	8.152900	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1011022	Stadtwerke Versmold GmbH		Am Kurpark 12	49214	Bad Rothenfelde	52.110030	8.159540	1			~TYPE2:22|~TYPE2:22
+1011023	Stadtwerke Versmold GmbH		Hannoversche Straße 6	49214	Bad Rothenfelde	52.106459	8.163441	1			~TYPE2:22|~TYPE2:22
+1011024	Stadtwerke Versmold GmbH		Große Straße 33	49201	Dissen	52.115663	8.204560	1			~TYPE2:22|~TYPE2:22
+1011025	Stadtwerke Versmold GmbH		Diekmannstraße 0	49201	Dissen	52.115581	8.200829	1			~TYPE2:22|~TYPE2:22
+1011027	Stadtwerke Versmold GmbH		Brüggenkamp 1	33775	Versmold	52.041847	8.147097	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50|~CCS2:50+CHADEMO:50
+1011028	Stadtwerke Versmold GmbH		Ulmenallee 4	49214	Bad Rothenfelde	52.110569	8.163376	1			~TYPE2:22|~TYPE2:22
+1011600	E-Merge Mobility GmbH		Niedersachsenstraße 6	49124	Georgsmarienhütte	52.219088	8.062779	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1012638	Westenergie Metering GmbH		Freistraße 15	33829	Borgholzhausen	52.102030	8.300862	1			~TYPE2:22|~TYPE2:22
+1012647	Westenergie Metering GmbH		Hannoversche Str. 0	49597	Rieste	52.488712	8.060110	1			~TYPE2:22|~TYPE2:22
+1012685	Westenergie Metering GmbH		Hauptstr. 14	49179	Ostercappeln	52.385860	8.167707	1			~TYPE2:22|~TYPE2:22
+1012703	Westenergie Metering GmbH		Grönenberger Str. 0	49324	Melle	52.203330	8.167343	1			~TYPE2:22|~TYPE2:22
+1012708	Westenergie Metering GmbH		Am Wellenbad 0	49324	Melle	52.205116	8.324707	1			~TYPE2:22|~TYPE2:22
+1012711	Westenergie Metering GmbH		Am Freibad 0	49152	Bad Essen	52.318148	8.340083	1			~TYPE2:22|~TYPE2:22
+1012724	Westenergie Metering GmbH		Dr. Maria-Heilmann-Str. 17	49324	Melle	52.204420	8.334560	1			~TYPE2:22|~TYPE2:22
+1012728	Westenergie Metering GmbH		Mühlenstraße 14	49179	Ostercappeln	52.371743	8.213904	1			~TYPE2:22|~TYPE2:22
+1012730	Westenergie Metering GmbH		Lindenstraße 1	49324	Melle	52.198963	8.320524	1			~TYPE2:22|~TYPE2:22
+1012734	Westenergie Metering GmbH		Am Uphof 17	33829	Borgholzhausen	52.102024	8.299246	1			~TYPE2:22|~TYPE2:22
+1012804	Westenergie Metering GmbH		Gartenstr. 14z	49179	Ostercappeln	52.344175	8.223067	1			~TYPE2:22|~TYPE2:22
+1012823	Westenergie Metering GmbH		Wichlinghauser Weg 2	33829	Borgholzhausen	52.100917	8.307067	1			~TYPE2:22|~TYPE2:22
+1012844	Westenergie Metering GmbH		Gustav-Meyer-Weg 26	49191	Belm	52.300821	8.132310	1			~TYPE2:22|~TYPE2:22
+1012846	Westenergie Metering GmbH		Haldemer Str. 48	32351	Stemwede	52.438342	8.388844	1			~TYPE2:22|~TYPE2:22
+1012949	Westenergie Metering GmbH		Industriestr. 3 y	33829	Borgholzhausen	52.085246	8.267184	1			~TYPE2:22|~TYPE2:22
+1012950	Westenergie Metering GmbH		Barenbergweg 9	33829	Borgholzhausen	52.086598	8.289925	1			~TYPE2:22|~TYPE2:22
+1012951	Westenergie Metering GmbH		Industriestraße 3	33829	Borgholzhausen	52.085329	8.267117	1			~TYPE2:22|~TYPE2:22
+1012952	Westenergie Metering GmbH		Am Blömkenberg 1	33829	Borgholzhausen	52.104313	8.297911	1			~TYPE2:22|~TYPE2:22
+1012953	Westenergie Metering GmbH		In der Lake 2	33829	Borgholzhausen	52.095840	8.293885	1			~TYPE2:22|~TYPE2:22
+1013015	Westenergie Metering GmbH		Elisabethstraße 0	49201	Dissen	52.113920	8.197516	1			~TYPE2:22|~TYPE2:22
+1013069	Westenergie Metering GmbH		Bremerstr. 0	49179	Ostercappeln	52.341389	8.221667	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013074	Westenergie Metering GmbH		Burgstraße 7	49448	Lemförde	52.469367	8.375487	1			~TYPE2:22|~TYPE2:22
+1013086	Westenergie Metering GmbH		Mittelstraße 6	49074	Osnabrück	52.274307	8.056303	1			~TYPE2:22|~TYPE2:22
+1013095	Westenergie Metering GmbH		Gartenstraße 8	49152	Bad Essen	52.320000	8.343056	1			~TYPE2:22|~TYPE2:22
+1013194	Westenergie Metering GmbH		Buchhofstraße 13	32351	Stemwede	52.373721	8.456091	1			~TYPE2:22|~TYPE2:22
+1013268	Westenergie Metering GmbH		Osningstr. 0	33829	Borgholzhausen	52.103066	8.311644	1			~TYPE2:22|~TYPE2:22
+1013274	Westenergie Metering GmbH		Philipp-Sigismund-Allee 6	49186	Bad Iburg	52.159355	8.037665	1			~TYPE2:22|~TYPE2:22
+1013291	Westenergie Metering GmbH		Industriestr. 3z	33829	Borgholzhausen	52.085573	8.266862	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013362	Westenergie Metering GmbH		Lechtinger Str. 86 Z	49191	Belm	52.339227	8.114082	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013416	Westenergie Metering GmbH		Bahnhofstraße 1z	49163	Bohmte	52.361053	8.309330	1			~TYPE2:22|~TYPE2:22
+1016419	Auto Service Levern - Classic Tankstelle		Leverner Straße 6	32351	Stemwede-Levern	52.383782	8.445533	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50
+1016421	Autohaus Weitkamp - Mercedes-Benz in Stemwede		Schröttinghauser Str. 23-24	32351	Stemwede-Levern	52.372060	8.446770	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50
+1021846	EWE Go GmbH	McD_1514_1A	Versmolder Str. 10	49201	Dissen am Teutoburger Wald	52.102159	8.197385	1	24/7	Keine Beschränkung	DE*2GO*EMCD1514*1A*1~CCS2:300|DE*2GO*EMCD1514*1A*2~CCS2:300
+1022154	EWE Go GmbH		Klöcknerstraße 14	49124	Georgsmarienhütte	52.206117	8.058751	1			~CCS2:150|~CCS2:150
+1022160	EWE Go GmbH		Industriestraße 14	49324	Melle	52.190434	8.352723	1			~CCS2:300|~CCS2:300
+1022161	EWE Go GmbH		Industriestraße 14	49324	Melle	52.190411	8.352797	1			~CCS2:300|~CCS2:300
+1025204	EnBW mobility+ AG und Co.KG		Autobahnraststätte Grönegau Süd 0	49328	Melle	52.196168	8.386000	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025205	EnBW mobility+ AG und Co.KG		Autobahnraststätte Grönegau Nord 0	49328	Melle	52.197118	8.385400	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1026156	EnBW mobility+ AG und Co.KG		Grönegau Nord 0	49328	Melle	52.197243	8.386626	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026401	EnBW mobility+ AG und Co.KG		Autobahnraststätte Grönegau Süd 0	49328	Melle	52.196209	8.386379	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026472	EnBW mobility+ AG und Co.KG		Hansastraße 81	49090	Osnabrück	52.290199	8.037231	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026772	EnBW mobility+ AG und Co.KG		Hansastraße 81	49090	Osnabrück	52.289217	8.037535	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1027494	EnBW mobility+ AG und Co.KG		Im Steinbruch 6	49124	Georgsmarienhütte	52.203070	8.032370	1			~CCS2:150|~CCS2:150
+1027988	EnBW mobility+ AG und Co.KG		Brüsseler Straße 1B	49124	Georgsmarienhütte	52.222660	8.084771	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1028176	Westfalen Weser Ladeservice GmbH		Pemberville Platz 1	32289	Rödinghausen	52.255000	8.483000	1			~TYPE2:22|~TYPE2:22
+1028216	Westfalen Weser Ladeservice GmbH		Lange Straße 52	32139	Spenge	52.142980	8.483440	1			~TYPE2:22|~TYPE2:22
+1028457	Westfalen Weser Ladeservice GmbH		Marie-Curie-Straß 1	49076	Osnabrück	52.288011	8.015497	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|DE*WWL*E62210*04~TYPE2:11|DE*WWL*E62210*05~TYPE2:11|DE*WWL*E62211*04~TYPE2:11|DE*WWL*E62211*05~TYPE2:11|DE*WWL*E62212*04~TYPE2:11|DE*WWL*E62212*05~TYPE2:11
+1029037	EDEKA-MIHA Charge GmbH		Industriestraße 11	49324	Melle	52.191677	8.355926	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1029042	EDEKA-MIHA Charge GmbH		Industriestraße 11	49324	Melle	52.191664	8.355996	1			~TYPE2:22|~TYPE2:22
+1029063	EDEKA-MIHA Charge GmbH		Undustriestraße 15	32139	Spenge	52.144804	8.491713	1			~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1029074	EDEKA-MIHA Charge GmbH		Iburger Straße 229	49082	Osnabrück	52.246207	8.063141	1			~TYPE2:11|~TYPE2:11
+1030522	Fastned Deutschland GmbH & Co. KG		Wellingholzhausenerstraße 7	49324	Melle	52.194660	8.316410	1			~CCS2:300+SCHUKO:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300
+1030837	Westenergie Metering GmbH		Große Str. 15	49143	Bissendorf	52.281849	8.241818	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030846	Stadtwerke Georgsmarienhütte GmbH	Oeseder Straße - Oesede Süd	Oeseder Str. 123	49124	Georgsmarienhütte	52.200930	8.066610	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1031540	CUBOS Service GmbH		Pottgraben 58/60	49074	Osnabrück	52.270550	8.057542	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031549	CUBOS Service GmbH		Hamburger Str. 10	49084	Osnabrück	52.273567	8.063145	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1032368	Autohaus Becker-Tiemann GmbH & Co. KG		Rothenfelder Str. 55	33775	Versmold	52.052200	8.152920	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25
+1032369	GETEC mobility solutions GmbH		Rahdener Str. 6	32351	Stemwede	52.438309	8.467633	1			~TYPE2:22|~TYPE2:22
+1032370	GETEC mobility solutions GmbH		Rahdener Str. 6	32351	Stemwede-Wehdem	52.438294	8.467754	1			~TYPE2:22|~TYPE2:22
+1032382	GETEC mobility solutions GmbH		Dielinger Str. 1	32351	Stemwede	52.439932	8.341691	1			~TYPE2:22|~TYPE2:22
+1037178	Westfalen AG & Co. KG		Bramscher Straße 134-136	49088	Osnabrück	52.290577	8.039109	1			~TYPE2:22|~TYPE2:22
+1037179	Westfalen AG & Co. KG		Eistruper Feld 2	49143	Bissendorf	52.237762	8.163398	1			~CCS2:75
+1037193	Westfalen AG & Co. KG		Oppendorferstr. 31	32351	Stemwede	52.454189	8.481565	1			~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1037209	Westfalen AG & Co. KG		Am Thie 23	49086	Osnabrück	52.269942	8.106232	1			~TYPE2:11|~CCS2:11
+1037210	Westfalen AG & Co. KG		Am Thie 23	49086	Osnabrück	52.269987	8.105998	1			~TYPE2:11|~CCS2:11
+1037211	Westfalen AG & Co. KG		Am Thie 23	49086	Osnabrück	52.269847	8.106233	1			~TYPE2:11|~CCS2:11|~TYPE2:11|~CCS2:11
+1037212	Westfalen AG & Co. KG		Am Thie 23	49086	Osnabrück	52.269933	8.106000	1			~TYPE2:11|~CCS2:11
+1037249	Westfalen AG & Co. KG		Osnabrücker Straße 4	32289	Rödinghausen	52.200280	8.456700	1			~CCS2:150|~CCS2:150
+1037261	Westfalen AG & Co. KG	Tankstelle	Gesmolder Str. 61	49324	Melle	52.199131	8.325769	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1037367	Citywatt GmbH		Oldenburger Landstraße 1	49090	Osnabrück	52.303690	8.035571	1			~CCS2:300|~CCS2:300|~TYPE2:22
+1037368	Citywatt GmbH		Oldenburger Landstraße 1	49090	Osnabrück	52.303831	8.035485	1			~CCS2:300|~CCS2:300
+1037369	Citywatt GmbH		Oldenburger Landstraße 1	49090	Osnabrück	52.303723	8.035372	1			~CCS2:300|~CCS2:300
+1037370	Citywatt GmbH		Oldenburger Landstraße 1	49090	Osnabrück	52.303677	8.035254	1			~CCS2:300|~CCS2:300
+1037371	Citywatt GmbH		Oldenburger Landstraße 1	49090	Osnabrück	52.303723	8.035136	1			~CCS2:300|~CCS2:300|~TYPE2:22
+1038775	EnBW mobility+ AG und Co.KG		Industriestr. 1	49324	Melle	52.193600	8.350720	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1041235	GP JOULE Connect GmbH	DE*CNT*EP00274*001	In der Welle 3	49565	Bramsche	52.396629	8.032820	1		Keine Beschränkung	DE*CNT*EP00274*001*1~TYPE2:22|DE*CNT*EP00274*002*1~TYPE2:22|DE*CNT*EP00274*003*1~TYPE2:22|DE*CNT*EP00274*004*1~TYPE2:22|DE*CNT*EP00274*005*1~TYPE2:22|DE*CNT*EP00274*006*1~TYPE2:22|DE*CNT*EP00274*007*1~TYPE2:22|DE*CNT*EP00274*008*1~TYPE2:22|DE*CNT*EP00274*009*1~TYPE2:22|DE*CNT*EP00274*010*1~TYPE2:22
+1043003	Allego		Bielefelder Str. 35	49176	Hilter	52.134420	8.150307	1			DEALLEGO000386*1~CCS2:50+CHADEMO:50|DEALLEGO000386*2~TYPE2_TETHERED:43|DEALLEGO003974_1~CCS2:150|DEALLEGO003974_2~CCS2:150
+1043271	Allego		Mittelburgstraße 15	49084	Osnabrück	52.275779	8.073967	1			DEALLEGO002653*1~CCS2:150|DEALLEGO002653*2~CCS2:150
+1043532	Allego		Zum Eistruper Feld 2	49143	Bissendorf	52.237196	8.163372	1		Keine Beschränkung	DEALLEGO002825*1~CCS2:300|DEALLEGO002825*2~CCS2:300
+1043533	Allego		Zum Eistruper Feld 2	49143	Bissendorf	52.237225	8.163312	1		Keine Beschränkung	DEALLEGO002827*1~CCS2:300|DEALLEGO002827*2~CCS2:300
+1043578	Allego		Hannoversche Straße 70	49084	Osnabrück	52.260406	8.076756	1		Keine Beschränkung	DEALLEGO002954*1~CCS2:150|DEALLEGO002954*2~CCS2:150
+1045609	Stadtwerke EVB Huntetal GmbH		Vor der Brücke 26	48448	Stemshorn	52.453714	8.356646	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045718	TEN-eG		Sudendorfer Esch 2	49219	Glandorf	52.078015	8.000733	1			~TYPE2:22|~TYPE2:22
+1045720	TEN-eG		Glandorfer Strasse 5	49196	Bad Laer	52.100453	8.087024	1			~TYPE2:22|~TYPE2:22
+1045721	TEN-eG		Am Thieplatz 2	49196	Bad Laer	52.100412	8.089551	1			~TYPE2:22|~TYPE2:22
+1045723	TEN-eG		Osnabrücker Straße 3	49176	Hilter a.T.W.	52.140054	8.146443	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1045725	TEN-eG		Remseder Straße 5	49196	Bad Laer	52.107834	8.091345	1			~TYPE2:22|~TYPE2:22
+1048734	Lidl	5274_Lidl_Melle_T54-HU1-3820-016	Industriestr. 3	49324	Melle	52.193194	8.353461	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048900	Lidl	6558_Lild_Melle-Bruchmühlen_T54-IT1-1622-138	Spenger Str. 8	49328	Melle	52.199666	8.453987	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1048901	Lidl	6539_Lidl_Halle_T65-IT1-2422-101	Elsa-Brändström-Str. 1	33790	Halle (Westf.)	52.054073	8.373771	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048933	Lidl	5630_Lidl_Osnabrück_T65-IT1-5022-234	Mönkedieckstr. 11-13	49088	Osnabrück	52.299187	8.061235	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048938	Lidl	3929_Lidl_Osnabrück_T65-IT1-4022-211	Hans-Wunderlich-Str. 2	49078	Osnabrück	52.267027	8.001444	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048954	Lidl	8988_Lidl_Osnabrück_T65-IT1-0323-023	Mindener Str. 108	49084	Osnabrück	52.270867	8.086461	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048955	Lidl	8981 _Lidl_T65-IT1-4022-225	Hannoversche Str. 19	49084	Osnabrück	52.265123	8.065501	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1050519	Pfalzwerke AG		Hannoversche Straße 111	49084	Osnabrück	52.258340	8.092250	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1051302	Ladepark Knappmeier		Am Freibad 13	49324	Melle	52.239100	8.322900	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50
+1052029	schnellDC		Große Straße 31z	49134	Wallenhorst	52.350748	8.014213	1			~CCS2:75|~CCS2:75
+1052030	schnellDC		Sonnenhang 15	49214	Bad Rothenfelde	52.115850	8.152730	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053263	Q1 Autostrom	Georgsmarienhütte, Malberger Straße	Malberger Str. 5	49124	Georgsmarienhütte	52.210691	8.038464	1		Keine Beschränkung	DE*Q1A*E48141872~CCS2:150|DE*Q1A*E48141873~CCS2:150|DE*Q1A*E48141874~TYPE2:22
+1053264	Q1 Autostrom	Georgsmarienhütte, Malberger Straße - W	Malberger Str. 5	49124	Georgsmarienhütte	52.210490	8.037840	1	24/7	Keine Beschränkung	DE*Q1A*E48145009~TYPE2:22
+1053266	Q1 Autostrom	Osnabrück, ATG - W	Eduard-Pestel-Str. 2	49080	Osnabrück	52.245683	8.035040	1	24/7	Keine Beschränkung	DE*Q1A*E50009447~TYPE2:22|DE*Q1A*E50009447~TYPE2:22
+1053279	Q1 Autostrom	Mitarbeiterparkplatz I	Rheinstr. 82	49090	Osnabrück	52.289763	8.031696	1	24/7	Keine Beschränkung	DE*Q1A*E50007908~TYPE2:22|DE*Q1A*E50007909~TYPE2:22|DE*Q1A*E48143920~TYPE2:22|DE*Q1A*E48143921~TYPE2:22|DE*Q1A*E50007906~TYPE2:22|DE*Q1A*E50007907~TYPE2:22
+1053291	Q1 Autostrom	Osnabrück, Kurt-Schumacher-Damm 31	Kurt-Schumacher-Damm 31	49078	Osnabrück	52.270003	8.022074	1	24/7	Keine Beschränkung	DE*Q1A*E48141607~CCS2:150|DE*Q1A*E48141608~CCS2:150|DE*Q1A*E48141609~TYPE2:22
+1053305	Q1 Autostrom	Osnabrück, Q1 Hauptgebäude	Rheinstr. 82	49090	Osnabrück	52.290246	8.030744	1	24/7	Keine Beschränkung	DE*Q1A*E48144660~CCS2:25
+1053306	Q1 Autostrom	Osnabrück, KFZ & Reifen Wolke links - W	Bürener Str. 19	49090	Osnabrück	52.297770	8.010200	1	24/7	Keine Beschränkung	~TYPE2:22
+1053307	Q1 Autostrom	Osnabrück, KFZ & Reifen Wolke rechts - W	Bürener Str. 19	49090	Osnabrück	52.297772	8.010106	1	24/7	Keine Beschränkung	DE*Q1A*E3048144977~TYPE2:22
+1054605	Aral Pulse		Hörster Heide 2	49434	Neuenkirchen-Vörden	52.491549	8.078563	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1054980	Aral Pulse		Pagenstecher Str. 50	49090	Osnabrück	52.289386	8.028804	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055344	Aral Pulse		Alte Poststraße 2	49074	Osnabrück	52.276969	8.055313	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1056869	OPG mbH		Alte Münze 0	49074	Osnabrück	52.272700	8.045060	1			~TYPE2:11|~TYPE2:11
+1056871	OPG mbH		Iburger Straße 173	49074	Osnabrück	52.252240	8.062680	1			~TYPE2:22
+1056872	OPG mbH		Gerberhof 10	49074	Osnabrück	52.280240	8.042450	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1056875	OPG mbH		Natruper-Tor-Wall 2	49076	Osnabrück	52.277940	8.037630	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1056878	OPG mbH		Hakenstraße 5	49074	Osnabrück	52.275000	8.043470	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11
+1056882	OPG mbH		Holtstraße 37	49074	Osnabrück	52.268420	8.054740	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056884	OPG mbH		Kommenderiestraße 74	49074	Osnabrück	52.268230	8.050320	1			~TYPE2:22
+1056885	OPG mbH		Lohstraße 9	49074	Osnabrück	52.278710	8.041230	1			~TYPE2:22
+1056886	OPG mbH		Kollegienwall 28	49074	Osnabrück	52.271980	8.051600	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056887	OPG mbH		Theodor-Heuss-Platz 10	49074	Osnabrück	52.271850	8.059750	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1056890	OPG mbH		Am Kamp 62	49074	Osnabrück	52.272681	8.045331	1			~TYPE2:22|~TYPE2:22
+1056891	OPG mbH		Hannoversche Straße 6	49074	Osnabrück	52.264201	8.062141	1			~TYPE2:22|~TYPE2:22
+1056892	OPG mbH		Limberger Straße 42	49080	Osnabrück	52.264201	8.036631	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056893	OPG mbH		Meller Straße 22	49082	Osnbrück	52.265911	8.054911	1			~TYPE2:22|~TYPE2:22
+1056894	OPG mbH		Schlosswall 1	49074	Osnabrück	52.270872	8.041627	1			~TYPE2:22|~TYPE2:22
+1056895	OPG mbH		Heilgenweg 127	49084	Osnabrück	52.280851	8.082961	1			~TYPE2:22|~TYPE2:22
+1056896	OPG mbH		Im Haseesch 6	49090	Osnabrück	52.302016	8.050139	1			~TYPE2:22|~TYPE2:22
+1056897	OPG mbH		Im Nahnerfeld 0	49084	Osnabrück	52.247261	8.064821	1			~TYPE2:22|~TYPE2:22
+1056898	OPG mbH		Alte Poststraße 9	49074	Osnabrück	52.277486	8.054471	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1056900	OPG mbH		Albert-Einstein-Straße 1	49076	Osnabrück	52.287949	8.018689	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056901	OPG mbH		An der Bornau 2	49090	Osnabrück	52.287315	8.031141	1			~TYPE2:22|~TYPE2:22
+1056902	OPG mbH		Natruper-Tor-Wall 2	49076	Osnabrück	52.278258	8.037218	1			~TYPE2:11|~TYPE2:11
+1056903	OPG mbH		Mönkedieckstraße 14	49088	Osnabrück	52.298771	8.060541	1			~TYPE2:22|~TYPE2:22
+1056910	OPG mbH		Am Schölerberg 1	49082	Osnabrück	52.248045	8.071973	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056913	OPG mbH		Alte Münze 18	49074	Osnabrück	52.273000	8.045000	1			~TYPE2:22|~TYPE2:22
+1056914	OPG mbH		Lotter Straße 43	49078	Osnabrück	52.273000	8.035000	1			~TYPE2:22|~TYPE2:22
+1056915	OPG mbH		Kommenderiestraße 74	49074	Osnabrück	52.268000	8.051000	1			~TYPE2:11
+1056916	OPG mbH		Lohstraße 9	49074	Osnabrück	52.279000	8.041000	1			~TYPE2:11|~TYPE2:11
+1056917	OPG mbH		Hakenstraße 5	49075	Osnabrück	52.275000	8.043000	1			~TYPE2:22|~TYPE2:22
+1056918	OPG mbH		Stüve Straße 26	49076	Osnabrück	52.282291	8.040152	1			~TYPE2:11|~TYPE2:11
+1056919	OPG mbH		Schlagvorder Straße 15	49074	Osnabrück	52.273557	8.054529	1			~TYPE2:11|~TYPE2:11
+1056920	OPG mbH		Schlosswall 10	49074	Osnabrück	52.271000	8.041000	1			~TYPE2:11|~TYPE2:11
+1056921	OPG mbH		Im Wegrott 37	49084	Osnabrück	52.282000	8.085000	1			~TYPE2:22|~TYPE2:22
+1056922	OPG mbH		Im Haseesch 6	49090	Osnabrück	52.302000	8.051000	1			~TYPE2:22|~TYPE2:22
+1056924	OPG mbH		Wittekindstraße 2	49074	Osnabrück	52.273288	8.050717	1			~TYPE2:11
+1056925	OPG mbH		Wittekindplatz 1	49134	Wallenhorst	52.336011	8.057611	1			~TYPE2:22|~TYPE2:22
+1056926	OPG mbH		Am Pyer Kirchweg 0	49134	Wallenhorst	52.349470	8.013536	1			~TYPE2:22|~TYPE2:22
+1056927	OPG mbH		Osnabrücker Straße 6	49134	Wallenhorst	52.336170	8.022140	1			~TYPE2:22|~TYPE2:22
+1056928	OPG mbH		Am Sutthauser Bahnhof 1	49082	Osnabrück	52.232180	8.020540	1			~TYPE2:22|~TYPE2:22
+1056929	OPG mbH		Eberle Platz 0	49090	Osnabrück	52.306452	8.047228	1			~TYPE2:22|~TYPE2:22
+1056930	OPG mbH		Straßburger Platz 2	49076	Osnabrück	52.276000	8.032000	1			~TYPE2:22|~TYPE2:22
+1056931	OPG mbH		Uhlandstraße 19	49078	Osnabrück	52.273000	8.003300	1			~TYPE2:22|~TYPE2:22
+1056932	OPG mbH		Adolfstraße 24	49080	Osnabrück	52.273000	8.032000	1			~TYPE2:22|~TYPE2:22
+1056933	OPG mbH		Adolfsraße 24	49080	Osnabrück	52.268000	8.032000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056935	OPG mbH		Kokschestraße 26	49080	Osnabrück	52.265000	8.086000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056936	OPG mbH		Widerhall 20-24	49088	Osnabrück	52.291000	8.065000	1			~TYPE2:22|~TYPE2:22
+1056937	OPG mbH		Süntelstraße 27 -29	49088	Osnabrück	52.288000	8.044000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056938	OPG mbH	Genusshöfe	Hannoversche Str. 11	49084	Osnabrück	52.265000	8.064000	1	24/7	Keine Beschränkung	DEOPGE002303~TYPE2:22|DEOPGE002304~TYPE2:22
+1056939	OPG mbH		Uhlandstraße 19	49078	Osnabrück	52.273000	8.033000	1			~CCS2:75|~CCS2:75|~TYPE2:22
+1056942	OPG mbH		Holtstraße 37	49074	Osnabrück	52.268420	8.051600	1			~TYPE2:22
+1056945	OPG mbH		Lengericher Landstraße 2	49078	Osnabrück	52.261606	8.000761	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1056952	OPG mbH		Scharnhorststraße 48	49084	Osnabrück	52.279980	8.071130	1			~TYPE2:11|~TYPE2:11
+1056954	OPG mbH		Kollegienwall 28	49074	Osnabrück	52.272090	8.051100	1			~TYPE2:11|~TYPE2:11
+1056956	OPG mbH		Holtstraße 37	49074	Osnabrück	52.268730	8.055160	1			~TYPE2:11|~TYPE2:11
+1056958	OPG mbH		Am Schölerberg 9	49082	Osnabrück	52.244741	8.071872	1			~TYPE2:22|~TYPE2:22
+1056959	OPG mbH		Am Schölerberg 9	49082	Osnabrück	52.247412	8.071872	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056975	OPG mbH		Am Schölerberg 1	49082	Osnabrück	52.246892	8.069347	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056977	OPG mbH		Reinhold-Tiling-Weg 0	49088	Osnabrück	52.296000	8.053470	1	24/7	Keine Beschränkung	DEOPGE005001~TYPE2:22|DEOPGE005002~TYPE2:22|DEOPGE005003~TYPE2:22|DEOPGE005004~TYPE2:22
+1056978	OPG mbH		Gerberhof 10	49074	Osnabrück	52.280316	8.042570	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1056992	OPG mbH		Weidenstraße 20	49080	Osnabrück	52.270470	8.031604	1			~CCS2:50|~CCS2:50
+1056993	OPG mbH		Weidenstraße 20	49080	Osnabrück	52.270347	8.031604	1			~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1056996	OPG mbH		Brinkstraße 17	49080	Osnabrück	52.258209	8.047808	1			~TYPE2:22|~TYPE2:22
+1059079	hallewestfalen.net		Gartenstraße 3	33790	Halle	52.059705	8.359749	1			~TYPE2:22|~TYPE2:22
+1059080	hallewestfalen.net		Sandweg 4	33790	Halle	52.045316	8.378462	1			~TYPE2:22|~TYPE2:22
+1059081	hallewestfalen.net		Gausekampweg 4	33790	Halle	52.063357	8.353787	1			~TYPE2:22|~TYPE2:22
+1059082	hallewestfalen.net		Goebenstr. 15	33790	Halle	52.058921	8.356155	1			~TYPE2:22|~TYPE2:22
+1059083	hallewestfalen.net		Wasserwerkstr. 1b	33790	Halle Westf.	52.048275	8.351409	1			~TYPE2:22|~TYPE2:22
+1059084	hallewestfalen.net		Bahnhofstr. 42	33790	Halle (Westf.)	52.057516	8.357625	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059087	hallewestfalen.net	Bahnhof Künsebeck	Teutoburger Str. 2	33790	Halle (Westf.)	52.037120	8.383720	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1059089	hallewestfalen.net		Gartnischer Weg 127	33790	Halle (Westf.)	52.044525	8.379241	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059095	hallewestfalen.net		Winnebrockstr. 1	33790	Halle (Westf.)	52.054622	8.356337	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059244	AGRAVIS		Werkstraße 6	49324	Melle	52.186050	8.342065	1			~TYPE2:11|~TYPE2:11
+1060019	Westfalen Weser Ladeservice GmbH	44430	Ravensberger Str. 23	33824	Werther (Westf.)	52.074742	8.414492	1	24/7	Keine Beschränkung	DE*WWL*E44430*04~TYPE2:22|DE*WWL*E44430*05~TYPE2:22
+1062596	Adelhoff Boutique Hotel	Adelhoff Hotel Osnabrück	Klöntrupstr. 12	49082	Osnabrück	52.266136	8.057756	1	24/7	Keine Beschränkung	DE*ONE*EHKE7 1~TYPE2:11|DE*ONE*EUM3L 2~TYPE2:11|DE*ONE*EHX7Q 3~TYPE2:11|DE*ONE*ERZJ3 4~TYPE2:11
+1064917	Aral Pulse		Mühlentor 1	49186	Bad Iburg	52.155344	8.043323	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1066575	comfuse GmbH		Mercatorstraße 9	49080	Osnabrück	52.254057	8.047683	1			~TYPE2_TETHERED:22
+1066737	Gemeinde Rieste		Bahnhofstr. 31	49597	Rieste	52.485910	8.011840	1			~TYPE2:22|~TYPE2:22
+1066738	Gemeinde Rieste		Lage 1	49597	Rieste	52.496290	8.023610	1			~TYPE2:11|~TYPE2:11
+1067232	EnBW mobility+ AG und Co.KG		Meller Str. 118	49082	Osnabrück	52.260410	8.065030	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1067316	Q1 Autostrom	Mitarbeiterparkplatz III	Rheinstr. 82	49090	Osnabrück	52.289671	8.031751	1	24/7	Keine Beschränkung	DE*Q1A*E50009561~TYPE2:22|DE*Q1A*E50003908~TYPE2:22
+1067318	Q1 Autostrom	Bielefeld, Hotel Weitblick II	Heidsieker Heide 114	33739	Bielefeld	52.080863	8.499396	1	24/7	Keine Beschränkung	DE*Q1A*E48140006~TYPE2:22|DE*Q1A*E48140007~TYPE2:22|DE*Q1A*E48140004~TYPE2:22|DE*Q1A*E48140005~TYPE2:22
+1067319	Q1 Autostrom	Bielefeld, Hotel Weitblick III	Heidsieker Heide 114	33739	Bielefeld	52.080825	8.499445	1	24/7	Keine Beschränkung	DE*Q1A*E48140008~TYPE2:22|DE*Q1A*E48140009~TYPE2:22
+1068042	Franz Wulbusch GmbH & Co. KG		Zur Femlinde 30	49326	Melle	52.213240	8.273710	1			~TYPE2:22|~CCS2:50
+1068398	O. Schneider Besitz GmbH		Albert-Einstein-Str. 32	49076	Osnabrück	52.289328	8.016539	1			~TYPE2:22|~TYPE2:22
+1069681	Depenbrock Holding SE & Co. KG		Blumenhorst 6	32351	Stemwede	52.422018	8.403730	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069682	Depenbrock Holding SE & Co. KG		Blumenhorst 6	32351	Stemwede	52.421708	8.402724	1			~TYPE2:22|~TYPE2:22
+1069684	Depenbrock Holding SE & Co. KG		Blumenhorst 6	32351	Stemwede	52.422025	8.403574	1			~TYPE2:22|~TYPE2:22
+1069685	Depenbrock Holding SE & Co. KG		Blumenhorst 6	32351	Stemwede	52.422408	8.402137	1			~CCS2:150|~CCS2:150
+1070346	Haus Große Kettler		Bahnhofstr. 11	49196	Bad Laer	52.103720	8.091120	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1070347	Haus Große Kettler		Bahnhofstr. 11	49196	Bad Laer	52.103030	8.090570	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22
+1070493	Stadtwerke Lübbecke GmbH		Rathausstr. 11	32361	Preußisch Oldendorf	52.305194	8.490993	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070497	Stadtwerke Lübbecke GmbH		Mindener Str. 24	32361	Preußisch Oldendorf	52.304245	8.497704	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070814	Schulz Systemtechnik GmbH		Otto-Lilienthal-Str. 8	49134	Wallenhorst	52.353313	8.000140	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1071143	Clubhaus Eggeberg GmbH & Co. KG		Eggeberger Str. 13	33790	Halle (Westf.)	52.084945	8.361465	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1071498	Ralf Siepe		Anna-Gastvogel-Straße 20	49080	Osnabrück	52.255990	8.047390	1			~TYPE2_TETHERED:22
+1074893	Tim Brockmeyer		Evers Kamp 17	49143	Bissendorf	52.245514	8.170895	1			~TYPE2_TETHERED:11
+1074936	Elfriede Höpke Pensionsbetrieb + Ferienwohnungs KG		Thieplatz 9	49196	Bad Laer	52.099145	8.090090	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1074996	Pathfinder - Einzelfirma - Freiberuflich		Katharinenstrasse 17	49078	Osnabrück	52.272530	8.038890	1			~TYPE2:11|~TYPE2:11
+1075023	IHR autoPARTNER Hartmann	Links	Im Felde 4	49152	Bad Essen	52.328844	8.323923	1	24/7	Keine Beschränkung	DE*ISE*E0022113~TYPE2:22|DE*ISE*E0022114~TYPE2:22
+1075851	Volksbank Dammer-Berge eG		Lindenstraße 1	49434	Neuenkirchen-Vörden	52.480166	8.096751	1			~TYPE2:22+TYPE2_TETHERED:22
+1076403	Autohaus Landermann GmbH & Co. KG		Industriestraße 25	32139	Spenge	52.144882	8.496600	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076404	Autohaus Landermann GmbH & Co. KG		Industriestraße 25	32139	Spenge	52.144872	8.496712	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076405	Autohaus Landermann GmbH & Co. KG		Industriestraße 25	32139	Spenge	52.144722	8.496726	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076406	Autohaus Landermann GmbH & Co. KG		Industriestraße 25	32139	Spenge	52.144820	8.495870	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076407	Autohaus Landermann GmbH & Co. KG		Industriestraße 25	32139	Spenge	52.144839	8.496366	1			~CCS2:50|~CCS2:50
+1077104	Westfalen AG & Co. KG		Haller Str. 69	33803	Steinhagen	52.027914	8.408760	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1077312	Q1 Autostrom	Osnabrück, Eduard-Pestel-Straße	Eduard-Pestel-Str. 2	49080	Osnabrück	52.245840	8.034404	1	24/7	Keine Beschränkung	DE*Q1A*E50016433~CCS2:150|DE*Q1A*E50016434~CCS2:150
+1077763	EDEKA-MIHA Charge GmbH		Sondermühlener Str. 12	49326	Melle	52.157338	8.270434	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1077765	EDEKA-MIHA Charge GmbH		Sondermühlener Str. 12	49326	Melle	52.157367	8.270365	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1078222	EnBW mobility+ AG und Co.KG		Gartenstr. 72	49152	Bad Essen	52.325300	8.338200	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1080604	Pflegedienst Janda GmbH		Lindenstraße 22	49152	Bad Essen	52.319480	8.340630	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1083753	METANK GmbH		Engelgarten 0	49324	Melle	52.204700	8.341400	1			~TYPE2:22|~TYPE2:22
+1083754	METANK GmbH		Inselweg 2	49324	Melle	52.197800	8.341400	1			~TYPE2:22|~TYPE2:22
+1083756	METANK GmbH		Im Gewerbepark 2	49326	Melle	52.219000	8.272000	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083758	METANK GmbH		Am Golfplatz 3	49143	Bissendorf	52.288606	8.196276	1			~TYPE2:22|~TYPE2:22
+1083799	Gemeinde Wallenhorst		Osnabrücker Straße 6	49134	Wallenhorst	52.336110	8.022110	1			~TYPE2:22|~TYPE2:22
+1084197	Alvalog GmbH		In der Welle 3	49565	Bramsche	52.397256	8.030360	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084753	Auto Deters GmbH & Co. KG		Mindener Straße 131	49084	Osnabrück	52.271025	8.090534	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1084949	Bernd Kulgemeyer		Am Brock 9	49124	Georgsmarienhütte	52.227472	8.063373	1			~TYPE2:7
+1085161	Christoph Abing		Belkes Kamp 6	49328	Melle	52.180697	8.426682	1			~TYPE2_TETHERED:11
+1085234	Daniel Baxley		Ringstraße 4	49565	Bramsche	52.417475	8.057828	1			~TYPE2_TETHERED:11
+1085415	Dirk Schmalfuß		Seeadlerweg 5	49143	Bissendorf	52.256835	8.215305	1			~TYPE2_TETHERED:11
+1085437	Dominik Watty		Weidenweg 2	49201	Dissen am Teutoburger Wald	52.108436	8.215714	1			~TYPE2_TETHERED:11|~TYPE2:11
+1085528	Emanuel Spatharis		Amshausener Straße 38	33803	Steinhagen	52.025656	8.407953	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085867	Günter Prem		Hubertusring 65A	49134	Wallenhorst	52.329328	8.021948	1			~TYPE2_TETHERED:11
+1085887	Hannelore Patzer		Alter Salzweg 12a	33775	Versmold	52.066362	8.169329	1			~TYPE2:11
+1086003	Hendrik Hageböke		Gerdener Straße 80	49324	Melle	52.176328	8.367444	1			~TYPE2_TETHERED:11
+1086088	Hubert Lübbersmann		Höhenweg 11	49191	Belm	52.336673	8.117971	1			~TYPE2_TETHERED:11
+1086607	Ludger Kreimer		Im Wiesengrund 12	48336	Sassenberg	52.048356	8.035779	1			~TYPE2:11
+1086855	Martin Krause		Zum Mehrkamp 20	33824	Werther (Westfalen)	52.073878	8.414786	1			~TYPE2_TETHERED:22
+1087213	Oliver Lieske		Landweg 12	33829	Borgholzhausen	52.120323	8.336168	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1087235	Osterburg Zahntechnik GmbH		Meller Straße 72-74	49082	Osnabrück	52.262833	8.060459	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087437	Rainer Gelhot		Wagnerstraße 1	49191	Belm	52.307013	8.137813	1			~TYPE2:3
+1087439	Rainer Hente		Am Johannisbach 21A	49143	Bissendorf	52.237771	8.170284	1			~TYPE2:11|~TYPE2_TETHERED:11
+1087517	Rene Brosig		Brixener Straße 3	49082	Osnabrück	52.252905	8.081765	1			~TYPE2_TETHERED:11
+1087777	Solar und Strom GmbH		Daimlerring 43	32289	Rödinghausen	52.237246	8.490898	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1087867	Steffen Kämper		Ruschfeldweg 3	33619	Bielefeld	52.024784	8.477363	1			~TYPE2_TETHERED:11
+1087970	Sven Hohendahl		Friedrichstr. 23	49448	Brockum	52.467086	8.422351	1			~TYPE2:11
+1087980	Sven Scharfscheer		Adolf-Damaschke-Weg 38	49082	Osnabrück	52.236546	8.031259	1			~TYPE2_TETHERED:11
+1088112	Thomas Vogelsang		Ravensberger Straße 2	48336	Sassenberg	52.047174	8.036395	1			~TYPE2_TETHERED:2
+1088201	Tobias Büscherhoff		Schlingheide 2a	49179	Ostercappeln	52.382885	8.137827	1			~TYPE2_TETHERED:11
+1088335	Vincent Vallo		Buchfinkenweg 10	49086	Osnabrück	52.255152	8.104982	1			~TYPE2:22
+1088387	Waldemar Sonnengruen		Im Südfeld 31	49152	Bad Essen	52.318151	8.366502	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089765	Torsten Meeske		Flachsweg 5	32351	Stemwede	52.456908	8.497665	1			~TYPE2_TETHERED:11
+1089797	Campingpark Münsterland Eichenhof		Feldmark 3	48336	Sassenberg	52.004358	8.064290	1			~TYPE2:22|~TYPE2:22
+1089909	EDEKA-MIHA Charge GmbH		Mindener Str. 81	49143	Bissendorf	52.261363	8.212064	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1089911	EDEKA-MIHA Charge GmbH		Hartmannstr. 27	49152	Bad Essen	52.310999	8.429603	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1089915	EDEKA-MIHA Charge GmbH		Weberstr. 4	49191	Belm	52.300738	8.113258	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1091612	Gemeindewerke Steinhagen Service GmbH & Co. KG		Kirchplatz 26	33803	Steinhagen	52.005225	8.412888	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091613	Gemeindewerke Steinhagen Service GmbH & Co. KG		Bahnhofstr. 20	33803	Steinhagen	52.006440	8.413050	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091614	Gemeindewerke Steinhagen Service GmbH & Co. KG		Am Cronsbach 4	33803	Steinhagen	52.000000	8.422000	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091615	Gemeindewerke Steinhagen Service GmbH & Co. KG		Am Bahnhof 1	33803	Steinhagen	52.017680	8.420050	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091616	Gemeindewerke Steinhagen Service GmbH & Co. KG		Am Markt 19	33803	Steinhagen	52.006368	8.416872	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091617	Gemeindewerke Steinhagen Service GmbH & Co. KG		Am Pulverbach 25	33803	Steinhagen	52.007172	8.417001	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091618	Gemeindewerke Steinhagen Service GmbH & Co. KG		Brinkstr. 17	33803	Steinhagen	52.005805	8.415240	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091620	Gemeindewerke Steinhagen Service GmbH & Co. KG		Amshausener Str. 87	33803	Steinhagen	52.027118	8.405447	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091621	Gemeindewerke Steinhagen Service GmbH & Co. KG		Pestalozzistr. 901	33803	Steinhagen	52.006831	8.419178	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091622	Gemeindewerke Steinhagen Service GmbH & Co. KG		Pestalozzistr. 901	33803	Steinhagen	52.006674	8.418748	1	24/7	Keine Beschränkung	~TYPE2:22
+1091623	Gemeindewerke Steinhagen Service GmbH & Co. KG		Voßheide 28	33803	Steinhagen	52.015190	8.440500	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092786	Deutsche Primärenergie GmbH		Harderberger Weg 18	49124	Georgsmarienhütte	52.217266	8.053362	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1092930	Patrick Kröger		Heinrich-Witte-Straße 12	49179	Ostercappeln	52.342174	8.220749	1			~TYPE2:11
+1093491	SWO Mobil GmbH		Düstruper Straße 0	49086	Osnabrück	52.258057	8.111616	1			~CCS2:350|~CCS2:350
+1093492	SWO Mobil GmbH		Östringer Weg 0	49090	Osnabrück	52.311308	8.060189	1			~CCS2:350|~CCS2:350
+1096778	Autohaus Kaub		Alter Markt 108	49448	Brockum	52.465648	8.418253	1			~CCS2:22|~TYPE2:11
+1096975	Autohaus Renzenbrink GmbH		Im Alten Dorf 29	49565	Bramsche	52.388134	8.062580	1			~CCS2:22|~TYPE2:11
+1096984	Autohaus Rolland -VW-Service-		Blücherplatz 2	32139	Spenge	52.140592	8.489611	1			~CCS2:22|~TYPE2:11
+1097097	Autohaus Timpe GmbH		Bielefelder Str. 10	49186	Bad Iburg	52.154250	8.043638	1			~CCS2:22|~TYPE2:11
+1097098	Autohaus Timpe GmbH		Bielefelder Str. 10	49186	Bad Iburg	52.155210	8.043370	1			~TYPE2:11|~CCS2:22
+1097184	Auto-Krause GmbH		Iburger Str. 6	49219	Glandorf	52.096487	8.005759	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1097320	gebrspeckmann		Industriestraße 1	33829	Borgholzhausen	52.085484	8.267763	1			~CCS2:22|~TYPE2:11
+1097321	gebrspeckmann	Autohaus Gebr. Speckmann	Industriestraße 1	33829	Borgholzhausen	52.085441	8.267745	1	24/7	Keine Beschränkung	DE*GCE*EDCCR273102~CCS2:50|DE*GCE*EACCR273101~TYPE2:22
+1097375	Heinrich Becker GmbH		Mühleneschweg 9	49090	Osnabrück	52.293118	8.033266	1			~CCS2:22|~TYPE2:11
+1097490	STARKE Versmold GmbH & Co KG		Laerstraße 16	33775	Versmold	52.051946	8.147171	1			~CCS2:22|~TYPE2:11
+1100436	Tesla Germany GmbH		Zum Eistruper Feld 1	49143	Bissendorf	52.238215	8.162957	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102285	Viktor Gett		Rehhagenhof 8	33619	Bielefeld	52.027590	8.485240	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1102406	DIOSNA Dierks u. Söhne GmbH		Am Tie 23	49086	Osnabrück	52.270530	8.107770	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1102772	OPG mbH	Dinklager Weg	Dinklager Weg 2	49088	Osnabrück	52.298540	8.063337	1	24/7	Keine Beschränkung	DEOPGE007901~TYPE2:11|DEOPGE007902~TYPE2:11|DEOPGE007903~TYPE2:11|DEOPGE007904~TYPE2:11
+1102773	OPG mbH	Limberg Park	Alwine-Wellmann-Str. 11	49088	Osnabrück	52.303883	8.087595	1	24/7	Keine Beschränkung	DEOPGE007201~TYPE2:11|DEOPGE007202~TYPE2:11|DEOPGE007203~TYPE2:11|DEOPGE007204~TYPE2:11
+1102775	OPG mbH	Parkhaus Marienhospital	Niedersachsenstr. 1	49074	Osnabrück	52.270409	8.055629	1	24/7	Keine Beschränkung	DEOPGE008001~TYPE2:11|DEOPGE008002~TYPE2:11|DEOPGE008003~TYPE2:11|DEOPGE008004~TYPE2:11
+1102782	hallewestfalen.net	Gartnischer Weg	Gartnischer Weg 86	33790	Halle (Westf.)	52.051987	8.371368	1	24/7	Keine Beschränkung	DE*337*EGSGartnischL~TYPE2:22|DE*337*EGSGartnischR~TYPE2:22
+1102954	OPG mbH	Kromschröder Straße	Kromschröderstr. 10	49080	Osnabrück	52.265985	8.021084	1	24/7	Keine Beschränkung	DEOPGE007101~TYPE2:11|DEOPGE007102~TYPE2:11|DEOPGE007103~TYPE2:11|DEOPGE007104~TYPE2:11
+1102955	OPG mbH	Am Vogelsang	Am Vogelsang 46	49088	Osnabrück	52.298114	8.047010	1	24/7	Keine Beschränkung	DEOPGE007001~TYPE2:11|DEOPGE007002~TYPE2:11|DEOPGE007003~TYPE2:11|DEOPGE007004~TYPE2:11
+1102956	OPG mbH	Bozener Str	Bozener Str. 34	49082	Osnabrück	52.256060	8.080739	1	24/7	Keine Beschränkung	DEOPGE006901~TYPE2:11|DEOPGE006902~TYPE2:11|DEOPGE006903~TYPE2:11|DEOPGE006904~TYPE2:11
+1102958	OPG mbH	Bierbaumsweg	Bierbaumsweg 4	49088	Osnabrück	52.304223	8.082231	1	24/7	Keine Beschränkung	DEOPGE006701~TYPE2:11|DEOPGE006702~TYPE2:11|DEOPGE006703~TYPE2:11|DEOPGE006704~TYPE2:11
+1102959	OPG mbH	Prof. Schirmeyer Straße	Prof.-Schirmeyer-Str. 11	49084	Osnabrück	52.283605	8.097670	1	24/7	Keine Beschränkung	DEOPGE006801~TYPE2:11|DEOPGE006802~TYPE2:11|DEOPGE006803~TYPE2:11|DEOPGE006804~TYPE2:11
+1102961	OPG mbH	Parkplatz Haarmannsbrunnen	Schillerstr. 15	49074	Osnabrück	52.276126	8.048585	1	24/7	Keine Beschränkung	DEOPGE008301~CCS2:50|DEOPGE008302~CCS2:50|DEOPGE008303~CCS2:50|DEOPGE008304~CCS2:50
+1103073	BRE Invest GmbH & Co. KG	Outlet Ravenna Park	Ravenna Park 3	33790	Halle (Westf.)	52.025971	8.378593	1	Mo-Fr 07:00-18:30, Sa 08:00-18:30	Keine Beschränkung	DE*CH0*E001599*001~TYPE2_TETHERED:11+TYPE2_TETHERED:11|DE*CH0*E001599*002~TYPE2_TETHERED:11|DE*CH0*E001601*001~TYPE2_TETHERED:11|DE*CH0*E001601*002~TYPE2_TETHERED:11|DE*CH0*E001602*001~TYPE2_TETHERED:11|DE*CH0*E001602*002~TYPE2_TETHERED:11|DE*CH0*E001603*001~TYPE2_TETHERED:11|DE*CH0*E001603*002~TYPE2_TETHERED:11
+1103637	AGRAVIS		Werkstr. 6	49324	Melle	52.186066	8.342204	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22
+1103638	AGRAVIS		Bahnhofstr. 28c	49143	Bissendorf	52.261894	8.209979	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22
+1104283	Technologie Centrum Bissendorf Verwaltungs GmbH & Co.KG		Gewerbepark 18	49143	Bissendorf	52.241319	8.137418	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1105944	Hettich-Heinze GmbH & Co. KG		Industriezentrum 83	32139	Spenge	52.147814	8.460643	1			~TYPE2:22|~TYPE2:22
+1109631	Stadtwerke Bielefeld		Mühlenstraße 2	33824	Werther	52.073765	8.417220	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1109675	Autohaus Becker-Tiemann Spenge GmbH & Co. KG		Düttingdorfer Str. 342	32139	Spenge	52.128030	8.415560	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1109676	Autohaus Becker-Tiemann Spenge GmbH & Co. KG		Düttingdorfer Str. 342	32139	Spenge	52.128040	8.415770	1			~CCS2:50|~TYPE2:22
+1109969	Autohaus Walkenhorst GmbH		Johann-Uttinger-Str. 6-12	49324	Melle	52.194779	8.344913	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1109971	Autohaus Walkenhorst GmbH		Sutthauser Str. 292	49080	Osnabrück	52.247526	8.035817	1			~TYPE2:22|~TYPE2:22
+1110226	PZ Sportwagenzentrum Osnabrück GmbH		Blumenhaller Weg 153	49078	Osnabrück	52.264652	8.009415	1			~CCS2:150|~CCS2:150
+1110586	Q1 Autostrom	Osnabrück, OSC Parkhaus - W	Hiärm-Grupe-Str. 8	49080	Osnabrück	52.267256	8.024437	1	24/7	Nur für Kunden/Besucher	DE*Q1A*E48140033~TYPE2:22|DE*Q1A*E48140034~TYPE2:22
+1110587	Q1 Autostrom	Osnabrück, OSC Parkplatz - W	Hiärm-Grupe-Str. 8	49080	Osnabrück	52.267382	8.024580	1	24/7	Nur für Kunden/Besucher	DE*Q1A*E48140035~TYPE2:22|DE*Q1A*E48140036~TYPE2:22
+1112265	BRE Invest GmbH & Co. KG	Outlet Ravenna Park	Ravenna Park 3	33790	Halle (Westf.)	52.025782	8.378555	1	Mo-Do 07:00-18:30, Fr 07:30-18:30, Sa 08:00-18:30	Keine Beschränkung	DE*CH0*E001600*001~TYPE2_TETHERED:11|DE*CH0*E001600*002~TYPE2_TETHERED:11
+1112422	WELLER	WELLER Melle	Johann-Uttinger-Str. 6-12	49324	Melle	52.194857	8.343742	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1112651	Lengermann & Trieschmann Grundbesitz GmbH		Herrenteichsstraße 6-16	49074	Osnabrück	52.276053	8.046598	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1112925	Stefan Kohlmann		Am Heidekotten 23	49086	Osnabrück	52.257530	8.110400	1			~TYPE2:22|~TYPE2:22
+1112926	Stefan Kohlmann		Sandforter Str. 149	49084	Osnabrück	52.259810	8.111980	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113146	orgakett GmbH		Industriezentrum 82	32139	Spenge	52.149450	8.457180	1			~TYPE2:22|~TYPE2:22
+1113366	Oliver Speicher e.K.		Gartenstraße 3	33790	Halle (Westf.)	52.060410	8.359020	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113625	Hünerbeins Posthotel		Große Straße 30	49143	Bissendorf	52.282136	8.238990	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113659	Thomas Fenne		Zuschlag 3	32351	Stemwede	52.416670	8.450000	1			~TYPE2_TETHERED:11
+1113695	Dieter Uphaus		Hasestraße 11	49134	Wallenhorst	52.331384	8.026007	1			~TYPE2:11
+1114047	Gemeinde Ostercappeln		Gildebrede 1	49179	Ostercappeln	52.347166	8.222134	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114049	Gemeinde Ostercappeln		Bremer Straße 31	49179	Ostercappeln	52.343722	8.231230	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114051	Gemeinde Ostercappeln		Bremer Straße 31	49179	Ostercappeln	52.343683	8.229908	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114056	UlrichKahmann e.k.		Meisenweg 9	49191	Belm	52.300153	8.115994	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1115085	Q1 Autostrom	Osnabrück, OSC I	Hiärm-Grupe-Str. 8	49080	Osnabrück	52.267529	8.025383	1	24/7	Keine Beschränkung	DE*Q1A*E48140012~CCS2:50|DE*Q1A*E48140013~CCS2:50
+1115089	Q1 Autostrom	Osnabrück, OSC II	Hiärm-Grupe-Str. 8	49080	Osnabrück	52.267561	8.025449	1	24/7	Keine Beschränkung	DE*Q1A*E48140010~CCS2:50|DE*Q1A*E48140011~CCS2:50
+1115695	Stadtwerke Bramsche GmbH	Mennekes Rijswijker Straße	Rijswijker Str. 14	49565	Bramsche	52.412909	8.010561	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116026	Uwe Piepmeier		Lange Str 17A	49080	Osnabrück	52.269355	8.039402	1			~TYPE2:11|~TYPE2:11
+1116072	hallewestfalen.net	Bahnhof Künsebeck	Teutoburger Str. 2	33790	Halle (Westf.)	52.037098	8.383195	1	24/7	Keine Beschränkung	DE*337*EBhfKueLP1L~TYPE2:22|DE*337*EBhfKueLP1R~TYPE2:22
+1116093	hallewestfalen.net	Lange Straße	Lange Str. 23	33790	Halle (Westf.)	52.062334	8.358965	1	24/7	Keine Beschränkung	DE*337*ELangeL~CCS2:300|DE*337*ELangeR~CCS2:300
+1116216	EWE Go GmbH	McD_1514_2A	Versmolder Str. 10	49201	Dissen am Teutoburger Wald	52.102032	8.197391	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1116241	EWE Go GmbH	EWE_0763	Osnabrücker Str. 13	49434	Neuenkirchen-Vörden	52.478428	8.095891	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116299	Westfalen AG & Co. KG		Lohmannstr. 4	48336	Sassenberg	52.045500	8.029340	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100
+1119964	Comforthaus Witte GmbH	Niedersachsenstraße, Hüde	Niedersachsenstr. 2	49448	Hüde	52.495333	8.357175	1	24/7	Keine Beschränkung	~TYPE2:22
+1121298	TEN-eG	Sportzentrum - Borgloh	Schulstr. 13	49176	Hilter am Teutoburger Wald	52.191653	8.188839	1	24/7	Keine Beschränkung	DETEN001401~TYPE2:22|DETEN001402~TYPE2:22
+1121544	OPG mbH	Wörthstraße	Wörthstr. 21	49082	Osnabrück	52.262933	8.051203	1	24/7	Keine Beschränkung	DEOPGE008401~TYPE2:22|DEOPGE008402~TYPE2:22|DEOPGE008403~TYPE2:22|DEOPGE008404~TYPE2:22
+1121689	Westenergie Metering GmbH		Michels Hof 13	49143	Bissendorf	52.266509	8.211103	1	24/7	Keine Beschränkung	DE*EON*E002841~TYPE2:22|DE*EON*E002840~TYPE2:22
+1121768	Backcharge	LADEinfrastruktur Diepholz GmbH & Co.KG - Syke	Hauptstr. 112	49448	Lemförde	52.465664	8.375712	1	24/7	Keine Beschränkung	DEBCKE1234627573*1~TYPE2:22|DEBCKE1234627573*2~TYPE2:22
+1125470	ALDI Nord		Pommernstr. 7	49448	Lemförde	52.471098	8.373735	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1126108	OPG mbH	Sportpark Illoshöhe	Ernst-Sievers-Str. 117	49078	Osnabrück	52.271712	8.010847	1	24/7	Keine Beschränkung	DEOPGE008501~CCS2:50|DEOPGE008502~CCS2:50
+1126110	OPG mbH	Nahne Center	Iburger Str. 225	49082	Osnabrück	52.247543	8.064570	1	24/7	Keine Beschränkung	DEOPGE008701~CCS2:300|DEOPGE008702~CCS2:300|DEOPGE008703~CCS2:300|DEOPGE008704~CCS2:300
+1127400	Stefan Langewand	Hoff	Lechtinger Str. 92	49191	Belm	52.338906	8.110493	1		Nur für Kunden/Besucher	~TYPE2:22
+1127469	Depenbrock Holding SE & Co. KG		Hans-Wunderlich-Str. 4	49078	Osnabrück	52.266950	8.002740	1	24/7	Nur für Kunden/Besucher	DE*ONE*EV6QD~TYPE2:11|DE*ONE*ET1JR~TYPE2:11|DE*ONE*E678P~TYPE2:11|DE*ONE*EK68H~TYPE2:11|DE*ONE*EU9BL~TYPE2:11|DE*ONE*E1XQ6~TYPE2:11
+1127520	VINCharge 1 GmbH	eliso - Q1 - Georgsmarienhütte	Malberger Str. 5	49124	Georgsmarienhütte	52.210656	8.037670	1	24/7	Keine Beschränkung	DE*ELI*E3603072~CCS2:400|DE*ELI*E3603073~CCS2:400|DE*ELI*E3603074~CCS2:400|DE*ELI*E3603075~CCS2:400|DE*ELI*E3603076~CCS2:400|DE*ELI*E3603077~CCS2:400|DE*ELI*E3603078~CCS2:400|DE*ELI*E3603079~CCS2:400
+1127772	DS card + drive GmbH	Rieste	Meppener Str. 2	49597	Rieste	52.482488	8.054662	1		Nur für Kunden/Besucher	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1127828	Volksbank Versmold eG	Parkplatz Volksbank Versmold eG	Münsterstr. 20	33775	Versmold	52.043600	8.150000	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1128020	Volksbank Halle/Westf. eG	Volksbank Halle/Westf. eG	Freistr. 15	33829	Borgholzhausen	52.101688	8.298998	1	24/7	Keine Beschränkung	DE*INN*EDL000392*1~TYPE2:22|DE*INN*EDL000392*2~TYPE2:22|DE*INN*EDL000393*1~TYPE2:22|DE*INN*EDL000393*2~TYPE2:22
+1128023	Volksbank Halle/Westf. eG	Volksbank Halle/Westf. eG	Lange Str. 45-49	33790	Halle (Westf.)	52.061150	8.362473	1	24/7	Keine Beschränkung	DE*INN*EDW000394*1~TYPE2:22|DE*INN*EDW000394*2~TYPE2:22|DE*INN*EDW000395*1~TYPE2:22|DE*INN*EDW000395*2~TYPE2:22|DE*INN*EDW000396*1~TYPE2:22|DE*INN*EDW000396*2~TYPE2:22|DE*INN*EDW000397*1~TYPE2:22|DE*INN*EDW000397*2~TYPE2:22
+1128709	go2zero	Golfclub Varus	Im Schlingerort 5	49179	Ostercappeln	52.405148	8.158671	1	24/7	Nur für Kunden/Besucher	DELMSE1234721351*1~TYPE2:22|DELMSE1234721351*2~TYPE2:22
+1129205	Andre Tiefenthaler	Zuhause	Schloerstr. 18	33790	Halle (Westf.)	52.052780	8.366630	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1130803	Heifo Immobilien GmbH&Co.KG	Heifo Hannoversche Str.	Hannoversche Str. 49	49084	Osnabrück	52.262480	8.071780	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1130990	OPG mbH	Osnabrbücker Straße (DC) Bohmte	Osnabrücker Str. 4	49163	Bohmte	52.358283	8.302792	1	24/7	Keine Beschränkung	DEOPGE009801~CCS2:150|DEOPGE009802~CCS2:150
+1131790	REA eCharge GmbH	EDEKA Kallmeyer Osnabrück	Mindener Str. 378	49086	Osnabrück	52.267100	8.134800	1	24/7	Keine Beschränkung	DE*REA*E10012*001~CCS2:150|DE*REA*E10012*002~CCS2:150
+1132389	Evry	Osnabrück: Rheinstraße 2 AC 1 (Links)	Rheinstr. 2	49090	Osnabrück	52.286702	8.037906	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1132412	Evry	Osnabrück: Rheinstraße 36 AC 1 (V2)	Rheinstr. 36	49090	Osnabrück	52.287821	8.034554	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22
+1132515	smopi	Sassenberg.ZumBuckesch9.Public1	Zum Buckesch 9	48336	Sassenberg	52.050363	8.039232	1	24/7	Keine Beschränkung	DE*SMC*E0000021~TYPE2:22|DE*SMC*E0000273~TYPE2:22
+1132697	OPG mbH	Klinikum OS Parkhaus Nord	Am Finkenhügel 1	49076	Osnabrück	52.280252	8.004746	1	24/7	Keine Beschränkung	DEOPGE010001~TYPE2:11|DEOPGE010002~TYPE2:11|DEOPGE010003~TYPE2:11|DEOPGE010004~TYPE2:11|DEOPGE010005~TYPE2:11|DEOPGE010006~TYPE2:11|DEOPGE010007~TYPE2:11|DEOPGE010008~TYPE2:11|DEOPGE010009~TYPE2:11|DEOPGE010010~TYPE2:11|DEOPGE010011~TYPE2:11|DEOPGE010012~TYPE2:11|DEOPGE010013~TYPE2:11|DEOPGE010014~TYPE2:11|DEOPGE010015~TYPE2:11|DEOPGE010016~TYPE2:11|DEOPGE010017~TYPE2:11|DEOPGE010018~TYPE2:11|DEOPGE010019~TYPE2:11|DEOPGE010020~TYPE2:11|DEOPGE010021~TYPE2:11|DEOPGE010022~TYPE2:11
+1133778	Hehmann	Im Alten Dorf 3	Im Alten Dorf 3	49134	Wallenhorst	52.355289	8.012514	1	24/7	Keine Beschränkung	DE*8VO*EAC0000620*1~TYPE2:22
+1133931	OPG mbH	Lerchenstraße (DC)	Lerchenstr. 33	49152	Bad Essen	52.321646	8.349140	1	24/7	Keine Beschränkung	DEOPGE009901~CCS2:150|DEOPGE009902~CCS2:150
+1133988	EDEKA-MIHA Charge GmbH		Salzufler Str. 136	32052	Herford	52.062460	8.416210	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1134032	Vattenfall Smarter Living GmbH		Ulmenstr. 6	49124	Georgsmarienhütte	52.207763	8.037540	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134206	Vattenfall Smarter Living GmbH		Lange Str. 19	33790	Halle (Westf.)	52.062938	8.357712	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1136493	Shell Deutschland GmbH		Kurt-Nagel-Str. 2	33829	Borgholzhausen	52.078822	8.249021	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1136495	Shell Deutschland GmbH		Kurt-Nagel-Str. 2	33829	Borgholzhausen	52.078792	8.249054	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1136534	Dr. Becker Klinikgesellschaft SE & Co. KG		Am Freibad 5	49152	Bad Essen	52.317130	8.338820	1	24/7	Nur für Kunden/Besucher	DBK00013~TYPE2:11|DBK00013~TYPE2:11|DBK00014~TYPE2:11|DBK00014~TYPE2:11
+1137288	EnBW mobility+ AG und Co.KG	A1 AS68 Bramsche	Varusstrasse 1	49565	Bramsche	52.398700	8.021100	1	24/7	Keine Beschränkung	DE*EBW*E915111*1~CCS2:400|DE*EBW*E915111*2~CCS2:400|DE*EBW*E915110*1~CCS2:400|DE*EBW*E915110*2~CCS2:400|DE*EBW*E915112*1~CCS2:400|DE*EBW*E915112*2~CCS2:400|DE*EBW*E915109*1~CCS2:400|DE*EBW*E915109*2~CCS2:400
+1138838	OPG mbH	Johann-Ernst-Hanxleden-Platz (DC)	Gartenstr. 12	49179	Ostercappeln	52.344503	8.223505	1	24/7	Keine Beschränkung	DEOPGE010301~CCS2:50|DEOPGE010302~CCS2:50
+1139256	Vonovia Energie GmbH		Schlesische Str. 13	49088	Osnabrück	52.303011	8.080223	1	24/7	Keine Beschränkung	DEGLSEEASY10401~TYPE2:22|DEGLSEEASY10402~TYPE2:22
+1139804	OPG mbH	Rewe Osnabrück	Heinrichstr. 37	49080	Osnabrück	52.270994	8.039004	1	24/7	Keine Beschränkung	DEOPGE004901~CCS2:50|DEOPGE004902~CCS2:50
+1141673	EDEKA-MIHA Charge GmbH		Bremer Str. 1	49179	Ostercappeln	52.341160	8.219700	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1141711	Lidl	6862_Lidl_Bad Rothenfelde_QP-20015-0525-060-121-QP-VER.321	Bahnhofstr. 50	49214	Bad Rothenfelde	52.110520	8.173290	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1143283	autostrom.plus	Rastplatz Ahrensfeld West - Fahrtrichtung Saarbrücken (166)	Im Ahrensfeld 0	49565	Bramsche	52.421618	8.029652	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16601*01~CCS2:400|DE*AUP*E16601*02~CCS2:400
+1143286	autostrom.plus	Rastplatz Ahrensfeld West - Fahrtrichtung Saarbrücken (166)	Im Ahrensfeld 0	49565	Bramsche	52.421715	8.029664	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16602*01~CCS2:400|DE*AUP*E16602*02~CCS2:400
+1143290	autostrom.plus	Rastplatz Ahrensfeld West - Fahrtrichtung Saarbrücken (166)	Im Ahrensfeld 0	49565	Bramsche	52.421771	8.029656	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16603*01~CCS2:400|DE*AUP*E16603*02~CCS2:400
+1143293	autostrom.plus	Rastplatz Ahrensfeld West - Fahrtrichtung Saarbrücken (166)	Im Ahrensfeld 0	49565	Bramsche	52.421853	8.029647	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16604*01~CCS2:400|DE*AUP*E16604*02~CCS2:400
+1143294	autostrom.plus	Rastplatz Ahrensfeld Ost - Fahrtrichtung Puttgarden (167)	Im Ahrensfeld 0	49565	Bramsche	52.415521	8.032280	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16701*01~CCS2:400|DE*AUP*E16701*02~CCS2:400|DE*AUP*E16702*01~CCS2:400|DE*AUP*E16702*02~CCS2:400|DE*AUP*E16703*01~CCS2:400|DE*AUP*E16703*02~CCS2:400
+1143300	autostrom.plus	Rastplatz Ahrensfeld Ost - Fahrtrichtung Puttgarden (167)	Im Ahrensfeld 0	49565	Bramsche	52.415343	8.032342	1	24/7	Nur für Kunden/Besucher	DE*AUP*E16704*01~CCS2:400|DE*AUP*E16704*02~CCS2:400
+1143588	Vattenfall Smarter Living GmbH		Iburger Str. 68	49176	Hilter am Teutoburger Wald	52.185575	8.139468	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1145159	EA-DD		Große Str. 27-32	49074	Osnabrück	52.275043	8.046995	1		Keine Beschränkung	DE*EAD*E500050~TYPE2_TETHERED:22|DE*EAD*E500051~TYPE2_TETHERED:22|DE*EAD*E500052~TYPE2:22|DE*EAD*E500053~TYPE2_TETHERED:22|DE*EAD*E500054~TYPE2:22
+1145469	OPG mbH	Thieplatz	Thieplatz 2	49196	Bad Laer	52.101140	8.087905	1	24/7	Keine Beschränkung	DEOPGE007301~TYPE2:22|DEOPGE007302~TYPE2:22
+1145470	OPG mbH	Bahnhof Bohmte	Osnabrücker Str. 1	49163	Bohmte	52.360241	8.307301	1	24/7	Keine Beschränkung	DEOPGE007501~TYPE2:22|DEOPGE007502~TYPE2:22
+1145473	OPG mbH	Am Gografenhof	Am Gografenhof 4	49186	Bad Iburg	52.158890	8.047401	1	24/7	Keine Beschränkung	DEOPGE007401~TYPE2:22|DEOPGE007402~TYPE2:22
+1145763	OPG mbH	Parkplatz Dominikaner	Neue Str. 22	49074	Osnabrück	52.279392	8.040101	1	24/7	Keine Beschränkung	DEOPGE008601~TYPE2:22|DEOPGE008602~TYPE2:22|DEOPGE008603~TYPE2:22|DEOPGE008604~TYPE2:22
+1145865	Kaufland	5433_KLand_Osnabrück_QP-16740-0225-060-121-QP-VER.311	Carl-Fischer-Str. 1	49084	Osnabrück	52.270052	8.082110	1		Keine Beschränkung	~CCS2:60|~CCS2:60
+1145927	OPG mbH	Fromm Immobilien GmbH und Co.KG	Breiter Gang 10-16	49074	Osnabrück	52.277859	8.050160	1	24/7	Keine Beschränkung	DEOPGE010401~TYPE2:11|DEOPGE010402~TYPE2:11|DEOPGE010403~TYPE2:11|DEOPGE010404~TYPE2:11|DEOPGE010405~TYPE2:11|DEOPGE010406~TYPE2:11|DEOPGE010407~TYPE2:11|DEOPGE010408~TYPE2:11|DEOPGE010409~TYPE2:11|DEOPGE010410~TYPE2:11|DEOPGE010411~TYPE2:11|DEOPGE010412~TYPE2:11
+1146054	Gemeinde Stemwede		Am Schulzentrum 14	32351	Stemwede	52.433955	8.461661	1	24/7	Keine Beschränkung	DE*ISE*E0008729 DE*ISE*E0008730~TYPE2:22|DE*ISE*E0008729~TYPE2:22
+1146055	Markus Linkemeyer	Saftladen	Im Haferkamp 24	49179	Ostercappeln	52.348395	8.215333	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1146056	Gemeinde Stemwede		Unter den Linden 8	32351	Stemwede	52.442767	8.346492	1	24/7	Keine Beschränkung	DE*EON*E002980 DE*EON*E002981~TYPE2:22|DE*EON*E002980~TYPE2:22
+1146057	Gemeinde Stemwede		Am Schulplatz 8	32351	Stemwede	52.373225	8.455331	1	24/7	Nur für Kunden/Besucher	DE*EON*E002990 DE*EON*E002991~TYPE2:22|DE*EON*E002990~TYPE2:22|DE*EON*E002991~TYPE2:22
+1147087	Evry	Melle: Inselweg (Sparkasse) AC	Inselweg 2	49324	Melle	52.204658	8.341773	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1147793	Koch International	Parkplatz Verwaltung	Fürstenauer Weg 68	49090	Osnabrück	52.304017	8.026632	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1147802	Pfalzwerke AG	Hornbach Osnabrück (ALP22541X01867)	Hannoversche Str. 111	49084	Osnabrück	52.256981	8.092530	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01867*01~CCS2:400|DE*PWA*EALP22541X01867*02~CCS2:400
+1147807	Pfalzwerke AG	Blumen Risse Osnabrück (ALP22541X01923)	Kurt-Schumacher-Damm 61	49078	Osnabrück	52.263914	8.006104	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01923*01~CCS2:400|DE*PWA*EALP22541X01923*02~CCS2:400
+1147808	Pfalzwerke AG	Blumen Risse Osnabrück (ALP22541X01924)	Kurt-Schumacher-Damm 61	49078	Osnabrück	52.263881	8.006162	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01924*01~CCS2:400|DE*PWA*EALP22541X01924*02~CCS2:400
+1147919	Vattenfall Smarter Living GmbH		Füchtorfer Str. 6	49219	Glandorf	52.079918	8.000226	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1148096	Vattenfall Smarter Living GmbH		Wertherstr. 431	33619	Bielefeld	52.048616	8.455965	1	24/7	Keine Beschränkung	~CCS2:90|~CCS2:90
+1149042	Lidl	1615_Lidl_Bad Essen_QP-17771-0225-060-121-QP-Ver.321	Gartenstr. 74	49152	Bad Essen	52.325090	8.337040	1	24/7	Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1149053	Allego		Am Huxmühlenbach 13	49084	Osnabrück	52.257170	8.085601	1	24/7	Keine Beschränkung	DEALLEGO004092_1~CCS2:300|DEALLEGO004092_2~CCS2:300|DEALLEGO004093_1~CCS2:300|DEALLEGO004093_2~CCS2:300|DEALLEGO004094_1~CCS2:300|DEALLEGO004094_2~CCS2:300
+1149276	Stadtwerke Bielefeld	Werther ZOB	Alte Bielefelder Str. 28	33824	Werther (Westf.)	52.071265	8.413750	1	24/7	Keine Beschränkung	DE*ISE*E0011592~TYPE2:22|DE*ISE*E0011915~TYPE2:22
+1151451	Wirelane GmbH	Lindenstraße 104, 49152 Bad Essen	Lindenstraße 104	49152	Bad Essen	52.318083	8.354111	1		Keine Beschränkung	DE*WLN*EP000533~TYPE2:22|DE*WLN*EP000534~TYPE2:22
+1151762	Wirelane GmbH		Bergstraße Parkplatz Schlafstall 31	49152	Bad Essen	52.318000	8.336083	1		Keine Beschränkung	DE*WLN*EP001157~TYPE2:22|DE*WLN*EP001158~TYPE2:22
+1151763	Wirelane GmbH		Lindenstraße 87	49152	Bad Essen	52.318028	8.350278	1		Keine Beschränkung	DE*WLN*EP001159~TYPE2:22|DE*WLN*EP001160~TYPE2:22
+1151852	Wirelane GmbH		Pladiesenweg ggü. 3	49152	Bad Essen	52.329389	8.429639	1		Keine Beschränkung	DE*WLN*EP001371~TYPE2:22|DE*WLN*EP001372~TYPE2:22
+1151987	Wirelane GmbH		Markt 3	49179	Ostercappeln	52.344694	8.225028	1		Keine Beschränkung	DE*WLN*EP001303~TYPE2:22|DE*WLN*EP001304~TYPE2:22
+1152018	Wirelane GmbH		Dürrenberger Ring 16	49324	Melle	52.202528	8.341056	1		Keine Beschränkung	DE*WLN*EP001407~TYPE2:22|DE*WLN*EP001408~TYPE2:22
+1152031	Wirelane GmbH		Am Sportplatz 18	49179	Ostercappeln	52.389135	8.168154	1		Keine Beschränkung	DE*WLN*EP001437~TYPE2:22|DE*WLN*EP001438~TYPE2:22
+1152134	OPG mbH	Mecedes Beresa (DC)	Blumenhaller Weg 155	49078	Osnabrück	52.264907	8.008694	1	24/7	Keine Beschränkung	DEOPGE001901~CCS2:50|DEOPGE001902~CCS2:50
+1152256	Vattenfall Smarter Living GmbH		Mönkedieckstr. 8	49088	Osnabrück	52.299241	8.060655	1	24/7	Keine Beschränkung	~CCS2:90|~CCS2:90
+1152337	hallewestfalen.net	Aldi Parkplatz Künsebecker Weg	Künsebecker Weg 6a	33790	Halle (Westf.)	52.051908	8.356159	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*337*E120L~CCS2:300|DE*337*E120R~CCS2:300
+1152694	Koch International	Infocenter	Fürstenauer Weg 68	49090	Osnabrück	52.304160	8.026744	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1153163	GLS Mobility GmbH	TE200002795 Vonovia (Schlesische Str. 13, 49088 Osnabrück)	Schlesische Str. 13	49088	Osnabrück	52.303011	8.080223	1	24/7	Keine Beschränkung	DEGLSEEASY10401~TYPE2:22|DEGLSEEASY10402~TYPE2:22
+1153169	Volksbank eG Bad Laer-Borgloh-Hilter-Melle		Weststr. 4	49324	Melle	52.204053	8.336301	1	24/7	Keine Beschränkung	~TYPE2:22
+1153271	EWE Go GmbH	McD_1632_1A	Bremer Str. 75	49191	Belm	52.305570	8.124350	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1153431	OPG mbH	Parkplatz Carpesol (DC)	Frankfurter Str. 15	49214	Bad Rothenfelde	52.106208	8.163813	1	24/7	Keine Beschränkung	DEOPGE010501~CCS2:50|DEOPGE010502~CCS2:50|DEOPGE010503~CCS2:50|DEOPGE010504~CCS2:50
+1153433	Q1 Autostrom	Osnabrück, Bremer Straße - links	Bremer Str. 90	49084	Osnabrück	52.285343	8.079165	1	24/7	Keine Beschränkung	DE*Q1A*E48140078~CCS2:300|DE*Q1A*E48140079~CCS2:300|DE*Q1A*E48140080~TYPE2:22
+1153435	Q1 Autostrom	Osnabrück, Bremer Straße - rechts	Bremer Str. 90	49084	Osnabrück	52.285229	8.079308	1	24/7	Keine Beschränkung	DE*Q1A*E48140081~CCS2:300|DE*Q1A*E48140082~CCS2:300
+1153454	Lidl	3656_Lidl_Spenge_QP-17731-0525-060-121-QP-VER.321	Lange Str. 35-37	32139	Spenge	52.141897	8.482122	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1153513	Agrarenergie Krukum GmbH & Co. KG		Wellingstraße 66	49328	Melle	52.195062	8.412236	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1156005	EWE Go GmbH	McD_1632_1B	Bremer Str. 75	49191	Belm	52.305535	8.124657	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1157314	OPG mbH	Campus Stadtwerke (DC)	Alte Poststr. 9	49074	Osnabrück	52.277704	8.054405	1	24/7	Keine Beschränkung	DEOPGE011001~CCS2:50|DEOPGE011002~CCS2:50
+1157749	Wirelane GmbH		a. See 1	48336	Sassenberg	52.002889	8.056000	1		Keine Beschränkung	DE*WLN*EP001919~TYPE2:22|DE*WLN*EP001920~TYPE2:22
+1158798	BRE Invest GmbH & Co. KG	Schnell-Ladesäule 1	Ravenna Park 3	33790	Halle (Westf.)	52.025736	8.379272	1	24/7	Keine Beschränkung	DE*CH0*E001909*001~CCS2:200|DE*CH0*E001909*002~CCS2:200|DE*CH0*E001908*001~CCS2:200|DE*CH0*E001908*002~CCS2:200
+1159855	Shell Deutschland GmbH	Shell Tankstelle Osnabrück, Sutthauser Str. 281	Sutthauser Str. 281	49080	Osnabrück	52.249293	8.037450	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1159856	Shell Deutschland GmbH	Shell Tankstelle Osnabrück, Sutthauser Str. 281	Sutthauser Str. 281	49080	Osnabrück	52.249242	8.037418	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1160015	Westenergie Metering GmbH		Bergstr. 16	49143	Bissendorf	52.280968	8.239529	1	24/7	Keine Beschränkung	DE*WEA*E0000127*1~TYPE2:22|DE*WEA*E0000127*2~TYPE2:22
+1160022	Westenergie Metering GmbH		Am Bahnhof 1	49143	Bissendorf	52.258397	8.205814	1	24/7	Keine Beschränkung	DE*WEA*E0000128*1~TYPE2:22|DE*WEA*E0000128*2~TYPE2:22
+1160090	Westenergie Metering GmbH		Kirchplatz 1	49143	Bissendorf	52.235563	8.169875	1	24/7	Keine Beschränkung	DE*WEA*E0000126*1~TYPE2:22|DE*WEA*E0000126*2~TYPE2:22
+1160137	Westenergie Metering GmbH		Pfingstweg 112	49143	Bissendorf	52.268808	8.181243	1	24/7	Keine Beschränkung	DE*WEA*E0000080*1~TYPE2:22|DE*WEA*E0000080*2~TYPE2:22
+1160138	Westenergie Metering GmbH		Osnabrücker Str. 11	49143	Bissendorf	52.235326	8.168653	1	24/7	Keine Beschränkung	DE*WEA*E0000078*1~TYPE2:22|DE*WEA*E0000078*2~TYPE2:22
+1160801	WELLER	WELLER Osnabrück	Sutthauser Str. 292	49080	Osnabrück	52.247172	8.035853	1	Mo-Fr 08:00-17:30, Sa 08:00-12:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1161876	OPG mbH	Parkplatz zum Kronensee	Zum Kronensee 11	49179	Ostercappeln	52.368463	8.229380	1	24/7	Keine Beschränkung	DEOPGE010701~TYPE2:11|DEOPGE010702~TYPE2:11|DEOPGE010703~TYPE2:11|DEOPGE010704~TYPE2:11
+1161974	Allego		Borsigstr. 1	49134	Wallenhorst	52.357376	8.003914	1	24/7	Keine Beschränkung	DEALLEGO003836_1~CCS2:50|DEALLEGO003836_2~CCS2:50|DEALLEGO004089_1~CCS2:300|DEALLEGO004089_2~CCS2:300|DEALLEGO004090_1~CCS2:300|DEALLEGO004090_2~CCS2:300|DEALLEGO004091_1~CCS2:300|DEALLEGO004091_2~CCS2:300
+1162141	ALDI Nord	ALDI Nord Parkplatz	Osnabrücker Str. 13	49134	Wallenhorst	52.333961	8.024787	1	24/7	Keine Beschränkung	DE-ALN-EDE250714-1-1~CCS2:50|DE-ALN-EDE250714-1-2~CCS2:50
+1162582	E.ON Drive Infrastructure	Netto, Westheider Weg 38, 33775 Versmold	Westheider Weg 38	33775	Versmold	52.043527	8.147574	1	24/7	Keine Beschränkung	DE*UFC*E01349*1~CCS2:50|DE*UFC*E01349*2~CCS2:50|DE*UFC*E01351*1~CCS2:200|DE*UFC*E01351*2~CCS2:200
+1162594	ALDI Nord	ALDI Nord Parkplatz	Westfalendamm 1	49214	Bad Rothenfelde	52.103022	8.165882	1	24/7	Keine Beschränkung	DE-ALN-EDE050406-1-1~CCS2:50|DE-ALN-EDE050406-1-2~CCS2:50
+1163024	WELLER	WELLER Performance Osnabrück	Pagenstecherstr. 77-83	49090	Osnabrück	52.290528	8.023128	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1163026	WELLER	WELLER Performance Osnabrück	Pagenstecherstr. 77-83	49090	Osnabrück	52.290597	8.022946	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1163027	WELLER	WELLER Performance Osnabrück	Pagenstecherstr. 77-83	49090	Osnabrück	52.290633	8.022613	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1164006	Becker GmbH	Hotel Becker	Thieplatz 13	49196	Bad Laer	52.101090	8.089825	1	24/7	Keine Beschränkung	DE*MDS*E015865~TYPE2_TETHERED:22|DE*MDS*E015804~TYPE2_TETHERED:22
+1164348	EWE Go GmbH	McD_0409_1A	Hannoversche Str. 45	49084	Osnabrück	52.262340	8.070990	1	24/7	Keine Beschränkung	DE*2GO*EMCD0409*1A*1~CCS2:200|DE*2GO*EMCD0409*1A*2~CCS2:200
+1164350	EWE Go GmbH	McD_0318_1A	Pagenstecherstr. 72	49090	Osnabrück	52.291230	8.025346	1	24/7	Keine Beschränkung	DE*2GO*EMCD0318*1A*1~CCS2:200|DE*2GO*EMCD0318*1A*2~CCS2:200
+1164388	OPG mbH	Genusshöfe (DC)	Hannoversche Str. 11	49084	Osnabrück	52.264855	8.064283	1	24/7	Keine Beschränkung	DEOPGE010601~CCS2:50|DEOPGE010602~CCS2:50|DEOPGE010603~CCS2:50|DEOPGE010604~CCS2:50
+1164481	Wirelane GmbH		Finkenstraße 2a	49565	Bramsche	52.414306	8.009250	1		Keine Beschränkung	DE*WLN*EP002181~TYPE2:22|DE*WLN*EP002182~TYPE2:22
+1164689	Westenergie Metering GmbH		Wittekindsweg 13	49191	Belm	52.343283	8.157533	1	24/7	Keine Beschränkung	DE*WEA*E0000181*1~TYPE2:22|DE*WEA*E0000181*2~TYPE2:22
+1164765	Westenergie Metering GmbH		Marktring 1	49191	Belm	52.303151	8.125598	1	24/7	Keine Beschränkung	DE*WEA*E0000182*1~TYPE2:22|DE*WEA*E0000182*2~TYPE2:22
+1164766	Westenergie Metering GmbH		Heideweg 25	49191	Belm	52.299771	8.134060	1	24/7	Keine Beschränkung	DE*WEA*E0000184*1~TYPE2:22|DE*WEA*E0000184*2~TYPE2:22
+1164798	Westfalen AG & Co. KG	Westfalen Tankstelle	Osnabrücker Str. 4	32289	Rödinghausen	52.199972	8.457461	1	24/7	Keine Beschränkung	DE*WAG*EE1075~CCS2:400|DE*WAG*EE2075~CCS2:400|DE*WAG*EE1076~CCS2:400|DE*WAG*EE2076~CCS2:400
+1165080	Westenergie Metering GmbH		Bahnhofstr. 57	49201	Dissen am Teutoburger Wald	52.112722	8.183361	1	24/7	Keine Beschränkung	DE*WEA*E0000185*1~TYPE2:22|DE*WEA*E0000185*2~TYPE2:22

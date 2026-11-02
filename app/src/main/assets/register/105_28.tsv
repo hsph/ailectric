@@ -1,0 +1,29 @@
+1034764	E.DIS AG		Tornower Straße 6	16259	Bad Freienwalde	52.785300	14.039140	1			~TYPE2:22|~TYPE2:22
+1034767	E.DIS AG		Frankfurter Straße 3	16269	Wriezen	52.714135	14.133055	1			~TYPE2:22|~TYPE2:22
+1045166	EMB Energie Brandenburg GmbH		Eberswalder Straße 84	15374	Müncheberg	52.517001	14.112913	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045167	EMB Energie Brandenburg GmbH		Eberswalder Straße 84	15374	Müncheberg	52.517002	14.112841	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052444	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Hermann-Seidel-Str. 63	16248	Oderberg	52.863440	14.046280	1			~TYPE2:22|~TYPE2:22
+1052451	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Schulstraße 1	16248	Lunow	52.922671	14.110640	1			~TYPE2:22|~TYPE2:22
+1052452	Barnimer Energiebeteiligungsgesellschaft mbH (BEBG)		Kietz 9	16248	Lunow-Stolzenhagen	52.948939	14.108532	1			~TYPE2:22|~TYPE2:22
+1057303	Inselwerke eG		Kiebitzwinkel 3	15320	Neutrebbin	52.662664	14.224681	1			~TYPE2:22|~TYPE2:22
+1057304	Inselwerke eG		Neue Dorfstraße 1	15345	Reichenow	52.649292	14.067693	1			~TYPE2:22|~TYPE2:22
+1057305	Inselwerke eG		Zollbrücke 16	16259	Oderaue OT Zollbrücke	52.787284	14.248344	1			~TYPE2:22|~TYPE2:22
+1057313	Inselwerke eG		Hafenstraße 3	15324	Groß Neuendorf	52.700581	14.410420	1			~TYPE2:22|~TYPE2:22
+1057314	Inselwerke eG		Rudolf-Breitscheid-Str. 42	15324	Letschin	52.645899	14.360750	1			~TYPE2:22|~TYPE2:22
+1065083	SMATRICS GmbH & Co KG		Frankfurter Straße 73	16259	Bad Freienwalde	52.773280	14.056390	1			~TYPE2:22|~TYPE2:22
+1080616	Holger Barz		Bliesdorfer Str. 1b	16269	Bliesdorf	52.690559	14.148582	1			~TYPE2:11
+1089331	Leuendorff Gebäudetechnik, Energie- und Mineralölhandel GmbH		Weinbergsweg 17	15377	Buckow	52.575902	14.072347	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:22+TYPE2:22|~TYPE2:22+TYPE2_TETHERED:22
+1089332	Leuendorff Gebäudetechnik, Energie- und Mineralölhandel GmbH		Fischerberg 2	15377	Buckow	52.556965	14.063383	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1089333	Leuendorff Gebäudetechnik, Energie- und Mineralölhandel GmbH		Schulstraße 4	15377	Buckow	52.566956	14.074532	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1096372	AH Minnich an der Oder GmbH		Am Windmühlenberg 4	15320	Neuhardenberg	52.592029	14.232376	1			~CCS2:22|~TYPE2:11
+1096428	Auto Center Frankfurt Oder GmbH		Frankfurter Str. 59	16259	Bad Freienwalde (Oder)	52.773104	14.062054	1			~CCS2:22|~TYPE2:11
+1099756	Vattenfall Smarter Living GmbH		Berliner Str. 33-37	15306	Seelow	52.532572	14.376495	1			~CCS2:180|~CCS2:180
+1106423	E.ON Drive GmbH		Frankfurter Straße 3	16269	Wriezen	52.714029	14.133144	1			~TYPE2:22|~TYPE2:22
+1113562	Stiftung Schloss Neuhardenberg GmbH		Schinkelplatz 1	15320	Neuhardenberg	52.594791	14.243518	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1113998	Barz Automobile GmbH		Altranfter Str. 10	16259	Bad freienwalde	52.771649	14.069287	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114928	Vattenfall Smarter Living GmbH		Bergstr. 2d	15374	Müncheberg	52.506703	14.133121	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1127219	EnBW mobility+ AG und Co.KG		Eduardshof 5-7	16259	Bad Freienwalde (Oder)	52.794244	14.041286	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1128717	Kaufland	7350_Kland_Seelow_T65-IT1-0325-005	Diedersdorfer Str. 12A	15306	Seelow	52.529070	14.365764	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:50
+1130961	TotalEnergies Charging Solutions		Am Bahnhof 1	16259	Bad Freienwalde (Oder)	52.789244	14.035155	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50011*001*1~CCS2:200|DE*TCB*E3D9CS50011*001*2~CCS2:200|DE*TCB*E3D9CS50011*002*1~CCS2:200|DE*TCB*E3D9CS50011*002*2~CCS2:200
+1145150	EA-DD		Schamottering 2	16259	Bad Freienwalde (Oder)	52.791381	14.031309	1	24/7	Keine Beschränkung	DE*EAD*E320487*2~TYPE2_TETHERED:22|DE*EAD*E320487*1~TYPE2_TETHERED:22
+1152247	Vattenfall Smarter Living GmbH		Küstriner Str. 67	15306	Seelow	52.534634	14.382492	1	24/7	Keine Beschränkung	~CCS2:120|~CCS2:120|~CCS2:120|~CCS2:120

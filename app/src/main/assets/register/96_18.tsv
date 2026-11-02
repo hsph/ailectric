@@ -1,0 +1,299 @@
+1001649	deer GmbH		Untere Gasse 7	72818	Trochtelfingen	48.308028	9.244463	1			~TYPE2:22|~TYPE2:22
+1001784	deer GmbH		Bahnhofstraße 2	72525	Münsingen	48.410848	9.491130	1			~TYPE2:22|~TYPE2:22
+1001810	deer GmbH		Meidelstetter Str. 2	72829	Engstingen	48.386989	9.286996	1			~TYPE2:22|~TYPE2:22
+1001884	deer GmbH		Marbacher Straße 2	72532	Gomadingen	48.399809	9.392594	1			~TYPE2:22|~TYPE2:22
+1002117	FairEnergie GmbH		Manfred-Oechsle-Platz 1	72764	Reutlingen	48.491249	9.206806	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002118	FairEnergie GmbH		Lederstraße 94	72764	Reutlingen	48.488598	9.212194	1			~TYPE2:22|~TYPE2:22
+1002122	FairEnergie GmbH		Bahnhofstraße 12-ELS	72764	Reutlingen	48.497830	9.210560	1			~TYPE2:22|~TYPE2:22
+1002123	FairEnergie GmbH		Friedrichsplatz 500-ELS	72764	Reutlingen	48.492505	9.216563	1			~TYPE2:22|~TYPE2:22
+1002124	FairEnergie GmbH		Hauffstraße 89	72762	Reutlingen	48.495100	9.188380	1			~TYPE2:22|~TYPE2:22
+1002125	FairEnergie GmbH		Hauptstraße 50	72800	Eningen unter Achalm	48.486171	9.259143	1			~TYPE2:22|~TYPE2:22
+1002126	FairEnergie GmbH		Markplatz 0	72793	Pfullingen	48.465212	9.226933	1			~TYPE2:22|~TYPE2:22
+1002128	FairEnergie GmbH		Am Südbahnhof 20	72766	Reutlingen	48.482630	9.229790	1			~TYPE2:22|~TYPE2:22
+1002129	FairEnergie GmbH		Hermann-Hesse-Straße 51	72762	Reutlingen	48.476270	9.195010	1			~TYPE2:22|~TYPE2:22
+1002131	FairEnergie GmbH		Negelerstraße 2	72764	Reutlingen	48.484870	9.216570	1			~TYPE2:22|~TYPE2:22
+1002132	FairEnergie GmbH		Kaiserstraße 57	72764	Reutlingen	48.493260	9.216380	1			~TYPE2:22|~TYPE2:22
+1002134	FairEnergie GmbH		Tübinger Straße 31	72762	Reutlingen	48.492670	9.200670	1			~TYPE2:22|~TYPE2:22
+1002139	FairEnergie GmbH		Bantlinstraße 16	72762	Reutlingen	48.493540	9.194090	1			~TYPE2:22|~TYPE2:22
+1002141	FairEnergie GmbH		An der Kreuzeiche 2	72762	Reutlingen	48.479040	9.187950	1			~TYPE2:22|~TYPE2:22
+1002143	FairEnergie GmbH		Sankt-Peter-Straße 4	72760	Reutlingen	48.498080	9.201860	1			~TYPE2:22|~TYPE2:22
+1002145	FairEnergie GmbH		Pestalozzistraße 7	72762	Reutlingen	48.484990	9.193730	1			~TYPE2:22|~TYPE2:22
+1002146	FairEnergie GmbH		Alteburgstraße 11	72762	Reutlingen	48.488090	9.207130	1			~TYPE2:22|~TYPE2:22
+1002147	FairEnergie GmbH		Oskar-Kalbfell-Platz 8	72762	Reutlingen	48.489960	9.209580	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1002148	FairEnergie GmbH		Bahnhofstraße 8	72810	Gomaringen	48.453888	9.097109	1			~TYPE2:22|~TYPE2:22
+1002149	FairEnergie GmbH		Bahnhofstraße 8	72762	Reutlingen	48.496454	9.210396	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1002150	FairEnergie GmbH		Unter den Linden 23	72762	Reutlingen	48.495577	9.206187	1			~TYPE2:22|~TYPE2:22
+1002151	FairEnergie GmbH		Bismarckstraße 40	72764	Reutlingen	48.493900	9.218200	1			~TYPE2:22|~TYPE2:22
+1002152	FairEnergie GmbH		Kaiserstraße 89	72764	Reutlingen	48.491227	9.219675	1			~TYPE2:22|~TYPE2:22
+1002153	FairEnergie GmbH		Mühlwiesenstraße 5	72770	Reutlingen	48.433757	9.148333	1			~TYPE2:22|~TYPE2:22
+1002155	FairEnergie GmbH		Markwiesenstr. 52	72770	Reutlingen	48.493154	9.134819	1			~TYPE2:22|~TYPE2:22
+1002156	FairEnergie GmbH		Markwiesenstr. 52	72770	Reutlingen	48.492946	9.134945	1			~TYPE2:22|~TYPE2:22
+1002161	FairEnergie GmbH		Marie-Kurz-Hof 2	72762	Reutlingen	48.477374	9.202970	1			~TYPE2:22|~TYPE2:22
+1002162	FairEnergie GmbH		Kaiserstraße 27	72762	Reutlingen	48.495333	9.213481	1			~TYPE2:22|~TYPE2:22
+1009355	Shell Deutschland GmbH		Gammertinger Strasse 33	88499	Riedlingen	48.159210	9.462148	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1010326	Albwerk Elektro- und Kommunikationstechnik GmbH		Dobeltal 0	88529	Zwiefalten	48.231112	9.458831	1	24/7	Keine Beschränkung	DEAEWE001301~TYPE2:22|DEAEWE001302~TYPE2:22
+1010886	STADTWERK MOBILITY PLUS GmbH & Co. KG		Moosheimer Str. 28	88348	Bad Saulgau	48.021840	9.496160	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1010904	STADTWERK MOBILITY PLUS GmbH & Co. KG		Chalais-Platz 0	88348	Bad Saulgau	48.015144	9.499011	1			~TYPE2:22|~TYPE2:22
+1010933	STADTWERK MOBILITY PLUS GmbH & Co. KG		Lindenstraße 1	88348	Bad Saulgau	48.016527	9.498257	1			~TYPE2:22|~TYPE2:22
+1021642	EWE Go GmbH	McD_1160	Herbertinger Str. 45	88348	Bad Saulgau	48.020953	9.488497	1	24/7	Keine Beschränkung	DE*2GO*EMCD1160*1A*1~CCS2:150|DE*2GO*EMCD1160*1A*2~CCS2:150
+1021646	EWE Go GmbH	McD_0656	Truchtelfinger Str. 64	72458	Albstadt	48.221725	9.026851	1	24/7	Keine Beschränkung	DE*2GO*EMCD0656*1A*1~CCS2:150|DE*2GO*EMCD0656*1A*2~CCS2:150
+1021782	EWE Go GmbH	McD_1644_1A	Mössinger Str. 17	72131	Ofterdingen	48.411347	9.035072	1	24/7	Keine Beschränkung	DE*2GO*EMCD1644*1A*1~CCS2:300|DE*2GO*EMCD1644*1A*2~CCS2:300
+1021864	EWE Go GmbH		Stuttgarter Str. 149	72574	Bad Urach	48.497655	9.381939	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1024922	EnBW mobility+ AG und Co.KG		Justus-von-Liebig-Straße 1	72770	Reutlingen	48.495260	9.157510	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1025177	EnBW mobility+ AG und Co.KG		Im Städtle 45	72519	Veringenstadt	48.178277	9.212786	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025260	EnBW mobility+ AG und Co.KG		Im Dorf 6	72531	Hohenstein-Ödenwaldstetten	48.348672	9.375334	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025283	EnBW mobility+ AG und Co.KG		Märzengasse 4	72417	Jungingen	48.326571	9.041705	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025290	EnBW mobility+ AG und Co.KG		Stettenerstraße 0	72805	Lichtenstein	48.440465	9.253710	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025304	EnBW mobility+ AG und Co.KG		Albstr. 2	72510	Stetten a. k. Markt	48.121087	9.078328	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025325	EnBW mobility+ AG und Co.KG		Johannesstr. 4	72458	Albstadt	48.209604	9.031144	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025327	EnBW mobility+ AG und Co.KG		Beim Tiergarten 18	72574	Bad Urach	48.491137	9.397532	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025338	EnBW mobility+ AG und Co.KG		Kirchstr. 9	72829	Engstingen	48.386732	9.283954	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025340	EnBW mobility+ AG und Co.KG		Bahnhofstr. 1	72501	Gammertingen	48.250279	9.217828	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025346	EnBW mobility+ AG und Co.KG		Olgastr. 63	88512	Mengen	48.046625	9.330158	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025349	EnBW mobility+ AG und Co.KG		Reichenaustraße 1	72525	Münsingen	48.413767	9.493897	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025352	EnBW mobility+ AG und Co.KG		Schloßstr. 28	72793	Pfullingen	48.465807	9.221725	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025353	EnBW mobility+ AG und Co.KG		Friedhofstr. 9	88499	Riedlingen	48.154920	9.474131	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025358	EnBW mobility+ AG und Co.KG		Lichtensteinstr. 1	72820	Sonnenbühl	48.416483	9.221382	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025359	EnBW mobility+ AG und Co.KG		Sankt-Georg-Straße 1	72813	St. Johann	48.431774	9.380229	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025392	EnBW mobility+ AG und Co.KG		Hindenburgplatz 17	72144	Dußlingen	48.451500	9.054800	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025402	EnBW mobility+ AG und Co.KG		Kirchstaße 1	72147	Nehren	48.432898	9.068757	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025572	EnBW mobility+ AG und Co.KG		Schulstraße 12	72534	Hayingen	48.277739	9.479697	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025573	EnBW mobility+ AG und Co.KG		Feldhauser Straße 14	72501	Gammertingen	48.242568	9.310285	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025578	EnBW mobility+ AG und Co.KG		Im Winkel 2	72511	Bingen	48.108807	9.273680	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025584	EnBW mobility+ AG und Co.KG		Finkenweg 9	72531	Hohenstein	48.356944	9.329500	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025689	EnBW mobility+ AG und Co.KG		Mühlstraße 36	72479	Straßberg	48.171753	9.094310	1			~TYPE2:22|~TYPE2:22
+1025816	EnBW mobility+ AG und Co.KG		Am Echazufer 60	72764	Reutlingen	48.484425	9.222523	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1025879	EnBW mobility+ AG und Co.KG		Ohnastetter Str. 14	72813	St. Johann-Würtingen	48.452994	9.340340	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1025882	EnBW mobility+ AG und Co.KG		Bohnengasse 2	72813	St. Johann-Upfingen	48.455149	9.388090	1			~TYPE2:22|~TYPE2:22
+1026176	EnBW mobility+ AG und Co.KG		Josef-Mayer-Straße 94	72393	Burladingen	48.291878	9.096713	1			~CCS2:150|~CCS2:150
+1026403	EnBW mobility+ AG und Co.KG		Albstraße 2	72510	Stetten	48.121793	9.075077	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1026404	EnBW mobility+ AG und Co.KG		Lagerstr. 18	72510	Stetten	48.124036	9.078044	1			~TYPE2:22|~TYPE2:22
+1026491	EnBW mobility+ AG und Co.KG		Max-Planck-Str 9	72800	Eningen	48.477500	9.242800	1			~TYPE2:22|~TYPE2:22
+1026640	EnBW mobility+ AG und Co.KG		Hindenburgstraße 5	88499	Riedlingen	48.151640	9.477710	1			~CCS2:150|~CCS2:150
+1026726	EnBW mobility+ AG und Co.KG		Bahnhofstr. 6	72525	Münsingen	48.410230	9.490926	1			~TYPE2:22+SCHUKO:3.7|~TYPE2:22+SCHUKO:3.7
+1026841	EnBW mobility+ AG und Co.KG		Konrad-Adenauer-Straße 52-54	72461	Albstadt	48.234790	9.027160	1			~CCS2:150|~CCS2:150
+1027655	EnBW mobility+ AG und Co.KG		Tuchplatz 14	88499	Riedlingen	48.150886	9.474832	1			~TYPE2:22|~TYPE2:22
+1027969	EnBW mobility+ AG und Co.KG		Alter Seeburger Weg 4	72525	Münsingen	48.415464	9.490400	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1030813	FairEnergie GmbH	Burgstraße 7, Reutlingen	Burgstr. 7	72764	Reutlingen	48.490489	9.217849	1	24/7	Keine Beschränkung	DEFERE006001~TYPE2:22|DEFERE006002~TYPE2:22
+1030814	FairEnergie GmbH	Theodor-Heuss-Straße 5, Reutlingen	Theodor-Heuss-Str. 5	72762	Reutlingen	48.485676	9.191042	1	24/7	Keine Beschränkung	DEFERE006101~TYPE2:22|DEFERE006102~TYPE2:22
+1030815	FairEnergie GmbH	Schulstraße 14, Pfullingen	Schulstr. 14	72793	Pfullingen	48.466156	9.229144	1	24/7	Keine Beschränkung	DEFERE006301~TYPE2:22|DEFERE006302~TYPE2:22
+1030816	FairEnergie GmbH	Champignystraße 4, Reutlingen	Champignystr. 4	72762	Reutlingen	48.487301	9.214479	1	24/7	Keine Beschränkung	DEFERE006201~TYPE2:22|DEFERE006202~TYPE2:22
+1030817	FairEnergie GmbH	Zeughausstraße, Reutlingen	Gartenstr. 54	72764	Reutlingen	48.492859	9.213814	1	24/7	Keine Beschränkung	DEFERE005901~TYPE2:22|DEFERE005902~TYPE2:22
+1030818	FairEnergie GmbH	Bahnhofstraße 1/1, Reutlingen	Bahnhofstr. 1/1	72764	Reutlingen	48.497585	9.211313	1	24/7	Keine Beschränkung	DEFERE005801~TYPE2:22|DEFERE005802~TYPE2:22
+1030819	FairEnergie GmbH	Eisenbahnweg, Gomaringen (Parkhaus)	Eisenbahnweg 5	72810	Gomaringen	48.453970	9.094962	1	24/7	Keine Beschränkung	DEFERE006401~TYPE2:22|DEFERE006402~TYPE2:22|DEFERE006403~TYPE2:22
+1032381	GETEC mobility solutions GmbH		Aichelauer Strasse 6	72534	Hayingen-Ehestetten	48.320258	9.432028	1			~TYPE2:22|~TYPE2:22
+1032388	GETEC mobility solutions GmbH		Ehinger Strasse 12	88499	Riedlingen-Bechingen	48.198261	9.495429	1			~TYPE2:11|~TYPE2:11
+1035454	ALDI SÜD		Karl Henschel Straße 2	72770	Reutlingen-Betzingen	48.495000	9.158333	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035624	ALDI SÜD		Keltenstraße 2	72829	Engstingen	48.389824	9.290837	1			~TYPE2:22|~TYPE2:22
+1036014	AMF Pfullingen		Daimlerstraße 4-6	72793	Pfullingen	48.478744	9.227807	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037533	Citywatt GmbH		Marktstraße 160	72793	Pfullingen	48.480389	9.229690	1			~CCS2:300|~CCS2:300
+1037534	Citywatt GmbH		Marktstraße 160	72793	Pfullingen	48.480332	9.229658	1			~CCS2:300|~CCS2:300
+1037535	Citywatt GmbH		Marktstraße 160	72793	Pfullingen	48.480304	9.229642	1			~CCS2:300|~CCS2:300
+1037536	Citywatt GmbH		Marktstraße 160	72793	Pfullingen	48.480396	9.229835	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1046839	Parkraumgesellschaft Baden-Württemberg GmbH		Leonhardsplatz 1	72764	Reutlingen	48.490123	9.218631	1			~TYPE2:22|~TYPE2:22
+1046852	Parkraumgesellschaft Baden-Württemberg GmbH		Alteburgstraße 150	72762	Reutlingen	48.483129	9.186514	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1047074	deer GmbH	Reutlingen, Landratsamt	Bismarckstr. 47	72764	Reutlingen	48.494509	9.218676	1	24/7	Keine Beschränkung	DE*753*E00313*001~TYPE2:22|DE*753*E00313*002~TYPE2:22
+1048774	Lidl	6607_Lidl_Albstadt_T54-HU1-3921-032	Theodor-Groz-Str. 71	72458	Albstadt	48.210483	9.019588	1		Keine Beschränkung	~CHADEMO:50+CCS2:50|~TYPE2_TETHERED:43
+1051106	EnBW ODR AG		Friedrich-List-Straße 8	72488	Sigmaringen	48.080618	9.235313	1			~CCS2:150|~CCS2:150
+1051174	EnBW ODR AG		Wertstraße 4	72147	Nehren	48.431565	9.070280	1			~TYPE2:22|~TYPE2:22
+1051349	Vereinigte Volksbanken eG	Vereinigte Volksbanken eG - Reutlingen	Gartenstr. 33	72764	Reutlingen	48.492740	9.215000	1	Mo-Fr 08:00-19:00, Sa 08:00-18:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1052605	Stadtwerke Sigmaringen GmbH		In den Burgwiesen 18	72488	Sigmaringen	48.089583	9.208270	1			~TYPE2:22|~TYPE2:22
+1052606	Stadtwerke Sigmaringen GmbH		Hohenzollernstraße 40	72488	Sigmaringen	48.096729	9.224773	1			~TYPE2:22|~TYPE2:22
+1052607	Stadtwerke Sigmaringen GmbH		Bahnhofstraße 2-22	72488	Sigmaringen	48.087278	9.219060	1			~TYPE2:22|~TYPE2:22
+1052608	Stadtwerke Sigmaringen GmbH		Leopoldstraße 4	72488	Sigmaringen	48.091607	9.214845	1			~TYPE2:22|~TYPE2:22
+1052609	Stadtwerke Sigmaringen GmbH		Marie-Curie-Straße 8	72488	Sigmaringen	48.092757	9.241776	1			~TYPE2:22|~TYPE2:22
+1052610	Stadtwerke Sigmaringen GmbH		Marie-Curie-Straße 8	72488	Sigmaringen	48.092728	9.241819	1			~TYPE2:22|~TYPE2:22
+1052611	Stadtwerke Sigmaringen GmbH		Marie-Curie-Straße 20	72488	Sigmaringen	48.089446	9.242608	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052612	Stadtwerke Sigmaringen GmbH		Hauptstraße 9	72517	Sigmaringendorf	48.065849	9.262773	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052614	Stadtwerke Sigmaringen GmbH		Ziegelweg 2	72514	Inzigkofen	48.071448	9.176754	1			~TYPE2:22|~TYPE2:22
+1055604	EnBW mobility+ AG und Co.KG		Ferdinand-Lassalle-Str. 25	72770	Reutlingen	48.491040	9.157950	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1061164	Fahrrad Fischer GmbH	Ladesäule für Kunden während des Einkaufs	Kapelleschweg 20	72818	Trochtelfingen	48.305548	9.235812	1	Mo-Sa 09:00-18:30, So 09:00-13:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1062387	deer GmbH	Mengen, Bahnhof	Riedlinger Str. 1	88512	Mengen	48.053143	9.336767	1	24/7	Keine Beschränkung	DE*753*E00417*001~TYPE2:22|DE*753*E00417*002~TYPE2:22
+1062392	deer GmbH	Mengen, Viehmarkt	Zeppelinstr. 68	88512	Mengen	48.046480	9.330935	1	24/7	Keine Beschränkung	DE*753*E00418*001~TYPE2:22|DE*753*E00418*002~TYPE2:22
+1062910	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Gestütshof Marbach 1	72532	Gomadingen	48.384547	9.415707	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063024	GP JOULE Connect GmbH	DE*CNT*EP02725*001	Carl-Zeiss-Str. 75	72770	Reutlingen	48.499744	9.150358	1	24/7	Keine Beschränkung	DE*CNT*EP02725*001*1~CCS2:300|DE*CNT*EP02725*001*2~CCS2:300
+1063034	EnBW mobility+ AG und Co.KG		Uracher Str. 18	72525	Münsingen	48.413899	9.493851	1		Keine Beschränkung	~CCS2:80|~CCS2:80
+1063505	Stadtwerke Bad Saulgau		Lindenstraße 7	88348	Bad Saulgau	48.016141	9.497604	1			~TYPE2:22|~TYPE2:22
+1063506	Stadtwerke Bad Saulgau		Am Schönen Moos 1	88348	Bad Saulgau	48.016444	9.485916	1			~TYPE2:22|~TYPE2:22
+1065800	Team-Emobility GmbH		Hauptstraße 25	72488	Laiz	48.078696	9.198561	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1065831	Team-Emobility GmbH		Marktstraße 57	07279	Pfullingen	48.472382	9.227149	1			~CCS2:50|~TYPE2:22
+1065906	Team-Emobility GmbH		Ernst-Abbe-Str. 20	72770	Reutlingen	48.497557	9.152785	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:11|~CCS2:50|~TYPE2:11
+1065937	Team-Emobility GmbH		Siegmaninger Str 140	72458	Albstadt	48.204284	9.046609	1		Nur für Kunden/Besucher	~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065943	Team-Emobility GmbH		Sigmaringer Str. 48	72458	Albstadt - Ebingen	48.207015	9.037602	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066007	Team-Emobility GmbH		Emil-Adolff-Straße 12	72760	Reutlingen	48.498138	9.200598	1		Keine Beschränkung	~CCS2:50|~TYPE2:11
+1066008	Team-Emobility GmbH		Ofterdinger Straße 39	72116	Mössingen	48.409542	9.037011	1			~CCS2:11|~TYPE2:7
+1067107	Daniel Kopp		Memmelers Wiese 13	72793	Pfullingen	48.455364	9.212834	1			~TYPE2_TETHERED:22
+1068195	Bäckerei Stemke OHG		Unter dem Malesfelsen 84	72458	Albstadt	48.207810	9.022560	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069043	Stadt Albstadt		An der Technologiewerkstatt 1	72461	Albstadt	48.254877	9.012456	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1069044	Energie- und Wasserversorgung Bitz GmbH		Zollernstraße 7	72475	Bitz	48.246427	9.086584	1			~TYPE2:22|~TYPE2:22
+1069092	Stadtwerke Mössingen (Eigenbetrieb)		Eisenbahnstr. 10	72116	Mössingen	48.405680	9.047081	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1069093	Stadtwerke Mössingen (Eigenbetrieb)		Breitstr. 11	72116	Mössingen	48.404781	9.053658	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1069094	Stadtwerke Mössingen (Eigenbetrieb)		Grasshoppersstr. 2	72116	Mössingen	48.405423	9.057337	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1069344	Hotel Gasthof Rössle		An der Hilb 14	72510	Stetten a.k.M.	48.143812	9.092414	1			~TYPE2:22|~TYPE2:22
+1069380	Landratsamt Reutlingen		Charlottenstraße 27	72764	Reutlingen	48.496210	9.216830	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070010	Martin Gringel Ingenieurbüro		Gottlieb-Daimler-Straße 5	72497	Straßberg	48.191436	9.088957	1			~TYPE2:11+TYPE2_TETHERED:11
+1070164	Stadtwerke Mengen		Wasserstr. 4	88512	Mengen	48.050591	9.330038	1	24/7	Keine Beschränkung	DEM3NE000101~TYPE2:22|DEM3NE000102~TYPE2:22
+1071370	deer GmbH		Rathausplatz 4	72805	Lichtenstein	48.431554	9.255397	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071495	David Welsch		Feinstraße 11	72820	Sonnenbühl	48.410358	9.194480	1			~TYPE2_TETHERED:11|~SCHUKO:3
+1071797	Stadtverwaltung Münsingen		Bahnhofstr. 0	72525	Münsingen	48.410376	9.491063	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1071798	Stadtverwaltung Münsingen		Bachwiesenstraße 7	72525	Münsingen	48.412557	9.491730	1			~TYPE2:22
+1074850	Bernd Vöhringer		Honauer Str. 56	72805	Lichtenstein	48.424036	9.270680	1			~TYPE2:11
+1074890	Stiftung Theater Lindenhof		Unter den Linden 18	72393	Burladingen	48.358393	9.144542	1			~TYPE2:22
+1075026	Günter Brielmann		Ulrichstraße 25	72116	Mössingen	48.414030	9.051030	1			~TYPE2:22|~TYPE2:22
+1075027	Günter Brielmann		Ulrichstraße 25	72116	Mössingen	48.413720	9.050590	1			~TYPE2:22|~TYPE2:22
+1075028	Günter Brielmann		Ulrichstraße 25	72116	Mössingen	48.413710	9.051140	1			~TYPE2:22|~TYPE2:22
+1075029	Günter Brielmann		Ulrichstraße 25	72116	Mössingen	48.413740	9.051170	1			~TYPE2:22|~TYPE2:22
+1075030	Günter Brielmann		Ulrichstraße 25	72116	Mössingen	48.413790	9.051210	1			~TYPE2:22
+1075031	Bernd Brielmann		Ulrichstraße 23	72116	Mössingen	48.413640	9.050190	1			~TYPE2:22
+1075032	Bernd Brielmann		Ulrichstraße 23	72116	Mössingen	48.413510	9.050940	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075034	Bernd Brielmann		Ulrichstraße 23	72116	Mössingen	48.413430	9.050910	1			~TYPE2:22|~TYPE2:22
+1075035	Bernd Brielmann		Ulrichstraße 25	72116	Mössingen	48.414040	9.050680	1			~TYPE2:22|~TYPE2:22
+1075036	Bernd Brielmann		Ulrichstraße 25	72116	Mössingen	48.414010	9.050640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075038	Bernd Brielmann		Ulrichstraße 25	72116	Mössingen	48.413950	9.050550	1			~TYPE2:22|~TYPE2:22
+1075039	Bernd Brielmann		Ulrichstraße 23	72116	Mössingen	48.413690	9.050210	1			~TYPE2:22|~TYPE2:22
+1075043	Julian Brielmann		Siemensstraße 15	72116	Mössingen	48.405030	9.039770	1			~TYPE2:22|~TYPE2:22
+1075044	Julian Brielmann		Siemensstraße 13	72116	Mössingen	48.405170	9.039510	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075046	Julian Brielmann		Siemensstraße 13	72116	Mössingen	48.405350	9.039460	1			~TYPE2:22
+1075047	Julian Brielmann		Siemensstraße 13	72116	Mössingen	48.405510	9.039630	1			~TYPE2:22|~TYPE2:22
+1075048	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405160	9.041750	1			~TYPE2:22|~TYPE2:22
+1075049	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405220	9.041710	1			~TYPE2:22|~TYPE2:22
+1075050	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405270	9.041690	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075052	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405340	9.041570	1			~TYPE2:22|~TYPE2:22
+1075053	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405320	9.041520	1			~TYPE2:22|~TYPE2:22
+1075054	Martina Brielmann		Maybachstraße 12	72116	Mössingen	48.405290	9.041440	1			~TYPE2:22|~TYPE2:22
+1075055	Martina Brielmann		Siemensstraße 13	72116	Mössingen	48.405540	9.039720	1			~TYPE2:22|~TYPE2:22
+1075056	Martina Brielmann		Siemensstraße 13	72116	Mössingen	48.405570	9.039810	1			~TYPE2:22
+1075058	Simon Brielmann		Maybachstraße 12	72116	Mössingen	48.405080	9.040530	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1075059	Simon Brielmann		Maybachstraße 12	72116	Mössingen	48.405240	9.040460	1			~TYPE2:22
+1075060	Simon Brielmann		Maybachstraße 12	72116	Mössingen	48.405280	9.040430	1			~TYPE2:22|~TYPE2:22
+1075061	Simon Brielmann		Siemensstraße 13	72116	Mössingen	48.405580	9.040060	1			~TYPE2:22|~TYPE2:22
+1075062	Simon Brielmann		Siemensstraße 11	72116	m	48.405790	9.040140	1			~TYPE2:22|~TYPE2:22
+1075105	Autohaus Fichtner GmbH		Dottinger Straße 51	72525	Münsingen	48.414280	9.479850	1			~TYPE2:3.6|~SCHUKO:2.3
+1075145	Gemeinde Nehren		Hauptstraße 32	72147	Nehren	48.432911	9.068758	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1075438	Andreas Busch		Konviktstr. 11	72488	Sigmaringen	48.086942	9.227986	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2_TETHERED:11
+1075439	Andreas Busch		Konviktstr. 11	72488	Sigmaringen	48.087032	9.228055	1			~TYPE2:11
+1075753	EP: Electro Neusch OHG		Schäufeleweg 1	72510	Stetten am kalten Markt	48.072377	9.044482	1			~TYPE2:22|~TYPE2:22
+1075832	SchwörerHaus KG		Hans-Schwörer-Str. 8	72531	Hohenstein	48.326320	9.330442	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075834	SchwörerHaus KG		Hans-Schwörer-Str. 8	72531	Hohenstein	48.326469	9.331234	1			~TYPE2:22|~TYPE2:22
+1076307	E-Ladestation Wachtelhau		Maximilian-Haller-Straße 16/2	72488	Sigmaringen	48.075840	9.223619	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1076454	Erster Laizer Ladepunkt		Litschenberg 4/1	72488	Laiz	48.078101	9.195421	1			~TYPE2:22+TYPE2_TETHERED:22
+1076479	Landgut Untere Mühle		Mühlstraße 36	72479	Straßberg	48.171806	9.094306	1			~TYPE2:22|~TYPE2:22
+1076678	DIPM		Kirchbergstr. 37	72813	St. Johann	48.438568	9.375585	1			~TYPE2:22|~TYPE2:22
+1078139	EnBW mobility+ AG und Co.KG		Karl-von-Drais-Str. 3	72793	Pfullingen	48.481100	9.231300	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1078203	EnBW mobility+ AG und Co.KG		Ernst-Abbe-Str. 20	72770	Reutlingen	48.497685	9.153630	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1080685	Fink GmbH Druck und Verlag		Sandwiesenstr. 17	72793	Pfullingen	48.456525	9.229779	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1080767	L&K GbR		Untere Breite 12	72144	Dusslingen	48.466216	9.061530	1			~TYPE2_TETHERED:22
+1080768	L&K GbR		Untere Breite 12	72144	Dusslingen	48.465998	9.061586	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080769	L&K GbR		Untere Breite 12	72144	Dusslingen	48.466669	9.061548	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080814	Nirmal Singh		In der Stelle 2	72810	Gomaringen	48.453663	9.100464	1			~TYPE2:22+TYPE2_TETHERED:22
+1081331	Hermann Menton GmbH & Co KG		Graf-Zeppelin-Strasse 2	72525	Münsingen	48.415990	9.477415	1			~TYPE2:22|~TYPE2:22
+1083914	Haasis Grundstücksverwaltung GmbH&Co.KG		Sigmaringer Str. 25	72458	Albstadt	48.208284	9.036006	1			~TYPE2:11|~TYPE2:11
+1084026	Gasthof Löwen		Riedlinger Strasse 1	88515	Wilflingen	48.137550	9.354760	1			~TYPE2:22|~TYPE2:22
+1084643	Andreas Huber		Auf Stiegel 30	72461	Albstadt	48.275902	9.008216	1			~TYPE2_TETHERED:11
+1084979	Bilal Ayhan		Minnesängerweg 34	72131	Ofterdingen	48.417596	9.021197	1			~TYPE2:11
+1085990	Helmut Bühle		Lehmbuchenweg 9	72525	Münsingen	48.378910	9.492065	1			~TYPE2:9
+1086200	Jennifer Forch		Bösmannstraße 11	72762	Reutlingen	48.493403	9.195430	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087004	Michael Hicke		Bachstraße 6	72810	Gomaringen	48.454264	9.101231	1			~TYPE2_TETHERED:11
+1087741	Silke Bianca Ott-Zetzsche		Beethovenstraße 85	72458	Albstadt	48.219797	9.013494	1			~TYPE2_TETHERED:11
+1088039	Thomas Diedler		Steubenstraße 37	72764	Reutlingen	48.480678	9.219687	1			~TYPE2:11
+1088114	Thomas Wahl		Holunderweg 15	88521	Ertingen	48.098649	9.465691	1			~TYPE2_TETHERED:11
+1088287	Ulrich Reck		Wiesenstraße 31	88521	Ertingen	48.105242	9.416518	1			~TYPE2_TETHERED:11
+1091155	Thomas Hans Knupfer		Meidelstetter Str. 12/8	72829	Engstingen	48.386057	9.287427	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1091157	Thomas Hans Knupfer		Meidelstetter Str. 12	72829	Engstingen	48.386223	9.287619	1	24/7	Keine Beschränkung	~CCS2:50
+1092876	Bockinac Franjo		Striehweg 16	72820	Sonnenbühl	48.410912	9.197747	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1093103	Fensterle Beton- und Fertigteilwerk GmbH		Schwarzachstr. 14	88521	Ertingen	48.088799	9.462814	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093163	Elektro-Müller		Wildrosenstraße 2	72534	Hayingen	48.280088	9.478626	1			~TYPE2:22|~TYPE2:22+SCHUKO:22
+1093284	Metzingen connect GmbH		Nürtinger Straße 14	72555	Metzingen	48.322501	9.171120	1			~TYPE2:22|~TYPE2:22
+1093485	Kammerer-Brodbeck Energietechnik GmbH		Gerhard-Kindler-Str. 8	72770	Reutlingen	48.496234	9.137911	1			~TYPE2:22|~TYPE2:22
+1096628	Autohaus Ernst Müller GmbH & Co. KG		Meßkircher Str. 39	88512	Mengen	48.043282	9.321406	1	24/7	Nur für Kunden/Besucher	DE*GCE*EDCCR272932~CCS2:50|DE*GCE*EACCR272931~TYPE2:11
+1097528	Steinhart & Kraus GmbH & Co. KG		Altheimer Str. 12	88499	Altheim	48.153840	9.467529	1			~CCS2:22
+1097930	Gemeinde Winterlingen		Marktstr. 7	72474	Winterlingen	48.178397	9.118298	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1102944	EnBW mobility+ AG und Co.KG		Gammertinger Str. 21	88499	Riedlingen	48.153510	9.471530	1		Keine Beschränkung	~CCS2:80|~CCS2:80
+1104332	Schulstiftung der Evangelischen Landeskirche in Württemberg Evangelische Seminarstiftunginfo@schulstiftung.info		Hegwiesenstr. 5	72116	Mössingen	48.413357	9.072380	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1105822	Hahn Sportwagen Reutlingen GmbH		Ernst-Abbe Str. 29	72770	Reutlingen	48.497034	9.153819	1			~CCS2:320+CHADEMO:320|~CCS2:320+CHADEMO:320
+1105829	Mercedes- Benz AG - Niederlassung Reutlingen / Tübingen		Daimlerstraße 15	72793	Pfullingen	48.478522	9.224068	1			~TYPE2:22|~TYPE2:22
+1105830	Mercedes- Benz AG - Niederlassung Reutlingen / Tübingen		Daimlerstraße 15	72793	Pfullingen	48.478428	9.224710	1			~TYPE2:22|~TYPE2:22
+1105834	Mercedes- Benz AG - Niederlassung Reutlingen / Tübingen		Daimlerstraße 15	72793	Pfullingen	48.478065	9.223612	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1107111	E.ON Drive GmbH		Obere Wässere TG 0	72764	Reutlingen	48.488797	9.216659	1			~TYPE2:11|~TYPE2:11
+1109991	Gemeindewerke Krauchenwies - Stromversorgung Eigenbetrieb		Klappergasse 4	72505	Krauchenwies	48.018136	9.251387	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1109992	Gemeindewerke Krauchenwies - Stromversorgung Eigenbetrieb		Sigmaringer Str. 46	72505	Krauchenwies	48.036472	9.249202	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1109993	Gemeindewerke Krauchenwies - Stromversorgung Eigenbetrieb		Schmiedegasse 3	72505	Krauchenwies	48.018271	9.249811	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1110532	Fischer-J.W. Zander GmbH & Co. KG		Schillerstraße 112	72458	Albstadt	48.212279	9.011798	1			~TYPE2:11|~TYPE2:11
+1110533	Fischer-J.W. Zander GmbH & Co. KG		Schillerstraße 112	72458	Albstadt	48.212218	9.012255	1			~TYPE2:11
+1112749	Autohaus Link+Korn GmbH		Sigmaringer Str. 185	72458	Albstadt	48.203760	9.049102	1			~TYPE2:11+TYPE2_TETHERED:11+CCS2:11|~TYPE2:11+TYPE2_TETHERED:11+CCS2:11|~TYPE2:11+TYPE2_TETHERED:11+CCS2:11
+1112974	H.-D. SCHUNK GmbH & Co.		Lothringer Str 23	88512	Mengen	48.056865	9.337199	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113604	Autohaus Weiß & Brunner GbR, Uwe Weiß und Josef Brunner		Hörschwager Straße 5	72818	Trochtelfingen	48.311139	9.240088	1			~TYPE2:11|~CCS2:24
+1113682	Okay Hancer		Brunnenstr. 7	72805	Lichtenstein	48.428115	9.251889	1			~TYPE2:11
+1113881	Fischer's Brauhaus Mössingen GmbH & Co. KG		Auf der Lehr 30	72116	Mössingen	48.408899	9.065670	1			~TYPE2:22|~TYPE2:22
+1113882	Fischer's Brauhaus Mössingen GmbH & Co. KG		Auf der Lehr 30	72116	Mössingen	48.408794	9.065577	1			~TYPE2:22|~TYPE2:22
+1114253	Arthur Demmer CNC Bearbeitung e.K.		Friedrich-List-Straße 8	72488	Sigmaringen	48.080446	9.235750	1			~CCS2:150|~CCS2:150
+1114478	ws IT Service GmbH		Wachtelhau 10	72488	Sigmaringen	48.072555	9.223320	1			~TYPE2:11|~TYPE2:11
+1116115	Armin Reitze	KEBA Wallbox	Wildensteiner Str. 13	88637	Leibertingen	48.045365	9.013750	1	24/7	Nur für Kunden/Besucher	DE*CAF*E01003D*1~TYPE2_TETHERED:22
+1117581	EWE Go GmbH	McD_0720_1A	Max-Eyth-Str. 16	72793	Pfullingen	48.474563	9.226802	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1118113	Parkraumgesellschaft Baden-Württemberg GmbH		Anton-Günther-Str. 51	72488	Sigmaringen	48.088506	9.239907	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1118210	EnBW mobility+ AG und Co.KG		In der Au 2/3	72488	Sigmaringen	48.088130	9.220410	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1118343	Julian Brielmann	Bei Autowaschcenter	Siemensstr. 13	72116	Mössingen	48.405400	9.039350	1	24/7	Keine Beschränkung	DE*BRI*EDC1*01~CCS2:50|DE*BRI*EDC1*02~CCS2:50
+1118344	Julian Brielmann	Bei Autowaschcenter	Siemensstr. 13	72116	Mössingen	48.405270	9.039420	1	24/7	Keine Beschränkung	DE*BRI*EDC5*01~CCS2:50|DE*BRI*EDC5*02~CCS2:50
+1118346	Simon Brielmann	Bei Autowaschcenter	Siemensstr. 13	72116	Mössingen	48.405420	9.039410	1	24/7	Keine Beschränkung	DE*BRI*EDC2*01~CCS2:50|DE*BRI*EDC2*02~CCS2:50
+1118347	Simon Brielmann	Bei Autowaschcenter	Siemensstr. 13	72116	Mössingen	48.405440	9.039470	1	24/7	Keine Beschränkung	DE*BRI*EDC3*01~CCS2:50|DE*BRI*EDC3*02~CCS2:50
+1118348	Martina Brielmann	Beim Autowaschcenter	Siemensstr. 13	72116	Mössingen	48.405460	9.039550	1	24/7	Keine Beschränkung	DE*BRI*EDC4*01~CCS2:50|DE*BRI*EDC4*02~CCS2:50
+1118351	Günter Brielmann	Beim Holzplatz RÖWA rein	Ulrichstr. 32/1	72116	Mössingen	48.413730	9.051450	1	24/7	Keine Beschränkung	DE*BRI*EDC6*01~CCS2:50|DE*BRI*EDC6*02~CCS2:50
+1118352	Günter Brielmann	Beim Holzplatz RÖWA rein	Ulrichstr. 32/1	72116	Mössingen	48.413770	9.051480	1	24/7	Keine Beschränkung	DE*BRI*EDC7*01~CCS2:50|DE*BRI*EDC7*02~CCS2:50
+1118450	Bernd Brielmann	Beim Holzplatz RÖWA rein	Ulrichstr. 32/1	72116	Mössingen	48.413850	9.051530	1	24/7	Keine Beschränkung	DE*BRI*EDC8*01~CCS2:50|DE*BRI*EDC8*02~CCS2:50
+1119563	Energie Südbayern GmbH	ESB_0367_01 / Rehabilitationsklinik - Bad Saulgau	Siebenkreuzerweg 18	88348	Bad Saulgau	48.014979	9.487465	1	24/7	Keine Beschränkung	DEESBE036701~TYPE2:22|DEESBE036702~TYPE2:22|DEESBE036703~TYPE2:22|DEESBE036704~TYPE2:22
+1119696	Stadtwerke Mengen	Öffentliche Tiefgarage	Olgastr. 63	88512	Mengen	48.046470	9.329810	1	24/7	Keine Beschränkung	DEM3NE000201~TYPE2:22|DEM3NE000202~TYPE2:22
+1120561	Pfalzwerke AG	OBI Mössingen	Siemensstr. 4	72116	Mössingen	48.404800	9.039065	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*PWA*EALP22270X01557*01~CCS2:300|DE*PWA*EALP22270X01557*02~CCS2:300|DE*PWA*EALP22537X00262*01~CCS2:50|DE*PWA*EALP22537X00262*02~CCS2:50
+1120562	Pfalzwerke AG	OBI Mössingen	Siemensstr. 4	72116	Mössingen	48.404844	9.039043	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*PWA*EALP22270X01558*01~CCS2:300|DE*PWA*EALP22270X01558*02~CCS2:300
+1121327	Shell Deutschland GmbH		Kleinengstinger Str. 16	72829	Engstingen	48.386992	9.291161	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1126375	Stadtwerke Mengen		Mittlere Str. 52	88512	Mengen	48.047882	9.329486	1	24/7	Keine Beschränkung	DEM3NE000501~TYPE2:22|DEM3NE000501~TYPE2:22
+1126405	Stadtwerke Mengen	Am Friedhof	Bremer Str. 10	88512	Mengen	48.049371	9.340419	1	24/7	Keine Beschränkung	DEM3NE000301~TYPE2:22|DEM3NE000302~TYPE2:22
+1126406	Stadtwerke Mengen	Am Hallenbad	Ablachstr. 7	88512	Mengen	48.049253	9.323844	1	24/7	Keine Beschränkung	EM3NE000601~TYPE2:22|DEM3NE000602~TYPE2:22
+1127407	Bayer Immobilien Verwaltung KG	Gebäude 79	Marie-Curie-Str. 18	72488	Sigmaringen	48.090819	9.242190	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE1:22|~TYPE2:22+TYPE1:22
+1128561	BayWa Mobility Solutions GmbH		Seilerweg 22-26	72574	Bad Urach	48.488394	9.401157	1	24/7	Keine Beschränkung	DE*122*E7022301~CCS2:75|DE*122*E7022302~CCS2:75
+1128644	Landratsamt Biberach	Kreisgymnasium Riedlingen	Ziegelhüttenstr. 45	88499	Riedlingen	48.158710	9.474150	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|DE*ONE*EBCD3~TYPE2:11|DE*ONE*E3FNB~TYPE2:11
+1129551	Andreas Danzebrink		Theodor-Fischer-Str. 21	72793	Pfullingen	48.452044	9.229272	1		Nur für Kunden/Besucher	~TYPE2:11
+1129794	EnBW mobility+ AG und Co.KG		Zeppelinstr. 25-27	72116	Mössingen	48.404180	9.039732	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1129838	EnBW mobility+ AG und Co.KG		Im Greuth 16	72574	Bad Urach	48.491925	9.401081	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1130130	Team-Emobility GmbH		Max-Planck-Str. 31	72800	Eningen	48.477768	9.243331	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1130812	KURZ BioEnergie		Erwin-Rommel-Str. 25	72829	Engstingen	48.363500	9.266400	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1133062	EnBW mobility+ AG und Co.KG		Allee 5	72805	Lichtenstein	48.430273	9.254965	1	24/7	Keine Beschränkung	DE*EBW*E905320*1~SCHUKO:3+TYPE2:22|DE*EBW*E905320*2~SCHUKO:3+TYPE2:22
+1133771	FairEnergie GmbH	Liststraße 29, Reutlingen	Liststr. 29	72764	Reutlingen	48.499455	9.213924	1	24/7	Keine Beschränkung	DEFERE006701~CCS2:50|DEFERE006702~CCS2:50
+1134185	Vattenfall Smarter Living GmbH		Kientenstr. 12	72458	Albstadt	48.210442	9.016340	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1134281	Gebrüder Wendler Betriebs GmbH	Parkplatz Ziegelweg 1/1	Ziegelweg 1/1	72764	Reutlingen	48.487839	9.218607	1	24/7	Keine Beschränkung	DE*CIQ*EYN6IAW8ERHFS*1~TYPE2:22|DE*CIQ*EYN6IAW8ERHFS*2~TYPE2:22|DE*CIQ*EW9HQQ6JZWZQJ*1~TYPE2:22|DE*CIQ*EW9HQQ6JZWZQJ*2~TYPE2:22|DE*CIQ*EUB8SASGTN187*1~TYPE2:22|DE*CIQ*EUB8SASGTN187*2~TYPE2:22|DE*CIQ*EBKL5ICC22PZR*1~TYPE2:22|DE*CIQ*EBKL5ICC22PZR*2~TYPE2:22|DE*CIQ*EYFVSQVS4I5LD*1~TYPE2:22|DE*CIQ*EYFVSQVS4I5LD*2~TYPE2:22|DE*CIQ*ELFPBBWFBQL3E*1~TYPE2:22|DE*CIQ*ELFPBBWFBQL3E*2~TYPE2:22|DE*CIQ*EE8VV8TPAGNLN*1~TYPE2:22|DE*CIQ*EE8VV8TPAGNLN*2~TYPE2:22|DE*CIQ*EIQ7IF1MEH7GJ*1~TYPE2:22|DE*CIQ*EIQ7IF1MEH7GJ*2~TYPE2:22|DE*CIQ*EEWNHLA4WMKBR*1~TYPE2:22|DE*CIQ*EEWNHLA4WMKBR*2~TYPE2:22|DE*CIQ*E1VLA4GY5E4L5*1~TYPE2:22|DE*CIQ*E1VLA4GY5E4L5*2~TYPE2:22
+1134384	Autohaus Gitschier e.K.	Herbertingen	Bahnhofstr. 32	88518	Herbertingen	48.063058	9.431753	1	Mo-Fr 08:00-17:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1136451	Aral Pulse		Neue Unlinger Str. 4	88499	Riedlingen	48.148362	9.485394	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1136842	SCHARR Drive Ladestation	SP Golfclub Schloss Kressbach	Kressbach 11	72072	Tübingen	48.481170	9.051673	1	24/7	Keine Beschränkung	DE*ARR*ESP139*001~TYPE2:11|DE*ARR*ESP139*002~TYPE2:11
+1137451	Kaufland	5270_Kland_Pfullingen_T65-IT1-1025-004	Max-Eyth-Str. 34	72793	Pfullingen	48.477191	9.227651	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50
+1138582	Vallon Metallveredlung GmbH	Wallbox 1	Markwiesenstr. 24	72770	Reutlingen	48.495481	9.155022	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1138870	ALB-GOLD Teigwaren GmbH		Klaus-Freidler-Str. 1	72818	Trochtelfingen	48.327231	9.238606	1	24/7	Keine Beschränkung	DE*BIG*ESBSJD~TYPE2_TETHERED:22|DE*BIG*EACOEX~TYPE2:22|DE*BIG*EZAYVI~TYPE2_TETHERED:22|DE*BIG*EZMZKS~TYPE2:22
+1138875	ALB-GOLD Teigwaren GmbH		Klaus-Freidler-Str. 1	72818	Trochtelfingen	48.327289	9.238536	1	24/7	Keine Beschränkung	DE*BIG*EOBNGF~TYPE2_TETHERED:22|DE*BIG*EXZJFA~TYPE2:22|DE*BIG*ETIKRS~TYPE2_TETHERED:22|DE*BIG*EZDSSM~TYPE2:22|DE*BIG*EKBRIU~TYPE2_TETHERED:22|DE*BIG*ESSIOL~TYPE2:22
+1138878	ALB-GOLD Teigwaren GmbH		Klaus-Freidler-Str. 1	72818	Trochtelfingen	48.327248	9.238542	1	24/7	Keine Beschränkung	DE*BIG*EHTDSX~TYPE2_TETHERED:22|DE*BIG*ECJBKI~TYPE2:22
+1139200	EnBW mobility+ AG und Co.KG	REWE Albstadt, Kientenstraße	Kientenstraße 57	72458	Albstadt	48.211060	9.000230	1	24/7	Keine Beschränkung	DE*EBW*E910173*1~CCS2:200|DE*EBW*E910173*2~CCS2:200|DE*EBW*E910172*1~CCS2:200|DE*EBW*E910172*2~CCS2:200
+1139542	EnBW mobility+ AG und Co.KG	72829 Engstingen, Reutlinger Str. 1	Reutlinger Straße 1	72829	Engstingen	48.385210	9.297830	1	24/7	Keine Beschränkung	DE*EBW*E910129*1~CCS2:100|DE*EBW*E910129*2~CCS2:100
+1140158	Team-Emobility GmbH		Am Echazufer 24	72764	Reutlingen	48.486610	9.218758	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1140323	EnBW mobility+ AG und Co.KG	Bäckerei Zoll, Herbertingen	Rötenweg 4	88518	Herbertingen	48.064640	9.416670	1	24/7	Keine Beschränkung	DE*EBW*E910109*1~CCS2:50|DE*EBW*E910109*2~CCS2:50
+1140412	EnBW mobility+ AG und Co.KG	72501 Gammertingen, Bahnhofstraße 1	Bahnhofstraße 1	72501	Gammertingen	48.250500	9.217217	1	24/7	Keine Beschränkung	DE*EBW*E910184*1~CCS2:93|DE*EBW*E910184*2~CCS2:93
+1141012	EnBW mobility+ AG und Co.KG	REWE Reutlingen, Albstraße 60	Albstraße 60	72764	Reutlingen	48.486710	9.221520	1	24/7	Keine Beschränkung	DE*EBW*E910163*1~CCS2:100|DE*EBW*E910163*2~CCS2:100
+1141017	EnBW mobility+ AG und Co.KG	BMW ahg Albstadt	Sigmaringer Straße 48	72458	Albstadt	48.206442	9.038621	1	24/7	Keine Beschränkung	DE*EBW*E910152*1~CCS2:75|DE*EBW*E910152*2~CCS2:75
+1141045	Autohaus Schneider GmbH		Stuttgarter Str. 136	72574	Bad Urach	48.497087	9.384935	1			~TYPE2_TETHERED:22|~TYPE2:11
+1149746	Streck Transportges.mbH	Streck Meßkirch PKW-1	Veritasring 15	88605	Meßkirch	48.002050	9.148950	1		Nur für Kunden/Besucher	DE*ONE*ECCJ6~TYPE2:11|DE*ONE*EC2C4~TYPE2:11
+1150172	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz der Hochschule Reutlingen	Alteburgstr. 150	72762	Reutlingen	48.479708	9.187136	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1150618	Robert Bosch GmbH		Markwiesenstraße 46	72770	Reutlingen	48.493816	9.142580	1		Nur für Kunden/Besucher	DE*811*E32388*13152~TYPE2:22|DE*811*E32388*13153~TYPE2:22|DE*811*E32387*13150~TYPE2:22|DE*811*E32387*13151~TYPE2:22|DE*811*EF900260*1001~TYPE2:22|DE*811*EF900260*1002~TYPE2:22|DE*811*EF900260*1003~TYPE2:22|DE*811*EF900260*1004~TYPE2:22|DE*811*EF900260*1005~TYPE2:22|DE*811*EF900260*1006~TYPE2:22|DE*811*EEE50257*1001~TYPE2:22|DE*811*EEE50257*1002~TYPE2:22|DE*811*E32458*13353~TYPE2:22|DE*811*E32458*13354~TYPE2:22|DE*811*E32459*13355~TYPE2:22|DE*811*E32459*13356~TYPE2:22|DE*811*E32460*13357~TYPE2:22|DE*811*E32460*13358~TYPE2:22|DE*811*E32496*13431~TYPE2:11|DE*811*E32496*13432~TYPE2:11|DE*811*EF8F025F*1001~TYPE2:22|DE*811*EF8F025F*1002~TYPE2:22|DE*811*E492560417*1~TYPE2:11|DE*811*E492560417*2~TYPE2:11|DE*811*E492511211*2~TYPE2:22|DE*811*E492511211*1~TYPE2:22|DE*811*E61234753*1~TYPE2:11|DE*811*E61234753*2~TYPE2:11|DE*811*E61234756*1~TYPE2:11|DE*811*E61234756*2~TYPE2:11|DE*811*E61234758*1~TYPE2:11|DE*811*E61234758*2~TYPE2:22
+1150629	Robert Bosch GmbH		Tübinger Straße 123	72762	Reutlingen	48.496328	9.191667	1		Nur für Kunden/Besucher	DE*811*E32351*13068~TYPE2:22|DE*811*E32351*13069~TYPE2:22|DE*811*E32351*13971~TYPE2:22|DE*811*E32351*13972~TYPE2:22|DE*811*E32352*13070~TYPE2:22|DE*811*E32352*13071~TYPE2:22|DE*811*E32451*13339~TYPE2:8.2|DE*811*E32451*13340~TYPE2:7|DE*811*E32452*13341~TYPE2:8.1|DE*811*E32452*13342~TYPE2:8.2|DE*811*E32453*13343~TYPE2:8|DE*811*E32453*13344~TYPE2:8|DE*811*E32454*13345~TYPE2:7|DE*811*E32454*13346~TYPE2:7|DE*811*E32455*13347~TYPE2:7|DE*811*E32455*13348~TYPE2:8.2|DE*811*E32654*13747~TYPE2:7|DE*811*E32654*13748~TYPE2:7|DE*811*E32653*13745~TYPE2:7|DE*811*E32653*13746~TYPE2:7|DE*811*E32652*13743~TYPE2:8.2|DE*811*E32652*13744~TYPE2:7|DE*811*EEFE025F*1001~TYPE2:8.3|DE*811*EEFE025F*1002~TYPE2:7|DE*811*EEFF0260*1001~TYPE2:7|DE*811*EEFF0260*1002~TYPE2:7|DE*811*EEF80258*1001~TYPE2:7|DE*811*EEF80258*1002~TYPE2:7|DE*811*EEF90259*1001~TYPE2:8.3|DE*811*EEF90259*1002~TYPE2:7|DE*811*EEFA026A*1001~TYPE2:8.2|DE*811*EEFA026A*1002~TYPE2:7|DE*811*EEFB027B*1001~TYPE2:8.2|DE*811*EEFB027B*1002~TYPE2:8.2|DE*811*E32712*13865~TYPE2:7|DE*811*E32712*13866~TYPE2:7|DE*811*E32651*13741~TYPE2:7|DE*811*E32651*13742~TYPE2:7|DE*811*E61234569*1~TYPE2:11|DE*811*E61234568*1~TYPE2:11|DE*811*E61234748*1~TYPE2:11|DE*811*E61234748*2~TYPE2:11|DE*811*E61234749*1~TYPE2:11|DE*811*E61234749*2~TYPE2:11|DE*811*E61234750*1~TYPE2:11|DE*811*E61234750*2~TYPE2:11|DE*811*E61234751*1~TYPE2:11|DE*811*E61234751*2~TYPE2:11|DE*811*E61234754*1~TYPE2:11|DE*811*E61234754*2~TYPE2:11|DE*811*E61234755*1~TYPE2:11|DE*811*E61234755*2~TYPE2:11|DE*811*E61234757*1~TYPE2:11|DE*811*E61234757*2~TYPE2:9|DE*811*E61234752*1~TYPE2:11|DE*811*E61234752*2~TYPE2:11|DE*811*E61234589*1~TYPE2:11
+1151446	Wirelane GmbH	Sulzwiesenstraße 27, 72800 Eningen unter Achalm	Sulzwiesenstraße 27	72800	Eningen unter Achalm	48.492333	9.257528	1		Keine Beschränkung	DE*WLN*EP000523~TYPE2:22|DE*WLN*EP000524~TYPE2:22
+1151566	Wirelane GmbH		Oberhaldenweg 33	72793	Pfullingen	48.467000	9.218361	1		Keine Beschränkung	DE*WLN*EP001195~TYPE2:22|DE*WLN*EP001196~TYPE2:22
+1151567	Wirelane GmbH		Auf der Mauer 15	72793	Pfullingen	48.453917	9.216722	1		Keine Beschränkung	DE*WLN*EP001197~TYPE2:22|DE*WLN*EP001198~TYPE2:22
+1151568	Wirelane GmbH		Hauffstraße 6	72793	Pfullingen	48.472389	9.230583	1		Keine Beschränkung	DE*WLN*EP001199~TYPE2:22|DE*WLN*EP001200~TYPE2:22
+1153087	EnBW mobility+ AG und Co.KG	REWE Dußlingen, Blumenstraße	Blumenstraße 25	72144	Dußlingen	48.447360	9.058940	1	24/7	Keine Beschränkung	DE*EBW*E906431*1~CCS2:200|DE*EBW*E906431*2~CCS2:200|DE*EBW*E910128*1~CCS2:200|DE*EBW*E910128*2~CCS2:200|DE*EBW*E906430*1~CCS2:100|DE*EBW*E906430*2~CCS2:100
+1154176	SCHARR Drive Ladestation	SP Golfclub Reutlingen Sonnenbühl	Gewann Vor Staudach 2	72820	Sonnenbühl	48.386811	9.218607	1	24/7	Keine Beschränkung	DE*ARR*ESP150*001~TYPE2:11|DE*ARR*ESP150*002~TYPE2:11|DE*ARR*ESP151*001~TYPE2:11|DE*ARR*ESP151*002~TYPE2:11
+1155358	Hotel Neumühle		Neumühle 1	88631	Beuron	48.081710	9.079520	1	24/7	Keine Beschränkung	DE*CIQ*ERJ77ILQHBIIK*1~TYPE2:11|DE*CIQ*EZ7CICW7QTCQY*1~TYPE2:11
+1155631	EnBW mobility+ AG und Co.KG	E-Center Sigmaringen, Friedrich-List-Str. 3	Friedrich-List-Str. 3	72488	Sigmaringen	48.081400	9.233870	1	24/7	Keine Beschränkung	DE*EBW*E906427*1~CCS2:200|DE*EBW*E906427*2~CCS2:200|DE*EBW*E906429*1~CCS2:200|DE*EBW*E906429*2~CCS2:200
+1156530	Wirelane GmbH	Achalm Reutlingen	Achalm (Gewand) 2	72766	Reutlingen	48.491098	9.239995	1		Keine Beschränkung	DE*WLN*ES001086~TYPE2:11|DE*WLN*ES001087~TYPE2:11|DE*WLN*EP001165~TYPE2:11|DE*WLN*EP001166~TYPE2:11
+1156989	Wirelane GmbH		Berliner Straße 94	72458	Albstadt	48.203068	9.043461	1		Keine Beschränkung	DE*WLN*ES001033~TYPE2:22|DE*WLN*ES001034~TYPE2:22
+1157045	Wirelane GmbH		Lange-Äcker-Straße 2	72800	Eningen unter Achalm	48.489972	9.259889	1		Keine Beschränkung	DE*WLN*EP001541~TYPE2:22|DE*WLN*EP001542~TYPE2:22
+1157138	Wirelane GmbH		Breite Str. 11	72116	Mössingen	48.404694	9.054250	1		Keine Beschränkung	DE*WLN*EP002995~TYPE2:22|DE*WLN*EP002996~TYPE2:22
+1157139	Wirelane GmbH		Eisenbahnstraße 10A	72116	Mössingen	48.405639	9.047083	1		Keine Beschränkung	DE*WLN*EP002989~TYPE2:22|DE*WLN*EP002990~TYPE2:22
+1157739	Wirelane GmbH		Grasshoppersstraße 3	72116	Mössingen	48.405340	9.057289	1		Keine Beschränkung	DE*WLN*ES001793~TYPE2:22|DE*WLN*ES001794~TYPE2:22
+1158171	EnBW mobility+ AG und Co.KG	Norma Gammertingen	Sigmaringer Straße 75	72501	Gammertingen	48.246593	9.222870	1	24/7	Keine Beschränkung	DE*EBW*E909684*1~CCS2:150|DE*EBW*E909684*2~CCS2:150
+1158243	EnBW mobility+ AG und Co.KG	88499 Riedlingen, Hindenburgstr.	Alte Unlinger Straße 1/4	88499	Riedlingen	48.151681	9.477784	1	24/7	Keine Beschränkung	DE*EBW*E912251*1~CCS2:150|DE*EBW*E912251*2~CCS2:150
+1162675	cocharge	DECOC196	Gottlieb-Daimler-Str. 3	72479	Straßberg	48.191567	9.088960	1	24/7	Keine Beschränkung	DE*COC*E196*01~TYPE2:22

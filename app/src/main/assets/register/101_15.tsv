@@ -1,0 +1,282 @@
+1010794	AggerEnergie GmbH		Lichtstraße 1	51645	Gummersbach	50.982661	7.529776	1			~TYPE2:11|~TYPE2:11
+1010796	AggerEnergie GmbH		Homburgerstraße 7	51674	Wiehl	50.947195	7.549410	1			~TYPE2:22|~TYPE2:22
+1010797	AggerEnergie GmbH		Schlanderser Straße 1	51674	Wiehl	50.963576	7.503099	1			~TYPE2:11|~TYPE2:11
+1010799	AggerEnergie GmbH		Wisseraue 7	51597	Morsbach	50.863463	7.725824	1			~TYPE2:22|~TYPE2:22
+1010803	AggerEnergie GmbH		Dieringhauser Straße 159	51645	Gummersbach	50.984231	7.518505	1			~TYPE2:22|~TYPE2:22
+1010807	AggerEnergie GmbH		Dieringhauser Straße 0	51645	Gummersbach	50.984266	7.539887	1			~TYPE2:22|~TYPE2:22
+1010814	AggerEnergie GmbH		Am Bromberg 0	51580	Reichshof	50.995220	7.692970	1			~TYPE2:22|~TYPE2:22
+1011123	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Rathaus Wenden 0	57482	Wenden	50.970128	7.872905	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1011125	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Kölner Str. 0	57482	Wenden	50.953108	7.820249	1			~TYPE2:22|~TYPE2:22
+1011126	BIGGE ENERGIE GmbH & Co. KG		Siegenerstr. 99	57482	Wenden	50.935852	7.899346	1			~TYPE2:22|~TYPE2:22
+1011146	BIGGE ENERGIE GmbH & Co. KG		Koblenzer Str. 58	57482	Wenden	50.984980	7.846710	1			~TYPE2:22|~TYPE2:22
+1012968	Westenergie Metering GmbH		Bahnhofstr. 0	57223	Kreuztal	50.956527	7.991706	1			~TYPE2:22|~TYPE2:22
+1013042	Westenergie Metering GmbH		Roonstr. 6	57223	Kreuztal	50.959407	7.991587	1			~TYPE2:22|~TYPE2:22
+1013043	Westenergie Metering GmbH		Am Park 10	57223	Kreuztal	50.963448	7.990902	1			~TYPE2:22|~TYPE2:22
+1013199	Westenergie Metering GmbH		Zum Kurpark 0	57258	Freudenberg	50.898617	7.875583	1			~TYPE2:22|~TYPE2:22
+1013200	Westenergie Metering GmbH		Marburger Straße 38	57223	Kreuztal	50.961367	7.994433	1			~TYPE2:22|~TYPE2:22
+1013203	Westenergie Metering GmbH		Kölner Straße 0	57290	Neunkirchen	50.789400	7.999667	1			~TYPE2:22|~TYPE2:22
+1013211	Westenergie Metering GmbH		Ladestraße 2	57518	Betzdorf	50.791133	7.869383	1			~TYPE2:22|~TYPE2:22
+1021809	EWE Go GmbH	McD_0596_1A	Wilhelmstr. 110	57518	Betzdorf	50.794352	7.863171	1	24/7	Keine Beschränkung	DE*2GO*EMCD0596*1A*1~CCS2:150|DE*2GO*EMCD0596*1A*2~CCS2:150
+1022003	EWE Go GmbH		Bühler Höhe 1	57258	Freudenberg	50.911962	7.911900	1			~CCS2:320|~CCS2:320
+1022214	EWE Go GmbH		Am Breithammer 5	57462	Olpe	50.998838	7.838365	1			~CCS2:150|~CCS2:150
+1024917	EnBW mobility+ AG und Co.KG		Rheinstraße 24	56249	Herschbach	50.569133	7.736197	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1024924	EnBW mobility+ AG und Co.KG		Marktzentrum 1-4	57577	Hamm	50.767260	7.676550	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1025097	EnBW mobility+ AG und Co.KG		Autobahnraststätte Siegerland West 0	57258	Freudenberg	50.879829	7.935568	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025155	EnBW mobility+ AG und Co.KG		Raststätte Siegerland Ost 0	57258	Freudenberg	50.877611	7.945521	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025162	EnBW mobility+ AG und Co.KG		Raststätte Sessenhausen West 0	56422	Sessenhausen	50.522865	7.675260	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025163	EnBW mobility+ AG und Co.KG		Raststätte Landsberg an der Warthe 0	56244	Sessenhausen	50.521421	7.695711	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025762	EnBW mobility+ AG und Co.KG		Autobahnraststätte Siegerland Ost 0	57258	Freudenberg	50.877603	7.945751	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025776	EnBW mobility+ AG und Co.KG		Autobahn 0	56244	Sessenhausen	50.522947	7.675140	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025896	EnBW mobility+ AG und Co.KG		Autobahn 0	57258	Freudenberg	50.879832	7.935427	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025940	EnBW mobility+ AG und Co.KG		Autobahn 0	56244	Sessenhausen	50.521482	7.695594	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026670	EnBW mobility+ AG und Co.KG		Urbacher Str. 25	56305	Puderbach	50.593624	7.609018	1			~CCS2:150|~CCS2:150
+1026834	EnBW mobility+ AG und Co.KG		Einkaufspark 3	56462	Höhn	50.618140	7.982600	1			~CCS2:150|~CCS2:150
+1027158	EnBW mobility+ AG und Co.KG		Dieringhauser Straße 18	51645	Gummersbach	50.983073	7.528048	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1027224	EnBW mobility+ AG und Co.KG		Siegstraße 14	57548	Kirchen (Sieg)	50.801060	7.881890	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1027296	EnBW mobility+ AG und Co.KG		Bahnhofstraße 15-23	56457	Westerburg	50.560990	7.969350	1			~CCS2:150|~CCS2:150
+1027301	EnBW mobility+ AG und Co.KG		Wiesenstraße 6	51674	Wiehl	50.946020	7.549290	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027321	EnBW mobility+ AG und Co.KG		Bahnhofstraße 12-14	51597	Morsbach	50.863970	7.725770	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027399	EnBW mobility+ AG und Co.KG		Schneiderstraße 30	57562	Herdorf	50.781280	7.958740	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1027450	EnBW mobility+ AG und Co.KG		Otto-Kaufmann-Straße 13	51588	Nümbrecht	50.903260	7.539850	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027749	EnBW mobility+ AG und Co.KG		Königsberger Straße 40	56269	Dierdorf	50.545830	7.635110	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027855	EnBW mobility+ AG und Co.KG		Kirchener Straße 4	57518	Betzdorf	50.792760	7.877990	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1027886	EnBW mobility+ AG und Co.KG		Frankfurter Straße 25	57635	Weyerbusch	50.713436	7.560886	1			~CCS2:150|~CCS2:150
+1028044	EnBW mobility+ AG und Co.KG		Konrad-Adenauer-Straße 20A	57572	Niederfischbach	50.854366	7.862987	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1028115	EnBW mobility+ AG und Co.KG		Hagener Straße 199	57223	Kreuztal	50.984920	7.961843	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1030875	AggerEnergie GmbH	Krankenhaus Waldbröl	Dr.-Goldenbogen-Str. 1 Z	51545	Waldbröl	50.880160	7.628920	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031813	TotalEnergies Charging Solutions		Hauptstr. 28	56459	Kölbingen	50.551033	7.934258	1			~CCS2:150|~CCS2:150
+1035746	ALDI SÜD		Königsberger Straße 50	56269	Dierdorf	50.546194	7.637306	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035820	ALDI SÜD		Hurster Straße 1	51570	Windeck	50.801595	7.608613	1			~TYPE2:22|~TYPE2:22
+1035912	ALDI SÜD		Weibeweg 3	57258	Freudenberg	50.904917	7.886722	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1038275	Hotel-Pension Hubertus		Bismarckstraße 37	56587	Oberraden	50.537301	7.534082	1			~TYPE2:11|~TYPE2:11
+1038444	Romantikhotel Alte Vogtei		Lindenallee 3	57577	Hamm/Sieg	50.765600	7.672948	1			~TYPE2:22|~TYPE2:22
+1038514	Siegboot Hotel und Gastronomie GmbH & Co. KG		Eiserfelderstrasse 230	57080	Siegen	50.850320	7.997098	1			~TYPE2:11|~TYPE2:11
+1038857	EnBW mobility+ AG und Co.KG		An der Lehmkaute 2	56470	Bad Marienberg (Westerwald)	50.657990	7.966548	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1038860	EnBW mobility+ AG und Co.KG		Koblenzer Str. 3	57627	Hachenburg	50.662000	7.818900	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1043383	Allego		Westerwaldpark 23a	56587	Oberhonnefeld	50.562410	7.525620	1			DEALLEGO002735*1~CCS2:300|DEALLEGO002735*2~CCS2:300|DEALLEGO002736*1~CCS2:300|DEALLEGO002736*2~CCS2:300|DEALLEGO002738*1~CCS2:300|DEALLEGO002738*2~CCS2:300|DEALLEGO002742*1~CCS2:300|DEALLEGO002742*2~CCS2:300|DEALLEGO003430*1~CCS2:300|DEALLEGO003430*2~CCS2:300|DEALLEGO003436*1~CCS2:300|DEALLEGO003436*2~CCS2:300
+1043386	Allego		Westerwaldpark 23a	56587	Oberhonnefeld	50.562370	7.525670	1			DEALLEGO002739*1~CCS2:300|DEALLEGO002739*2~CCS2:300
+1043387	Allego		Westerwaldpark 23a	56587	Oberhonnefeld	50.562470	7.525580	1			DEALLEGO002740*1~CCS2:300|DEALLEGO002740*2~CCS2:300
+1043496	Allego		Bühler Höhe 2	57258	Freudenberg	50.912756	7.910075	1			DEALLEGO001753*1~TYPE2:22|DEALLEGO002872*1~CCS2:300|DEALLEGO002872*2~CCS2:300|DEALLEGO003146*1~CCS2:300|DEALLEGO003146*2~CCS2:300
+1047447	Kreissparkasse Köln		Kaiserstraße 69-77	51545	Waldbröl	50.878679	7.622948	1			~TYPE2:22|~TYPE2:22
+1047600	IONITY GmbH	Oberhonnefeld	Steinstr. 2	56587	Oberhonnefeld-Gierend	50.562653	7.527566	1	24/7	Nur für Kunden/Besucher	DE*IOY*E234501~CCS2:350|DE*IOY*E234502~CCS2:350|DE*IOY*E234503~CCS2:350|DE*IOY*E234504~CCS2:350|DE*IOY*E234505~CCS2:350|DE*IOY*E234506~CCS2:350|DE*IOY*E234507~CCS2:350|DE*IOY*E234508~CCS2:350|DE*IOY*E234571~CCS2:200|DE*IOY*E234572~CCS2:200|DE*IOY*E234573~CCS2:200|DE*IOY*E234574~CCS2:200
+1048425	Lidl		Landblum 2	56593	Horhausen	50.592521	7.530465	1			~TYPE2:22|~TYPE2:22
+1048491	Lidl		Rathausstr. 75	51570	Windeck-Rosbach	50.805500	7.608100	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22+CHADEMO:22
+1048522	Lidl		Kölnerstr. 4	57555	Mudersbach	50.838110	7.642182	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048541	Lidl		Jungenthaler Str. 1	57548	Kirchen	50.810580	7.871940	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22
+1049738	E.ON Drive Infrastructure		Raststätte Urbacher Wald Ost 0	56307	Dernbach	50.548416	7.585134	1			~CCS2:50|~CCS2:50
+1050038	amperio GmbH (DEAMP)		Oberahrer Straße 9	56244	Ötzingen	50.516270	7.851816	1			~TYPE2:22|~TYPE2:22
+1050039	amperio GmbH (DEAMP)		Oberahrer Straße 9	56244	Ötzingen	50.516221	7.851690	1			~TYPE2:22|~TYPE2:22
+1050042	amperio GmbH (DEAMP)		Hauptstraße 3	56414	Oberahr	50.501121	7.865271	1			~TYPE2:11|~TYPE2:11
+1051688	MER Germany		Stahlwerkstraße 36	57555	Mudersbach	50.830028	7.951412	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053328	e-jIn GmbH	e-jIn Ladestation Wenden	Auf dem Ohl 13	57482	Wenden	50.988188	7.842072	1	24/7	Keine Beschränkung	DEEJIE1234590831*1~CCS2:120|DEEJIE1234590831*2~CCS2:120|DEEJIE1234590832*1~CCS2:240|DEEJIE1234590832*2~CCS2:240
+1053534	EAM Natur Energie GmbH		Bahnhofstraße 24	57548	Kirchen	50.806294	7.880582	1			~TYPE2_TETHERED:43|~TYPE2_TETHERED:50
+1053693	WSW Energie & Wasser AG		Wuppertaler Straße 2	51570	Windeck	50.764820	7.523991	1			~TYPE2:22|~TYPE2:22
+1054809	Aral Pulse		Hagener Straße 10	57223	Kreuztal	50.960927	7.988880	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1056709	Mann Naturenergie		Schulweg 8 - 14	57520	Langenbach	50.701257	7.934899	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1056711	Mann Naturenergie		Bahnhofstr. 4	57567	Daaden	50.740214	7.965301	1			~TYPE2:22|~TYPE2_TETHERED:22
+1056713	Mann Naturenergie		Nisterstraße 4	57627	Hachenburg	50.664375	7.819820	1			~TYPE2:22|~TYPE2:22
+1056714	Mann Naturenergie		Konrad-Adenauer-Platz 0	57610	Altenkirchen	50.684922	7.637940	1			~TYPE2:22|~TYPE2:22
+1056715	Mann Naturenergie		Gartenstraße 11	57627	Hachenburg	50.663275	7.821462	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1056716	Mann Naturenergie	Marktplatz	Fontenay-le-Fleury-Platz 0	57567	Daaden	50.738064	7.968484	1	24/7	Keine Beschränkung	DEMANE000601~CCS2:75
+1056717	Mann Naturenergie		Mühlengasse 0	57610	Altenkirchen	50.685911	7.644774	1			~TYPE2:22|~TYPE2:22
+1056721	Mann Naturenergie		Johann-August-Ring 26	57627	Hachenburg	50.660530	7.826590	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056722	Mann Naturenergie		Am Hopfengarten 1	57627	Hachenburg	50.656594	7.816244	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1056724	Mann Naturenergie		Lohmühle 0	57627	Hachenburg	50.657825	7.823866	1			DEMANE002201~TYPE2:11|DEMANE002202~TYPE2:11|DEMANE002203~TYPE2:11|DEMANE002204~TYPE2:11
+1056725	Mann Naturenergie		Betzdorfer Straße 0	57586	Weitefeld	50.725130	7.926978	1			DEMANE002401~TYPE2:22|DEMANE002402~TYPE2:22
+1056727	Mann Naturenergie		Graf-Gottfried-Straße 22	57520	Friedewald	50.707510	7.963680	1			~TYPE2:11|~TYPE2:11
+1061467	Allego		Auf dem Ohl 2	57482	Wenden	50.989981	7.841062	1	24/7	Keine Beschränkung	DEALLEGO003479_1~CCS2:300|DEALLEGO003479_2~CCS2:300|DEALLEGO003480_1~CCS2:300|DEALLEGO003480_2~CCS2:300|DEALLEGO003619_1~CCS2:300|DEALLEGO003619_2~CCS2:300|DEALLEGO003620_1~CCS2:300|DEALLEGO003620_2~CCS2:300
+1062559	Hubert Dick GmbH & Co. KG	Parkplatz Hauptstraße - Säule 1	Hauptstr. 26-28	51580	Reichshof	50.914198	7.654061	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1062953	advercharge	advercharge Ladestation Hagebaumarkt Freudenberg AC 1	Bühler Höhe 2-4	57258	Freudenberg	50.913868	7.911290	1	Mo-Fr 09:00-19:00, Sa 08:30-18:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1063107	EnBW mobility+ AG und Co.KG		Bahnhofstr. 30	57610	Altenkirchen (Westerwald)	50.685665	7.638153	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1064302	Kaufland	6630_Kland_Kreuztal_T65-IT1-3022-125	Marburger Str. 41	57223	Kreuztal	50.961670	7.994260	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1066671	Chris Marquardt		Ulmenstraße 4	56305	Puderbach	50.602978	7.613400	1			~TYPE2:11
+1066933	plan-finder GmbH		Kölnerstraße 24	57612	Birnbach	50.708513	7.584399	1			~CCS2:50
+1067047	Süwag Vertrieb AG & Co. KG		Reichensteiner Weg 4	56305	Puderbach	50.597778	7.608611	1			~TYPE2:22|~TYPE2:22
+1067130	Matthias Wulff		Forstweg 8	56457	Westerburg	50.566788	7.976483	1			~TYPE2:11+TYPE2_TETHERED:11
+1068009	BürgerEnergie Rhein-Sieg eG		Waldbröler Straße 0	51570	Windeck	50.807316	7.591886	1			~TYPE2:22|~TYPE2:22
+1068366	Mann Naturenergie	VanConcept	Hauptstr. 62	57584	Wallmenroth	50.794550	7.832280	1	24/7	Keine Beschränkung	DEMANE002601~TYPE2:22
+1069033	BPW Bergische Achsen KG		Ohlerhammer 1	51674	Wiehl	50.946441	7.563551	1			~TYPE2:22|~TYPE2:22
+1069034	BPW Bergische Achsen KG		Ohlerhammer 1	51674	Wiehl	50.946481	7.563687	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069209	Alexander Fichtner		Nüchels-Weiher 9	51545	Waldbröl	50.902504	7.638049	1			~TYPE2_TETHERED:11
+1069210	Alexander Fichtner		Am Rottland 3	51580	Reichshof	50.984290	7.695342	1			~TYPE2_TETHERED:11
+1069812	Autohaus Weller		Herchener Str. 2-4	57635	Weyerbusch	50.715072	7.554768	1			~TYPE2:22
+1069853	HOLMA Beteiligungs-OHG		Waldbröler Str. 43/45	51597	Morsbach	50.867602	7.726015	1			~TYPE2:22|~TYPE2:22
+1069948	Stadtwerke Wissen GmbH		Maarstraße 4	57537	Wissen	50.782433	7.736859	1			~TYPE2:22|~TYPE2:22
+1071576	Jan Strohe		Zum Hellchen 18	56242	Nordhofen	50.513896	7.754677	1			~TYPE2_TETHERED:3.7
+1071834	Autohaus Homrich und Neike GmbH		Hollertszug 7	57562	Herdorf	50.780589	7.929439	1			~TYPE2:20
+1072190	rhenag Rheinische Energie Aktiengesellschaft		Lise-Meitner-Straße 9	57610	Altenkirchen	50.689927	7.621929	1			~TYPE2:22|~TYPE2:22
+1072191	rhenag Rheinische Energie Aktiengesellschaft		Bismarckstr. 59	56470	Bad Marienberg	50.645618	7.941650	1			~TYPE2:22|~TYPE2:22
+1074834	Fabrilog GmbH & Co. KG		Industriestr. 5	51597	Morsbach	50.897769	7.702153	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075086	CK krüger GmbH & CO. KG		Hauptstraße 29	57629	Mörsbach	50.725060	7.770140	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1075849	jucom		Wiesenstraße 26	57290	Neunkirchen	50.787245	7.994806	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22
+1076266	Seltek Service		Friedhofstrasse 15	57539	Fürthen	50.977410	7.672270	1			~TYPE2_TETHERED:11+CHADEMO:11
+1076473	Schultheis PowerSolutions GmbH		Marburger Str 241	57223	Kreuztal	50.967750	7.988480	1			~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1077248	Lindenschmidt KG	Lindenschmidt KG Parkdeck	Krombacher Str. 42	57223	Kreuztal	50.996793	7.963553	1	Mo-Fr 06:00-20:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1077435	Robert Schmidt GmbH		Hauptstr. 19	57629	Müschenbach	50.678810	7.781410	1	Mo-Fr 16:30-23:59, Sa-So 00:00-23:59	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1080642	Kavy GmbH		Hauptstr 8	56457	Halbs	50.590066	7.962497	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11
+1080664	Schwerpunktpraxis Hämatologie & Onkologie		Leuzbacher Weg 31	57610	Altenkirchen	50.683460	7.629860	1			~TYPE2:11
+1081320	Auto Wüst GmbH		Hauptstr. 28	56459	Kölbingen	50.551043	7.934248	1			~TYPE2:22|~TYPE2:22
+1082275	amperio GmbH (DEAMP)		Rheinstr. 44	57632	Flammersfeld	50.647113	7.526091	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1083744	Verbandsgemeindeverwaltung Kirchen (Sieg) juristische Person des öffentl. Rechts		Schulstraße 0	57548	Kirchen (Sieg)	50.807964	7.881313	1			~TYPE2:22|~TYPE2:22
+1083911	Universitätsstadt Siegen		Eiserfelder Straße 418	57080	Siegen	50.838312	7.987313	1			~TYPE2:22|~TYPE2:22
+1083912	Universitätsstadt Siegen		Eiserfelder Straße 474	57080	Siegen	50.835149	7.987864	1			~TYPE2:22|~TYPE2:22
+1084293	Steffen Utsch	Utsch	In der Großenbach 30	57072	Siegen	50.871651	7.981354	1	Mo-So 07:00-22:15	Nur für Kunden/Besucher	~TYPE2:11+TYPE2_TETHERED:11
+1084536	Alexander Böhm		Schwalbenweg 5	57258	Freudenberg	50.907476	7.886842	1			~TYPE2:11
+1084545	Alexander Hafner		Aucheler Straße 8	51580	Reichshof	50.968782	7.674795	1			~TYPE2:11
+1084674	Andreas Pfeifer		Benzenbergstraße 48	57482	Wenden	50.956793	7.813146	1			~TYPE2_TETHERED:11
+1084933	Benjamin Seidel		Rolandweg 24	51580	Reichshof	50.958885	7.623471	1			~TYPE2:11
+1084988	Björn Krannich		Hauptstraße 30	57629	Malberg	50.714917	7.819952	1			~TYPE2:11
+1085075	Christian Buchwald		Brensbachweg 10	51545	Waldbröl	50.894991	7.660903	1			~TYPE2_TETHERED:11
+1085403	Dirk Heppe		Von-Dassel-Straße 11	51580	Reichshof	50.985789	7.696651	1			~TYPE2_TETHERED:11
+1085458	DWScom GmbH		Saynische Straße 65	57567	Daaden	50.737626	7.978914	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085461	Eberhard Weber		Brensbachweg 12	51545	Waldbröl	50.895290	7.661011	1			~TYPE2_TETHERED:11
+1085662	Francisco Lorca Quiñones		Wiesenstraße 13	51674	Wiehl	50.948255	7.515860	1			~TYPE2_TETHERED:11
+1085713	Frank Oesterhelt		Blumenberg 17	51598	Friesenhagen	50.903073	7.810412	1			~TYPE2_TETHERED:11
+1085891	Hans Gerd Kleine Asbrocke		Eschenbachstraße 39	51674	Wiehl	50.957503	7.546010	1			~TYPE2:11
+1085984	Heinz Otto Lück		Breitenacker 22	57539	Bitzen	50.787638	7.689847	1			~TYPE2_TETHERED:11
+1086130	Ingrid Kops		Auf der Bitze 30	51570	Windeck	50.788032	7.565532	1			~TYPE2:11
+1086140	Irina Pfaff		Höhenweg 13	57614	Woldert	50.602461	7.647937	1			~TYPE2_TETHERED:11
+1086239	Jessica Mahner		Freibadstraße 15	51580	Reichshof	50.969052	7.765856	1			~TYPE2_TETHERED:11
+1086314	Jörg Braun		Grüne Aue 2	51580	Reichshof	50.982471	7.621685	1			~TYPE2:6
+1086537	Kunsthaus Wäldchen		Wäldchen 1	57537	Forst	50.816961	7.663460	1			~TYPE2_TETHERED:4
+1087036	Michael Preußer		Buchener Weg 6a	57223	Kreuztal	50.955356	7.985268	1			~TYPE2_TETHERED:11
+1087126	Nico Maschinger		Udertsweg 13	57614	Steimel	50.616799	7.636283	1	Mo-So 09:00-14:00	Keine Beschränkung	~TYPE2:11
+1087217	Oliver Neeb		Vorm Seifen 2	57647	Nistertal	50.624900	7.898384	1			~TYPE2_TETHERED:2
+1087536	Riccardo Behr		Hauptstr. 20d	57629	Stein-Wingert	50.720902	7.738839	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087676	Schneider-Solarstrom		Dr.-Friedrich-Schadeberg-Str. 38	57223	Kreuztal	50.980310	7.979547	1			~TYPE2_TETHERED:11
+1087749	Simon David Klein		Elsterweg 21	51674	Wiehl	50.957180	7.547410	1			~TYPE2:11
+1087825	Stefan Ley		Siefener Straße 59	51674	Wiehl	50.949277	7.579387	1			~TYPE2_TETHERED:11
+1088013	Taxi Weiss Neunkirchen		Tannenstraße 12	57290	Neunkirchen	50.779115	7.970587	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088065	Kahmer GmbH		Eiserfelder Straße 232	57080	Siegen	50.850314	7.996218	1			~TYPE2_TETHERED:11
+1088083	Thomas Machowinski		Maudener weg 17	57520	Derschen	50.715236	7.989288	1			~TYPE2:11
+1088119	Thomas Gediga		Hauptstraße 8	57589	Pracht	50.768280	7.643255	1			~TYPE2_TETHERED:2
+1088155	Tilman Kuhl-Seidel		Blumenstraße 13A	57644	Hattert	50.651364	7.778345	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088243	Torben Schneider		Am Rimberg 25	57258	Freudenberg	50.891897	7.903499	1			~TYPE2_TETHERED:11
+1088426	Wladimir Weber		West-Lindsey-Straße 35	57290	Neunkirchen	50.800018	7.997725	1			~TYPE2_TETHERED:11
+1088443	Wolfgang Weber		Locher Straße 12	51570	Windeck	50.801395	7.641700	1			~TYPE2_TETHERED:11
+1088667	Lidl	6535_Lidl_Bad Marienberg_T65-IT1-0323-038	Jahnstr. 40	56470	Bad Marienberg (Westerwald)	50.657433	7.967222	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1091033	Grundstücksgesellschaft Bad Honnef mbH		Kardinal-Höffner-Straße 1	56593	Horhausen	50.589098	7.529894	1			~TYPE2_TETHERED:22|~TYPE2:22
+1091037	Grundstücksgesellschaft Bad Honnef mbH		Rheinstraße 17	57632	Flammersfeld	50.648100	7.526611	1			~TYPE2:22|~TYPE2:22
+1091174	Christoph Wilhelm		Stadionstraße 26	57537	Wissen	50.783434	7.724905	1			~TYPE2_TETHERED:11+SCHUKO:11
+1091955	Energieversorgung Mittelrhein AG	HPC Aldi Selters_ Luisenstraße	Luisenstr. 11	56242	Selters (Westerwald)	50.535264	7.759133	1	24/7	Keine Beschränkung	DELIME009301~CCS2:75|DELIME009302~CCS2:75
+1093200	Hotel Gasthof Koch		Mittelstrasse 1-3	57567	Daaden	50.737720	7.968629	1			~TYPE2:11
+1096385	Autozentrale Sturm		Kölner Str. 60	57612	Altenkirchen	50.687732	7.633006	1			~CCS2:22|~TYPE2:11
+1096774	Autohaus Kämpflein GmbH & Co. KG		Bismarckstraße 130	56470	Bad Marienberg (Westerwald)	50.643472	7.924936	1			~CCS2:22|~TYPE2:11
+1096784	Autohaus Klinge GmbH		Waldbröler Str. 74	51597	Morsbach	50.873219	7.724202	1			~CCS2:22|~TYPE2:11
+1096803	Autohaus Krah GmbH		Rheinstraße 21	56249	Herschbach	50.570744	7.738327	1			~TYPE2:11|~CCS2:22
+1096986	Autohaus Roth GmbH & Co.KG		Hachenburger Str. 46	57567	Daaden	50.731654	7.966181	1			~CCS2:22|~TYPE2:11
+1097051	Autohaus Spies GmbH & Co. KG		Königsberger Str. 45	56269	Dierdorf	50.545563	7.636593	1			~TYPE2:11|~CCS2:22
+1097113	Autohaus Vorländer GmbH		Brölstraße 29	53809	Ruppichteroth	50.847965	7.501061	1			~CCS2:22|~TYPE2:11
+1097415	Karl Bergisch GmbH & Co.KG		Koblenzer Str. 28	57627	Hachenburg	50.660983	7.814191	1			~CCS2:22|~TYPE2:11
+1097500	Richard Stein GmbH & Co. KG		Brölstraße 30-36	51545	Waldbröl	50.872404	7.609178	1			~CCS2:22|~TYPE2:11
+1097738	EnBW mobility+ AG und Co.KG		Kirschbüchel 2	56587	Straßenhaus	50.542206	7.520072	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1103850	EnBW mobility+ AG und Co.KG		Koblenzer Str. 38	57627	Hachenburg	50.659718	7.810185	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1103982	Ambulantes Pflegeteam Licht GmbH		Hauptstr. 10a	56244	Weidenhahn	50.544147	7.831018	1			~TYPE2_TETHERED:11
+1103983	Ambulantes Pflegeteam Licht GmbH		Friedhofsstr. 15	56244	Weidenhahn	50.542699	7.832318	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1104186	HUHN-Kunststofftechnik® GmbH&Co.KG		Zum Scherbusch 9	51674	Wiehl-Marienhagen	50.976358	7.572704	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2:22
+1104409	Walter Schneider Seelbach GmbH & Co. KG		Freudenberger Str. 494	57072	Siegen	50.883000	7.965000	1			~CCS2:50|~TYPE2:22
+1104422	Gemeindewerke Nümbrecht GmbH		Schulstr. 4	51588	Nümbrecht	50.903145	7.540247	1			~TYPE2:22|~TYPE2:22
+1104423	Gemeindewerke Nümbrecht GmbH		Lindchenweg 0	51588	Nümbrecht	50.905224	7.545535	1			~TYPE2:22|~TYPE2:22
+1104424	Gemeindewerke Nümbrecht GmbH		Hauptstr. 16	51588	Nümbrecht	50.905755	7.542174	1			~TYPE2:22|~TYPE2:22
+1104425	Gemeindewerke Nümbrecht GmbH		Jakob-Engels-Str. 22	51588	Nümbrecht	50.898891	7.545475	1			~TYPE2:22|~TYPE2:22
+1104426	Gemeindewerke Nümbrecht GmbH		Höhenstr. 30	51588	Nümbrecht	50.907350	7.548123	1			~TYPE2:22|~TYPE2:22
+1104427	Gemeindewerke Nümbrecht GmbH		Schlenke 3	51588	Nümbrecht	50.932893	7.566253	1			~TYPE2:22|~TYPE2:22
+1104428	Gemeindewerke Nümbrecht GmbH		Parkstr. 3	51588	Nümbrecht	50.904851	7.544564	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104483	Seltek Service Energielösungen		Industriepark 10 B	57539	Etzbach	50.781773	7.685228	1			~TYPE2:22
+1105473	Stadt Siegen		Siegtalstraße 0	57080	Siegen	50.843790	7.967211	1			~TYPE2:22|~TYPE2:22
+1105487	Autohaus Kaltenbach GmbH & Co. KG		Robert-Bosch-Str. 4	51674	Wiehl	50.968442	7.520050	1			~TYPE2:22|~TYPE2:22
+1105496	Autohaus Amelung GmbH		Mühlenweg 1	51545	Waldbröl	50.869101	7.599620	1			~TYPE2:22|~TYPE2:22
+1105737	Autohaus Karl Asbach GmbH		Graf-Heinrich-Str. 16	57627	Hachenburg	50.663670	7.819012	1			~TYPE2:22|~TYPE2:22
+1106222	EnBW mobility+ AG und Co.KG		Rathausstr. 31-37	51570	Windeck	50.798600	7.607800	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1106272	Hoffmann's Frischemarkt		Landblum 1	56593	Horhausen (Westerwald)	50.593474	7.528258	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1106273	Hoffmann's Frischemarkt		Landblum 1	56593	Horhausen (Westerwald)	50.593513	7.528113	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1109472	AggerEnergie GmbH	H&K Krisenwerkstatt GmbH	Brüderstr. 20	51588	Nümbrecht	50.927650	7.513480	1	Mo-Fr 08:00-18:00	Keine Beschränkung	DE*AEG*E00053*001~TYPE2_TETHERED:11|DE*AEG*E00053*002~TYPE2_TETHERED:11
+1109925	Theis EDL GmbH & Co. KG		Friedrichstraße 23	56470	Bad Marienberg	50.652790	7.959230	1			~TYPE2_TETHERED:98+CCS2:98+CHADEMO:98
+1112717	Voltagy GmbH		Brunohler Str. 56	51645	Gummersbach	50.993355	7.503626	1			~TYPE2:11|~TYPE2:11
+1112920	Karl-Heinz Fellenzer e.K.		Urbacher Straße 35	56305	Puderbach	50.591200	7.607100	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1112987	Alfred Wiens		Lindenallee 14	57577	Hamm/Sieg	50.766180	7.677190	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113447	Restaurant Mykonos		Hildburgstrasse 7	57578	Elkenroth	50.729016	7.882571	1			~TYPE2_TETHERED:11
+1113622	Marleen Steinebach e.K.		Am Gewerbepark 3-5	56462	Höhn	50.616780	7.979950	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1113880	Peter Hoffmann		Austr. 19	57555	Brachbach	50.814672	7.932902	1			~TYPE2_TETHERED:11
+1114196	Herbert Meffert		Rosenbergstrasse 14	56579	Hardert	50.516821	7.513292	1			~TYPE2:11+TYPE2_TETHERED:11
+1114524	Carsten Jagnow		Hinterm Zaun 19	56462	Höhn	50.623132	7.976606	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1114995	AggerEnergie GmbH		Pfaffenberg 1z	51674	Wiehl	50.937960	7.548260	1	24/7	Keine Beschränkung	DE*AEG*E00034*001~TYPE2:22|DE*AEG*E00034*002~TYPE2:22
+1116075	EWE Go GmbH	McD_0975_1A	Wiehler Str. 22	51545	Waldbröl	50.885678	7.636240	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1116132	JET Tankstellen Deutschland GmbH		Westerwaldstr. 23	56587	Oberhonnefeld-Gierend	50.562110	7.526507	1	24/7	Nur für Kunden/Besucher	~CCS2:400|~CCS2:400
+1116133	JET Tankstellen Deutschland GmbH		Westerwaldstr. 23	56587	Oberhonnefeld-Gierend	50.562172	7.526484	1	24/7	Nur für Kunden/Besucher	~CCS2:300|~CCS2:300
+1116934	TankE GmbH		Waldbröler Str. 43	51597	Morsbach	50.867417	7.725665	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1117556	EWE Go GmbH	McD_1082_1A	Philipp-Reis-Str. 4	57610	Altenkirchen (Westerwald)	50.689432	7.623546	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1117991	amperio GmbH (DEAMP)		Saynstr. 42	57627	Hachenburg	50.666614	7.809754	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1119744	Tesla Germany GmbH		Westerwaldpark 4	56587	Oberhonnefeld-Gierend	50.562501	7.525532	1	24/7	Keine Beschränkung	~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1119876	EnBW mobility+ AG und Co.KG		Wissener Str. 11	57580	Gebhardshain	50.749648	7.822524	1		Keine Beschränkung	~CCS2:93|~CCS2:93
+1120111	Energieversorgung Mittelrhein AG	Hachenburg Alexanderring	Alexanderring 8	57627	Hachenburg	50.661887	7.824004	1	24/7	Keine Beschränkung	DELIME009901~TYPE2:22|DELIME009902~TYPE2:22|DELIME009903~TYPE2:22|DELIME009904~TYPE2:22
+1120398	ALDI Nord	Parkplatz	Hauptstr. 15-19	57482	Wenden	50.971400	7.864700	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1121068	HUF HAUS GmbH & Co. KG	Mitarbeiter und Besucherparkplatz	Franz-Huf-Str. 1	56244	Hartenfels	50.569324	7.785393	1	24/7	Keine Beschränkung	DE*BDO*E517727090*1~TYPE2:11|DE*BDO*E517727090*2~TYPE2:11|DE*BDO*E887716279*1~TYPE2:11|DE*BDO*E887716279*2~TYPE2:11|DE*BDO*E980112450*1~TYPE2:11|DE*BDO*E980112450*2~TYPE2:11
+1125624	IONITY GmbH	Olpe	Am Breithammer 7	57462	Olpe	50.998972	7.838516	1	24/7	Nur für Kunden/Besucher	DE*IOY*E232001~CCS2:350|DE*IOY*E232002~CCS2:350|DE*IOY*E232071~CCS2:200|DE*IOY*E232072~CCS2:200|DE*IOY*E232073~CCS2:200|DE*IOY*E232074~CCS2:200|DE*IOY*E232075~CCS2:200|DE*IOY*E232076~CCS2:200|DE*IOY*E232077~CCS2:200|DE*IOY*E232078~CCS2:200|DE*IOY*E232079~CCS2:200|DE*IOY*E232080~CCS2:200
+1125824	Energieversorgung Mittelrhein AG	Rewe Selters	Bahnhofstr. 26	56242	Selters (Westerwald)	50.531705	7.755862	1	24/7	Keine Beschränkung	DELIME010301~CCS2:100|DELIME010302~CCS2:100
+1126365	Energieversorgung Mittelrhein AG	Rewe Parkplatz Selters	Bahnhofstr. 26	56242	Selters (Westerwald)	50.531705	7.558620	1	24/7	Keine Beschränkung	DELIME010303~CCS2:100|DELIME010304~CCS2:100
+1126413	B. und M. Römer GbR	Öffentliche Ladepunkte, Mitarbeiterparkplatz Eisenstraße li	Eisenstr. 1	57482	Wenden	50.978840	7.830710	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1126509	BürgerEnergie Rhein-Sieg eG	Windeck-Rosbach Rathausstr.	Rathausstr. 16	51570	Windeck	50.796999	7.609882	1	24/7	Keine Beschränkung	DE*EFL*EV7367565*C1~TYPE2:22|DE*EFL*EV7367565*C2~TYPE2:22
+1127688	Anika Boschmann		Im Marschgarten 1	51674	Wiehl	50.971650	7.513950	1	Mo-Fr 14:00-18:00, Sa-So 09:00-18:00	Nur für Kunden/Besucher	~TYPE2:22
+1128399	EAM Natur Energie GmbH	Hamm (Sieg), Schützenstr.	Schützenstr. 10	57577	Hamm	50.764931	7.674041	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128490	EAM Natur Energie GmbH	Altenkirchen, Rathaus	Rathausstr. 13	57610	Altenkirchen (Westerwald)	50.689578	7.649202	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1129191	AggerEnergie GmbH		Nümbrechter Str. 6	51545	Waldbröl	50.876970	7.616920	1	24/7	Keine Beschränkung	DE*AEG*E00063*001~TYPE2_TETHERED:22|DE*AEG*E00063*002~TYPE2_TETHERED:22
+1129192	AggerEnergie GmbH		Hauptstr. 12z	51674	Wiehl	50.948760	7.547330	1	24/7	Keine Beschränkung	DE*AEG*E00059*001~TYPE2:22|DE*AEG*E00059*002~TYPE2:22|DE*AEG*E00060*001~TYPE2:22|DE*AEG*E00060*002~TYPE2:22
+1129193	AggerEnergie GmbH		Weiherplatz 16z	51674	Wiehl	50.950810	7.548230	1	24/7	Keine Beschränkung	DE*AEG*E00055*001~CCS2:150|DE*AEG*E00055*002~CCS2:150|DE*AEG*E00054*001~TYPE2:22|DE*AEG*E00054*002~TYPE2:22
+1129713	Dominique Fleckinger	CabinWesterwald	Neue Hoffnung 35	57520	Niederdreisbach	50.741243	7.922620	1	24/7	Keine Beschränkung	~TYPE2:22
+1129824	amperio GmbH (DEAMP)		Königsberger Str. 24	56269	Dierdorf	50.546948	7.639226	1		Keine Beschränkung	~CCS2:110|~CCS2:110
+1131066	Mann Naturenergie	Quengelstraße	Quengelstr. 2A	57610	Altenkirchen (Westerwald)	50.686600	7.643010	1	24/7	Keine Beschränkung	DEMANE001801~TYPE2:22|DEMANE000202~CCS2:43
+1131164	Mann Naturenergie	Parkplatz am Wiesensee, Cafe Seewies	Winner Ufer 1	56459	Stahlhofen am Wiesensee	50.582850	7.992870	1	24/7	Keine Beschränkung	DEMANE002701~TYPE2:22|DEMANE002702~TYPE2:22
+1132199	EnBW mobility+ AG und Co.KG		Gosenbacher Hütte 70	57080	Siegen	50.853767	7.962978	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1132774	EnBW mobility+ AG und Co.KG		Hauptstr. 4-8	51580	Reichshof	50.916300	7.651100	1	24/7	Keine Beschränkung	DE*EBW*E910632*1~CCS2:200|DE*EBW*E910632*2~CCS2:200|DE*EBW*E911443*1~CCS2:200|DE*EBW*E911443*2~CCS2:200
+1133620	Aral Pulse		Westerwaldstr. 8	56587	Oberhonnefeld-Gierend	50.561184	7.527711	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200
+1134081	ALDI SÜD	STA-010-01	Falkenweg 1	51580	Reichshof	50.941570	7.749790	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23668~CCS2:50|DE*ALD*E23669~CCS2:50
+1134464	Lidl	6367_Lidl_Hachenburg_T65-IT1-0725-001	Koblenzer Str. 8	57627	Hachenburg	50.662380	7.817440	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1135456	rhenag Rheinische Energie Aktiengesellschaft	rhenag Kundenparkplatz	Geishardtstr. 44	57518	Alsdorf	50.778562	7.878158	1	24/7	Keine Beschränkung	DE*RHG*E0001878~TYPE2:22|DE*RHG*E0001879~TYPE2:22
+1136535	Dr. Becker Klinikgesellschaft SE & Co. KG		Höhenstr. 30	51588	Nümbrecht	50.907590	7.549620	1	24/7	Nur für Kunden/Besucher	DBK00001~TYPE2:11|DBK00001~TYPE2:11|DBK00002~TYPE2:11|DBK00002~TYPE2:11
+1136627	TEAG Mobil GmbH	Niederfischbach - EDEKA	An der Stürze 1	57572	Niederfischbach	50.857313	7.879097	1	24/7	Keine Beschränkung	DE*TMO*E11*325*001~CCS2:50|DE*TMO*E11*325*002~CCS2:50
+1137720	E.ON Drive GmbH		Eiserfelder Str. 316	57080	Siegen	50.843360	7.984290	1		Keine Beschränkung	DE*EDR*E22019369*1~TYPE2:11
+1138583	ALDI SÜD	STA-015-01	Dieringhauser Str. 85	51645	Gummersbach	50.981651	7.531258	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ALD*E23724~CCS2:50|DE*ALD*E23725~CCS2:50
+1141506	ALDI SÜD	STA-098-01	Über dem Stellweg 5	56587	Oberhonnefeld-Gierend	50.558143	7.527380	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23436~CCS2:200|DE*ALD*E23437~CCS2:200
+1141509	ALDI SÜD	STA-098-02	Über dem Stellweg 5	56587	Oberhonnefeld-Gierend	50.558184	7.527230	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23438~CCS2:200|DE*ALD*E23439~CCS2:200
+1141511	ALDI SÜD	STA-098-03	Über dem Stellweg 5	56587	Oberhonnefeld-Gierend	50.558225	7.527455	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23440~CCS2:200|DE*ALD*E23441~CCS2:200
+1144665	Eckhard Hauer	Wallbox Eckhard Hauer	Obere Hardtstr. 33	51645	Gummersbach	50.984900	7.523800	1	Sa-So 10:00-18:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1147248	Pfalzwerke AG	OBI Gummersbach (ALP22270X00477)	Dieringhauser Str. 149	51645	Gummersbach	50.983765	7.520518	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00477*01~CCS2:300|DE*PWA*EALP22270X00477*02~CCS2:300|DE*PWA*EALP22537X00475*01~CCS2:50|DE*PWA*EALP22537X00475*02~CCS2:50
+1147249	Pfalzwerke AG	OBI Gummersbach (ALP22270X00479)	Dieringhauser Str. 149	51645	Gummersbach	50.983744	7.520609	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00479*01~CCS2:300|DE*PWA*EALP22270X00479*02~CCS2:300
+1147304	Energieversorgung Mittelrhein AG	Hotel Hammermühle	Hammermühle 1	57614	Wahlrod	50.657090	7.733968	1	24/7	Keine Beschränkung	DELIME011301~TYPE2:11|DELIME011302~TYPE2:11|DELIME011303~TYPE2:11|DELIME011304~TYPE2:11
+1147358	Pfalzwerke AG	Widerker Altenkirchen (ALP22270X01849)	Dammweg 2	57610	Altenkirchen (Westerwald)	50.688677	7.645089	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01849*01~CCS2:300|DE*PWA*EALP22270X01849*02~CCS2:300
+1147359	Pfalzwerke AG	Widerker Altenkirchen (ALP22539X01848)	Dammweg 2	57610	Altenkirchen (Westerwald)	50.688632	7.645158	1	24/7	Keine Beschränkung	DE*PWA*EALP22539X01848*01~CCS2:200|DE*PWA*EALP22539X01848*02~CCS2:200
+1149050	EWE Go GmbH	EWE_7669_1A	Eiserfelder Str. 300	57080	Siegen	50.845573	7.986940	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200
+1149664	E.ON Drive Infrastructure		Derschlager Str. 2	51674	Wiehl	50.945069	7.583677	1	24/7	Keine Beschränkung	DE*UFC*E01294*1~CCS2:50|DE*UFC*E01294*2~CCS2:50|DE*UFC*E01301*1~CCS2:150|DE*UFC*E01301*2~CCS2:150
+1150111	Aral Pulse		Friedrich-Engels-Str. 2	51545	Waldbröl	50.890428	7.647238	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1150130	Aral Pulse		Kölner Str. 35	57610	Altenkirchen (Westerwald)	50.686863	7.634095	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1151349	Wirelane GmbH		Lindchenweg 2a	51588	Nümbrecht	50.905850	7.546621	1		Keine Beschränkung	DE*WLN*ES000632~CCS2:50|DE*WLN*ES000631~CCS2:50
+1151356	Wirelane GmbH	Golfclub Siegerland	Berghäuser Weg 1	57223	Kreuztal	50.949893	7.946538	1		Keine Beschränkung	DE*WLN*ES001208~TYPE2:11|DE*WLN*ES001209~TYPE2:11
+1151717	Wirelane GmbH		Zwergweg 4	57080	Siegen	50.833389	7.991472	1		Keine Beschränkung	DE*WLN*EP001053~TYPE2:22|DE*WLN*EP001054~TYPE2:22
+1151966	Wirelane GmbH		Homburger Str. 9	51674	Wiehl	50.947861	7.550517	1		Keine Beschränkung	DE*WLN*ES000759~CCS2:50|DE*WLN*ES000760~CCS2:50
+1152127	Wirelane GmbH		Hermann-Löns-Straße 25	57078	Siegen	50.906889	7.995222	1		Keine Beschränkung	DE*WLN*EP001057~TYPE2:22|DE*WLN*EP001058~TYPE2:22
+1152280	Lidl	1429_Lidl_Betzdorf_QP-17727-0225-060-121-QP-VER.321	Wilhelmstr. 127-133	57518	Betzdorf	50.796140	7.862930	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1154236	Mann Naturenergie	Halle 2 Compleo	Schulweg 8-14	57520	Langenbach bei Kirburg	50.700742	7.933164	1	24/7	Keine Beschränkung	DEMANE001401~CCS2:50+TYPE2:22
+1154785	EAM Natur Energie GmbH	Oberlahr Westerwald Treff	In der Huth 1	57641	Oberlahr	50.618729	7.530341	1	24/7	Keine Beschränkung	DE*EAM*E*1016~CCS2:49|DE*EAM*E*1017~TYPE2:22|DE*EAM*E*1018~TYPE2:11|DE*EAM*E*1036~TYPE2:11
+1154816	Lidl	5896_Lidl_Dierdorf_QP-17726-0225-060-121	Königsberger Str. 8	56269	Dierdorf	50.547930	7.643190	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1155156	rhenag Rheinische Energie Aktiengesellschaft		Waldbröler Str. 3	51570	Windeck	50.807200	7.593380	1	24/7	Keine Beschränkung	DE*RHG*E0001899~CCS2:300|DE*RHG*E0001900~CCS2:300
+1155157	rhenag Rheinische Energie Aktiengesellschaft		Auf der Niedecke 1	51570	Windeck	50.804328	7.560568	1	24/7	Keine Beschränkung	DE*RHG*E0001897~CCS2:300|DE*RHG*E0001898~CCS2:300|DE*RHG*E0001901~CCS2:300|DE*RHG*E0001902~CCS2:300
+1155184	Aral Pulse		Schloßstr. 1	57537	Wissen	50.781359	7.742696	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1155676	Fastned Deutschland GmbH & Co. KG		Victoriahöhe 1	51645	Gummersbach	50.976843	7.539270	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1155876	AggerEnergie GmbH		Oberwiehler Str. 59z	51674	Wiehl	50.943150	7.585610	1	24/7	Keine Beschränkung	DE*AEG*E00022*001~TYPE2:22|DE*AEG*E00022*002~TYPE2:22
+1155879	AggerEnergie GmbH		Friedenstr. 12z	51545	Waldbröl	50.878660	7.620680	1	24/7	Keine Beschränkung	DE*AEG*E00010*001~TYPE2:22|DE*AEG*E00010*002~TYPE2:22
+1155881	AggerEnergie GmbH		Droste-Hülshoff-Str. 1z	51545	Waldbröl	50.878350	7.619620	1	24/7	Keine Beschränkung	DE*AEG*E00011*001~TYPE2:22|DE*AEG*E00011*002~TYPE2:22
+1155885	AggerEnergie GmbH		Bertha-von-Suttner-Str. 9z	51545	Waldbröl	50.877100	7.617390	1	24/7	Keine Beschränkung	DE*AEG*E00007*001~CCS2:150|DE*AEG*00007*002~CCS2:150
+1155909	Ambulantes Pflegeteam Licht GmbH	Ambulantes Pflegeteam Licht GmbH - Verwaltung	Friedhofsstr. 15	56244	Weidenhahn	50.542620	7.834220	1	24/7	Keine Beschränkung	100141996*0~CCS2:50|100141996*1~CCS2:50
+1155910	Ambulantes Pflegeteam Licht GmbH	Ambulantes Pflegeteam Licht GmbH - Verwaltung	Friedhofsstr. 15	56244	Weidenhahn	50.542580	7.834270	1	24/7	Keine Beschränkung	100141995*0~CCS2:50|100141995*1~CCS2:50
+1156439	Wirelane GmbH	Halbersbacher - Dorint Parkhotel Siegen	Patmosweg 60	57078	Siegen	50.922938	7.994819	1		Keine Beschränkung	DE*WLN*ES000009~TYPE2:11|DE*WLN*ES000010~TYPE2:11
+1157959	E.ON Drive Infrastructure		Bahnhofstr. 11	57537	Wissen	50.783126	7.736145	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1157968	E.ON Drive Infrastructure		Koblenzer Str. 192	57537	Wissen	50.775981	7.725941	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:200|~CCS2:200
+1158007	advercharge	ST-002-GER-NW Hmm Siegen Niederschelden	Siegtalstr. 129	57080	Siegen	50.840564	7.976441	1	24/7	Keine Beschränkung	DE*ADV*E5679359~CCS2:80|DE*ADV*E5667516~CCS2:80
+1158281	ADS-TEC Energy Service GmbH	Norma Langenhahn	Koblenzer Str. 7a	56459	Langenhahn	50.585466	7.917609	1	24/7	Keine Beschränkung	DEAESE001401~CCS2:300|DEAESE001402~CCS2:300
+1160021	Mann Naturenergie	Grundschule Roßbach	Schulstr. 7	56271	Roßbach	50.603613	7.682573	1	24/7	Keine Beschränkung	DEMANE003101~TYPE2:22|DEMANE003102~TYPE2:22
+1161543	Schultheis PowerSolutions GmbH	S-Cars 24 GmbH	Eichener Str. 55	57223	Kreuztal	50.975292	7.974512	1	24/7	Keine Beschränkung	27403622~TYPE2:11
+1161827	EAM Natur Energie GmbH	Mudersbach Kölner Str. HYC1	Kölner Str. 8	57555	Mudersbach	50.838690	7.964850	1	24/7	Keine Beschränkung	DE*EAM*E*1067~CCS2:300|DE*EAM*E*1068~CCS2:300|DE*EAM*E*1069~CCS2:300|DE*EAM*E*1070~CCS2:300|DE*EAM*E*1071~TYPE2:11|DE*EAM*E*1072~TYPE2:11
+1161953	E.ON Drive GmbH		Jahnstr. 1	56470	Bad Marienberg (Westerwald)	50.655655	7.955418	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1163838	Schultheis PowerSolutions GmbH	Kreuztal Zentrum	Dörrwiesenstr. 4	57223	Kreuztal	50.964437	7.998808	1	24/7	Keine Beschränkung	DMV539YH~TYPE2:11
+1164843	Electra Germany GmbH	Wenden - Netto Koblenzer Straße	Koblenzer Str. 77	57482	Wenden	50.982804	7.846489	1	24/7	Keine Beschränkung	DE*ELD*EHVZY~CCS2:300|DE*ELD*ET2LN~CCS2:300

@@ -1,0 +1,15 @@
+1002272	nvb smart GmbH		Hauptstraße 24	49824	Emlichheim	52.605968	6.848885	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002285	nvb smart GmbH		Lägen Diek 8	49824	Emlichheim	52.604606	6.854090	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1002286	nvb smart GmbH		Berliner Str. 54	49824	Emlichheim	52.615905	6.845030	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1034250	nvb smart GmbH	nvb High Power Schnellladestation Gemeinde Itterbeck	Hauptstr. 11	49847	Itterbeck	52.504083	6.805318	1	24/7	Keine Beschränkung	DENVBE004901~CCS2:150|DENVBE004902~CCS2:150
+1036746	nvb smart GmbH	nvb Ladesäule Gemeinde Wilsum	Echtelerstr. 4	49849	Wilsum	52.539920	6.832530	1	24/7	Keine Beschränkung	DENVBE004801~TYPE2:22+SCHUKO:3.7|DENVBE004802~TYPE2:22+SCHUKO:3.7
+1051285	Hof Scholten-Meilink		Arkel 3	49846	Hoogstede	52.585648	6.929053	1			~TYPE2_TETHERED:22
+1076380	Stadtwerke Neuenhaus GmbH		Am Bahnhof 1	49828	Neuenhaus	52.501701	6.970242	1			~TYPE2:22|~TYPE2:22
+1084356	Backcharge	Daalmann Mobilheime GmbH	Robert-Bosch-Str. 8	49843	Uelsen	52.502825	6.871426	1	24/7	Keine Beschränkung	DEBCKE1234589917*1~CCS2:90|DEBCKE1234589917*2~CCS2:90
+1086391	Jürgen Unkenholt		Miep-Gies-Straße 3	49824	Emlichheim	52.611625	6.861529	1			~TYPE2:11
+1092875	Rolfes & Schroven GbR		Bahnhofstraße 7	49846	Hoogstede	52.574555	6.949406	1			~TYPE2:11
+1102767	nvb smart GmbH	nvb Schnellladestation Burhook	Burhook 4	49824	Emlichheim	52.606302	6.851931	1	24/7	Keine Beschränkung	DENVBE005401~CCS2:150|DENVBE005402~CCS2:150
+1127864	Backcharge	Grafschafter Autozentrale H.Krüp GmbH	Ringer Str. 51	49824	Emlichheim	52.608172	6.862814	1	24/7	Keine Beschränkung	DEBCKE1234627617*1~CCS2:30
+1134550	nvb smart GmbH	nvb Schnellladestation Bahnhof Neuenhaus	Am Bahnhof 1x	49828	Neuenhaus	52.501965	6.969406	1	24/7	Nur für Kunden/Besucher	DENVBE006401~CCS2:150|DENVBE006402~CCS2:150
+1155800	nvb smart GmbH		Mühlenstr. 68	49824	Emlichheim	52.616803	6.856585	1	24/7	Keine Beschränkung	DENVBE007201~CCS2:50|DENVBE007202~CCS2:50
+1157771	Wirelane GmbH		Im Mühlenpark 2	49828	Neuenhaus	52.517668	6.994423	1		Keine Beschränkung	DE*WLN*EP001875~TYPE2:22|DE*WLN*EP001876~TYPE2:22

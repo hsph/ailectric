@@ -1,0 +1,224 @@
+1001108	LadeNetz BinaVils GmbH		Färberanger 0	84137	Vilsbiburg	48.447744	12.353497	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001109	LadeNetz BinaVils GmbH		Kolpingplatz 1a	84137	Vilsbiburg	48.448783	12.358694	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001110	LadeNetz BinaVils GmbH		Färberanger 0	84137	Vilsbiburg	48.447730	12.353620	1			~TYPE2:22|~TYPE2:22
+1001111	LadeNetz BinaVils GmbH		Gobener Straße 4a	84137	Vilsbiburg	48.457150	12.361490	1			~TYPE2:22|~TYPE2:22
+1001112	LadeNetz BinaVils GmbH		Jahnweg 0	84137	Vilsbiburg	48.449150	12.350770	1			~TYPE2:22|~TYPE2:22
+1001113	LadeNetz BinaVils GmbH		Brückenstraße 0	84137	Vilsbiburg	48.469590	12.347850	1			~TYPE2:22|~TYPE2:22
+1001114	LadeNetz BinaVils GmbH		Krankenhausstraße 0	84137	Vilsbiburg	48.444920	12.362200	1			~TYPE2:22|~TYPE2:22
+1001115	LadeNetz BinaVils GmbH		Seyboldsdorfer Straße 0	84137	Vilsbiburg	48.451570	12.353630	1			~TYPE2:22|~TYPE2:22
+1001116	LadeNetz BinaVils GmbH		Rieder i. Feld 8	84137	Vilsbiburg	48.456432	12.333578	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1001117	LadeNetz BinaVils GmbH		Fraunhoferstraße 8	84137	Vilsbiburg	48.450064	12.338206	1			~TYPE2:22|~TYPE2:22
+1001118	LadeNetz BinaVils GmbH		Seyboldsdorfer Straße 93	84137	Vilsbiburg	48.461240	12.349891	1			~TYPE2:22|~TYPE2:22
+1001119	LadeNetz BinaVils GmbH		Schweidnitzer Straße 2	84137	Vilsbiburg	48.454689	12.355085	1			~TYPE2:22|~TYPE2:22
+1001120	LadeNetz BinaVils GmbH		Thalhamer Straße 0	84137	Vilsbiburg	48.430347	12.357779	1			~TYPE2:22|~TYPE2:22
+1001121	LadeNetz BinaVils GmbH		Berliner Straße 2	84137	Vilsbiburg	48.455586	12.352984	1			~TYPE2:22|~TYPE2:22
+1001122	LadeNetz BinaVils GmbH		Frontenhausener Straße 64	84137	Vilsbiburg	48.451380	12.358710	1			~TYPE2:22|~TYPE2:22|~CCS2:75
+1001124	LadeNetz BinaVils GmbH		Krankenhausstraße 4	84137	Vilsbiburg	48.444426	12.359574	1			~TYPE2:22|~TYPE2:22
+1001914	LadeNetz BinaVils GmbH		Industriestraße 0	84137	Vilsbiburg	48.446736	12.347042	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001915	LadeNetz BinaVils GmbH		Benzstraße 0	84137	Vilsbiburg	48.446946	12.343534	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001916	LadeNetz BinaVils GmbH		Baumgartenstraße 29	84137	Vilsbiburg	48.449030	12.330200	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1010648	Eduard Schlögl		Trostberger Straße 15	83342	Tacherting	48.070418	12.489173	1			~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1021743	EWE Go GmbH	McD_0921_1A	Bernd-Motzkus-Str. 1	83512	Wasserburg a. Inn	48.049152	12.222365	1	24/7	Keine Beschränkung	DE*2GO*EMCD0921*1A*1~CCS2:150|DE*2GO*EMCD0921*1A*2~CCS2:150
+1022232	EWE Go GmbH		Strogenweg 1	84174	Eching	48.485462	12.014435	1			~CCS2:300|~CCS2:300
+1025529	EnBW mobility+ AG und Co.KG		Gerberstraße 2	83527	Haag	48.164321	12.167592	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1026122	EnBW mobility+ AG und Co.KG		Landshuter Str. 42	84416	Taufkirchen	48.352610	12.129600	1			~CCS2:300|~CCS2:300
+1027001	EnBW mobility+ AG und Co.KG		Zieglhaus 1	84405	Dorfen	48.259030	12.156510	1			~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1027329	EnBW mobility+ AG und Co.KG		Haager Straße 60	84405	Dorfen	48.267740	12.158430	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1027921	EnBW mobility+ AG und Co.KG		Flurstraße 2	84419	Schwindegg	48.274350	12.258303	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1029258	Energie Südbayern GmbH	ESB_0044_A / Münchner Straße - Ampfing	Münchner Str. 29	84539	Ampfing	48.254347	12.411466	1	24/7	Keine Beschränkung	DEESBE004401~TYPE2:22|DEESBE004402~TYPE2:22|DEESBE004403~TYPE2:22|DEESBE004404~TYPE2:22
+1029266	Energie Südbayern GmbH	ESB_0050 / Lorenzerstraße - Geisenhausen	Lorenzerstr. 1	84144	Geisenhausen	48.475154	12.256829	1	24/7	Keine Beschränkung	DEESBE005001~TYPE2:22|DEESBE005002~TYPE2:22
+1029267	Energie Südbayern GmbH	ESB_0064_01 / Betriebsstelle - Waldkraiburg	Geretsrieder Str. 0	84478	Waldkraiburg	48.211972	12.411747	1	24/7	Keine Beschränkung	DEESBE006401~TYPE2:22|DEESBE006402~TYPE2:22|DEESBE006404~TYPE2:22|DEESBE006403~TYPE2:22
+1029289	Energie Südbayern GmbH	ESB_0087 / Fürmetz Tank GmbH - Taufkirchen	Gewerbepark Süd 1	84416	Taufkirchen (Vils)	48.327330	12.125530	1	24/7	Keine Beschränkung	DEESBE008701~CCS2:150|DEESBE008702~CCS2:150
+1029302	Energie Südbayern GmbH		Gewerbepark Süd 3	85653	Taufkirchen	48.328510	12.126460	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031964	Circle K Deutschland		Am Schachenfeld 1	83527	Haag	48.165056	12.162861	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1034275	LadeNetz BinaVils GmbH	Stadtbad	Veldener Str. 14	84137	Vilsbiburg	48.442239	12.352746	1	24/7	Keine Beschränkung	DEVIBE000101~TYPE2:11|DEVIBE000102~TYPE2:11
+1035736	ALDI SÜD		Ziegelfeldstraße 2	84036	Kumhausen	48.498884	12.159840	1			~TYPE2:22|~TYPE2:22
+1035836	ALDI SÜD		Ohmstraße 4	84137	Vilsbiburg	48.453370	12.333350	1			~TYPE2:22|~TYPE2:22
+1036777	EM - GROUP GmbH	Wasserburg (DE*MER*E006540)	Knoppermühlweg 2	83512	Wasserburg a. Inn	48.062196	12.226892	1	24/7	Keine Beschränkung	DE*MER*E006540*01~TYPE2:22|DE*MER*E006541*01~TYPE2:22
+1037336	Citywatt GmbH		Am Moos 17	84174	Eching	48.490100	12.022990	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037461	Citywatt GmbH		Hauptstraße 2	84137	Vilsbiburg	48.430984	12.353595	1			~TYPE2:22|~TYPE2:22
+1037462	Citywatt GmbH		Hauptstraße 2	84137	Vilsbiburg	48.430966	12.353665	1			~TYPE2:22|~TYPE2:22
+1037463	Citywatt GmbH		Hauptstraße 2	84137	Vilsbiburg	48.430941	12.353745	1			~TYPE2:22|~TYPE2:22
+1037775	Citywatt GmbH		Landshuter Straße 100	84137	Vilsbiburg	48.453268	12.341005	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037778	Citywatt GmbH		Landshuter Straße 100	84137	Vilsbiburg	48.452866	12.341080	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037984	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.056543	12.187495	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037985	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.056595	12.187476	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037986	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.056585	12.187685	1			~TYPE2:22|~TYPE2:22|~TYPE2:11
+1037989	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.055501	12.187906	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1037991	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.055403	12.187916	1			~TYPE2:11|~TYPE2:11
+1037993	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.055338	12.187930	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1037995	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.055218	12.187953	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1037998	MEGGLE GmbH & Co. KG		Megglestraße 6 - 12	83512	Wasserburg am Inn	48.055589	12.187885	1			~TYPE2:11|~TYPE2:11
+1038218	Huber&Schneider WWS Energie GbR		Bahnstraße 4	83533	Edling	48.059562	12.160378	1			~TYPE2:22|~TYPE2:22
+1042483	Energielösung GmbH		Schweppermannstraße 12	84539	Ampfing	48.256330	12.413440	1			~TYPE2:22|~TYPE2:22
+1042485	Energielösung GmbH		Neumarkter Straße 14	84546	Egglkofen	48.393440	12.450950	1			~TYPE2:22|~TYPE2:22
+1042644	Energielösung GmbH		Kirchplatz 5	83553	Frauenneuharting	48.036385	12.047860	1			~CCS2:50|~CCS2:50
+1042661	Energielösung GmbH		Guttenburg 3	84559	Kraiburg a. Inn	48.194892	12.471678	1			~TYPE2:22|~TYPE2:22
+1042711	Energielösung GmbH		Mobil-Oil-Straße 34	84539	Ampfing	48.252185	12.410266	1			~TYPE2:22|~TYPE2:22
+1042751	Energielösung GmbH		Eiselfinger Str. 4	83512	Wasserburg am Inn	48.052543	12.235134	1			~CCS2:100|~CCS2:100
+1042756	Energielösung GmbH		Binderweg 2	84431	Heldenstein	48.245750	12.370870	1			~CCS2:300|~CCS2:300
+1042765	Energielösung GmbH		Eiselfinger Str. 7	83512	Wasserburg am Inn	48.052408	12.235525	1			~CCS2:100|~CCS2:100
+1043018	Allego		Semptstr. 15	85368	Wang	48.484072	12.005799	1			DEALLEGO000405*1~CCS2:50+CHADEMO:50|DEALLEGO000405*2~TYPE2_TETHERED:43
+1043497	Allego		Waldkraiburger Straße 54	84539	Ampfing	48.247630	12.412110	1			DEALLEGO001754*1~TYPE2:22|DEALLEGO003440*1~CCS2:300|DEALLEGO003440*2~CCS2:300
+1043680	Allego		Kraiburger Str. 54	84539	Ampfing	48.247580	12.412020	1		Keine Beschränkung	DEALLEGO003444*1~CCS2:300|DEALLEGO003444*2~CCS2:300
+1047521	Energielösung GmbH	Wildfreizeitpark Oberreith	Oberreith 6A	83567	Unterreit	48.114124	12.320266	1		Keine Beschränkung	DE*BEM*E0010864~CCS2:150|DE*BEM*E0010865~CCS2:150|DE*BEM*E0010866~TYPE2:22|DE*BEM*E0010867~TYPE2:22|DE*BEM*E0010868~TYPE2:22|DE*BEM*E0010869~TYPE2:22|DE*BEM*E0010870~TYPE2:22|DE*BEM*E0010871~TYPE2:22|DE*BEM*E0010872~TYPE2:22|DE*BEM*E0010873~TYPE2:22|DE*BEM*E0010874~TYPE2:22|DE*BEM*E0010875~TYPE2:22
+1048610	Lidl		Industriestraße 13	84539	Ampfing	48.250979	12.409588	1			~TYPE2:22+TYPE2_TETHERED:22|~CCS2:50|~TYPE2_TETHERED:50+CHADEMO:50
+1049987	amperio GmbH (DEAMP)		Siemenststraße 18	84453	Mühldorf am Inn	48.250187	12.495180	1			~TYPE2:22|~TYPE2:22
+1051322	LadeNetz BinaVils GmbH	Ladepark Rieder im Feld - HYC 150 - 1	Rieder i. Feld 8	84137	Vilsbiburg	48.456900	12.334224	1	24/7	Keine Beschränkung	DEVIBE002101~CCS2:75|DEVIBE002102~CCS2:75|DEVIBE002103~CCS2:75|DEVIBE002104~CCS2:75|DEVIBE002105~CCS2:150|DEVIBE002106~CCS2:150|DEVIBE002107~CCS2:150|DEVIBE002108~CCS2:150
+1051347	Hotel & Apart4you GmbH		Marienplatz 10	84405	Dorfen	48.272689	12.149630	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1051423	MER Germany		Schulstraße 3	83539	Pfaffing	48.057300	12.112681	1			~TYPE2:22|~TYPE2:22
+1051439	MER Germany		Pappelallee 1	84428	Buchbach	48.313242	12.274037	1			~TYPE2:22|~TYPE2:22
+1051553	MER Germany		Hohenlindener Straße 7	83544	Albaching	48.111858	12.110849	1			~TYPE2:22|~TYPE2:22
+1051562	MER Germany		Kirchplatz 10	84419	Obertaufkirchen	48.262420	12.273920	1			~TYPE2:22|~TYPE2:22
+1051633	MER Germany		Schulstraße 14	84149	Velden	48.367937	12.258705	1			~TYPE2:22|~TYPE2:22
+1051634	MER Germany		Gewerbering 5	84149	Velden	48.368260	12.240270	1			~TYPE2:22|~TYPE2:22
+1051686	MER Germany		Dieselstraße 1	84144	Geisenhausen	48.482190	12.243400	1			~TYPE2:22
+1051697	MER Germany	Velden (DE*MER*E001002)	Rathausplatz 1	84149	Velden	48.365070	12.253430	1		Keine Beschränkung	DE*MER*E001002*01~TYPE2:22|DE*MER*E001002*02~TYPE2:22|DE*MER*E001003*01~TYPE2:22|DE*MER*E001003*02~TYPE2:22|DE*MER*E001005*01~TYPE2:22|DE*MER*E001005*02~TYPE2:22|DE*MER*E001004*01~TYPE2:22|DE*MER*E001004*02~TYPE2:22
+1051803	MER Germany		Am Gleis 0	83539	Pfaffing	48.082544	12.090169	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051858	MER Germany		Pfarrweg 0	84419	Obertaufkirchen	48.216832	12.243795	1			~TYPE2:22|~TYPE2:22
+1051886	MER Germany		Trostberger Str. 15	83342	Tacherting	48.070389	12.489226	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1054877	Aral Pulse		Gewerbepark Spörer Au 1	85368	Wang	48.483013	12.000811	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1059985	EnBW mobility+ AG und Co.KG		Bahnhofstr. 4	85643	Steinhöring	48.085872	12.029577	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150+TYPE2:22
+1061083	Autohaus Haag	AH EBE / DC HAAG	Münchener Str. 46	83527	Haag i.OB	48.163586	12.169159	1	24/7	Keine Beschränkung	DE*CPI*E6955745*1~TYPE2:43|DE*CPI*E6955745*2~CCS2:30+CHADEMO:30
+1063421	Stadtwerke Waldkraiburg Eigenbetrieb der Stadt Waldkraiburg		Friedländer Str. 2	84478	Waldkraiburg	48.207838	12.402102	1		Nur für Kunden/Besucher	DEWEBE000203~CCS2:150|DEWEBE000204~CCS2:150|DEWEBE000201~CCS2:75|DEWEBE000202~TYPE2:22
+1063422	Stadtwerke Waldkraiburg Eigenbetrieb der Stadt Waldkraiburg		Friedländer Str. 2	84478	Waldkraiburg	48.207763	12.401987	1		Nur für Kunden/Besucher	DEWEBE000205~CCS2:150|DEWEBE000206~CCS2:150
+1063640	Überlandwerk Erding GmbH & Co. KG		Josef-Martin-Bauer-Straße 18	84405	Dorfen	48.279960	12.147510	1			~TYPE2:22|~TYPE2:22
+1063641	Überlandwerk Erding GmbH & Co. KG		Attinger Weg 9	84416	Taufkirchen (Vils)	48.344560	12.128650	1			~TYPE2:22|~TYPE2:22
+1063651	Überlandwerk Erding GmbH & Co. KG		Haagerstr. 59	84405	Dorfen	48.267780	12.155689	1			~TYPE2:22|~TYPE2:22
+1064207	Kaufland	5410_Kland_Waldkraiburg_T54-IT1-2922-250	Teplitzer Str. 12-14	84478	Waldkraiburg	48.206893	12.406853	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064849	Aral Pulse		Gewerbepark Spörer Au 1	85368	Wang	48.482769	12.000625	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1065132	SMATRICS GmbH & Co KG		Waldwinkler Straße 1	84544	Aschau am Inn	48.194010	12.336957	1			~TYPE2:11
+1066572	Kfz Meisterbetrieb Duran		Gänsberg 2	84559	Kraiburg am Inn	48.155878	12.404478	1			~TYPE2:22
+1066697	Maier Kältetechnik		Gartenstraße 1A	84155	Bodennkirchen	48.392080	12.390630	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068962	Gemeinde Schönberg		Waldstraße 0	84573	Schönberg	48.243840	12.442300	1			~TYPE2:11|~TYPE2:11
+1068963	Gemeinde Oberbergkirchen		Hofmark 21	84564	Oberbergkirchen	48.304550	12.387720	1			~TYPE2:11|~TYPE2:11
+1069166	Ammer		Veldener Straße 20	84416	Taufkirchen (Vils)	48.347040	12.137449	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1069496	Stefan Tremmel		Reichenöd 58 1/4	84137	Vilsbiburg	48.423520	12.301051	1			~TYPE2:11
+1069536	Alfred Scheidhammer		Sippenbach 2	84155	Bodenkirchen	48.413697	12.373736	1			~TYPE2_TETHERED:22
+1069564	Gemeinde Rechtmehring		Schulstr. 12	83562	Rechtmehring	48.124564	12.157679	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1069565	Gemeinde Rechtmehring		Korbiniansweg 1	83562	Rechtemhring	48.124470	12.157720	1			~TYPE2:22|~TYPE2:22
+1069912	Urban Solarladestation		Lengmooserweg 24	83527	Haag	48.157230	12.194454	1			~TYPE2:11
+1069913	Urban Solarladestation		Dachbergstraße 4	84437	Reichertsheim, OT Ramsau	48.166802	12.231233	1			~TYPE2:11
+1069914	Urban Solarladestation		Kolbinger Str. 2	83527	Haag i.OB	48.168361	12.140184	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074793	Rothmoser GmbH & Co. KG		Sensauer Straße 2	85643	Steinhöring	48.083006	12.060520	1			~TYPE2:22|~TYPE2:22
+1074794	Rothmoser GmbH & Co. KG		Bahnhofstraße 25	85643	Steinhöring	48.083855	12.032263	1			~TYPE2:22|~TYPE2:22
+1075057	Ingenieurbüro für Elektronik,Informatik,Baubiologie,Energiesysteme		Lindenstr. 8	83555	Gars Bahnhof	48.146784	12.288936	1		Nur für Kunden/Besucher	ENC6K~TYPE2_TETHERED:11
+1075156	Stadtwerke Dorfen GmbH		Haager Str. 31	84405	Dorfen	48.269897	12.154441	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075157	Stadtwerke Dorfen GmbH		Ludwig-Mertl-Straße 1	84405	Dorfen	48.281005	12.144828	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075158	Stadtwerke Dorfen GmbH		Bahnhofstraße 0	84405	Dorfen	48.267834	12.162176	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075162	Stadtwerke Dorfen GmbH		Reithel 1	84405	Dorfen	48.259965	12.161140	1			~CCS2:50+CHADEMO:50|~CCS2:50|~TYPE2:22
+1075237	AVHz GmbH		Neuhausen 2	84431	Heldenstein	48.225000	12.304000	1			~TYPE2:22+SCHUKO:22
+1075917	Christine Queißer		Loiting 33	84432	Hohenpolding	48.392103	12.131932	1			~TYPE2_TETHERED:11
+1077317	DACT	Gasthaus Hofgarten	Hofgartenstr. 2	83527	Haag i.OB	48.159928	12.180803	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22
+1080595	Christian Zinkl		Zollbruckerstrasse 18	84155	Bodenkirchen	48.438942	12.421646	1			~TYPE2:11
+1081222	Pfalzwerke AG		Siemensstr. 20	84453	Mühldorf a. Inn	48.249837	12.490252	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1081336	Vögl GmbH & Co. Vilsbiburg KG		Baumgartenstr. 1	84137	Vilsbiburg	48.452217	12.339524	1			~TYPE2:22|~TYPE2:22
+1081438	Autohaus Langlinderer e. K.		Geretsrieder Str. 24	84478	Waldkraiburg	48.213709	12.411458	1			~TYPE2:22|~TYPE2:22
+1083913	Kfz Meisterbetrieb Vielhauer Einzellunternehmen		Haagerstrasse 56	84419	Obertaufkirchen	48.260470	12.280906	1			~TYPE2:22
+1084231	Richter+Frenzel GmbH + Co. KG		Alte Ziegelei 2a	84405	Dorfen	48.270700	12.152000	1			~TYPE2:22|~TYPE2:22
+1084446	EnBW mobility+ AG und Co.KG		Siemensstr. 18	84453	Mühldorf a. Inn	48.250200	12.495100	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1084721	Annette Bernhard		Großornach b	83119	Obing	48.013481	12.445014	1			~TYPE2_TETHERED:11
+1084728	Anton Gründl		Kremsrott 1	84564	Oberbergkirchen	48.312702	12.409820	1			~TYPE2_TETHERED:11
+1085198	Cindy Koch		Galgenfeld 12	84171	Baierbach	48.419890	12.204428	1			~TYPE2_TETHERED:11
+1086273	Johann Ostermaier		Herzoganger 5	83119	Obing	48.026196	12.371724	1			~TYPE2:11
+1086377	Jürgen Hölzlhammer		Geiselharting 12	84564	Oberbergkirchen	48.317555	12.377478	1			~TYPE2_TETHERED:11
+1086387	Jürgen Schönsteiner		Weststraße 30	84416	Taufkirchen (Vils)	48.344309	12.183911	1			~TYPE2:11
+1086643	Manfred Angermaier		Ottering 15	84416	Inning am Holz	48.336477	12.063442	1			~TYPE2_TETHERED:11
+1086648	Manfred Koal		Steingassen 6	83561	Ramerberg	48.017895	12.143329	1			~TYPE2:22
+1086707	Marco Rettenberger		Bauhofstraße 7	84416	Taufkirchen (Vils)	48.354571	12.133747	1			~TYPE2:11
+1086752	Marianne Marianne		Kreuzstraße 16	83530	Schnaitsee	48.068352	12.388741	1			~TYPE2_TETHERED:11
+1086857	Martin Mooser		Maiselsberger Straße 45323	84416	Taufkirchen (Vils)	48.346607	12.155269	1			~TYPE2:11
+1087279	Patrick Lehrhuber		Rauchensteinerstraße 6A	84144	Geisenhausen	48.475422	12.247465	1			~TYPE2_TETHERED:11
+1087538	Riccardo Fröhlich		Buch 47	84144	Geisenhausen	48.474446	12.256967	1			~TYPE2:11
+1087588	Roman Maier		Schoberstraße 33	84546	Egglkofen	48.390424	12.449843	1			~TYPE2_TETHERED:11
+1087751	Simon Klaffl		Traxl 8	85560	Ebersberg	48.058926	12.017544	1			~TYPE2:11
+1087809	Stefan Eder		Korbinian-Aigner-Weg 1	84405	Dorfen	48.305231	12.156709	1			~TYPE2_TETHERED:11
+1088104	Thomas Spiegelmeier		Buchenstraße 1A	83562	Rechtmehring	48.117541	12.150303	1			~TYPE2_TETHERED:11
+1088106	Thomas Steinberger		Salzachstraße 13	84562	Mettenheim	48.254626	12.469395	1			~TYPE2:11
+1089486	Strobl Elektrotechnik GmbH		Landshuter Straße 3	84169	Altfraunhofen	48.449821	12.171754	1			~TYPE2:22|~TYPE2:22
+1089548	Zehetbauer Annemarie		Ohmstr. 11	84144	Geisenhausen	48.479310	12.245310	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1090927	SSL Energie GmbH		Münchener Straße 1	83527	Haag i. OB	48.161923	12.179870	1			~TYPE2:16
+1092003	Citywatt GmbH		Bahnhofstr. 15-17	84144	Geisenhausen	48.474079	12.249410	1		Nur für Kunden/Besucher	DE*CIW*E001353~TYPE2:22|DE*CIW*E001352~TYPE2:22|DE*CIW*E001351~TYPE2:22|DE*CIW*E001350~TYPE2:22
+1092921	Dr. Andreas Wieser Consulting		Brunnberg 12	83553	Frauenneuharting	48.038273	12.049559	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1092922	Dr. Andreas Wieser Consulting		Brunnberg 10	83553	Frauenneuharting	48.038209	12.049351	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1093053	Wasserburger Energie GmbH		Max-Emanuel-Platz 4	83512	Wasserburg a. Inn	48.061037	12.234987	1			~TYPE2:22|~TYPE2:22
+1093054	Wasserburger Energie GmbH		Landwehrstraße 3	83512	Wasserburg a. Inn	48.061124	12.235444	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22
+1093055	Wasserburger Energie GmbH		Am Aussichtsturm 5	83512	Wasserburg a. Inn	48.057324	12.237533	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093056	Wasserburger Energie GmbH		Parkhaus Überfuhrstraße 0	83512	Wasserburg a. Inn	48.063347	12.227827	1			~TYPE2:22|~TYPE2:22
+1093057	Wasserburger Energie GmbH		Bahnhofstraße 27	83512	Wasserburg a. Inn	48.060515	12.185214	1			~TYPE2:22|~TYPE2:22
+1093339	Westenthanner Energieversorgung GmbH		Bahnhofstrasse 13	84419	Schwindegg	48.272731	12.249955	1			~TYPE2:22|~TYPE2:22
+1093340	Westenthanner Energieversorgung GmbH		Mühldorfer Strasse 56	84419	Schwindegg	48.271825	12.263572	1			~TYPE2:22|~TYPE2:22
+1096390	Anton Kronseder e.K.		Am Schmiedanger 1	84427	Sankt Wolfgang	48.253206	12.163973	1			~TYPE2:11
+1096443	Auto Hofstätter e.k.		Erdinger Str. 28	84416	Taufkirchen (Vils)	48.344749	12.124552	1			~CCS2:22|~TYPE2:11
+1096664	Autohaus Gartner GmbH & Co.KG		Rosenheimer Str. 22	83549	Eiselfing	48.037204	12.238316	1			~CCS2:22|~TYPE2:11
+1096974	Autohaus Reisinger GmbH		Staudhamer 0	83512	Wasserburg am Inn	48.061446	12.172547	1			~CCS2:22|~TYPE2:11
+1096990	Autohaus Sedlmaier		Wasserbruck 1	84174	Eching	48.487686	12.020701	1			~CCS2:22|~TYPE2:11
+1102413	Christian Riebesecker		Margarethen 14	84155	Bodenkirchen	48.373120	12.372460	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1102536	Mathias Dietel		Wasserburger Straße 15	84559	Kraiburg am Inn	48.176827	12.427201	1			~TYPE2_TETHERED:11
+1102576	Stadler Fenster und Türen GmbH		Schickinger Str. 26	84539	Ampfing	48.250330	12.425100	1			~TYPE2_TETHERED:11
+1103573	Oberwirt GmbH		Kienberger Str. 14	83119	Obing	48.004951	12.408120	1	24/7	Keine Beschränkung	~CCS2:20|~CCS2:20|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1103778	Privat-Brauerei Gut Forsting e.G.	Parkplatz Brauereigasthof	Münchner Str. 21	83539	Pfaffing	48.081220	12.089760	1	24/7	Keine Beschränkung	EDTK1~TYPE2_TETHERED:11|EUNH8~TYPE2_TETHERED:11
+1103954	Alois Scheidhammer		Finkenstr. 3	84137	Vilsbiburg	48.453772	12.360776	1			~TYPE2:22
+1107680	E.ON Drive GmbH		Eiselfinger Str. 4	83512	Wasserburg a. Inn	48.052088	12.235687	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1109638	Autohaus Richard Wagner GmbH		Staudhamer Feld 5	83512	Wasserburg	48.060145	12.174769	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11
+1109794	Enzinger Tennis & Squash GmbH		Alkorstraße 10	83512	Wasserburg	48.048710	12.228220	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1109979	Gemeinde Buch a.Erlbach		Rathausplatz 1	84172	Buch a.Erlbach	48.448549	12.033045	1			~TYPE2:11+TYPE2_TETHERED:11
+1110059	Energie Südbayern GmbH	ESB_0208 / Förderzentrum - Wasserburg am Inn	Josef-Kirmayer-Str. 2	83512	Wasserburg a. Inn	48.062420	12.235410	1	24/7	Keine Beschränkung	DEESBE020801~TYPE2:22|DEESBE020802~TYPE2:22
+1110060	Energie Südbayern GmbH	ESB_0207 / Realschule - Wasserburg am Inn	Landwehrstr. 18	83512	Wasserburg a. Inn	48.064691	12.234074	1	24/7	Keine Beschränkung	DEESBE020701~TYPE2:22|DEESBE020702~TYPE2:22
+1112711	ZeSec Solution GmbH		Tabertshoferstr 2	81550	Bodenkirchen	48.407152	12.393598	1			~TYPE2:11
+1113452	Hotel Renner		Veldenerstraße 1	84428	Buchbach	48.313850	12.273260	1			~TYPE2:22|~TYPE2:22
+1113694	Thomas Knyrim		Dorfstrasse 17a	84174	Berghofen	48.483440	12.030758	1			~TYPE2:11
+1113739	Capusan Einzelunternehmen		Am Wienerfeld 8	84174	Eching	48.472350	12.046500	1			~TYPE2:11+SCHUKO:11
+1114027	Ingenieurbüro Gumminger, Freiberuf/Einzelfirma		Erlenstraße 28	83562	Rechtmehring	48.123397	12.161173	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1115458	Wasserburger Energie GmbH	Parkhaus 2	Kellerstr. 4	83512	Wasserburg a. Inn	48.058909	12.233410	1	24/7	Keine Beschränkung	DE*BDO*E104143621*1~TYPE2:22|DE*BDO*E167264939*1~TYPE2:22
+1115459	Wasserburger Energie GmbH	VHS - Parkplatz	Salzburger Str. 15	83512	Wasserburg a. Inn	48.054758	12.231259	1	24/7	Keine Beschränkung	DE*BDO*E658711594*2~TYPE2:22+TYPE2:22
+1115462	Wasserburger Energie GmbH	Badria Parkplatz	Alkorstr. 14	83512	Wasserburg a. Inn	48.050817	12.227636	1	24/7	Keine Beschränkung	DE*BDO*E875853073*1 DE*BDO*E875853073*2~TYPE2:22+TYPE2:22|DE*BDO*E932851662*1 DE*BDO*E932851662*2~TYPE2:22+TYPE2:22
+1115465	Wasserburger Energie GmbH		Köbingerbergstr. 4	83512	Wasserburg a. Inn	48.061552	12.209641	1	24/7	Keine Beschränkung	DE*BDO*E905717494*1 DE*BDO*E905717494*2~TYPE2:22+TYPE2:22
+1115466	Wasserburger Energie GmbH	Parkplatz unter der Rampe	Schopperstattweg 0	83512	Wasserburg a. Inn	48.062442	12.226153	1	24/7	Keine Beschränkung	DE*BDO*E395453456*1 DE*BDO*E395453456*2~TYPE2:22+TYPE2:22
+1115469	Wasserburger Energie GmbH	Parkplatz kbo Inn-Salzach-Klinikum	Gabersee 7	83512	Wasserburg a. Inn	48.061952	12.200215	1	24/7	Keine Beschränkung	DE*BDO*E899722870*1 DE*BDO*E899722870*2~TYPE2:11+TYPE2:11|DE*BDO*E874013315*1 DE*BDO*E874013315*2~TYPE2:11+TYPE2:11|DE*BDO*E064760612*1 DE*BDO*E064760612*2~TYPE2:11+TYPE2:11|DE*BDO*E198653709*1 DE*BDO*E198653709*2~TYPE2:11+TYPE2:11
+1118025	EMOVA	Ampfing	Robert-Bosch-Str. 4	84539	Ampfing	48.250705	12.408820	1	24/7	Keine Beschränkung	~CCS2:160|~CCS2:160
+1119538	Energie Südbayern GmbH	VG Kraiburg - Taufkirchen	Kirchplatz 7	84574	Taufkirchen	48.148499	12.456885	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119863	Raiffeisenbank Haag-Gars-Maitenbeth eG	Raiffeisenbank Haag - Kundenparkplatz	Hauptstr. 34	83527	Haag i.OB	48.161895	12.182710	1	24/7	Keine Beschränkung	~TYPE2:11
+1121273	ALDI SÜD	EBE-001	Staudhamer Feld 1	83512	Wasserburg a. Inn	48.060599	12.174873	1	24/7	Keine Beschränkung	DE*ALD*E23418~CCS2:50|DE*ALD*E23417~CCS2:50
+1125636	Stadtwerke Waldkraiburg Eigenbetrieb der Stadt Waldkraiburg	Amselweg	Meisenweg 1	84478	Waldkraiburg	48.212509	12.429810	1	24/7	Keine Beschränkung	DEWEBE000609~CCS2:49|DEWEBE000610~CCS2:49|DEWEBE000601~TYPE2:22|DEWEBE000602~TYPE2:22|DEWEBE000603~TYPE2:22|DEWEBE000604~TYPE2:22|DEWEBE000605~TYPE2:22|DEWEBE000606~TYPE2:22|DEWEBE000607~TYPE2:22|DEWEBE000608~TYPE2:22
+1126682	Energie Südbayern GmbH	ESB_0409_01 / Schulstraße - Isen	Schulstr. 12	84424	Isen	48.164064	12.030430	1	24/7	Keine Beschränkung	DEESBE040901~TYPE2:22|DEESBE040902~TYPE2:22
+1127482	Zosseder Holding GmbH & Co. KG	Das Wasserburg Hotel	Am Burgfrieden 1c	83512	Wasserburg a. Inn	48.042910	12.221950	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1127508	Energielösung GmbH		Kleinornach 1c	83119	Obing	48.006260	12.436430	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1128227	EM1 GmbH		Münchner Str. 11	84431	Heldenstein	48.243116	12.366830	1	24/7	Keine Beschränkung	DE*443*EEM1HSTLS01*01~CCS2:400|DE*443*EEM1HSTLS01*02~CCS2:400|DE*443*EEM1HSTLS02*01~CCS2:180|DE*443*EEM1HSTLS02*02~CCS2:180
+1129075	EnBW mobility+ AG und Co.KG		Bernd-Motzkus-Str. 71	83512	Wasserburg a. Inn	48.050200	12.222600	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1131576	Lidl	3526_Lidl_Dorfen_T65-IT1-0225-008	Haager Str. 51	84405	Dorfen	48.268460	12.155590	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1132832	EWE Go GmbH	McD_1878_1A	Zieglhaus 2	84405	Dorfen	48.259427	12.158669	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1133234	EM - GROUP GmbH	Wasserburg	Knoppermühlweg 2	83512	Wasserburg a. Inn	48.061980	12.226750	1	24/7	Keine Beschränkung	E2ZKZ~TYPE2_TETHERED:11
+1134113	Lidl	5924_Lidl_Vilsburg_QP-17701-0225-060-121-QP-VER.321	Frontenhausener Str. 92	84137	Vilsbiburg	48.455020	12.364210	1		Keine Beschränkung	~CCS2:60|~CCS2:60
+1134532	Elektro Hochholzer GmbH	Geisenhausen 1	Hauptstr. 0	84144	Geisenhausen	48.473058	12.258959	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1135339	Kraftwerke Haag GmbH	Bürgersaal Haag	Münchener Str. 34	83527	Haag i.OB	48.163203	12.174123	1	24/7	Keine Beschränkung	DEKWHE000301~TYPE2:22|DEKWHE000302~TYPE2:22
+1135340	Kraftwerke Haag GmbH	Parkplatz Haag	Rute 5	83527	Haag i.OB	48.162290	12.185013	1	24/7	Keine Beschränkung	DEKWHE000101~TYPE2:22|DEKWHE000102~TYPE2:22
+1135341	Kraftwerke Haag GmbH	Rathaus Isen	Münchner Str. 12	84424	Isen	48.212021	12.055999	1	24/7	Keine Beschränkung	DEKWHE000201~TYPE2:22
+1137027	Wasserburger Energie GmbH	Parkplatz am Gries	Landwehrstr. 3	83512	Wasserburg a. Inn	48.061570	12.235620	1	24/7	Keine Beschränkung	DE*BDO*E198653709*1~TYPE2:11|DE*BDO*E198653709*2~TYPE2:11
+1137028	Wasserburger Energie GmbH	Recipharm	Herderstr. 2	83512	Wasserburg a. Inn	48.046708	12.216067	1	24/7	Nur für Kunden/Besucher	DE*BDO*E044743281*1~TYPE2:11|DE*BDO*E044743281*2~TYPE2:11|DE*BDO*E379113190*1~TYPE2:11|DE*BDO*E379113190*2~TYPE2:11|DE*BDO*E535944467*1~TYPE2:11|DE*BDO*E535944467*2~TYPE2:11
+1137031	Wasserburger Energie GmbH	Molkerei-Bauer	Molkerei-Bauer-Str. 1-10	83512	Wasserburg a. Inn	48.048056	12.220556	1	24/7	Nur für Kunden/Besucher	DE*BDO*E1279112122*1~TYPE2:11|DE*BDO*E1279112122*2~TYPE2:11|DE*BDO*E467327718*1~TYPE2:11|DE*BDO*E467327718*2~TYPE2:11
+1143901	Strobl Elektrotechnik GmbH	Altfraunhofen	Landshuter Str. 3	84169	Altfraunhofen	48.449800	12.171690	1	24/7	Keine Beschränkung	DE*ONE*EK7K6~TYPE2:22|DE*ONE*E92S6~TYPE2:22
+1145038	GETEC mobility solutions GmbH	CGM_CLINICAL_EUROPE_GMBH	Hadersberg 1	84427	Sankt Wolfgang	48.215126	12.128634	1		Keine Beschränkung	DE*101*EPARDE0727S001*1~TYPE2:22|DE*101*EPARDE0727S001*2~TYPE2:2|DE*101*EPARDE0727S002*1~TYPE2:22|DE*101*EPARDE0727S002*2~TYPE2:2
+1145859	Präg Strom	Penny Edling	Am Gewerbering 2	83533	Edling	48.058916	12.170685	1	24/7	Keine Beschränkung	DE*PSG*E00120*001~CCS2:320|DE*PSG*E00120*002~CCS2:320
+1145971	Energie Südbayern GmbH	ESB_0341 / Bischof-Josef-Straße -Isen	Bischof-Josef-Str. 1	84424	Isen	48.211622	12.057732	1	24/7	Keine Beschränkung	DEESBE034101~TYPE2:22|DEESBE034102~TYPE2:22
+1145975	Energie Südbayern GmbH	ESB_0407_01 / VR Bank - Lengendorf	Bischof-Arn-Platz 2	84435	Lengdorf	48.254707	12.052076	1	24/7	Keine Beschränkung	DEESBE040701~TYPE2:22|DEESBE040702~TYPE2:22
+1145999	Energie Südbayern GmbH	ESB_0408_01 / Münchner Straße - Isen	Münchner Str. 57	84424	Isen	48.204563	12.053087	1	24/7	Keine Beschränkung	DEESBE040801~CCS2:150|DEESBE040802~CCS2:150
+1146012	Shell Deutschland GmbH		Landshuter Str. 54	84137	Vilsbiburg	48.451360	12.342910	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:300|~CCS2:300
+1146159	Kraftwerke Haag GmbH	Soyen P+R	Bahnhofsplatz 1	83564	Soyen	48.108775	12.209924	1	24/7	Keine Beschränkung	DEKWHE000501~TYPE2:22|DEKWHE000502~TYPE2:22
+1147387	Energie Südbayern GmbH	ESB_0340 / Hauptstraße - St. Wolfgang	Hauptstr. 18	84427	Sankt Wolfgang	48.221820	12.135500	1	24/7	Keine Beschränkung	DEESBE034001~CCS2:50|DEESBE034002~CCS2:50
+1147670	Anton Neudecker GmbH&Co.Kg	Hypercharger Gurnhub	Gurnhub 1	84432	Hohenpolding	48.411639	12.164473	1	24/7	Keine Beschränkung	DE*BDO*E834961407*1~CCS2:300|DE*BDO**E834961407*2~CCS2:300|~TYPE2:22
+1148349	Karl Kittelmann	PV Überschuss Carport	Pirolstr. 6b	84144	Geisenhausen	48.465920	12.257400	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2:3.7
+1149765	Fastned Deutschland GmbH & Co. KG		Reithel 4	84405	Dorfen	48.259600	12.159950	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1152149	Jens Unger		Fischerstr. 33 B	84174	Eching	48.495718	12.030250	1	Mo-Fr 09:00-15:00	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1154034	Energie Südbayern GmbH	ESB_0118_01 / Guttenburger Straße - Kraiburg am Inn	Guttenburger Str. 20	84559	Kraiburg a. Inn	48.181745	12.430004	1	24/7	Keine Beschränkung	DEESBE011801~CCS2:50|DEESBE011802~CCS2:50
+1154637	Energie Südbayern GmbH	ESB_0515_01 / Mettenheim - Dorfladen	Schweppermannstr. 2	84562	Mettenheim	48.254161	12.463716	1	24/7	Keine Beschränkung	DEESBE051501~CCS2:50|DEESBE051502~CCS2:50
+1154943	ALDI SÜD	EBE-047-01	Haager Str. 61	84405	Dorfen	48.268328	12.158704	1	Mo-Sa 07:00-20:00	Keine Beschränkung	DE*ALD*E23620~CCS2:50|DE*ALD*E23621~CCS2:50
+1156136	Wirelane GmbH	Schulstraße ggü. 6, 84427 St. Wolfgang	Schulstraße 6	84427	Sankt Wolfgang	48.220361	12.134722	1		Keine Beschränkung	DE*WLN*EP000919~TYPE2:22|DE*WLN*EP000920~TYPE2:22
+1156919	Energie Südbayern GmbH	ESB_0599_01 / Lengmooser Straße - Gars am Inn	Lengmooser Str. 5	83536	Gars a. Inn	48.154617	12.273318	1	24/7	Keine Beschränkung	DEESBE059901~TYPE2:22|DEESBE059902~TYPE2:22
+1156984	Wirelane GmbH		Gewerbering 5	84149	Velden	48.368295	12.239095	1		Keine Beschränkung	DE*WLN*ES000999~CCS2:150|DE*WLN*ES001000~CCS2:150
+1157816	EM - GROUP GmbH	WS A23054020166	Knoppermühlweg 2	83512	Wasserburg a. Inn	48.062123	12.226905	1	24/7	Keine Beschränkung	DE*ONE*E616N~TYPE2_TETHERED:11
+1157982	Citywatt GmbH	Spedition und Lagerei Greilmeier #05	Am Logistikpark 1	84419	Obertaufkirchen	48.271031	12.265715	1	Mo-Fr 00:00-23:59, Sa 00:00-11:59, So 03:01-23:59	Keine Beschränkung	DE*CIW*E001563~TYPE2_TETHERED:22|DE*CIW*E001564~TYPE2_TETHERED:22|DE*CIW*E001565~TYPE2_TETHERED:22|DE*CIW*E001566~TYPE2_TETHERED:22|DE*CIW*E001567~TYPE2_TETHERED:22|DE*CIW*E001568~TYPE2_TETHERED:22|DE*CIW*E001569~TYPE2_TETHERED:22|DE*CIW*E001570~TYPE2_TETHERED:22
+1158660	Energie Südbayern GmbH	ESB_0598_01 / Am Klosterfeld - Gars am Inn	Am Klosterfeld 6	83546	Gars am Inn	48.165593	12.326852	1	24/7	Keine Beschränkung	DEESBE059801~TYPE2:22|DEESBE059802~TYPE2:22
+1159106	EnBW mobility+ AG und Co.KG	REWE Velden, Vilsbiburgerstr	Vilsbiburger Straße 52	84149	Velden	48.367886	12.266567	1	24/7	Keine Beschränkung	DE*EBW*E913302*1~CCS2:100|DE*EBW*E913302*2~CCS2:100|DE*EBW*E913301*1~CCS2:100|DE*EBW*E913301*2~CCS2:100
+1161393	EnBW mobility+ AG und Co.KG	Euronics Hammer Vilsbiburg	Baumgartenstraße 2	84137	Vilsbiburg	48.452417	12.339083	1	24/7	Keine Beschränkung	DE*EBW*E913331*1~CCS2:100|DE*EBW*E913331*2~CCS2:100
+1162189	Energie Südbayern GmbH	ESB_0600_01 / St.-Ulrich-Weg - Gars am Inn	St.-Ulrich-Weg 1	83536	Gars a. Inn	48.152484	12.275390	1	24/7	Keine Beschränkung	DEESBE060001~CCS2:50|DEESBE060002~CCS2:50|DEESBE060001~CCS2:50|DEESBE060002~CCS2:50

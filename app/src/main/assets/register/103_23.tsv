@@ -1,0 +1,154 @@
+1000964	Stadtwerke Hettstedt GmbH		Luisenstraße 2	06333	Hettstedt	51.645570	11.514070	1			~TYPE2:22|~TYPE2:22
+1000967	Stadtwerke Hettstedt GmbH		Schillerstraße 22	06333	Hettstedt	51.653570	11.511374	1			~TYPE2:22|~TYPE2:22
+1000968	Stadtwerke Hettstedt GmbH		Mühlgartenstraße 0	06333	Hettstedt	51.643123	11.510968	1			~CCS2:75|~CCS2:75
+1002212	EVH GmbH		Dölauer Straße 77	06120	Halle (Saale)	51.507930	11.927010	1			~TYPE2:22|~TYPE2:22
+1002221	EVH GmbH		Röntgenstraße 1	06120	Halle (Saale)	51.502510	11.875540	1			~TYPE2:22|~TYPE2:22
+1010636	SKZ		Köthener Str. 33A	06118	Halle	51.526690	11.952980	1			~TYPE2:22|~TYPE2:22
+1011031	Köthen Energie GmbH		Adolf-Kolping-Straße 13-19	06366	Köthen	51.744702	11.952181	1			~TYPE2:22|~TYPE2:22
+1011032	Köthen Energie GmbH		Marktstr. 1-3	06366	Köthen (Anhalt)	51.751500	11.974700	1		Keine Beschränkung	~TYPE2:22
+1011033	Köthen Energie GmbH		Lelitzer Straße 27b	06366	Köthen	51.749350	11.951005	1			~TYPE2:22|~TYPE2:22
+1011034	Köthen Energie GmbH		Dr.-Krause-Str. 33	06366	Köthen	51.750646	11.987085	1			~TYPE2:22|~TYPE2:22
+1011035	Köthen Energie GmbH		Bernburger Straße 55	06366	Köthen	51.755080	11.966660	1			~TYPE2:22|~TYPE2:22
+1011036	Köthen Energie GmbH		Bernburger Straße 55	06366	Köthen	51.755020	11.966620	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1011038	Köthen Energie GmbH		Bernburger Straße 55	06366	Köthen	51.754930	11.966580	1			~TYPE2:22|~TYPE2:22
+1011039	Köthen Energie GmbH		Bernburger Straße 55	06366	Köthen	51.754890	11.966550	1			~TYPE2:22|~TYPE2:22
+1011040	Köthen Energie GmbH		Ludwigstr. 53	06366	Köthen	51.749216	11.979528	1			~TYPE2:22|~TYPE2:22
+1016319	Avacon AG		Markt 13	39240	Calbe	51.902950	11.775980	1			~TYPE2:22|~TYPE2:22
+1021682	EWE Go GmbH	McD_0789	Magdeburger Chaussee 10	06118	Halle (Saale)	51.522616	11.953463	1	24/7	Keine Beschränkung	DE*2GO*EMCD0789*1A*1~CCS2:150|DE*2GO*EMCD0789*1A*2~CCS2:150
+1021710	EWE Go GmbH	McD_0662_1A	Am Helftaer Anger 2	06295	Lutherstadt Eisleben	51.511150	11.576977	1	24/7	Keine Beschränkung	DE*2GO*EMCD0662*1A*1~CCS2:300|DE*2GO*EMCD0662*1A*2~CCS2:300
+1021980	EWE Go GmbH		Ernest-Solvay-Str. 4	06406	Bernburg (Saale)	51.774224	11.753807	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1022113	EWE Go GmbH		Dessauer Str. 104	06366	Köthen	51.764490	11.986645	1			~CCS2:150|~CCS2:150
+1026362	EnBW mobility+ AG und Co.KG		Förderstedterstr. 7	39418	Staßfurt	51.863770	11.597080	1			~CCS2:150|~CCS2:150
+1026405	EnBW mobility+ AG und Co.KG		Döckritzer Str. 2	06118	Halle	51.523591	11.953180	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026465	EnBW mobility+ AG und Co.KG		Luisenstraße 18	06333	Hettstedt	51.646759	11.516185	1			~TYPE2_TETHERED:43|~CCS2:50
+1026946	EnBW mobility+ AG und Co.KG		Hecklinger Straße 1	39418	Staßfurt	51.850600	11.568640	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027085	EnBW mobility+ AG und Co.KG		An der Salzrinne 1	39418	Staßfurt	51.850918	11.597741	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027560	EnBW mobility+ AG und Co.KG		Nordstraße 3	06420	Könnern	51.692169	11.767342	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1029222	EDEKA-MIHA Charge GmbH		Gröbziger Straße 61	06406	Bernburg	51.788209	11.754005	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1032533	envia Mitteldeutsche Energie AG	KP00936	Große Badergasse 900z	06366	Köthen (Anhalt)	51.751975	11.977301	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036723	Köthen Energie GmbH	Bärteichpromenade	Bärteichpromenade 8	06366	Köthen (Anhalt)	51.749897	11.977287	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036740	Köthen Energie GmbH	Hochschule Anhalt	Bernburger Str. 55	06366	Köthen (Anhalt)	51.755266	11.966519	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036741	Köthen Energie GmbH		Bernburger Str. 55	06366	Köthen (Anhalt)	51.755231	11.966692	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036742	Köthen Energie GmbH		Bernburger Str. 55	06366	Köthen (Anhalt)	51.755238	11.966790	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036743	Köthen Energie GmbH		Bernburger Str. 55	06366	Köthen (Anhalt)	51.755207	11.966898	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1036744	Köthen Energie GmbH		Bernburger Str. 55	06366	Köthen (Anhalt)	51.755190	11.966967	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037267	Shell Deutschland GmbH		Carl-Robert-Str. 4	06114	Halle (Saale)	51.502186	11.967847	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1040536	Netto Marken-Discount Stiftung & Co. KG		Eislebener Straße 6	06333	Hettstedt	51.635660	11.512780	1			~CCS2:50|~TYPE2:22
+1048896	Lidl	6600_Lidl _Staßfurt-Mitte_T65-IT1-1022-291	Förderstedter Str. 32	39418	Staßfurt	51.853102	11.589866	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049715	E.ON Drive Infrastructure		Raststätte Plötzetal West 0	06420	Könnern	51.655961	11.817886	1			~CCS2:50|~CCS2:50
+1049750	E.ON Drive Infrastructure		Raststätte Plötzetal Ost 0	06420	Könnern	51.655934	11.822297	1			~CCS2:50|~CCS2:50
+1054651	Aral Pulse		Nordstr. 1 1	06420	Könnern	51.689915	11.767221	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054688	Aral Pulse		Hallesche Landstr. 107	06406	Bernburg (Saale)	51.778699	11.745324	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1054859	Aral Pulse		Am Heidfuchsberg 1	39240	Staßfurt	51.896350	11.691810	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055189	Aral Pulse		Am Helfter Anger 5	06295	Lutherstadt-Eisleben	51.510642	11.577219	1			~CCS2:300|~CCS2:300
+1062234	Köthen Energie GmbH	Andreas-Hofer Platz	Andreas-Hofer-Platz 7	06366	Köthen (Anhalt)	51.742700	11.983380	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062236	Köthen Energie GmbH	ODG-Platz	Platz der Opfer der Gewaltherrschaft 0	06366	Köthen (Anhalt)	51.747684	11.967270	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062239	Köthen Energie GmbH	Altes Gleis	Georgstr. 0	06366	Köthen (Anhalt)	51.751787	11.987101	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062920	Köthen Energie GmbH	Neustädter Platz	Neustädter Platz 0	06366	Köthen (Anhalt)	51.752427	11.978960	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1064305	Kaufland	7260_Kland_Halle_T65-IT1-4522-231	Magdeburger Chaussee 23	06118	Halle (Saale)	51.522502	11.950651	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064327	Kaufland	6230_Lutherstadt Eisleben_T65-IT1-4522-217	Hallesche Str. 77	06295	Lutherstadt Eisleben	51.523620	11.557220	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064374	Kaufland	5333_Kland_Staßfurt_T65-IT1-3923-002	Hohenerxlebener Str. 50	39418	Staßfurt	51.851100	11.607453	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1066363	S & G Automobil GmbH		Carl-Benz-Straße 1	06193	Petersberg	51.533114	11.939606	1			~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22
+1066369	S & G Automobil GmbH		Am Strohügel 2	06295	Lutherstadt Eisleben	51.506377	11.590806	1			~TYPE2:11|~TYPE2:11
+1067295	Köthen Energie GmbH	Bernhard-Kellermann-Str.	Bernhard-Kellermann-Str. 6	06366	Köthen (Anhalt)	51.758276	11.964466	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1068570	honig kult		Rothenburger Str. 14	06193	Wettin-Löbejün	51.614218	11.764091	1			~TYPE2:11
+1069497	St. Jakob		Bärteichpromenade 12c	06366	Köthen	51.749285	11.973412	1			~TYPE2:11
+1069542	Emanuel-Philipp Kleine		Nikolaikirchplatz 8b	06193	Wettin	51.586114	11.806465	1			~TYPE2:11|~TYPE2_TETHERED:11
+1069925	Schubert Motors GmbH		Magdeburger Chaussee 11	06406	Bernburg	51.809475	11.724061	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1070817	Stadtwerke Bernburg GmbH		Karlsplatz 0	06406	Bernburg (Saale)	51.794270	11.742687	1			~TYPE2:22
+1070818	Stadtwerke Bernburg GmbH		Kustrenaer Straße 98	06406	Bernburg (Saale)	51.782343	11.736209	1			~TYPE2:22|~TYPE2:22
+1070819	Stadtwerke Bernburg GmbH		Zepziger Straße 0	06406	Bernburg (Saale)	51.781121	11.751754	1			~TYPE2:22|~TYPE2:22
+1070820	Stadtwerke Bernburg GmbH		Kalistraße 11	06406	Bernburg (Saale)	51.776307	11.737089	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1070821	Stadtwerke Bernburg GmbH		Bärstraße Parkplatz 0	06406	Bernburg (Saale)	51.793190	11.733302	1			~TYPE2:22|~TYPE2:22
+1070822	Stadtwerke Bernburg GmbH		Turmweg 4	06406	Bernburg (Saale)	51.800652	11.736004	1			~TYPE2:22|~TYPE2:22
+1070823	Stadtwerke Bernburg GmbH		Turmweg 5	06406	Bernburg (Saale)	51.800507	11.737011	1			~TYPE2:22|~TYPE2:22
+1070824	Stadtwerke Bernburg GmbH		Kalistraße 11	06406	Bernburg (Saale)	51.776322	11.737184	1			~TYPE2:22|~TYPE2:22
+1070825	Stadtwerke Bernburg GmbH		Lindenplatz 0	06406	Bernburg (Saale)	51.793671	11.741063	1			~TYPE2:22|~TYPE2:22
+1070826	Stadtwerke Bernburg GmbH		Claude-Breda-Straße 1a	06406	Bernburg (Saale)	51.805908	11.697845	1			~TYPE2:22|~TYPE2:22
+1070827	Stadtwerke Bernburg GmbH		Bahnhofstraße 0	06406	Bernburg (Saale)	51.795595	11.750904	1			~TYPE2:22|~TYPE2:22
+1070828	Stadtwerke Bernburg GmbH		Eichenweg 0	06406	Bernburg (Saale)	51.780636	11.753972	1			~TYPE2:22|~TYPE2:22
+1070829	Stadtwerke Bernburg GmbH		Am Platz der Jugend 0	06406	Bernburg (Saale)	51.804538	11.738862	1			~TYPE2:22|~TYPE2:22
+1070830	Stadtwerke Bernburg GmbH		Rheineplatz 0	06406	Bernburg (Saale)	51.796415	11.744314	1			~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22
+1070832	Stadtwerke Bernburg GmbH		Aderstedter Str. 1	06406	Bernburg (Saale)	51.789140	11.706310	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070833	Stadtwerke Bernburg GmbH		Aderstedter Str. 1	06406	Bernburg (Saale)	51.789160	11.706371	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071407	Burchard Führer GmbH	Hotel am Kurpark	Magdeburger Str. 1	39218	Schönebeck (Elbe)	51.999688	11.718727	1	24/7	Keine Beschränkung	DECPIE6985815~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1071700	Mandy Ullrich		Straße der Freundschaft 42	06198	Salzatal	51.509089	11.800460	1			~TYPE2:22|~TYPE2:22
+1072931	Aral Pulse		Magdeburger Chaussee 2	06118	Halle (Saale)	51.521878	11.953743	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1074603	Stadt Nienburg (Saale)		Johannistr. 0	06429	Nienburg (Saale)	51.836323	11.766127	1			~TYPE2:22|~TYPE2:22
+1077297	Köthen Energie GmbH		Lindenstr. 0	06366	Köthen (Anhalt)	51.752967	11.976905	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077980	Burchard Führer GmbH	Stadtschloss Hecklingen	Hugo-Gast-Siedlung 4	39444	Hecklingen	51.846429	11.534410	1	24/7	Keine Beschränkung	DECPIE6999845~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1081212	Energie Mittelsachsen GmbH	CWG Sportplatz	Karl-Marx-Str. 17	39240	Calbe (Saale)	51.916030	11.784120	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1081214	Energie Mittelsachsen GmbH	CWG Große Mühlenbreite	Große Mühlenbreite 16	39240	Calbe (Saale)	51.902030	11.761420	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1081218	Energie Mittelsachsen GmbH	CWG Hauptsitz	Karl-Marx-Str. 39	39240	Calbe (Saale)	51.913160	11.779870	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1081221	Energie Mittelsachsen GmbH	Stadt Barby	Breite Str. 2	39249	Barby	51.964990	11.889830	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1084849	Autohaus Stoye GmbH & Co.KG		Salzmünder Straße 25	06120	Halle (Saale)	51.506479	11.882880	1			~CCS2:22|~TYPE2:22
+1085746	Hans-Jürgen Paasch		Hauptstraße 11	06347	Gerbstedt	51.607217	11.715565	1			~TYPE2_TETHERED:11
+1086778	Marius Eichmann		Grube Ferdinande 2	06193	Petersberg	51.541948	11.932766	1			~TYPE2_TETHERED:11
+1086916	Matthias Höpfner		Gödewitzer Weg 52	06198	Salzatal	51.551893	11.788219	1			~TYPE2_TETHERED:11
+1090941	Hotel Anhalt GmbH		Ludwigstraße 53	06366	Köthen	51.749230	11.979540	1			~TYPE2:22|~TYPE2:22
+1091582	Stadtwerke Lutherstadt Eisleben GmbH		Karl-Rühlemann Platz 1	06295	Lutherstadt Eisleben	51.530100	11.544689	1			~TYPE2:22|~TYPE2:22
+1091583	Stadtwerke Lutherstadt Eisleben GmbH		Landwehr 0	06295	Lutherstadt Eisleben	51.526342	11.552111	1			~TYPE2:22|~TYPE2:22
+1091584	Stadtwerke Lutherstadt Eisleben GmbH		Hintere Siebenhitze 0	06295	Lutherstadt Eisleben	51.525717	11.545366	1			~TYPE2:22|~TYPE2:22
+1091585	Stadtwerke Lutherstadt Eisleben GmbH		Sangerhäuser Straße 0	06295	Lutherstadt Eisleben	51.528356	11.541139	1			~TYPE2:22|~TYPE2:22
+1091586	Stadtwerke Lutherstadt Eisleben GmbH		Bahnhofsring 901L	06295	Luth. Eisleben	51.518613	11.550803	1			~TYPE2:22|~TYPE2:22
+1091587	Stadtwerke Lutherstadt Eisleben GmbH		Siegfried Berger weg 901L	06295	Luth. Eisleben	51.520886	11.547443	1			~TYPE2:22|~TYPE2:22
+1091588	Stadtwerke Lutherstadt Eisleben GmbH		Plan 901L	06295	Luth. Eisleben	51.527528	11.550264	1			~TYPE2:22|~TYPE2:22
+1091591	Stadtwerke Lutherstadt Eisleben GmbH		Strohügel 17	06295	Luth. Eisleben	51.506475	11.586662	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1091592	Stadtwerke Lutherstadt Eisleben GmbH		Oberhütte 37	06295	Luth. Eisleben	51.551518	11.545327	1			~TYPE2:22|~TYPE2:22
+1091594	Stadtwerke Lutherstadt Eisleben GmbH		Hohetorstraße 901L	06295	Lutherstadt Eisleben	51.531239	11.542150	1			~TYPE2:22|~TYPE2:22
+1091595	Stadtwerke Lutherstadt Eisleben GmbH		Straße am Friedhof 0	06295	Lutherstadt Eisleben	51.539523	11.543096	1			~TYPE2:22|~TYPE2:22
+1096610	Autohaus Eichner e.K.		An der Zolltafel 12	06295	Lutherstadt Eisleben	51.513790	11.570072	1			~CCS2:22|~TYPE2:11|DE*GCE*EACCR27056~CCS2:50+TYPE2:22|~CCS2:50
+1097018	Autohaus Schneider GmbH & Co. KG		An der Zolltafel 14	06295	Lutherstadt Eisleben	51.513663	11.572404	1			~CCS2:22|~TYPE2:11
+1097019	Autohaus Schneider GmbH & Co. KG		Christian-Ottiliae-Str. 5	06311	Helbra	51.554106	11.504944	1			~TYPE2:11|~TYPE2:11|~CCS2:22|~CCS2:22|~TYPE2_TETHERED:11
+1097069	Autohaus Stoye GmbH&Co. KG		Salzmünder Str. 25	06120	Halle (Saale)	51.505689	11.883868	1			~TYPE2:11|~CCS2:22
+1097298	Feser und Wittig GmbH		Hallesche Landstraße 110	06406	Bernburg (Saale)	51.770731	11.747700	1		Keine Beschränkung	~TYPE2:22+CCS2:50|~CCS2:50
+1103591	Kaufland	4120_KLand_Bernburg_T65-IT1-3424-004	Zepziger Weg 6	06406	Bernburg (Saale)	51.779297	11.753827	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1105724	Falk Zimmermann Vermögensberatung		Karl-Wünschmann-Str. 9-11	06295	Lutherstadt Eisleben	51.535682	11.542350	1			~TYPE2:11|~TYPE2:11
+1106469	E.ON Drive GmbH		Markt 13	39240	Calbe	51.902950	11.775980	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1106525	E.ON Drive GmbH		Plötzetal Ost 0	06420	Könnern	51.655803	11.822067	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106526	E.ON Drive GmbH		Plötzetal West 0	06420	Könnern	51.656181	11.818083	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1116997	Stadtwerke Lutherstadt Eisleben GmbH	Autoservice Eisleben	Hallesche Str. 84	06295	Lutherstadt Eisleben	51.522059	11.556724	1	24/7	Keine Beschränkung	DE*SL3*E0022~TYPE2_TETHERED:22
+1120159	ColorBase Verwaltungs GmbH	Gewerbegebiet Helbra	Christian-Ottiliae-Str. 6	06311	Helbra	51.553464	11.504036	1	24/7	Keine Beschränkung	DECPIE7272475~CCS2:150|DECPIE7272475~CCS2:150
+1121014	Stadtwerke Lutherstadt Eisleben GmbH	Markt Gerbstedt	Markt 5	06347	Gerbstedt	51.631813	11.627892	1	24/7	Nur für Kunden/Besucher	DE*SL3*E0027~TYPE2:22|DE*SL3*E0028~TYPE2:22
+1121453	Falk Zimmermann Vermögensberatung	Diesterwegstraße	Diesterwegstr. 2	06295	Lutherstadt Eisleben	51.514450	11.562840	1	24/7	Keine Beschränkung	AT*HTB*E27678283~TYPE2:22|AT*HTB*E27686941~TYPE2:11
+1121808	Köthen Energie GmbH	Mendelssohnstr.	Mendelssohnstr. 0	06366	Köthen (Anhalt)	51.743101	11.969570	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1126133	Köthen Energie GmbH	Am Spotzentrum, Nauendorf	Am Sportzentrum 0	06193	Wettin-Löbejün	51.604896	11.885493	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1126135	Köthen Energie GmbH	Görzig	Am Anger 0	06369	Görzig	51.666372	11.995900	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128796	Lidl	7218_Lidl_Lutherstadt_T65-IT1-0325-004	Hallesche Str. 88	06295	Lutherstadt Eisleben	51.521570	11.556660	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1129143	Köthen Energie GmbH	Neue Schulstr.	Neue Schulstr. 0	06193	Wettin-Löbejün	51.587442	11.799019	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1129144	Köthen Energie GmbH	Am Sportzentrum Köthen 1	Am Sportzentrum 0	06366	Köthen (Anhalt)	51.745226	11.960327	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22
+1129685	Zeltwiese Löbejün	Ferienhof Merbitzer Berg	Merbitzer Berg 1	06193	Wettin-Löbejün	51.627453	11.896541	1	Mo-So 07:00-21:00	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1130919	TotalEnergies Charging Solutions		Am Platz der Jugend 6	06406	Bernburg (Saale)	51.804482	11.738822	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50025*002*1~CCS2:200|DE*TCB*E3D9CS50025*002*2~CCS2:200|DE*TCB*E3D9CS50025*003*1~CCS2:200|DE*TCB*E3D9CS50025*003*2~CCS2:200|DE*TCB*E3D9CS50025*004*2~CCS2:200|DE*TCB*E3D9CS50025*004*1~CCS2:200|DE*TCB*E3D9CS50025*001*1~CCS2:200|DE*TCB*E3D9CS50025*001*2~CCS2:200
+1131451	Köthen Energie GmbH	Witwe-Aue-Weg	Krähenbergstr. 0	06366	Köthen (Anhalt)	51.744256	11.954196	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2:22
+1132407	UKH Energie	EGS40 Energiezentrale	Ernst-Grube-Str. 40	06120	Halle (Saale)	51.502360	11.934350	1	24/7	Keine Beschränkung	DECPIE7275265~TYPE2_TETHERED:22|DECPIE7275265~TYPE2_TETHERED:22
+1132409	UKH Energie	EGS40 K-Nord 1	Ernst-Grube-Str. 40	06120	Halle (Saale)	51.502220	11.936460	1	24/7	Keine Beschränkung	DECPIE7275135~TYPE2_TETHERED:22|DECPIE7275135~TYPE2_TETHERED:22
+1132410	UKH Energie	EGS40 K-Nord 2	Ernst-Grube-Str. 40	06120	Halle (Saale)	51.502220	11.936380	1	24/7	Keine Beschränkung	DECPIE7275165~TYPE2_TETHERED:22|DECPIE7275165~TYPE2_TETHERED:22
+1132619	Technische Werke Staßfurt GmbH	Ladestation am EDEKA Parkplatz	Löderburger Str. 99	39418	Staßfurt	51.864369	11.562918	1	24/7	Keine Beschränkung	DE*TW1*E690783239*1~CCS2:150|DE*TW1*E690783239*2~CCS2:150
+1132737	Köthen Energie GmbH	Parkplatz Lelitzer Str.	Lelitzer Str. 27b	06366	Köthen (Anhalt)	51.749092	11.950385	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1133922	Köthen Energie GmbH	Parkplatz Fähre Wettin	Lange Reihe 0	06193	Wettin-Löbejün	51.582091	11.811861	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1133991	EDEKA-MIHA Charge GmbH		Hermann-Danz-Str. 39	39444	Hecklingen	51.848641	11.536436	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1133995	EDEKA-MIHA Charge GmbH		Am Wasserturm 40	06366	Köthen (Anhalt)	51.745409	11.979328	1	24/7	Keine Beschränkung	~CCS2:150|~TYPE2:22|~CCS2:150
+1134056	Vattenfall Smarter Living GmbH		Mötzlicher Str. 15a	06118	Halle (Saale)	51.514075	11.963974	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1136212	UKH Energie	Kiefernweg 34	Kiefernweg 34	06120	Halle (Saale)	51.503005	11.936263	1	24/7	Keine Beschränkung	DECPIE7294655~TYPE2_TETHERED:22|DECPIE7294655~TYPE2_TETHERED:22
+1136213	UKH Energie	Kiefernweg 34	Kiefernweg 30	06120	Halle (Saale)	51.503130	11.935275	1	24/7	Keine Beschränkung	DECPIE7296415~TYPE2_TETHERED:22|DECPIE7296415~TYPE2_TETHERED:22
+1139784	envia Mitteldeutsche Energie AG	25BZ2629C	Dessauer Str. 104 B	06366	Köthen (Anhalt)	51.764242	11.986121	1	24/7	Keine Beschränkung	DE*ISE*EA176498~CCS2:100|DE*ISE*EA155299~CCS2:100
+1145066	Köthen Energie GmbH	Parkplatz Köthen Energie	Lelitzer Str. 27b	06366	Köthen (Anhalt)	51.749078	11.950463	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1148097	Vattenfall Smarter Living GmbH		Freistr. 100	06295	Lutherstadt Eisleben	51.529849	11.548474	1	24/7	Keine Beschränkung	~CCS2:90|~CCS2:90
+1148123	Greenman Energy Operations GmbH & Co. KG	GMO_066_Halle_01	Magdeburger Chaussee 43	06193	Petersberg	51.532216	11.939969	1	Mo-Sa 07:00-20:00	Keine Beschränkung	AT*HTB*E01001086~CCS2:300|AT*HTB*E01001085~CCS2:300|AT*HTB*E1026293~CCS2:300|AT*HTB*E1026294~CCS2:300
+1148148	Technische Werke Staßfurt GmbH	Ladestation Mc Donald`s Brumby	Am Heidfuchsberg 2	39443	Staßfurt	51.896833	11.692641	1	24/7	Nur für Kunden/Besucher	DE*TW1*E513513684*1~CCS2:200|DE*TW1*E513513684*2~CCS2:200
+1148804	EnBW mobility+ AG und Co.KG	PENNY Hettstedt	Luisenstrasse 18 a-k	06333	Hettstedt	51.646140	11.516027	1	24/7	Keine Beschränkung	DE*EBW*E911032*1~CCS2:72|DE*EBW*E911032*2~CCS2:72
+1149272	Skoda Liebe	Autohaus Liebe Eisleben	Am Strohügel 15	06295	Lutherstadt Eisleben	51.507250	11.587150	1	Mo-Fr 09:00-15:00	Keine Beschränkung	DE*POW*E02799~TYPE2:11|DE*POW*E02800~TYPE2:11|DE*POW*E02772~CCS2:50|DE*POW*E02773~CCS2:50
+1149378	ALDI Nord		Ziegeleistr. 16	39240	Calbe (Saale)	51.912000	11.775100	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1150218	Köthen Energie GmbH	Parkplatz Petersberg	Alte Hallesche Str. 0	06193	Petersberg	51.592744	11.957604	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1150219	Köthen Energie GmbH	Parkplatz Raiffeisen Gröbzig	Mühlbreite 0	06388	Gröbzig	51.684440	11.877584	1	24/7	Keine Beschränkung	~TYPE2:22
+1150349	Energie Mittelsachsen GmbH	Alsleben (Saale) - Neumarkt	Markt 0	06425	Alsleben (Saale)	51.704523	11.676380	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1150366	Energie Mittelsachsen GmbH	Schloss Plötzkau	Schloßhof 0	06425	Plötzkau	51.743954	11.687908	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1150367	Energie Mittelsachsen GmbH	Rehaklinik Schönebeck	Eggersdorfer Str. 0	39218	Schönebeck (Elbe)	51.997531	11.721447	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1153383	HomE of Mobility GmbH	Feser und Wittig GmbH · Bernburg · AC, DC	Hallesche Landstr. 110	06406	Bernburg (Saale)	51.770730	11.747644	1	24/7	Keine Beschränkung	DE*HOM*E500133*001~TYPE2:22|DE*HOM*E500133*501~CCS2:50
+1154273	Vattenfall Smarter Living GmbH		Lieskauer Str. 2	06120	Halle (Saale)	51.508457	11.881658	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*4523*037*1~CCS2:180|DE*VAT*E*T184*IT1*4523*037*2~CCS2:180
+1154274	Vattenfall Smarter Living GmbH		Lieskauer Str. 2	06120	Halle (Saale)	51.508450	11.881550	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*4523*039*1~CCS2:180|DE*VAT*E*T184*IT1*4523*039*2~CCS2:180
+1157208	Köthen Energie GmbH	Tiefgarage Wallstr.	Wallstr. 71	06366	Köthen (Anhalt)	51.750250	11.971281	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1158759	Technische Werke Staßfurt GmbH	Staßfurt am Rathaus	Hohenerxlebener Str. 12	39418	Staßfurt	51.850371	11.593445	1	24/7	Keine Beschränkung	DE*TW1*E421263416*1~TYPE2_TETHERED:22|DE*TW1*E571204486*1~TYPE2_TETHERED:22
+1161934	Aral Pulse		Nordstr. 1/b	06420	Könnern	51.690363	11.767014	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1162565	ALDI Nord	ALDI Nord Parkplatz	Dölauer Str. 80	06120	Halle (Saale)	51.508138	11.935588	1	24/7	Keine Beschränkung	DE-ALN-EDE212446-1-1~CCS2:150|DE-ALN-EDE212446-1-2~CCS2:150
+1163690	Köthen Energie GmbH	Karl-Liebknecht-Str.	Karl-Liebknecht-Str. 0	06366	Köthen (Anhalt)	51.744796	11.976414	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22

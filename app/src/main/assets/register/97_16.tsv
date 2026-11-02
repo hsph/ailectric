@@ -1,0 +1,510 @@
+1001219	E-Werk Mittelbaden		Wilhelm-Schechter-Straße 15	77855	Achern	48.628472	8.071143	1			~CCS2:75|~TYPE2:22
+1001221	E-Werk Mittelbaden		Rathausplatz 1	77855	Achern	48.628235	8.071720	1			~TYPE2:22|~TYPE2:22
+1001236	E-Werk Mittelbaden		Schulstraße 6	77876	Kappelrodeck	48.590081	8.117597	1			~TYPE2:22|~TYPE2:22
+1001238	E-Werk Mittelbaden		Illenauer Allee 73	77855	Achern	48.624879	8.084135	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1001245	E-Werk Mittelbaden		Schwarzwaldstraße 2	76549	Hügelsheim	48.795486	8.112197	1			~TYPE2:22|~TYPE2:22
+1001246	E-Werk Mittelbaden		Grand-Centre-Ring 18	76549	Hügelsheim	48.784991	8.110098	1			~TYPE2:22|~TYPE2:22
+1001247	E-Werk Mittelbaden		Kleiner Winkel 1	77880	Sasbach	48.639262	8.091482	1			~TYPE2:22|~TYPE2:22
+1001249	E-Werk Mittelbaden		Talstraße 51	77887	Sasbachwalden	48.616301	8.130264	1			~TYPE2:11|~TYPE2:11
+1001252	E-Werk Mittelbaden		Rosenstraße 8	77855	Achern	48.630077	8.078276	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001254	E-Werk Mittelbaden		Ruhesteinstraße 36	77889	Seebach	48.576628	8.172363	1			~TYPE2:22|~TYPE2:22
+1001255	E-Werk Mittelbaden		Ruhesteinstraße 48	77889	Seebach	48.577118	8.176286	1			~TYPE2:22|~TYPE2:22
+1001258	E-Werk Mittelbaden		Julius-Hirsch-Platz 2	77855	Achern	48.626998	8.079702	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1001632	deer GmbH		Kurpromenade 36	76332	Bad Herrenalb	48.799968	8.440567	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001686	deer GmbH		Wildbader Straße 36	75337	Enzklösterle	48.670871	8.475795	1			~TYPE2:22|~TYPE2:22
+1001707	deer GmbH		Badstraße 2	76456	Kuppenheim	48.829578	8.267121	1			~TYPE2:22|~TYPE2:22
+1001714	deer GmbH		Hauptstraße 71	76316	Malsch	48.879613	8.337298	1			~TYPE2:22|~TYPE2:22
+1001715	deer GmbH		Bahnhofstraße 11	76316	Malsch	48.889453	8.324202	1			~TYPE2:22|~TYPE2:22
+1001719	deer GmbH		Rathausplatz 12	76477	Elchesheim-Illingen	48.930745	8.209072	1			~TYPE2:22|~TYPE2:22
+1001720	deer GmbH		Kirchhaldenpfad 4	76597	Loffenau	48.774117	8.387908	1			~TYPE2:22|~TYPE2:22
+1001721	deer GmbH		Industriestraße 42	76470	Ötigheim	48.888488	8.240907	1			~TYPE2:22|~TYPE2:22
+1001722	deer GmbH		Kronenstraße 4	76470	Ötigheim	48.891227	8.231825	1			~TYPE2:22|~TYPE2:22
+1001724	deer GmbH		Zufuhrstraße 21	76467	Bietigheim	48.908706	8.256360	1			~TYPE2:22|~TYPE2:22
+1001726	deer GmbH		Hauptstraße 17	76316	Malsch	48.882287	8.334422	1			~TYPE2:22|~TYPE2:22
+1001730	deer GmbH		Neue Herrenalber Straße 11	75335	Dobel	48.796898	8.491589	1			~TYPE2:22|~TYPE2:22
+1001731	deer GmbH		Malscher Straße 29	76461	Muggensturm	48.868867	8.288423	1			~TYPE2:22|~TYPE2:22
+1001752	deer GmbH		Friedrichstraße 118	76456	Kuppenheim	48.824706	8.252724	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1001788	deer GmbH		Hauptstr. 90	77830	Bühlertal	48.687288	8.185599	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001796	deer GmbH		Bahnhofplatz 9	76461	Muggensturm	48.876997	8.275711	1			~TYPE2:22|~TYPE2:22
+1001907	deer GmbH		Hauptstrasse 3	76599	Weisenbach	48.729435	8.355507	1			~TYPE2:22|~TYPE2:22
+1002170	Parkgaragengesellschaft Baden-Baden mbH		Waldseestraße 24	76530	Baden-Baden	48.767366	8.228431	1			~TYPE2:22|~TYPE2:22
+1002171	Parkgaragengesellschaft Baden-Baden mbH		Ludwig-Wilhelm-Straße 18	76530	Baden-Baden	48.755184	8.241259	1			~TYPE2:22|~TYPE2:22
+1002172	Parkgaragengesellschaft Baden-Baden mbH		Hans-Bredow-Straße 9	76530	Baden-Baden	48.751548	8.225941	1			~TYPE2:22|~TYPE2:22
+1002173	Parkgaragengesellschaft Baden-Baden mbH		Beim alten Bahnhof 1	76532	Baden-Baden	48.766444	8.232502	1			~TYPE2:22|~TYPE2:22
+1002174	Parkgaragengesellschaft Baden-Baden mbH		Werderstraße 1	76530	Baden-Baden	48.759881	8.237686	1			~TYPE2:22|~TYPE2:22
+1002175	Parkgaragengesellschaft Baden-Baden mbH		Geroldsauerstraße 54	76534	Baden-Baden	48.735129	8.255494	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1002177	Parkgaragengesellschaft Baden-Baden mbH		Ooser Bahnhofstraße 4	76532	Baden-Baden	48.790118	8.191754	1			~TYPE2:22|~TYPE2:22
+1002178	Parkgaragengesellschaft Baden-Baden mbH		Alemannenstraße 34	76530	Baden-Baden	48.782334	8.211332	1			~TYPE2:22|~TYPE2:22
+1002179	Parkgaragengesellschaft Baden-Baden mbH		Flugstraße 14	76532	Baden-Baden	48.789755	8.188086	1			~TYPE2:22|~TYPE2:22
+1002180	Parkgaragengesellschaft Baden-Baden mbH		Lange Straße 44	76530	Baden-Baden	48.764457	8.238161	1			~TYPE2:22
+1002181	Parkgaragengesellschaft Baden-Baden mbH		Lange Straße 77	76530	Baden-Baden	48.766895	8.232501	1			~TYPE2:22|~TYPE2:22
+1002183	Parkgaragengesellschaft Baden-Baden mbH		Augustaplatz 3	76530	Baden-Baden	48.758226	8.240708	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1002185	Parkgaragengesellschaft Baden-Baden mbH		Wörthstraße 97	76532	Baden-Baden	48.782335	8.199570	1			~TYPE2:22
+1002186	Parkgaragengesellschaft Baden-Baden mbH		Yburgstraße 113	76534	Baden-Baden	48.727579	8.169946	1			~TYPE2:22|~TYPE2:22
+1002187	Parkgaragengesellschaft Baden-Baden mbH		Beuernerstraße 12	76534	Baden-Baden	48.743077	8.261751	1			~TYPE2:22|~TYPE2:22
+1002188	Parkgaragengesellschaft Baden-Baden mbH		Sinzheimer Straße 1B	76532	Baden-Baden	48.786521	8.193783	1			~TYPE2:22|~TYPE2:22
+1002190	Parkgaragengesellschaft Baden-Baden mbH		Schwarzwaldstraße 1	76532	Baden-Baden	48.774918	8.219012	1			~TYPE2:22|~TYPE2:22
+1002191	Parkgaragengesellschaft Baden-Baden mbH		Robert-Bosch-Straße 4	76532	Baden-Baden	48.814091	8.219339	1			~TYPE2:22|~TYPE2:22
+1002192	Parkgaragengesellschaft Baden-Baden mbH		Augustaplatz 3	76530	Baden-Baden	48.763056	8.240684	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1002196	Parkgaragengesellschaft Baden-Baden mbH		Ludwig-Wilhelm-Straße 18	76530	Baden-Baden	48.755130	8.241250	1			~CCS2:75|~CCS2:75|~TYPE2:22
+1002197	Parkgaragengesellschaft Baden-Baden mbH		Hilsbrunnenstraße 5	76530	Baden-Baden	48.779590	8.267410	1			~TYPE2:22|~TYPE2:22
+1002198	Parkgaragengesellschaft Baden-Baden mbH		Merkuriusberg 2	76530	Baden-Baden	48.762397	8.264500	1			~TYPE2:22|~TYPE2:22
+1002199	Parkgaragengesellschaft Baden-Baden mbH		Vincentistraße 4	76530	Baden-Baden	48.762427	8.244340	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1002205	Parkgaragengesellschaft Baden-Baden mbH		Merkurstraße 8-10	76530	Baden-Baden	48.759395	8.241986	1			~TYPE2:22|~TYPE2:22
+1007951	Robert Bosch GmbH		Robert-Bosch-Straße 1	77815	Bühl	48.690909	8.119019	1			~TYPE2:11|~TYPE2:11
+1007952	Robert Bosch GmbH		Robert-Bosch-Straße 1	77815	Bühl	48.690763	8.118976	1			~TYPE2:11|~TYPE2:11
+1007953	Robert Bosch GmbH		Robert-Bosch-Straße 1	77815	Bühl	48.690771	8.118898	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1007955	Robert Bosch GmbH		Robert-Bosch-Straße 1	77815	Bühl	48.690856	8.118944	1			~TYPE2:11|~TYPE2:11
+1007977	Robert Bosch GmbH		Robert-Bosch-Straße 1	77815	Bühl	48.689690	8.119260	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1008079	Robert Bosch GmbH		Robert Bosch Str 1	77815	Bühl	48.691000	8.119020	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1008081	Robert Bosch GmbH		Robert Bosch Str 1	77815	Bühl	48.691080	8.119060	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|DE*811*E81235032*2~TYPE2:11|DE*811*E81235034*2~TYPE2:11
+1008083	Robert Bosch GmbH		Robert Bosch Str 1	77815	Bühl	48.691170	8.119090	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1008085	Robert Bosch GmbH		Hauptstraße 34	77830	Bühlertal	48.692250	8.179170	1			~TYPE2:11|~TYPE2:11|DE*811*E32400*13194~TYPE2:22|DE*811*E32400*13195~TYPE2:22
+1008086	Robert Bosch GmbH		Robert Bosch Str 1	77815	Bühl	48.691300	8.119090	1			~CCS2:75+CHADEMO:75|~CCS2:75+CHADEMO:75
+1009233	Shell Deutschland GmbH		Händelstr. 5	76470	Ötigheim	48.888392	8.244425	1			~CCS2:120|~CCS2:120
+1014805	Parkgaragengesellschaft Baden-Baden mbH	HYC Festspielhaus	Beim Alten Bahnhof 1	76530	Baden-Baden	48.766443	8.232410	1	24/7	Keine Beschränkung	DE*LSB*E1699614*001~CCS2:150|DE*LSB*E1699614*002~CCS2:150
+1018341	Mercedes-Benz AG		Daimlerstraße 1	76437	Rastatt	48.861597	8.185062	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:22|~TYPE2:22
+1018690	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.856334	8.175231	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018693	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.856216	8.175149	1			~TYPE2:22|~TYPE2:22
+1018694	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855766	8.180311	1			~TYPE2:22|~TYPE2:22
+1018695	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855750	8.180366	1			~TYPE2:22|~TYPE2:22
+1018696	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855729	8.180421	1			~TYPE2:22|~TYPE2:22
+1018697	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855711	8.180484	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018699	Mercedes-Benz AG		Gottlieb-Daimler-Straße 1	76437	Rastatt	48.861528	8.185044	1			~TYPE2:22|~TYPE2:22
+1018701	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.867242	8.185762	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018702	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.867256	8.185881	1			~TYPE2:22|~TYPE2:22
+1018703	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.867275	8.185957	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018704	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.867315	8.186074	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018706	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.856313	8.175257	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018708	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.856244	8.175212	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018710	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.856358	8.175295	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:22
+1018712	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.867221	8.185870	1			~TYPE2:22|~TYPE2:22
+1018716	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866510	8.186010	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018717	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866522	8.186071	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018719	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866553	8.186190	1			~TYPE2:22|~TYPE2:22
+1018720	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866577	8.186284	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018722	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866527	8.186276	1			~TYPE2:22|~TYPE2:22
+1018723	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.866517	8.186198	1			~TYPE2:22|~TYPE2:22
+1018726	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855602	8.180190	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018727	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855545	8.180365	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018728	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855657	8.180601	1			~TYPE2:22|~TYPE2:22
+1018730	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855900	8.180441	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018731	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855510	8.180493	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018734	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855848	8.180476	1			~TYPE2:22|~TYPE2:22
+1018735	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855564	8.180458	1			~TYPE2:22|~TYPE2:22
+1018736	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855819	8.180565	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018738	Mercedes-Benz AG		Mercedesstraße 1	76437	Rastatt	48.855772	8.180690	1			~TYPE2:22|~TYPE2:22
+1018739	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855563	8.180293	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018742	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855717	8.180347	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018746	Mercedes-Benz AG		Gutenbergstraße 9	76437	Rastatt	48.855574	8.180397	1			~TYPE2:22|~TYPE2:22
+1018747	Mercedes-Benz AG		Mercedes-Straße 1	76456	Kuppenheim	48.840412	8.254713	1			~TYPE2:22|~TYPE2:22
+1018748	Mercedes-Benz AG		Mercedes-Straße 1	76456	Kuppenheim	48.840398	8.254778	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1018749	Mercedes-Benz AG		Mercedes-Straße 1	76456	Kuppenheim	48.840370	8.254903	1			~TYPE2:22|~TYPE2:22
+1021721	EWE Go GmbH	McD_0979	Murgtalstr. 1	76571	Gaggenau	48.822452	8.295279	1	24/7	Nur für Kunden/Besucher	DE*2GO*EMCD0979*1A*1~CCS2:150|DE*2GO*EMCD0979*1A*2~CCS2:150
+1021889	EWE Go GmbH	McD_1801_1A	Pforzheimer Str. 72	76275	Ettlingen	48.937478	8.419749	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1025042	EnBW mobility+ AG und Co.KG		Rasthofweg 1	77815	Bühl	48.753434	8.131493	1			~TYPE2_TETHERED:43|~CCS2:50
+1025287	EnBW mobility+ AG und Co.KG		Landstraße 83	76596	Forbach	48.652921	8.322940	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025292	EnBW mobility+ AG und Co.KG		Malscherstraße 19	76467	Bietigheim	48.911760	8.251000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025363	EnBW mobility+ AG und Co.KG		Siemensstraße 9	76275	Ettlingen	48.939363	8.378597	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025384	EnBW mobility+ AG und Co.KG		Klosterstraße 1	76359	Marxzell / Frauenalb	48.835308	8.441516	1			~TYPE2:22|~TYPE2:22
+1025426	EnBW mobility+ AG und Co.KG		Hewlett-Packard-Str. 8	76337	Waldbronn	48.932479	8.475944	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025438	EnBW mobility+ AG und Co.KG		Zeppelinstraße 15	76275	Ettlingen	48.944263	8.376075	1			~TYPE2:22|~TYPE2:22
+1025460	EnBW mobility+ AG und Co.KG		Hauptstraße 78	76479	Steinmauern	48.900547	8.199400	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025507	EnBW mobility+ AG und Co.KG		Salmenplatz 999	76593	Gernsbach	48.762966	8.338577	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025512	EnBW mobility+ AG und Co.KG		Hauptstr. 78	76479	Steinmauern	48.900022	8.199328	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025576	EnBW mobility+ AG und Co.KG		Hauptstraße 92	77830	Bühlertal	48.686691	8.187434	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025705	EnBW mobility+ AG und Co.KG		Rastatter Str. 4	76467	Bietigheim	48.909522	8.252883	1			~TYPE2:22|~TYPE2:22
+1025718	EnBW mobility+ AG und Co.KG		Landstr. 10	76596	Forbach	48.678597	8.358838	1			~TYPE2:22|~TYPE2:22
+1025741	EnBW mobility+ AG und Co.KG		Schwarzwaldstr. 48	76593	Gernsbach	48.773064	8.341393	1			~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:80|~CCS2:80
+1025809	EnBW mobility+ AG und Co.KG		Autobahn 0	77815	Bühl	48.753498	8.131700	1			~CCS2:150|~CCS2:75
+1026006	EnBW mobility+ AG und Co.KG		Rheinstraße 221	76532	Baden-Baden	48.782660	8.204990	1			~TYPE2:11
+1026221	EnBW mobility+ AG und Co.KG		Bahnhofstr. 50	76137	Karlsruhe	48.995000	8.399800	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1026292	EnBW mobility+ AG und Co.KG		Hermann-Veit-Str. 6	76135	Karlsruhe	48.997070	8.378300	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1026295	EnBW mobility+ AG und Co.KG		Gritznerstr. 6	76227	Karlsruhe	48.999300	8.465320	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1026348	EnBW mobility+ AG und Co.KG		Nürnberger Straße 11	76199	Karlsruhe	48.984704	8.401340	1			~CCS2:150|~CCS2:150
+1026452	EnBW mobility+ AG und Co.KG		Murgtalstraße 25	72270	Baiersbronn	48.511376	8.374392	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1026722	EnBW mobility+ AG und Co.KG		Im Baisert 2	76437	Rastatt	48.859730	8.240877	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1026778	EnBW mobility+ AG und Co.KG		Reichardtstraße 33	76227	Karlsruhe	48.997412	8.485145	1			~TYPE2:22|~TYPE2:22
+1026925	EnBW mobility+ AG und Co.KG		Güterhallenstraße 1	77855	Achern	48.629000	8.061640	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1031162	Fraunhofer-Gesellschaft e. V.		Gutleuthausstraße 1	76275	Ettlingen	48.947346	8.411856	1			~TYPE2:22|~TYPE2:22
+1031474	CUBOS Service GmbH		Thebauthstr. 1	76275	Ettlingen	48.939386	8.409663	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031667	CUBOS Service GmbH		Rotenbachtalstr. 1	76530	Baden-Baden	48.764236	8.249431	1			~TYPE2:11|~TYPE2:11
+1031674	CUBOS Service GmbH		Schwarzwaldstr. 92	76137	Karlsruhe	48.991778	8.403143	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031937	Circle K Deutschland		Erlachseeweg 10	76227	Karlsruhe	48.985670	8.447471	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1033163	Emscher Lippe Energie GmbH		Ottostr. 22	76227	Karlsruhe	48.997290	8.437330	1			~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22
+1033164	Emscher Lippe Energie GmbH		Hertzstr. 31	76275	Ettlingen	48.938230	8.381690	1			~TYPE2:11|~TYPE2:11
+1033165	Emscher Lippe Energie GmbH		Woogseestr. 5	76437	Rastatt	48.860170	8.231520	1			~TYPE2:11|~TYPE2:11
+1034294	Parkgaragengesellschaft Baden-Baden mbH	Schweigrother Platz	Rheinstr. 130	76532	Baden-Baden	48.790423	8.230869	1	24/7	Keine Beschränkung	DE*LSB*E00039*001~CCS2:150|DE*LSB*E00039*002~CCS2:150
+1034295	Parkgaragengesellschaft Baden-Baden mbH	Maria-Viktoria-Straße	Maria-Viktoria-Str. 3	76530	Baden-Baden	48.757061	8.241734	1	24/7	Keine Beschränkung	DE*LSB*E00037*001~TYPE2:22|DE*LSB*E00037*002~TYPE2:22|DE*LSB*E00038*001~TYPE2:22|DE*LSB*E00038*002~TYPE2:22
+1035590	ALDI SÜD		Schwarzwaldstraße 42	76532	Baden-Baden	48.776889	8.213694	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035665	ALDI SÜD		Wagnerstr. 4	76549	Hügelsheim	48.799314	8.117906	1			~TYPE2:22|~TYPE2:22
+1035704	ALDI SÜD		Rindeschwenderstraße 40	76571	Gaggenau	48.808140	8.309390	1			~TYPE2:22|~TYPE2:22
+1035706	ALDI SÜD		Rudolf-Plank-Straße 4	76275	Ettlingen	48.938505	8.367736	1			~TYPE2:22|~TYPE2:22
+1035728	ALDI SÜD		Pforzheimer Straße 72-74	76275	Ettlingen	48.937057	8.419831	1			~TYPE2:22|~TYPE2:22
+1035731	ALDI SÜD		Industriestraße 42	76470	Ötigheim	48.888549	8.241467	1			~TYPE2:22|~TYPE2:22
+1035787	ALDI SÜD		Hohenzollernstraße 69	76135	Karlsruhe	48.993889	8.385222	1			~CCS2:100|~CCS2:100|~TYPE2:22
+1035857	ALDI SÜD		Schwarzwaldstraße 20	76593	Gernsbach	48.769207	8.338100	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1035902	ALDI SÜD		Biblisweg 2	76437	Rastatt	48.865880	8.218421	1			~TYPE2:22|~TYPE2:22
+1035960	ALDI SÜD		Im Steinhof 2	77704	Oberkirch	48.537141	8.064955	1			~TYPE2:22|~TYPE2:22
+1037631	Citywatt GmbH		Oberacherner Straße 90	77855	Achern	48.612619	8.083529	1			~TYPE2:22|~TYPE2:22
+1037701	Citywatt GmbH		Bahnhofstraße 61	76532	Baden Baden	48.811594	8.213815	1			~CCS2:50|~CCS2:50
+1037938	Hotel Sackmann GmbH		In den Auen 89	72270	Baiersbronn	48.598625	8.383153	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038423	Flair Hotel Sonnenhof		Schifferstraße 36	72270	Baiersbronn	48.606910	8.361692	1			~TYPE2:11|~TYPE2:11
+1038426	Hörig Landtechnik		Kirschenallee 20	76476	Bischweier	48.831293	8.281248	1			~TYPE2:22|~TYPE2:22
+1038558	Stephan Bode Hotelbetriebs- und Verwaltungs-GmbH		Rehteichweg 22	76332	Bad Herrenalb	48.800682	8.436880	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038559	Stephan Bode Hotelbetriebs- und Verwaltungs-GmbH		Rehteichweg 22	76332	Bad Herrenalb	48.800696	8.437051	1			~TYPE2:11
+1040327	deer GmbH	Bietigheim, Rathaus	Malscher Str. 19	76467	Bietigheim	48.911759	8.250988	1	24/7	Keine Beschränkung	DE*753*E00316*001~TYPE2:22|DE*753*E00316*002~TYPE2:22
+1040328	deer GmbH	Bietigheim, Kreisel	Fichtenweg 10	76467	Bietigheim	48.903618	8.250504	1	24/7	Keine Beschränkung	DE*753*E00315*001~TYPE2:22|DE*753*E00315*002~TYPE2:22
+1040340	deer GmbH	Enzklösterle, Friedhof	Kirchweg 39	75337	Enzklösterle	48.669397	8.472966	1	24/7	Keine Beschränkung	DE*753*E00370*001~TYPE2:22|DE*753*E00370*002~TYPE2:22
+1040341	deer GmbH	Kappelrodeck, Hauptstraße	Hauptstr. 109	77876	Kappelrodeck	48.590185	8.118705	1	24/7	Keine Beschränkung	DE*753*E00302*001~TYPE2:22|DE*753*E00302*002~TYPE2:22
+1040342	deer GmbH	Sasbach, Oberdorfstrasse	Oberdorfstr. 1	77880	Sasbach	48.640330	8.092570	1	24/7	Keine Beschränkung	DE*753*E00298*001~TYPE2:22|DE*753*E00298*002~TYPE2:22
+1041396	GP JOULE Connect GmbH	DE*CNT*EP00888*001	Ettlinger Str. 38	76332	Bad Herrenalb	48.805325	8.444953	1		Keine Beschränkung	DE*CNT*EP00888*001*1~CCS2:100|DE*CNT*EP00888*001*2~CCS2:100|DE*CNT*EP00888*002*1~CCS2:100|DE*CNT*EP00888*002*2~CCS2:100
+1043511	Allego		Am Achernsee 1	77855	Achern	48.640840	8.037280	1		Keine Beschränkung	DEALLEGO002750*1~CCS2:300|DEALLEGO002750*2~CCS2:300
+1043601	Allego		Am Achernsee 1	77855	Achern	48.640790	8.037480	1		Keine Beschränkung	DEALLEGO003136*1~CCS2:300|DEALLEGO003136*2~CCS2:300|DEALLEGO003137*1~CCS2:300|DEALLEGO003137*2~CCS2:300
+1046854	Parkraumgesellschaft Baden-Württemberg GmbH		Schwarzwaldhochstraße 2	77889	Seebach (Ruhestein)	48.561586	8.219616	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1047438	Engel Sasbachwalden		Talstraße 14	77887	Sasbachwalden	48.619700	8.122920	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22
+1047439	Engel Sasbachwalden		Talstraße 14	77887	Sasbachwalden	48.619700	8.123090	1			~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11
+1048191	deer GmbH	Sinzheim, Bahnhof	Hans-Thoma-Str. 44	76547	Sinzheim	48.760085	8.159527	1	24/7	Keine Beschränkung	DE*753*E00395*001~TYPE2:22|DE*753*E00395*002~TYPE2:22
+1048311	ALDI SÜD	RAS-053	Talstr. 10	76337	Waldbronn	48.930056	8.474333	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23023~CCS2:50|DE*ALD*E23024~CCS2:50
+1048776	Lidl	6694_Lidl_Oberkirch_T54-HU1-2521-007	Hammermatt 2	77704	Oberkirch	48.536471	8.062956	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1049000	Lidl	6593_Lidl_Gernsbach_T65-IT1-0423-126	Im Wörthgarten 4	76593	Gernsbach	48.766803	8.332428	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049711	E.ON Drive Infrastructure		Raststätte Baden-Baden West 0	76532	Baden-Baden	48.808810	8.181060	1			~CCS2:50|~CCS2:50
+1049911	Shell Deutschland GmbH		An der B36 36	76287	Rheinstetten	48.954675	8.293246	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1050149	amperio GmbH (DEAMP)		Messering 2	76287	Rheinstetten	48.975919	8.337629	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1050306	Pfalzwerke AG		Fritz-Haber-Straße 1	76185	Karlsruhe	48.997929	8.356272	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1050315	Pfalzwerke AG		Nell-Breuning Ring 25	76287	Rheinstetten	48.980853	8.324614	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50|DE*PWA*EALP22267X01928*01~CCS2:150|DE*PWA*EALP22267X01928*02~CCS2:150
+1050373	Pfalzwerke AG		Hertzstraße 2	76287	Rheinstetten	48.962734	8.280926	1			~TYPE2:22|~CCS2:50
+1050528	Pfalzwerke AG		Severinstraße 8	77855	Achern	48.634330	8.058470	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050645	Pfalzwerke AG		Alois-Bastian-Str. 2	76448	Durmersheim	48.935740	8.271650	1			~CCS2:150|~CCS2:150
+1051353	Hotel am Sophienpark-Parkhaus	Hotel am Sophienpark	Rettigstr. 1	76530	Baden-Baden	48.760496	8.240804	1	24/7	Keine Beschränkung	DE*MDS*E0106~TYPE2:11|DE*MDS*E010611~TYPE2:11
+1052188	getpower eMobility	HQ BERGER Stromversorgungen	Bannmatten 10	77855	Achern	48.635520	8.054210	1	24/7	Keine Beschränkung	DE*GPE*E0000001*009~CCS2:60|DE*GPE*E0000001*010~CCS2:60|DE*GPE*E0000001*005~TYPE2_TETHERED:11|DE*GPE*E0000001*006~TYPE2_TETHERED:11|DE*GPE*E0000001*004~TYPE2_TETHERED:11
+1052416	Artur Seiler GmbH		Im Kinzhurst 8	77815	Bühl	48.729399	8.089234	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1052527	Stadtwerke Rastatt Service GmbH		Markgrafenstr. 7	76437	Rastatt	48.852240	8.202522	1			~TYPE2:22|~TYPE2:22
+1052528	Stadtwerke Rastatt Service GmbH		Am Schlossplatz 5	76437	Rastatt	48.860579	8.212726	1			~TYPE2:22|~TYPE2:22
+1052529	Stadtwerke Rastatt Service GmbH		Kaiserstr. 63	76437	Rastatt	48.859517	8.200730	1			~TYPE2:22|~TYPE2:22
+1052530	Stadtwerke Rastatt Service GmbH		Leopoldring 8	76437	Rastatt	48.854216	8.199719	1			~TYPE2:22|~TYPE2:22
+1052531	Stadtwerke Rastatt Service GmbH		Richard-Wagner-Ring 24	76437	Rastatt	48.865622	8.211263	1			~TYPE2:22|~TYPE2:22
+1052532	Stadtwerke Rastatt Service GmbH		Hauptstr. 75	76448	Durmersheim	48.931977	8.268547	1			~TYPE2:22|~TYPE2:22
+1052533	Stadtwerke Rastatt Service GmbH		Markgrafenstr. 7	76437	Rastatt	48.852123	8.202485	1			~TYPE2:22
+1052534	Stadtwerke Rastatt Service GmbH		Scheffelstr. 27	76593	Gernsbach	48.767117	8.345702	1			~TYPE2:22|~TYPE2:22
+1052535	Stadtwerke Rastatt Service GmbH		Untere Wiesen 2	76437	Rastatt	48.861474	8.239988	1			~CCS2:75|~CCS2:75|~TYPE2:22
+1052536	Stadtwerke Rastatt Service GmbH		Rauentaler Str. 50	76437	Rastatt	48.859400	8.235916	1			~TYPE2:22|~TYPE2:22
+1052537	Stadtwerke Rastatt Service GmbH		Kapellenstr. 20	76437	Rastatt	48.855308	8.208053	1			~TYPE2:22|~TYPE2:22
+1052538	Stadtwerke Rastatt Service GmbH		Carl-Schurz-Straße 1	76437	Rastatt	48.863064	8.199645	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052541	Stadtwerke Rastatt Service GmbH		Dr.-Schleyer-Str. 1	76437	Rastatt	48.867620	8.189370	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055659	soniKKs Ultrasonics Technology GmbH	soniKKs	Im Burkhardtsfeld 24	75335	Dobel	48.802490	8.497190	1	Mo-Do 07:00-18:00, Fr 06:00-18:00	Nur für Kunden/Besucher	DE*ONE*E3Y6W~TYPE2:22
+1056297	Lidl	3106_Lidl_T65-IT1-5022-114	Fridolin-Stiegler-Str. 13	77815	Bühl	48.707070	8.129787	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1056300	Lidl	4217_Lidl_T65-IT1-0323-223	Ettlinger Str. 1	76437	Rastatt	48.865493	8.222404	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1056332	TotalEnergies Charging Solutions	TCSD - Penny-Markt	Biblisweg 6a	76437	Rastatt	48.866144	8.218640	1	24/7	Keine Beschränkung	DE*TCB*E1003933*1~CCS2:75|DE*TCB*E1003933*2~CCS2:75|DE*DES*E1003925*1~CCS2:75|DE*DES*E1003925*2~CCS2:75
+1056797	Stadtwerke Oberkirch GmbH		Alm 33	77704	Oberkirch	48.508879	8.090743	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056798	Stadtwerke Oberkirch GmbH		Am Marktplatz 8	77704	Oberkirch	48.529321	8.080105	1			~TYPE2:22|~TYPE2:22|DEREME000103~TYPE2:22|DEREME000104~TYPE2:22|DEREME000105~TYPE2:22|DEREME000106~TYPE2:22
+1056799	Stadtwerke Oberkirch GmbH		Löwengasse 0	77704	Oberkirch	48.531108	8.077334	1			~TYPE2:22|~TYPE2:22
+1056800	Stadtwerke Oberkirch GmbH		Hammermatt 3	77704	Oberkirch	48.536038	8.063620	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056803	Stadtwerke Oberkirch GmbH		Eisenbahnstraße 4	77704	Oberkirch	48.528868	8.077649	1			~TYPE2:22|~TYPE2:22
+1056804	Stadtwerke Oberkirch GmbH		Hauptstr. 23a	77704	Oberkirch	48.529794	8.081688	1			~TYPE2:22|~TYPE2:22
+1056805	Stadtwerke Oberkirch GmbH		Waldstraße 0	77794	Lautenbach	48.519462	8.114533	1			~TYPE2:22|~TYPE2:22
+1056806	Stadtwerke Oberkirch GmbH		Burgstraße 0	77704	Oberkirch	48.538486	8.094734	1			~TYPE2:22|~TYPE2:22
+1056808	Stadtwerke Oberkirch GmbH		Eisenbahnstraße 1	77704	Oberkirch	48.529270	8.078750	1			~TYPE2:22|~TYPE2:22
+1056809	Stadtwerke Oberkirch GmbH		Eisenbahnstraße 1	77704	Oberkirch	48.529365	8.078766	1			~TYPE2:22|~TYPE2:22
+1056810	Stadtwerke Oberkirch GmbH		Maienstraße 0	77704	Oberkirch	48.561910	8.061310	1			~TYPE2:22|~TYPE2:22
+1056811	Stadtwerke Oberkirch GmbH		Hauptstr. 55a	77871	Renchen	48.586330	8.012750	1			~TYPE2:22|~TYPE2:22
+1056812	Stadtwerke Oberkirch GmbH		Haslacher Straße 48	77704	Oberkirch	48.567010	8.063780	1			~TYPE2:22|~TYPE2:22
+1056813	Stadtwerke Oberkirch GmbH		Appenweierer Str. 54	77704	Oberkirch	48.535880	8.066310	1			~TYPE2:22|~TYPE2:22
+1056814	Stadtwerke Oberkirch GmbH		Weintalstraße 2	77704	Oberkirch	48.518420	8.047990	1			~TYPE2:22|~TYPE2:22
+1056815	Stadtwerke Oberkirch GmbH		Nussbacher Str. 0	77704	Oberkirch	48.546780	8.017210	1			~TYPE2:22|~TYPE2:22
+1056818	Stadtwerke Oberkirch GmbH		Appenweierer Str. 56	77704	Oberkirch	48.536340	8.064160	1			~CCS2:240|~CCS2:240
+1056819	Stadtwerke Oberkirch GmbH		Appenweierer Str. 56	77704	Oberkirch	48.536350	8.064140	1			~CCS2:240|~CCS2:240
+1056820	Stadtwerke Oberkirch GmbH		Golfplatz 1	77767	Appenweier	48.569000	8.002750	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056823	Stadtwerke Oberkirch GmbH		Friedhofstraße 5	77871	Renchen	48.586700	8.013880	1			~TYPE2:22|~TYPE2:22
+1056824	Stadtwerke Oberkirch GmbH		Hauptstraße 48	77794	Lautenbach	48.520550	8.114740	1			~TYPE2:22|~TYPE2:22
+1057756	Stadtwerke Pforzheim		Am Schelmenbusch 18-22	76307	Karlsbad	48.912464	8.495495	1			~TYPE2:22|~TYPE2:22
+1057757	Stadtwerke Pforzheim		An der Alb 0	76332	Bad Herrenalb	48.796620	8.435264	1			~TYPE2:22|~TYPE2:22
+1057760	Stadtwerke Pforzheim		Eyachstraße 0	76307	Karlsbad	48.897934	8.473783	1			~TYPE2:22|~TYPE2:22
+1057771	Stadtwerke Pforzheim		Neue Herrenalber Straße 0	75335	Dobel	48.796901	8.493396	1			~TYPE2:22|~TYPE2:22
+1057772	Stadtwerke Pforzheim		Höhenstraße 0	75335	Dobel	48.793683	8.488909	1			~TYPE2:22|~TYPE2:22
+1060257	Pluq		Tonbachstraße 237	72270	Baiersbronn	48.535928	8.358978	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061046	Autohaus Frascoia GmbH & Co.KG		Binzigstr. 27	77876	Kappelrodeck	48.597320	8.112860	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061053	Autohaus Frascoia GmbH & Co.KG		Bronnmattstr. 9	77876	Kappelrodeck	48.596286	8.112120	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061057	Autohaus Frascoia GmbH & Co.KG		Binzigstr. 25	77876	Kappelrodeck	48.597631	8.112280	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1061212	Allego		Windeckstr. 9	76135	Karlsruhe	48.989953	8.371551	1	24/7	Keine Beschränkung	DEALLEGO002986_1~CCS2:150|DEALLEGO002986_2~CCS2:150
+1061496	Parkraumgesellschaft Baden-Württemberg GmbH	Parkgarage Justiz	Gutenbergstr. 17	76532	Baden-Baden	48.777119	8.216988	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1061538	Parkraumgesellschaft Baden-Württemberg GmbH	PG Kurhausgarage	Friedrichstr. 0	76530	Baden-Baden	48.759589	8.236492	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1062492	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Hesselbacher Str. 4	77704	Oberkirch	48.520804	8.083202	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1064074	Kaufland	2310_Kland_Baden-Baden_T53-HU1-4817-004	Rheinstr. 134	76532	Baden-Baden	48.782693	8.208395	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064087	Kaufland	4700_Kland_Bühl_T53-HU1-4317-004	Bühlertalstr. 71	77815	Bühl	48.695776	8.147005	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064202	Kaufland	4733_Kland_Rastatt_T54-IT1-3822-288	Rauentaler Str. 65	76437	Rastatt	48.860867	8.233945	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1065911	Team-Emobility GmbH		In den Lissen 12	76547	Sinzheim	48.773123	8.169618	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065929	Team-Emobility GmbH		Fautenbacher Str. 15	77855	Achern	48.627799	8.056959	1		Nur für Kunden/Besucher	~CCS2:39|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066342	S&G Automobil AG		Schleif 3	77855	Achern	48.636185	8.065726	1			~TYPE2:11|~TYPE2:11
+1066352	S&G Automobil AG		Pforzheimer Str. 106	76275	Ettlingen	48.934503	8.427881	1			~TYPE2:11|~TYPE2:11
+1066759	Patrick Breithaupt-Menzer	Garagenpark Baden Baden	Vimbucher Str. 23	76534	Baden-Baden	48.727931	8.145375	1	24/7	Keine Beschränkung	AT*HTB*E1019546~TYPE2:22|AT*HTB*E1019547~TYPE2:22
+1068022	Hotel Restaurant Renchtalblick		Bellensteinstraße 9	77704	Oberkirch	48.525160	8.073454	1			~TYPE2:22|~TYPE2:22
+1068371	W-Quadrat		Baccarat-Str. 37-39	76593	Gernsbach	48.775552	8.345947	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068417	Elektro Birk		Hammermatt 1	77704	Oberkrich	48.535773	8.064425	1			~CCS2:75|~CCS2:75
+1068418	Elektro Birk		Hammermatt 1	77704	Oberkrich	48.535928	8.064283	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068419	Elektro Birk		Hammermatt 1	77704	Oberkrich	48.536321	8.063741	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068421	Elektro Birk		Hammermatt 1	77704	Oberkrich	48.535941	8.064092	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068626	Therapiezentrum Osterhof e. V.		Rommelsau 17	72270	Baiersbronn	48.539148	8.396821	1			~TYPE2:22|~TYPE2:22
+1068694	Rathaus Ottersweier		Laufer Straße 18	77833	Ottersweier	48.667320	8.112439	1			~TYPE2:22|~TYPE2:22
+1068695	Rathaus Ottersweier		Hauptstraße 104	77833	Ottersweier	48.672260	8.118230	1			~CCS2:50|~CCS2:50
+1068696	Rathaus Ottersweier		Hauptstraße 42	77833	Ottersweier	48.668313	8.111094	1			~CCS2:50|~CCS2:50
+1068697	Rathaus Ottersweier		Acherner Straße 20	77833	Ottersweier	48.685452	8.057503	1			~TYPE2:22|~TYPE2:22
+1068698	Rathaus Ottersweier		Friedhofstraße 28	77833	Ottersweier	48.665713	8.113070	1			~TYPE2:22|~TYPE2:22
+1068920	Kohlers Hotel Engel		Vimbucher Strasse 25	77815	Bühl	48.718418	8.115518	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1069487	Olympia-Apotheke		Raiffeisenplatz 4b	76448	Durmersheim	48.940412	8.279900	1			~TYPE2:22|~TYPE2:22
+1069559	Bäckerei Orlemann GmbH & Co.KG		Ruhesteinstraße 81	77883	Ottenhöfen	48.567736	8.152105	1			~TYPE2:11
+1069688	Gemeindewerke Baiersbronn		Wilhelm-Münster-Straße 3	72270	Baiersbronn	48.508865	8.370448	1			~TYPE2:22|~TYPE2:22
+1069689	Gemeindewerke Baiersbronn		Schifferstraße 2	72270	Baiersbronn	48.607266	8.366302	1			~TYPE2:22|~TYPE2:22
+1069690	Gemeindewerke Baiersbronn		Sankenbachstraße 150	72270	Baiersbronn	48.500599	8.364845	1			~TYPE2:22|~TYPE2:22
+1069691	Gemeindewerke Baiersbronn		Schliffkopfstraß 61	72270	Baiersbronn	48.525389	8.261537	1			~TYPE2:22|~TYPE2:22
+1069692	Gemeindewerke Baiersbronn		Wilhelm-Münster-Straße 26/2	72270	Baiersbronn	48.508624	8.367341	1			~TYPE2:22|~TYPE2:22
+1069737	Obst & Spargelhof Wurth		Lindenplatz 17	77704	Oberkirch	48.542720	8.012980	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070180	Warth Energy GmbH & Co.KG		Stettinerstraße 15	76437	Rastatt	48.867250	8.221710	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50|~CHADEMO:50+TYPE2_TETHERED:43|~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22|~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50
+1070650	next step mobility GmbH		Friedrichstraße 17	76275	Ettlingen	48.941313	8.410532	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070651	next step mobility GmbH		Am Dickhäuterplatz 0	76275	Ettlingen	48.946465	8.408939	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070652	next step mobility GmbH		Mühlenstrasse 27	76275	Ettlingen	48.942212	8.405723	1			~TYPE2:11
+1070653	next step mobility GmbH		Sibyllastraße 0	76275	Ettlingen	48.939652	8.405896	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070654	next step mobility GmbH		Middelkerkerstraße 0	76275	Ettlingen	48.937277	8.399829	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070655	next step mobility GmbH		Rastatter Straße 13	76275	Ettlingen	48.939870	8.403615	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070656	next step mobility GmbH		Pforzheimer Straße 2	76275	Ettlingen	48.943313	8.408298	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070657	next step mobility GmbH		Schöllbronner Straße 17	76275	Ettlingen	48.938692	8.412151	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070658	next step mobility GmbH		Pforzheimer Straße 156	76275	Ettlingen	48.934187	8.440733	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070659	next step mobility GmbH		Willy-Brandt- Straße 3	76275	Ettlingen	48.948174	8.407931	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070660	next step mobility GmbH		Middelkerker Straße 1	76275	Ettlingen	48.937182	8.399593	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070661	next step mobility GmbH		Epernayer Straße 29	76275	Ettlingen	48.948669	8.402190	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070663	next step mobility GmbH		Pforzheimer Straße 134	76275	Ettlingen	48.933892	8.439251	1			~TYPE2:22|~TYPE2:22
+1070664	next step mobility GmbH		Pforzheimer Straße 176	76275	Ettlingen	48.932673	8.443907	1			~TYPE2:22|~TYPE2:22
+1070665	next step mobility GmbH		Badener Straße 1	76287	Rheinstetten	48.959261	8.294988	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070666	next step mobility GmbH		Vogesenstraße 22	76287	Rheinstetten	48.979439	8.315691	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070667	next step mobility GmbH		Vogesenstraße 22	76287	Rheinstetten	48.979438	8.315760	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070669	next step mobility GmbH		Merkurstraße 1	76287	Rheinstetten	48.953622	8.291416	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070670	next step mobility GmbH		Pforzheiner Straße 162	76275	Ettlingen	48.933930	8.441646	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070671	next step mobility GmbH		Schloßgartenstraße 41	76275	Ettlingen	48.937838	8.407704	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070672	next step mobility GmbH		Pforzheimer Straße 134b	76275	Ettlingen	48.933790	8.440005	1			~TYPE2:22|~TYPE2:22
+1070673	next step mobility GmbH		Rosenstraße 57	76287	Rheinstetten	48.978281	8.309928	1			~TYPE2:22|~TYPE2:22
+1070909	Veith GmbH & Co. KG		Bußmatten 15	77815	Bühl	48.717029	8.129315	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1071057	Stadtwerke Bühl GmbH		Franz-Conrad-Straße 24	77815	Bühl	48.697508	8.136003	1			~TYPE2:22|~TYPE2:22
+1071058	Stadtwerke Bühl GmbH		Siemensstraße 5	77815	Bühl	48.696496	8.121531	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~CCS2:50
+1071059	Stadtwerke Bühl GmbH		Robert-Bosch-Straße 12a	77815	Bühl	48.687995	8.114886	1			~TYPE2:22|~TYPE2:22
+1071060	Stadtwerke Bühl GmbH		Stollhofener Straße 32	77839	Lichtenau-Ulm	48.732862	8.008835	1			~TYPE2:22|~TYPE2:22
+1071061	Stadtwerke Bühl GmbH		Am Froschbächle 17	77815	Bühl	48.707712	8.132682	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071062	Stadtwerke Bühl GmbH		Güterstraße 6	77815	Bühl	48.696912	8.130287	1			~TYPE2:22|~TYPE2:22
+1071063	Stadtwerke Bühl GmbH		Bußmatten 2	77815	Bühl	48.712052	8.132640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071069	Stadtwerke Bühl GmbH		Friedrichstraße 6	77815	Bühl	48.697060	8.135180	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071073	Stadtwerke Bühl GmbH		Hauptstr. 92	77815	Bühl	48.698055	8.137752	1			~CCS2:90|~CCS2:90
+1071223	Kemmergy GmbH		Nell-Breuning-Ring 23	76287	Rheinstetten	48.980380	8.323480	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071466	Klinik Dr. Dengler	Am Haupteingang der Klinik Dr. Franz Dengler	Kapuzinerstr. 1	76530	Baden-Baden	48.764294	8.234306	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1071731	Hotel Sternen		Staufenberger Str. 111	76593	Gernsbach	48.765987	8.299984	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1072221	SWE	Ettlingen (Albgaubad), Luisenstr. 6	Luisenstr. 14	76275	Ettlingen	48.938073	8.415697	1	24/7	Keine Beschränkung	DE*ETT*E00014*001~TYPE2:22+SCHUKO:3|DE*ETT*E00014*002~TYPE2:22+SCHUKO:3
+1072222	SWE	Ettlingen (Entenseehalle), Odertalweg	Odertalweg 5	76275	Ettlingen	48.950231	8.385613	1	24/7	Keine Beschränkung	DE*ETT*E00036*001~TYPE2:22+SCHUKO:3|DE*ETT*E00036*002~TYPE2:22+SCHUKO:3
+1072223	SWE	Ettlingen (Bruchhausen), Richard-Wagner-Str. 29	Richard-Wagner-Str. 29	76275	Ettlingen	48.924631	8.365972	1	24/7	Keine Beschränkung	DE*ETT*E00013*001~TYPE2:22+SCHUKO:3|DE*ETT*E00013*002~TYPE2:22+SCHUKO:3
+1072224	SWE	Ettlingen (Schluttenbach), Hofstr. 2	Hofstr. 2	76275	Ettlingen	48.898628	8.405754	1	24/7	Keine Beschränkung	DE*ETT*E00018*001~TYPE2:22+SCHUKO:3|DE*ETT*E00018*002~TYPE2:22+SCHUKO:3
+1072225	SWE	Ettlingen (Stadtwerke), Hertzstr. 33	Hertzstr. 33	76275	Ettlingen	48.937277	8.381066	1	24/7	Nur für Kunden/Besucher	DE*ETT*E00019*001~TYPE2:22+SCHUKO:3|DE*ETT*E00019*002~TYPE2:22+SCHUKO:3|DE*ETT*E00030*001~TYPE2:22+SCHUKO:3
+1072226	SWE	Ettlingen (Stadtwerke Mitarbeiter Süd), Hertzstr. 33	Hertzstr. 33	76275	Ettlingen	48.937034	8.381713	1	Mo-Do 07:00-16:00, Fr 07:00-12:30	Nur für Kunden/Besucher	DE*ETT*E00001*001~TYPE2:22+SCHUKO:3|DE*ETT*E00001*002~TYPE2:22+SCHUKO:3|DE*ETT*E00002*001~TYPE2:22+SCHUKO:3|DE*ETT*E00002*002~TYPE2:22+SCHUKO:3
+1072230	SWE	Würmersheim (Gemeindezentrum), Beethovenstraße 4	Beethovenstr. 4	76448	Durmersheim	48.937580	8.253462	1	24/7	Keine Beschränkung	DE*ETT*E00028*001~TYPE2:22+SCHUKO:3|DE*ETT*E00028*002~TYPE2:22+SCHUKO:3
+1072231	SWE	Ettlingen (Oberweier), Bergstraße 1	Bergstr. 1	76275	Ettlingen	48.913590	8.381617	1	24/7	Keine Beschränkung	DE*ETT*E00032*001~TYPE2:22+SCHUKO:3|DE*ETT*E00032*002~TYPE2:22+SCHUKO:3
+1072232	SWE	Ettlingen (Spessart), Hauptstraße 29	Hauptstr. 29	76275	Ettlingen	48.912030	8.432189	1	24/7	Keine Beschränkung	DE*ETT*E00031*001~TYPE2:22+SCHUKO:3|DE*ETT*E00031*002~TYPE2:22+SCHUKO:3
+1072233	SWE	Ettlingen (Autohaus Müller), Im Katzentach 10	Im Katzentach 10	76275	Ettlingen	48.925770	8.374388	1	24/7	Keine Beschränkung	DE*ETT*E00039*001~TYPE2:22+SCHUKO:3|DE*ETT*E00039*002~TYPE2:22+SCHUKO:3
+1072234	SWE	Marxzell (Cortum), Im Schwarzenbusch 8	Im Schwarzenbusch 8	76359	Marxzell	48.854920	8.486319	1	24/7	Keine Beschränkung	DE*ETT*E00023*001~TYPE2:22+SCHUKO:3|DE*ETT*E00023*002~TYPE2:22+SCHUKO:3
+1072235	SWE	Marxzell (Rathaus), Karlsruher Straße 2	Karlsruher Str. 2	76359	Marxzell	48.860830	8.458695	1	24/7	Keine Beschränkung	DE*ETT*E00026*001~TYPE2:22+SCHUKO:3|DE*ETT*E00026*002~TYPE2:22+SCHUKO:3
+1072237	SWE	Ettlingen (Spinnerei) Pforzheimerstraße 130	Pforzheimer Str. 130	76275	Ettlingen	48.934788	8.440453	1	24/7	Keine Beschränkung	DE*ETT*E00038*001~SCHUKO:3+TYPE2:22|DE*ETT*E00038*002~TYPE2:22+SCHUKO:3
+1072238	SWE	Ettlingen (Ettlingenweier), Seestraße 40	Seestr. 40	76275	Ettlingen	48.924370	8.374777	1	24/7	Keine Beschränkung	DE*ETT*E00033*001~TYPE2:22+SCHUKO:3|DE*ETT*E00033*002~TYPE2:22+SCHUKO:3
+1072239	SWE	Waldbronn (Therme), Waldring 1	Waldring 1	76337	Waldbronn	48.923180	8.475912	1	24/7	Nur für Kunden/Besucher	DE*ETT*E00025*001~TYPE2:22+SCHUKO:3|DE*ETT*E00025*002~TYPE2:22+SCHUKO:3|DE*ETT*E00024*001~TYPE2:22+SCHUKO:3|DE*ETT*E00024*002~TYPE2:22+SCHUKO:3
+1072241	SWE	Au am Rhein (Rathaus), Hauptstr. 5	Hauptstr. 5	76474	Au am Rhein	48.951633	8.239222	1	24/7	Keine Beschränkung	DE*ETT*E00059*001~TYPE2:22|DE*ETT*E00059*002~TYPE2:22|DE*ETT*E00060*001~TYPE2:22|DE*ETT*E00060*002~TYPE2:22
+1072243	SWE	Ettlingen (Ettlingenweier Friedhof), Groß-Ott-Str.	Groß-Ott-Str. 1	76275	Ettlingen	48.930105	8.390049	1	24/7	Keine Beschränkung	DE*ETT*E00022*001~TYPE2:22+SCHUKO:3|DE*ETT*E00022*002~TYPE2:22+SCHUKO:3
+1072599	Jan & Mirjam Hildebrandt Stromhandels GbR		Schubertstr. 15	76307	Karlsbad	48.542600	8.302900	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1076195	Klaus Wunsch		Mühlbachweg 4	76596	Forbach	48.678440	8.355993	1			~TYPE2:22
+1076302	Menzerna		Industriestrasse 25	76470	Ötigheim	48.886640	8.243070	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22
+1076628	Hotel Heselbacher Hof KG		Heselbacher Wg 72	72270	Baiersbronn	48.538292	8.403828	1			~TYPE2_TETHERED:21
+1077082	LT Energie Services GmbH		Baumeisterstr. 13	76287	Rheinstetten	48.983134	8.323054	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077106	Lidl	4528_Lidl_Achern_T65-IT1-0423-162	Fautenbacher Str. 9a	77855	Achern	48.628452	8.059915	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1077278	Stadtwerke Bühl GmbH	BITS	Am Froschbächle 21	77815	Bühl	48.705799	8.130574	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1078205	EnBW mobility+ AG und Co.KG		Ringstr. 5	76571	Gaggenau	48.818245	8.302521	1		Keine Beschränkung	~CCS2:80|~CCS2:80
+1078312	next step mobility GmbH	Hauptstrasse	Hauptstr. 11	76287	Rheinstetten	48.975808	8.308235	1	24/7	Keine Beschränkung	DE*NSM*E005*0006*1~TYPE2:22|DE*NSM*E005*0006*2~TYPE2:22
+1080546	Christian Ott		Franz-Striebel-Str. 22	77880	Sasbach	48.630136	8.109583	1			~TYPE2:11
+1081273	Ungeheuer Automobile GmbH		Ottostr. 22	76227	Karlsruhe	48.997290	8.437330	1			~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22
+1081274	Ungeheuer Automobile GmbH		Hertzstr. 31	76275	Ettlingen	48.938230	8.381690	1			~TYPE2:11|~TYPE2:11
+1081275	Ungeheuer Automobile GmbH		Woogseestr. 5	76437	Rastatt	48.860170	8.231520	1			~TYPE2:11|~TYPE2:11
+1083990	Acura Kliniken Baden-Baden GmbH		Rotenbachtalstr. 5	76530	Baden-Baden	48.764291	8.246954	1			~TYPE2:22|~TYPE2:22
+1084265	Sparkasse Bühl AdöR		Sparkassenplatz 1	77815	Bühl	48.697190	8.134194	1			~TYPE2:22|~TYPE2:22
+1084878	B&W NetworX GmbH & Co. KG		Landstraße 67	76547	Sinzheim	48.765557	8.169494	1			~TYPE2:3|~TYPE2:3|~TYPE2:3|~TYPE2:3|~TYPE2:11
+1085273	Daniel Rauhöft		Dorfstr. 43	76437	Rastatt	48.843493	8.138265	1		Nur für Kunden/Besucher	~TYPE2:11
+1085570	Erkan Sagnak-Reynier		Langenäcker 5	76530	Baden-Baden	48.775060	8.274268	1			~TYPE2:11
+1085679	Frank Josef Neumaier		Merkurstrasse 12	76461	Muggensturm	48.869622	8.276696	1			~TYPE2:11
+1086093	I.T.C. GmbH & Co. KG		Kohlenweg 20	76534	Baden-Baden	48.731908	8.175313	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1086356	Judith Hörger		Marie-Curie-Str. 29	76287	Rheinstetten	48.961811	8.292246	1			~TYPE2_TETHERED:11
+1086520	Koray Karakurt		Lüdersstraße 1	76275	Ettlingen	48.951120	8.401907	1			~TYPE2_TETHERED:3
+1087070	Mihael Mucic		Karlsbader Straße 19	76532	Baden-Baden	48.779552	8.190083	1			~TYPE2:11
+1087150	Niko Meister	Obere Bahnhofstraße	Obere Bahnhofstraße 9	76448	Durmersheim	48.929123	8.268478	1	Mo-Fr 08:00-13:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1087398	Print Equipment GmbH & Co. KG		Im Stühlinger 10	77833	Ottersweier	48.676456	8.103397	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1087483	Raphael Volz		Lindenweg 23	76332	Bad Herrenalb	48.801220	8.442689	1			~TYPE2:11
+1088097	Thomas Riexinger		Hauptstr. 30	77794	Lautenbach	48.520662	8.115031	1			~TYPE2_TETHERED:11
+1088532	Golfanlagen Weiland GmbH	Golfpark Karlsruhe	Gut Batzenhof 3	76227	Karlsruhe	48.958920	8.493000	1	24/7	Keine Beschränkung	DE*ONE*EPR2Q~TYPE2:22|DE*ONE*EMG33~TYPE2:22
+1089876	Warth Energy GmbH & Co.KG		Stettiner Str. 15	76437	Rastatt	48.867493	8.221825	1	24/7	Keine Beschränkung	~CCS2:50+CHADEMO:22+TYPE2_TETHERED:22
+1090072	Pfalzwerke AG		Neuer Markt 4	76532	Baden-Baden	48.795973	8.194500	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:150|~CCS2:150
+1091281	Autohaus Gramling Sportwagen GmbH		Porscheplatz 9-11	76275	Ettlingen	48.940914	8.382317	1			~CCS2:350|~CCS2:350
+1091310	GenoHotel Karlsruhe GmbH & Co. KG		Am Rüppurrer Schloss 40	76199	Karlsruhe	48.981540	8.413870	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091818	Pfalzwerke AG		Neuer Markt 4	76532	Baden-Baden	48.795987	8.194434	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1092042	Netto Marken-Discount Stiftung & Co. KG		Am Oberwald 2/1	76437	Rastatt	48.858270	8.162850	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1092738	MINT GmbH		Gebrüder-Bachert-Straße 7	76135	Karlsruhe	48.982097	8.376724	1			~TYPE2:11|~TYPE2:11
+1093276	Stadtwerke Gaggenau Service GmbH		Badstr. 15	76571	Gaggenau	48.807952	8.302225	1			~TYPE2:22|~TYPE2:22
+1093277	Stadtwerke Gaggenau Service GmbH		Bismarckstr. 6	76571	Gaggenau	48.802411	8.315911	1			~TYPE2:22|~TYPE2:22
+1093278	Stadtwerke Gaggenau Service GmbH		Konrad-Adenauerstr. 1	76571	Gaggenau	48.803673	8.318658	1			~TYPE2:22|~TYPE2:22
+1093279	Stadtwerke Gaggenau Service GmbH		Landstr. 2	76571	Gaggenau	48.782742	8.342967	1			~TYPE2:22|~TYPE2:22
+1093280	Stadtwerke Gaggenau Service GmbH		An der B462 0	76571	Gaggenau	48.817492	8.296413	1			~TYPE2:22|~TYPE2:22
+1093353	Andreas Richter		Gustav-Grathwohl-Str. 1	76456	Kuppenheim	48.827800	8.259200	1			~TYPE2:11+TYPE2_TETHERED:11+SCHUKO:11
+1093569	CTDI GmbH		Stephanstraße 4-8	76316	Malsch	48.888761	8.310456	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1093603	bhg Ettlingen		Mörscherstr. 3	76275	Ettlingen	48.947820	8.381390	1			~TYPE2:11|~CCS2:22|~TYPE2:11|~CCS2:22|~TYPE2:22|~CCS2:50
+1096392	AR Auto Roth GmbH		Karl-Bold-Straße 2	77855	Achern	48.637140	8.053670	1			~CCS2:22|~TYPE2:11
+1096393	AR Auto Roth GmbH		Karl-Bold-Straße 2	77855	Achern	48.637159	8.053632	1			~CCS2:22|~TYPE2:11
+1096647	Autohaus Finkbeiner GmbH&Co.KG		Murgtalstraße 48	72270	Baiersbronn	48.513002	8.378881	1			~CCS2:22|~TYPE2:11
+1096973	Autohaus Reininger GmbH		Appenweierer Str. 51B	77704	Oberkirch	48.536610	8.065037	1			~CCS2:22|~TYPE2:11
+1097008	Autohaus Schleeh Gerhard Schleeh		Murgtalstraße 327	72270	Baiersbronn	48.557283	8.398957	1			~CCS2:22|~TYPE2:11
+1097038	Seebacher		Vorder-Winterbach 2	77794	Lautenbach	48.522980	8.099980	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22|~TYPE2:22|~CCS2:50
+1101316	Tesla Germany GmbH		Am Achernsee 1	77855	Achern	48.641360	8.037807	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101812	Tesla Germany GmbH		Gewerbepark Cite 7	76532	Baden-Baden	48.783443	8.192149	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102359	Reichert GmbH		In den Sangen 8	76547	Sinzheim	48.778342	8.172529	1			~TYPE2:22|~TYPE2:22
+1102666	Karlsruher Fächer		Hinterm Hauptbahnhof/Bahnhofplatz 1	76137	Karlsruhe	48.993340	8.402868	1			~TYPE2:11
+1102668	Karlsruher Fächer		Fautenbruchstraße 53	76137	Karlsruhe	48.992780	8.406550	1			~TYPE2:10.4|~TYPE2:10.4|~TYPE2:10.4
+1102669	Karlsruher Fächer		Fautenbruchstraße 53	76137	Karlsruhe	48.992785	8.406567	1			~TYPE2:10.4
+1103103	EnBW ODR AG		Siemensstr. 9	76275	Ettlingen	48.939055	8.378343	1		Keine Beschränkung	DE*ODR*E1000*1898~TYPE2:22|DE*ODR*E1000*1899~TYPE2:22|DE*ODR*E1000*1900~TYPE2:22|DE*ODR*E1000*1901~TYPE2:22|DE*ODR*E1000*1902~TYPE2:22|DE*ODR*E1000*1903~TYPE2:22
+1103875	Parkgaragengesellschaft Baden-Baden mbH	Menton Ring	Menton-Ring 2	76532	Baden-Baden	48.781670	8.193450	1	24/7	Keine Beschränkung	DE*LSB*E3449186*001~TYPE2:22|DE*LSB*E3449186*002~TYPE2:22
+1104320	BBK Haargefuehl Einzelunternehmen	Parkplatz	Drachenrebenweg 9	76275	Ettlingen	48.936704	8.406832	1	 	Keine Beschränkung	DE*One*EX9QR~TYPE2_TETHERED:22+TYPE2_TETHERED:22|DE*ONE*EPF72~TYPE2:22+TYPE2_TETHERED:22
+1104328	Winterrot Hotelbetriebe GmbH		Rudolf-Link-Str. 10	76228	Karlsruhe	48.944248	8.488453	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1104539	Pneuhage Management GmbH & Co. KG		Im Wöhr 6-1	76437	Rastatt	48.862308	8.235977	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104544	Pneuhage Management GmbH & Co. KG		Gutenbergstr. 3	76275	Ettlingen	48.946829	8.379294	1		Keine Beschränkung	6762475~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104545	Pneuhage Management GmbH & Co. KG		Fiduciastr. 14	76227	Karlsruhe	48.994260	8.449059	1		Keine Beschränkung	6669695~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1104581	EnBW mobility+ AG und Co.KG		Eichelbergstr. 34	76189	Karlsruhe	48.998400	8.348980	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1105746	Licht Kraus GmbH		Mättich 21	77880	Sasbach	48.646333	8.088227	1			~TYPE2:22|~TYPE2:22
+1105747	Licht Kraus GmbH		Mättich 25	77880	Sasbach	48.646597	8.087818	1			~TYPE2:22|~TYPE2:22
+1106555	E.ON Drive GmbH		Baden-Baden West 0	76532	Baden-Baden	48.808931	8.181381	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1108992	E.ON Drive GmbH		Karlsruher Str 31-33	76437	Rastatt	48.865557	8.220685	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1109546	SenerTec Center GmbH		Bahnhofstr. 1	77794	Lautenbach	48.518960	8.117314	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1109617	EFA Tankstellenbetriebe und Mineralölhandel GmbH		Wolfartsweierer Str. 46	76137	Karlsruhe	48.999581	8.428024	1			~TYPE2:22|~CCS2:150|~CCS2:150
+1110001	IDS GmbH		Nobelstr. 18	76275	Ettlingen	48.936652	8.374670	1			~TYPE2:22|~TYPE2:22
+1110157	Visteon Electronics Germany		An der RaumFabrik 33b	76227	Karlsruhe	48.996768	8.463724	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110464	Bernd Appuhn		Breslauerstr. 12	76287	Rheinstetten	48.967191	8.261077	1			~TYPE2_TETHERED:22
+1113008	Gemeinde Lauf		Schänzelstraße 9992	77886	Lauf	48.648380	8.128720	1			~TYPE2:22|~TYPE2:22
+1113337	Stadtwerke Oberkirch GmbH	Ortsverwaltung Nussbach	Renchtalstr. 18	77704	Oberkirch	48.535225	8.022033	1	24/7	Keine Beschränkung	DEREME002701~TYPE2:22|DEREME002702~TYPE2:22
+1113341	Stadtwerke Oberkirch GmbH	Friedhof Stadelhofen	Königsgasse 17	77704	Oberkirch	48.561115	8.039717	1	24/7	Keine Beschränkung	DEREME002601~TYPE2:22|DEREME002602~TYPE2:22
+1114323	Landhotel Rebstock eK		Meisenbühl 19	77704	Oberkirch	48.528890	8.044980	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114331	WIR Wagner Immobilien Renchen GmbH		Robert-Bosch-Str. 1	77871	Renchen	48.580801	8.009843	1			~TYPE2:11|~TYPE2:11
+1114530	Stephan Bode Hotelbetriebs- und Verwaltungs GmbH		Rehteichweg 22	76332	Bad Herrenalb	48.800500	8.436650	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114553	Holl AG		August-Schneider-Str. 26	76571	Gaggenau	48.801558	8.322120	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114561	Holl AG		Aschmattstr. 5	76532	Baden-Badenn	48.811156	8.212026	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114576	TelemaxX Telekommunikation GmbH		Amalienbadstraße 41	76227	Karlsruhe	48.995810	8.463380	1			~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20|~TYPE2_TETHERED:20
+1114608	Klinik Dr. Franz Dengler		Kapuzinerstr. 1	76530	Baden- Baden	48.764230	8.234480	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114816	Hotel Engel GmbH		Kronenstraße 13	76275	Ettlingen	48.942660	8.408690	1			~TYPE2:22+TYPE2_TETHERED:22
+1114817	Hotel Engel GmbH		Kronenstraße 13	76275	Ettlingen	48.942450	8.408826	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114837	deer GmbH	Kuppenheim, Bahnhof	Bahnhofstr. 5	76456	Kuppenheim	48.833878	8.256407	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1115854	Gasthaus zur Grässelmühle		Sasbachwaldener Straße 64	77880	Sasbch	48.624651	8.104130	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1115914	Autohaus Hartmann GmbH Rastatt		Berliner Ring 17	76437	Rastatt	48.860130	8.230277	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1115922	SV Germania Bietigheim e.V.		Stöckwiese 4	76467	Bietigheim	48.917546	8.247579	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1116292	Parkgaragengesellschaft Baden-Baden mbH	Pariser Ring (GSE)	Pariser Ring 37	76532	Baden-Baden	48.778210	8.202850	1	24/7	Keine Beschränkung	DE*LSB*E00036*001~TYPE2:22|DE*LSB*E00036*002~TYPE2:22
+1116294	Parkgaragengesellschaft Baden-Baden mbH	Hans-Bredow-Str. Oben	Hans-Bredow-Str. 10	76530	Baden-Baden	48.749780	8.224946	1	24/7	Keine Beschränkung	DE*LSB*E00044*001~TYPE2:22|DE*LSB*E00044*002~TYPE2:22|DE*LSB*E00045*001~TYPE2:22|DE*LSB*E00045*002~TYPE2:22
+1116300	Stadtwerke Rastatt Service GmbH		Rauentaler Str. 1/3	76437	Rastatt	48.858252	8.209629	1	Mo-So 07:00-21:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116383	Parkgaragengesellschaft Baden-Baden mbH	Rheinstraße Weststadt	Rheinstr. 29	76532	Baden-Baden	48.775192	8.221617	1	24/7	Keine Beschränkung	DE*LSB*E00040*001~TYPE2:22|DE*LSB*E00040*002~TYPE2:22
+1116428	Tesla Germany GmbH		Wolfartsweierer Str. 48	76137	Karlsruhe	48.999043	8.428747	1	24/7	Keine Beschränkung	DE*TSL*E0014AG~CCS2:250|DE*TSL*E0014AI~CCS2:250|DE*TSL*E0014AK~CCS2:250|DE*TSL*E0014AM~CCS2:250|DE*TSL*E0014AO~CCS2:250|DE*TSL*E0014AQ~CCS2:250|DE*TSL*E0014AS~CCS2:250|DE*TSL*E0014AU~CCS2:250|DE*TSL*E0014AW~CCS2:250|DE*TSL*E0014AY~CCS2:250|DE*TSL*E0014B0~CCS2:250
+1117062	SWE	Ettlingen (Volksbank), Wilhelmstr. 3-7	Wilhelmstr. 3-7	76275	Ettlingen	48.938258	8.410977	1	24/7	Nur für Kunden/Besucher	DE*ETT*E00058*001~TYPE2:22|DE*ETT*E00058*002~TYPE2:22
+1117069	SWE	Ettlingen (Tiefgarage), Erwin-Vetter-Platz 2	Erwin-Vetter-Platz 2	76275	Ettlingen	48.941665	8.406269	1	Mo-Sa 06:00-23:00, So 08:00-23:00	Keine Beschränkung	DE*ETT*E00043*002 Station 1.138~TYPE2:11
+1117851	Tesla Germany GmbH		Vimbucher Str. 75	77815	Bühl	48.724668	8.110451	1	24/7	Keine Beschränkung	DE*TSL*E0S3HXW~CCS2:250|DE*TSL*E0S3HW9~CCS2:250|DE*TSL*E0S3HXV~CCS2:250|DE*TSL*P29804~CCS2:250|DE*TSL*E0RFSPK~CCS2:250|DE*TSL*E0RFSPI~CCS2:250|DE*TSL*E0RFSPL~CCS2:250|DE*TSL*E0RFSPH~CCS2:250
+1117916	Licht-Kraus	Mättich 25	Mättich 25	77880	Sasbach	48.646871	8.087917	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11|~TYPE2:11+TYPE2:11
+1117982	Lidl	1781_Lidl_Ettlingen_T65-IT1-5022-222	Zehntwiesenstr. 37	76275	Ettlingen	48.944950	8.393880	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1118317	Parkraumgesellschaft Baden-Württemberg GmbH		Hauptstr. 94	77815	Bühl	48.698436	8.138003	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1118373	Krämer Pferdesport GmbH & Co.KG		Am Forlenspitzen 20	76473	Iffezheim	48.821170	8.162243	1	Mo-Fr 10:00-19:00, Sa 09:00-17:00	Keine Beschränkung	DE*ONE*E8U2R~TYPE2:11
+1119114	next step mobility GmbH	Auer Strasse	Auer Str. 13	76287	Rheinstetten	48.969405	8.267125	1	24/7	Keine Beschränkung	DE*NSM*E005*0007*1~TYPE2:22|DE*NSM*E005*0007*2~TYPE2:22
+1119653	Fa. VR Payment GmbH	VR Payment, Ettlingen	Am Hardtwald 3	76275	Ettlingen	48.956173	8.377817	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119888	Q1 Autostrom	Iffezheim, Am Forlenspitzen - links	Am Forlenspitzen 1	76473	Iffezheim	48.823256	8.163307	1	24/7	Keine Beschränkung	DE*Q1A*E48140044~CCS2:300|DE*Q1A*E48140045~CCS2:300
+1119889	Q1 Autostrom	Iffezheim, Am Forlenspitzen - rechts	Am Forlenspitzen 1	76473	Iffezheim	48.823264	8.163157	1	24/7	Keine Beschränkung	DE*Q1A*E48140047~CCS2:300|DE*Q1A*E48140048~CCS2:300
+1120518	next step mobility GmbH	Gewerbepark Albtal E128 A	Pforzheimer Str. 128b	76275	Ettlingen	48.934513	8.439905	1	24/7	Nur für Kunden/Besucher	DE*NSM*E002*0007*1~TYPE2:22|DE*NSM*E002*0007*2~TYPE2:22|DE*NSM*E002*0008*1~TYPE2:22|DE*NSM*E002*0008*2~TYPE2:22
+1120616	Pfalzwerke AG	REWE Achern	Eisenbahnstr. 12-14	77855	Achern	48.629925	8.067843	1	24/7	Keine Beschränkung	DE*PWA*EALP22267X01449*01~CCS2:150|DE*PWA*EALP22267X01449*02~CCS2:150
+1120820	Pfalzwerke AG	Hornbach Karlsruhe Fritz-Haber-Straße 1	Fritz-Haber-Str. 1	76185	Karlsruhe	48.997796	8.356219	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X00917*01~CCS2:300|DE*PWA*EALP22270X00917*02~CCS2:300
+1120823	Pfalzwerke AG	Hornbach Karlsruhe Fritz-Haber-Straße 1	Fritz-Haber-Str. 1	76185	Karlsruhe	48.997751	8.355948	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01498*01~CCS2:300|DE*PWA*EALP22270X01498*02~CCS2:300
+1121745	Stadtwerke Oberkirch GmbH	Dorfplatz Ödsbach	Wäldenstr. 1	77704	Oberkirch	48.500797	8.087555	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:1|~TYPE2:22+SCHUKO:1
+1125438	Parkgaragengesellschaft Baden-Baden mbH	Grundschule Sandweier	Iffezheimer Str. 10	76532	Baden-Baden	48.809139	8.192039	1	24/7	Keine Beschränkung	DE*LSB*E00050*001~TYPE2:22|DE*LSB*E00050*002~TYPE2:22
+1125439	Parkgaragengesellschaft Baden-Baden mbH	Grundschule Neuweier	Weinstr. 16	76534	Baden-Baden	48.719885	8.183520	1	24/7	Keine Beschränkung	DE*LSB*E00049*001~TYPE2:22|DE*LSB*E00049*002~TYPE2:22
+1125441	Parkgaragengesellschaft Baden-Baden mbH	Yburghalle Varnhalt	Weinsteige 17	76534	Baden-Baden	48.737059	8.178577	1	24/7	Keine Beschränkung	DE*LSB*E00052*001~TYPE2:22|DE*LSB*E00052*002~TYPE2:22
+1125641	EnBW mobility+ AG und Co.KG		Industriestr. 16	76547	Sinzheim	48.773900	8.174500	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1125880	Midorion GmbH & Co. KG	P+M Mitfahrerparkplatz A8 Karlsbad	Rudolf-Link-Str. 2	76228	Karlsruhe	48.944900	8.494290	1	24/7	Keine Beschränkung	DE*MID*E010*01~CCS2:100|DE*MID*E010*02~CCS2:100|DE*MID*E010*03~CCS2:100|DE*MID*E010*04~CCS2:100|DE*MID*E010*05~CCS2:100|DE*MID*E010*06~CCS2:100|DE*MID*E010*07~CCS2:100|DE*MID*E010*08~CCS2:100
+1125893	Midorion GmbH & Co. KG	P+M Mitfahrerparkplatz A8 Karlsbad	Rudolf-Link-Str. 2	76228	Karlsruhe	48.945030	8.494450	1	24/7	Keine Beschränkung	DE*MID*E010*09~CCS2:100|DE*MID*E010*10~CCS2:100|DE*MID*E010*11~TYPE2:22|DE*MID*E010*12~TYPE2:22|DE*MID*E010*13~TYPE2:22|DE*MID*E010*14~TYPE2:22
+1125909	Wattif Europe GmbH	Baiersbronn Hotel Berghof Bildstöckleweg 17	Bildstöckleweg 17	72270	Baiersbronn	48.507810	8.368273	1	24/7	Keine Beschränkung	DE*WAT*EW049241001~TYPE2:22|DE*WAT*EW049241002~TYPE2:22|DE*WAT*EW049241003~TYPE2:22|DE*WAT*EW049241004~TYPE2:22
+1126151	Lidl	3035_Lidl_Gaggenau_T65-IT1-0425-013	Berliner Str. 2	76571	Gaggenau	48.799310	8.316830	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1126371	Stadtwerke Rastatt Service GmbH	Parkhotel Luise - Bad Herrenalb	Dobler Str. 26	76332	Bad Herrenalb	48.798708	8.440670	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1126373	Stadtwerke Rastatt Service GmbH	Kaiserstraße 9	Kaiserstr. 9	76437	Rastatt	48.856187	8.203873	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1127638	Alexander Bürkle GmbH & Co. KG	Kehlerhof	Kehler Str. 43	76437	Rastatt	48.844820	8.198702	1	24/7	Nur für Kunden/Besucher	DE*ABF*E0000073~TYPE2:22
+1128615	deer GmbH	Gernsbach, Bahnhof	Schwarzwaldstr. 11	76593	Gernsbach	48.767819	8.336685	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1129497	Niko Meister	Webasto Triftstraße	Triftstr. 6	76448	Durmersheim	48.938200	8.275230	1	24/7	Nur für Kunden/Besucher	DE*CIQ*E7B97VKU9NGU8*1~TYPE2:22
+1135079	E-Werk Mittelbaden	Penny Markt/BFT Tankstelle Renchen	Straßburger Str. 62	77871	Renchen	48.591552	8.017153	1	24/7	Keine Beschränkung	DE*EWM*E0000408~CCS2:50|DE*EWM*E0000409~CCS2:50
+1136030	EnBW mobility+ AG und Co.KG	76448 Durmersheim, Malscher Str. 16c	Malscher Straße 16C	76448	Durmersheim	48.923760	8.271830	1	24/7	Keine Beschränkung	DE*EBW*E916305*1~CCS2:150|DE*EBW*E916305*2~CCS2:150|DE*EBW*E916320*1~CCS2:300|DE*EBW*E916320*2~CCS2:300
+1137436	Salvia Gebäudetechnik GmbH	021-60411-33-54-144	Wilhelm-Maybach-Str. 33	71394	Kernen im Remstal	48.815043	8.365870	1	24/7	Keine Beschränkung	DE*ONE*EN43W~TYPE2:22|DE*ONE*EVD7L~TYPE2:22
+1137881	Elektro Birk		Hammermatt 1	77704	Oberkirch	48.536138	8.063655	1	24/7	Keine Beschränkung	DE*EBO~CCS2:49.9
+1138733	deer GmbH	Baden Airpark	Halifax Avenue 420	77836	Rheinmünster	48.778300	8.088800	1	24/7	Nur für Kunden/Besucher	DE*753*E00135*001~TYPE2:22|DE*753*E00135*002~TYPE2:22
+1138746	deer GmbH	Baden-Baden, Wackenhut	Wilhelm-Drapp-Str. 19	76532	Baden-Baden	48.796195	8.198907	1	24/7	Nur für Kunden/Besucher	DE*753*E00052*001~TYPE2:11|DE*753*E00052*002~TYPE2:11|DE*753*E00053*001~TYPE2:11|DE*753*E00053*002~TYPE2:11|DE*753*E00054*001~TYPE2:11|DE*753*E00054*002~TYPE2:11|DE*753*E00055*001~TYPE2:11|DE*753*E00055*002~TYPE2:11|DE*753*E00056*001~TYPE2:11|DE*753*E00056*002~TYPE2:11|DE*753*E00057*001~TYPE2:11|DE*753*E00057*002~TYPE2:11
+1139557	EnBW mobility+ AG und Co.KG	76456 Kuppenheim, August-Scherer-Str. 3	August-Scherer-Straße 3	76456	Kuppenheim	48.827605	8.281419	1	24/7	Keine Beschränkung	DE*EBW*E910673*1~CCS2:100|DE*EBW*E910673*2~CCS2:100
+1140122	Team-Emobility GmbH		Vimbucher Str. 82-84	77815	Bühl	48.724306	8.112583	1		Nur Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:13|~TYPE2:11
+1140327	EnBW ODR AG		Etzenroter Str. 2	76337	Waldbronn	48.921043	8.474965	1	24/7	Keine Beschränkung	DE*ODR*E1000*1998~TYPE2:22|DE*ODR*E1000*1999~TYPE2:22
+1140328	EnBW ODR AG		Im Ermlisgrund 3	76337	Waldbronn	48.932917	8.478924	1	24/7	Keine Beschränkung	DE*ODR*E1000*2000~TYPE2:22|DE*ODR*E1000*2001~TYPE2:22
+1140332	EnBW ODR AG		Talstr. 0	76337	Waldbronn	48.930108	8.471747	1	24/7	Keine Beschränkung	DE*ODR*E1000*2002~TYPE2:22|DE*ODR*E1000*2003~TYPE2:22
+1140767	Aral Pulse		Karlsruher Str. 50a	76275	Ettlingen	48.958010	8.406600	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1143701	deer GmbH	Iffezheim, VR-Bank	Hügelsheimer Str. 3	76473	Iffezheim	48.822041	8.140322	1	24/7	Keine Beschränkung	DE*753*E00356*001~TYPE2:22|DE*753*E00356*002~TYPE2:22
+1144104	EnBW mobility+ AG und Co.KG	Stadtwerke Karlsruhe, Hinterm Hauptbahnhof	Hinterm Hauptbahnhof 5	76137	Karlsruhe	48.992237	8.403035	1	24/7	Keine Beschränkung	DE*EBW*E913701*1~CCS2:400|DE*EBW*E913701*2~CCS2:400|DE*EBW*E913703*1~CCS2:400|DE*EBW*E913703*2~CCS2:400|DE*EBW*E913702*1~CCS2:400|DE*EBW*E913702*2~CCS2:400|DE*EBW*E913559*1~CCS2:400|DE*EBW*E913559*2~CCS2:400
+1144195	MERKUR Immobilien und Bauprojekte GmbH & CO. KG	Spielothek Bischofsheim	In der Niederwiese 1	65474	Bischofsheim	48.990931	8.335065	1	24/7	Keine Beschränkung	~TYPE2:22
+1144353	Meier Photovoltaik		Grüngartenstr. 15	77836	Rheinmünster	48.773170	8.044840	1	24/7	Keine Beschränkung	CH*ECUEPN3YEAQTHNGYTV4HJZLNZU87TA~TYPE2:22|CH*ECUEM6ED374P88UJP3W8M33ZXS92V2~TYPE2:22
+1144355	Jörg Buchwald	Buchwald	An der Acher 21	77855	Achern	48.626755	8.067622	1		Nur für Kunden/Besucher	~TYPE2:11
+1144536	Pluq		Mozartstr. 8	76530	Baden-Baden	48.769340	8.232685	1	24/7	Keine Beschränkung	DE*EFL*EV4832687*C1~TYPE2:22|DE*EFL*EV4832687*C2~TYPE2:22
+1144537	Pluq		Schwarzwaldhochstr. 1	77815	Bühl	48.671672	8.232556	1	24/7	Keine Beschränkung	DE*EFL*EV3798521*C1~TYPE2:22|DE*EFL*EV3798521*C2~TYPE2:22|DE*EFL*EV6563159*C1~TYPE2:22|DE*EFL*EV6563159*C2~TYPE2:22|DE*EFL*EV2781861*C1~TYPE2:22|DE*EFL*EV2781861*C2~TYPE2:22
+1145210	Scheck, In - Einkaufs - Center Achern GmbH		Hauptstr. 4a	77830	Bühlertal	48.695740	8.172860	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1145224	SiB Märkte GmbH		August-Scherer-Str. 1	76456	Kuppenheim	48.828770	8.277020	1	Mo-Sa 08:00-21:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1145225	SiB Märkte GmbH		Industriestr. 22	76547	Sinzheim	48.776400	8.177010	1	Mo-Sa 07:00-22:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1145642	Team-Emobility GmbH	BHG Ettlingen	Mörscher Str. 3	76275	Ettlingen	48.947838	8.381629	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1145759	Midorion GmbH & Co. KG	PSD Bank Halle	Ettlinger Allee 9	76199	Karlsruhe	48.984470	8.404340	1	24/7	Keine Beschränkung	DE*MID*E004*01~TYPE2:22|DE*MID*E004*02~TYPE2:22
+1146145	Minera	Murgtalstraße 47, 72270 Baiersbronn	Murgtalstr. 47	72270	Baiersbronn	48.512560	8.377028	1	24/7	Keine Beschränkung	DE*MKR*E2000006*001~CCS2:150|DE*MKR*E2000006*002~CCS2:150
+1147811	Parkgaragengesellschaft Baden-Baden mbH	Parkplatz Ortsverwaltung Haueneberstein	Alte Dorfstr. 2	76532	Baden-Baden	48.806330	8.221706	1	24/7	Keine Beschränkung	DE*LSB*EE00054*001~TYPE2:22|DE*LSB*EE00054*002~TYPE2:22
+1147814	Parkgaragengesellschaft Baden-Baden mbH	Luisenstraße	Luisenstr. 1	76530	Baden-Baden	48.762916	8.236657	1	24/7	Keine Beschränkung	DE*LSB*E00043*001~CCS2:150|DE*LSB*E00043*002~CCS2:150|DE*LSB*E00048*001~TYPE2:22|DE*LSB*E00048*002~TYPE2:22|DE*LSB*E00047*001~TYPE2:22|DE*LSB*E00047*002~TYPE2:22
+1148592	deer GmbH	Ottersweier, Kirche	Hauptstr. 106	77833	Ottersweier	48.672907	8.119528	1	24/7	Keine Beschränkung	DE*753*E00520*001~TYPE2:22|DE*753*E00520*002~TYPE2:22
+1148593	deer GmbH	Rheinmünster. Söllingen	Schulstr. 12	77836	Rheinmünster	48.777934	8.057741	1	24/7	Keine Beschränkung	DE*753*E00569*001~TYPE2:22|DE*753*E00569*002~TYPE2:22
+1148594	deer GmbH	Rheinmünster, Greffern	Zur Rheinfähre 27	77836	Rheinmünster	48.751296	8.004739	1	24/7	Keine Beschränkung	DE*753*E00562*001~TYPE2:22|DE*753*E00562*002~TYPE2:22
+1148595	deer GmbH	Rheinmünster, Schwarzach	Hurststr. 4	77836	Rheinmünster	48.746583	8.047076	1	24/7	Keine Beschränkung	DE*753*E00561*001~TYPE2:22|DE*753*E00561*002~TYPE2:22
+1148596	deer GmbH	Rheinmünster, Stollhofen	Rastatter Str. 6	77836	Rheinmünster	48.763896	8.047937	1	24/7	Keine Beschränkung	DE*753*E00560*001~TYPE2:22|DE*753*E00560*002~TYPE2:22
+1149051	Allego		Am Hardtwald 10	76275	Ettlingen	48.957740	8.378410	1	24/7	Keine Beschränkung	DEALLEGO003952_1~CCS2:400|DEALLEGO003952_2~CCS2:400|DEALLEGO003942_1~CCS2:400|DEALLEGO003942_2~CCS2:400
+1149139	SWE	Solarparkdeck	Burbacher Str. 7	76275	Ettlingen	48.894303	8.422359	1	24/7	Keine Beschränkung	DE*ETT*E00054*001~TYPE2:22|DE*ETT*E00054*002~TYPE2:22
+1149141	SWE	Ettlingen (Station Josef Stöhrer Weg) Ahornweg	Ahornweg 34a	76275	Ettlingen	48.953033	8.382076	1	24/7	Keine Beschränkung	DE*ETT*E00047*001~CCS2:120|DE*ETT*E00047*002~CCS2:120
+1149142	SWE	Ettlingen (Polizei), Pforzheimerstr. 18	Pforzheimer Str. 18	76275	Ettlingen	48.942515	8.410693	1	24/7	Keine Beschränkung	DE*ETT*E00051*001~CCS2:120|DE*ETT*E00051*002~CCS2:120
+1149197	GWS Gemeindewerke Sinzheim GmbH & Co. KG	Parkplatz Kundencenter links	Müllhofener Str. 22	76547	Sinzheim	48.754059	8.160182	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1149200	GWS Gemeindewerke Sinzheim GmbH & Co. KG	Tiefgarage Rathaus P42	Marktplatz 1	76547	Sinzheim	48.760474	8.165376	1	Mo-So 07:00-22:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22
+1149379	Stefan Zoller		Friedhofstr. 15	76547	Sinzheim	48.762455	8.163655	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1149915	cocharge	DECOC289	Hundsbachstr. 3	77815	Bühl	48.643905	8.233813	1	24/7	Keine Beschränkung	DE*COC*E289*01~TYPE2:22
+1150295	deer GmbH	Waldbronn, Neubaugebiet	Albgaustr. 46	76337	Waldbronn	48.929045	8.479058	1	24/7	Keine Beschränkung	DE*753*E00573*001~TYPE2:22|DE*753*E00573*002~TYPE2:22
+1151339	Wirelane GmbH	Almenweg 3, 76337 Waldbronn	Almenweg 3	76337	Waldbronn	48.926295	8.483532	1		Keine Beschränkung	DE*WLN*EP000479~TYPE2:22|DE*WLN*EP000480~TYPE2:22
+1151982	Wirelane GmbH		Waldring 3A	76337	Waldbronn	48.927930	8.466260	1		Keine Beschränkung	DE*WLN*EP001268~TYPE2:22|DE*WLN*EP001269~TYPE2:22
+1152751	Atrium Möbel+Design GmbH		Am Hardtwald 4	76275	Ettlingen	48.955845	8.378544	1		Keine Beschränkung	EGL9R~TYPE2:11|EPN8E~TYPE2:11|EHVN4~TYPE2:11|EQZ1R~TYPE2:11
+1153208	Comfort Charge	Karlsruhe, CC_76_0012	Bannwaldallee 42	76185	Karlsruhe	48.997920	8.370990	1	24/7	Keine Beschränkung	DECCH*ECCH2400009EBG*1~CCS2:200|DECCH*ECCH2400009EBG*2~CCS2:200|DECCH*ECCH2400010EBG*1~CCS2:200|DECCH*ECCH2400010EBG*2~CCS2:200|DECCH*ECCH2400011EBG*1~CCS2:200|DECCH*ECCH2400011EBG*2~CCS2:200|DECCH*ECCH2400012EBG*1~CCS2:200|DECCH*ECCH2400012EBG*2~CCS2:200
+1154016	Holl AG	Karlsruhe	Pulverhausstr. 38	76135	Karlsruhe	48.989933	8.372180	1	24/7	Keine Beschränkung	CH*ECUEAJDJK7W9Q5EYKL6AS5FV9NGUMA~TYPE2_TETHERED:11|CH*ECUEHN994ZBMFC3KYZZ7NBFFYM5XQS~TYPE2_TETHERED:11|CH*ECUETHLBCBWPGZWYYVVD67E2XMBV73~TYPE2_TETHERED:11|CH*ECUEYGVDCCMUWS5BYJVW5N5NUXNPX3~TYPE2_TETHERED:11|CH*ECUEGKTSYTTJDPU4YKN6C729BLXL83~TYPE2_TETHERED:11|CH*ECUE9AHMBCHCZSLPYNNC5YGCCVVJK3~TYPE2_TETHERED:11|CH*ECUENHBH495VYA7AYKXPPK6LKADGAW~TYPE2_TETHERED:11|CH*ECUEZM34BDFQN3JHWZBH23N6ETDZJ2~TYPE2_TETHERED:11|CH*ECUE7225SNEJAQGYYQVUQ3NUXYCET2~TYPE2_TETHERED:11|CH*ECUE647WCLRTHG82WZMKV5HGJFLMPQ~TYPE2_TETHERED:11|CH*ECUE9KAYWEAFANJCWQB59FQCLEGW52~TYPE2_TETHERED:11|CH*ECUE7CPZBQYVM56WWQZFEQYPQNLJ7X~TYPE2_TETHERED:11|CH*ECUEVYWGR2UYZXXMWTB63X3ZDD47HQ~TYPE2_TETHERED:11|CH*ECUE4R4VHBWCW3WYWYNK69G6FVKHJX~TYPE2_TETHERED:11|CH*ECUEX28APBKEZ7ENYMZKL36JSWQG9W~TYPE2_TETHERED:11|CH*ECUEE3ATEXW4Z42QYMNRMCUJJYSMKS~TYPE2_TETHERED:11|CH*ECUE2ZW4Y5J7BCZDYCC5NEQGM5N7A~TYPE2_TETHERED:11|CH*ECUEQKZWZXPCTJY2WGXMFMYB8KBGPW~TYPE2_TETHERED:11
+1154059	Stadtwerke Rastatt Service GmbH	Gründerzentrum Rastatt	Rauentaler Str. 22/1	76437	Rastatt	48.860352	8.217796	1	24/7	Nur für Kunden/Besucher	DE*SRA*E00046*001~TYPE2:22|DE*SRA*E00046*002~TYPE2:22
+1154296	deer GmbH	Marxzell-Schielberg	Rotensoler Str. 40	76359	Marxzell	48.840299	8.449010	1	24/7	Keine Beschränkung	DE*753*E00574*001~TYPE2:22|DE*753*E00574*002~TYPE2:22
+1154300	deer GmbH	Malsch, Parkplatz	Schwarzwaldhochstr. 1	76316	Malsch	48.870638	8.397803	1	24/7	Keine Beschränkung	DE*753*E00575*001~TYPE2:22|DE*753*E00575*002~TYPE2:22
+1154489	SCHARR Drive Ladestation	SP Golfclub Baden Hills	Cabot Trail 208	77836	Rheinmünster	48.787572	8.081225	1	24/7	Keine Beschränkung	DE*ARR*ESP159*001~TYPE2:11|DE*ARR*ESP159*002~TYPE2:11|DE*ARR*ESP160*001~TYPE2:11|DE*ARR*ESP160*002~TYPE2:11
+1154632	Autohaus Haitzler GmbH	Autohaus Haitzler GmbH	Schwarzwaldstr. 48	76593	Gernsbach	48.773658	8.342264	1	Mo-Fr 07:00-18:00	Keine Beschränkung	DE*POW*E03285~CCS2:49.9|DE*POW*E03286~CCS2:49.9|DE*POW*E03287~TYPE2_TETHERED:22
+1155392	Circle K Deutschland	Raststatt, Karlsruher Str. 16	Karlsruher Str. 16	76437	Rastatt	48.863565	8.217351	1	24/7	Keine Beschränkung	HYC_400_24BZ8158D~CCS2:400+CHADEMO:100|HYC_400_24BZ8158D~CCS2:400|HYC_400_24BZ8161D~CCS2:400|HYC_400_24BZ8161D~CCS2:400
+1156188	Wirelane GmbH	Leonardo Royal Hotel Baden-Baden	Falkenstraße 2	76530	Baden-Baden	48.752308	8.245239	1		Keine Beschränkung	DE*WLN*ES000121~TYPE2:11|DE*WLN*ES000122~TYPE2:11
+1157238	Holl AG	Rastatt	Joseph-Loreye-Str. 1	76437	Rastatt	48.868990	8.205350	1	24/7	Keine Beschränkung	CH*ECUE58G56DPQMFCKRYHEPR6LAZMCRZ~TYPE2_TETHERED:11|CH*ECUEGRVT673EQ94CW5Z25BN3L2J9XS~TYPE2_TETHERED:11|CH*ECUEETFWYSAMNHWMYKMJ689GFD9JJ3~TYPE2_TETHERED:11|CH*ECUESG862VABR23NYRVZKE3F6AQGK2~TYPE2_TETHERED:11|CH*ECUELPDKK5NB54BNWPMM369XDPXLES~TYPE2_TETHERED:11|CH*ECUEETRPDB54CQVVYLMXLS57JAMRN3~TYPE2_TETHERED:11|CH*ECUEVTKUB9UCVDY5YVLY8MTR3G4NYZ~TYPE2_TETHERED:11|CH*ECUE97DPWCAHN26YWXC5YLK3MECR63~TYPE2_TETHERED:11|CH*ECUEAG652AY5P8UZYFC8WRHDFHB87Z~TYPE2_TETHERED:11|CH*ECUESGU7L8NVP4AVYHBMAMLX8L389X~TYPE2_TETHERED:11
+1157263	enercity AG		Wilhelm-Leuschner-Str. 0	76189	Karlsruhe	48.982306	8.370454	1	24/7	Keine Beschränkung	DE*ENC*ELA001203*A01*A~CCS2:200|DE*ENC*ELA001203*A01*B~CCS2:200
+1157264	enercity AG		Wilhelm-Leuschner-Str. 0	76189	Karlsruhe	48.982309	8.370336	1	24/7	Keine Beschränkung	DE*ENC*ELA001203*A02*A~CCS2:200|DE*ENC*ELA001203*A02*B~CCS2:200
+1157265	enercity AG		Wilhelm-Leuschner-Str. 0	76189	Karlsruhe	48.982311	8.370188	1	24/7	Keine Beschränkung	DE*ENC*ELA001203*A03*A~CCS2:200|DE*ENC*ELA001203*A03*B~CCS2:200
+1157507	Auto-Krasser ETT	Auto-Krasser ETT	Pforzheimer Str. 78	76275	Ettlingen	48.935544	8.425354	1	24/7	Keine Beschränkung	~TYPE2:22
+1157567	Stadtwerke Oberkirch GmbH	Schnellladepark Bauzentrum Rendler 1	Korberger Matt 5	77704	Oberkirch	48.531084	8.061361	1	24/7	Keine Beschränkung	DEREME003001~CCS2:400|DEREME003002~CCS2:400|DEREME003003~CCS2:400|DEREME003004~CCS2:400|DEREME003005~CCS2:400|DEREME003006~CCS2:400
+1157664	eze.network GmbH	TTA001133	Südendstr. 21	76137	Karlsruhe	48.998364	8.392053	1	24/7	Nur für Kunden/Besucher	DE*EZE*ETTA001133*01~TYPE2:22|DE*EZE*ETTA001133*02~TYPE2:22
+1158205	deer GmbH	Bühl-Neusatz	Otto-Stemmler-Str. 6	77815	Bühl	48.659465	8.149172	1	24/7	Keine Beschränkung	DE*753*E00619*001~TYPE2:22|DE*753*E00619*002~TYPE2:22
+1158777	Stadtwerke Gaggenau Service GmbH	Friedhof Oberweier	Ortsstr. 71	76571	Gaggenau	48.847319	8.304229	1	24/7	Keine Beschränkung	DE*BDO*543643895*1~TYPE2:22|DE*BDO*543643895*2~TYPE2:22
+1158780	Stadtwerke Gaggenau Service GmbH	P&R Max-Roth-Straße	Max-Roth-Str. 0	76571	Gaggenau	48.787095	8.336246	1	24/7	Keine Beschränkung	DE*BDO*E806037228*1~CCS2:75|DE*BDO*E806037228*2~CCS2:75|~TYPE2:22
+1158781	Stadtwerke Gaggenau Service GmbH	Annemasseplatz	Eckenerstr. 1	76571	Gaggenau	48.799967	8.318276	1	24/7	Keine Beschränkung	DE*BDO*E306856779*1~CCS2:75|DE*BDO*E306856779*2~CCS2:75|~TYPE2:22
+1158782	Stadtwerke Gaggenau Service GmbH	Annemasseplatz	Eckenerstr. 1	76571	Gaggenau	48.799962	8.318161	1	24/7	Keine Beschränkung	DE*BDO*E007075615*1~CCS2:100|DE*BDO*E007075615*2~CCS2:100|DE*BDO*E007075615*3~TYPE2_TETHERED:44|DE*BDO*E007075615*4~TYPE2:22
+1159654	ADS-TEC Energy Service GmbH	Ettlingen West	Hertzstr. 3	76275	Ettlingen	48.946406	8.384353	1	24/7	Keine Beschränkung	DEAESE000401~CCS2:300|DEAESE000402~CCS2:300
+1159658	ADS-TEC Energy Service GmbH	Ettlingen Ost	Hertzstr. 3	76275	Ettlingen	48.946346	8.385059	1	24/7	Keine Beschränkung	DEAESE000301~CCS2:300|DEAESE000302~CCS2:300
+1159739	ZG	Zentrale PD	Lauterbergstr. 1-5	76137	Karlsruhe	48.996797	8.405690	1	Mo-Fr 08:00-17:00	Nur für Kunden/Besucher	DE*MSU*EZGR*W01*01~TYPE2:11|DE*MSU*EZGR*W01*02~TYPE2:11|DE*MSU*EZGR*W02*01~TYPE2:11|DE*MSU*EZGR*W02*02~TYPE2:11|DE*MSU*EZGR*W03*01~TYPE2:11|DE*MSU*EZGR*W03*02~TYPE2:11
+1159742	ZG	RM Karlsruhe	Fautenbruchstr. 35	76137	Karlsruhe	48.993130	8.408550	1	Mo-Fr 08:30-18:00, Sa 08:30-16:00	Nur für Kunden/Besucher	DE*MSU*EZGR*RM*W05*01~TYPE2:11|DE*MSU*EZGR*RM*W05*02~TYPE2:11
+1160653	deer GmbH	Parkplatz Spielplatz	Sonnenstr. 3	72297	Seewald	48.597650	8.421911	1	24/7	Keine Beschränkung	DE*753*E00613*001~TYPE2:22|DE*753*E00613*002~TYPE2:22
+1160655	deer GmbH		Breitenacker 2	76359	Marxzell	48.857253	8.463489	1	24/7	Keine Beschränkung	DE*753*E00635*001~TYPE2:22|DE*753*E00635*002~TYPE2:22
+1160656	deer GmbH		Am Dobelblick 11	76359	Marxzell	48.869489	8.442280	1	24/7	Keine Beschränkung	DE*753*E00636*001~TYPE2:22|DE*753*E00636*002~TYPE2:22
+1163395	Fastned Deutschland GmbH & Co. KG		Vimbucher Str. 75	77815	Bühl	48.724077	8.110292	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1163931	cocharge	DECOC360	Am Bannweg 3	77815	Bühl	48.690706	8.138265	1	24/7	Keine Beschränkung	DE*COC*E360*01~TYPE2:22

@@ -1,0 +1,371 @@
+1001673	deer GmbH		Untere Talstraße 12	75385	Bad Teinach-Zavelstein	48.488443	8.689015	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001871	deer GmbH		Wittendorfer Straße 4	72293	Glatten	48.419952	8.526907	1			~TYPE2:22|~TYPE2:22
+1001872	deer GmbH		Stumpacher Weg 2	72181	Starzach	48.432659	8.805835	1			~TYPE2:22|~TYPE2:22
+1001876	deer GmbH		Lombacher Straße 25	72293	Glatten	48.441736	8.514040	1			~TYPE2:22|~TYPE2:22
+1001892	deer GmbH		Bahnhofstraße 2	72336	Balingen	48.277612	8.850350	1			~TYPE2:22|~TYPE2:22
+1005660	deer GmbH		Bachstr. 6	72178	Waldachtal	48.499110	8.575810	1			~TYPE2:22|~TYPE2:22
+1005662	deer GmbH		Schönaustr. 100	72178	Waldachtal	48.485691	8.565793	1			~TYPE2:22|~TYPE2:22
+1007979	Robert Bosch GmbH		An den Kelterwiesen 14	72160	Horb am Neckar	48.441073	8.680789	1			~TYPE2:22|~TYPE2:22|DE*811*EA570215*1001~TYPE2:22|DE*811*EA570215*1002~TYPE2:22
+1007980	Robert Bosch GmbH		An den Kelterwiesen 14	72160	Horb am Neckar	48.441031	8.680754	1			~TYPE2:22|~TYPE2:22
+1011473	Comfort Charge	Rottweil, CC_78_0002	Breslauer Str. 3	78628	Rottweil	48.156780	8.634460	1	24/7	Keine Beschränkung	DECCH*ECCH2400044EBG*1~CCS2:200|DECCH*ECCH2400044EBG*1~CCS2:200
+1011474	Comfort Charge		Bahnhofstr. 25	78727	Oberndorf	48.295450	8.574630	1			~CCS2:150+CHADEMO:150|~TYPE2_TETHERED:22
+1011521	Comfort Charge		Hegaustr. 17	78054	Villingen-Schwenningen	48.062950	8.516140	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~TYPE2:22|~TYPE2_TETHERED:22
+1021399	EWE Go GmbH	EWE_0438	Schloßstr. 5	72336	Balingen	48.271240	8.850871	1	24/7	Keine Beschränkung	DE*2GO*E0438*1~TYPE2:22|DE*2GO*E0438*2~TYPE2:22
+1021400	EWE Go GmbH	EWE_0439	Charlottenstr. 25	72336	Balingen	48.272854	8.856064	1	24/7	Keine Beschränkung	DE*2GO*E0439*1~TYPE2:22|DE*2GO*E0439*2~TYPE2:22
+1021401	EWE Go GmbH	EWE_0440	Stingstr. 17	72336	Balingen	48.272525	8.853650	1	24/7	Keine Beschränkung	DE*2GO*E0440*1~TYPE2:22|DE*2GO*E0440*2~TYPE2:22
+1021402	EWE Go GmbH	EWE_0441	Am Lindle 9	72336	Balingen	48.275939	8.850271	1	24/7	Keine Beschränkung	DE*2GO*E0441*1~TYPE2:22|DE*2GO*E0441*2~TYPE2:22
+1021622	EWE Go GmbH	McD_1144	Rauher Grund 2	72160	Horb am Neckar	48.457840	8.696118	1	24/7	Keine Beschränkung	DE*2GO*EMCD1144*1A*1~CCS2:150|DE*2GO*EMCD1144*1A*2~CCS2:150
+1021767	EWE Go GmbH	McD_1035_1A	Carl-Friedrich-Benz-Str. 15	78073	Bad Dürrheim	48.031929	8.528968	1	24/7	Keine Beschränkung	DE*2GO*EMCD1035*1A*1~CCS2:300|DE*2GO*EMCD1035*1A*2~CCS2:300
+1025057	EnBW mobility+ AG und Co.KG		Autobahnraststätte Neckarburg Ost 0	78661	Dietingen	48.206284	8.627510	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025068	EnBW mobility+ AG und Co.KG		Uhlandstr. 43-49	78554	Aldingen	48.096546	8.708740	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025088	EnBW mobility+ AG und Co.KG		Raststätte Neckarburg West 0	78661	Dietingen	48.205725	8.620757	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025164	EnBW mobility+ AG und Co.KG		Werkstr. 49	78727	Oberndorf	48.285692	8.579673	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025176	EnBW mobility+ AG und Co.KG		Badstraße 14	72379	Hechingen	48.361188	8.956999	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025190	EnBW mobility+ AG und Co.KG		Lindenstraße 28	72351	Geislingen	48.286010	8.809193	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025199	EnBW mobility+ AG und Co.KG		Tuttlinger Str. 20	78582	Balgheim	48.064200	8.764300	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025200	EnBW mobility+ AG und Co.KG		Lippachtalstraße 30	78601	Mahlstetten	48.075071	8.844118	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025221	EnBW mobility+ AG und Co.KG		Insel 2	78573	Wurmlingen	48.005022	8.780407	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025222	EnBW mobility+ AG und Co.KG		Marktplatz 17	72362	Nusplingen	48.131860	8.891480	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025223	EnBW mobility+ AG und Co.KG		Mömpelgardgasse 0	72348	Rosenfeld	48.287172	8.724745	1		Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025228	EnBW mobility+ AG und Co.KG		Hauptstr. 11	72181	Starzach Bieringen	48.432716	8.814539	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025229	EnBW mobility+ AG und Co.KG		Bachstr. 21	72181	Starzach Börstingen	48.449344	8.803045	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025235	EnBW mobility+ AG und Co.KG		Hauptstr. 121	78549	Spaichingen	48.074788	8.737627	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025236	EnBW mobility+ AG und Co.KG		Hauptstr. 83	78549	Spaichingen	48.072402	8.740625	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025280	EnBW mobility+ AG und Co.KG		Römerweg 1	88637	Buchheim	48.012089	8.986638	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025282	EnBW mobility+ AG und Co.KG		Alter Schulplatz 2	78570	Mühlheim an der Donau	48.022670	8.888749	1		Keine Beschränkung	~TYPE2:22+SCHUKO:3.7|~TYPE2:22+SCHUKO:3.7
+1025303	EnBW mobility+ AG und Co.KG		Schlossplatz 1	78669	Wellendingen	48.146975	8.701815	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025305	EnBW mobility+ AG und Co.KG		Berner Feld 1	78628	Rottweil	48.179950	8.631309	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025309	EnBW mobility+ AG und Co.KG		Bickelsberger Str. 9	72348	Rosenfeld	48.286653	8.722230	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025310	EnBW mobility+ AG und Co.KG		Spitalgasse 1	72401	Haigerloch	48.367170	8.802800	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025311	EnBW mobility+ AG und Co.KG		Weilheimer Str. 31	72378	Hechingen	48.345875	8.956345	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025322	EnBW mobility+ AG und Co.KG		Hauptstraße 5	78655	Dunningen	48.212268	8.505348	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025331	EnBW mobility+ AG und Co.KG		Hitschbergstr. 29	72336	Balingen	48.274010	8.857057	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025335	EnBW mobility+ AG und Co.KG		Brückstr. 3	78652	Deißlingen	48.125232	8.625678	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025348	EnBW mobility+ AG und Co.KG		Berghof 1	72469	Meßstetten	48.207894	8.864769	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025350	EnBW mobility+ AG und Co.KG		Klosterstr. 3	78727	Oberndorf	48.292270	8.574691	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025356	EnBW mobility+ AG und Co.KG		Badstubengasse 6	72355	Schömberg	48.211526	8.760009	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025360	EnBW mobility+ AG und Co.KG		Oberamtstr. 60	72172	Sulz am Neckar	48.387190	8.628636	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025368	EnBW mobility+ AG und Co.KG		Alter Schulplatz 2	78570	Mühlheim an der Donau	48.022632	8.888527	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025376	EnBW mobility+ AG und Co.KG		Rathausplatz 3	78604	Rietheim-Weilheim	48.037672	8.782167	1			~TYPE2:22|~TYPE2:22
+1025383	EnBW mobility+ AG und Co.KG		Rathausplatz 3	78604	Rietheim-Weilheim	48.037600	8.782150	1			~TYPE2:22|~TYPE2:22
+1025428	EnBW mobility+ AG und Co.KG		Bahnhofstr. 6	78554	Aldingen	48.095772	8.712393	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025443	EnBW mobility+ AG und Co.KG		Hauptstr. 9	72469	Meßstetten	48.180380	8.962395	1			~TYPE2:22|~TYPE2:22
+1025491	EnBW mobility+ AG und Co.KG		Deilinger Str. 47	78564	Wehingen	48.149587	8.788165	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025493	EnBW mobility+ AG und Co.KG		Hauptstr 44	78588	Denkingen	48.108800	8.735810	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025605	EnBW mobility+ AG und Co.KG		Schuhstr. 77	72108	Rottenburg	48.479805	8.949500	1			~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22
+1025612	EnBW mobility+ AG und Co.KG		Ebingerstalstr. 52	72459	Albstadt	48.214366	8.967512	1			~CCS2:50+CHADEMO:50|~TYPE2:22|DE*EBW*E906426*1~CCS2:140|DE*EBW*E906426*2~CCS2:140
+1025614	EnBW mobility+ AG und Co.KG		Kirchstr. 5	78580	Bärenthal	48.073269	8.927233	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025657	EnBW mobility+ AG und Co.KG		Spitalweg 11	78567	Fridingen an der Donau	48.018671	8.926025	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025861	EnBW mobility+ AG und Co.KG		Autobahnraststätte Neckarburg West 0	78661	Dietingen	48.205928	8.620832	1			~CCS2:150|~CCS2:75
+1025862	EnBW mobility+ AG und Co.KG		Autobahnraststätte Neckarburg Ost 0	78661	Dietingen	48.206290	8.627350	1			~CCS2:150|~CCS2:75
+1025869	EnBW mobility+ AG und Co.KG		Schloßplatz 0	72351	Geislingen	48.286040	8.812500	1			~TYPE2:22|~TYPE2:22
+1026058	EnBW mobility+ AG und Co.KG		Weiherstraße 6	78665	Frittlingen	48.127357	8.708149	1			~TYPE2:22|~TYPE2:22
+1026178	EnBW mobility+ AG und Co.KG		Hechinger Straße 56	72414	Rangendingen	48.378224	8.901868	1			~CCS2:150|~CCS2:150
+1026303	EnBW mobility+ AG und Co.KG		Martin-Luther-Straße 28	78549	Spaichingen	48.076114	8.736485	1			~TYPE2:22|~TYPE2:22
+1026304	EnBW mobility+ AG und Co.KG		Hauptstraße 99	78549	Spaichingen	48.073512	8.738537	1			~TYPE2:22|~TYPE2:22
+1026333	EnBW mobility+ AG und Co.KG		Heidelberg Str. 22	72406	Bisingen	48.313410	8.916300	1			~TYPE2:22|~TYPE2:22
+1026467	EnBW mobility+ AG und Co.KG		Im Schachen 1	78606	Seitingen-Oberflacht	48.017940	8.720515	1			~TYPE2:22|~TYPE2:22
+1026540	EnBW mobility+ AG und Co.KG		Sallancher Str. 4	78549	Spaichingen	48.076193	8.736343	1			~TYPE2:22|~TYPE2:22
+1026665	EnBW mobility+ AG und Co.KG		Europastraße 2	78549	Spaichingen	48.075696	8.734513	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026754	EnBW mobility+ AG und Co.KG		Schuhstraße 77	72108	Rottenburg am Neckar	48.480076	8.949817	1			~TYPE2:22|~TYPE2:22
+1026782	EnBW mobility+ AG und Co.KG		Marienplatz 3	78582	Balgheim	48.066313	8.763477	1			~TYPE2:22|~TYPE2:22
+1026923	EnBW mobility+ AG und Co.KG		In Grubäcker 5	78647	Trossingen	48.070643	8.628238	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027072	EnBW mobility+ AG und Co.KG		Im Vogelloch 15	78727	Oberndorf am Neckar	48.298340	8.627990	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027176	EnBW mobility+ AG und Co.KG		Lange Straße 9	72336	Balingen	48.262360	8.851830	1			~CCS2:150|~CCS2:150
+1027652	EnBW mobility+ AG und Co.KG		Hauptstr. 7	78628	Zimmern o.R.	48.166915	8.593123	1			~TYPE2:22|~TYPE2:22
+1030196	ecowerk e-charge GmbH		Poststraße 26	72108	Rottenburg	48.472709	8.938468	1			~TYPE2:22|~TYPE2:22
+1030793	badenova AG & Co. KG		Hauptstraße 2	78667	Villingendorf	48.202857	8.590039	1			~TYPE2:22|~TYPE2:22
+1032356	GETEC mobility solutions GmbH		Cresbacher Str. 4	72280	Dornstetten	48.472756	8.508952	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032386	GETEC mobility solutions GmbH		Stauffenbergstr. 43	78652	Deißlingen	48.112110	8.604380	1			~TYPE2:22|~TYPE2:22
+1032455	GETEC mobility solutions GmbH		Industriestraße 6	78647	Trossingen	48.075075	8.619250	1			~TYPE2:22
+1033403	OMS Prüfservice GmbH		Christian Messner Str. 29	78647	Trossingen	48.072560	8.627190	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034657	Shell Deutschland GmbH		In Steppach 15	78647	Trossingen	48.076094	8.623957	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1035767	ALDI SÜD		Raiffeisenstraße 5	78658	Zimmern ob Rottweil	48.171444	8.574278	1			~CCS2:62|~CCS2:62|~TYPE2:22
+1035773	ALDI SÜD		Bahnhofplatz 23	72160	Horb am Neckar	48.441226	8.684542	1			~TYPE2:22|~TYPE2:22
+1035881	ALDI SÜD	DON-033	Lange Straße 54	72336	Balingen	48.257345	8.848067	1		Keine Beschränkung	DE*ALD*E11738~TYPE2:22|DE*ALD*E11750~TYPE2:22
+1035941	ALDI SÜD	DON-001	Saline 21	78628	Rottweil	48.145528	8.638611	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22767~CCS2:150|DE*ALD*E22768~CCS2:150|DE*ALD*E22769~TYPE2:22
+1037494	Citywatt GmbH		Schwenninger Straße 20	78073	Bad Dürrheim	48.032265	8.532338	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1037497	Citywatt GmbH		Schwenninger Straße 20	78073	Bad Dürrheim	48.032409	8.532241	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1037551	Citywatt GmbH		Im Weglanger 11	72461	Albstadt - Tailfingen	48.249426	8.994488	1			~TYPE2:22|~TYPE2:22
+1037607	Citywatt GmbH		Ebingertalstr. 58	72459	Albstadt	48.214036	8.970471	1			~CCS2:300|~CCS2:300
+1037608	Citywatt GmbH		Ebingertalstr. 58	72459	Albstadt	48.213993	8.970557	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1037610	Citywatt GmbH		Ebingertalstr. 58	72459	Albstadt	48.213961	8.970670	1			~CCS2:300|~CCS2:300
+1037611	Citywatt GmbH		Ebingertalstr. 58	72459	Albstadt	48.213918	8.970745	1			~CCS2:300|~CCS2:300
+1038329	Ralf Juhl		Starzelstraße 58	72414	Rangendingen	48.384768	8.898634	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038468	Garni Hotel Unsere Stadtvilla Frank Häre		St.-Luzen-Weg 2	72379	Hechingen	48.355948	8.970745	1			~TYPE2:17
+1039017	naturenergie		Steigstr. 4	78078	Niedereschach	48.132515	8.527646	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039075	naturenergie		Johann-Liesenberger-Strasse 11/1	78078	Niedereschach	48.123934	8.537107	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039085	naturenergie		Daimlerstrasse 1	78083	Dauchingen	48.094437	8.552276	1			~TYPE2:22+SCHUKO:22
+1039092	naturenergie		Deisslinger Str. 2-4	78083	Dauchingen	48.091639	8.555522	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039109	naturenergie		Friedhofstrasse 12	78078	Niedereschach	48.132632	8.533512	1			~TYPE2:22|~TYPE2:22
+1039113	naturenergie		Gutenbergstrasse 9	78056	Villingen-Schwenningen	48.063518	8.544319	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039128	naturenergie		Huberstrasse 8	78073	Bad Dürrheim	48.015930	8.534460	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039209	naturenergie		Salinenstraße 14	78073	Bad Dürrheim	48.017304	8.531469	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1039262	naturenergie		Vor Eichen 10	78662	Bösingen	48.220641	8.578713	1			~CCS2:75|~CCS2:75
+1039430	IONITY GmbH		Neckarburg Ost 0	78661	Dietingen	48.206218	8.627155	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E200801~CCS2:350|DE*IOY*E200802~CCS2:350
+1039434	IONITY GmbH		Neckarburg West 0	78661	Dietingen	48.205930	8.621045	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E200901~CCS2:350|DE*IOY*E200902~CCS2:350
+1040157	Autohaus Barth		Hörschweiler Straße 15	72296	Schopfloch	48.460415	8.548973	1			~CCS2:150|~TYPE2:22
+1040200	Pflanzen-Mauk Blumenparadies GmbH		Wilhelm-Kraut-Straße 102	72336	Balingen	48.263708	8.850808	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1043147	Günter Ott - Ihre Gebäudereinigung e.K. Inh. Thomas Ott		Bergäckerstraße 34	72160	Horb am Neckar	48.490117	8.654822	1			DEALLEGO000553*1~TYPE2:22|DEALLEGO000553*2~TYPE2:22
+1043148	Günter Ott - Ihre Gebäudereinigung e.K. Inh. Thomas Ott		Bergäckerstraße 36	72160	Horb am Neckar	48.490102	8.654385	1			DEALLEGO000554*1~TYPE2:22|DEALLEGO000554*2~TYPE2:22
+1043670	Allego		Eythstr. 16	72189	Vöhringen	48.343600	8.663570	1		Keine Beschränkung	DEALLEGO003433*1~CCS2:300|DEALLEGO003433*2~CCS2:300|DEALLEGO003426*1~CCS2:300|DEALLEGO003426*2~CCS2:300
+1043692	Allego		Eythstr. 16a	72189	Vöhringen	48.343550	8.663660	1		Keine Beschränkung	DEALLEGO003778*1~CCS2:150|DEALLEGO003778*2~CCS2:150
+1046416	B+B Parkhaus GmbH & Co.KG		Krankenhausstr. 23	78628	Rottweil	48.164375	8.612424	1			~TYPE2:11|~TYPE2:11
+1047320	ADREX		Carl-Zeiss-Straße 7	72108	Rottenburg	48.494450	8.817140	1			~TYPE2:22|~CCS2:50
+1048012	H + K Härte- und Oberflächentechnik GmbH + Co. KG		Brunnenstr. 34	78554	Aldingen	48.094432	8.686310	1			~TYPE2:11|~TYPE2:11
+1048970	Lidl	6254_Lidl_Rottenburg_12343900100001	Graf-Bentzel-Str. 22	72108	Rottenburg am Neckar	48.480245	8.945648	1		Keine Beschränkung	~TYPE2_TETHERED:60+CCS2:60|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2_TETHERED:60+CCS2:60
+1050602	Pfalzwerke AG		Saline 15	78628	Rottweil	48.143544	8.637994	1			~CCS2:300|~CCS2:300
+1050603	Pfalzwerke AG		Saline 15	78628	Rottweil	48.143412	8.637915	1			~CCS2:150|~CCS2:150
+1050604	Pfalzwerke AG		Saline 15	78628	Rottweil	48.434120	8.637915	1			~TYPE2:22|~TYPE2:22
+1051137	EnBW ODR AG		Hauptstraße 46	78665	Frittlingen	48.126233	8.707103	1			~TYPE2:22|~TYPE2:22
+1051142	EnBW ODR AG		Schwarzwaldstraße 45	72149	Neustetten	48.481712	8.876149	1			~TYPE2:22|~TYPE2:22
+1051169	EnBW ODR AG		Eugen-Bolz-Straße bei Hs. 2	78554	Aldingen	48.093663	8.701048	1			~TYPE2:22|~TYPE2:22
+1051170	EnBW ODR AG		Eugen-Bolz-Straße bei Hs. 2	78554	Aldingen	48.093627	8.700919	1			~TYPE2:22|~TYPE2:22
+1054824	Aral Pulse		Stuttgarter Straße 30	72172	Sulz am Necker	48.367000	8.636628	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055184	Aral Pulse		Bildechinger Steige 64	72160	Horb am Neckar	48.455575	8.699015	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1057989	ALDI SÜD	DON-030	An der Hochbrücke 2	78727	Oberndorf am Neckar	48.294615	8.576581	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23029~CCS2:50|DE*ALD*E23030~CCS2:50
+1057992	ALDI SÜD	DON-038	Carl-Friedrich-Benz-Str. 22	78073	Bad Dürrheim	48.032210	8.527670	1		Keine Beschränkung	DE*ALD*E23192~CCS2:50|DE*ALD*E23193~CCS2:50
+1060277	Pluq		Römerstraße 29	72379	Hechingen-Stein	48.371817	8.938572	1			~TYPE2:22|~TYPE2:22
+1061466	naturenergie		Deißlinger Str. 1	78083	Dauchingen	48.091639	8.555445	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1062587	ecowerk e-charge GmbH	swt - Merowingerstraße 7 - Bühl	Merowingerstr. 7	72072	Tübingen	48.481129	8.993751	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062622	Hafengarage	Autohaus Kutter DC	Neuffenstr. 7	78056	Villingen-Schwenningen	48.063685	8.554106	1	24/7	Keine Beschränkung	DE*ONE*EJW66~CCS2:50|DE*ONE*EUKP4~CCS2:50|DE*ONE*EU3BS~TYPE2:22|DE*ONE*ER27U~TYPE2:22
+1064054	Kaufland	3950_Kland_Hechingen_T53-HU1-4217-006	Gammertinger Str. 42-44	72379	Hechingen	48.354518	8.975540	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064078	Kaufland	8930_Kland_Bad Dürrheim_T53-HU1-4617-010	Dieselstr. 1	78073	Bad Dürrheim	48.029820	8.524958	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064093	Kaufland	4010_Kland_Zimmern_T53-HU1-4217-003	Raiffeisenstr. 2-4	78658	Zimmern ob Rottweil	48.170971	8.576487	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064135	Kaufland	5290_Kland_Rottweil_T53-HU1-1618-013	Saline 5	78628	Rottweil	48.148896	8.639490	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064189	Kaufland	4020_Kland_Rottenburg_T54-IT1-1922-245	Tübinger Str. 2	72108	Rottenburg am Neckar	48.472917	8.936088	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064249	Kaufland		Obere Wiesen 1	78549	Spaichingen	48.068660	8.749830	1			~TYPE2:11|~CCS2:60|~CCS2:60
+1064280	Kaufland	8330_Kland_Hechingen_T65-IT1-3922-071	Kaullastr. 1	72379	Hechingen	48.374100	8.961040	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064312	Kaufland	7650_KLAND_T24-IT1-4022-086	Bahnhofplatz 15	72160	Horb am Neckar	48.441470	8.686070	1		Keine Beschränkung	~TYPE2:22|~CCS2:40+CHADEMO:40
+1065162	SMATRICS GmbH & Co KG		Heinzlenstraße 30	72336	Balingen	48.270206	8.853970	1			~CCS2:150|~CCS2:150
+1065163	SMATRICS GmbH & Co KG		Wasserwiesen 37	72336	Balingen	48.256865	8.852470	1			~CCS2:150|~CCS2:150
+1065164	SMATRICS GmbH & Co KG		Leibbrandstraße 1	72336	Balingen	48.244531	8.877437	1			~CCS2:150|~CCS2:150
+1065369	E.ON Drive Infrastructure		Schwenninger Str. 38	78073	Bad Dürrheim	48.035124	8.532295	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1065918	Team-Emobility GmbH		Geschwister Schollstr. 22	72160	Horb am Neckar	48.452380	8.696980	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065925	Team-Emobility GmbH		Saline 8	78628	Rottweil	48.147588	8.639508	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065949	Team-Emobility GmbH		Lange Str. 23	72336	Balingen	48.260826	8.850439	1		Nur für Kunden/Besucher	~CCS2:39|~TYPE2:11|~CCS2:39|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065952	Team-Emobility GmbH		Lange Str. 45	72336	Balingen	48.258340	8.850268	1		Nur für Kunden/Besucher	~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065985	Team-Emobility GmbH		Auf Herdenen 2	78052	Villingen Schwenningen	48.076561	8.500247	1			~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066917	Autohaus Harich GmbH & Co.KG		Neue Balinger Str. 19	72336	Balingen- Ostdorf	48.299269	8.845206	1			~CCS2:22|~TYPE2:11
+1068239	U. & B. Eiermann GbR		Freizeitweg 13	72280	Dornstetten	48.480694	8.500500	1			~TYPE2:22|~TYPE2:22
+1069174	Elektro Enslin GmbH		Industriestr. 14	78532	Tuttlingen	48.007730	8.852710	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069175	Elektro Enslin GmbH		Industriestr. 14	78532	Tuttlingen	48.007750	8.852560	1			~TYPE2:22|~TYPE2:22
+1069176	Elektro Enslin GmbH		Industriestr. 14	78532	Tuttlingen	48.007520	8.852360	1			~TYPE2:22
+1069177	Elektro Enslin GmbH		Industriestr. 14	78532	Tuttlingen	48.007650	8.852470	1			~TYPE2:22
+1069180	Elektro Enslin GmbH		Bräunisbergstr. 39	78532	Tuttlingen	48.008510	8.855500	1			~TYPE2:22|~TYPE2:22
+1069181	Elektro Enslin GmbH		Bräunisbergstr. 39	78532	Tuttlingen	48.008440	8.855550	1			~TYPE2:22
+1069233	Gemeinde Deilingen	Stellplatz Rathaus	Hauptstraße 1	78586	Deilingen	48.177210	8.783660	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1069400	Hirsch-Brauerei Honer GmbH & Co. K		Friedrichstr. 34	78573	Wurmlingen	48.005830	8.778370	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1070074	deer GmbH	Waldachtal-Lützenhardt, Rathaus	Waldachstr. 10/1	72178	Waldachtal	48.487009	8.565863	1	24/7	Keine Beschränkung	DE*753*E00436*001~TYPE2:22|DE*753*E00436*002~TYPE2:22|DE*753*E00437*001~TYPE2:22|DE*753*E00437*002~TYPE2:22
+1071368	cocharge		In der Au 76	78628	Rottweil	48.171016	8.636622	1	24/7	Keine Beschränkung	DECOC7862801~TYPE2:22
+1071374	deer GmbH		Rathausstr. 2	78658	Zimmern ob Rottweil	48.169207	8.594695	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074200	Stromversorgung Sulz am Neckar GmbH		Am Schindergraben 1	72172	Sulz a.N.	48.363700	8.638540	1			~TYPE2:22|~TYPE2:22
+1074201	Stromversorgung Sulz am Neckar GmbH		Bahnhofstraße 40	72172	Sulz a.N.	48.366560	8.638250	1			~TYPE2:22|~TYPE2:22
+1074202	Stromversorgung Sulz am Neckar GmbH		Hirschstraße 11	72172	Sulz a.N.	48.361900	8.630390	1			~TYPE2:22|~TYPE2:22
+1074203	Stromversorgung Sulz am Neckar GmbH		Jahnstraße 5	72172	Sulz a.N.	48.358700	8.623190	1			~TYPE2:22|~TYPE2:22
+1074204	Stromversorgung Sulz am Neckar GmbH		Ludwigstraße 11	72172	Sulz a.N.	48.365490	8.636650	1			~TYPE2:22|~TYPE2:22
+1074205	Stromversorgung Sulz am Neckar GmbH		Ludwigstraße 16	72172	Sulz a.N.	48.363980	8.636890	1			~TYPE2:22|~TYPE2:22
+1074206	Stromversorgung Sulz am Neckar GmbH		Sonnenstraße 11	72172	Sulz a.N.	48.363100	8.631850	1			~TYPE2:22|~TYPE2:22
+1074207	Stromversorgung Sulz am Neckar GmbH		Weilerstraße 80	72172	Sulz a.N.	48.356630	8.618600	1			~TYPE2:22|~TYPE2:22
+1075192	Stadtverwaltung Meßstetten		Bolgasse 11	72469	Meßstetten	48.179958	8.962403	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1075788	Elektrohaus Bühler GmbH		Blütenweg 13	72351	Geislingen	48.298580	8.768210	1			~TYPE2:22+TYPE2_TETHERED:22
+1075957	Kai Schuppler		Marienburgerstrasse 18	72336	Balingen	48.286606	8.854571	1			~TYPE2:11+TYPE2_TETHERED:11
+1076006	Erhard Gfrörer & Sohn Schotterwerk GmbH & Co. KG		Rotwiesen 1	72186	Empfingen	48.398090	8.698690	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076030	Sparkasse Zollernalb		Gratweg 0	72336	Balingen	48.275839	8.851807	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076126	Autohaus Dehner GmbH		Wasserwiesen 13	72336	Balingen	48.260680	8.852110	1			~TYPE2:11|~CCS2:22|~TYPE2:22|~CCS2:50
+1076127	Autohaus Dehner GmbH		Wasserwiesen 13	72336	Balingen	48.260749	8.852038	1			~TYPE2:22|~CCS2:50
+1076185	Zollernenergie		Zollernstraße 17	72189	Vöhringen	48.313242	8.637984	1			~TYPE2:11+TYPE2_TETHERED:11
+1076202	Stadtwerke Hechingen		Zollernstraße 4	72379	Hechingen	48.349314	8.962343	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076203	Stadtwerke Hechingen		Zollernstraße 4	72379	Hechingen	48.349321	8.962375	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076712	Regioladen+		Auf der Lehr 1	78054	Villingen-Schwenningen	48.066528	8.535611	1	24/7	Keine Beschränkung	~CHADEMO:50+CCS2:50|~TYPE2:22
+1076713	Regioladen+		Dürrheimer Straße 0	78054	Villingen-Schwenningen	48.045944	8.537139	1	24/7	Keine Beschränkung	~CHADEMO:50+CCS2:50|~TYPE2:22
+1076719	Regioladen+		Lupfenstraße 40	78056	Villingen-Schwenningen	48.059929	8.555443	1			~TYPE2:22|~TYPE2:22
+1076720	Regioladen+		Neckarstraße 30	78056	Villingen-Schwenningen	48.059920	8.537757	1			~TYPE2:22|~TYPE2:22
+1076721	Regioladen+		Harzerstraße 8	78054	Villingen-Schwenningen	48.062515	8.532867	1			~TYPE2:22|~TYPE2:22
+1076729	Regioladen+		Sturmbühlstraße 129	78054	Villingen-Schwenningen	48.065726	8.525749	1			~TYPE2:22|~TYPE2:22
+1076731	Regioladen+		Jakob-Kienzle-Straße 17	78054	Villingen-Schwenningen	48.061503	8.534839	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1076736	Regioladen+		Alfons-Käfer-Straße 15	78056	Villingen-Schwenningen	48.058190	8.604760	1			~TYPE2:22|~TYPE2:22
+1076737	Regioladen+		Wilhelm-Becker-Straße 17	78052	Villingen-Schwenningen	48.094870	8.500390	1			~TYPE2:22|~TYPE2:22
+1076742	Regioladen+		Mauthestraße 7-9	78052	Villingen-Schwenningen	48.055020	8.528090	1			~TYPE2:22|~TYPE2:22
+1076743	Regioladen+		Mühlbachstraße 4	78056	Villingen-Schwenningen	48.054080	8.581880	1			~TYPE2:22|~TYPE2:22
+1077289	EnBW mobility+ AG und Co.KG		Rottenburger Str. 3	72411	Bodelshausen	48.396600	8.971380	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1077827	Stadtwerke Horb	Parkhaus Marktplatz	Wintergasse 13	72160	Horb am Neckar	48.445299	8.688930	1	24/7	Keine Beschränkung	DE*ISE*EA124226~TYPE2:22|DE*ISE*EA122348~TYPE2:22
+1077828	Stadtwerke Horb		Dammstr. 8	72160	Horb am Neckar	48.442851	8.688346	1	24/7	Keine Beschränkung	DE*ISE*EA199764~TYPE2:22|DE*ISE*EA198511~TYPE2:22
+1077829	Stadtwerke Horb		Am Garnisonsplatz 2	72160	Horb am Neckar	48.453083	8.698000	1	24/7	Keine Beschränkung	DE*ISE*EA114544~TYPE2:22|DE*ISE*EA123313~TYPE2:22
+1077830	Stadtwerke Horb		Am Garnisonsplatz 2	72160	Horb am Neckar	48.453139	8.697889	1	24/7	Keine Beschränkung	DE*ISE*EA197971~TYPE2:22|DE*ISE*EA178797~TYPE2:22
+1080661	Thomas Maier		Lichtenstein 15	72160	Horb-Betra	48.410770	8.661195	1			~TYPE2:11+SCHUKO:11
+1080903	MDTech Elektro- & Sicherheitstechnik		Neue Gasse 3	78056	Villingen-Schwenningen	48.060342	8.606299	1			~TYPE2:22|~TYPE2:22
+1083985	Autohaus Wehle e.K.		Freudenstädter Straße 25	72178	Waldachtal	48.490300	8.599530	1			~CCS2:50|~TYPE2:22
+1084590	Alwin Rist		Wilhelm-Jerger-Straße 45321	78078	Niedereschach	48.122693	8.533875	1			~TYPE2:11
+1084596	Ament Peter & Daub Jasmin GbR		Hauptstraße 66	72336	Balingen	48.235006	8.856652	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1084627	Andreas Bauer		Untere Gärten 33	72149	Neustetten	48.483946	8.889986	1			~TYPE2_TETHERED:11
+1084633	Andreas Cornelius		Buchenweg 8	78056	Villingen-Schwenningen	48.072710	8.541740	1			~TYPE2_TETHERED:11
+1084665	Andreas Maier		Rottweiler Straße 35	78652	Deißlingen	48.116526	8.608457	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11
+1084821	Autohaus Klaiber gmbH		Steigäcker 4	78582	Balgheim	48.066779	8.765814	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11|~CCS2:22|~TYPE2:22|~CCS2:50
+1084914	Beate Maria Hautmann		Schillerstraße 4	72406	Bisingen	48.312143	8.921316	1			~TYPE2_TETHERED:11
+1085021	Britta Pohlmann		Vordere Gasse 3	72108	Rottenburg am Neckar	48.464073	8.916337	1			~TYPE2_TETHERED:11
+1085188	Christoph Ziebell		Ebersbergstraße 31	72406	Bisingen	48.301768	8.938691	1			~TYPE2_TETHERED:22
+1085795	Georg-Friedrich Schwarz		Bräuhausstraße 2	72401	Haigerloch	48.343360	8.774616	1			~TYPE2:11
+1086533	Kronen-Apotheke		Ahornweg 4	78609	Tuningen	48.031524	8.597929	1			~TYPE2:11
+1086698	Marco Alber		Wacholderstraße 35	72364	Obernheim	48.168160	8.865801	1			~TYPE2_TETHERED:11
+1086815	Markus Rampf		Max-Eyth-Straße 6	72178	Waldachtal	48.477670	8.578130	1			~TYPE2:11
+1087021	Michael Makurath		Fuchsbühlstraße 6	78606	Seitingen-Oberflacht	48.024269	8.730632	1			~TYPE2:11
+1087190	Nusret Köse		Schellenbergstraße 3	72178	Waldachtal	48.487319	8.570321	1			~TYPE2:11
+1089940	Unternehmensgruppe fischer GmbH & Co.KG	Parkplatz Kunststoffverarbeitung Gebäude H1	Klaus-Fischer-Str. 1	72178	Waldachtal	48.473922	8.581924	1		Nur für Kunden/Besucher	~TYPE2:11+TYPE2:11|~TYPE2:11+TYPE2:11|~TYPE2:11+TYPE2:11|~TYPE2:11+TYPE2:11
+1090790	SolarProfi-Martin		Max-Planck-Str 35	78549	Spaichingen	48.065881	8.750589	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090955	SWTro	Ernst-Haller-Str. 4, Trossingen, P1+P2	Ernst-Haller-Str. 1	78647	Trossingen	48.072809	8.634946	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0111~TYPE2:22|DE*GUC*E*BEC*0112~TYPE2:22
+1091210	Oel-Heimburger GmbH		Krankenhausstraße 12	78628	Rottweil	48.163856	8.617208	1			~TYPE2:22|~TYPE2:22
+1091306	Hotel Aurelia		Hauptstr. 11-13	78554	Aldingen	48.094677	8.701995	1			~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1091307	Hotel Aurelia		Hauptstr. 11-13	78554	Aldingen	48.095087	8.701979	1			~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1091411	Stadtwerke Rottenburg am Neckar GmbH	Parkdeck Rathaus (Obere Gasse)	Obere Gasse 12	72108	Rottenburg am Neckar	48.477962	8.932786	1		Keine Beschränkung	DE*TUE*EB0016*001~TYPE2:11
+1091412	Stadtwerke Rottenburg am Neckar GmbH		Jahnstraße 9	72108	Rottenburg am Neckar	48.482459	8.937739	1			~TYPE2:22|~TYPE2:22
+1091413	Stadtwerke Rottenburg am Neckar GmbH		Nobelstraße 7	72108	Rottenburg am Neckar	48.498331	8.817952	1			~TYPE2:22|~TYPE2:22
+1091414	Stadtwerke Rottenburg am Neckar GmbH		Seebronner Straße 50	72108	Rottenburg am Neckar	48.487677	8.936424	1			~TYPE2:22|~TYPE2:22
+1091415	Stadtwerke Rottenburg am Neckar GmbH		Siebenlindenstr. 19	72108	Rottenburg am Neckar	48.473162	8.950372	1			~TYPE2:22|~TYPE2:22
+1091416	Stadtwerke Rottenburg am Neckar GmbH		Schütte 12	72108	Rottenburg am Neckar	48.476060	8.931760	1		Keine Beschränkung	DE*TUE*EB0021*001~TYPE2:11
+1091417	Stadtwerke Rottenburg am Neckar GmbH		Sprollstr. 6	72108	Rottenburg am Neckar	48.478518	8.936627	1		Keine Beschränkung	DE*TUE*EB0019*001~TYPE2:22
+1092925	Eugen Forschner GmbH		Max-Planck-Str. 14	78549	Spaichingen	48.066950	8.738200	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1093087	Elektrizitätswerk Karl Stengle GmbH & Co. KG		Marienbergstraße 2	72108	Rottenburg	48.456805	8.900715	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1093088	Elektrizitätswerk Karl Stengle GmbH & Co. KG		Hechinger Straße 10	72414	Rangendingen	48.380859	8.888019	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1093089	Elektrizitätswerk Karl Stengle GmbH & Co. KG		Küferstraße 16	72145	Hirrlingen	48.414589	8.896624	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1093565	Bucher Stahlhandel GmbH		Albring 81	78658	Zimmern o.R.	48.164740	8.570775	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093567	Bucher Stahlhandel GmbH		Albring 81	78658	Zimmern o.R.	48.164814	8.570796	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093774	Pfalzwerke AG		Kirschbäumle 1	72160	Horb am Neckar	48.458591	8.695819	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1096436	Auto Grammer e.K.		Gosbertstraße 24	72108	Rottenburg am Neckar	48.495267	8.813754	1			~CCS2:22|~TYPE2:11
+1096444	auto holweger GmbH & Co. KG		Bickelsberger Str. 34/1	72348	Rosenfeld	48.286667	8.717971	1			~CCS2:22|~TYPE2:11
+1096693	Autohaus Grossmann GmbH & Co. KG		Austraße 51	78727	Oberndorf am Neckar	48.280302	8.591867	1			~CCS2:22|~TYPE2:11
+1096713	Autohaus Harich GmbH & Co.KG		Neue Balinger Straße 19	72336	Balingen	48.299435	8.845514	1			~CCS2:22|~TYPE2:11
+1096780	Autohaus Klaiber gmbH		Steigäcker 0	78582	Balgheim	48.063251	8.767309	1			~CCS2:22|~TYPE2:11|~TYPE2:22|~CCS2:50
+1096836	Autohaus Leiber GmbH & Co. KG		In Steppach 9-11	78647	Trossingen	48.075977	8.623981	1			~CCS2:22|~TYPE2:11
+1097227	Autowelt Schuler GmbH		Talstraße 1-7	78658	Zimmern ob Rottweil	48.147891	8.549643	1			~CCS2:22|~TYPE2:11
+1097257	Edel GmbH & Co.KG		Bellinostraße 6	72108	Rottenburg am Neckar	48.474523	8.948860	1			~TYPE2:11|~CCS2:22
+1097278	Erich Kronenbitter e.K.		Stadionstraße 1	72160	Horb am Neckar	48.441571	8.680929	1			~CCS2:22|~TYPE2:11
+1097420	Karsch GmbH		Otto-Hahn-Straße 1	72406	Bisingen	48.323786	8.907929	1	24/7	Keine Beschränkung	~CCS2:75|~TYPE2:22
+1097623	Flad		Königsheimer Str. 4	78585	Bubsheim	48.115045	8.833044	1	24/7	Keine Beschränkung	DECPIE6752635*1~TYPE2_TETHERED:22|DECPIE6752635*2~TYPE2_TETHERED:22|DECPIE6752695*1~TYPE2_TETHERED:22|DECPIE6752695*2~TYPE2_TETHERED:22|DECPIE6752605*1~TYPE2:22|DECPIE6752605*2~TYPE2:22
+1097680	Eugen Forschner GmbH		Max-Planck-Str. 14	78549	Spaichingen	48.067390	8.738240	1	24/7	Keine Beschränkung	DE*ONE*EZBN8~TYPE2_TETHERED:11|DE*ONE*E2LBR~TYPE2_TETHERED:11
+1102320	Gesellschaft für Verhaltensmedizin und Gesundheitsforschung (GVG AG)		Luisenstraße 56	78073	Bad Dürrheim	48.013570	8.545013	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1102391	Uhren Technik Schwarzwald Montageservice GmbH		Emil-Maier-Str. 3	78655	Dunningen	48.221814	8.501519	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102427	Spark Charging Solutions GmbH		Oberdorfstraße 42	78054	Villingen-Schwenningen	48.063017	8.527684	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103980	Rainer Himmelsbach		Am Käppele 17	72184	Eutingen im Gäu	48.462356	8.790845	1			~TYPE2_TETHERED:22
+1104030	Ulrich Willuhn		Jahnstr. 32	72184	Eutingen im Gäu	48.457232	8.797281	1			~TYPE2:11
+1104226	Manuel Kehle		Heerstr. 145	78628	Rottweil	48.160184	8.618666	1			~TYPE2:22
+1106291	Markus Huber		Mühlheimer Str. 97	78532	Tuttlingen	48.006230	8.863390	1	24/7	Nur für Kunden/Besucher	~TYPE2:22
+1110326	Stadtwerke Balingen		Am Lindle 0	72336	Balingen	48.276063	8.850286	1			~TYPE2:22|~TYPE2:22
+1110327	Stadtwerke Balingen		Charlottenstraße 25	72336	Balingen	48.272975	8.856049	1			~TYPE2:22|~TYPE2:22
+1110328	Stadtwerke Balingen		Stingstraße 17	72336	Balingen	48.272666	8.853580	1			~TYPE2:22|~TYPE2:22
+1110329	Stadtwerke Balingen		Friedrichstraße 0	72336	Balingen	48.271290	8.850812	1			~TYPE2:22|~TYPE2:22
+1110330	Stadtwerke Balingen		Alte Hechinger Str. 10	72336	Balingen	48.275275	8.852796	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110334	Stadtwerke Balingen		Bahnhofstraße 2	72336	Balingen	48.277620	8.850350	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1110339	Stadtwerke Balingen	Tübinger Str. 68 #268A	Tübinger Str. 68	72336	Balingen	48.280247	8.858608	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1110340	Stadtwerke Balingen	Tübinger Str. 68 #269A	Tübinger Str. 68	72336	Balingen	48.280505	8.858472	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1112720	Emil Löffelhardt GmbH & Co. KG		Kohlplattenstraße 11	72459	Albstadt	48.212350	8.945056	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113249	Regioladen+		Auf Rinelen 15	78056	Villingen-Schwenningen	48.073199	8.539953	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113252	Regioladen+		Grabenäckerstr. 47	78054	Villingen-Schwenningen	48.061089	8.509926	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113256	Regioladen+		Rietenstr. 64	78054	Villingen-Schwenningen	48.054268	8.519327	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113259	Regioladen+		Sindelfinger Str. 4	78054	Villingen-Schwenningen	48.072161	8.527514	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113497	InterTranspo		Marktstr. 11	72469	Meßstetten	48.199962	8.877066	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113498	InterTranspo		Marktstr. 11	72469	Meßstetten	48.199933	8.877050	1			~TYPE2:22|~TYPE2:22
+1113499	InterTranspo		Rathausgasse 4	72469	Meßstetten	48.199143	8.878330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113500	Interstuhl		Brühlstr. 21	72469	Meßstetten	48.196665	8.879539	1			~CCS2:75|~CCS2:75|~TYPE2:22|~TYPE2:22
+1113501	Interstuhl		Brühlstr. 21	72469	Meßstetten	48.196772	8.879571	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113502	Interstuhl		Brühlstr. 21	72469	Meßstetten	48.196679	8.879593	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113563	Mey GmbH & Co.KG		Auf Steingen 6	72459	Albstadt	48.214575	8.948846	1			~TYPE2:11|~TYPE2:22
+1113731	Autohaus Riess GmbH		Max.Blank- Str. 16	78549	Spaichingen	48.067027	8.740696	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113974	Onstmettinger Bank eG	Parkplatz	Heidelbergstr. 5	72406	Bisingen	48.311686	8.916397	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1114658	Günter Ott - Ihre Gebäudereinigung e.K. Inh. Thomas Ott		Bergäckerstraße 34	72160	Horb am Neckar	48.490180	8.654810	1			~TYPE2_TETHERED:22
+1114659	Günter Ott - Ihre Gebäudereinigung e.K. Inh. Thomas Ott		Bergäckerstraße 36	72160	Horb am Neckar	48.490091	8.654599	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1116818	Shell Deutschland GmbH	10026931_Empfingen	Robert-Bosch-Str. 25	72186	Empfingen	48.386695	8.722480	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1116820	Shell Deutschland GmbH	10026931_Empfingen	Robert-Bosch-Str. 25	72186	Empfingen	48.386616	8.722443	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1116887	Team-Emobility GmbH		Weberstr. 13	72160	Horb	48.456800	8.697091	1		keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:11|~CCS2:50|~TYPE2:11|~CCS2:50|~TYPE2:11|~CCS2:50|~TYPE2:22
+1117859	Tesla Germany GmbH		Eythstr. 16	72189	Vöhringen	48.343506	8.663626	1	24/7	Keine Beschränkung	DE*TSL*E0V59R5~CCS2:250|DE*TSL*E0V59UQ~CCS2:250|DE*TSL*E0V5A1U~CCS2:250|DE*TSL*E0V5AJC~CCS2:250|DE*TSL*E0V5AVP~CCS2:250|DE*TSL*E0V5B0O~CCS2:250|DE*TSL*E000ZA3~CCS2:250|DE*TSL*E000ZA1~CCS2:250|DE*TSL*E000ZA5~CCS2:250|DE*TSL*E000Z9Z~CCS2:250|DE*TSL*E000Z9V~CCS2:250|DE*TSL*E000Z9X~CCS2:250
+1117972	deer GmbH		Heselwiesenstr. 17	72280	Dornstetten	48.470010	8.501358	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1117984	Lidl	6840_Lidl_Meßstetten_T65-IT1-4624-002	Im Grund 4	72469	Meßstetten	48.178410	8.955480	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1118102	Parkraumgesellschaft Baden-Württemberg GmbH		Florianstr. 15	72160	Horb am Neckar	48.445877	8.696788	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118842	EnBW mobility+ AG und Co.KG		Dornstetter Str. 21	72296	Schopfloch	48.459441	8.546145	1		Keine Beschränkung	~CCS2:75|~CCS2:75
+1120095	Stadtwerke Balingen	P+R Klausenweg 22	Klausenweg 22	72336	Balingen	48.276647	8.858606	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1120622	deer GmbH	Rottweil, Parkplatz Spital	Nägelesgrabenstr. 25	78628	Rottweil	48.168335	8.619661	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121096	EnBW mobility+ AG und Co.KG		Im Auchtert 10	72186	Empfingen	48.386100	8.720490	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1121632	Citywatt GmbH		Zollhäusleweg 5	78052	Villingen-Schwenningen	48.040146	8.507565	1	24/7	Keine Beschränkung	DE*CIW*E001516~CCS2:300|DE*CIW*E001414~TYPE2_TETHERED:22|DE*CIW*E001515~CCS2:300
+1126145	Kath. Spitalstiftung Horb		Gutermannstr. 11	72160	Horb am Neckar	48.445919	8.691104	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1126220	Lidl	6851_Lidl_Spaichingen_T65-IT1-0425-009	Hauptstr. 31	78549	Spaichingen	48.070220	8.746790	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1127315	EnBW mobility+ AG und Co.KG		Carl-Friedrich-Benz-Str. 26	78073	Bad Dürrheim	48.032480	8.527130	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1128303	Stadtverwaltung Bad Dürrheim	Ladestation Bad Dürrheim Luisenstraße	Luisenstr. 40	78073	Bad Dürrheim	48.015148	8.539880	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1128304	Stadtverwaltung Bad Dürrheim	Ladestation Bad Dürrheim Am Salinensee	Am Salinensee 2	78073	Bad Dürrheim	48.028052	8.532175	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1128326	Stadtverwaltung Bad Dürrheim	Ladestation Sunthausen	Am Steigle 1	78073	Bad Dürrheim	48.004223	8.583264	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1128327	Stadtverwaltung Bad Dürrheim	Ladestation Hochemmingen	Bergweg 6	78073	Bad Dürrheim	48.031212	8.566949	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1128703	ibcompany	HOH	Hartensteinstr. 29	72172	Sulz am Neckar	48.352606	8.631021	1	24/7	Keine Beschränkung	DE*IBC*E100098*001~TYPE2:22|DE*IBC*E100098*002~TYPE2:22|DE*IBC*E10099*001~TYPE2:22
+1129047	Wohnbau Balingen	Rossnägele	Im Roßnägele 11	72336	Balingen	48.271429	8.853446	1	24/7	Keine Beschränkung	DE*ONE*EJ7WY~TYPE2:11|DE*ONE*EKSX8~TYPE2:11
+1129339	Stadtverwaltung Bad Dürrheim	Ladestation Feriendorf Öfingen	Feriendorf 1	78073	Bad Dürrheim	48.027847	8.526253	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1129341	Stadtverwaltung Bad Dürrheim	Ladestation Bad Dürrheim Luisenstraße	Luisenstr. 40	78073	Bad Dürrheim	48.015132	8.539838	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1129344	Stadtverwaltung Bad Dürrheim	Ladestation Bad Dürrheim Am Salinensee	Am Salinensee 2	78073	Bad Dürrheim	48.028046	8.532117	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1130475	EnBW mobility+ AG und Co.KG		Lange Str. 24	72336	Balingen	48.259586	8.849414	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1131438	ADS-TEC Energy Service GmbH		Daimlerstr. 2	72411	Bodelshausen	48.386477	8.980763	1	24/7	Nur für Kunden/Besucher	DEAESS0001~CCS2:300|DEAESE000102~CCS2:300
+1133528	EnBW ODR AG		Nägelesgrabenstr. 25	78628	Rottweil	48.168346	8.620062	1	24/7	Keine Beschränkung	DE*ODR*E2000*0067~TYPE2:22|DE*ODR*E2000*0068~TYPE2:22|DE*ODR*E2000*0069~TYPE2:22|DE*ODR*E2000*0070~TYPE2:22|DE*ODR*E2000*0071~TYPE2:22|DE*ODR*E2000*0072~TYPE2:22|DE*ODR*E2000*0073~TYPE2:22|DE*ODR*E2000*0074~TYPE2:22
+1136932	EnBW ODR AG		Kirchstr. 32	72411	Bodelshausen	48.395719	8.965938	1	24/7	Keine Beschränkung	DE*ODR*E2000*0055~TYPE2:22|DE*ODR*E2000*0056~TYPE2:22
+1136934	EnBW ODR AG		Am Burghof 8	72411	Bodelshausen	48.395418	8.971308	1	24/7	Keine Beschränkung	DE*ODR*E2000*0057~TYPE2:22|DE*ODR*E2000*0058~TYPE2:22
+1136935	EnBW ODR AG		Oberwiesenstr. 18	72411	Bodelshausen	48.388516	8.979256	1	24/7	Keine Beschränkung	DE*ODR*E2000*0059~TYPE2:22|DE*ODR*E2000*0060~TYPE2:22
+1136936	EnBW ODR AG		Bahnhofstr. 127	72411	Bodelshausen	48.383430	8.990589	1	24/7	Keine Beschränkung	DE*ODR*E2000*0061~TYPE2:22|DE*ODR*E2000*0062~TYPE2:22
+1136937	EnBW ODR AG		Gerstlaich 1	72411	Bodelshausen	48.397729	8.977459	1	24/7	Keine Beschränkung	DE*ODR*E2000*0063~TYPE2:22|DE*ODR*E2000*0064~TYPE2:22
+1139332	Matthias und Stefan Keller	Hestri 1	Haslenstr. 1	78662	Bösingen	48.236082	8.562088	1	24/7	Keine Beschränkung	DE*110*E737686*358~CCS2:22
+1139406	EnBW mobility+ AG und Co.KG	BMW ahg Rottweil	Saline 8	78628	Rottweil	48.147671	8.639339	1	24/7	Keine Beschränkung	DE*EBW*E910118*1~CCS2:72|DE*EBW*E910118*2~CCS2:72
+1139430	EnBW mobility+ AG und Co.KG	dm Dotternhausen	Robert-Koch-Straße 5	72359	Dotternhausen	48.232609	8.794298	1	24/7	Keine Beschränkung	DE*EBW*E910182*1~CCS2:93|DE*EBW*E910182*2~CCS2:93
+1139487	EnBW mobility+ AG und Co.KG	BMW ahg Horb am Neckar	Weberstraße 13	72160	Horb am Neckar	48.456856	8.695812	1	24/7	Keine Beschränkung	DE*EBW*E910125*1~CCS2:72|DE*EBW*E910125*2~CCS2:72
+1139582	E.ON Drive GmbH		Gottlieb-Daimler-Str. 2	72355	Schömberg	48.205037	8.759920	1		Keine Beschränkung	DE*NIS*E11000384*1~TYPE2:22|DE*NIS*E11000384*2~TYPE2:22
+1140106	Team-Emobility GmbH		Schuhstrasse 77	72108	Rottenburg am Neckar	48.480331	8.949768	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1140130	Team-Emobility GmbH		Kohlplattenstr. 11	72459	Albstadt	48.212357	8.945056	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1140229	Bürgermeister	Kinderhaus Fantadu	Vollmaringer Weg 7	72184	Eutingen im Gäu	48.480713	8.748658	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1143161	Pariamus	Parkhaus Rottweil	Kaiserstr. 19	78628	Rottweil	48.163481	8.627445	1	24/7	Keine Beschränkung	DE*PAR*E1829901~TYPE2:22|DE*PAR*E1829902~TYPE2:22|DE*PAR*E1829903~TYPE2:22|DE*PAR*E1829904~TYPE2:22|DE*PAR*E1829905~TYPE2:22|DE*PAR*E1829906~TYPE2:22|DE*PAR*E1829907~TYPE2:22|DE*PAR*E1829908~TYPE2:22|DE*PAR*E1829909~TYPE2:11
+1143754	SWTro	Achauer Str. 45/2, Trossingen, Säule links, P1	Achauerstr. 45/2	78647	Trossingen	48.069342	8.631395	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0195~TYPE2:22|DE*GUC*E*BEC*0196~TYPE2:22|DE*GUC*E*BEC*0197~TYPE2:22|DE*GUC*E*BEC*0198~TYPE2:22
+1143756	SWTro	Auf Nordfeld 11, Trossingen, Säule links	Auf Nordfeld 11	78647	Trossingen	48.085591	8.648544	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0219~TYPE2:22|DE*GUC*E*BEC*0220~TYPE2:22
+1143757	SWTro	Auf Nordfeld 11, Trossingen, Säule rechts	Auf Nordfeld 11	78647	Trossingen	48.085562	8.648582	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0221~TYPE2:22|DE*GUC*E*BEC*0222~TYPE2:22
+1143758	SWTro	Christian-Messner-Straße 2, Trossingen, P1+P2	Christian-Messner-Str. 2	78647	Trossingen	48.072388	8.631365	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0105~TYPE2:22|DE*GUC*E*BEC*0106~TYPE2:22|DE*GUC*E*BEC*0107~TYPE2:22|DE*GUC*E*BEC*0108~TYPE2:22
+1143760	SWTro	Espachstraße 12, Trossingen/ Schura, Säule links	Espachstr. 12	78647	Trossingen	48.052424	8.645800	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0149~TYPE2:22|DE*GUC*E*BEC*0150~TYPE2:22
+1143761	SWTro	Espachstraße 12, Trossingen/ Schura, Säule rechts	Espachstr. 12	78647	Trossingen	48.052425	8.645892	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0151~TYPE2:22|DE*GUC*E*BEC*0152~TYPE2:22
+1143762	SWTro	Hangenstr. 50, Konzerthaus Trossingen, P1+P2	Hangenstr. 50	78647	Trossingen	48.078861	8.628919	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0199~TYPE2:22|DE*GUC*E*BEC*0200~TYPE2:22
+1143763	SWTro	Hangenstr. 50, Konzerthaus Trossingen, P3+P4	Hangenstr. 50	78647	Trossingen	48.078857	8.628992	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0201~TYPE2:22|DE*GUC*E*BEC*0202~TYPE2:22
+1143764	SWTro	Hans-Lenz-Straße 14, Trossingen, Säule links	Hans-Lenz-Str. 14	78647	Trossingen	48.074338	8.638110	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0217~TYPE2:22|DE*GUC*E*BEC*0218~TYPE2:22
+1143765	SWTro	Hans-Lenz-Straße 14, Trossingen, Säule rechts	Hans-Lenz-Str. 14	78647	Trossingen	48.074466	8.637700	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0215~TYPE2:22|DE*GUC*E*BEC*0216~TYPE2:22
+1143766	SWTro	Hugo-Herrmann-Straße 24, Trossingen, Säule links, P1+P2	Hugo-Herrmann-Str. 24	78647	Trossingen	48.084839	8.649928	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0155~TYPE2:22|DE*GUC*E*BEC*0156~TYPE2:22
+1143767	SWTro	Hugo-Herrmann-Straße 24, Trossingen, Säule rechts, P1+P2	Hugo-Herrmann-Str. 24	78647	Trossingen	48.084856	8.649998	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0153~TYPE2:22|DE*GUC*E*BEC*0154~TYPE2:22
+1143768	SWTro	Im Tal 6, Trossingen, Säule links, P1+P2	Im Tal 6	78647	Trossingen	48.076265	8.641695	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0157~TYPE2:22|DE*GUC*E*BEC*0158~TYPE2:22|DE*GUC*E*BEC*0159~TYPE2:22|DE*GUC*E*BEC*0160~TYPE2:22
+1143770	SWTro	Litschlestraße 2, Trossingen, Säule links, P1+P2	Litschlesstr. 2	78647	Trossingen	48.079844	8.629123	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0203~TYPE2:22|DE*GUC*E*BEC*0204~TYPE2:22
+1143771	SWTro	Litschlestraße 2, Trossingen, Säule rechts, P1+P2	Litschlesstr. 2	78647	Trossingen	48.079851	8.629045	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0205~TYPE2:22|DE*GUC*E*BEC*0206~TYPE2:22
+1143772	SWTro	Marktplatz 7, Trossingen, Säule links, P1+P2	Marktplatz 7	78647	Trossingen	48.077077	8.638652	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0207~TYPE2:22|DE*GUC*E*BEC*0208~TYPE2:22|DE*GUC*E*BEC*0209~TYPE2:22|DE*GUC*E*BEC*0210~TYPE2:22
+1143774	SWTro	Tuningerstraße 27, Trossingen, P1+P2	Tuninger Str. 27	78647	Trossingen	48.069874	8.629495	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0144~TYPE2:22|DE*GUC*E*BEC*0145~TYPE2:22|DE*GUC*E*BEC*0146~TYPE2:22|DE*GUC*E*BEC*0147~TYPE2:22
+1144515	deer GmbH	Waldachtal-Tumlingen, Rathaus	Theodor-Heuss-Str. 10	72178	Waldachtal	48.476552	8.576214	1	24/7	Keine Beschränkung	DE*753*E00341*001~TYPE2:22|DE*753*E00341*002~TYPE2:22
+1145494	becharged GmbH	Parkplatz "Martins Pilsbar", Tuningen, Auf dem Platz 14, P1+	Auf dem Platz 14	78609	Tuningen	48.026849	8.601631	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0231~TYPE2:22+SCHUKO:3.6|DE*GUC*E*BEC*0232~TYPE2:22+SCHUKO:3.6
+1146185	ALDI SÜD	AIC-082-01	Gartenstr. 85	72108	Rottenburg am Neckar	48.473380	8.946036	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11303~TYPE2:22|DE*ALD*E11304~TYPE2:22
+1147649	Bucher Stahlhandel GmbH		Albring 25	78658	Zimmern ob Rottweil	48.165392	8.569202	1		Keine Beschränkung	EC9L2~TYPE2:22|E8AN2~TYPE2:22
+1147784	Pfalzwerke AG	D-Netz Rottweil (ALP22541X01764)	Stadionstr. 40	78628	Rottweil	48.158766	8.628653	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01764*01~CCS2:400|DE*PDN*EALP22541X01764*02~CCS2:400
+1147785	Pfalzwerke AG	D-Netz Rottweil (ALP22541X01765)	Stadionstr. 40	78628	Rottweil	48.158712	8.628640	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01765*01~CCS2:400|DE*PDN*EALP22541X01765*02~CCS2:400|DE*PDN*EALP22541X01768*01~CCS2:400|DE*PDN*EALP22541X01768*02~CCS2:400
+1147786	Pfalzwerke AG	D-Netz Rottweil (ALP22541X01766)	Stadionstr. 40	78628	Rottweil	48.158829	8.628563	1	24/7	Keine Beschränkung	DE*PDN*EALP22541X01766*01~CCS2:400|DE*PDN*EALP22541X01766*02~CCS2:400|DE*PDN*EALP22541X01767*01~CCS2:400|DE*PDN*EALP22541X01767*02~CCS2:400
+1148853	Elektrizitätswerk Karl Stengle GmbH & Co. KG	Tubex	Fabrikstr. 1	72414	Rangendingen	48.380498	8.896235	1	24/7	Keine Beschränkung	DEKSTE000401~TYPE2:22|DEKSTE000402~TYPE2:22
+1151135	deer GmbH		Hauptstr. 6	72186	Empfingen	48.397650	8.744898	1	24/7	Keine Beschränkung	DE*753*E00538*001~TYPE2:22|DE*753*E00538*002~TYPE2:22
+1152399	EnBW mobility+ AG und Co.KG	Euronics XXL Rottweil	Tuttlinger Straße 63	78628	Rottweil	48.151005	8.640761	1	24/7	Keine Beschränkung	DE*EBW*E906343*1~CCS2:93|DE*EBW*E906343*2~CCS2:93
+1152626	EnBW mobility+ AG und Co.KG	78727 Oberndorf am Neckar, Sägewerkstraße 6	Sägewerkstraße 6	78727	Oberndorf am Neckar	48.296011	8.575718	1	24/7	Keine Beschränkung	DE*EBW*E907431*1~CCS2:100|DE*EBW*E907431*2~CCS2:100
+1152660	Parkraumgesellschaft Baden-Württemberg GmbH		Eveltstr. 0	72379	Hechingen	48.348954	8.964853	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1152758	Padeffke Hirrlingen	Filiale Hirrlingen	Küferstr. 19	72145	Hirrlingen	48.414530	8.895610	1	24/7	Keine Beschränkung	~CCS2:22
+1152810	Pariamus	Rottweil Parkhaus Süd	Kaiserstr. 19	78628	Rottweil	48.163569	8.626853	1	24/7	Keine Beschränkung	DE*PAR*E1829910~TYPE2:11|DE*PAR*E1829911~TYPE2:11|DE*PAR*E1829912~TYPE2:11|DE*PAR*E1829913~TYPE2:11|DE*PAR*E1829914~TYPE2:11|DE*PAR*E1829915~TYPE2:11|DE*PAR*E1829916~TYPE2:11|DE*PAR*E1829917~TYPE2:11|DE*PAR*E1829918~TYPE2:11|DE*PAR*E1829917~TYPE2:11|DE*PAR*E1829918~TYPE2:11|DE*PAR*E1829915~TYPE2:11|DE*PAR*E1829916~TYPE2:11|DE*PAR*E1829913~TYPE2:11|DE*PAR*E1829914~TYPE2:11|DE*PAR*E1829911~TYPE2:11|DE*PAR*E1829912~TYPE2:11|DE*PAR*E1829910~TYPE2:11
+1153894	Elektrizitätswerk Karl Stengle GmbH & Co. KG	Schützenhaus	Bachstr. 105	72108	Rottenburg am Neckar	48.448060	8.901720	1	24/7	Keine Beschränkung	DEKSTE000501~TYPE2:22|DEKSTE000502~TYPE2:22
+1154203	SCHARR Drive Ladestation	SP Danner's Hotel Löwen	Hauptstr. 91	72175	Dornhan	48.330468	8.533281	1	24/7	Keine Beschränkung	DE*ARR*ESP142*001~TYPE2:11|DE*ARR*ESP142*002~TYPE2:11|DE*ARR*ESP143*001~TYPE2:11|DE*ARR*ESP143*002~TYPE2:11
+1154440	HEIS GmbH	Carport I und II	Steinbeisstr. 4/4	78727	Oberndorf am Neckar	48.295991	8.553274	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E6MGP~TYPE2:11|DE*ONE*EL6Q1~TYPE2:11|DE*ONE*E6MGP~TYPE2:11|DE*ONE*EL6Q1~TYPE2:11
+1154441	HEIS GmbH	Carport VII und VIII	Steinbeisstr. 4/5	78727	Oberndorf am Neckar	48.296270	8.553147	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E3G5N~TYPE2:11|DE*ONE*E15PR~TYPE2:11|DE*ONE*E89FC~TYPE2:11|DE*ONE*E237N~TYPE2:11|DE*ONE*E3G5N~TYPE2:11|DE*ONE*E15PR~TYPE2:11
+1154442	HEIS GmbH	Carport FXS	Franz-Xaver-Singer Str. 2	78727	Oberndorf am Neckar	48.297776	8.558564	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E1BWG~TYPE2:11|DE*ONE*E9Y4B~TYPE2:11
+1154581	HEIS GmbH	Carport III und IV	Steinbeisstr. 4/4	78727	Oberndorf am Neckar	48.296086	8.553225	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E3PWK~TYPE2:11|DE*ONE*E4FXD~TYPE2:11
+1154582	HEIS GmbH	Carport V und VI	Steinbeisstr. 4/4	78727	Oberndorf am Neckar	48.296168	8.553193	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E29FH~TYPE2:11|DE*ONE*EU31X~TYPE2:11
+1154584	HEIS GmbH	Carport XI und XII	Steinbeisstr. 4/5	78727	Oberndorf am Neckar	48.296448	8.553076	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ONE*E1J9G~TYPE2:11|DE*ONE*EDK26~TYPE2:11
+1154863	Bucher Stahlhandel GmbH	Hallenhof	Albring 25	78658	Zimmern ob Rottweil	48.165070	8.570560	1		Keine Beschränkung	E2S4E~TYPE2:22|EFNX4~TYPE2:22|EZH72~TYPE2:22|EUGN4~TYPE2:22|E77LQ~TYPE2:22|EM77N~TYPE2:22|E7TRU~TYPE2:22|E7RPK~TYPE2:22|EASX8~TYPE2:22|E3YAL~TYPE2:22
+1155133	Lauffer	Lauffer Parkplatz	Industriestr. 101	72160	Horb am Neckar	48.464770	8.661295	1	Mo-Sa 06:00-20:00	Keine Beschränkung	DE*CIQ*EDW6BTR2QA8Z2*1~TYPE2_TETHERED:22|DE*CIQ*EFXPSVS1S16Q1*1~TYPE2_TETHERED:22|DE*CIQ*EFG72R4JN6WW8*1~TYPE2_TETHERED:22|DE*CIQ*E8LXYVRKJH9J3*1~TYPE2_TETHERED:22|DE*CIQ*EHIKV1P1M1PKX*1~TYPE2_TETHERED:22|DE*CIQ*EL2WLSUH1V1I2*1~TYPE2_TETHERED:22|DE*CIQ*E3UGWKFAS2A4D*1~TYPE2_TETHERED:22|DE*CIQ*E1STBULU4UWAY*1~TYPE2_TETHERED:22|DE*CIQ*ELBLCJECM6264*1~TYPE2_TETHERED:22|DE*CIQ*EKILW2MGZGZU1*1~TYPE2_TETHERED:22|DE*CIQ*EIXKF4AYLFCWI*1~TYPE2_TETHERED:22|DE*CIQ*EWSJPL7B96A34*1~TYPE2_TETHERED:22|DE*CIQ*E72IDFEA1ZA71*1~TYPE2_TETHERED:22|DE*CIQ*EJT3NGXZE4VEA*1~TYPE2_TETHERED:22|DE*CIQ*EIRSZVW93IUM6*1~TYPE2_TETHERED:22|DE*CIQ*ESUMKAIF4HZT5*1~TYPE2_TETHERED:22|DE*CIQ*EYTDQIMX8FA3K*1~TYPE2_TETHERED:22|DE*CIQ*EWWEIC4D3FYSG*1~TYPE2_TETHERED:22
+1155158	NECKAR LINE ROTTWEIL GmbH & Co. KG	Parkplatz Neckar Line	Berner Feld 79	78628	Rottweil	48.177280	8.629460	1	24/7	Keine Beschränkung	E3VPQ~TYPE2_TETHERED:22|EK4ZN~TYPE2_TETHERED:22|EDH9H~TYPE2_TETHERED:22|EU59J~TYPE2_TETHERED:22|EPY2V~TYPE2_TETHERED:22|E1P6L~TYPE2_TETHERED:22
+1155771	Mainova AG	Mainova DC Rottweil Rewe Schramberger Str	Schramberger Str. 95	78628	Rottweil	48.164772	8.607714	1		Keine Beschränkung	DE*MNV*E4837450*001~CCS2:300|DE*MNV*E4837450*002~CCS2:300
+1156469	Wirelane GmbH	Schneider Vermietung GmBH - Schneider	Madertal 1	72401	Haigerloch	48.367569	8.784444	1		Keine Beschränkung	DE*WLN*ES000407~TYPE2:11|DE*WLN*ES000408~TYPE2:11|DE*WLN*ES000409~TYPE2:11|DE*WLN*ES000410~TYPE2:11
+1157916	Scheerer Logistik GmbH & Co KG		Albertistr. 9	78056	Villingen-Schwenningen	48.069430	8.567340	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1158244	Stadtwerke Horb	Parkhaus Innenstadt	Marktstr. 20	72160	Horb am Neckar	48.444889	8.690806	1	Mo-So 07:00-23:59	Keine Beschränkung	DE*ISE*EA159743~TYPE2:22
+1158245	Stadtwerke Horb	Parkhaus Innenstadt	Neckarstr. 34	72160	Horb am Neckar	48.444556	8.690972	1	Mo-So 07:00-23:59	Keine Beschränkung	DE*ISE*EA165287~TYPE2:22
+1158284	Scheerer Logistik GmbH & Co KG		Albertistr. 9	78056	Villingen-Schwenningen	48.069444	8.567398	1	Mo-Fr 16:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1159429	Gemeinde Deilingen	Sport- und Gemeindehalle	Friedhofstr. 1	78586	Deilingen	48.170132	8.782665	1	24/7	Keine Beschränkung	Ladepunkt 1: NL*LMS*E1812193*1G84716*1 Ladepunkt 2: NL*LMS*E1812193*2G84716*2~TYPE2:22
+1163494	Stadtwerke Rottenburg am Neckar GmbH		Rottenburger Str. 26	72108	Rottenburg am Neckar	48.483900	8.913200	1		Keine Beschränkung	DE*TUE*EB0033*001~TYPE2:22|DE*TUE*EB0033*002~TYPE2:22
+1163916	deer GmbH		Schönblickstr. 33	72296	Schopfloch	48.422981	8.553582	1	24/7	Keine Beschränkung	DE*753*E00637*001~TYPE2:22|DE*753*E00637*002~TYPE2:22
+1164345	Stadtwerke Hechingen		Ahornallee 0	72379	Hechingen	48.362070	8.972915	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1165029	cocharge	DECOC481	Neckartal 166	78628	Rottweil	48.178546	8.615390	1	24/7	Keine Beschränkung	DE*COC*E481*01~TYPE2:22|DE*COC*E481*02~TYPE2:22
+1165072	Alpenland Ladeinfrastruktur	Haus der Betreuung und Pflege am Stockenberg	Freudenstädter Str. 13	72172	Sulz am Neckar	48.366067	8.632602	1	24/7	Keine Beschränkung	EH9F9~TYPE2:22|E7F2T~TYPE2:22

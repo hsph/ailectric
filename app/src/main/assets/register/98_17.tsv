@@ -1,0 +1,828 @@
+1001703	deer GmbH		Michelbacher Straße 5	74374	Zaberfeld	49.059092	8.926855	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001769	deer GmbH		Sophie-Scholl-Str. 1	68804	Altlußheim	49.304587	8.504254	1			~TYPE2:22|~TYPE2:22
+1001813	deer GmbH		Bahnhofstraße 2	69234	Dielheim	49.284242	8.736273	1			~TYPE2:22|~TYPE2:22
+1001814	deer GmbH		Ortsstraße 37	69234	Dielheim	49.281511	8.780738	1			~TYPE2:22|~TYPE2:22
+1001815	deer GmbH		Dorfstraße 52	69234	Dielheim	49.270606	8.788640	1			~TYPE2:22|~TYPE2:22
+1001818	deer GmbH		Birkenstraße 3	74912	Kirchardt	49.183694	8.977297	1			~TYPE2:22|~TYPE2:22
+1001875	deer GmbH		Wilhelmstraße 42/3	68799	Reilingen	49.294961	8.563338	1			~TYPE2:22|~TYPE2:22
+1001888	deer GmbH		Heidelberger Straße 34	69256	Mauer	49.341396	8.797608	1			~TYPE2:22|~TYPE2:22
+1001893	deer GmbH		Hauptstraße 36	74912	Kirchardt	49.205137	8.990023	1			~TYPE2:22|~TYPE2:22
+1001903	deer GmbH		Maulbronner Straße 5	74397	Pfaffenhofen	49.063110	8.975199	1			~TYPE2:22|~TYPE2:22
+1005657	deer GmbH		Altneudorfer Straße 36	69250	Schönau	49.461237	8.805781	1			~TYPE2:22|~TYPE2:22
+1005666	deer GmbH		Rathausstraße 7	69253	Heiligkreuzsteinach	49.485862	8.795596	1			~TYPE2:22|~TYPE2:22
+1005675	deer GmbH		Maulbronner Straße 26	75447	Sternenfels	49.048471	8.849994	1			~TYPE2:22|~TYPE2:22
+1005676	deer GmbH		Burrainstraße 16	75447	Sternenfels	49.024216	8.854935	1			~TYPE2:22|~TYPE2:22
+1005683	deer GmbH		Dambach la Ville Straße 3	69231	Rauenberg	49.269426	8.700295	1			~TYPE2:22|~TYPE2:22
+1009211	Shell Deutschland GmbH		Normannenstr. 5-9	68259	Mannheim	49.499049	8.556923	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1009275	Shell Deutschland GmbH		Am Autobahnzubringer 1	76709	Kronau	49.224340	8.611970	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1009329	Shell Deutschland GmbH		Max-Planck-Straße 1	68766	Hockenheim	49.311430	8.559680	1			~CCS2:150|~CCS2:150
+1009331	Shell Deutschland GmbH		Im Breitspiel 26	69126	Heidelberg	49.359690	8.687690	1			~CCS2:150|~CCS2:150
+1011471	Comfort Charge		Justus-von-Liebig-Str. 8-12	69214	Eppelheim	49.393400	8.634420	1			~CCS2:150|~CCS2:100|~TYPE2:22
+1011506	Comfort Charge		Kloppenheimer Str. 10a	68239	Mannheim	49.465200	8.562610	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011507	Comfort Charge		Schelklystr. 34	69126	Heidelberg	49.377130	8.687930	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011520	Comfort Charge		Heidelberger Str. 54-65	69221	Dossenheim	49.446334	8.677897	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011639	E-Merge Mobility GmbH		Stuttgarter Str. 4	76646	Bruchsal	49.096169	8.642018	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1020599	Entega Plus GmbH		Hauptstr. 17	69239	Neckarsteinach	49.408053	8.836307	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1020636	Entega Plus GmbH		Neckarsteinacher Str. 18	69434	Hirschhorn (Neckar)	49.444800	8.896620	1			~TYPE2:22|~TYPE2:22
+1020763	Entega Plus GmbH		Hauptstr. 23	64757	Oberzent	49.497466	8.921691	1			~TYPE2:22|~TYPE2:22
+1020780	Entega Plus GmbH		Kirchplatz 0	69434	Heddesbach	49.480317	8.827869	1			~TYPE2:22|~TYPE2:22
+1021615	EWE Go GmbH	McD_0253	Hebelstr. 4	69115	Heidelberg	49.398003	8.682118	1	24/7	Keine Beschränkung	DE*2GO*EMCD0253*1A*1~CCS2:150|DE*2GO*EMCD0253*1A*2~CCS2:150
+1021616	EWE Go GmbH	McD_1598	Im Breitspiel 28	69126	Heidelberg	49.359629	8.688152	1	24/7	Keine Beschränkung	DE*2GO*EMCD1598*1A*1~CCS2:150|DE*2GO*EMCD1598*1A*2~CCS2:150
+1021634	EWE Go GmbH	McD_0352	Alte Mannheimer Landstr. 1	68782	Brühl	49.410896	8.543705	1	24/7	Keine Beschränkung	DE*2GO*EMCD0352*1A*1~CCS2:150|DE*2GO*EMCD0352*1A*2~CCS2:150
+1021640	EWE Go GmbH	McD_0874	Hohenaspen 38	69231	Rauenberg	49.274291	8.695694	1	24/7	Keine Beschränkung	DE*2GO*EMCD0874*1A*1~CCS2:150|DE*2GO*EMCD0874*1A*2~CCS2:150
+1025044	EnBW mobility+ AG und Co.KG		Autobahnraststätte Am Hockenheimring Ost 0	68766	Hockenheim	49.316991	8.575853	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025045	mblty GmbH		Autobahnraststätte Am Hockenheimring West 0	68766	Hockenheim	49.320815	8.567804	1			~TYPE2_TETHERED:43|~CCS2:50
+1025063	EnBW mobility+ AG und Co.KG		Autobahnraststätte Hardtwald Ost 0	69207	Sandhausen	49.350934	8.632238	1			~TYPE2_TETHERED:43|~CCS2:50
+1025064	mblty GmbH		Autobahnraststätte Bruchsal West 0	76694	Forst	49.160998	8.567015	1			~TYPE2_TETHERED:43|~CCS2:50|~CCS2:150|~CCS2:75
+1025065	mblty GmbH		Autobahnraststätte Bruchsal Ost 0	76694	Forst	49.162905	8.570877	1			~TYPE2_TETHERED:43|~CCS2:50
+1025184	EnBW mobility+ AG und Co.KG		St. Leoner See 0	68789	Sankt Leon-Rot	49.282417	8.584127	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025185	EnBW mobility+ AG und Co.KG		St. Leoner See 0	68789	Sankt Leon-Rot	49.282444	8.584181	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025186	EnBW mobility+ AG und Co.KG		Rathausstraße 0	68789	Sankt Leon-Rot	49.267290	8.615653	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025187	EnBW mobility+ AG und Co.KG		Dietmar Hopp Straße 2	68789	Sankt Leon-Rot	49.265826	8.614426	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025188	EnBW mobility+ AG und Co.KG		Opelstraße 28	68789	Sankt Leon-Rot	49.245399	8.636766	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025227	EnBW mobility+ AG und Co.KG		Bahnhofstraße 1	68809	Neulußheim	49.292833	8.528565	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025237	EnBW mobility+ AG und Co.KG		Hockenheimer Str. 14	68799	Reilingen	49.295266	8.573869	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025244	EnBW mobility+ AG und Co.KG		St. Leoner Straße 14	68809	Neulußheim	49.293108	8.524654	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025256	EnBW mobility+ AG und Co.KG		Am Festplatz 1	68723	Plankstadt	49.396112	8.591433	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025263	EnBW mobility+ AG und Co.KG		Friedrichstr. 0	68723	Plankstadt	49.391200	8.596810	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025264	EnBW mobility+ AG und Co.KG		Heinrich Heine Str. 0	76297	Stutensee	49.112831	8.504520	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025271	EnBW mobility+ AG und Co.KG		Adelsförsterpfad 7	69168	Wiesloch	49.294310	8.666893	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025289	EnBW mobility+ AG und Co.KG		Rathausstraße 3	69234	Dielheim	49.282160	8.735000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025293	EnBW mobility+ AG und Co.KG		Rodbachstraße 15	74397	Pfaffenhofen	49.061537	8.975544	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025298	EnBW mobility+ AG und Co.KG		Zeyher Str. 1	68723	Schwetzingen	49.385150	8.571000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025364	EnBW mobility+ AG und Co.KG		Hauptstraße 86	69242	Mühlhausen	49.248207	8.726858	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025365	EnBW mobility+ AG und Co.KG		Marktplatz 8	69250	Schönau	49.436745	8.809329	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025366	EnBW mobility+ AG und Co.KG		Bismarckstraße 9	69198	Schriesheim	49.476043	8.661932	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025375	EnBW mobility+ AG und Co.KG		Friedrich-Hecker-Straße 1	74918	Angelbachtal	49.234916	8.775030	1			~TYPE2:22|~SCHUKO:3.7
+1025378	EnBW mobility+ AG und Co.KG		In den Petersgärten 0	69251	Gaiberg	49.367868	8.750990	1			~TYPE2:22|~TYPE2:22
+1025393	EnBW mobility+ AG und Co.KG		Rathausstr. 28	69250	Schönau	49.436180	8.809950	1			~TYPE2:22|~SCHUKO:22
+1025398	EnBW mobility+ AG und Co.KG		Bahnhofstr. 8	69207	Sandhausen	49.341823	8.660026	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025408	EnBW mobility+ AG und Co.KG		Messeplatzstr. 9	69168	Wiesloch	49.293157	8.701533	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025409	EnBW mobility+ AG und Co.KG		In den Ziegelwiesen 6	69168	Wiesloch	49.290528	8.664806	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025421	EnBW mobility+ AG und Co.KG		Brettenerstr. 14	75038	Oberderdingen	49.061652	8.801387	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025423	EnBW mobility+ AG und Co.KG		Schillerstr. 9	75038	Oberderdingen	49.063583	8.797662	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025424	EnBW mobility+ AG und Co.KG		Brettener Straße 20	75438	Knittlingen	49.025647	8.758897	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1025456	EnBW mobility+ AG und Co.KG		Bahnhofstraße 79-81	69151	Neckargemünd	49.392395	8.780070	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025457	EnBW mobility+ AG und Co.KG		Schillerstraße 30	68775	Ketsch	49.368575	8.526745	1			~TYPE2:22|~SCHUKO:3.7
+1025468	EnBW mobility+ AG und Co.KG		Wilhelmstr. 4	75031	Eppingen	49.137140	8.908320	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025477	EnBW mobility+ AG und Co.KG		Phillipsburgerstraße 1	68753	Wiesental	49.225891	8.517717	1			~TYPE2:22|~TYPE2:22
+1025478	EnBW mobility+ AG und Co.KG		Obere Bachstraße 1	68753	Waghäusel	49.242829	8.544855	1			~TYPE2:22|~TYPE2:22
+1025497	EnBW mobility+ AG und Co.KG		Rathausstraße 7	69253	Heiligkreuzsteinach	49.485795	8.795633	1			~TYPE2:22|~TYPE2:22
+1025516	EnBW mobility+ AG und Co.KG		Altneudorferstraße 73a	69250	Schönau	49.461194	8.805979	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025517	EnBW mobility+ AG und Co.KG		Bahnhofstraße 1	69250	Schönau	49.430746	8.811931	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025521	EnBW mobility+ AG und Co.KG		Wössinger Str. 26	75045	Walzbachtal	49.011056	8.611127	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025621	EnBW mobility+ AG und Co.KG		Wildparkstraße 4	74869	Schwarzach	49.369707	8.984554	1			~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025646	EnBW mobility+ AG und Co.KG		Westende 3	68723	Plankstadt	49.393307	8.582067	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025674	EnBW mobility+ AG und Co.KG		Hebelstraße 1	76709	Kronau	49.216133	8.636271	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025723	EnBW mobility+ AG und Co.KG		Waldstraße 37	69207	Sandhausen	49.341267	8.650648	1			~TYPE2:22|~TYPE2:22
+1025767	EnBW mobility+ AG und Co.KG		Reserveallee 5	76646	Bruchsal	49.128594	8.601220	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025771	EnBW mobility+ AG und Co.KG		Franz Sigel Straße 59a	76646	Bruchsal	49.110596	8.568308	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+CCS2:22+SCHUKO:22
+1025784	EnBW mobility+ AG und Co.KG		Hebelstr. 1	76709	Kronau	49.216091	8.636213	1			~TYPE2:22|~TYPE2:22
+1025787	mblty GmbH		Autobahn 0	76694	Forst	49.162909	8.570962	1			~CCS2:150|~CCS2:75
+1025824	mblty GmbH		Schwarzwaldstr. 7	74889	Sinsheim	49.240921	8.879563	1			~CCS2:150|~CCS2:75|~TYPE2_TETHERED:43|~CCS2:50
+1025881	EnBW mobility+ AG und Co.KG		Schwetzinger Str. 18-26	68723	Plankstadt	49.392184	8.594977	1			~TYPE2:22|~TYPE2:22
+1025898	EnBW mobility+ AG und Co.KG		Autobahn 0	69207	Sandhausen	49.350800	8.632241	1			~CCS2:150|~CCS2:150
+1025909	mblty GmbH		Schwarzwaldstr. 5	74889	Sinsheim	49.244431	8.878935	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025921	EnBW mobility+ AG und Co.KG		Autobahn 0	68766	Hockenheim	49.320826	8.567941	1			~CCS2:150|~CCS2:150
+1025922	mblty GmbH		Autobahn 0	68766	Hockenheim	49.317097	8.575890	1			~CCS2:150|~CCS2:150
+1025925	EnBW mobility+ AG und Co.KG		Wilhelmstraße 22	75015	Bretten	49.036053	8.703134	1			~TYPE2:22|~TYPE2:22
+1025937	EnBW mobility+ AG und Co.KG		Dr.-Friedrich-Schmitt-Straße 22	75038	Oberderdingen	49.062459	8.797500	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025984	EnBW mobility+ AG und Co.KG		Roter Str. 2	69190	Walldorf	49.297167	8.630237	1			~CCS2:300|~CCS2:300
+1026026	EnBW mobility+ AG und Co.KG		Roter Str. 2	69190	Walldorf	49.297322	8.630120	1			~CCS2:300|~CCS2:300
+1026185	mblty GmbH		Raststätte Kraichgau-Süd 0	74889	Sinsheim	49.240972	8.879911	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1026197	EnBW mobility+ AG und Co.KG		Kolpingstraße 1	68723	Schwetzingen	49.380213	8.575363	1			~CCS2:150|~CCS2:150
+1026246	EnBW mobility+ AG und Co.KG		Hauptstr. 389	68535	Edingen-Neckarhausen	49.464080	8.602485	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1026309	EnBW mobility+ AG und Co.KG		Gottlieb-Daimler-Str. 1	69181	Leimen	49.344908	8.678916	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1026313	EnBW mobility+ AG und Co.KG		Lindenstr. 27	74193	Schwaigern	49.110795	8.990343	1			~TYPE2:22|~TYPE2:22
+1026336	EnBW mobility+ AG und Co.KG		Friedhofweg 2	75447	Sternenfels	49.047983	8.849334	1			~TYPE2:22|~TYPE2:22
+1026551	EnBW mobility+ AG und Co.KG		Reserveallee 5	76646	Bruchsal	49.128604	8.601133	1			~TYPE2:22|~TYPE2:22
+1026680	EnBW mobility+ AG und Co.KG		Hauptstraße 36	74915	Waibstadt	49.297704	8.920074	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1026960	EnBW mobility+ AG und Co.KG		Malscher Straße 11	69242	Mühlhausen-Rettigheim	49.240410	8.697569	1			~TYPE2:22|~TYPE2:22
+1026964	EnBW mobility+ AG und Co.KG		Mühlstraße 8	74909	Meckesheim	49.334138	8.850768	1			~TYPE2:22|~TYPE2:22
+1026965	EnBW mobility+ AG und Co.KG		Schulstraße 10	74909	Meckesheim	49.319296	8.821151	1			~TYPE2:22|~TYPE2:22
+1027062	EnBW mobility+ AG und Co.KG		Marktplatz 6	69250	Schönau	49.436790	8.809268	1			~TYPE2:22|~TYPE2:22
+1027166	EnBW mobility+ AG und Co.KG		Neuer Weg-Nord 47	69412	Eberbach	49.473020	8.986830	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1027177	EnBW mobility+ AG und Co.KG		Kammerforststraße 19	76646	Bruchsal	49.137760	8.561030	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1027460	EnBW mobility+ AG und Co.KG		Eppelheimer Straße 48	69115	Heidelberg	49.407390	8.656760	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027526	EnBW mobility+ AG und Co.KG		Felix-Wankel-Straße 0	69126	Heidelberg	49.384180	8.679660	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1027600	EnBW mobility+ AG und Co.KG		Schulstr. 6	69242	Mühlhausen	49.247505	8.727010	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1027608	mblty GmbH		Schwarzwaldstr. 7/1, A6 Richtung Heilbronn 5-8	74889	Sinsheim	49.241017	8.879488	1			~CCS2:150|~CCS2:150
+1027619	mblty GmbH		BAB6, Schwarzwaldstr. 5	74889	Sinsheim	49.244202	8.878854	1			~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1027669	EnBW mobility+ AG und Co.KG		Bohnenbergerstraße 17	68219	Mannheim	49.454815	8.513323	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028137	EnBW mobility+ AG und Co.KG		Jahnstraße 0	68723	Plankstadt	49.397100	8.584980	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22
+1029853	MVV Energie AG		An der Arena 1	68163	Mannheim	49.464610	8.518592	1			~TYPE2:22|~TYPE2:22
+1029870	MVV Energie AG	MaLIS1_Ilvesheim_Feuerwehr	Mühlenweg 7	68549	Ilvesheim	49.476643	8.560239	1	24/7	Keine Beschränkung	DE*MVV*E00064*L1~TYPE2:22|DE*MVV*E00064*R1~TYPE2:22
+1029871	MVV Energie AG	MaLIS1_Ilvesheim_Rathaus	Schloßstr. 9	68549	Ilvesheim	49.471235	8.566378	1	24/7	Keine Beschränkung	DE*MVV*E00205*01~TYPE2:22|DE*MVV*E00206*01~TYPE2:22
+1029878	MVV Energie AG	MaLIS1_Mühlhausen	In den Rotwiesen 20	69242	Mühlhausen	49.247084	8.708560	1	24/7	Keine Beschränkung	DE*MVV*E00058*L1~TYPE2:22|DE*MVV*E00058*R1~TYPE2:22
+1029916	MVV Energie AG	MaLIS2_Rathaus_Brühl	Kirchenstr. 2	68782	Brühl	49.394430	8.535239	1	24/7	Keine Beschränkung	DE*MVV*E00131*L1~TYPE2:22|DE*MVV*E00131*R1~TYPE2:22
+1029920	MVV Energie AG	MaLIS2_Rathaus_Ladenburg	Hauptstr. 7	68526	Ladenburg	49.471378	8.607315	1	24/7	Keine Beschränkung	DE*MVV*E00135*L1~TYPE2:22|DE*MVV*E00135*R1~TYPE2:22|DE*MVV*E00584*L1~CCS2:50|DE*MVV*E00584*R1~CCS2:50|DE*MVV*E00584*L1~CCS2:50|DE*MVV*E00584*R1~CCS2:50
+1029922	MVV Energie AG		Dudenstraße 12	68167	Mannheim	49.499240	8.502375	1			~TYPE2:22|~TYPE2:22
+1029931	MVV Energie AG	MaLIS3_Ladenburg_Zieglerwasen	Weinheimer Str. 21	68526	Ladenburg	49.474858	8.614378	1	24/7	Keine Beschränkung	DE*MVV*E00193*L1~TYPE2:22|DE*MVV*E00193*R1~TYPE2:22|DE*MVV*E00194*L1~TYPE2:22|DE*MVV*E00194*R1~TYPE2:22
+1029933	MVV Energie AG	MaLIS3_Ladenburg_Stadtaecker	Stadtäcker 1	68526	Ladenburg	49.477472	8.614290	1	24/7	Keine Beschränkung	DE*MVV*E00195*L1~TYPE2:22|DE*MVV*E00195*R1~TYPE2:22|DE*MVV*E00196*L1~TYPE2:22|DE*MVV*E00196*R1~TYPE2:22
+1029935	MVV Energie AG	MaLIS3_Ladenburg_LangeRuthen	Lange Ruthen 1	68526	Ladenburg	49.476528	8.614045	1	24/7	Keine Beschränkung	DE*MVV*E00197*L1~TYPE2:22|DE*MVV*E00197*R1~TYPE2:22|DE*MVV*E00198*L1~TYPE2:22|DE*MVV*E00198*R1~TYPE2:22
+1029964	MVV Energie AG	MaLIS3_Ilvesheim_Brueckenstraße	Brückenstr. 3	68549	Ilvesheim	49.469438	8.565854	1	24/7	Keine Beschränkung	DE*MVV*E00139*L1~CCS2:150|DE*MVV*E00139*R1~CCS2:150|DE*MVV*E00172*L1~CCS2:150|DE*MVV*E00172*R1~CCS2:150
+1029969	MVV Energie AG		Lüderitzstraße 46-48	68219	Mannheim	49.416670	8.533796	1			~TYPE2:22|~TYPE2:22|DE*MVV*E00171*L1~TYPE2:22|DE*MVV*E00171*R1~TYPE2:22
+1029974	MVV Energie AG		Wildemannstraße 21	68723	Schwetzingen	49.387287	8.571389	1			~TYPE2:11|~TYPE2:11
+1029988	MVV Energie AG	MaLIS_Bruehl_Anton-Langlotz	Anton-Langlotz-Str. 1	68782	Brühl	49.407402	8.537158	1	24/7	Keine Beschränkung	DE*MVV*E00296*L1~CCS2:50|DE*MVV*E00296*R1~TYPE2:22
+1029991	MVV Energie AG	MaLIS_Bruehl_Rathaus	Hauptstr. 1	68782	Brühl	49.394727	8.534058	1	24/7	Keine Beschränkung	DE*MVV*E00520*L1~TYPE2:22|DE*MVV*E00520*R1~TYPE2:22
+1029992	MVV Energie AG	MaLIS_Bruehl_Bismarckstrasse	Bismarckstr. 51	68782	Brühl	49.408231	8.528323	1	24/7	Keine Beschränkung	DE*MVV*E00224*L1~TYPE2:22|DE*MVV*E00224*R1~TYPE2:22
+1029993	MVV Energie AG	MaLIS_Bruehl_SV_Rohrhof	Gartenstr. 54	68782	Brühl	49.414673	8.523305	1	24/7	Keine Beschränkung	DE*MVV*E00298*L1~TYPE2:22|DE*MVV*E00298*R1~TYPE2:22
+1029994	MVV Energie AG	MaLIS_Bruehl_Hildastrasse	Hildastr. 34	68782	Brühl	49.398757	8.531496	1	24/7	Keine Beschränkung	DE*MVV*E00297*L1~TYPE2:22|DE*MVV*E00297*R1~TYPE2:22
+1029995	MVV Energie AG	MaLIS_Bruehl_Sportplatz_Sued	Wiesenplätzweg 7	68782	Brühl	49.388783	8.530050	1	24/7	Keine Beschränkung	DE*MVV*E00183*L1~TYPE2:22|DE*MVV*E00183*R1~TYPE2:22
+1029996	MVV Energie AG	MaLIS_Bruehl_Hallenbad/Freibad	Ormessonstr. 3	68782	Brühl	49.404787	8.531511	1	24/7	Keine Beschränkung	DE*MVV*E00174*L1~TYPE2:22|DE*MVV*E00174*R1~TYPE2:22
+1029997	MVV Energie AG	MaLIS_Bruehl_Rheinauerstrasse	Rheinauer Str. 4	68782	Brühl	49.409538	8.520564	1	24/7	Keine Beschränkung	DE*MVV*E00182*L1~TYPE2:22|DE*MVV*E00182*R1~TYPE2:22
+1029998	MVV Energie AG	MaLIS_Plankstadt_Wilhelmstraße	Wilhelmstr. 1	68723	Plankstadt	49.392682	8.594071	1	24/7	Keine Beschränkung	DE*MVV*E00296*01~TYPE2:11|DE*MVV*E00297*01~TYPE2:11
+1030000	MVV Energie AG	MaLIS_Plankstadt_Bertha_Benz_Straße	Bertha-Benz-Str. 16	68723	Plankstadt	49.401614	8.586063	1	24/7	Keine Beschränkung	DE*MVV*E00519*L1~TYPE2:22|DE*MVV*E00519*R1~TYPE2:22
+1030002	MVV Energie AG	MaLIS_eLadepark_Walldorf	Hauptstr. 60	69190	Walldorf	49.302020	8.635026	1	24/7	Keine Beschränkung	DE*MVV*E00521*L1~CCS2:150|DE*MVV*E00521*R1~CCS2:150|DE*MVV*E00522*L1~CCS2:150|DE*MVV*E00522*R1~CCS2:150|DE*MVV*E00608*L1~CCS2:300|DE*MVV*E00608*R1~CCS2:300
+1030004	MVV Energie AG	MaLIS_eLadepark_P20	Wilhelm-Varnholt-Allee 0	68165	Mannheim	49.471899	8.509377	1	24/7	Keine Beschränkung	DE*MVV*E00513*L1~CCS2:300|DE*MVV*E00513*R1~CCS2:300
+1030005	MVV Energie AG	MaLIS_eLadepark_P20	Wilhelm-Varnholt-Allee 0	68165	Mannheim	49.471860	8.509195	1	24/7	Keine Beschränkung	DE*MVV*E00514*L1~CCS2:300|DE*MVV*E00514*R1~CCS2:300|DE*MVV*E00515*L1~CCS2:300|DE*MVV*E00515*R1~CCS2:300|DE*MVV*E00516*L1~CCS2:300|DE*MVV*E00516*R1~CCS2:300|DE*MVV*E00517*L1~CCS2:300|DE*MVV*E00517*R1~CCS2:300|DE*MVV*E00518*L1~CCS2:300|DE*MVV*E00518*R1~CCS2:300
+1030012	MVV Energie AG	MaLIS_Ladenburg_Matzgarten	Im Matzgarten 94	68526	Ladenburg	49.477875	8.600450	1	24/7	Keine Beschränkung	DE*MVV*E00527*L1~TYPE2:22|DE*MVV*E00527*R1~TYPE2:22|DE*MVV*E00528*L1~TYPE2:22|DE*MVV*E00528*R1~TYPE2:22
+1031152	Fraunhofer-Gesellschaft e. V.		Joseph-von-Fraunhofer-Straße 7	76327	Pfinztal	49.016090	8.522747	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031154	Fraunhofer-Gesellschaft e. V.		Joseph-von-Fraunhofer-Straße 7	76327	Pfinztal	49.016731	8.517653	1			~TYPE2:22|~TYPE2:22
+1031155	Fraunhofer-Gesellschaft e. V.		Joseph-von-Fraunhofer-Straße 7	76327	Pfinztal	49.016726	8.517618	1			~TYPE2:22|~TYPE2:22
+1031156	Fraunhofer-Gesellschaft e. V.		Joseph-von-Fraunhofer-Straße 7	76327	Pfinztal	49.017583	8.521759	1		Nur für Kunden/Besucher	~CCS2:25|~CCS2:32+CHADEMO:32|~TYPE2:11
+1031285	HomE of Mobility GmbH		Hatschekstraße 19	69126	Heidelberg	49.362305	8.677038	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1031603	CUBOS Service GmbH		Will-Sohl-Str. 7	68163	Mannheim	49.474819	8.524685	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031681	CUBOS Service GmbH		Rudolf-Diesel-Str. 7	69155	Heidelberg	49.397247	8.674877	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031771	TotalEnergies Charging Solutions		Königstuhl 17	69117	Heidelberg	49.396889	8.723262	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032246	IKEA Deutschland GmbH & Co.KG		Josef-Reiert-Straße 9	69190	Walldorf	49.304996	8.629313	1			~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20|~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20
+1033166	Emscher Lippe Energie GmbH		Murgstr. 4	76646	Bruchsal	49.137130	8.592760	1			~TYPE2:11|~TYPE2:11
+1034678	Shell Deutschland GmbH		Sandklinge 1	69256	Mauer	49.346710	8.796362	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1035457	ALDI SÜD		Frankenäcker 6	69231	Rauenberg	49.272560	8.695698	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035462	ALDI SÜD	MUR-106-01	Im Schuhmachergewann 8	69123	Heidelberg	49.426194	8.639611	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22299~CCS2:150|DE*ALD*E22300~CCS2:150|DE*ALD*E22301~TYPE2:22
+1035463	ALDI SÜD		Pleikartsförster Straße 13	69124	Heidelberg	49.378139	8.664111	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035480	ALDI SÜD		Am Landgraben 8	76669	Bad Schönborn	49.203821	8.640141	1			~TYPE2:22|~TYPE2:22
+1035482	ALDI SÜD		Treidlerstraße 1	68535	Edingen-Neckarhausen	49.456296	8.595477	1			~TYPE2:22|~TYPE2:22
+1035497	ALDI SÜD	KIR-088-01	Lußheimer Str. 10	68766	Hockenheim	49.308255	8.537786	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11191~TYPE2:22|DE*ALD*E11192~TYPE2:22
+1035498	ALDI SÜD		Neues Sträßel 6	69168	Wiesloch	49.288857	8.677225	1			~TYPE2:22|~TYPE2:22
+1035507	ALDI SÜD		Wusseldornstraße 1	74918	Angelbachtal	49.236963	8.767253	1			~TYPE2:22|~TYPE2:22
+1035508	ALDI SÜD		Fritz-Frey-Straße 17	69121	Heidelberg	49.436302	8.679902	1			~TYPE2:22|~TYPE2:22
+1035509	ALDI SÜD		Gotenstraße 12-16	68259	Mannheim	49.497756	8.555587	1			~TYPE2:22|~TYPE2:22
+1035531	ALDI SÜD		Floßwörthstraße 49-55	68199	Mannheim	49.458118	8.503022	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035538	ALDI SÜD		Hockenheimer Landstraße 4/4	68723	Schwetzingen	49.377725	8.560210	1			~TYPE2:22|~TYPE2:22
+1035703	ALDI SÜD		Karl-Benz-Weg 3	76646	Bruchsal	49.120037	8.574466	1			~TYPE2:22|~TYPE2:22
+1035747	ALDI SÜD		Erich-Keßler-Str. 1	76689	Karlsdorf-Neuthard	49.140139	8.553250	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035818	ALDI SÜD		Wöschbacher Straße 29	76327	Pfinztal	49.004944	8.534255	1			~TYPE2:22|~TYPE2:22
+1035837	ALDI SÜD		Im Oberen Tal 20	74858	Aglasterhausen	49.347354	8.983052	1			~TYPE2:22|~TYPE2:22
+1035886	ALDI SÜD		Wiesenbacher Landstraße 22	69245	Bammental	49.360575	8.796500	1			~TYPE2:22|~TYPE2:22
+1035951	ALDI SÜD		Im Schiff 9	68789	St. Leon-Rot	49.267955	8.613718	1			~TYPE2:22|~TYPE2:22
+1035955	ALDI SÜD		Carl-Benz-Str. 2	75056	Sulzfeld	49.095884	8.852289	1			~TYPE2:22|~TYPE2:22
+1035979	ALDI SÜD	MUR-112	Gottlieb-Daimler-Str. 9	69207	Sandhausen	49.340389	8.667000	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22988~CCS2:50|DE*ALD*E22989~CCS2:50
+1036038	Zschernitz		Dieselweg 7	76646	Bruchsal	49.120040	8.572640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036793	ALDI SÜD	MUR-118	Neckarsteinacher Str. 25	69151	Neckargemünd	49.396694	8.802611	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*ALD*E23179~CCS2:50|DE*ALD*E23180~CCS2:50
+1037441	Citywatt GmbH		Seckenheimer Landstraße 270	68163	Mannheim	49.473719	8.539445	1			~CCS2:300|~CCS2:300
+1037442	Citywatt GmbH		Seckenheimer Landstraße 270	68163	Mannheim	49.473716	8.539322	1			~CCS2:300|~CCS2:300
+1037443	Citywatt GmbH		Seckenheimer Landstraße 270	68163	Mannheim	49.473834	8.539301	1			~CCS2:300|~CCS2:300
+1037444	Citywatt GmbH		Seckenheimer Landstraße 270	68163	Mannheim	49.473799	8.539408	1			~CCS2:300|~CCS2:300
+1037445	Citywatt GmbH		Seckenheimer Landstraße 270	68163	Mannheim	49.473796	8.539510	1			~CCS2:300|~CCS2:300
+1037501	Citywatt GmbH		Mühlhohlstraße 7	75056	Sulzfeld	49.107538	8.850346	1			~TYPE2:22|~TYPE2:22
+1037502	Citywatt GmbH		Mühlhohlstraße 7	75056	Sulzfeld	49.107390	8.850335	1			~TYPE2:22|~TYPE2:22
+1038277	TSG 1902 Willhelmsfeld e.V.		Am Hirschwald 8	69259	Willhelmsfeld	49.479144	8.760959	1			~TYPE2:11|~TYPE2:11
+1039374	IONITY GmbH		Bruchsal Ost 0	76694	Forst	49.162694	8.570788	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E209405~CCS2:350|DE*IOY*E209406~CCS2:350
+1039378	IONITY GmbH		Bruchsal West 0	76694	Forst	49.161250	8.567226	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E209505~CCS2:350|DE*IOY*E209506~CCS2:350
+1040326	deer GmbH	Ittlingen, Rathaus	Hauptstr. 101	74930	Ittlingen	49.193797	8.934746	1	24/7	Keine Beschränkung	DE*753*E00365*001~TYPE2:22|DE*753*E00365*002~TYPE2:22
+1040343	deer GmbH	Neulußheim, Bahnhof	Am Bahnhof 2	68809	Neulußheim	49.292755	8.528714	1	24/7	Keine Beschränkung	DE*753*E00375*001~TYPE2:22|DE*753*E00375*002~TYPE2:22
+1043038	Allego		Rosenstraße 70	68535	Edingen-Neckarh.	49.452962	8.588370	1			DEALLEGO000365*1~CCS2:50+CHADEMO:50|DEALLEGO000365*2~TYPE2_TETHERED:43
+1043522	Allego		Hohenaspen 44	69231	Rauenberg	49.274124	8.697096	1		Keine Beschränkung	DEALLEGO002777*1~CCS2:150|DEALLEGO002777*2~CCS2:150
+1043537	Allego		Henkel-Tereson-Str. 24	69123	Heidelberg	49.408140	8.651567	1	24/7	Keine Beschränkung	DEALLEGO002841*1~CCS2:150|DEALLEGO002841*2~CCS2:150
+1043550	Allego		Henkel-Tereson-Str. 24	69123	Heidelberg	49.408024	8.651525	1	24/7	Keine Beschränkung	DEALLEGO002873*1~CCS2:300|DEALLEGO002873*2~CCS2:300
+1043551	Allego		Henkel-Tereson-Str. 24	69123	Heidelberg	49.408074	8.651546	1		Keine Beschränkung	DEALLEGO002874*1~CCS2:300|DEALLEGO002874*2~CCS2:300
+1043590	Allego		Morchfeldstr. 47-49	68199	Mannheim	49.454778	8.500595	1		Keine Beschränkung	DEALLEGO003110*1~CCS2:150|DEALLEGO003110*2~CCS2:150
+1044994	Energie- und Wasserversorgung Bruchsal GmbH		Schnabel-Henning-Str. 1 a	76646	Bruchsal	49.124781	8.584660	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1044995	Energie- und Wasserversorgung Bruchsal GmbH		Stegwiesenstraße 8	76646	Bruchsal	49.137630	8.591140	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1044996	Energie- und Wasserversorgung Bruchsal GmbH		John-Bopp-Straße 26	76646	Bruchsal	49.123593	8.597748	1			~TYPE2:22+SCHUKO:22
+1044997	Energie- und Wasserversorgung Bruchsal GmbH		Pfeilerstraße 7	76646	Bruchsal	49.123392	8.600755	1			~TYPE2:22+SCHUKO:22
+1044998	Energie- und Wasserversorgung Bruchsal GmbH		Rathausplatz 1	75056	Sulzfeld	49.101500	8.858980	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1044999	Energie- und Wasserversorgung Bruchsal GmbH		Bahnhofstraße 0	75056	Sulzfeld	49.108100	8.852170	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045000	Energie- und Wasserversorgung Bruchsal GmbH		Rathausstraße 1	76646	Bruchsal	49.123893	8.598173	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1045001	Energie- und Wasserversorgung Bruchsal GmbH		Hauptstraße 97	75059	Zaisenhausen	49.107446	8.816939	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045002	Energie- und Wasserversorgung Bruchsal GmbH		Zum Grenzgraben 28	76698	Ubstadt-Weiher	49.172467	8.624206	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045003	Energie- und Wasserversorgung Bruchsal GmbH		Berthold-Bott-Straße 0	76703	Kraichtal-Gochsheim	49.109589	8.743333	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045004	Energie- und Wasserversorgung Bruchsal GmbH		Wilhelmstraße 0	76703	Kraichtal-Gochsheim	49.105982	8.745112	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045005	Energie- und Wasserversorgung Bruchsal GmbH		Bahnhofstraße 0	75059	Zaisenhausen	49.105237	8.817233	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|DE*EWB*E00049*001~TYPE2:22+SCHUKO:3|DE*EWB*E00049*002~TYPE2:22+SCHUKO:3
+1045008	Energie- und Wasserversorgung Bruchsal GmbH		Bruchsaler Straße 1-3	76698	Ubstadt-Weiher	49.158327	8.630480	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045009	Energie- und Wasserversorgung Bruchsal GmbH		Unterdorfstraße 39	76698	Ubstadt-Weiher	49.176728	8.673517	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045010	Energie- und Wasserversorgung Bruchsal GmbH		Bruchsaler Straße 32	75053	Gondelsheim	49.061302	8.657436	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045011	Energie- und Wasserversorgung Bruchsal GmbH		Bruchsaler Straße 81	75053	Gondelsheim	49.066930	8.657123	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045012	Energie- und Wasserversorgung Bruchsal GmbH		Seilersbahn 0	76646	Bruchsal	49.123303	8.601246	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045013	Energie- und Wasserversorgung Bruchsal GmbH		Kaiserstraße 0	76646	Bruchsal	49.126519	8.594346	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045014	Energie- und Wasserversorgung Bruchsal GmbH		Badener Straße 0	76646	Bruchsal-Heidelsheim	49.100332	8.644936	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045015	Energie- und Wasserversorgung Bruchsal GmbH		Joß-Fritz-Straße 0	76646	Bruchsal-Untergrombach	49.088775	8.547441	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045016	Energie- und Wasserversorgung Bruchsal GmbH		Luisenstraße 0	76646	Bruchsal	49.125035	8.593608	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045017	Energie- und Wasserversorgung Bruchsal GmbH		Campus 1	76646	Bruchsal	49.116932	8.591030	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045018	Energie- und Wasserversorgung Bruchsal GmbH		Schnabel-Henning-Str. 1	76646	Bruchsal	49.125000	8.584750	1		Nur für Kunden/Besucher	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045019	Energie- und Wasserversorgung Bruchsal GmbH		Hambrücker Straße 52	76694	Forst	49.153369	8.579444	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045020	Energie- und Wasserversorgung Bruchsal GmbH		Werner-von-Siemens-Straße 14	76694	Forst	49.155958	8.577806	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045021	Energie- und Wasserversorgung Bruchsal GmbH		Hauptstraße 108	76707	Hambrücken	49.186030	8.545773	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045022	Energie- und Wasserversorgung Bruchsal GmbH		Tullastr. 0	76689	Karlsdorf-Neuthard	49.136046	8.545014	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045023	Energie- und Wasserversorgung Bruchsal GmbH		Bahnhofstr. 0	76689	Karlsdorf-Neuthard	49.142935	8.547605	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045026	Energie- und Wasserversorgung Bruchsal GmbH		Kirrlacher Straße 7	76709	Kronau	49.219392	8.634428	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045028	Energie- und Wasserversorgung Bruchsal GmbH		Klammenstraße 0	76669	Bad Schönborn-Langenbrücken	49.201953	8.645842	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045029	Energie- und Wasserversorgung Bruchsal GmbH		Justus-Liebig-Straße 8	76684	Östringen	49.215444	8.696080	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|DE*EWB*E00033*001~TYPE2:22+SCHUKO:3|DE*EWB*E00033*002~TYPE2:22+SCHUKO:3
+1045030	Energie- und Wasserversorgung Bruchsal GmbH		Friedrichsplatz 0	76703	Kraichtal-Unteröwisheim	49.143217	8.668880	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045031	Energie- und Wasserversorgung Bruchsal GmbH		Lußhardtstraße 12	76689	Karlsdorf-Neuthard	49.147424	8.547105	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045032	Energie- und Wasserversorgung Bruchsal GmbH		Kirchstraße 37	76689	Karlsdorf-Neuthard	49.127795	8.520969	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045033	Energie- und Wasserversorgung Bruchsal GmbH		Weiherer Straße 1	76694	Forst	49.153004	8.587070	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045034	Energie- und Wasserversorgung Bruchsal GmbH		Kriegsstraße 41-43	76707	Hambrücken	49.188604	8.538840	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045035	Energie- und Wasserversorgung Bruchsal GmbH		Kirchplatz 0	76698	Ubstadt-Weiher	49.178772	8.622183	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045036	Energie- und Wasserversorgung Bruchsal GmbH		Jahnstraße 0	76709	Kronau	49.219623	8.636454	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045037	Energie- und Wasserversorgung Bruchsal GmbH		Am Kirchberg 19	76684	Östringen	49.219382	8.710456	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045039	Energie- und Wasserversorgung Bruchsal GmbH		Schönbornstraße 0	76698	Ubstadt-Weiher	49.182284	8.645097	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|DE*EWB*E00044*001~TYPE2:22+SCHUKO:3|DE*EWB*E00044*002~TYPE2:22+SCHUKO:3
+1045040	Energie- und Wasserversorgung Bruchsal GmbH		Franz-Peter-Sigel-Straße 0	76669	Bad Schönborn-Langenbrücken	49.201504	8.653505	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045041	Energie- und Wasserversorgung Bruchsal GmbH		Schwetzingerstraße 7	76646	Bruchsal	49.134853	8.589586	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22
+1045048	Energie- und Wasserversorgung Bruchsal GmbH		Au in den Buchen 80	76646	Bruchsal	49.099463	8.527396	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045049	Energie- und Wasserversorgung Bruchsal GmbH		Hauptstraße 1	76646	Bruchsal	49.076839	8.586869	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045050	Energie- und Wasserversorgung Bruchsal GmbH		Werner-von-Siemens-Straße 2-6	76646	Bruchsal	49.129422	8.589817	1			~TYPE2:22|~TYPE2:22
+1045052	Energie- und Wasserversorgung Bruchsal GmbH		John-Bopp-Straße 26	76646	Bruchsal	49.123634	8.597425	1			~TYPE2:22+SCHUKO:22
+1045053	Energie- und Wasserversorgung Bruchsal GmbH		Pfeilerstraße 0	76646	Bruchsal	49.123813	8.600682	1			~TYPE2:22+SCHUKO:22
+1045058	Energie- und Wasserversorgung Bruchsal GmbH		Amalienstraße 1a	76689	Karlsdorf-Neuthard	49.136051	8.544901	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00095*001~TYPE2:22|DE*EWB*E00095*002~TYPE2:22
+1045059	Energie- und Wasserversorgung Bruchsal GmbH		Silcherweg 1	75015	Bretten	49.038383	8.691395	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00094*001~TYPE2:22|DE*EWB*E00094*002~TYPE2:22
+1045060	Energie- und Wasserversorgung Bruchsal GmbH		Menzinger Straße 19	76703	Kraichtal	49.149435	8.807981	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00091*001~TYPE2:22|DE*EWB*E00091*002~TYPE2:22
+1045061	Energie- und Wasserversorgung Bruchsal GmbH		Jedermannstraße 20	76703	Kraichtal	49.153717	8.718808	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00090*001~TYPE2:22|DE*EWB*E00090*002~TYPE2:22
+1045062	Energie- und Wasserversorgung Bruchsal GmbH		Am Weiher 7	76703	Kraichtal	49.107123	8.714897	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00089*001~TYPE2:22|DE*EWB*E00089*002~TYPE2:22
+1045063	Energie- und Wasserversorgung Bruchsal GmbH		Viktoriastraße 13 (ggü)	76684	Östringen	49.215222	8.705569	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00085*001~TYPE2:22|DE*EWB*E00085*002~TYPE2:22
+1045064	Energie- und Wasserversorgung Bruchsal GmbH		Freizeitzentrum Hardtsee Eingang	76698	Ubstadt-Weiher	49.170780	8.617533	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00087*001~TYPE2:22|DE*EWB*E00087*002~TYPE2:22
+1045065	Energie- und Wasserversorgung Bruchsal GmbH		Karl-Walter-Straße 4	76698	Ubstadt-Weiher	49.163862	8.632849	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00086*001~TYPE2:22|DE*EWB*E00086*002~TYPE2:22
+1045066	Energie- und Wasserversorgung Bruchsal GmbH		Beethovenstraße 31/1	76669	Bad Schönborn	49.224325	8.660090	1		Nur für Kunden/Besucher	DE*EWB*E00084*001~TYPE2:22|DE*EWB*E00084*002~TYPE2:22
+1045067	Energie- und Wasserversorgung Bruchsal GmbH		Kraichgaustraße 14	76669	Bad Schönborn	49.218964	8.668391	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00083*001~TYPE2:22|DE*EWB*E00083*002~TYPE2:22
+1045068	Energie- und Wasserversorgung Bruchsal GmbH		Vogtlandstraße 0	76669	Bad Schönborn	49.199250	8.641491	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00082*001~TYPE2:22|DE*EWB*E00082*002~TYPE2:22
+1045075	Energie- und Wasserversorgung Bruchsal GmbH		Kronauer Straße 1	68753	Waghäusel	49.241920	8.549440	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00081*001~TYPE2:22|DE*EWB*E00081*0025~TYPE2:22
+1045076	Energie- und Wasserversorgung Bruchsal GmbH		Mannheimer Straße 15	68753	Waghäusel	49.224731	8.519492	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00079*001~TYPE2:22|DE*EWB*E00079*002~TYPE2:22
+1045077	Energie- und Wasserversorgung Bruchsal GmbH		Kurpfalzstrasse 62	76646	Bruchsal	49.085187	8.641433	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00072*001~TYPE2:22|DE*EWB*E00072*002~TYPE2:22
+1045078	Energie- und Wasserversorgung Bruchsal GmbH		Gymnasiumstrasse 1	68753	Waghäusel	49.247880	8.519060	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00080*001~TYPE2:22|DE*EWB*E00080*002~TYPE2:22
+1045079	Energie- und Wasserversorgung Bruchsal GmbH		Paul-Gerhardt-Str. 0	76646	Bruchsal	49.119020	8.571032	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00071*001~TYPE2:22|DE*EWB*E00071*002~TYPE2:22
+1045082	Energie- und Wasserversorgung Bruchsal GmbH		Schnabel Henning Str. 37	76646	Bruchsal	49.120003	8.580041	1		Nur für Kunden/Besucher	DE*EWB*E0055*001~TYPE2:22|DE*EWB*E0055*002~TYPE2:22
+1045083	Energie- und Wasserversorgung Bruchsal GmbH		Bahnhofstraße 1	76684	Östringen	49.179500	8.744700	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00054*001~TYPE2:22|DE*EWB*E00054*002~TYPE2:22|~TYPE2:22|~TYPE2:22
+1045085	Energie- und Wasserversorgung Bruchsal GmbH		Rathausstraße 0	76703	Kraichtal	49.125020	8.715892	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00048*001~TYPE2:22+SCHUKO:3|DE*EWB*E00048*002~TYPE2:22+SCHUKO:3|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045086	Energie- und Wasserversorgung Bruchsal GmbH		Rathausstraße 1	76703	Kraichtal	49.125062	8.715917	1		Nur für Kunden/Besucher	DE*EWB*E00047*001~TYPE2:22+SCHUKO:3|DE*EWB*E00047*001~TYPE2:22+SCHUKO:3|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045088	Energie- und Wasserversorgung Bruchsal GmbH		Bahnhofstr. 0	76669	Bad Schönborn	49.219549	8.647401	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00050*001~TYPE2:22+SCHUKO:3|DE*EWB*E00050*002~TYPE2:22+SCHUKO:3|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045090	Energie- und Wasserversorgung Bruchsal GmbH		Kirchstraße 37	76689	Karlsdorf-Neuthard	49.127930	8.521120	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00043*002~TYPE2:22+SCHUKO:3|DE*EWB*E00043*001~TYPE2:22+SCHUKO:3
+1045091	Energie- und Wasserversorgung Bruchsal GmbH		Jahnstraße 13	76709	Kronau	49.219707	8.636376	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00037*001~TYPE2:22+SCHUKO:3|DE*EWB*E00037*002~TYPE2:22+SCHUKO:3
+1045092	Energie- und Wasserversorgung Bruchsal GmbH		Am Kirchberg 19	76684	Östringen	49.219260	8.710350	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00036*001~TYPE2:22+SCHUKO:3|DE*EWB*E00036*002~TYPE2:22+SCHUKO:3
+1045093	Energie- und Wasserversorgung Bruchsal GmbH		Monestraße 0	76669	Bad Schönborn	49.220480	8.659290	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00035*001~TYPE2:22+SCHUKO:22|DE*EWB*E00035*002~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1045094	Energie- und Wasserversorgung Bruchsal GmbH		Franz-Peter-Siegel-Straße 0	76669	Bad Schönborn	49.201450	8.652830	1		Nur für Kunden/Besucher	DE*EWB*E00034*001~TYPE2:22+SCHUKO:22|DE*EWB*E00034*002~TYPE2:22+SCHUKO:22
+1045096	Energie- und Wasserversorgung Bruchsal GmbH		Tunnelstr. 9	76646	Bruchsal	49.120822	8.598498	1	24/7	Nur für Kunden/Besucher	DE*EWB*E00030*001~TYPE2:22+SCHUKO:3|DE*EWB*E00030*002~TYPE2:22+SCHUKO:3
+1045097	Energie- und Wasserversorgung Bruchsal GmbH		Stegwiesenstr. 8	76646	Bruchsal	49.137320	8.591298	1	24/7	Nur für Kunden/Besucher	DE*EWB*E0056*003 DE*EWB*E0056*002~CHADEMO:50+CCS2:50|DE*EWB*E0056*001~TYPE2:22
+1046848	Parkraumgesellschaft Baden-Württemberg GmbH		Sandgasse 16	69117	Heidelberg	49.409627	8.706303	1			~TYPE2:22|~TYPE2:22
+1046849	Parkraumgesellschaft Baden-Württemberg GmbH		Friedrich-Ebert-Straße 51 C	69117	Heidelberg	49.408524	8.702706	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046895	go2zero		Jahnstraße 4	69181	Leimen	49.340136	8.684781	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1047079	deer GmbH	Zaisersweiher, Füllmenbacherhofweg	Füllmenbacherhofweg 1/1	75433	Maulbronn	49.008666	8.861525	1	24/7	Keine Beschränkung	DE*753*E00311*001~TYPE2:22|DE*753*E00311*002~TYPE2:22
+1047081	deer GmbH	Knittlingen, Parkstraße	Parkstr. 2	75438	Knittlingen	49.026015	8.758385	1	24/7	Keine Beschränkung	DE*753*E00321*001~TYPE2:22|DE*753*E00321*002~TYPE2:22
+1047083	deer GmbH	Freudenstein, Seewiesenstraße	Seewiesenstr. 5	75438	Knittlingen	49.029025	8.812838	1	24/7	Keine Beschränkung	DE*753*E00322*001~TYPE2:22|DE*753*E00322*002~TYPE2:22
+1047552	EnBW mobility+ AG und Co.KG		Speyerer Str. 1	68766	Hockenheim	49.336600	8.533550	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22
+1048319	ALDI SÜD	KIR-070	Schubertstr. 17	68723	Schwetzingen	49.389577	8.579449	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23088~CCS2:150|DE*ALD*E23089~CCS2:150
+1048634	Lidl		Melanchthonstr. 91	75015	Bretten	49.038656	8.696360	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:50+CCS2:50|~TYPE2_TETHERED:50+CHADEMO:50
+1048707	Lidl	6073_Lidl_Schwetzingen_T54-HU1-3219-001	Borsigstr. 3	68723	Schwetzingen	49.390520	8.579660	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1048727	Lidl	4265_Lidl_Knittlingen_T54-HU1-3519-001	Siemensstr. 2	75438	Knittlingen	49.021186	8.749934	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048753	Lidl	6267_Lidl_Bruchsal_T54-HU1-3419-010	Eisenbahnstr. 1	76646	Bruchsal	49.120561	8.581960	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048831	Lidl	6666_Lidl_T54-HU1-3219-005	Ubstadter Str. 34	76698	Ubstadt-Weiher	49.171724	8.617825	1		Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50
+1048891	Lidl	6504_Lidl_Eberbach_T65-IT1-1822-077	Neuer Weg-Nord 38	69412	Eberbach	49.471969	8.985643	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048997	Lidl		Im Schiff 28	68789	St. Leon-Rot	49.268633	8.614100	1			~TYPE2_TETHERED:22+CCS2:22|~TYPE2:22+TYPE2_TETHERED:22
+1049710	E.ON Drive Infrastructure		Raststätte Hardtwald West 0	69207	Sandhausen	49.350108	8.630616	1			~CCS2:50|~CCS2:50
+1049904	Shell Deutschland GmbH		Wössinger Str. 136	75045	Walzbachtal	49.017680	8.598392	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1049907	Shell Deutschland GmbH		Im Entenfang 2a	76689	Karlsdorf-Neuthard	49.135199	8.527059	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1049980	amperio GmbH (DEAMP)		Speyerer Straße 1	68766	Hockenheim	49.335615	8.533352	1			~TYPE2:22|~TYPE2:22
+1050003	amperio GmbH (DEAMP)		Hambrücker Landstraße 4	68753	Waghäusel	49.211909	8.529070	1			~TYPE2:22|~TYPE2:22
+1050363	Pfalzwerke AG		Strombergstraße 5	74889	Sinsheim	49.247248	8.878005	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1050365	Pfalzwerke AG		Neidensteiner Str. 32	74915	Waibstadt	49.302642	8.910918	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1050369	Pfalzwerke AG		Ludwigspl. 2	67122	Altrip	49.432368	8.501812	1			~TYPE2:22|~TYPE2:22
+1050374	Pfalzwerke AG		Industriestraße 1	74909	Meckesheim	49.317020	8.813564	1			~TYPE2:22|~CCS2:50|DE*PWA*EALP22267X01897*01~CCS2:150|DE*PWA*EALP22267X01897*02~CCS2:150
+1050379	Pfalzwerke AG		Frankenäcker 2	69231	Rauenberg	49.273211	8.696102	1			~TYPE2:22|~CCS2:150|~CCS2:150|DE*PWA*EALP22270X01888*01~CCS2:300|DE*PWA*EALP22270X01888*02~CCS2:300
+1050408	Pfalzwerke AG		Walldorfer Straße 0	69226	Nussloch	49.320110	8.687501	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1050423	Pfalzwerke AG		Durlacher Str. 86	76356	Weingarten	49.045014	8.526036	1			~TYPE2:22|~CCS2:50|DE*PWA*EALP22270X01916*01~CCS2:300|DE*PWA*EALP22270X01916*02~CCS2:300
+1050429	Pfalzwerke AG		Wusseldornstraße 0	74918	Angelbachtal	49.236624	8.766834	1			~CCS2:150|~CCS2:150|DE*PWA*EALP22270X01915*01~CCS2:300|DE*PWA*EALP22270X01915*02~CCS2:300
+1050516	Pfalzwerke AG		Dührener Straße 33	74889	Sinsheim	49.248110	8.861530	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050537	Pfalzwerke AG		Hambrücker Landstraße 7-9	68753	Waghäusel	49.212000	8.527620	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050635	Pfalzwerke AG		Ubstadter Straße 40	76698	Ubstadt-Weiher	49.171352	8.616869	1			~CCS2:150|~CCS2:150
+1050653	Pfalzwerke AG		Grenzhöfer Straße 100	68723	Schwetzingen	49.396731	8.578203	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~TYPE2:22|~TYPE2:22
+1050670	Pfalzwerke AG		Hauptstraße 208	69207	Sandhausen	49.348970	8.654200	1			~CCS2:150|~CCS2:150
+1050691	Pfalzwerke AG		Wieblinger Weg 94-98	69123	Heidelberg	49.411225	8.646659	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050784	Pfalzwerke AG		Dielheimer Straße 52	69168	Wiesloch	49.297124	8.717110	1			~CCS2:150|~CCS2:150
+1050832	Pfalzwerke AG		Beethovenstr. 1	69234	Dielheim	49.281743	8.725492	1			~CCS2:150|~CCS2:150
+1050854	Pfalzwerke AG		Relaisstraße 21-27	68219	Mannheim	49.437294	8.524809	1			~CCS2:150|~CCS2:150
+1050869	Pfalzwerke AG		Schloßstr 55	69168	Wiesloch	49.301133	8.696401	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1051173	EnBW ODR AG		Kirchplatz 2	75045	Walzbachtal	49.032576	8.573511	1			~TYPE2:22|~TYPE2:22
+1051699	Autohaus Morrkopf GmbH & Co. KG		Durlacher Straße 80	76356	Weingarten	49.046111	8.526317	1			~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22
+1052102	Klaus Streib GmbH		Horrenbergerstrasse 6/1	74939	Zuzenhausen	49.295278	8.822778	1			~TYPE2:22
+1053327	e-jIn GmbH	e-jIn Ladestation Karlsdorf-Neuthard	Im Ochsenstall 12	76689	Karlsdorf-Neuthard	49.147810	8.551993	1	24/7	Keine Beschränkung	DEEJIE1234572499*1~CCS2:200|DEEJIE1234572499*2~CCS2:200
+1053458	JET Tankstellen Deutschland GmbH		Im Hagen 2	69181	Leimen	49.354607	8.678877	1		Nur für Kunden/Besucher	~CCS2:400|~CCS2:400
+1053459	JET Tankstellen Deutschland GmbH		Im Hagen 2	69181	Leimen	49.354636	8.678964	1		Nur für Kunden/Besucher	~CCS2:400|~CCS2:400
+1054781	Aral Pulse		Alexanderplatz 0	75015	Bretten	49.037727	8.687321	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055421	Stadtwerke Heidelberg Energie GmbH		Im Neuenheimer Feld 205	69120	Heidelberg	49.418749	8.675251	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1055422	Stadtwerke Heidelberg Energie GmbH		Hauptstr. 20	69151	Neckargemünd	49.392988	8.800113	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1055423	Stadtwerke Heidelberg Energie GmbH		Zwingerstraße 20	69117	Heidelberg	49.410921	8.712041	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1055424	Stadtwerke Heidelberg Energie GmbH		Untere Neckarstraße 2	69117	Heidelberg	49.411731	8.696741	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1055426	Stadtwerke Heidelberg Energie GmbH		Alte Eppelheimer Straße 0	69115	Heidelberg	49.406071	8.680941	1			~TYPE2:11|~TYPE2:22
+1055427	Stadtwerke Heidelberg Energie GmbH		Da-Vinci-Straße 0	69115	Heidelberg	49.402960	8.663700	1			~TYPE2:22|~TYPE2:22
+1055428	Stadtwerke Heidelberg Energie GmbH		Brückenkopfstraße 1	69120	Heidelberg	49.413541	8.692575	1			~TYPE2:11|~TYPE2:22
+1055429	Stadtwerke Heidelberg Energie GmbH		Wieblinger Weg 24	69115	Heidelberg	49.409399	8.661824	1			~TYPE2:22|~TYPE2:22
+1055430	Stadtwerke Heidelberg Energie GmbH		Kirchheimer Weg 4	69124	Heidelberg	49.394544	8.676054	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1055431	Stadtwerke Heidelberg Energie GmbH		Friedrich-Ebert-Platz 0	69117	Heidelberg	49.408614	8.698401	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055432	Stadtwerke Heidelberg Energie GmbH		Alte Eppelheimer Straße 0	69115	Heidelberg	49.406424	8.681374	1			~TYPE2:22|~TYPE2:22
+1055433	Stadtwerke Heidelberg Energie GmbH		Sickingenstraße 0	69126	Heidelberg	49.384106	8.680910	1			~TYPE2:22|~TYPE2:22
+1055434	Stadtwerke Heidelberg Energie GmbH		Am Fürstenweiher 40	69118	Heidelberg	49.428058	8.748028	1			~TYPE2:22|~TYPE2:22
+1055435	Stadtwerke Heidelberg Energie GmbH		Max-Berk-Straße 20	69226	Nußloch	49.331695	8.684364	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055436	Stadtwerke Heidelberg Energie GmbH		Max-Jarecki-Straße 0	69115	Heidelberg	49.402050	8.672877	1			~TYPE2:22|~TYPE2:22
+1055437	Stadtwerke Heidelberg Energie GmbH		Rufinusplatz 0	69120	Heidelberg	49.415501	8.678133	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055438	Stadtwerke Heidelberg Energie GmbH		Bahnhofstraße 61	69115	Heidelberg	49.405094	8.685464	1			~TYPE2:22|~TYPE2:22
+1055439	Stadtwerke Heidelberg Energie GmbH		Pleikartsförster Straße 130	69124	Heidelberg	49.387181	8.664742	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055441	Stadtwerke Heidelberg Energie GmbH		Erlenweg 26	69124	Heidelberg	49.374343	8.676610	1			~TYPE2:22|~TYPE2:22
+1055442	Stadtwerke Heidelberg Energie GmbH		Tiergartenstr. 3	69120	Heidelberg	49.419640	8.659545	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055443	Stadtwerke Heidelberg Energie GmbH		Ahornweg 0	69124	Heidelberg	49.378716	8.677192	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055444	Stadtwerke Heidelberg Energie GmbH		Berghalde 11	69126	Heidelberg	49.380024	8.704141	1			~TYPE2:22|~TYPE2:22
+1055445	Stadtwerke Heidelberg Energie GmbH		Vangerowstraße 0	69115	Heidelberg	49.408882	8.678966	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055446	Stadtwerke Heidelberg Energie GmbH		Fritz-Frey-Straße 10	69121	Heidelberg	49.434952	8.681151	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055447	Stadtwerke Heidelberg Energie GmbH		Steigerweg 25	69115	Heidelberg	49.399062	8.692608	1			~TYPE2:22|~TYPE2:22
+1055449	Stadtwerke Heidelberg Energie GmbH		Slevogtstraße 0	69115	Heidelberg	49.360468	8.705494	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055450	Stadtwerke Heidelberg Energie GmbH		Breslauer Straße 26	69124	Heidelberg	49.383565	8.666606	1			~TYPE2:22|~TYPE2:22
+1055451	Stadtwerke Heidelberg Energie GmbH		Zeppelinstraße 11-33	69120	Heidelberg	49.423175	8.684672	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1055452	Stadtwerke Heidelberg Energie GmbH		Pfälzer Straße 21	69123	Heidelberg	49.419048	8.649889	1			~TYPE2:22|~TYPE2:22
+1055453	Stadtwerke Heidelberg Energie GmbH		Lothar-Wiegand-Ring 60	69214	Eppelheim	49.403815	8.618701	1			~TYPE2:22|~TYPE2:22
+1055454	Stadtwerke Heidelberg Energie GmbH		Marktplatz/Hugo-Giese-Platz 0	69214	Eppelheim	49.399503	8.631187	1			~TYPE2:22|~TYPE2:22
+1055455	Stadtwerke Heidelberg Energie GmbH		Belfortstraße 0	69115	Heidelberg	49.404300	8.680290	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055456	Stadtwerke Heidelberg Energie GmbH		In der Aue 0	69118	Heidelberg	49.415059	8.761994	1			~TYPE2:22|~TYPE2:22
+1055457	Stadtwerke Heidelberg Energie GmbH		Kurfürsten-Anlage 42-50	69115	Heidelberg	49.434675	8.678250	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055458	Stadtwerke Heidelberg Energie GmbH		An der Steige 0	69151	Neckargemünd	49.397422	8.837338	1			~TYPE2:22|~TYPE2:22
+1055459	Stadtwerke Heidelberg Energie GmbH		Jahnstr 17A	69151	Neckargemünd	49.394218	8.788977	1			~TYPE2:22|~TYPE2:22
+1055460	Stadtwerke Heidelberg Energie GmbH		Im Hüttenbühl 1	69124	Heidelberg	49.383360	8.662310	1			~TYPE2:22|~TYPE2:22
+1055461	Stadtwerke Heidelberg Energie GmbH		Dantestr. 50	69115	Heidelberg	49.400401	8.682999	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055463	Stadtwerke Heidelberg Energie GmbH		Am grünen Haag 16-20	69118	Heidelberg	49.413420	8.770280	1			~TYPE2:22|~TYPE2:22
+1055464	Stadtwerke Heidelberg Energie GmbH		Langgewann 1	69121	Heidelberg	49.420987	8.679651	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055465	Stadtwerke Heidelberg Energie GmbH		Peterstaler Straße 15	69118	Heidelberg	49.419260	8.756240	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055467	Stadtwerke Heidelberg Energie GmbH		Hans-Thoma-Straße 49-51	69121	Heidelberg	49.432870	8.680336	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055468	Stadtwerke Heidelberg Energie GmbH		Käfertalerstraße 7	69123	Heidelberg	49.431410	8.646090	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055469	Stadtwerke Heidelberg Energie GmbH		Quinckestraße 69	69120	Heidelberg	49.419490	8.682852	1			~TYPE2:22|~TYPE2:22
+1055470	Stadtwerke Heidelberg Energie GmbH		Carl-Bosch-Straße 3	69115	Heidelberg	49.396090	8.681340	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055471	Stadtwerke Heidelberg Energie GmbH		Wilhelmstraße 9000V	69115	Heidelberg	49.402985	8.687863	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055472	Stadtwerke Heidelberg Energie GmbH		Im Hofert 26	69118	Heidelberg	49.411162	8.770802	1			~TYPE2:22|~TYPE2:22
+1055473	Stadtwerke Heidelberg Energie GmbH		Baden-Badener Straße 5	69124	Heidelberg	49.376336	8.680638	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055474	Stadtwerke Heidelberg Energie GmbH		Untere Seegasse 51	69124	Heidelberg	49.376094	8.671233	1			~TYPE2:22|~TYPE2:22
+1055475	Stadtwerke Heidelberg Energie GmbH		Im Beind 4	69126	Heidelberg	49.374649	8.693138	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055476	Stadtwerke Heidelberg Energie GmbH		Grüne Meile 31	69115	Heidelberg	49.404300	8.663540	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055477	Stadtwerke Heidelberg Energie GmbH		Ludwig Tieck Straße 6	69126	Heidelberg	49.380800	8.689540	1			~TYPE2:22|~TYPE2:22
+1055478	Stadtwerke Heidelberg Energie GmbH		Zum Steinberg 15	69121	Heidelberg	49.431389	8.686842	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055479	Stadtwerke Heidelberg Energie GmbH		Tiergartenstraße 126V	69121	Heidelberg	49.426662	8.661709	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055480	Stadtwerke Heidelberg Energie GmbH		Königstuhl 5	69117	Heidelberg	49.402780	8.729260	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055482	Stadtwerke Heidelberg Energie GmbH		Mönchhofplatz 1	69120	Heidelberg	49.416627	8.692228	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055483	Stadtwerke Heidelberg Energie GmbH		Kapellenweg 4	69121	Heidelberg	49.424554	8.688722	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055484	Stadtwerke Heidelberg Energie GmbH		Keplerstraße 0	69120	Heidelberg	49.418013	8.685406	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055485	Stadtwerke Heidelberg Energie GmbH		Römerstraße 109	69126	Heidelberg	49.391140	8.686430	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055486	Stadtwerke Heidelberg Energie GmbH		Römerstraße 103	69126	Heidelberg	49.392060	8.686230	1			~TYPE2:22|~TYPE2:22
+1055487	Stadtwerke Heidelberg Energie GmbH		Maria-Probst-Straße 3	06912	Heidelberg	49.413630	8.655330	1			~TYPE2:22|~TYPE2:22
+1055488	Stadtwerke Heidelberg Energie GmbH		Turnerstraße 36	69126	HEidelberg	49.388520	8.689040	1			~TYPE2:22|~TYPE2:22
+1055489	Stadtwerke Heidelberg Energie GmbH		Hardtstraße 57	69124	Heidelberg	49.379500	8.675010	1			~TYPE2:22|~TYPE2:22
+1055490	Stadtwerke Heidelberg Energie GmbH		Langer Anger 175	69115	Heidelberg	49.403708	8.663210	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055491	Stadtwerke Heidelberg Energie GmbH		Bonhoefferstraße 11	69123	Heidelberg	49.412647	8.656032	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055492	Stadtwerke Heidelberg Energie GmbH		Felix-Wankel-Str. 18	69126	Heidelberg	49.382442	8.677769	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055493	Stadtwerke Heidelberg Energie GmbH		Zentstraße 2	69124	Heidelberg	49.379750	8.671362	1			~TYPE2:22|~TYPE2:22
+1055494	Stadtwerke Heidelberg Energie GmbH		Theodor-Körner-Straße 25-17	69115	Heidelberg	49.407274	8.670259	1			~TYPE2:22|~TYPE2:22
+1055495	Stadtwerke Heidelberg Energie GmbH		Waldweg 8	69121	Heidelberg	49.430657	8.692226	1			~TYPE2:22|~TYPE2:22
+1055496	Stadtwerke Heidelberg Energie GmbH		Zähringerstraße 32	69115	Heidelberg	49.401635	8.684421	1			~TYPE2:22|~TYPE2:22
+1055497	Stadtwerke Heidelberg Energie GmbH		Sandwingert 15	69123	Heidelberg	49.418327	8.646629	1			~TYPE2:22|~TYPE2:22
+1055498	Stadtwerke Heidelberg Energie GmbH		Stiftweg 32	69118	Heidelberg	49.424013	8.743497	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055499	Stadtwerke Heidelberg Energie GmbH		Max-Joseph-Straße 71	69126	Heidelberg	49.378228	8.680536	1			~TYPE2:22|~TYPE2:22
+1055500	Stadtwerke Heidelberg Energie GmbH		Boxbergring 29	69126	Heidelberg	49.376289	8.706966	1			~TYPE2:22|~TYPE2:22
+1055501	Stadtwerke Heidelberg Energie GmbH		Hans-Thoma-Platz 16	69121	Heidelberg	49.427286	8.682511	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055506	Stadtwerke Heidelberg Energie GmbH		Heuauer Weg 0	69124	Heidelberg	49.376185	8.658220	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055509	Stadtwerke Heidelberg Energie GmbH		Tiergartenstr. 3	69120	Heidelberg	49.414924	8.664767	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1055534	Stadtwerke Heidelberg Energie GmbH		Schwalbenweg 1-2	69123	Heidelberg	49.398926	8.652166	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055536	Stadtwerke Heidelberg Energie GmbH		Nina-Simone-Straße 6	69126	Heidelberg	49.387631	8.681031	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055542	Stadtwerke Heidelberg Energie GmbH		Carl-Friedrich-Gauß-Ring 16	69124	Heidelberg	49.394903	8.671391	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056298	Lidl	3689_Lidl_Eppingen_T65-IT1-0523-104	Tullastr. 2-8	75031	Eppingen	49.133103	8.903365	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2_TETHERED:11|~CCS2:60
+1057147	Lidl	6874_Lidl_Walzbachtal-Wössingen_T65-IT1-0523-128	Wössinger Str. 136	75045	Walzbachtal	49.017538	8.599462	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1057758	Stadtwerke Pforzheim		Gartenstraße 0	75443	Maulbronn	49.000640	8.808560	1			~TYPE2:22|~TYPE2:22
+1057761	Stadtwerke Pforzheim		Knittlinger Steige 0	75443	Maulbronn	49.001001	8.801508	1			~TYPE2:22|~TYPE2:22
+1057776	Stadtwerke Pforzheim		Gartenstraße 15	75443	Maulbronn	49.000638	8.808541	1			~TYPE2:22|~TYPE2:22
+1059954	EnBW ODR AG		Eisenacher Str. 6	68723	Schwetzingen	49.393030	8.566793	1	24/7	Keine Beschränkung	DE*ODR*E1000*0943~TYPE2:22|DE*ODR*E1000*0944~TYPE2:22
+1059971	Stadtwerke Heidelberg Energie GmbH	Im Bieth	Im Bieth 26	69124	Heidelberg	49.384022	8.658207	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059976	Stadtwerke Heidelberg Energie GmbH	Kirchheimer Weg	Kirchheimer Weg 18	69124	Heidelberg	49.391300	8.673464	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059982	Stadtwerke Heidelberg Energie GmbH	Hertzstraße	Hertzstr. 4	69126	Heidelberg	49.366930	8.684670	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059988	Stadtwerke Heidelberg Energie GmbH	Tullastraße	Tullastr. 11	69126	Heidelberg	49.363720	8.680540	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059992	Stadtwerke Heidelberg Energie GmbH	Maaßstraße	Maaßstr. 4/4	69123	Heidelberg	49.423695	8.647344	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059996	Stadtwerke Heidelberg Energie GmbH	Hauptstraße	Hauptstr. 82	69221	Dossenheim	49.450439	8.679818	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1060004	Stadtwerke Heidelberg Energie GmbH	Konrad-Adenauer-Straße	Konrad-Adenauer-Str. 0	69221	Dossenheim	49.445089	8.666869	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1060040	MVV Energie AG	MaLIS_Waghäusel_Gesundheitszentrum	Lorenz-Brentano-Allee 4	68753	Waghäusel	49.250023	8.507400	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1060047	MVV Energie AG	MaLIS_Walldorf_Nußlocherstraße	Nußlocher Str. 56	69190	Walldorf	49.306167	8.650484	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060048	MVV Energie AG	MaLIS_Seckenheimer_Hauptstraße	Seckenheimer Hauptstr. 97	68239	Mannheim	49.465092	8.565577	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060052	MVV Energie AG	MaLIS_Walldorf_Schulstraße	Schulstr. 2	69190	Walldorf	49.302375	8.643610	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|DE*MVV*E00653*R1~TYPE2:22|DE*MVV*E00653*L1~TYPE2:22
+1060053	MVV Energie AG	MaLIS_Walldorf_Ringstraße	Ringstr. 7a	69190	Walldorf	49.306616	8.645327	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060054	MVV Energie AG	MaLIS_Walldorf_Lindenplatz	Johann-Jakob-Astor-Str. 15	69190	Walldorf	49.303432	8.645452	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1060056	MVV Energie AG	MaLIS_Walldorf_Odenwaldstraße	Odenwaldstr. 12	69190	Walldorf	49.302817	8.652353	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060057	MVV Energie AG	MaLIS_Walldorf_AQWA	Schwetzinger Str. 88	69190	Walldorf	49.313003	8.640449	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060058	MVV Energie AG	MaLIS_Walldorf_Zimmerstraße	Zimmerstr. 13	69190	Walldorf	49.305836	8.643655	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1060059	MVV Energie AG	MaLIS_Walldorf_Edeka	Hans-Holbein-Str. 1	69190	Walldorf	49.307703	8.634953	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1061129	Oharek GmbH		Höhenburgstr. 31	75038	Oberderdingen	49.080710	8.771503	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1061141	Stadtwerke Heidelberg Energie GmbH	Elsa-Brändström-Straße	Elsa-Brändström-Str. 0	69126	Heidelberg	49.389900	8.684510	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1061195	deer GmbH	Schönau, Friedhof	Hauptstr. 9	69250	Schönau	49.433689	8.808558	1	24/7	Keine Beschränkung	DE*753*E00415*001~TYPE2:22|DE*753*E00415*002~TYPE2:22
+1062393	Parkraumgesellschaft Baden-Württemberg GmbH	Garage-Parkplatz	Weißhofer Str. 47	75015	Bretten	49.036056	8.711878	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1062483	Stadtwerke Heidelberg Energie GmbH	Mühltalstraße	Mühltalstr. 147	69121	Heidelberg	49.431600	8.705220	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062651	Stadtwerke Heidelberg Energie GmbH	Pfaffengrunder Platte	Pfaffengrunder Platte 0	69123	Heidelberg	49.402130	8.644790	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1062654	Stadtwerke Heidelberg Energie GmbH	Carl-Schurz-Straße	Carl-Schurz-Str. 0	69126	Heidelberg	49.391804	8.686513	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062970	deer GmbH	Oftersheim, Uhlandstraße	Uhlandstr. 9	68723	Oftersheim	49.373386	8.586765	1	24/7	Keine Beschränkung	DE*753*E00435*001~TYPE2:22|DE*753*E00435*002~TYPE2:22
+1063469	HEG Heidelberger Energiegenossenschaft eG		Zengerstraße 4	69066	heidelberg	49.388889	8.682139	1			~TYPE2:22|~TYPE2:22
+1063470	HEG Heidelberger Energiegenossenschaft eG		Rheinstraße 1	69126	Heidelberg	49.389878	8.682020	1			~TYPE2:22|~TYPE2:22
+1063471	HEG Heidelberger Energiegenossenschaft eG		Rheinstraße 7	69126	Heidelberg	49.389569	8.682690	1			~TYPE2:22|~TYPE2:22
+1063472	HEG Heidelberger Energiegenossenschaft eG		Kurpfalzring 77	69123	Heidelberg	49.412129	8.641530	1			~TYPE2:22|~TYPE2:22
+1063473	HEG Heidelberger Energiegenossenschaft eG		Rheinstraße 9	69126	Heidelberg	49.389702	8.683220	1			~TYPE2:22
+1063474	HEG Heidelberger Energiegenossenschaft eG		John-Zenger-Str./ Ecke Rheinstr. -	69126	Heidelberg	49.389633	8.682048	1			~TYPE2:22
+1063475	HEG Heidelberger Energiegenossenschaft eG		Rheinstraße 8	69126	Heidelberg	49.388647	8.682763	1			~TYPE2:22|~TYPE2:22
+1063476	HEG Heidelberger Energiegenossenschaft eG		Ossip-Mandelstam-Straße 1	69126	Heidelberg	49.376101	8.686391	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063965	smopi		Maaßstraße 28	69123	Heidelberg	49.422885	8.643081	1			~TYPE2:22
+1063977	smopi		Freiburger Straße 1	68239	Mannheim	49.466707	8.562514	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063985	smopi		Zeiloch 14	76646	Bruchsal	49.138930	8.586473	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064048	Kaufland	8670_Kland_Eppingen_T53-IT1-3717-007	Eisenbahnstr. 2	75031	Eppingen	49.136819	8.915302	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064100	Kaufland	8160_Kland_Schwetzingen_T53-HU1-1718-001	Carl-Theodor-Str. 33	68723	Schwetzingen	49.385272	8.577583	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064154	Kaufland	4190_Kland_Bretten_T54-IT1-3519-102	Diedelsheimer Höhe 6	75015	Bretten	49.039874	8.690271	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064233	Kaufland	5180_Kland_Heidelberg_T65-IT1-3422-063	Eppelheimer Str. 78	69123	Heidelberg	49.403619	8.646103	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1064851	Aral Pulse		Bruchsaler Str. 67	76694	Forst	49.146940	8.588365	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1064940	Aral Pulse		Muthstraße 25	74889	Sinsheim	49.251993	8.871726	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1064989	Stadtwerke Viernheim GmbH		Fenchelstraße 13	69493	Hirschberg an der Bergstraße	49.497901	8.659780	1			~TYPE2:22|~TYPE2:22
+1065140	SMATRICS GmbH & Co KG		Neulandstraße 8	74889	Sinsheim	49.247720	8.879625	1			~CCS2:50|~TYPE2:22
+1065988	Team-Emobility GmbH		Melanchthonstraße 137	75015	Bretten	49.038852	8.690364	1		Keine Beschränkung	~CCS2:39|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066350	S&G Automobil AG		Gondelsheimer Str. 17	75015	Bretten	49.041989	8.673060	1			~TYPE2:11|~TYPE2:11
+1066351	S&G Automobil AG		Stegwiesenstraße 5	76646	Bruchsal	49.136998	8.591920	1			~TYPE2:11|~TYPE2:11
+1066649	Langnickel Logistik		Kammerforst Strasse 5b	76646	Bruchsal	49.136390	8.544439	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1067039	Süwag Vertrieb AG & Co. KG		Langheckenstraße 2	69245	Bammental	49.349492	8.768603	1			~TYPE2:22|~TYPE2:22
+1067896	Pflege-Team Fleischer		Schillerstraße 49	69234	Dielheim	49.286920	8.730920	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1067994	Jimbu e.K.		Bertha-Benz-Straße 15	75438	Knittlingen	49.023033	8.741806	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068101	Städtische Dienste Eberbach		Bahnhofsplatz 0	69412	Eberbach	49.465047	8.984294	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1068102	Städtische Dienste Eberbach		Brückenstraße 0	69412	Eberbach	49.461069	8.987824	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1068104	Städtische Dienste Eberbach		Bahnhofsplatz 6a	69412	Eberbach	49.465065	8.984420	1			~TYPE2:22|~TYPE2:22
+1068367	Städtische Dienste Eberbach	Güterbahnhofstr. SWE1	Güterbahnhofstr. 0	69412	Eberbach	49.465042	8.986892	1	Mo-Do 17:00-23:59, Fr 13:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	DESDEE000501~TYPE2:22|DESDEE000502~TYPE2:22|DESDEE000503~TYPE2:22|DESDEE000504~TYPE2:22
+1068390	CaRD Gesellschaft für EDV Beratung mbH		Gutenbergring 2	69168	Wiesloch	49.291630	8.660880	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1068467	BENZ GmbH & Co. KG Baustoffe		Auwiesen 4	74924	Neckarbischofsheim	49.295369	8.950124	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068468	BENZ GmbH & Co. KG Baustoffe		Zweite Industriestr. 7	68766	Hockenheim	49.341696	8.543022	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068476	interBOTZ		Anemonenweg 8	76698	Ubstadt-Weiher	49.173932	8.666106	1			~TYPE2:11
+1068483	Walter Pottiez GmbH		Mühlhohlstrasse 7	75056	Dulzfeld	49.107410	8.850330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068575	novuplast GmbH		Im Täle 17	75031	Eppingen	49.105256	8.893427	1			~TYPE2_TETHERED:11
+1069047	Gemeinde Lobbach		Torgartenstr. 999 Z	74931	Lobbach	49.355750	8.870630	1			~TYPE2:22|~TYPE2:22
+1069048	Gemeinde Lobbach		Hauptstr. 52	74931	Lobbach	49.375890	8.891220	1			~TYPE2:22|~TYPE2:22
+1069167	Promega GmbH		Gutenbergring 10	69190	Walldorf	49.289963	8.657101	1			~TYPE2:22|~TYPE2:22
+1069493	sab Burkhardt GmbH		Lanzstraße 24	68789	St.Leon-Rot	49.244056	8.638083	1			~TYPE2_TETHERED:22
+1069949	Bauer Systeme GmbH		Steinäcker 7	75015	Bretten	49.048650	8.732410	1			~TYPE2:22|~TYPE2:22
+1070227	Hans Junginger		Im Dossenwald 2	69221	Dossenheim	49.455790	8.650760	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1070345	Hotel Vorfelder		Bahnhofstraße 28	69190	Walldorf	49.300491	8.644219	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1070509	BEG Kraichgau eG		Museumsplatz 1	74889	Sinsheim	49.238230	8.898030	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071078	Stadt Leimen		Turmgasse 20	69181	Leimen	49.349299	8.690431	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071079	Stadt Leimen	Amtsverwaltung St.Ilgen	Weberstr. 2	69181	Leimen	49.335592	8.671566	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071371	Grob Antriebstechnik		Eberhard-Layher-Str. 5-7	74889	Sinsheim	49.237616	8.899839	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1071414	HEG Heidelberger Energiegenossenschaft eG	E+kubator	Palo-Alto-Platz 11	69124	Heidelberg	49.394071	8.674416	1		Nur für Kunden/Besucher	DE*BLN*E*690660017~TYPE2:22|DE*BLN*E*690660018~TYPE2:22|DE*BLN*E*690660022~TYPE2:22|DE*BLN*E*690660023~TYPE2:22|DE*BLN*E*690660024~TYPE2:22|DE*BLN*E*690660025~TYPE2:22|DE*BLN*E*690660028~TYPE2:22|DE*BLN*E*690660029~TYPE2:22|DE*BLN*E*690660030~TYPE2:22|DE*BLN*E*690660031~TYPE2:22|DE*BLN*E*690660032~TYPE2:22|DE*BLN*E*690660033~TYPE2:22
+1071425	BEG Kraichgau eG		In der Au 25	74889	Sinsheim	49.240160	8.894793	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071426	BEG Kraichgau eG		Am Karlsbrunnen 0	69256	Mauer	49.336960	8.785950	1			~TYPE2:22|~TYPE2:22
+1071428	BEG Kraichgau eG		Röhrgasse 20	69168	Wiesloch	49.293640	8.699145	1			~TYPE2:22|~TYPE2:22
+1071429	BEG Kraichgau eG		Badewelt 1	74889	Sinsheim	49.236674	8.884104	1		Keine Beschränkung	DE*BLN*E*748890025~TYPE2:22|DE*BLN*E*748890026~TYPE2:22
+1071430	BEG Kraichgau eG		Birkenweg 15	69168	Wiesloch	49.317609	8.750667	1		Keine Beschränkung	DE*BLN*E*69168002~TYPE2:22|DE*BLN*E*69168002*2~TYPE2:22
+1071431	BEG Kraichgau eG		Hauptstraße 80	74912	Kirchardt	49.203689	8.989168	1		Keine Beschränkung	DE*BLN*E*748890015~TYPE2:22|DE*BLN*E*748890016~TYPE2:22
+1071432	BEG Kraichgau eG		Alte Heerstraße 1	69168	Wiesloch	49.292127	8.678342	1			~TYPE2:22|~TYPE2:22
+1071433	BEG Kraichgau eG		Dorfplatz 2	69168	Wiesloch	49.277198	8.672132	1			~TYPE2:22|~TYPE2:22
+1071434	BEG Kraichgau eG		Neulandstraße 25	74889	Sinsheim	49.244585	8.885081	1			~TYPE2:22|~TYPE2:22
+1072155	Ladesäulen Johannes-Diakonie		Lindenplatz 1	74869	Schwarzach	49.378308	8.987501	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1072485	KWG GmbH Nußloch		Hauptstraße 93-95	69226	Nußloch	49.322163	8.696183	1			~TYPE2:22|~TYPE2:22
+1074512	Teas Energie Solutions GmbH		Am Gottesackertor 18	75015	Bretten	49.036300	8.702000	1			~TYPE2:22
+1075094	Hänssler Kunststoff- und Dichtungstechnik GmbH		Edwin-Reis-Str. 5	68229	Mannheim	49.441883	8.572976	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1075253	Stadtwerke Sinsheim Versorgungs GmbH & Co. KG		Grabengasse 0	74889	Sinsheim	49.253700	8.877500	1			~TYPE2:11|~TYPE2:11
+1075254	Stadtwerke Sinsheim Versorgungs GmbH & Co. KG		Schwimmbadweg 4	74889	Sinsheim	49.250583	8.879565	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1075396	Psychiatrisches Zentrum Nordbaden		Heidelberger Str. 1a	69168	Wiesloch	49.303265	8.706425	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1075450	Hasula GmbH&Co KG		Wildbader Straße 7	68239	Mannheim	49.466534	8.549558	1			~TYPE2:11|~TYPE2:11
+1075757	Oliver Seng Photovoltaik Einzelunternehmen		Erfurterstraße 6	76646	Bruchsal	49.088987	8.542106	1			~TYPE2_TETHERED:11
+1075809	Energiegenossenschaft Hohe Waid eG		Hölderlinstr. 6	69493	Hirschberg	49.499336	8.660807	1			~TYPE2:22|~TYPE2:22
+1075811	Energiegenossenschaft Hohe Waid eG		Neue Anlage 0	68526	Ladenburg	49.473862	8.612258	1			~TYPE2:22|~TYPE2:22
+1075812	Energiegenossenschaft Hohe Waid eG		Feuerleitergasse 0	68526	Ladenburg	49.470880	8.611717	1			~TYPE2:22|~TYPE2:22
+1075813	Energiegenossenschaft Hohe Waid eG		Heidelberger Str. 3	69493	Hirschberg	49.495230	8.655312	1			~TYPE2:22|~TYPE2:22
+1075982	Stadtwerke Bretten GmbH		Hermann-Beuttenmüller-Straße 8	75015	Bretten	49.033996	8.701676	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075985	Stadtwerke Bretten GmbH		Untere Kirchgasse 9	75015	Bretten	49.036561	8.704628	1			~TYPE2:22|~TYPE2:22
+1075986	Stadtwerke Bretten GmbH		Max Plank Straße 1	75015	Bretten	49.031359	8.718637	1			~TYPE2:22|~TYPE2:22
+1076137	Golf Club St. Leon-Rot Betriebsgesellschaft mbH & Co. KG		Opelstraße 30	68789	St. Leon-Rot	49.245536	8.635082	1			~TYPE2:22|~TYPE2:22
+1076138	Golf Club St. Leon-Rot Betriebsgesellschaft mbH & Co. KG		Opelstraße 30	68789	St. Leon-Rot	49.245557	8.635146	1			~TYPE2:22|~TYPE2:22
+1076411	Augustinum Energiemanagement GmbH		Jaspersstraße 2	69126	Heidelberg	49.363414	8.702400	1			~TYPE2:22|~TYPE2:22
+1076650	Dieter Zürn		Vogelgartenweg 3	76669	Bad Schönborn	49.220912	8.652000	1			~TYPE2:22
+1076666	SBW Betreibergesellschaft GmbH		Galileistraße 4	69115	Heidelberg	49.402435	8.666438	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076980	Stadt Leimen	Amtsverwaltung Gauangelloch	Hauptstr. 36	69181	Leimen	49.341492	8.756314	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077413	BEG Kraichgau eG		Alexandergasse 2	74924	Neckarbischofsheim	49.292024	8.961808	1	24/7	Keine Beschränkung	DE*BLN*E*748890049~TYPE2:22|DE*BLN*E*748890049*2~TYPE2:22
+1081276	Ungeheuer Automobile GmbH		Murgstr. 4	76646	Bruchsal	49.137130	8.592760	1			~TYPE2:11|~TYPE2:11
+1081446	Autohaus Heermann und Rhein GmbH		Bismarckstr. 55	75031	Eppingen	49.132435	8.905976	1			~TYPE2:22|~TYPE2:22
+1081459	Pfalzwerke AG		In den Kreuzwiesen 7	69250	Schönau	49.426282	8.809050	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1083733	Zentrum Aktiver Prävention GmbH & Co. KG		Walldorfer Straße 100	69226	Nußloch	49.317325	8.675627	1			~TYPE2:22|~TYPE2:22
+1084014	Midorion GmbH & Co. KG		Jöhlinger Straße 100	75045	Walzbachtal	49.032349	8.575412	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084214	SI Energy		Kurfürsten-Anlage 38-40	69115	Heidelberg	49.406296	8.683636	1		Keine Beschränkung	~TYPE2:11|~TYPE2:22|~TYPE2:22
+1084312	Golfclub Bruchsal eV		Langental-Siedlung 2a	76646	Bruchsal	49.105589	8.607120	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1084450	MVV Energie AG	MaLIS_Schriesheim_Festplatz	Talstr. 9/1	69198	Schriesheim	49.476040	8.661974	1	24/7	Keine Beschränkung	DE*MVV*E00569*L1~CCS2:50|DE*MVV*E00569*R1~CCS2:50|DE*MVV*E00570*L1~CCS2:50|DE*MVV*E00570*R1~CCS2:50
+1084452	MVV Energie AG	MaLIS_Schriesheim_Carl-Benz-Strasse	Carl-Benz-Str. 29	69198	Schriesheim	49.464734	8.664889	1	24/7	Keine Beschränkung	DE*MVV*E00566*L1~CCS2:50|DE*MVV*E00566*R1~CCS2:50
+1084454	MVV Energie AG	MaLIS_Schriesheim_Sporthalle_Schulzentrum	Hirschberger Str. 1	69198	Schriesheim	49.471412	8.654057	1	24/7	Keine Beschränkung	DE*MVV*E00565*L1~TYPE2:22|DE*MVV*E00565*R1~TYPE2:22
+1084455	MVV Energie AG	MaLIS_Schriesheim_Schillerplatz	Theodor-Körner-Str. 16	69198	Schriesheim	49.472793	8.661048	1	24/7	Keine Beschränkung	DE*MVV*E00563*L1~CCS2:50|DE*MVV*E00563*R1~CCS2:50|DE*MVV*E00564*L1~CCS2:50|DE*MVV*E00564*R1~CCS2:50|DE*MVV*E00573*L1~TYPE2:22|DE*MVV*E00573*L1~TYPE2:22
+1084457	Kaufland	1670_KDL_Sinsheim_Terra 60L CCT-60-150_LS2	Neulandstr. 15-17	74889	Sinsheim	49.247848	8.881319	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:22|~CCS2:60|~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50
+1084563	Alexander Rolli		Heidelberger Straße 9	68753	Waghäusel	49.248139	8.548185	1			~TYPE2_TETHERED:11
+1085004	Bodo Reinke - BRCarTrans+Versicherungen		Beethovenstraße 21	75056	Sulzfeld	49.099083	8.849571	1			~TYPE2_TETHERED:11
+1085009	Boris Schneider		Wolfslachstraße 33	76297	Stutensee	49.092652	8.516331	1			~TYPE2:11
+1085070	Christian Baumann		Waldseestraße 55	68219	Mannheim	49.433160	8.533410	1			~TYPE2_TETHERED:2|~TYPE2_TETHERED:11
+1085202	Claudia Kunz		Wolfstr. 24	74937	Spechbach	49.346496	8.884239	1			~TYPE2:11
+1085223	Cosima Thiele		Am Wolfsberg 16	69226	Nußloch	49.326262	8.699274	1			~TYPE2_TETHERED:11
+1085232	Daniel Auer		An der Chaussee 2	69168	Wiesloch	49.320185	8.761863	1			~TYPE2:11
+1085326	Denis Jakel		Lärchenweg 35	76356	Weingarten (Baden)	49.064017	8.510803	1			~TYPE2_TETHERED:11
+1085577	Eugen Gabriel		Beethovenstraße 73A	76669	Bad Schönborn	49.224289	8.656608	1			~TYPE2_TETHERED:11
+1085637	Florian Hees		Hölderlinstraße 6	69207	Sandhausen	49.348271	8.656603	1			~TYPE2_TETHERED:11
+1085871	Günter Tritschler		Haslacher Straße 32	68753	Waghäusel	49.248522	8.515342	1			~TYPE2_TETHERED:11
+1085873	Günther Alexander Hummel		Höhenstraße 25	75015	Bretten	49.008150	8.728265	1			~TYPE2_TETHERED:11
+1085954	Heike Boos		Ewald-Renz-Straße 21	76669	Bad Schönborn	49.198043	8.637527	1			~TYPE2:11
+1086394	Jürgen Weis		Hauptstraße 149	76689	Karlsdorf-Neuthard	49.133454	8.523877	1			~CCS2:11
+1086541	Kurt Maas		Wachenburgstraße 138	68219	Mannheim	49.444692	8.528821	1			~TYPE2:11
+1086568	Laubenergie GmbH		Friedrich-Ebert-Straße 5	69242	Mühlhausen	49.247767	8.736936	1			~TYPE2:22
+1086605	Lucia Blumhofer		Hauptstraße 64	76689	Karlsdorf-Neuthard	49.129048	8.521591	1			~TYPE2_TETHERED:11
+1086634	Maike Homberg		Forlenweg 4	68804	Altlußheim	49.298404	8.502960	1			~TYPE2_TETHERED:11
+1086655	Manuel Amchichi		Paul-Lincke-Weg 3	69245	Bammental	49.353638	8.787556	1			~TYPE2_TETHERED:11
+1086705	Marco Legrum		Schillerstr. 33	68804	Altlußheim	49.298404	8.502960	1			~TYPE2_TETHERED:11
+1086754	Marijo Lasic		Ziethenstrasse 34	68259	Mannheim	49.488671	8.528056	1			~TYPE2_TETHERED:11
+1086806	Markus Laber		Holbinsenstraße 6	74918	Angelbachtal	49.221875	8.785918	1			~TYPE2_TETHERED:11
+1086874	Martin Walla		In der Unteren Rombach 20	69118	Heidelberg	49.414278	8.739097	1			~TYPE2:11
+1086903	Matthias Bechberger		Mozartstraße 39a	68789	Sankt Leon-Rot	49.264591	8.591665	1			~TYPE2_TETHERED:4
+1087138	Nicole Thomson		Badener Straße 50	68239	Mannheim	49.467319	8.553854	1			~TYPE2_TETHERED:11
+1087274	Patrick Haiser		Neckargemünder Straße 9	69151	Neckargemünd	49.392716	8.840231	1			~TYPE2:11
+1087307	Pawel Modzelewski		Im Oberbrühl 53	74909	Meckesheim	49.337482	8.856406	1			~TYPE2_TETHERED:11
+1087464	Ralf Oehlers		Beim Bauerspfad 39	68239	Mannheim	49.459384	8.566618	1			~TYPE2_TETHERED:11
+1087677	Schreinerei Edmund Ganninger GmbH & Co. KG		Zum Grenzgraben 13	76698	Ubstadt-Weiher	49.169390	8.621580	1			~TYPE2_TETHERED:11
+1087717	Sebastian Wendel		Scheuerlesstraße 49	75031	Eppingen	49.140566	8.919394	1			~TYPE2_TETHERED:11
+1087923	Stephan Zirkel	WBS9	Weinbergstraße 9	69231	Rauenberg	49.259075	8.714327	1		Keine Beschränkung	~TYPE2:11
+1087937	Steven Au		Emy-Roeder-Straße 18	68163	Mannheim	49.466288	8.511829	1			~TYPE2:11
+1088111	Thomas Voelkering		Blumenstraße 47	68789	Sankt Leon-Rot	49.264520	8.592174	1			~TYPE2_TETHERED:11
+1088170	Tim Winkelmann		Mönchsweg 10	69250	Schönau	49.439045	8.811433	1			~TYPE2:3
+1089500	Heisenberg Gymnasium e.V.		Sportzentrum 13c	76646	Bruchsal	49.133960	8.583210	1			~TYPE2:11|~TYPE2:11
+1090719	Thomas Schlink		Dammstraße 23	76669	Bad Schönborn	49.201150	8.638550	1			~TYPE2:22
+1091010	MVV Energie AG	MaLIS_Walldorf_Schulzentrum	Schwetzinger Str. 95A	69190	Walldorf	49.314599	8.637563	1	24/7	Keine Beschränkung	DE*MVV*E00657*R1~TYPE2:22|DE*MVV*E00657*L1~TYPE2:22
+1091011	MVV Energie AG	MaLIS_Walldorf_Obere_Grabenstraße	Obere Grabenstr. 4	69190	Walldorf	49.302223	8.642357	1	24/7	Keine Beschränkung	DE*MVV*E12063*R1~TYPE2:22|DE*MVV*E12063*L1~TYPE2:22
+1091012	MVV Energie AG	MaLIS_Walldorf_Johann-Jakob-Astor-Straße	Johann-Jakob-Astor-Str. 35	69190	Walldorf	49.303891	8.648709	1	24/7	Keine Beschränkung	DE*MVV*E12064*R1~TYPE2:22|DE*MVV*E12064*L1~TYPE2:22
+1091013	MVV Energie AG	MaLIS_Walldorf_Scheffelstraße	Scheffelstr. 1	69190	Walldorf	49.304585	8.646432	1	24/7	Keine Beschränkung	DE*MVV*E12484*R1~TYPE2:22|DE*MVV*E12484*L1~TYPE2:22
+1091305	Bodo Reinke	Carport	Beethovenstr. 21	75056	Sulzfeld	49.099050	8.849490	1		Nur für Kunden/Besucher	~TYPE2:11
+1091338	Harald Fein e.k.		Im Sändel 6	69123	Heidelberg	49.426856	8.641498	1			~TYPE2:11|~TYPE2:11
+1092069	Pluq		Am Mühlberg 3	76684	Östringen	49.176642	8.783410	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1092070	Pluq		Am Kreuzbergsee 1	76684	Östringen	49.179586	8.812690	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092849	Hannich Möbeltransport-Spedition GmbH		Steinäcker 6	75015	Bretten	49.048220	8.731506	1			~TYPE2:22|~TYPE2:22
+1092884	Stadtwerke Hockenheim		Schubertstr. 5	68766	Hockenheim	49.317584	8.545261	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1092885	Stadtwerke Hockenheim		Ottostr. 8	68766	Hockenheim	49.318546	8.548705	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1092886	Stadtwerke Hockenheim		Untere Mühlstr. 8	68766	Hockenheim	49.318301	8.547033	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1092887	Stadtwerke Hockenheim		Beim Pumpwerk 9	68766	Hockenheim	49.315583	8.564697	1			~TYPE2:22|~TYPE2:22
+1092888	Stadtwerke Hockenheim		Beethovenstr. 41	68766	Hockenheim	49.311214	8.546300	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093202	Christian Gieser		Altneurott 4	68723	Oftersheim	49.369350	8.600100	1			~TYPE2:22+TYPE2_TETHERED:22
+1096383	Alfred Hofmann GmbH		Carl-Zeiss-Straße 4	69190	Walldorf	49.304936	8.632126	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1096442	Auto Hofmann GmbH		Neues Sträßel 4	69168	Wiesloch	49.289614	8.678578	1			~CCS2:22|~TYPE2:11
+1096470	Auto Plech GmbH		Heidelberger Str. 54	69256	Mauer	49.343215	8.796468	1			~CCS2:22|~TYPE2:11
+1096478	Auto Schmitt GmbH		Am Kalkbrunnen 12	69151	Neckargemünd	49.381363	8.800953	1			~CCS2:22|~TYPE2:11
+1096943	Autohaus Otto Preusch Gmbh u CoKG		Carl-Benz-Straße 18	75031	Eppingen	49.136556	8.928000	1			~CCS2:22|~TYPE2:11
+1097532	Stuber GmbH		Michelbacher Str. 19	74374	Zaberfeld	49.059373	8.926889	1			~CCS2:22|~TYPE2:11
+1097714	EnBW mobility+ AG und Co.KG		Hambrücker Landstr. 4	68753	Waghäusel	49.211600	8.528700	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1097731	Pluq		Birkenhof 1	76684	Östringen	49.176960	8.795969	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1101194	Tesla Germany GmbH		Kammerforststraße 17	76646	Bruchsal	49.138400	8.562330	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101718	Tesla Germany GmbH		Hohenaspen 40/1	69231	Rauenberg	49.273751	8.695330	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|DE*TSL*E0QS65A~CCS2:250|DE*TSL*E0QS62Z~CCS2:250|DE*TSL*E0QS61G~CCS2:250|DE*TSL*E0QS613~CCS2:250|DE*TSL*E0QS65O~CCS2:250|DE*TSL*E0QS5Y7~CCS2:250|DE*TSL*E0QS5WW~CCS2:250|DE*TSL*E0QS60Q~CCS2:250|DE*TSL*E0QS5Z3~CCS2:250|DE*TSL*E0QS5X1~CCS2:250
+1102725	EnBW mobility+ AG und Co.KG		Allming 2	69226	Nußloch	49.326160	8.683861	1		Keine Beschränkung	~CCS2:80|~CCS2:80
+1102752	BEG Kraichgau eG		Dreikönigstr. 18	69226	Nußloch	49.322283	8.692366	1	24/7	Keine Beschränkung	DE*BLN*E*748890047~TYPE2:22|DE*BLN*E*748890047*2~TYPE2:22
+1102753	BEG Kraichgau eG	REWE-Parkplatz	Wieslocher Str. 11	69168	Wiesloch	49.301970	8.737266	1		Keine Beschränkung	DE*BLN*E*748890027~TYPE2:22|DE*BLN*E*748890028~TYPE2:22
+1102756	BEG Kraichgau eG		Am Schwimmbad 12-16	69168	Wiesloch	49.286484	8.686500	1		Keine Beschränkung	DE*BLN*E*748890053~TYPE2:22|DE*BLN*E*748890053*2~TYPE2:22
+1102918	BEG Kraichgau eG	Meckesheim Bahnhof	Industriestr. 0	74909	Meckesheim	49.320871	8.812212	1	24/7	Keine Beschränkung	DE*BLN*E*748890036~TYPE2:22
+1103256	Jolt Energy GmbH		Eppelheimer Str. 38	69115	Heidelberg	49.406470	8.659550	1	24/7	Keine Beschränkung	DE*JEG*EFFM009101~CCS2:300|DE*JEG*EFFM009102~CCS2:300
+1103620	Midorion GmbH & Co. KG	Festplatz Neudorf	Haydnstr. 1	76676	Graben-Neudorf	49.171590	8.501410	1	24/7	Keine Beschränkung	b25f41ba-4c00-455d-ab07-480942251735~CCS2:200|DE*MID*E002*02~CCS2:200|DE*MID*E002*03~CCS2:200|DE*MID*E002*04~CCS2:200
+1103630	Midorion GmbH & Co. KG	Spechaahalle Spöck	Kirchstr. 21	76297	Stutensee	49.110520	8.515070	1	24/7	Keine Beschränkung	DE*MID*E009*01~CCS2:100|DE*MID*E009*02~CCS2:100|DE*MID*E009*03~CCS2:100|DE*MID*E009*04~CCS2:100|DE*MID*E009*05~CCS2:100|DE*MID*E009*06~CCS2:100
+1103873	E.ON Drive Infrastructure		Albert-Schweitzer-Str. 1	74889	Sinsheim	49.250151	8.866311	1	24/7	Keine Beschränkung	DE*UFC*E00797*1~CCS2:150|DE*UFC*E00797*2~CCS2:150|DE*UFC*E00796*1~CCS2:50|DE*UFC*E00796*2~CCS2:50
+1103876	E.ON Drive Infrastructure		Neulandstr. 2	74889	Sinsheim	49.248506	8.878294	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|DE*UFC*E00794*1~CCS2:50|DE*UFC*E00794*2~CCS2:50
+1104179	Autohaus Philipp GmbH		Friedrich-Ebert-Str. 39	69412	Eberbach	49.465760	8.979110	1			~TYPE2:22|~TYPE2:22
+1104290	Gigahertz GmbH	Gigahertz GmbH	Hermann-von-Rautenkranz-Str. 1	76694	Forst	49.159529	8.578483	1	Mo-Fr 07:30-20:00	Keine Beschränkung	DE*ONE*EM4AA~TYPE2:11|DE*ONE*ES4JM~TYPE2:11|DE*ONE*EK6JL~TYPE2:11|DE*ONE*EF82A~TYPE2:11|DE*ONE*EY3DT~TYPE2:11|DE*ONE*EMUG3~TYPE2:11|DE*ONE*EQ7L6~TYPE2:11|DE*ONE*EMD13~TYPE2:11|DE*ONE*EVDJ4~TYPE2:11|DE*ONE*EC6E3~TYPE2:11|DE*ONE* EN2TH~TYPE2_TETHERED:11|DE*ONE* E9QBW~TYPE2_TETHERED:11|DE*ONE*E2UQZ~TYPE2_TETHERED:11|DE*ONE*EE858~TYPE2_TETHERED:11|DE*ONE*E8E46~TYPE2_TETHERED:11|DE*ONE*EP7XT~TYPE2_TETHERED:11|DE*ONE*EFHX2~TYPE2_TETHERED:11|DE*ONE*EP9GB~TYPE2_TETHERED:11|DE*ONE*E9SNK~TYPE2_TETHERED:11|DE*ONE*EB3J7~TYPE2_TETHERED:11
+1104314	Windisch Autohaus		Bahnhofstrasse 15	74927	Eschelbronn	49.321040	8.867383	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1104315	Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim AdöR		Friedrichsplatz 2	76646	Bruchsal	49.124610	8.596676	1			~TYPE2:22|~TYPE2:22
+1104316	Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim AdöR		Engelsberg 6-8	75015	Bretten	49.037660	8.707170	1			~TYPE2:22|~TYPE2:22
+1104380	Hans-Jürgen Keßler		Goethestr. 9	74374	Zaberfeld	49.073627	8.940183	1			~TYPE2:11+TYPE2_TETHERED:11
+1104542	Pneuhage Management GmbH & Co. KG		Gleisstr. 10	68766	Hockenheim	49.327963	8.540819	1		Keine Beschränkung	6961105~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104543	Pneuhage Management GmbH & Co. KG		Im Wendelrot 1	76646	Bruchsal	49.137520	8.571482	1		Keine Beschränkung	6931425~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104607	ALDI SÜD	MUR-119	Neuer Weg-Nord 42	69412	Eberbach	49.473520	8.986020	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23302~CCS2:50|DE*ALD*23303~CCS2:50
+1104608	ALDI SÜD	MUR-101	Kleingemünder Str. 76-82	69118	Heidelberg	49.413380	8.775410	1	Mo-Sa 08:00-21:00	Keine Beschränkung	DE*ALD*E23304~CCS2:50|DE*ALD*E23305~CCS2:50
+1104610	ALDI SÜD	KIR-078-02	Floßwörthstr. 49-55	68199	Mannheim	49.458420	8.503137	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23300~CCS2:50|DE*ALD*E23301~CCS2:50
+1105490	Auto-Östringer GmbH		Thomas-Howie-Strasse 7 / 4	76684	Östringen	49.215172	8.697531	1			~CCS2:50+CHADEMO:50|~TYPE2:22+CCS2:22
+1105522	Graf Hardenberg GmbH - Bruchsal		Murgstraße 9-13	76646	Bruchsal	49.136956	8.594611	1			~CCS2:22|~TYPE2:11
+1105531	Graf Hardenberg GmbH - Bretten		Alexanderplatz 1	75015	Bretten	49.037749	8.688658	1			~TYPE2:22|~TYPE2:11
+1105696	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Haberstraße 26	69126	Heidelberg	49.365302	8.674520	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1105708	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Haberstraße 26	69126	Heidelberg	49.365353	8.674532	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105710	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Haberstraße 26	69126	Heidelberg	49.365218	8.674510	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1105713	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Fahrlachstraße 50	68165	Mannheim	49.473044	8.500235	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105714	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Fahrlachstraße 50	68165	Mannheim	49.473062	8.500169	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105715	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Fahrlachstraße 50	68165	Mannheim	49.473101	8.500051	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105717	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Haberstraße 26	69126	Heidelberg	49.365671	8.675239	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1105718	Mercedes-Benz AG - Niederlassung Mannheim-Heidelberg-Landau		Haberstraße 26	69126	Heidelberg	49.365594	8.675228	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1107130	E.ON Drive GmbH		Leimengrubweg 17	69198	Schriesheim	49.480898	8.660382	1			~TYPE2:11
+1109534	Gemeinde Eschelbronn (KdöR)		Schloßstraße 1	74927	Eschelbronn	49.320083	8.868028	1			~TYPE2:22+SCHUKO:22
+1109538	Sparkasse Heidelberg		Im Neuenheimer Feld 519	69120	Heidelberg	49.421560	8.674330	1			~TYPE2:11+SCHUKO:11
+1109539	Sparkasse Heidelberg		Hauptstr. 130	69168	Wiesloch	49.292841	8.696982	1			~TYPE2:11+SCHUKO:11
+1110126	MLP Finanzberatung		Alte Heerstr. 40	69168	Wiesloch	49.297218	8.678921	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110325	Heisig EDV		Berwanger Str. 10	75031	Eppingen	49.174305	8.946280	1			~TYPE2:22|~TYPE2:22
+1110498	EMBL Heidelberg		Meyerhofstraße 1	69117	Heidelberg	49.384691	8.710587	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1112385	Kurpfalz-Internat gemeinnützige BetriebsGmbH		Reilsheimer Str. 17	69245	Bammental	49.350804	8.775810	1			~TYPE2:11|~TYPE2:11
+1112999	Golfclub Heidelberg-Lobenfeld e.V.		Am Biddersbacher Hof 1	74931	Lobbach	49.365271	8.868638	1			~TYPE2:22|~TYPE2:22
+1113406	Philipp May		Silvanerweg 5	75031	Eppingen (Kleingartach)	49.097044	8.979306	1			~TYPE2:11|~TYPE2:11
+1113752	Johannes-Diakonie Mosbach		Rennerswaldstr 14	68782	Brühl	49.410790	8.538915	1			~TYPE2:22|~TYPE2:22
+1113753	Johannes-Diakonie Mosbach		Neugraben 2	68526	Ladenburg	49.477293	8.617235	1			~TYPE2:22|~TYPE2:22
+1113754	Johannes-Diakonie Mosbach		Lindenplatz 1	74869	Schwarzach	49.378308	8.987508	1			~TYPE2:22|~TYPE2:22
+1113755	Johannes-Diakonie Mosbach		Am Kalkbrunnen 1	69151	Neckargemünd	49.381596	8.801366	1			~TYPE2:22|~TYPE2:22
+1113764	SOLARIAL Inh. Arthur Walth		Brahmsstraße 18	68789	St.Leon-Rot	49.377636	8.577931	1			~TYPE2_TETHERED:11
+1113767	Autohaus Ivancan GmbH		Helmertstr 18 - 20	68219	Mannheim	49.452251	8.513705	1			~TYPE2:22|~TYPE2:22
+1113768	Autohaus Ivancan GmbH		Helmertstr 18 - 20	68219	Mannheim	49.451999	8.513888	1			~TYPE2:22|~TYPE2:22
+1113769	Autohaus Ivancan GmbH		Helmertstr 18 - 20	68219	Mannheim	49.452221	8.513714	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113945	Autohaus Drexler GmbH		Murgstrasse 5	76646	Bruchsal	49.137803	8.593758	1			~TYPE2:11|~TYPE2:11
+1113962	Braun Energiedienstleistungen GmbH & Co. KG		Silcherstraße 2	69242	Mühlhausen	49.241671	8.696299	1			~TYPE2:22|~TYPE2:22
+1113963	Braun Energiedienstleistungen GmbH & Co. KG		Am Mansbach 3	69242	Mühlhausen	49.241127	8.696778	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114469	Euromaster GmbH		Scheffelstraße 42-44	69723	Schwetzingen	49.376603	8.587326	1			~TYPE2:22|~TYPE2:22
+1114481	Wirsol Aufdach GmbH		Schwetzinger Str. 22-26	68753	Waghäusel	49.245848	8.541886	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114483	Wirsol Aufdach GmbH		Schwetzinger Str. 22-26	68753	Waghäusel	49.245934	8.542257	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114484	Wirsol Aufdach GmbH		Schwetzinger Str. 22-26	68753	Waghäusel	49.245966	8.542274	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114487	Wirsol Aufdach GmbH		Schwetzinger Str. 22-26	68753	Waghäusel	49.245979	8.542129	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114508	MVB Metallveredelung Bretten GmbH		Langenmorgen 8	75015	Bretten	49.053180	8.739290	1			~TYPE2:22|~TYPE2:22
+1114514	Strähle Galvanik GmbH		Gewerbestrasse 16-18	75059	Zaisenhausen	49.103776	8.811045	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1115448	IONITY GmbH	Bruchsal 2	Molzaustr. 4	76646	Bruchsal	49.140179	8.558666	1	24/7	Nur für Kunden/Besucher	DE*IOY*E233171~CCS2:200|DE*IOY*E233172~CCS2:200|DE*IOY*E233173~CCS2:200|DE*IOY*E233174~CCS2:200|DE*IOY*E233101~CCS2:350|DE*IOY*E233102~CCS2:350|DE*IOY*E233103~CCS2:350|DE*IOY*E233104~CCS2:350
+1116159	Daimler Truck AG	Daimler Truck AG | Center Mannheim	Elsa-Brändström-Str. 3a	68229	Mannheim	49.450974	8.562385	1	24/7	Keine Beschränkung	6812645~TYPE2:22|6812645~TYPE2:22
+1116160	Daimler Truck AG	Daimler Truck AG | Center Mannheim	Elsa-Brändström-Str. 4	68229	Mannheim	49.450731	8.563098	1	24/7	Keine Beschränkung	6813235~TYPE2:22|6813235~TYPE2:22
+1116161	Tesla Germany GmbH		Speyerer Str. 1	68766	Hockenheim	49.337097	8.533262	1	24/7	Keine Beschränkung	DE*TSL*E0OWMF2~CCS2:250|DE*TSL*E0OWMF3~CCS2:250|DE*TSL*E0OWMFS~CCS2:250|DE*TSL*E0OWMFT~CCS2:250|DE*TSL*E0OWMG9~CCS2:250|DE*TSL*E0OWMGC~CCS2:250|DE*TSL*E0OWMGM~CCS2:250|DE*TSL*E0OWMGQ~CCS2:250
+1116261	MVV Energie AG	MaLIS_Schriesheim_Buswendeplatz	Hauptstr. 46b	69198	Schriesheim	49.485904	8.740597	1	24/7	Keine Beschränkung	DE*MVV*E00568*L1~TYPE2:22|DE*MVV*E00568*R1~TYPE2:22
+1116266	MVV Energie AG	MaLIS_Schriesheim_Mozartstraße	Mozartstr. 27	69198	Schriesheim	49.479273	8.652278	1	24/7	Keine Beschränkung	DE*MVV*E00567*R1~TYPE2:22|DE*MVV*E00567*L1~TYPE2:22
+1116472	Europäischer Hof Fritz Gabler GmbH & Co. KG		Friedrich-Ebert-Anlage 1	69117	Heidelberg	49.408540	8.699480	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1116676	BEG Kraichgau eG		Hauptstr. 37	69234	Dielheim	49.282168	8.735013	1	24/7	Keine Beschränkung	DE*BLN*E*748890061~TYPE2:22|DE*BLN*E*748890061*2~TYPE2:22
+1116968	Christina Mory		Josef-Helffrich-Str. 7	68782	Brühl	49.408490	8.535160	1		Keine Beschränkung	~TYPE2:22
+1117219	EWE Go GmbH	McD_0499_1A	Neulandstr. 37	74889	Sinsheim	49.243312	8.893589	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1117268	Kaufland	8540_KLAND_Östringen_T65-IT1-3424-003	Thomas-Howie-Str. 1	76684	Östringen	49.214430	8.695250	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1117274	Daimler Truck AG	Daimler Truck AG | Center Mannheim	Elsa-Brändström-Str. 6	68229	Mannheim	49.450121	8.561849	1	Mo-Fr 08:00-19:00, Sa 08:00-12:00	Keine Beschränkung	6961555~CCS2:150|6961555~CCS2:150
+1117431	EWE Go GmbH	McD_1850_1A	Am Autobahnzubringer 3	76709	Kronau	49.224490	8.609841	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1117520	Tesla Germany GmbH		Zündholzstr. 3	68723	Schwetzingen	49.413848	8.543339	1	24/7	Keine Beschränkung	DE*TSL*E0TTUCV~CCS2:250|DE*TSL*E0TTUCQ~CCS2:250|DE*TSL*E0TTUCP~CCS2:250|DE*TSL*E0TTUCO~CCS2:250|DE*TSL*E0TTUCK~CCS2:250|DE*TSL*E0TTUCH~CCS2:250|DE*TSL*E0TTUCE~CCS2:250|DE*TSL*E0TTUCD~CCS2:250
+1118002	EnBW mobility+ AG und Co.KG		Gassenäckerstr. 2	68775	Ketsch	49.369407	8.531660	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22
+1118095	Energie- und Wasserversorgung Bruchsal GmbH	Anne-Frank-Straße	Anne-Frank-Str. 0	76707	Hambrücken	49.190530	8.550090	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118096	Energie- und Wasserversorgung Bruchsal GmbH	Ernst-Blickle-Str. 31	Ernst-Blickle-Str. 31	76646	Bruchsal	49.121510	8.577690	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1118097	Energie- und Wasserversorgung Bruchsal GmbH	Murgstr. 11	Murgstr. 5	76646	Bruchsal	49.137800	8.593690	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1118733	Wattif Europe GmbH	Bruchsal Ambipark Medius Klinik Gutleutstraße 10 AmbiPark	Gutleutstr. 10	76646	Bruchsal	49.131974	8.602602	1	24/7	Keine Beschränkung	DE*WAT*EW049096001~TYPE2:22|DE*WAT*EW049096002~TYPE2:22
+1120025	BEG Kraichgau eG		Baiertaler Str. 89	69168	Wiesloch	49.299610	8.714883	1	24/7	Keine Beschränkung	DE*BLN*E*748890051~TYPE2:22|DE*BLN*E*748890051*2~TYPE2:22
+1120026	BEG Kraichgau eG		Zur Tuchbleiche -	69168	Wiesloch	49.291572	8.699642	1	24/7	Keine Beschränkung	DE*BLN*E*748890055~TYPE2:22|DE*BLN*E*748890055*2~TYPE2:22
+1120219	Wattif Europe GmbH	Heidelberg Schlosshotel Molkenkur Klingenteichstr. 31 Ft/JK	Klingenteichstr. 31	69117	Heidelberg	49.407039	8.713905	1	24/7	Keine Beschränkung	DE*WAT*EW049022001~TYPE2:22|DE*WAT*EW049022002~TYPE2:22|DE*WAT*EW049022003~TYPE2:22
+1120266	TankE GmbH		Galileistr. 1-3	69115	Heidelberg	49.404092	8.668520	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1121516	HDS GmbH	eLIS	Brahmsstr. 18	68789	St. Leon-Rot	49.265730	8.592990	1	24/7	Keine Beschränkung	~TYPE2:22
+1121608	MVV Energie AG	MaLIS_eLadepark_TSG-Hoffenheim	Dietmar-Hopp-Str. 1	74889	Sinsheim	49.238974	8.885050	1	24/7	Keine Beschränkung	DE*MVV*E00558*L1~CCS2:300|DE*MVV*E00558*R1~CCS2:300|DE*MVV*E00559*L1~CCS2:300|DE*MVV*E00559*R1~CCS2:300|DE*MVV*E00650*L1~CCS2:300|DE*MVV*E00650*R1~CCS2:300
+1121693	Stadtwerke Heidelberg Energie GmbH	Handschuhsheimer Landstraße	Handschuhsheimer Landstr. 7/2	69120	Heidelberg	49.418772	8.690475	1	24/7	Keine Beschränkung	DE*1HD*ESWH85*001~CCS2:50|DE*1HD*ESWH85*002~CCS2:50
+1121694	Stadtwerke Heidelberg Energie GmbH	Hauptstraße Eppelheim	Hauptstr. 106	69214	Eppelheim	49.400183	8.627363	1	24/7	Keine Beschränkung	DE*1HD*ESWH128*001~TYPE2:22|DE*1HD*ESWH128*002~TYPE2:22|DE*1HD*ESWH128*003~TYPE2:22|DE*1HD*ESWH128*004~TYPE2:22
+1121696	Stadtwerke Heidelberg Energie GmbH	Bürgermeister-Jäger-Straße	Bürgermeister-Jäger-Str. 1	69214	Eppelheim	49.407013	8.631344	1	24/7	Keine Beschränkung	DE*1HD*ESWH122*001~TYPE2:22|DE*1HD*ESWH122*002~TYPE2:22|DE*1HD*ESWH122*003~TYPE2:22|DE*1HD*ESWH122*004~TYPE2:22
+1125659	Pfalzwerke AG	Hornbach Schwetzingen (ALP22537X01574)	Zündholzstr. 2	68723	Schwetzingen	49.413381	8.544961	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01574*01~CCS2:50|DE*PWA*EALP22537X01574*02~CCS2:50|DE*PWA*EENC22285X00929*01~CCS2:320|DE*PWA*EENC22285X00929*02~CCS2:320
+1125660	Pfalzwerke AG	Hornbach Schwetzingen (ENC22285X00924)	Zündholzstr. 2	68723	Schwetzingen	49.413446	8.545059	1	24/7	Keine Beschränkung	DE*PWA*EENC22285X00924*01~CCS2:320|DE*PWA*EENC22285X00924*02~CCS2:320
+1125662	Pfalzwerke AG	Hornbach Schwetzingen (ENC22285X00934)	Zündholzstr. 2	68723	Schwetzingen	49.413506	8.545150	1	24/7	Keine Beschränkung	DE*PWA*EENC22285X00934*01~CCS2:320|DE*PWA*EENC22285X00934*02~CCS2:320
+1125666	Pfalzwerke AG	REWE Hambrücken	Hauptstr. 2c	76707	Hambrücken	49.179009	8.548844	1	24/7	Keine Beschränkung	DE*PWA*EALP22267X01347*01~CCS2:150|DE*PWA*EALP22267X01347*02~CCS2:150
+1125979	Minera	TS-Walldorf	Wieslocher Str. 30	69190	Walldorf	49.293930	8.655869	1	24/7	Keine Beschränkung	DE*MKR*E2000003*001~CCS2:200|DE*MKR*2000003*002~CCS2:200|DE*MKR*E2000003*003~CCS2:200|DE*MKR*E2000003*004~CCS2:200
+1127024	MVV Energie AG	MaLIS_Ed-Neckar_Freizeitbad	Hauptstr. 356	68535	Edingen-Neckarhausen	49.463599	8.603924	1	24/7	Keine Beschränkung	DE*MVV*E00574*L1~CCS2:50|DE*MVV*E00574*R1~CCS2:50
+1127025	MVV Energie AG	MaLIS_Ed-Neckar_Rathausstraße	Rathausstr. 4	68535	Edingen-Neckarhausen	49.446976	8.612567	1	24/7	Keine Beschränkung	DE*MVV*E00575*L1~CCS2:50|DE*MVV*E00575*R1~CCS2:50
+1127026	MVV Energie AG	MaLIS_Oftersheim_Franz-Schubert-Straße	Franz-Schubert-Str. 41	68723	Oftersheim	49.372836	8.583050	1	24/7	Keine Beschränkung	DE*MVV*E00582*L1~TYPE2:22|DE*MVV*E00582*R1~CCS2:22
+1127027	MVV Energie AG	MaLIS_Oftersheim_Freiherr-vom-Stein-Straße	Freiherr-vom-Stein-Str. 14	68723	Oftersheim	49.368276	8.581233	1	24/7	Keine Beschränkung	DE*MVV*E00581*L1~TYPE2:22|DE*MVV*E00581*R1~TYPE2:22
+1127028	MVV Energie AG	MaLIS_Oftersheim_In den Auwiesen	In den Auwiesen 24	68723	Oftersheim	49.370191	8.592642	1	24/7	Keine Beschränkung	DE*MVV*E00583*L1~TYPE2:22|DE*MVV*E00583*R1~TYPE2:22
+1127029	MVV Energie AG	MaLIS_Oftersheim_Käthe-Kollwitz-Straße	Käthe-Kollwitz-Str. 19	68723	Oftersheim	49.373312	8.574627	1	24/7	Keine Beschränkung	DE*MVV*E00580*L1~TYPE2:22|DE*MVV*E00580*R1~TYPE2:22
+1127497	Heidelberger Volksbank eG		Beethovenstr. 22	69221	Dossenheim	49.448520	8.670280	1	24/7	Keine Beschränkung	~TYPE2:22|~CHADEMO:30|~CCS2:30
+1127615	Krämer Pferdesport GmbH & Co.KG	Verwaltung Süd	Vierte Industriestr. 1+2	68766	Hockenheim	49.332230	8.536910	1	Mo-Fr 08:00-18:00, Sa 08:00-15:00	Keine Beschränkung	DE*ONE*EAQK2~TYPE2:11|DE*ONE*E33MF~TYPE2:11|DE*ONE*EYX9J~TYPE2:11|DE*ONE*E5P4T~TYPE2:11
+1128154	BEG Kraichgau eG		Bergstr. bei 2a	69168	Wiesloch	49.294062	8.695785	1		Keine Beschränkung	DE*BLN*E*748890033~TYPE2:22|DE*BLN*E*748890034~TYPE2:22|DE*BLN*E*748890031~TYPE2:22
+1128452	MVV Energie AG	MaLIS1_EKMA_Rheinau	Durlacher Str. 82	68219	Mannheim	49.433580	8.528830	1	24/7	Keine Beschränkung	DE*MVV*E00601*L1~CCS2:50|DE*MVV*E00601*R1~CCS2:50|DE*MVV*E00062*L1~TYPE2:22|DE*MVV*E00062*R1~TYPE2:22
+1128616	deer GmbH	Kraichtal, Bahnhof	Frühlingstr. 27	76703	Kraichtal	49.136030	8.775322	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128617	deer GmbH	Kraichtal, Friedhof	Neuenwegstr. 41	76703	Kraichtal	49.147290	8.691263	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128618	deer GmbH	Kraichtail, Bahnbrücken	Vor dem Wald 4	76703	Kraichtal	49.118342	8.779673	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128619	deer GmbH	Sulzfeld, Sportpark	Am Honigbaum 3	75056	Sulzfeld	49.099661	8.860050	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128643	Lidl	1398_Lidl_Heidelberg_T65-IT1-0725-017	Heinrich-Fuchs-Str. 98	69126	Heidelberg	49.379590	8.677770	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1129050	EnBW mobility+ AG und Co.KG		Mannheimer Landstr. 62-64	68723	Schwetzingen	49.415600	8.542800	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1129280	Netto Marken-Discount Stiftung & Co. KG		Im Streitland 2	75031	Eppingen	49.171610	8.843050	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1129558	Stadtwerke Heidelberg Energie GmbH	Noetherstraße	Noetherstr. 0	69115	Heidelberg	49.402520	8.666907	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1129559	Stadtwerke Heidelberg Energie GmbH	Friedrich-Ebert-Anlage	Friedrich-Ebert-Anlage 53	69117	Heidelberg	49.408832	8.703571	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1129971	Shell Deutschland GmbH	13053447_Reilingen	Siemensstr. 1	68799	Reilingen	49.296009	8.559869	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1130849	Wattif Europe GmbH	Heidelberg Atlantic Hotel Europaplatz 1	Europaplatz 1	69115	Heidelberg	49.403217	8.674089	1	24/7	Keine Beschränkung	DE*WAT*EW049264001~TYPE2:22|DE*WAT*EW049264002~TYPE2:22|DE*WAT*EW049264003~TYPE2:22|DE*WAT*EW049264004~TYPE2:22|DE*WAT*EW049264005~TYPE2:22|DE*WAT*EW049264006~TYPE2:22|DE*WAT*EW049130001~TYPE2:22|DE*WAT*EW049130002~TYPE2:22|DE*WAT*EW049130003~TYPE2:22|DE*WAT*EW049130004~TYPE2:22|DE*WAT*EW049130005~TYPE2:22|DE*WAT*EW049130006~TYPE2:22|DE*WAT*EW049130007~TYPE2:22|DE*WAT*EW049130008~TYPE2:22
+1131000	Pfalzwerke AG	D-Netz Modepark Röther Bretten (ALP22541X01715)	Wilhelmstr. 35	75015	Bretten	49.034217	8.703339	1	Mo-Sa 09:00-20:00	Keine Beschränkung	DE*PDN*EALP22541X01715*01~CCS2:400|DE*PDN*EALP22541X01715*02~CCS2:400
+1131001	Pfalzwerke AG	D-Netz Modepark Röther Bretten (ALP22541X01716)	Wilhelmstr. 35	75015	Bretten	49.034240	8.703360	1	Mo-Sa 09:00-20:00	Keine Beschränkung	DE*PDN*EALP22541X01716*01~CCS2:400|DE*PDN*EALP22541X01716*02~CCS2:400
+1131002	Pfalzwerke AG	D-Netz Modepark Röther Bretten (ALP22541X01717)	Wilhelmstr. 35	75015	Bretten	49.034279	8.703249	1	Mo-Sa 09:00-20:00	Keine Beschränkung	DE*PDN*EALP22541X01717*01~CCS2:400|DE*PDN*EALP22541X01717*02~CCS2:400
+1131003	Pfalzwerke AG	D-Netz Modepark Röther Bretten (ALP22541X01718)	Wilhelmstr. 35	75015	Bretten	49.034304	8.703266	1	Mo-Sa 09:00-20:00	Keine Beschränkung	DE*PDN*EALP22541X01718*01~CCS2:400|DE*PDN*EALP22541X01718*02~CCS2:400
+1131298	BEG Kraichgau eG		Parkstr. 2	69168	Wiesloch	49.296223	8.693031	1	24/7	Keine Beschränkung	DE*BLN*E*748890057~TYPE2:22|DE*BLN*E*748890057*2~TYPE2:22
+1131430	BEG Kraichgau eG		Schloßstr. 16	74918	Angelbachtal	49.232391	8.774311	1	24/7	Keine Beschränkung	DE*BLN*E*748890067~TYPE2:22|DE*BLN*E*748890067*2~TYPE2:22
+1131735	SI Energy		Hauptstr. 28	74925	Epfenbach	49.337470	8.911124	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50
+1131861	Martin Häfner		Pfinzstr. 12	76689	Karlsdorf-Neuthard	49.125150	8.517790	1	24/7	Keine Beschränkung	~TYPE2:11
+1131965	Städtische Dienste Eberbach	Stettinerstr. SWE1	Stettiner Str. 0	69412	Eberbach	49.479504	8.993419	1	24/7	Nur für Kunden/Besucher	DESDEE000601~TYPE2:22|DESDEE000602~TYPE2:22
+1132521	smopi	Heidelberg.AkademieStrasse2.Public1 6(1/2)	Akademiestr. 2	69117	Heidelberg	49.409981	8.697483	1	24/7	Nur für Kunden/Besucher	DE*SMC*E0000361~TYPE2:22|DE*SMC*E0000362~TYPE2:22|DE*SMC*E0000363~TYPE2:22|DE*SMC*E0000364~TYPE2:22|DE*SMC*E0000365~TYPE2:22|DE*SMC*E0000370~TYPE2:22|DE*SMC*E0000369~TYPE2:22|DE*SMC*E0000368~TYPE2:22|DE*SMC*E0000367~TYPE2:22|DE*SMC*E0000366~TYPE2:22|DE*SMC*E0000371~TYPE2:22|DE*SMC*E0000372~TYPE2:22|DE*SMC*E0000373~TYPE2:22|DE*SMC*E0000374~TYPE2:22|DE*SMC*E0000375~TYPE2:22|DE*SMC*E0000380~TYPE2:22|DE*SMC*E0000379~TYPE2:22|DE*SMC*E0000378~TYPE2:22|DE*SMC*E0000377~TYPE2:22|DE*SMC*E0000376~TYPE2:22|DE*SMC*E0000381~TYPE2:22|DE*SMC*E0000382~TYPE2:22|DE*SMC*E0000383~TYPE2:22|DE*SMC*E0000384~TYPE2:22|DE*SMC*E0000385~TYPE2:22|DE*SMC*E0000387~TYPE2:22|DE*SMC*E0000388~TYPE2:22|DE*SMC*E0000389~TYPE2:22|DE*SMC*E0000390~TYPE2:22|DE*SMC*E0000386~TYPE2:22
+1132537	Allego		Neulandstr. 33a	74889	Sinsheim	49.242925	8.916057	1	24/7	Keine Beschränkung	DEALLEGO003650_1~CCS2:300|DEALLEGO003650_2~CCS2:300|DEALLEGO003651_1~CCS2:300|DEALLEGO003651_2~CCS2:300|DEALLEGO003652_1~CCS2:300|DEALLEGO003652_2~CCS2:300
+1132782	Shell Deutschland GmbH	13053472_Walzbachtal	Jöhlinger Str. 160	75045	Walzbachtal	49.036428	8.568764	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1132784	Shell Deutschland GmbH		Haupstr. 134	75056	Sulzfeld	49.108654	8.854995	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1133093	HEG Heidelberger Energiegenossenschaft eG		Im Unteren Rech -	68526	Ladenburg	49.474556	8.619528	1	24/7	Keine Beschränkung	DE*BLN*E*690660034~TYPE2:22|DE*BLN*E*690660035~TYPE2:22|DE*BLN*E*690660036~TYPE2:22|DE*BLN*E*690660037~TYPE2:22
+1133526	EnBW ODR AG		Strombergstr. 2	74363	Güglingen	49.048663	8.996593	1	24/7	Keine Beschränkung	DE*ODR*E1000*1972~TYPE2:22|DE*ODR*E1000*1973~TYPE2:22
+1133713	EWE Go GmbH	McD_1663_1A	Hoeber-und-Mandelbaum-Str. 1	68794	Oberhausen-Rheinhausen	49.250157	8.501509	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1133746	BEG Kraichgau eG	Rathaus	Wieslocher Str. 5	69231	Rauenberg	49.266545	8.704368	1	24/7	Keine Beschränkung	DE*BLN*E*748890065~TYPE2:22|DE*BLN*E*748890065*2~TYPE2:22
+1133916	eliso	eliso - Segmüller - Mannheim	Seckenheimer Landstr. 252	68163	Mannheim	49.474686	8.537576	1	24/7	Keine Beschränkung	DE*ELI*E3584436~TYPE2:22|DE*ELI*E3584437~TYPE2:22|DE*ELI*E3584438~TYPE2:22|DE*ELI*E3584439~TYPE2:22|DE*ELI*E3585484~CCS2:150|DE*ELI*E3585487~CCS2:150
+1134613	Shell Deutschland GmbH	Rewe	Waghäusler Str. 128	68753	Waghäusel	49.245787	8.535495	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1134616	Shell Deutschland GmbH	Rewe	Waghäusler Str. 128	68753	Waghäusel	49.245790	8.535432	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1134698	SI Energy		Hans-Thoma-Str. 8	68163	Mannheim	49.474137	8.526953	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1134784	SI Energy		Hans-Thoma-Str. 8	68163	Mannheim	49.474137	8.526950	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1135133	MVV Energie AG	MaLIS1_3_Flughafen	Seckenheimer Landstr. 172	68163	Mannheim	49.476583	8.520583	1	24/7	Keine Beschränkung	DE*MVV*E00040*L1~TYPE2:22|DE*MVV*E00040*R1~TYPE2:22|DE*MVV*E00223*L1~TYPE2:22|DE*MVV*E00223*R1~TYPE2:22
+1136398	Aral Pulse		Hockenheimer Landstr. 4	68723	Schwetzingen	49.377107	8.560663	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1136999	Shell Deutschland GmbH		Sternenfelser Str. 55	75038	Oberderdingen	49.060689	8.807202	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1137047	Thomas Uhrig		Schönbrunner Str. 26	69434	Hirschhorn (Neckar)	49.446463	8.903275	1	Sa-So 10:00-13:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1137886	Christ Investment GmbH	S6	Steinäcker 6	75015	Bretten	49.048530	8.730900	1	24/7	Keine Beschränkung	DE*ONE*EFPW3~TYPE2_TETHERED:11|DE*ONE*EM5JW~TYPE2_TETHERED:11|DE*ONE*EJ31S~TYPE2_TETHERED:11|DE*ONE*EGD81~TYPE2_TETHERED:11|DE*ONE*ESQ2S~TYPE2_TETHERED:11|DE*ONE*EQRF2~TYPE2_TETHERED:11
+1138198	Lidl	7237_Lidl_Waghäusel-Kirrlach_QP-17706-0225-060-121-QP-VER.32	Bruchsaler Str. 20a	68753	Waghäusel	49.241300	8.538297	1	24/7	Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1138261	BEG Kraichgau eG	Bahnhof	Bahnhofanlage -	68723	Schwetzingen	49.384726	8.577669	1	24/7	Keine Beschränkung	DE*BLN*E*748890069~TYPE2:22|DE*BLN*E*748890069*2~TYPE2:22
+1138263	BEG Kraichgau eG	Schloss	Zeyherstr. 1	68723	Schwetzingen	49.385138	8.571033	1	24/7	Keine Beschränkung	DE*BLN*E*748890075~TYPE2:22|DE*BLN*E*748890075*2~TYPE2:22
+1138265	BEG Kraichgau eG	Schwimmbad	Odenwaldring -	68723	Schwetzingen	49.381379	8.588680	1	24/7	Keine Beschränkung	DE*BLN*E*748890079~TYPE2:22|DE*BLN*E*748890079*2~TYPE2:22
+1138572	MVV Energie AG	MaLIS2_Petruskirche_Wallstadt	Königshofer Str. 17	68259	Mannheim	49.494575	8.550320	1	24/7	Keine Beschränkung	DE*MVV*E00110*L1~TYPE2:22|DE*MVV*E00110*R1~TYPE2:22
+1138578	MVV Energie AG	MaLIS2_SAP_Arena_Sued	Xaver-Fuhr-Str. 152	68163	Mannheim	49.460248	8.516102	1	24/7	Keine Beschränkung	DE*MVV*E00102*L1~TYPE2:22|DE*MVV*E00102*R1~TYPE2:22
+1138759	MVV Energie AG	MaLIS2_Treff_3000	Hinter den Dorfgärten 2	68239	Mannheim	49.458291	8.562915	1	24/7	Keine Beschränkung	DE*MVV*E00053*L1~TYPE2:22|DE*MVV*E00053*R1~TYPE2:22
+1138764	MVV Energie AG	MaLIS2_Feudenheim_Wendeschleife	Odenwaldstr. 34-36	68259	Mannheim	49.483803	8.538095	1	24/7	Keine Beschränkung	DE*MVV*E00120*L1~TYPE2:22|DE*MVV*E00120*R1~TYPE2:22
+1138770	MVV Energie AG	MaLIS2_Feudenheim_Unteres_Kirchfeld	Unteres Kirchfeld 13	68259	Mannheim	49.483988	8.530087	1	24/7	Keine Beschränkung	DE*MVV*E00150*L1~TYPE2:22|DE*MVV*E00150*R1~TYPE2:22
+1138780	MVV Energie AG	MaLIS4_Andersenstraße_Feudenheim	Andersenstr. 28	68259	Mannheim	49.495004	8.528272	1	24/7	Keine Beschränkung	DE*MVV*E00505*L1~TYPE2:22|DE*MVV*E00505*R1~TYPE2:22
+1138980	MVV Energie AG	MaLIS1_Carl-Benz-Stadion	Theodor-Heuss-Anlage 20	68165	Mannheim	49.478179	8.503473	1	24/7	Keine Beschränkung	DE*MVV*E00030*L1~TYPE2:22|DE*MVV*E00030*R1~TYPE2:22|DE*MVV*E00708*L1~CCS2:50|DE*MVV*E00708*R1~CCS2:50
+1138984	MVV Energie AG	MaLIS1_EKMA_Neuhermsheim	Johannes-Hoffart-Str. 1b	68163	Mannheim	49.465569	8.507998	1	24/7	Keine Beschränkung	DE*MVV*E00042*L1~TYPE2:22|DE*MVV*E00042*R1~TYPE2:22
+1138994	MVV Energie AG	MaLIS1_DHBW	Coblitzallee 1-9	68163	Mannheim	49.474778	8.534500	1	24/7	Keine Beschränkung	DE*MVV*E00007*L1~TYPE2:22|DE*MVV*E00007*R1~TYPE2:22|DE*MVV*E00039*L1~TYPE2:22|DE*MVV*E00039*R1~TYPE2:22
+1139002	MVV Energie AG	MaLIS2_Pfingstbergkirche	Waldblick 30	68219	Mannheim	49.443214	8.531770	1	24/7	Keine Beschränkung	DE*MVV*E00117*L1~TYPE2:22|DE*MVV*E00117*R1~TYPE2:22
+1139111	MVV Energie AG	MaLIS3_Seckenheim	Schwabenstr. 22	68239	Mannheim	49.461360	8.568828	1	24/7	Keine Beschränkung	DE*MVV*E00151*L1~TYPE2:22|DE*MVV*E00151*R1~TYPE2:22
+1139115	EnBW ODR AG		Pfaudlerstr. 2	68723	Schwetzingen	49.381070	8.582328	1		Keine Beschränkung	DE*ODR*E2000*0182~TYPE2:22|DE*ODR*E2000*0183~TYPE2:22
+1139120	MVV Energie AG	MALIS1_Friedrichsfeld_Süd	Gebweilerstr. 13	68229	Mannheim	49.437859	8.571621	1	24/7	Keine Beschränkung	DE*MVV*E00100*L1~TYPE2:22|DE*MVV*E00100*R1~TYPE2:22
+1140339	Weingut Becker		Oberer Jagdweg 13	69254	Malsch	49.251195	8.690297	1	24/7	Nur für Kunden/Besucher	DE*BEK*E25262004*1~TYPE2:11|DE*BEK*E25262004*2~TYPE2:11|DE*BEK*E25262002*1~TYPE2:11|DE*BEK*E25262002*2~TYPE2:11
+1140658	BEG Kraichgau eG	Alter Messplatz	Kolpingstr. 1	68723	Schwetzingen	49.380174	8.574918	1		Keine Beschränkung	DE*BLN*E*748890073~TYPE2:22|DE*BLN*E*748890073*2~TYPE2:22
+1140659	BEG Kraichgau eG	Hirschacker	Marktplatz 28	68723	Schwetzingen	49.407263	8.552862	1		Keine Beschränkung	DE*BLN*E*748890081~TYPE2:22|DE*BLN*E*748890081*2~TYPE2:22
+1140776	Aral Pulse		Hoeber-und-Mandelbaum-Str. 1	68794	Oberhausen-Rheinhausen	49.250730	8.501040	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1143445	Minera	GRN Klinik, 68723 Schwetzingen	Bodelschwinghstr. 0	68723	Schwetzingen	49.379263	8.569650	1	24/7	Keine Beschränkung	DE*MKR*E0000002*001~CCS2:50|DE*MKR*E0000002*002~CCS2:50|DE*MKR*E0000002*003~CCS2:50|DE*MKR*E0000002*004~CCS2:50
+1143470	Minera	Haberstraße 2, 69126 Heidelberg	Haberstr. 2	69126	Heidelberg	49.365510	8.684145	1	24/7	Keine Beschränkung	DE*MKR*E2000001*001~CCS2:150|DE*MKR*E2000001*002~CCS2:150|DE*MKR*E2000001*003~CCS2:150|DE*MKR*E2000001*004~CCS2:150
+1143485	Minera	Mannheimer Landstraße 2, 68723 Schwetzingen	Mannheimer Landstr. 2	68723	Schwetzingen	49.393060	8.564074	1	24/7	Keine Beschränkung	DE*MKR*E2000004*001~CCS2:200|DE*MKR*E2000004*002~CCS2:200
+1143847	BENZ GmbH & Co. KG Baustoffe	Parkplatz Helmstadter Straße	Helmstadter Str. 14-16	74924	Neckarbischofsheim	49.297476	8.964551	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1143963	MVV Energie AG	MaLIS_Oftersheim_Eichendorffstraße	Eichendorffstr. 4	68723	Oftersheim	49.369451	8.582532	1	24/7	Keine Beschränkung	DE*MVV*E00658*L1~TYPE2:22|DE*MVV*E00658*R1~TYPE2:22
+1144024	Shell Deutschland GmbH		Altrottstr. 44	69190	Walldorf	49.292861	8.650538	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1144025	Shell Deutschland GmbH		Altrottstr. 44	69190	Walldorf	49.292923	8.650421	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:300|~CCS2:300
+1144026	Shell Deutschland GmbH		Altrottstr. 44	69190	Walldorf	49.292820	8.650359	1		Keine Beschränkung	~CCS2:200|~CCS2:200
+1144027	Shell Deutschland GmbH		Altrottstr. 44	69190	Walldorf	49.292882	8.650349	1		Keine Beschränkung	~CCS2:200|~CCS2:200
+1144029	Shell Deutschland GmbH		Altrottstr. 44	69190	Walldorf	49.293025	8.650726	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1144201	Universitätsklinikum Heidelberg Anstalt öffentlichen Rechts	Parkhaus P160 INF	Im Neuenheimer Feld 160	69120	Heidelberg	49.413765	8.664798	1	24/7	Keine Beschränkung	DE*2HD*EP1609901ACE0790764*01~TYPE2:11|DE*2HD*EP1609901ACE0790764*02~TYPE2:11|DE*2HD*EP1609902ACE0790765*01~TYPE2:11|DE*2HD*EP1609902ACE0790765*02~TYPE2:11|DE*2HD*EP1609903ACE0790768*01~TYPE2:11|DE*2HD*EP1609903ACE0790768*02~TYPE2:11|DE*2HD*EP1609904ACE0790774*01~TYPE2:11|DE*2HD*EP1609904ACE0790774*02~TYPE2:11|DE*2HD*EP1609905ACE0790769*01~TYPE2:11|DE*2HD*EP1609905ACE0790769*02~TYPE2:11|DE*2HD*EP1609906ACE0790773*01~TYPE2:11|DE*2HD*EP1609906ACE0790773*02~TYPE2:11|DE*2HD*EP1609907ACE0794131*01~TYPE2:11|DE*2HD*EP1609907ACE0794131*02~TYPE2:11|DE*2HD*EP1609908ACE0794141*01~TYPE2:11|DE*2HD*EP1609908ACE0794141*02~TYPE2:11|DE*2HD*EP1609909ACE0794124*01~TYPE2:11|DE*2HD*EP1609909ACE0794124*02~TYPE2:11|DE*2HD*EP1609910ACE0794114*01~TYPE2:11|DE*2HD*EP1609910ACE0794114*02~TYPE2:11|DE*2HD*EP1609911ACE0794130*01~TYPE2:11|DE*2HD*EP1609911ACE0794130*02~TYPE2:11|DE*2HD*EP1609912ACE0794111*01~TYPE2:11|DE*2HD*EP1609912ACE0794111*02~TYPE2:11|DE*2HD*EP1600101ACE0794137*01~TYPE2:11|DE*2HD*EP1600101ACE0794137*02~TYPE2:11|DE*2HD*EP1600102ACE0794132*01~TYPE2:11|DE*2HD*EP1600102ACE0794132*02~TYPE2:11|DE*2HD*EP1600103ACE0794113*01~TYPE2:11|DE*2HD*EP1600103ACE0794113*02~TYPE2:11|DE*2HD*EP1600104ACE0790770*01~TYPE2:11|DE*2HD*EP1600104ACE0790770*02~TYPE2:11|DE*2HD*EP1600105ACE0794116*01~TYPE2:11|DE*2HD*EP1600105ACE0794116*02~TYPE2:11|DE*2HD*EP1600106ACE0794117*01~TYPE2:11|DE*2HD*EP1600106ACE0794117*02~TYPE2:11|DE*2HD*EP1600107ACE0794129*01~TYPE2:11|DE*2HD*EP1600107ACE0794129*02~TYPE2:11|DE*2HD*EP1600108ACE0794151*01~TYPE2:11|DE*2HD*EP1600108ACE0794151*02~TYPE2:11|DE*2HD*EP1600109ACE0769765*01~TYPE2:11|DE*2HD*EP1600109ACE0769765*02~TYPE2:11|DE*2HD*EP1600110ACE0783631*01~TYPE2:11|DE*2HD*EP1600110ACE0783631*02~TYPE2:11|DE*2HD*EP1600111ACE0769762*01~TYPE2:11|DE*2HD*EP1600111ACE0769762*02~TYPE2:11|DE*2HD*EP1600112ACE0783629*01~TYPE2:11|DE*2HD*EP1600112ACE0783629*02~TYPE2:11|DE*2HD*EP1600113ACE0794136*01~TYPE2:11|DE*2HD*EP1600113ACE0794136*02~TYPE2:11|DE*2HD*EP1600114ACE0783652*01~TYPE2:11|DE*2HD*EP1600114ACE0783652*02~TYPE2:11|DE*2HD*EP1600301ACE0783648*01~TYPE2:11|DE*2HD*EP1600301ACE0783648*02~TYPE2:11|DE*2HD*EP1600302ACE0794112*01~TYPE2:11|DE*2HD*EP1600302ACE0794112*02~TYPE2:11|DE*2HD*EP1600303ACE0783644*01~TYPE2:11|DE*2HD*EP1600303ACE0783644*02~TYPE2:11|DE*2HD*EP1600304ACE0783653*01~TYPE2:11|DE*2HD*EP1600304ACE0783653*02~TYPE2:11|DE*2HD*EP1600305ACE0783628*01~TYPE2:11|DE*2HD*EP1600305ACE0783628*02~TYPE2:11|DE*2HD*EP1600306ACE0783626*01~TYPE2:11|DE*2HD*EP1600306ACE0783626*02~TYPE2:11|DE*2HD*EP1600307ACE0794142*01~TYPE2:11|DE*2HD*EP1600307ACE0794142*02~TYPE2:11|DE*2HD*EP1600308ACE0783649*01~TYPE2:11|DE*2HD*EP1600308ACE0783649*02~TYPE2:11|DE*2HD*EP1600309ACE0783636*01~TYPE2:11|DE*2HD*EP1600309ACE0783636*02~TYPE2:11|DE*2HD*EP1600310ACE0783646*01~TYPE2:11|DE*2HD*EP1600310ACE0783646*02~TYPE2:11|DE*2HD*EP1600311ACE0783625*01~TYPE2:11|DE*2HD*EP1600311ACE0783625*02~TYPE2:11|DE*2HD*EP1600312ACE0783647*01~TYPE2:11|DE*2HD*EP1600312ACE0783647*02~TYPE2:11|DE*2HD*EP1600501ACE0783650*01~TYPE2:11|DE*2HD*EP1600501ACE0783650*02~TYPE2:11|DE*2HD*EP1600502ACE0783651*01~TYPE2:11|DE*2HD*EP1600502ACE0783651*02~TYPE2:11|DE*2HD*EP1600503ACE0794139*01~TYPE2:11|DE*2HD*EP1600503ACE0794139*02~TYPE2:11|DE*2HD*EP1600504ACE0794148*01~TYPE2:11|DE*2HD*EP1600504ACE0794148*02~TYPE2:11|DE*2HD*EP1600505ACE0794118*01~TYPE2:11|DE*2HD*EP1600505ACE0794118*02~TYPE2:11|DE*2HD*EP1600506ACE0794149*01~TYPE2:11|DE*2HD*EP1600506ACE0794149*02~TYPE2:11|DE*2HD*EP1600507ACE0794135*01~TYPE2:11|DE*2HD*EP1600507ACE0794135*02~TYPE2:11|DE*2HD*EP1600508ACE0794123*01~TYPE2:11|DE*2HD*EP1600508ACE0794123*02~TYPE2:11|DE*2HD*EP1600509ACE0794147*01~TYPE2:11|DE*2HD*EP1600509ACE0794147*02~TYPE2:11|DE*2HD*EP1600510ACE0794150*01~TYPE2:11|DE*2HD*EP1600510ACE0794150*02~TYPE2:11|DE*2HD*EP1600511ACE0794138*01~TYPE2:11|DE*2HD*EP1600511ACE0794138*02~TYPE2:11|DE*2HD*EP1600512ACE0794134*01~TYPE2:11|DE*2HD*EP1600512ACE0794134*02~TYPE2:11
+1144252	Universitätsklinikum Heidelberg Anstalt öffentlichen Rechts	Parkhaus P160 INF	Im Neuenheimer Feld 160	69120	Heidelberg	49.414319	8.664786	1	24/7	Keine Beschränkung	DE*2HD*EP160O1OPFAL0166*01~TYPE2:11|DE*2HD*EP160O1OPFAL0166*02~TYPE2:11|DE*2HD*EP160O2OPFAL0226*01~TYPE2:11|DE*2HD*EP160O2OPFAL0226*02~TYPE2:11|DE*2HD*EP160O3OPFAL0229*01~TYPE2:11|DE*2HD*EP160O3OPFAL0229*02~TYPE2:11|DE*2HD*EP160O4OPFAL0197*01~TYPE2:11|DE*2HD*EP160O4OPFAL0197*02~TYPE2:11|DE*2HD*EP160O5OPFAL0230*01~TYPE2:11|DE*2HD*EP160O5OPFAL0230*02~TYPE2:11
+1144257	Universitätsklinikum Heidelberg Anstalt öffentlichen Rechts	Parkhaus P699 INF	Im Neuenheimer Feld 699	69120	Heidelberg	49.418563	8.661008	1	24/7	Keine Beschränkung	DE*2HD*EP699O1OPFAL0227*01~TYPE2:11|DE*2HD*EP699O1OPFAL0227*02~TYPE2:11|DE*2HD*EP699O2OPFAL0167*01~TYPE2:11|DE*2HD*EP699O2OPFAL0167*02~TYPE2:11|DE*2HD*EP699O3OPFAL0221*01~TYPE2:11|DE*2HD*EP699O3OPFAL0221*02~TYPE2:11
+1144503	Universitätsklinikum Heidelberg Anstalt öffentlichen Rechts	Parkplatz Orthopädie Schlierbach Oberes Plateau	Schlierbacher Landstr. 200	69118	Heidelberg	49.409453	8.770827	1	24/7	Keine Beschränkung	DE*2HD*EOR9046O1OACE0790757*01~TYPE2:11|DE*2HD*EOR9046O1OACE0790757*02~TYPE2:11|DE*2HD*EOR9046O2OACE0790742*01~TYPE2:11|DE*2HD*EOR9046O2OACE0790742*02~TYPE2:11|DE*2HD*EOR9046O3OACE0783624*01~TYPE2:11|DE*2HD*EOR9046O3OACE0783624*02~TYPE2:11|DE*2HD*EOR9046O4OACE0790736*01~TYPE2:11|DE*2HD*EOR9046O4OACE0790736*02~TYPE2:11|DE*2HD*EOR9046O5OACE0790743*01~TYPE2:11|DE*2HD*EOR9046O5OACE0790743*02~TYPE2:11|DE*2HD*EOR9046O6OACE0790733*01~TYPE2:11|DE*2HD*EOR9046O6OACE0790733*02~TYPE2:11|DE*2HD*EOR9046O7OACE0790746*01~TYPE2:11|DE*2HD*EOR9046O7OACE0790746*02~TYPE2:11|DE*2HD*EOR9046O8OACE0790758*01~TYPE2:11|DE*2HD*EOR9046O8OACE0790758*02~TYPE2:11
+1144511	deer GmbH	Ubstadt-Weiher Stettfeld	Humboldtstr. 2	76698	Ubstadt-Weiher	49.180201	8.646044	1	24/7	Keine Beschränkung	DE*753*E00469*001~TYPE2:22|DE*753*E00469*002~TYPE2:22
+1145327	HEG Heidelberger Energiegenossenschaft eG		Wasserturmstr. 2	69214	Eppelheim	49.401972	8.630000	1	24/7	Keine Beschränkung	DE*BLN*E*690660015~TYPE2:22|DE*BLN*E*690660016~TYPE2:22
+1145672	Minera	P+M A6 Parkplatz, 68723 Schwetzingen-Hockenheim	Hockenheimer Landstr. 0	68723	Schwetzingen	49.365110	8.552745	1	24/7	Keine Beschränkung	DE*MKR*E000011*001~CCS2:400|DE*MKR*E000011*002~CCS2:400|DE*MKR*E000011*003~TYPE2:22|DE*MKR*E000011*004~TYPE2:22
+1145683	Minera	Dietmar-Hopp-Straße 6, 74889 Sinsheim	Dietmar-Hopp-Str. 6	74889	Sinsheim	49.239470	8.878410	1	Mo-So 06:00-20:00	Nur für Kunden/Besucher	DE*MKR*E2000008*001~TYPE2:22|DE*MKR*E2000008*002~TYPE2:22|DE*MKR*E2000008*003~TYPE2:22|DE*MKR*E2000008*004~TYPE2:22|DE*MKR*E2000008*005~TYPE2:22|DE*MKR*E2000008*006~TYPE2:22
+1145687	Minera	Odenwaldring 1, 68723 Schwetzingen	Odenwaldring 1	68723	Schwetzingen	49.380046	8.585430	1	24/7	Keine Beschränkung	DE*MKR*E2000007*001~CCS2:50|DE*MKR*E2000007*002~CCS2:50|DE*MKR*E2000007*003~CCS2:400|DE*MKR*E2000007*004~CCS2:400|DE*MKR*E2000007*005~CCS2:400|DE*MKR*E2000007*006~CCS2:400
+1145691	Minera	Stuttgarter Str. 70, 75438 Knittlingen	Stuttgarter Str. 70	75438	Knittlingen	49.017610	8.764906	1	24/7	Keine Beschränkung	DE*MKR*E000009*001~CCS2:400|DE*MKR*E000009*002~CCS2:400|DE*MKR*E000009*003~CCS2:400|DE*MKR*E000009*004~CCS2:400
+1146191	Stadtwerke Heidelberg Energie GmbH	Parkplatz Kuchenblech	Kleingemünder Str. 32-34	69118	Heidelberg	49.417479	8.760779	1	24/7	Keine Beschränkung	DE*1HD*ESWH129*001~TYPE2:22|DE*1HD*ESWH129*002~TYPE2:22|DE*1HD*ESWH129*003~TYPE2:22|DE*1HD*ESWH129*004~TYPE2:22
+1146194	Stadtwerke Heidelberg Energie GmbH	Da-Vinci-Straße	Da-Vinci-Str. 1R	69115	Heidelberg	49.404450	8.666410	1	24/7	Keine Beschränkung	DE*1HD*ESWH130*001~TYPE2:22|DE*1HD*ESWH130*002~TYPE2:22|DE*1HD*ESWH130*003~TYPE2:22|DE*1HD*ESWH130*004~TYPE2:22
+1147414	MVV Energie AG	MaLIS_Edeka_Oftersheim	Eichendorffstr. 44	68723	Oftersheim	49.368030	8.576288	1	24/7	Keine Beschränkung	DE*MVV*E00654*L1~CCS2:150|DE*MVV*E00654*R1~CCS2:150|DE*MVV*E00655*L1~CCS2:150|DE*MVV*E00655*R1~CCS2:150
+1147416	MVV Energie AG	MaLIS_Schriesheim_Alexander-Mack-Straße	Alexander-Mack-Str. 1	69198	Schriesheim	49.477743	8.657527	1	24/7	Keine Beschränkung	DE*MVV*E00609*L1~CCS2:50|DE*MVV*E00609*R1~CCS2:50
+1147611	smopi	Schriesheim.BismarckStrasse34.Public1	Bismarckstr. 34	69198	Schriesheim	49.474150	8.662590	1	24/7	Keine Beschränkung	DE*SMC*E0000441~TYPE2:22|DE*SMC*E0000442~TYPE2:22
+1147615	smopi	Schriesheim.BismarckStrasse34.Public2	Bismarckstr. 34	69198	Schriesheim	49.474151	8.662519	1	24/7	Keine Beschränkung	DE*SMC*E0000443~TYPE2:22|DE*SMC*E0000444~TYPE2:22
+1148329	Kaufland	7690_Kland_Dossenheim_T65-IT1-3822-069	Gewerbestr. 19	69221	Dossenheim	49.454680	8.665160	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1148497	Fontus-Businesspark	Fontus-Businesspark Wallbox 1	Opelstr. 1	68789	St. Leon-Rot	49.247542	8.645744	1	24/7	Keine Beschränkung	DE*FBP*E0001*2~TYPE2:22|DE*FBP*E0001*1~TYPE2:22|DE*FBP*E0002*2~TYPE2:22|DE*FBP*E0002*1~TYPE2:22|DE*FBP*E0003*2~TYPE2:22|DE*FBP*E0003*1~TYPE2:22
+1148580	Minera	Wildemannstraße 4, 68723 Schwetzingen	Wildemannstr. 4	68723	Schwetzingen	49.386250	8.570857	1	24/7	Keine Beschränkung	DE*MKR*E000010*001~CCS2:50|DE*MKR*E000010*002~CCS2:50|DE*MKR*E000010*003~CCS2:50|DE*MKR*E000010*004~CCS2:50
+1148598	deer GmbH	Östringen, Leiberg	Leiberg II 7	76684	Östringen	49.218239	8.709140	1	24/7	Keine Beschränkung	DE*753*E00567*001~TYPE2:22|DE*753*E00567*002~TYPE2:22
+1148874	Florian Leibold		Karlstr. 36	76689	Karlsdorf-Neuthard	49.130589	8.526181	1	24/7	Keine Beschränkung	~TYPE2:11
+1149787	cocharge	DECOC342	Sperlingweg 1	68766	Hockenheim	49.312686	8.558360	1	24/7	Keine Beschränkung	DE*COC*E342*01~TYPE2:22
+1150337	MVV Energie AG	MaLIS_Mannheimer Morgen	Dudenstr. 12-26	68167	Mannheim	49.499349	8.502507	1	24/7	Keine Beschränkung	DE*MVV*E00610*L1~CCS2:50|DE*MVV*E00610*R1~CCS2:50
+1150560	Robert Bosch GmbH		Otto-Hahn-Straße 5	69190	Walldorf	49.289108	8.643876	1		Nur für Kunden/Besucher	DE*811*E123C029C*1001~TYPE2:11
+1150788	Lidl	5075_Lidl_Sinsheim_QP-20044-0525-060-121-QP-	Froschwiesenweg 1	74889	Sinsheim	49.241210	8.905340	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1150809	BEG Kraichgau eG	Sportplätze	Mannheimer Str. 48-50	68535	Edingen-Neckarhausen	49.451334	8.603824	1	24/7	Keine Beschränkung	DE*BLN*E*748890083~TYPE2:22|DE*BLN*E*748890083*2~TYPE2:22
+1150839	Q-Park Recharge Germany GmbH	Q-Park Heidelberg Sofienquartier	Fahrtgasse 14	69117	Heidelberg	49.410620	8.694530	1	24/7	Keine Beschränkung	DE-GFX-EACE0794115-1~TYPE2_TETHERED:11|DE-GFX-EACE0794115-2~TYPE2_TETHERED:11|DE-GFX-EACE0799867-1~TYPE2_TETHERED:11|DE-GFX-EACE0799867-2~TYPE2_TETHERED:11|DE-GFX-EACE0799875-1~TYPE2_TETHERED:11|DE-GFX-EACE0799875-2~TYPE2_TETHERED:11|DE-GFX-EACE0799873-1~TYPE2_TETHERED:11|DE-GFX-EACE0799873-2~TYPE2_TETHERED:11|DE-GFX-EACE0799874-1~TYPE2_TETHERED:11|DE-GFX-EACE0799874-2~TYPE2_TETHERED:11|DE-GFX-EACE0799875-1~TYPE2_TETHERED:11|DE-GFX-EACE0799875-2~TYPE2_TETHERED:11|DE-GFX-EACE0799876-1~TYPE2_TETHERED:11|DE-GFX-EACE0799876-2~TYPE2_TETHERED:11|DE-GFX-EACE0799877-1~TYPE2_TETHERED:11|DE-GFX-EACE0799877-2~TYPE2_TETHERED:11|DE-GFX-EACE0799878-1~TYPE2_TETHERED:11|DE-GFX-EACE0799878-2~TYPE2_TETHERED:11|DE-GFX-EACE0799881-1~TYPE2_TETHERED:11|DE-GFX-EACE0799881-2~TYPE2_TETHERED:11
+1151134	deer GmbH	Marktplatz	Herzogstr. 19	68775	Ketsch	49.369564	8.529842	1	24/7	Keine Beschränkung	DE*753*E00523*001~TYPE2:22|DE*753*E00523*002~TYPE2:22
+1151136	deer GmbH		Schillerstr. 4	68723	Oftersheim	49.372231	8.583645	1	24/7	Keine Beschränkung	DE*753*E00537*001~TYPE2:22|DE*753*E00537*002~TYPE2:22
+1151363	Wirelane GmbH	acora Heidelberg Living the City	Felix-Wankel-Straße 4	69126	Heidelberg	49.382778	8.681297	1		Keine Beschränkung	DE*WLN*ES001257~TYPE2:11|DE*WLN*ES001258~TYPE2:11
+1151556	Wirelane GmbH		Bergheimer Straße 63	69115	Heidelberg	49.407891	8.686643	1		Keine Beschränkung	DE*WLN*ES000975~TYPE2:11|DE*WLN*ES000974~TYPE2:11|DE*WLN*ES000580~TYPE2:11|DE*WLN*ES000581~TYPE2:11
+1151581	Wirelane GmbH		Hamburger Straße 4	69181	Leimen	49.354620	8.685667	1		Keine Beschränkung	DE*WLN*ES001229~TYPE2:11|DE*WLN*ES001230~TYPE2:11|DE*WLN*ES001231~TYPE2:11|DE*WLN*ES001232~TYPE2:11|DE*WLN*ES001233~TYPE2:11|DE*WLN*ES001234~TYPE2:11
+1151767	Wirelane GmbH	Leonardo Hotel Heidelberg	Pleikartsförster Straße 101	69124	Heidelberg	49.387159	8.661584	1		Keine Beschränkung	DE*WLN*ES001095~TYPE2:11|DE*WLN*ES001094~TYPE2:11|DE*WLN*ES000622~TYPE2:11|DE*WLN*ES000623~TYPE2:11
+1151780	Wirelane GmbH		Heidelberger Straße 8	68766	Hockenheim	49.319179	8.549593	1		Keine Beschränkung	DE*WLN*ES001137~TYPE2:11|DE*WLN*ES001136~TYPE2:11
+1151781	Wirelane GmbH		Heidelberger Straße 8	68766	Hockenheim	49.319012	8.549597	1		Keine Beschränkung	DE*WLN*ES001141~TYPE2:11|DE*WLN*ES001140~TYPE2:11
+1152000	Wirelane GmbH		Unterdorfstraße 59	68753	Waghäusel	49.247111	8.550694	1		Keine Beschränkung	DE*WLN*EP001353~TYPE2:22|DE*WLN*EP001354~TYPE2:22
+1152278	deer GmbH	Sachesenheim-Ochsenbach	Spielberger Str. 15	74343	Sachsenheim	49.021186	8.984393	1	24/7	Keine Beschränkung	DE*753*E00565*001~TYPE2:22|DE*753*E00565*002~TYPE2:22
+1152279	deer GmbH	Bretten-Neibsheim	Talbachstr. 31	75015	Bretten	49.069838	8.683058	1	24/7	Keine Beschränkung	DE*753*E00588*001~TYPE2:22|DE*753*E00588*002~TYPE2:22
+1152281	deer GmbH	Bretten-Sportzentrum	Sportzentrum 2	75015	Bretten	49.030604	8.718317	1	24/7	Keine Beschränkung	DE*753*E00593*001~TYPE2:22|DE*753*E00593*002~TYPE2:22
+1152282	deer GmbH	Bretten-Diedelsheim	Seestr. 23	75015	Bretten	49.042926	8.683173	1	24/7	Keine Beschränkung	DE*753*E00592*001~TYPE2:22|DE*753*E00592*002~TYPE2:22
+1152283	deer GmbH	Oberderdingen	Am Stadion 2	75038	Oberderdingen	49.058308	8.796242	1	24/7	Keine Beschränkung	DE*753*E00589*001~TYPE2:22|DE*753*E00589*002~TYPE2:22
+1152286	deer GmbH	Oberderdingen-Flehingen	Attenbergstr. 20	75038	Oberderdingen	49.083419	8.775331	1	24/7	Keine Beschränkung	DE*753*E00590*001~TYPE2:22|DE*753*E00590*002~TYPE2:22
+1152287	deer GmbH	Oberderdingen-Großvillars	Storchenweg 2	75038	Oberderdingen	49.049177	8.771054	1	24/7	Keine Beschränkung	DE*753*E00591*001~TYPE2:22|DE*753*E00591*002~TYPE2:22
+1152311	LT Autoservice GmbH	01 Keba	Gutenbergring 9	69168	Wiesloch	49.290116	8.660783	1	Mo-Fr 08:00-17:00	Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~CCS2:25|~CCS2:25
+1152392	Jolt Energy GmbH		Am Grünen Hag 2	69118	Heidelberg	49.413941	8.768128	1	24/7	Keine Beschränkung	DE*JEG*EFFM009201~CCS2:300|DE*JEG*EFFM009202~CCS2:300
+1152640	Parkraumgesellschaft Baden-Württemberg GmbH	Parkgarage P15 Klinikum Bergheim	Bergheimer Str. 0	69115	Heidelberg	49.409706	8.687409	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1153191	Wattif Europe GmbH	Heidelberg Qube Hotel Bahnstadt	Grüne Meile 21	69115	Heidelberg	49.403725	8.665909	1	24/7	Keine Beschränkung	DE*WAT*EW049303001~TYPE2:22|DE*WAT*EW049303002~TYPE2:22
+1153520	Energiegenossenschaft Starkenburg eG		Hauptstr. 7	69239	Neckarsteinach	49.407970	8.837360	1	24/7	Keine Beschränkung	~TYPE2:22
+1154110	Pflege-Team Fleischer	Pflege-Team Fleischer Sinsheim	Am Leinwedel 16	74889	Sinsheim	49.205193	8.870541	1	24/7	Keine Beschränkung	DE*ONE*E9F5D~TYPE2_TETHERED:22|DE*ONE*EWJ1S~TYPE2_TETHERED:22|DE*ONE*EZ43K~TYPE2_TETHERED:22|DE*ONE*ER3VE~TYPE2_TETHERED:22|DE*ONE*E5NY8~TYPE2_TETHERED:22
+1154357	deer GmbH	Bretten-Gölshausen	Wolfgang-Göbel-Str. 13	75015	Bretten	49.047019	8.720428	1	24/7	Keine Beschränkung	DE*753*E00596*001~TYPE2:22|DE*753*E00596*002~TYPE2:22
+1154358	deer GmbH	Bretten-Sprantal	Ortsstr. 19	75015	Bretten	49.004281	8.681073	1	24/7	Keine Beschränkung	DE*753*E00605*001~TYPE2:22|DE*753*E00605*002~TYPE2:22
+1154359	deer GmbH	Bretten-Wannenweg	Wannenweg 2	75015	Bretten	49.030625	8.708395	1	24/7	Keine Beschränkung	DE*753*E00617*001~TYPE2:22|DE*753*E00617*002~TYPE2:22
+1154390	Minera	Dossenheimer Landstraße 55a, 69121 Heidelberg	Dossenheimer Landstr. 55a	69121	Heidelberg	49.429720	8.682240	1	24/7	Keine Beschränkung	DE*MKR*E0000004*001~CCS2:150|DE*MKR*E0000004*002~CCS2:150
+1154613	BEG Kraichgau eG	Rathaus	Bahnhofstr. 1	74927	Eschelbronn	49.320102	8.868137	1	24/7	Keine Beschränkung	DE*BLN*E*748890085~TYPE2:22|DE*BLN*E*748890085*2~TYPE2:22
+1154631	David Sailer		Lüßstr. 10	75438	Knittlingen	49.023726	8.755590	1	Mo-Do 08:00-15:00, Fr 08:00-12:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1155132	E.ON Drive Infrastructure		Kronauer Str. 76	68753	Waghäusel	49.239729	8.556588	1	24/7	Keine Beschränkung	DE*UFC*E01421*1~CCS2:150|DE*UFC*E01421*2~CCS2:150|DE*UFC*E01372*1~CCS2:50|DE*UFC*E01372*2~CCS2:50
+1156140	Wirelane GmbH	Grenzhoefer Straße 38, 69214 Eppelheim	Grenzhoefer Straße 38	69214	Eppelheim	49.404306	8.623667	1		Keine Beschränkung	DE*WLN*EP000557~TYPE2:22|DE*WLN*EP000558~TYPE2:22
+1156222	Wirelane GmbH	B&B Hotel Bruchsal-Karlsdorf	Neuwiesenstraße 2	76689	Karlsdorf-Neuthard	49.149168	8.545907	1		Keine Beschränkung	DE*WLN*ES001122~TYPE2:11|DE*WLN*ES001123~TYPE2:11|DE*WLN*ES001124~TYPE2:11|DE*WLN*ES001125~TYPE2:11|DE*WLN*ES001126~TYPE2:11|DE*WLN*ES001127~TYPE2:11
+1156500	Wirelane GmbH	Leonardo Hotel Mannheim-Ladenburg	Benzstraße 21	68526	Ladenburg	49.478830	8.597348	1		Keine Beschränkung	DE*WLN*ES000740~TYPE2:11|DE*WLN*ES000739~TYPE2:11
+1156717	Minera	Im Bruch 3, 68775 Ketsch	Im Bruch 3	68775	Ketsch	49.364734	8.520523	1	24/7	Keine Beschränkung	DE*MKR*E000012*001~CCS2:50|DE*MKR*E000012*002~CCS2:50
+1156999	Wirelane GmbH		Carl-Benz-Straße 2	69115	Heidelberg	49.398594	8.677872	1		Keine Beschränkung	DE*WLN*ES001142~TYPE2:11|DE*WLN*ES001143~TYPE2:11|DE*WLN*ES001144~TYPE2:11|DE*WLN*ES001145~TYPE2:11
+1157549	BEG Kraichgau eG		Apfelweg -	69168	Wiesloch	49.290958	8.710423	1	24/7	Keine Beschränkung	DE*BLN*E*748890059~TYPE2:22|DE*BLN*E*748890059*2~TYPE2:22
+1157550	BEG Kraichgau eG	Messplatz	Meßplatzstr. 9	69168	Wiesloch	49.293152	8.701627	1	24/7	Keine Beschränkung	DE*BLN*E*748890087~TYPE2:22|DE*BLN*E*748890087*2~TYPE2:22
+1158198	deer GmbH	Nußloch Parkplatz Weberstraße	Weberstr. 21	69226	Nußloch	49.327126	8.688844	1	24/7	Keine Beschränkung	DE*753*E00631*001~TYPE2:22|DE*753*E00631*002~TYPE2:22
+1158199	deer GmbH	Bretten-Dürrenbüchig	Kraichgaustr. 4	75015	Bretten	49.021697	8.647381	1	24/7	Keine Beschränkung	DE*753*E00627*001~TYPE2:22|DE*753*E00627*002~TYPE2:22
+1158200	deer GmbH	Bretten-Bauerbach	Bürgerstr. 87a	75015	Bretten	49.071165	8.745197	1	24/7	Keine Beschränkung	DE*753*E00626*001~TYPE2:22|DE*753*E00626*002~TYPE2:22
+1158203	deer GmbH	Bretten-Büchig	Hügellandstr. 29	75015	Bretten	49.074087	8.709859	1	24/7	Keine Beschränkung	DE*753*E00639*001~TYPE2:22|DE*753*E00639*001~TYPE2:22
+1158204	deer GmbH	Bretten-Rinklingen	Saalbachstr. 16	75015	Bretten	49.033056	8.685907	1	24/7	Keine Beschränkung	DE*753*E00638*001~TYPE2:22|DE*753*E00638*002~TYPE2:22
+1158207	deer GmbH	Bretten-Bahnhof	Brucknerstr. 6	75015	Bretten	49.037583	8.693261	1	24/7	Keine Beschränkung	DE*753*E00618*001~TYPE2:22|DE*753*E00618*002~TYPE2:22
+1158333	SI Energy		Hans-Thoma-Str. 2	68163	Mannheim	49.473590	8.533460	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1159047	EnBW mobility+ AG und Co.KG	PENNY Bretten, Pforzheimer Straße	Pforzheimer Straße 46	75015	Bretten	49.032300	8.704400	1	24/7	Keine Beschränkung	DE*EBW*E916272*1~CCS2:300|DE*EBW*E916272*2~CCS2:300|DE*EBW*E916234*1~CCS2:100|DE*EBW*E916234*2~CCS2:100|DE*EBW*E916233*1~CCS2:150|DE*EBW*E916233*2~CCS2:150|DE*EBW*E916271*1~CCS2:150|DE*EBW*E916271*2~CCS2:150
+1159569	Stadtwerke Heidelberg Energie GmbH	Heidelberg Congress Center 1	Czernyring 20	69115	Heidelberg	49.401720	8.673319	1	24/7	Keine Beschränkung	DE*1HD*ESWH180*001~TYPE2:11|DE*1HD*ESWH180*002~TYPE2:11|DE*1HD*ESWH180*003~TYPE2:11|DE*1HD*ESWH180*004~TYPE2:11|DE*1HD*ESWH180*005~TYPE2:11|DE*1HD*ESWH180*006~TYPE2:11|DE*1HD*ESWH180*007~TYPE2:11|DE*1HD*ESWH180*008~TYPE2:11|DE*1HD*ESWH180*009~TYPE2:11|DE*1HD*ESWH180*010~TYPE2:11|DE*1HD*ESWH180*011~TYPE2:11|DE*1HD*ESWH180*012~TYPE2:11|DE*1HD*ESWH180*013~TYPE2:11|DE*1HD*ESWH180*014~TYPE2:11|DE*1HD*ESWH180*015~TYPE2:11|DE*1HD*ESWH180*016~TYPE2:11|DE*1HD*ESWH180*017~TYPE2:11|DE*1HD*ESWH180*018~TYPE2:11|DE*1HD*ESWH180*019~TYPE2:11|DE*1HD*ESWH180*020~TYPE2:11|DE*1HD*ESWH180*021~TYPE2:11|DE*1HD*ESWH180*022~TYPE2:11|DE*1HD*ESWH180*023~TYPE2:11|DE*1HD*ESWH180*024~TYPE2:11|DE*1HD*ESWH180*025~TYPE2:11|DE*1HD*ESWH180*026~TYPE2:11|DE*1HD*ESWH180*027~TYPE2:11|DE*1HD*ESWH180*028~TYPE2:11|DE*1HD*ESWH180*029~TYPE2:11|DE*1HD*ESWH180*030~TYPE2:11|DE*1HD*ESWH180*031~TYPE2:11|DE*1HD*ESWH180*032~TYPE2:11|DE*1HD*ESWH180*033~TYPE2:11|DE*1HD*ESWH180*034~TYPE2:11|löschen~TYPE2:11|löschen~TYPE2:11|DE*1HD*ESWH180*035~TYPE2:11|DE*1HD*ESWH180*036~TYPE2:11|DE*1HD*ESWH180*037~TYPE2:11|DE*1HD*ESWH180*038~TYPE2:11|DE*1HD*ESWH180*039~TYPE2:11|DE*1HD*ESWH180*040~TYPE2:11|DE*1HD*ESWH180*041~TYPE2:11|DE*1HD*ESWH180*042~TYPE2:11|DE*1HD*ESWH180*043~TYPE2:11|DE*1HD*ESWH180*044~TYPE2:11|DE*1HD*ESWH180*045~TYPE2:11|DE*1HD*ESWH180*046~TYPE2:11|DE*1HD*ESWH180*047~TYPE2:11|DE*1HD*ESWH180*048~TYPE2:11|DE*1HD*ESWH180*049~TYPE2:11|DE*1HD*ESWH180*050~TYPE2:11|DE*1HD*ESWH180*051~TYPE2:11|DE*1HD*ESWH180*052~TYPE2:11|DE*1HD*ESWH180*053~TYPE2:11|DE*1HD*ESWH180*054~TYPE2:11|DE*1HD*ESWH180*055~TYPE2:11|DE*1HD*ESWH180*056~TYPE2:11|DE*1HD*ESWH180*057~TYPE2:11|DE*1HD*ESWH180*058~TYPE2:11|DE*1HD*ESWH180*059~TYPE2:11|DE*1HD*ESWH180*060~TYPE2:11|DE*1HD*ESWH180*061~TYPE2:11|DE*1HD*ESWH180*062~TYPE2:11|DE*1HD*ESWH180*063~TYPE2:11|DE*1HD*ESWH180*064~TYPE2:11|DE*1HD*ESWH180*065~TYPE2:11|DE*1HD*ESWH180*066~TYPE2:11|DE*1HD*ESWH180*067~TYPE2:11|DE*1HD*ESWH180*068~TYPE2:11|DE*1HD*ESWH180*069~TYPE2:11|DE*1HD*ESWH180*070~TYPE2:11|DE*1HD*ESWH180*071~TYPE2:11|DE*1HD*ESWH180*072~TYPE2:11
+1159744	ZG Baustoffe	BS Rauenberg	Hohenaspen 15	69231	Rauenberg	49.274845	8.698822	1	Mo-Fr 07:00-17:30, Sa 07:00-12:00	Nur für Kunden/Besucher	DE*MSU*EZGR*BS*W06*01~TYPE2:11|DE*MSU*EZGR*BS*W06*02~TYPE2:11
+1160035	Tesla Germany GmbH		Mannheimer Landstr. 2	68782	Brühl	49.409881	8.541806	1	24/7	Keine Beschränkung	DE*TSL*EH814N7~CCS2:250|DE*TSL*EH811P2~CCS2:250|DE*TSL*EH814N9~CCS2:250|DE*TSL*EH814NB~CCS2:250|DE*TSL*EH814NE~CCS2:250|DE*TSL*EH814NH~CCS2:250|DE*TSL*EH810UU~CCS2:250|DE*TSL*EH814NJ~CCS2:250
+1160429	Citywatt GmbH	GELITA AG #01	Uferstr. 7	69412	Eberbach	49.460377	8.961362	1		Nur für Kunden/Besucher	DE*CIW*E001618~TYPE2_TETHERED:22|DE*CIW*E001617~TYPE2_TETHERED:22|DE*CIW*E001620~TYPE2_TETHERED:22|DE*CIW*E001619~TYPE2_TETHERED:22
+1160431	Citywatt GmbH	GELITA AG #03	Uferstr. 7	69412	Eberbach	49.460370	8.961341	1		Nur für Kunden/Besucher	DE*CIW*E001622~TYPE2_TETHERED:22|DE*CIW*E001621~TYPE2_TETHERED:22|DE*CIW*E001624~TYPE2_TETHERED:22|DE*CIW*E001623~TYPE2_TETHERED:22
+1161878	Lidl	6074_Lidl_Brühl_QP-20011-0525-060-121-QP-Ver.321	Schwetzinger Str. 23	68782	Brühl	49.397200	8.533600	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1161881	Lidl	1986_Lidl_Schwetzingen_QP-20070-0525-060-121-QP-Ver.321	Hockenheimer Landstr. 4/7	68723	Schwetzingen	49.377981	8.559685	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1162383	Allego		Jahnstr. 28	68723	Plankstadt	49.399514	8.576958	1	24/7	Keine Beschränkung	DEALLEGO003912_1~CCS2:400|DEALLEGO003912_2~CCS2:400
+1162717	EnBW mobility+ AG und Co.KG	EG Group Schwetzingen	Mannheimer Straße 131	68723	Schwetzingen	49.391950	8.564649	1	24/7	Keine Beschränkung	DE*EBW*E909018*1~CCS2:300|DE*EBW*E909018*2~CCS2:300
+1164320	EnBW mobility+ AG und Co.KG	EDEKA Mühlhausen, In den Rotwiesen 1	In den Rotwiesen 1	69242	Mühlhausen	49.249420	8.709508	1	24/7	Keine Beschränkung	DE*EBW*E914133*1~CCS2:100|DE*EBW*E914133*2~CCS2:100|DE*EBW*E914134*1~CCS2:100|DE*EBW*E914134*2~CCS2:100
+1164419	MVV Energie AG	MaLIS_Bruehl_GrueneMitte	Am Schrankenbuckel 16	68782	Brühl	49.406117	8.532049	1	24/7	Keine Beschränkung	DE*MVV*E00709*L1~CCS2:49.9|DE*MVV*E00709*R1~CCS2:49.9

@@ -1,0 +1,83 @@
+1004162	SachsenEnergie AG		Bautzener Str. 2	02742	Neusalza-Spremberg	51.037525	14.530535	1		Keine Beschränkung	DE*SAE*E7213*01~TYPE2:22|DE*SAE*E7213*02~TYPE2:22
+1004181	SachsenEnergie AG		Gottlieb-Daimler-Str. 12	02828	Görlitz	51.183616	14.962611	1		Keine Beschränkung	DE*SAE*E7017*01~CCS2:150|DE*SAE*E7017*02~CCS2:150|DE*SAE*E7017*03~TYPE2:22
+1004188	SachsenEnergie AG		Am Pließnitztal 1	02748	Bernstadt a. d. Eigen	51.047887	14.824186	1		Keine Beschränkung	DE*SAE*E7256*01~TYPE2:22|DE*SAE*E7256*02~TYPE2:22
+1004192	SachsenEnergie AG		Adam-Ries-Str. 4	02730	Ebersbach-Neugersdorf	51.000994	14.616807	1		Keine Beschränkung	DE*SAE*E7010*01~CCS2:150|DE*SAE*E7010*02~CCS2:150|DE*SAE*E7010*03~TYPE2:22
+1004196	SachsenEnergie AG		August-Bebel-Platz 8	02627	Weißenberg	51.197032	14.659137	1		Keine Beschränkung	DE*SAE*E7263*01~TYPE2:22|DE*SAE*E7263*02~TYPE2:22
+1004204	SachsenEnergie AG		An der blauen Lagune 4Z	02899	Schönau-Berzdorf	51.069233	14.927348	1		Keine Beschränkung	DE*SAE*E7232*01~TYPE2:22|DE*SAE*E7232*02~TYPE2:22
+1004206	SachsenEnergie AG		Schlossplatz 1Z	02929	Rothenburg /O.L.	51.335603	14.970553	1		Keine Beschränkung	DE*SAE*E7021*01~CCS2:50+CHADEMO:50|DE*SAE*E7021*02~TYPE2:22
+1004305	SachsenEnergie AG		Neumarkt 5	02708	Löbau	51.095580	14.664043	1		Keine Beschränkung	DE*SAE*E7260*01~TYPE2:22|DE*SAE*E7260*02~TYPE2:22
+1004326	SachsenEnergie AG		Am Hafen 1N	02943	Boxberg /O.L.	51.360447	14.562776	1		Keine Beschränkung	DE*SAE*E7318*01~TYPE2:22|DE*SAE*E7318*02~TYPE2:22
+1004341	SachsenEnergie AG		Markt 21Z	02899	Ostritz	51.015165	14.932899	1		Keine Beschränkung	DE*SAE*E7033*01~CCS2:50+CHADEMO:50|DE*SAE*E7033*02~TYPE2:22
+1004401	SachsenEnergie AG		Weberstr. 22	02730	Ebersbach-Neugersdorf	51.009654	14.582891	1		Keine Beschränkung	DE*SAE*E7381*01~TYPE2:22|DE*SAE*E7381*02~TYPE2:22
+1004435	SachsenEnergie AG		Hauptstr. 73B	02730	Ebersbach-Neugersdorf	51.010032	14.594216	1		Keine Beschränkung	DE*SAE*E6641*01~TYPE2:11
+1004438	SachsenEnergie AG		Georgewitzer Str. 54	02708	Löbau	51.108874	14.687626	1		Keine Beschränkung	DE*SAE*E7216*01~TYPE2:22|DE*SAE*E7216*02~TYPE2:22
+1004439	SachsenEnergie AG		Turnerweg 4Z	02956	Rietschen	51.403714	14.788424	1		Keine Beschränkung	DE*SAE*E7209*01~TYPE2:22|DE*SAE*E7209*02~TYPE2:22
+1011387	Comfort Charge		Äußere Zittauer Str. 56	02708	Löbau	51.085292	14.671732	1		Keine Beschränkung	~CCS2:150|~TYPE2:22|~TYPE2_TETHERED:22|~CCS2:150
+1026506	EnBW mobility+ AG und Co.KG		Sachsendamm 32	02943	Weißwasser/O.L.	51.498207	14.623208	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027083	EnBW mobility+ AG und Co.KG		Christoph-Lüders-Straße 21	02826	Görlitz	51.155083	14.968374	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027366	EnBW mobility+ AG und Co.KG		Kollmer Straße 8	02906	Niesky	51.286710	14.819460	1			~CCS2:150|~CCS2:150
+1031843	Circle K Deutschland		Bahnhofstr. 68-72	02826	Görlitz	51.145881	14.983866	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1031845	Circle K Deutschland		Weißenberger Str. 10	02708	Löbau	51.103028	14.670282	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1040532	Netto Marken-Discount Stiftung & Co. KG		Lutherstraße 70	02943	Weißwasser	51.494630	14.638600	1			~CCS2:50|~TYPE2:22
+1041453	GP JOULE Connect GmbH	DE*CNT*EP00619*001	Rothenburger Landstr. 156	02828	Görlitz	51.202850	14.999473	1		Keine Beschränkung	DE*CNT*EP00619*001*1~CCS2:50|DE*CNT*EP00619*001*2~CCS2:50
+1043005	Allego		Nieskyer Straße 100	02828	Görlitz	51.170170	14.969694	1			DEALLEGO000230*1~CCS2:50+CHADEMO:50|DEALLEGO000230*2~TYPE2_TETHERED:43
+1047426	SachsenEnergie AG		Zinzendorfplatz 2	02906	Niesky	51.293392	14.822248	1		Keine Beschränkung	DE*SAE*E7020*01~CCS2:150|DE*SAE*E7020*02~CCS2:150|DE*SAE*E7020*03~TYPE2:22
+1047430	SachsenEnergie AG		Zur Strandpromenade 1N	02943	Boxberg /O.L.	51.396354	14.573413	1		Keine Beschränkung	DE*SAE*E7309*01~TYPE2:22|DE*SAE*E7309*02~TYPE2:22
+1048322	SachsenEnergie AG	Parkplatz Schwimmhalle Rothenburg	Friedensstr. 136	02929	Rothenburg /O.L.	51.356102	14.964591	1	24/7	Keine Beschränkung	DE*SAE*E7424*01~TYPE2:22|DE*SAE*E7424*02~TYPE2:22
+1048362	E-Merge Mobility GmbH	Niesky, OBI-Markt	Jänkendorfer Str. 4	02906	Niesky	51.286970	14.818560	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1048506	Lidl		Bautzener Str. 31	02943	Weißwasser	51.499280	14.634740	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22
+1048845	Lidl	5606_Lidl_Görtliz_T65-IT1-4622-170	Reichenbacher Str. 53b	02827	Görlitz	51.147836	14.950615	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1050625	Pfalzwerke AG		Robert-Bosch-Straße 5-7	02828	Görlitz	51.190860	14.958050	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1054621	Aral Pulse		SIEDLERWEG 1	02923	Kodersdorf	51.225818	14.902274	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1059000	Stadtwerke Görlitz AG		Bahnhofstraße 0	02828	Görlitz	51.147531	14.979375	1			~CCS2:150+CHADEMO:150|~TYPE2:22
+1059001	Stadtwerke Görlitz AG		Büttnerstraße 0	02826	Görlitz	51.157892	14.989717	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1059002	Stadtwerke Görlitz AG		Demianiplatz 56	02826	Görlitz	51.154917	14.984460	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1059003	Stadtwerke Görlitz AG		Wilhelmsplatz 0	02826	Görlitz	51.150015	14.985427	1			~TYPE2:22|~TYPE2:22
+1059004	Stadtwerke Görlitz AG		Pomologische Gartenstraße 0	02826	Görlitz	51.141328	14.976558	1			~TYPE2:22|~TYPE2:22
+1059005	Stadtwerke Görlitz AG		An der Landskronbrauerei 0	02826	Görlitz	51.140395	14.988630	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1059006	Stadtwerke Görlitz AG		Girbigsdorfer Straße 0	02826	Görlitz	51.162859	14.969379	1			~TYPE2:22|~TYPE2:22
+1059007	Stadtwerke Görlitz AG		Elisabethstraße 0	02826	Görlitz	51.153953	14.989614	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1059008	Stadtwerke Görlitz AG		Stauffenbergstraße 0	02827	Görlitz	51.122242	14.979635	1			~TYPE2:22|~TYPE2:22
+1059009	Stadtwerke Görlitz AG		Reichenbacher Straße 0	02827	Görlitz	51.147319	14.950268	1			~TYPE2:22|~TYPE2:22
+1059010	Stadtwerke Görlitz AG		Furtstraße 0	02826	Görlitz	51.149293	14.997433	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1059011	Stadtwerke Görlitz AG		Grenzweg 0	02827	Görlitz	51.142458	14.946921	1	24/7	Keine Beschränkung	DE*GRL*E7409*01~TYPE2:22|DE*GRL*E7401*01~TYPE2:22
+1059013	Stadtwerke Görlitz AG	Wilhelmsplatz II	Wilhelmsplatz 1	02826	Görlitz	51.149923	14.985539	1	24/7	Keine Beschränkung	DE*GRL*E10021*01~TYPE2:22|DE*GRL*E10021*02~TYPE2:22
+1059014	Stadtwerke Görlitz AG		Demianiplatz 56	02826	Görlitz	51.155060	14.984792	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1066725	EDEKA Schulze		Horkaer Str. 17	02906	Niesky	51.293241	14.828825	1			~TYPE2:22|~TYPE2:22
+1067169	Neukauf Verbrauchermarkt GmbH	EDEKA Löbau	Hartmannstr. 3	02708	Löbau	51.097268	14.663800	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1068739	Tino Rackel		Dorfstr. 15	02923	Horka	51.294311	14.933762	1		Keine Beschränkung	~TYPE2:11
+1069714	Tom Umbreit		Hauptstraße 73b	02730	Ebersbach-Neugersdorf	51.010120	14.594270	1			~TYPE2:11
+1069805	TG Autohandels GmbH		Gottlieb-Daimler-Str. 12	02828	Görlitz	51.184031	14.962032	1			~TYPE2:22|~TYPE2:22
+1080488	Mertsch-Web		Obere Paulsdorfer Str. 44	02708	Löbau	51.103407	14.710002	1			~TYPE2:22|~TYPE2_TETHERED:22
+1083944	Autohaus Löbau GmbH		An der Hohle 15	02708	Löbau	51.075353	14.679813	1	Mo-Fr 07:00-17:45, Sa 08:00-11:45	Keine Beschränkung	E8D41~TYPE2:11|E5GJX~TYPE2:11|E983J~TYPE2:11|ES8JL~TYPE2:11
+1084430	SachsenEnergie AG	Kodersdorf Dienstleistungszentrum	Straße der Einheit 79	02923	Kodersdorf	51.244400	14.889880	1	24/7	Keine Beschränkung	DE*SAE*E7444*01~TYPE2:22|DE*SAE*E7444*02~TYPE2:22
+1085042	Carsten Poost		Niederer Viebig 143	02894	Sohland am Rotstein	51.118534	14.780527	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086121	Ingo Menzel		Maxim-Gorkie-Strasse 13	02827	Görlitz	51.150598	14.949544	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1086921	Matthias Knebel		Dorfstraße 41	02923	Hähnichen	51.344767	14.838558	1			~TYPE2_TETHERED:22
+1087885	Steffen Wittig		Friesenstraße 20	02827	Görlitz	51.139542	14.949800	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087888	Steffen Wittig		Auenweg 1	02827	Görlitz	51.139794	14.949504	1			~TYPE2_TETHERED:11
+1088067	Thomas Katzer		Bergstraße 1	02906	Hohendubrau	51.254792	14.661726	1			~TYPE2_TETHERED:22
+1091815	Kaufland	3810_KLAND_Görlitz-Weinhübel_T65-IT1-2824-002	Zittauer Str. 120	02827	Görlitz	51.126891	14.982822	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1093483	Pension Fadernaast		Max-Klühs-Straße 6	02708	Kottmar OT Obercunnersdorf	51.027800	14.675800	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096363	ABB Autohaus Görlitz GmbH		Nieskyer Straße 0	02828	Görlitz	51.173581	14.967458	1			~CCS2:22|~TYPE2:11
+1096615	Autohaus Elitzsch GmbH		Gewerbering 9	02828	Görlitz	51.177353	14.965047	1			~CCS2:22|~TYPE2:11
+1097111	Autohaus Voigt Hochkirch GmbH & Co KG		Karl-Marx-Straße 1	02627	Hochkirch	51.149755	14.565499	1			~CCS2:22|~TYPE2:11
+1103457	Stadtwerke Görlitz AG		Diesterwegstr. 0	02826	Görlitz	51.143176	14.943364	1	24/7	Keine Beschränkung	DE*GRL*E10020*01~TYPE2:22|DE*GRL*E10020*02~TYPE2:22
+1103960	eliso	eliso - Sächs. KH - Großschweidnitz	Ernst-Thälmann-Str. 34 Z	02708	Großschweidnitz	51.073876	14.646930	1	24/7	Keine Beschränkung	DE*ELI*E3538207~TYPE2:22|DE*ELI*E3538208~TYPE2:22|DE*ELI*E3538209~TYPE2:22|DE*ELI*E3538210~TYPE2:22
+1104494	H&L Energie GbR	SeeDorf Haus 1	Am See 33	02827	Görlitz	51.074750	14.959600	1		Nur für Kunden/Besucher	EKD32~TYPE2:22|EB8FL~TYPE2:22|EW3KK~TYPE2:22
+1109703	Autohaus Ruffert GmbH		Weststr. 2	02708	Löbau	51.107259	14.655267	1			~TYPE2:11|~TYPE2:11
+1114172	Uwe Günzel		Arnsdorf 212	02894	Vierkirchen	51.201850	14.775530	1			~TYPE2:11
+1115908	Hotel Tuchmacher GmbH & Co. KG		Nikolaigraben 1	02826	Görlitz	51.158454	14.988997	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1118183	MER Germany	Weißwasser (DE*MER*E014394)	Sorauer Platz 1	02943	Weißwasser /O.L.	51.498773	14.634190	1	24/7	Keine Beschränkung	DE*MER*E014394*01~CCS2:400|DE*MER*E014394*02~CCS2:400|DE*MER*E014424*01~CCS2:400|DE*MER*E014424*02~CCS2:400
+1125542	Kaufland	2740_KLand_Löbau_T65-IT1-0925-010	Rumburger Str. 9	02708	Löbau	51.083060	14.661150	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:22|~CCS2:50
+1126205	cocharge	DECOC183	Lindenweg 3	02829	Markersdorf	51.122345	14.850134	1	24/7	Keine Beschränkung	DE*COC*E183*01~TYPE2:11
+1129078	Stadtwerke Görlitz AG	Elisabethstraße 38	Elisabethstr. 38	02826	Görlitz	51.153845	14.989150	1	24/7	Keine Beschränkung	DE*GRL*E10086*01~TYPE2:22|DE*GRL*E10086*02~TYPE2:22
+1129079	Stadtwerke Görlitz AG	Elisabethstraße 38 - barrierefrei	Elisabethstr. 38	02826	Görlitz	51.153828	14.989011	1	24/7	Keine Beschränkung	DE*GRL*E10087*01~TYPE2:22|DE*GRL*E10087*02~TYPE2:22
+1134077	Stadtwerke Görlitz AG		Schlesische Str. 1	02828	Görlitz	51.170340	14.983733	1	24/7	Keine Beschränkung	DE*GRL*E10019*01~TYPE2:22|DE*GRL*E10019*02~TYPE2:22
+1139835	SachsenEnergie AG		Reichwalder Weg 29	02943	Boxberg /O.L.	51.431201	14.602775	1		Keine Beschränkung	DE*SAE*E10064*01~TYPE2:22|DE*SAE*E10064*02~TYPE2:22
+1144677	SachsenEnergie AG		Marktplatz 12	02929	Rothenburg /O.L.	51.334827	14.970133	1		Keine Beschränkung	DE*SAE*E10181*01~TYPE2:22|DE*SAE*E10181*02~TYPE2:22
+1152404	SachsenEnergie AG	Waldbad Herrnhut	Uttendörferweg 1Z	02747	Herrnhut	51.013100	14.747660	1	24/7	Keine Beschränkung	DE*SAE*E7314*01~TYPE2:22|DE*SAE*E7314*02~TYPE2:22
+1154936	Thomas Kasselmann - Einzelunternehmer	Birkenweg 7, 02708 Löbau	Birkenweg 7	02708	Löbau	51.086349	14.664334	1	24/7	Nur für Kunden/Besucher	DE*ONE*E2JR7 - Ladepunkt Stecker 1 DE*ONE*ESA32- Ladepunkt Stecker 2~TYPE2_TETHERED:44
+1155152	Thomas Kasselmann - Einzelunternehmer	Ladesäule 2,Friedhofstr. 16, Löbau	Friedhofstr. 16	02708	Löbau	51.093716	14.663505	1	24/7	Nur für Kunden/Besucher	DE*ONE*EIF19 - Ladepunkt Stecker 1 DE*ONE*E566G- Ladepunkt Stecker 2~TYPE2_TETHERED:44+TYPE2:44
+1156156	Wirelane GmbH	Fritz-Ebert-Straße 14, 02708 Löbau	Fritz-Ebert-Straße 19	02708	Löbau	51.105663	14.678036	1		Keine Beschränkung	DE*WLN*EP000017~TYPE2:11|DE*WLN*EP000018~TYPE2:11
+1164228	SachsenEnergie AG	Schulcampus Rothenburg	Uhsmannsdorfer Str. 0	02929	Rothenburg	51.335031	14.963783	1	24/7	Keine Beschränkung	DE*SAE*E10220*01~TYPE2:22|DE*SAE*E10220*02~TYPE2:22

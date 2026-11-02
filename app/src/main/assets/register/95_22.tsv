@@ -1,0 +1,324 @@
+1005405	Energieversorgung Landsberg GmbH & Co. KG		Weilheimer Straße 3	82343	Pöcking	47.965825	11.299456	1			~TYPE2:22|~TYPE2:22
+1005406	Energieversorgung Landsberg GmbH & Co. KG		Weilheimer Str. 33	82343	Pöcking	47.962543	11.291013	1			~TYPE2:22|~TYPE2:22
+1005412	Energieversorgung Landsberg GmbH & Co. KG		Am Fichtenhain 0	82335	Berg	47.972749	11.352488	1			~TYPE2:22|~TYPE2:22
+1005413	Energieversorgung Landsberg GmbH & Co. KG		Jägerberg 19	82335	Berg-Farchach	47.961639	11.378204	1			~TYPE2:22|~TYPE2:22
+1005414	Energieversorgung Landsberg GmbH & Co. KG		Bussardweg 1	82335	Berg	47.938800	11.374600	1			~TYPE2:22|~TYPE2:22
+1005415	Energieversorgung Landsberg GmbH & Co. KG		Wolfratshauser Str. 1	82335	Berg	47.930163	11.394828	1			~TYPE2:22|~TYPE2:22
+1005416	Energieversorgung Landsberg GmbH & Co. KG		Schulplatz 1	82335	Berg	47.957937	11.363353	1			~CCS2:50|~TYPE2:22
+1021633	EWE Go GmbH	McD_0359	Pfaffenrieder Str. 28	82515	Wolfratshausen	47.900502	11.426586	1	24/7	Keine Beschränkung	DE*2GO*EMCD0359*1A*1~CCS2:150|DE*2GO*EMCD0359*1A*2~CCS2:150
+1021643	EWE Go GmbH	McD_0982_1A	Seeshaupter Str. 56	82377	Penzberg	47.765786	11.359174	1	24/7	Keine Beschränkung	DE*2GO*EMCD0982*1A*1~CCS2:150|DE*2GO*EMCD0982*1A*2~CCS2:150
+1021905	EWE Go GmbH		Strassäcker 22	82418	Murnau am Staffelsee	47.691432	11.202514	1			~CCS2:150|~CCS2:150
+1022261	EWE Go GmbH		Hauptstraße 6	82467	Garmisch-Partenkirchen	47.502419	11.101594	1			~CCS2:150|~CCS2:150
+1025245	EnBW mobility+ AG und Co.KG		Elbstraße 21	82538	Geretsried	47.881110	11.460830	1			~TYPE2:22|~TYPE2:22
+1026509	EnBW mobility+ AG und Co.KG		Werdenfelser Straße 28	82496	Oberau	47.554914	11.136690	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027231	EnBW mobility+ AG und Co.KG		Hans-Urmiller-Ring 4A	82515	Wolfratshausen	47.908030	11.427390	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1028010	EnBW mobility+ AG und Co.KG		Hans-Urmiller-Ring 4A	82515	Wolfratshausen	47.907525	11.427754	1			~CCS2:150|~CCS2:150
+1029250	Energie Südbayern GmbH	ESB_0029_03 / Alte Ettaler Straße - Oberau	Alte Ettaler Str. 25	82496	Oberau	47.558540	11.122400	1	24/7	Keine Beschränkung	DEESBE002905~TYPE2:22|DEESBE002906~TYPE2:22|DEESBE002903~CCS2:50|DEESBE002904~CCS2:50|DEESBE002905~TYPE2:22|DEESBE002906~TYPE2:22
+1029251	Energie Südbayern GmbH	ESB_0028 / Koenig-Ludwig-Straße - Oberammergau	König-Ludwig-Str. 12	82487	Oberammergau	47.594180	11.063901	1	24/7	Keine Beschränkung	DEESBE002801~TYPE2:22|DEESBE002802~TYPE2:22
+1029252	Energie Südbayern GmbH	ESB_0032 / Wielenbacher Str. - Pähl	Wielenbacher Str. 12	82396	Pähl	47.899318	11.169493	1	24/7	Keine Beschränkung	DEESBE003201~TYPE2:22|DEESBE003202~TYPE2:22
+1029270	Energie Südbayern GmbH	ESB_0069 / Hauptstraße - Uffing am Staffelsee	Hauptstr. 16	82449	Uffing a. Staffelsee	47.715916	11.151117	1	24/7	Keine Beschränkung	DEESBE006901~TYPE2:22|DEESBE006902~TYPE2:22
+1029271	Energie Südbayern GmbH	ESB_0070 / Dorfstraße - Oberammergau	Dorfstr. 19	82487	Oberammergau	47.598917	11.064993	1	24/7	Keine Beschränkung	DEESBE007001~TYPE2:22|DEESBE007002~TYPE2:22
+1029275	Energie Südbayern GmbH	ESB_0077 / Mühlstraße - Andechs	Mühlstr. 2	82346	Andechs	47.969199	11.185407	1	24/7	Keine Beschränkung	DEESBE007701~TYPE2:22|DEESBE007702~TYPE2:22
+1029290	Energie Südbayern GmbH	ESB_0092 / Untermüllerplatz - Dießen am Ammersee	Reitstege 3	86911	Dießen am Ammersee	47.948606	11.107199	1	24/7	Keine Beschränkung	DEESBE009201~CCS2:150|DEESBE009202~CCS2:150
+1029293	Energie Südbayern GmbH	ESB_0095 / Bahnhofstr. - Wielenbach	Bahnhofstr. 1	82407	Wielenbach	47.875690	11.220222	1	24/7	Keine Beschränkung	DEESBE009501~TYPE2:22|DEESBE009502~TYPE2:22
+1029294	Energie Südbayern GmbH	ESB_0081_01 / Windermere-Straße - Dießen am Ammersee	Windermerestr. 2	86911	Dießen am Ammersee	47.951402	11.106405	1	24/7	Keine Beschränkung	DEESBE008101~TYPE2:22|DEESBE008102~TYPE2:22|DEESBE008103~TYPE2:22|DEESBE008104~TYPE2:22
+1029297	Energie Südbayern GmbH	ESB_0091_01 / Fischerschlößlstraße - Schäftlarn	Fischerschlößlstraße 14	82069	Schäftlarn	47.982450	11.456610	1		Keine Beschränkung	DEESBE009101~TYPE2:22|DEESBE009102~TYPE2:22
+1029407	Energie Südbayern GmbH	ESB_0180 / Münchner Straße - Schäftlarn	Nr. 37	82069	Schäftlarn	47.989845	11.457022	1	24/7	Keine Beschränkung	DEESBE01801~TYPE2:22|DEESBE01802~TYPE2:22
+1031414	CUBOS Service GmbH		Schlehdorfer Straße 6	82431	Kochel	47.659570	11.367598	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031441	CUBOS Service GmbH		Frickenstraße 22	82490	Farchant	47.532270	11.120680	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1034896	17er Oberlandenergie		Wenzberg 0	82057	Icking	47.951914	11.435891	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034901	17er Oberlandenergie		Dorf 7 1/3	83676	Jachenau	47.605654	11.433851	1			~TYPE2:22|~TYPE2:22
+1034902	17er Oberlandenergie		Am Kirchberg 15	82541	Münsing	47.903830	11.368395	1			~TYPE2:22|~TYPE2:22
+1034903	17er Oberlandenergie		Jägergasse 0	82393	Iffeldorf	47.771871	11.315427	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034904	17er Oberlandenergie		Hofmark 9	82393	Iffeldorf	47.771052	11.319885	1			~TYPE2:22|~TYPE2:22
+1034905	17er Oberlandenergie		Schwimmbadstr. 32	83671	Benediktbeuern	47.697601	11.416291	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034906	17er Oberlandenergie		Bahnhofstr. 17	83673	Bichl	47.723258	11.408762	1			~TYPE2:22|~TYPE2:22
+1034907	17er Oberlandenergie		Kocheler Str. 16	83673	Bichl	47.718323	11.413045	1			~TYPE2:22|~TYPE2:22
+1034910	17er Oberlandenergie		Rathausweg 0	82393	Iffeldorf	47.775289	11.323564	1			~TYPE2:22|~TYPE2:22
+1034911	17er Oberlandenergie		Dall-Armi Str. 0	82402	Seeshaupt	47.823406	11.301523	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034912	17er Oberlandenergie		Badstraße 3	83670	Bad Heilbrunn	47.747127	11.453748	1			~TYPE2:22|~TYPE2:22
+1034913	17er Oberlandenergie		Hartlweg 14	82541	Münsing	47.899750	11.363926	1			~TYPE2:22|~TYPE2:22
+1034914	17er Oberlandenergie		Schlesierstraße 1	82515	Wolfratshausen	47.901540	11.440750	1			~TYPE2:22|~TYPE2:22
+1034915	17er Oberlandenergie		Am Neuen Platz 1	82538	Geretsried	47.858110	11.478279	1			~TYPE2:22|~TYPE2:22
+1034916	17er Oberlandenergie		Klosterstraße 3	82547	Eurasburg	47.828610	11.411270	1			~TYPE2:22|~TYPE2:22
+1034917	17er Oberlandenergie		Beuerberger Str. 10	82547	Eurasburg	47.855080	11.406150	1			~TYPE2:22|~TYPE2:22
+1034918	17er Oberlandenergie		Hauptstr. 54	82549	Königsdorf	47.814320	11.479360	1			~TYPE2:22|~TYPE2:22
+1034921	17er Oberlandenergie		Am Eichenhain 1	82449	Uffing	47.721650	11.158540	1			~TYPE2:22|~TYPE2:22
+1034922	17er Oberlandenergie		Am Sportplatz 2	82449	Uffing	47.713110	11.074440	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034923	17er Oberlandenergie		Seestraße 53	82449	Uffing	47.703700	11.158280	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034925	17er Oberlandenergie		Am Bahnhof 0	82449	Uffing	47.721660	11.158490	1			~TYPE2:22|~TYPE2:22
+1034927	17er Oberlandenergie		Am Poignring 17	82515	Wolfratshausen	47.906705	11.418833	1			~TYPE2:22
+1034928	17er Oberlandenergie		Isarring 0	82515	Wolfratshausen	47.903476	11.442586	1			~TYPE2:22
+1034929	17er Oberlandenergie		Am Waldrand 20	82515	Wolfratshausen	47.910348	11.433336	1			~TYPE2:22
+1034930	17er Oberlandenergie		Margeritenstr. 1	82515	Wolfratshausen	47.907488	11.432179	1			~TYPE2:22
+1034931	17er Oberlandenergie		Barbezieuxstraße 0	82515	Wolfratshausen	47.911415	11.418617	1			~TYPE2:22|~TYPE2:22
+1034935	17er Oberlandenergie		Reindlschmiede 8	83670	Bad Heilbrunn	47.755315	11.436603	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034937	17er Oberlandenergie		Kirchplatz 11	82398	Polling	47.811349	11.130125	1			~TYPE2:22|~TYPE2:22
+1034938	17er Oberlandenergie		Schulstr. 0	82386	Oberhausen	47.777351	11.130387	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034941	17er Oberlandenergie		Zum Lindenrain 8	82549	Königsdorf	47.837793	11.468946	1			~TYPE2:22|~TYPE2:22
+1034942	17er Oberlandenergie		Bahnhofstr. 21	82431	Kochel	47.660250	11.370041	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|DE17RE006101~TYPE2:22|DE17RE006102~TYPE2:22|DE17RE006103~TYPE2:22|DE17RE006104~TYPE2:22
+1034943	17er Oberlandenergie		Sudetenstr. 33	82538	Geretsried	47.857147	11.486725	1			~TYPE2:22|~TYPE2:22
+1034945	17er Oberlandenergie		Dorfstr. 26	82347	Bernried am Starnberger See	47.866265	11.291005	1			~TYPE2:22|~TYPE2:22
+1034946	17er Oberlandenergie		Am Hirschgarten 14	82347	Bernried am Starnberger See	47.871644	11.288082	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034947	17er Oberlandenergie		Am Hirschgarten 1	82347	Bernried am Starnberger See	47.873151	11.283297	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034949	17er Oberlandenergie		Klosterhof 2	82347	Bernried am Starnberger See	47.866742	11.294857	1			~TYPE2:22|~TYPE2:22
+1034950	17er Oberlandenergie		Am Grundweiher 2	82347	Bernried am Starnberger See	47.864149	11.290948	1			~TYPE2:22|~TYPE2:22
+1034951	17er Oberlandenergie		Wörnerweg 30	83670	Bad Heilbrunn	47.748805	11.459775	1			~TYPE2:22|~TYPE2:22
+1034952	17er Oberlandenergie		Wörnerweg 15	83670	Bad Heilbrunn	47.748401	11.458609	1			~TYPE2:22|~TYPE2:22
+1035814	ALDI SÜD		Sudetenstraße 68	82538	Geretsried	47.853253	11.493370	1			~TYPE2:22|~TYPE2:22
+1036205	Wickenhäuser		Hans-Urmiller-Ring 42	82515	Wolfratshausen	47.900899	11.430167	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036639	NSA1 GmbH & Co. KG		Partenkircher Straße 20	82441	Ohlstadt	47.633000	11.223708	1			~CCS2:300|~CCS2:300
+1036646	NSA1 GmbH & Co. KG		Burggraben 49	82418	Murnau	47.674930	11.199824	1			~CCS2:300|~CCS2:300
+1037590	Citywatt GmbH		Bräuhausstraße 1	82327	Tutzing	47.907946	11.275116	1			~TYPE2_TETHERED:22
+1037591	Citywatt GmbH		Bräuhausstraße 1	82327	Tutzing	47.907961	11.275164	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1038433	VSP 28 GmbH & Co. KG		Schöffauer Str. 0	82449	Uffing a. Staffelsee	47.711316	11.093772	1		Keine Beschränkung	DK*MON*E2972310~CCS2:160|DK*MON*E2972250~TYPE2_TETHERED:22
+1038739	17er Oberlandenergie	Rathaus Huglfing	Hauptstr. 32	82386	Huglfing	47.766732	11.157775	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1038790	Citywatt GmbH		Bräuhausstr. 1	82327	Tutzing	47.907827	11.274958	1	Di-Sa 18:00-23:00	Keine Beschränkung	DE*CIW*E001319~TYPE2_TETHERED:11|DE*CIW*E001320~TYPE2_TETHERED:11|DE*CIW*E001321~TYPE2_TETHERED:11
+1042511	Energielösung GmbH		Schloßstraße 1	82327	Tutzing	47.909672	11.281591	1			~TYPE2:22|~TYPE2:22
+1042512	Energielösung GmbH		Schloßstraße 1	82327	Tutzing	47.909665	11.281752	1			~TYPE2:22|~TYPE2:22
+1042513	Energielösung GmbH		Kirchenstraße 5	82327	Tutzing	47.909740	11.276557	1			~TYPE2:22|~TYPE2:22
+1042568	Energielösung GmbH		Mühlfeld 2	82211	Herrsching a. Ammersee	47.989392	11.170072	1			~TYPE2:22|~TYPE2:22
+1042604	Energielösung GmbH		Oskar-von-Miller-Straße 9	82377	Penzberg	47.750106	11.384362	1			~TYPE2:22|~TYPE2:22
+1042744	Energielösung GmbH		Mühlfelder Straße 72	82211	Herrsching am Ammersee	47.990359	11.171009	1			~TYPE2:22|~TYPE2:22
+1042747	Energielösung GmbH		Kocheler Str. 11	83673	Bichl	47.718359	11.413267	1			~CCS2:50|~CCS2:50
+1042750	Energielösung GmbH		Dorfstraße 5	82407	Wielenbach	47.859565	11.230718	1			~TYPE2:22|~TYPE2:22
+1042778	Energielösung GmbH		Herrschinger Straße 11	82346	Andechs	47.966310	11.182850	1			~TYPE2:22|~TYPE2:22
+1043308	Allego		Seeshaupter Straße 10	82393	Iffeldorf	47.786220	11.328390	1			DEALLEGO002697*1~CCS2:300|DEALLEGO002697*2~CCS2:300|DEALLEGO002698*1~CCS2:300|DEALLEGO002698*2~CCS2:300
+1043364	Allego		Seehaupter Straße 10	82393	Iffeldorf	47.786190	11.328280	1			DEALLEGO001627*1~TYPE2:22|DEALLEGO001627*2~TYPE2:22
+1048908	Lidl	6681_Lidl_Peißenberg	Hochreuther Str. 4	82380	Peißenberg	47.784872	11.049334	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048948	Lidl	6806_Lidl_Penzberg_T65-IT1-0623-216	Grube 16	82377	Penzberg	47.755780	11.381860	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049700	E.ON Drive Infrastructure		Raststätte Höhenrain Ost 0	82335	Berg	47.926902	11.402966	1			~CCS2:50|~CCS2:50
+1049701	E.ON Drive Infrastructure		Raststätte Höhenrain West 0	82335	Berg	47.927117	11.401748	1			~CCS2:50|~CCS2:50
+1050915	EnBW mobility+ AG und Co.KG		Bergkramerhof 1	82515	Wolfratshausen	47.905792	11.401537	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1051693	MER Germany		Gewerbeallee 3	82343	Pöcking	47.982497	11.315661	1			~TYPE2:22|~TYPE2:22
+1051877	MER Germany		Perchastraße 3a	82335	Berg	47.967408	11.356046	1			~TYPE2:22
+1051884	KCS		Raiffeisenweg ggü 3	82444	Schlehdorf	47.657684	11.314847	1	24/7	Keine Beschränkung	DE*CPI*E6945435*1~TYPE2_TETHERED:22|DE*CPI*E6945435*2~TYPE2_TETHERED:22|DECPIE6967535~CCS2:50+CCS2:50
+1052004	KCS		Murnauer Str. 2	82449	Uffing a. Staffelsee	47.713910	11.151993	1	24/7	Keine Beschränkung	DE*CPI*E6900395*1~TYPE2_TETHERED:22|DE*CPI*E6900395*2~TYPE2_TETHERED:22
+1052006	KCS		Rettenberg 3	82393	Iffeldorf	47.770187	11.345671	1	24/7	Keine Beschränkung	DE*CPI*E6952085*1~TYPE2_TETHERED:22|DE*CPI*E6952085*2~TYPE2_TETHERED:22|DE*CPIE*7047735*1~CCS2:150|DE*CPIE*7047735*2~CCS2:150
+1052007	KCS	GC Beuerberg	Sterz 3	82547	Eurasburg	47.823105	11.424927	1	24/7	Keine Beschränkung	DE*CPI*E6848305*1~TYPE2_TETHERED:22|DE*CPI*E6848305*2~TYPE2_TETHERED:22|DE*CPI*E7266785*1~TYPE2_TETHERED:22|DE*CPI*E7266785*2~TYPE2_TETHERED:22
+1052008	KCS		Fohnseeweg 30	82393	Iffeldorf	47.779466	11.316893	1	24/7	Keine Beschränkung	DE*CPI*E6932655*1~TYPE2_TETHERED:22|DE*CPI*E6932655*2~TYPE2_TETHERED:22
+1052009	KCS		Fohnseeweg 30	82393	Iffeldorf	47.779488	11.316958	1	24/7	Keine Beschränkung	DE*CPI*E6932665*1~TYPE2_TETHERED:22|DE*CPI*E6932665*2~TYPE2_TETHERED:22
+1052161	KCS		Eurach 8	82393	Iffeldorf	47.787282	11.342235	1		Keine Beschränkung	DE*CPI*E6790755*1~TYPE2_TETHERED:22|DE*CPI*E6790755*2~TYPE2_TETHERED:22
+1052162	KCS		Bahnhofstr. 47	82377	Penzberg	47.755335	11.377373	1	24/7	Keine Beschränkung	DE*CPI*E6867325*1~TYPE2_TETHERED:22|DE*CPI*E6867325*2~TYPE2_TETHERED:22|DE*CPI*E6867335*1~TYPE2_TETHERED:22|DE*CPI*E6867335*2~TYPE2_TETHERED:22
+1052163	KCS		Eurach 8	82393	Iffeldorf	47.787307	11.342301	1	24/7	Keine Beschränkung	DE*CPI*E6790745*1~TYPE2_TETHERED:22|DE*CPI*E6790745*2~TYPE2_TETHERED:22
+1052166	KCS		Am Höhenstein 3	82387	Antdorf	47.751070	11.303633	1		Keine Beschränkung	DE*CPI*E6932795*1~TYPE2_TETHERED:22
+1055668	Präg Strom	ISP Penzberg	Nonnenwald 15	82377	Penzberg	47.770030	11.374760	1		Nur für Kunden/Besucher	DE*PSG*E00072*001~TYPE2:22|DE*PSG*E00072*002~TYPE2:22|DE*PSG*E00073*001~TYPE2:22|DE*PSG*E00073*002~TYPE2:22
+1057184	LAN1 Hotspots GmbH		Hindenburgstraße 12	82343	Pöcking	47.966188	11.303955	1			~TYPE2:22|~TYPE2:22
+1060700	Georg Jos. Kaes GmbH		Moosgasse 11	82487	Oberammergau	47.601639	11.057389	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1060735	Georg Jos. Kaes GmbH		Am Mühlbach 1	82442	Saulgrub	47.667306	11.025028	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1061073	Dipl. Ing. Wolfgang Kling Ingenieurgesellschaft mbH		Sigmundstr. 15	82377	Penzberg	47.752470	11.376295	1	24/7	Keine Beschränkung	DE*CPI*E6714155*1~TYPE2_TETHERED:22|DE*CPI*E6714155*2~TYPE2_TETHERED:22|DE*CPI*E6499665*1~TYPE2_TETHERED:22|DE*CPI*E6499665*2~TYPE2_TETHERED:22
+1061075	Hilde Kling		Am Höhenstein 8	82387	Antdorf	47.751266	11.304481	1	24/7	Keine Beschränkung	DE*CPI*6539875*1~TYPE2_TETHERED:22|DE*CPI*6539875*2~TYPE2_TETHERED:22
+1062695	Klosterbräu Schlehdorf GmbH	Parkplatz	Seestr. 2	82444	Schlehdorf	47.655339	11.315896	1	24/7	Keine Beschränkung	DECPIE6889795~CCS2:50|DECPIE6846135*1~TYPE2_TETHERED:22|DECPIE6846135*2~TYPE2_TETHERED:22|DECPIE6846105*1~TYPE2_TETHERED:22|DECPIE6846105*2~TYPE2_TETHERED:22
+1062823	Polarstern Energie		Blumenstraße 35	82407	Wielenbach	47.868932	11.163818	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1062824	Polarstern Energie		Ludwig-März-Straße 11	82377	Penzberg	47.749047	11.374870	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1062883	Klosterbräu Schlehdorf GmbH	Innenhof 1.1	Seestr. 2	82444	Schlehdorf	47.655939	11.315800	1	24/7	Keine Beschränkung	DECPIE6888315*1~TYPE2_TETHERED:22|DECPIE6888315*2~TYPE2_TETHERED:22|DECPIE6888305*1~TYPE2_TETHERED:22|DECPIE6888305*2~TYPE2_TETHERED:22|DECPIE6888335*1~TYPE2_TETHERED:22|DECPIE6888335*2~TYPE2_TETHERED:22
+1063213	LEW Natur GmbH		Blumenstraße 2	82383	Hohenpeißenberg	47.796400	11.004363	1			~TYPE2:22|~TYPE2:22
+1063407	Auto & Service PIA GmbH		Seeshaupterstr. 19	82377	Penzberg	47.759970	11.368800	1			~TYPE2:11
+1063417	EGO		Rathausplatz 0	82441	Ohlstadt	47.633498	11.234795	1			~TYPE2:22|~TYPE2:22
+1063969	smopi		Hauptstraße 12	82402	Seeshaupt	47.824642	11.302579	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064205	Kaufland	5380_Kland_Peißenberg_T65-IT1-3122-153	Schongauer Str. 20	82380	Peißenberg	47.793431	11.062625	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1064322	Kaufland	5163_Kland_Weilheim_T65-IT1-3122-083	Kaltenmoserstr. 28	82362	Weilheim i. OB	47.842410	11.149800	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1066360	BÄKA GmbH		Wielenbacherstraße 17	82936	Pähl	47.898880	11.168690	1			~TYPE2:22|~TYPE2:22
+1066361	BÄKA GmbH		Wielenbacherstraße 17	82936	Pähl	47.898950	11.165990	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1066776	Christian Brauneis		An der Klostermauer 11	82405	Wesobrunn	47.874803	11.028377	1			~TYPE2:11
+1068453	Schöfmann Steuerungselektronik GmbH		Breslauer Weg 31	82538	Geretsried	47.859953	11.486477	1			~TYPE2_TETHERED:11
+1068670	Florian Fischer		Ettenhoferstr. 3	82069	Hohenschäftlarn	47.992995	11.461422	1			~TYPE2:11
+1068671	Florian Fischer		Ettenhoferstraße 3	82069	Hohenschäftlarn	47.993082	11.461524	1			~TYPE2:22
+1069266	Stadtwerke Bad Tölz GmbH		Am Sternanger 0	83671	Benediktbeuern	47.707080	11.411180	1			~TYPE2:22|~TYPE2:22
+1069545	Stolzenberg Ingenieurbüro		Baaderweg 8	82405	Wessobrunn	47.870892	11.026754	1			~TYPE2:11
+1070384	Staatliches Bauamt Weilheim		Münchenerstraße 39	82362	Weilheim	47.845680	11.145035	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1070386	Staatliches Bauamt Weilheim		Pollingerstraße 8	82362	Weilheim	47.836265	11.139562	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1071392	Energielösung GmbH	Landhotel Hoisl-Bräu	Promberg 1	82377	Penzberg	47.791753	11.387392	1	24/7	Keine Beschränkung	DE*BEM*E0010854~TYPE2:22|DE*BEM*E0010855~TYPE2:22|DE*BEM*E0010845~TYPE2:22|DE*BEM*E0010847~TYPE2:22
+1071454	Bernhardhof		Andechser Str. 32	82346	Andechs	47.971712	11.184645	1			~TYPE2_TETHERED:11
+1071836	Gemeindewerke Garmisch-Partenkirchen, KUWod		Adlerstraße 25	82467	Garmisch-Partenkirchen	47.501933	11.098075	1			~TYPE2:22|~TYPE2:22
+1071842	Gemeindewerke Garmisch-Partenkirchen, KUWod		Wankbahnstraße 2	82467	Garmisch-Partenkirchen	47.503760	11.106250	1			~TYPE2:22|~TYPE2:22
+1071966	Bauer Unternehmensgruppe		Paradeisstraße 56	82362	Weilheim	47.851100	11.139820	1			~TYPE2:22
+1071981	Huber Haustechnik GmbH		Am Schlageis 9	82418	Murnau	47.673360	11.199210	1			~TYPE2:22+TYPE2_TETHERED:22
+1071982	Huber Haustechnik GmbH		Franzosengasse 7	82487	Oberammergau	47.597630	11.056660	1			~TYPE2:22
+1072592	VSP 32 GmbH & Co. KG		ST2070 0	82544	Egling	47.923853	11.488916	1		Keine Beschränkung	DK*MON*E3674572~CCS2:160|DK*MON*E3674571~TYPE2_TETHERED:22|DK*MON*E3674576~CCS2:160|DK*MON*E3674573~TYPE2_TETHERED:22|DK*MON*E3674577~CCS2:160|DK*MON*E3674577~TYPE2_TETHERED:22
+1074142	Gemeinde Bichl		Kocheler Straße 9	83673	Bichl	47.720121	11.412150	1			~TYPE2:22
+1074580	Stadtwerke Weilheim i.OB Energie GmbH		Murnauerstr. 0	82362	Weilheim	47.836922	11.141996	1			~TYPE2:22|~TYPE2:22
+1074581	Stadtwerke Weilheim i.OB Energie GmbH		Unterer Graben 0	82362	Weilheim	47.839512	11.139814	1			~TYPE2:22|~TYPE2:22
+1074582	Stadtwerke Weilheim i.OB Energie GmbH		Am Öferl 20	82362	Weilheim i. OB	47.846760	11.142940	1			~TYPE2:22|~TYPE2:22
+1074583	Stadtwerke Weilheim i.OB Energie GmbH		Lohgasse 0	82362	Weilheim i.OB	47.840400	11.137310	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1075374	mediantis AG		Gautinger Str. 39	82319	Starnberg	47.999610	11.339009	1			~TYPE2:11|~TYPE2:11
+1075463	Ladesäule Hotel Momm	Parkplatz Hotel Momm	Hauptstr. 14	85649	Brunnthal	47.594935	11.392660	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11
+1075511	EGO	Am Schwimmbad West	Am Schwimmbad 0	82441	Ohlstadt	47.631010	11.225140	1	24/7	Keine Beschränkung	DE*MDS*E009359~TYPE2:22|DE*MDS*E009363~TYPE2:22
+1075513	EGO	Am Schwimmbad Ost	Am Schwimmbad 0	82441	Ohlstadt	47.630960	11.225190	1	24/7	Keine Beschränkung	DE*MDS*E009328~TYPE2:22|DE*MDS*E009332~TYPE2:22
+1075892	Autohaus Schaller GmbH		Münchener Str. 96	82362	Weilheim i. OB	47.854371	11.154705	1	Mo-Fr 08:00-17:00, Sa 10:00-12:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1075919	Robin Kling		Abt-Walther-Weg 16	83670	Bad Heilbrunn	47.747436	11.450577	1			~TYPE2:22|~TYPE2:22
+1075920	Robin Kling		Abt-Walther-Weg 16	83670	Bad Heilbrunn	47.747426	11.451129	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076421	Augustinum Energiemanagement GmbH		am Augustinerberg 1	86911	Dießen a.A.	47.946140	11.100033	1			~TYPE2:11|~TYPE2:11
+1076518	BLVM e.V.		Segelflugplatz 6	82549	Königsdorf	47.830040	11.465400	1			~TYPE2:22|~TYPE2:22
+1076546	Erfurt emobility & energy GmbH		Buchscharnstraße 10	86899	Landsberg am Lech	47.826226	11.339310	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076570	Kraftwerk Farchant A. Poettinger & Co. KG8		Esterbergstraße 4	82490	Farchant	47.529570	11.117690	1			~TYPE2:22|~TYPE2:22
+1076571	Kraftwerk Farchant A. Poettinger & Co. KG8		Am Gern 3	82490	Farchant	47.530060	11.109440	1			~TYPE2:22|~TYPE2:22
+1076572	Kraftwerk Farchant A. Poettinger & Co. KG8		Bahnhofstr. 7	82490	Farchant	47.529890	11.114310	1			~TYPE2:22|~TYPE2:22
+1077886	EDEKA		Walchenseestraße 27	82494	Krün	47.509135	11.278900	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1077931	EDEKA		Grube 18	82377	Penzberg	47.756977	11.382397	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+CCS2:50
+1077942	EDEKA		Ringstr. 1	82386	Huglfing	47.766601	11.156033	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22
+1077976	Strandbad	Strandbad	Königinstr. 1	82340	Feldafing	47.948797	11.306917	1	24/7	Keine Beschränkung	DE*ISE*E00707611; DE*ISE*E00707612~CCS2:50+TYPE2:22|DE*ISE*E00707601; DE*ISE*E00707602~CCS2:50+TYPE2_TETHERED:22
+1080484	Walchensee for Future GmbH	Seestraße 44	Seestraße 44	82432	Walchensee	47.589600	11.317071	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1080485	Walchensee for Future GmbH	Seestraße 42	Seestraße 42	82432	Walchensee	47.590040	11.317223	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1080486	Walchensee for Future GmbH	Seestraße 48	Seestraße 48	82432	Walchensee	47.589200	11.316690	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1081364	Autohaus Michael Schmidt GmbH		Hans-Urmiller-Ring 46b	82515	Wolfratshausen	47.901620	11.431147	1			~TYPE2:22|~TYPE2:22
+1081388	Golfclub München Riedhof e.V.		Riedhof 16	82544	Egling	47.924100	11.464657	1			~TYPE2:22|~TYPE2:22
+1081859	eze.network GmbH		Maubergerstr. 4	82069	Schäftlarn	47.991740	11.457455	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1081860	eze.network GmbH		Wagener Weg 17	82069	Schäftlarn	47.994230	11.446016	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1083868	HOTEL GARNI STERFF		Penzberger Str. 6	82402	Seeshaupt	47.825002	11.300419	1			~TYPE2:22
+1085112	Christian Reitter		Maximilianstraße 2	82319	Starnberg	47.999962	11.339009	1			~TYPE2:18
+1085568	Erika Lebitsch		Schießstättstraße 39A	82515	Wolfratshausen	47.909630	11.432130	1			~TYPE2_TETHERED:11
+1085787	Georg Lederer		Birkenweg 3	83670	Bad Heilbrunn	47.747524	11.458091	1			~TYPE2_TETHERED:11
+1085788	Georg Lederer		Wörnerweg 5A	83670	Bad Heilbrunn	47.748463	11.457341	1			~TYPE2_TETHERED:11
+1085814	Gerhard Romann		Am Öferl 20	82362	Weilheim in Oberbayern	47.846874	11.143175	1			~TYPE2:7
+1087567	Robert Roither		Maurerberg 4a	82319	Starnberg	47.999962	11.339009	1			~TYPE2_TETHERED:22
+1087695	Sebastian Kreutel		Bahnhofstraße 46	82402	Seeshaupt	47.822279	11.290573	1			~TYPE2:11|~TYPE2:11
+1087829	Stefan Muth		Krottenkopfstraße 14	82496	Oberau	47.563551	11.136192	1			~TYPE2_TETHERED:11
+1088110	Thomas Vielreicher		Wolfratshauser Straße 8	82538	Geretsried	47.894131	11.422579	1			~TYPE2:11
+1088394	Walter Lebitsch		Gipsenweg 44	82515	Wolfratshausen	47.918579	11.424738	1			~CCS2:11
+1088467	Zeljko Gajic		Starnberger Straße 122a	82069	Schäftlarn	47.995613	11.419460	1			~TYPE2:11
+1089389	Scherbaum Real Estate GmbH		Untermartk 7	82515	Wolfratshausen	47.914690	11.418160	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089397	KreuterMedeleSchäfer GmbH & Co. KG.		Jakob-Steigenberger-Straße 1	82362	Weilheim i.OB	47.833685	11.161101	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089448	Treml Laufgut GmbH		Gewerbestraße 15	82211	Herrsching	47.949414	11.301683	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1089574	MidModern GmbH		Feldweg 10	82343	Pöcking	47.974849	11.309053	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1090085	Kaufland	7860_KDL_Geretsried_T65-IT1-1224-001	Bayerwaldstr. 2	82538	Geretsried	47.883018	11.460601	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1091054	PEWU Feldafing, Kommunalunternehmen der Gemeinde Feldafing		Bahnhofstraße 70	82340	Feldafing	47.946565	11.290820	1			~TYPE2:22|~TYPE2:22
+1091055	PEWU Feldafing, Kommunalunternehmen der Gemeinde Feldafing		Dr.-Appelhans-Weg 5	82340	Feldafing	47.951382	11.297926	1			~TYPE2:22|~TYPE2:22
+1091056	PEWU Feldafing, Kommunalunternehmen der Gemeinde Feldafing		Possenhofener Straße 5	82340	Feldafing	47.950306	11.298371	1			~TYPE2:22|~TYPE2:22
+1091148	HOFFMANN-Gärten		Am Tanneneck 7	82432	Walchensee	47.595787	11.316943	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1091149	HOFFMANN-Gärten		Am Tanneneck 7	82432	Walchensee	47.595797	11.317020	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1091150	HOFFMANN-Gärten		Am Tanneneck 7	82432	Walchensee	47.595797	11.317060	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1092750	Kommunalunternehmen Stadtwerke Penzberg		Karlstraße 22	82377	Penzberg	47.751436	11.377056	1			~TYPE2:22|~TYPE2:22
+1092751	Kommunalunternehmen Stadtwerke Penzberg		Bahnhofstraße 40	82377	Penzberg	47.752947	11.377652	1			~TYPE2:22|~TYPE2:22
+1092752	Kommunalunternehmen Stadtwerke Penzberg		Vordermeir 5	82377	Penzberg	47.766781	11.348051	1			~TYPE2:11|~TYPE2:11
+1092753	Kommunalunternehmen Stadtwerke Penzberg		Bahnhofstraße 24	82377	Penzberg	47.750799	11.375251	1			~TYPE2:22|~TYPE2:22
+1092754	Kommunalunternehmen Stadtwerke Penzberg		Karlstraße 6	82377	Penzberg	47.751111	11.380272	1			~CCS2:150|~CCS2:150
+1092755	Kommunalunternehmen Stadtwerke Penzberg		Str. des 28. April 1945 1	82377	Penzberg	47.751172	11.382104	1			~TYPE2:22|~TYPE2:22
+1092756	Kommunalunternehmen Stadtwerke Penzberg		Birkenstraße 2B	82377	Penzberg	47.758637	11.372151	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1092965	Helge Handke		Aufkirchner Strasse 25b	82069	Hohenschäftlarn	47.988607	11.445385	1			~TYPE2_TETHERED:11
+1093377	17er Oberlandenergie		Escherstr. 1	82390	Eberfing	47.796671	11.201088	1			~TYPE2:22|~TYPE2:22
+1093405	Gemeinde Krün		Rathausplatz 1	92494	Krün	47.504460	11.281530	1			~TYPE2:22|~TYPE2:22
+1093406	Gemeinde Krün		Kranzbachstraße 28	82494	Krün	47.508640	11.279900	1			~TYPE2:22|~TYPE2:22
+1093436	Gemeindewerke Murnau		Lederergasse 0	82418	Murnau	47.676983	11.201737	1			~TYPE2:22|~TYPE2:22
+1093437	Gemeindewerke Murnau		Bahnhofstraße 0	82418	Murnau	47.679474	11.198178	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1093439	Gemeindewerke Murnau		Längenfeldweg 52	82418	Murnau	47.684872	11.208347	1			~TYPE2:22|~TYPE2:22
+1093440	Gemeindewerke Murnau		Bahnhofsplatz 1	82418	Murnau	47.682856	11.193065	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093441	Gemeindewerke Murnau		Ramsachstraße 15	82418	Murnau	47.665877	11.190561	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093442	Gemeindewerke Murnau		Am Strandbad 9	82418	Seehausen a. Staffelsee	47.688271	11.180878	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093443	Gemeindewerke Murnau		Seestraße 29	82418	Murnau	47.679755	11.188106	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096932	Ortner		Weilheimer Straße 18	82418	Murnau am Staffelsee	47.684168	11.204029	1			~CCS2:22|~TYPE2:11
+1097034	Autohaus Schürer GmbH & Co.KG		Johannisstraße 30	86911	Dießen am Ammersee	47.945759	11.104174	1			~CCS2:22|~TYPE2:11
+1100097	Tesla Germany GmbH		Urthal 4	82404	Sindelsdorf	47.728372	11.361923	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102372	Rudolf Kuhn		Am Rusgraben 2	82347	Bernried am Starnberger See	47.858475	11.282146	1			~CCS2:50|~CCS2:50
+1103233	EM1 GmbH	Großweil Freilichtmuseum an der Glentleiten 4	An der Glentleiten 4	82439	Großweil	47.664590	11.284555	1	24/7	Keine Beschränkung	DE*443*EEM1GWFLS01*01~CCS2:50|DE*443*EEM1GWFLS01*02~CCS2:50|DE*443*EEM1GWFLS02*01~TYPE2:22|DE*443*EEM1GWFLS02*02~TYPE2:22|DE*443*EEM1GWFLS03*01~TYPE2:22|DE*443*EEM1GWFLS03*02~TYPE2:22|DE*443*EEM1GWFLS04*01~TYPE2:22|DE*443*EEM1GWFLS04*02~TYPE2:22|DE*443*EEM1GWFLS05*01~TYPE2:22|DE*443*EEM1GWFLS05*02~TYPE2:22|DE*443*EEM1GWFLS06*01~TYPE2:22|DE*443*EEM1GWFLS06*02~TYPE2:22
+1103340	Kommunalunternehmen Stadtwerke Penzberg	Layritzhalle	Am Alten Kraftwerk 5	82377	Penzberg	47.757904	11.379850	1	24/7	Keine Beschränkung	DEPENE000901~CCS2:49|DEPENE000902~CCS2:49
+1104488	Kommunalunternehmen Gemeindewerke Peißenberg		Parkplatz an der Moosleite 0	82380	Peißenberg	47.798100	11.062090	1			~TYPE2:22|~TYPE2:22
+1104489	Kommunalunternehmen Gemeindewerke Peißenberg		Hauptstraße 116	82380	Peißenberg	47.799531	11.062295	1			~TYPE2:22
+1104586	Kommunalunternehmen Gemeindewerke Peißenberg	GWP Parkplatz Pestalozzistraße (rechte Ladestation), Peißen	Pestalozzistr. 8	82380	Peißenberg	47.784827	11.064446	1	24/7	Keine Beschränkung	DE*AUW*E1044*001~TYPE2:22|DE*AUW*E1044*002~TYPE2:22|DE*AUW*E1045*001~TYPE2:22|DE*AUW*E1045*002~TYPE2:22
+1105616	Mercedes- Benz AG - Niederlassung München		Pfaffenrieder Str. 2	82515	Wolfratshausen	47.906669	11.429497	1			~TYPE2:11|~TYPE2:11
+1105617	Mercedes- Benz AG - Niederlassung München		Pfaffenrieder Str. 2	82515	Wolfratshausen	47.906681	11.429229	1			~TYPE2:11|~TYPE2:11
+1105748	Stephan Kraus		Steichelestr. 25	82515	Wolfratshausen	47.899880	11.441570	1	24/7	Keine Beschränkung	DE*EMK*E0SK*0001~TYPE2_TETHERED:22|DE*EMK*E0SK*0001*2~TYPE2_TETHERED:22
+1106073	Ludwig und Vroni Speer GbR		Bahnhofplatz 9	82402	Seeshaupt	47.822601	11.287803	1			~TYPE2_TETHERED:22
+1106335	E.ON Drive GmbH		Sudentenstraße 29-43	82538	Geretsried	47.857159	11.486716	1			~TYPE2:22|~TYPE2:22
+1106390	E.ON Drive GmbH		Hammerschmiedweg 3	82515	Wolfratshausen	47.914090	11.420630	1			~TYPE2:22|~TYPE2:22
+1106564	E.ON Drive GmbH		Hauptstraße 27	82395	Obersöchering	47.738020	11.217620	1			~TYPE2:11|~TYPE2:22
+1106605	E.ON Drive GmbH		Vogelanger 2	82319	Starnberg	47.999270	11.341340	1			~TYPE2:11|~TYPE2:22
+1109508	VR Bank Stranberg-Herrsching-Landsberg eG		Bahnhpfsplatz 4	82211	Herrsching	47.998210	11.171290	1			~TYPE2_TETHERED:30|~CCS2:30+CHADEMO:30
+1109684	Autohaus Widmann & Winterholler GmbH		Partenkirchner Str. 34	82490	Farchant	47.521276	11.111137	1			~TYPE2:22
+1109796	Energie Südbayern GmbH	ESB_0009 / Schmiedeweg - Oberau	Schmiedeweg 13	82496	Oberau	47.560320	11.135280	1		Keine Beschränkung	DEESBE000901~TYPE2:22|DEESBE000902~TYPE2:22
+1109797	Energie Südbayern GmbH	ESB_0012_A / Hauptstraße - Bad Kohlgrub	Hauptstr. 29	82433	Bad Kohlgrub	47.666120	11.051420	1		Keine Beschränkung	DEESBE001001~TYPE2:22|DEESBE001002~TYPE2:22|DEESBE001003~TYPE2:22|DEESBE001004~TYPE2:22
+1109798	Energie Südbayern GmbH	ESB_0011_A / Eugen-Papst-Str - Oberammergau	Eugen-Papst-Str. 9a	82487	Oberammergau	47.597060	11.062510	1		Keine Beschränkung	DEESBE001101~TYPE2:22|DEESBE001102~TYPE2:22|DEESBE001103~TYPE2:22|DEESBE001104~TYPE2:22
+1109799	Energie Südbayern GmbH	ESB_0010 / Ammergauer Str. - Ettal	Ammergauer Str. 8	82488	Ettal	47.569130	11.089860	1	24/7	Keine Beschränkung	DEESBE001201~TYPE2:22|DEESBE001202~TYPE2:22
+1109802	Energie Südbayern GmbH	ESB_0039_B / Hubertusstraße - Oberammergau	Hubertusstr. 40	82487	Oberammergau	47.591956	11.074288	1	24/7	Keine Beschränkung	DEESBE003903~TYPE2:22|DEESBE003904~TYPE2:22|DEESBE003901~TYPE2:22|DEESBE003902~TYPE2:22|DEESBE003905~TYPE2:22|DEESBE003906~TYPE2:22
+1109806	Energie Südbayern GmbH	ESB_0019 / Murnauer Straße - Eschenlohe	Murnauer Str. 1	82438	Eschenlohe	47.599400	11.186030	1	24/7	Keine Beschränkung	DEESBE001901~TYPE2:22|DEESBE001902~TYPE2:22
+1109807	Energie Südbayern GmbH	ESB_0020 / Höllensteinstraße - Eschenlohe	Höllensteinstr. 2	82438	Eschenlohe	47.598410	11.185050	1	24/7	Keine Beschränkung	DEESBE002001~TYPE2:22|DEESBE002002~TYPE2:22
+1109808	Energie Südbayern GmbH	ESB_0021 / Saulgruber Str. - Saulgrub	Saulgruber Str. 4	82442	Saulgrub	47.650670	11.014430	1	24/7	Keine Beschränkung	DEESBE002101~TYPE2:22|DEESBE002102~TYPE2:22
+1109809	Energie Südbayern GmbH	ESB_0022 / Bahnhofweg - Saulgrub	Bahnhofweg 1	82442	Saulgrub	47.666160	11.024870	1	24/7	Keine Beschränkung	DEESBE002201~TYPE2:22|DEESBE002202~TYPE2:22
+1109810	Energie Südbayern GmbH	ESB_0023 / Aschauerstraße - Schwaigen-Grafenaschau	Aschauer Str. 13	82445	Schwaigen	47.649180	11.119090	1	24/7	Keine Beschränkung	DEESBE002301~TYPE2:22|DEESBE002302~TYPE2:22
+1109811	Energie Südbayern GmbH	ESB_0024 / Dorfstraße - Unterammergau	Dorfstr. 23	82497	Unterammergau	47.615140	11.028140	1	24/7	Keine Beschränkung	DEESBE002401~TYPE2:22|DEESBE002402~TYPE2:22
+1109818	Energie Südbayern GmbH	ESB_0294_01 / Hotel Ludwig der Bayer - Ettal	Kaiser-Ludwig-Platz 10	82488	Ettal	47.567885	11.092724	1		Keine Beschränkung	DEESBE029401~TYPE2:22|DEESBE029402~TYPE2:22|DEESBE029403~TYPE2:22|DEESBE029404~TYPE2:22|DEESBE029405~TYPE2:22|DEESBE029406~TYPE2:22
+1109822	Energie Südbayern GmbH	ESB_0226_01 / Hörnlebahn - Bad Kohlgrub	Fallerstr. 14	82433	Bad Kohlgrub	47.661910	11.048820	1	24/7	Keine Beschränkung	DEESBE022601~TYPE2:22|DEESBE022602~TYPE2:22|DEESBE022603~TYPE2:22|DEESBE022604~TYPE2:22
+1109848	17er Oberlandenergie		Karl-Lederer-Platz 1	82538	Geretsried	47.874258	11.465001	1			~TYPE2:22|~TYPE2:22
+1109980	EKT GmbH		Ferdinand von Miller Strasse 39-41	82343	Niederpöcking	47.973333	11.326349	1			~TYPE2:22
+1110136	Bayerischer Yacht-Club e.V.		Nepomueg 10-12	82319	Starnberg	47.998815	11.352194	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110144	Markus Eichberger		Südendstr. 37	82380	Peißenberg	47.783760	11.066198	1			~TYPE2:22|~TYPE2:22
+1110145	Markus Eichberger		Südendstraße 37	82380	Peißenberg	47.783810	11.065980	1			~TYPE2:22|~TYPE2:22
+1113488	Heitz GmbH & Co. KG		Münchner Str. 100a	82467	Garmisch-Partenkirchen	47.507748	11.105274	1			~TYPE2:50+CCS2:50
+1113521	Gemeinde Wallgau		Mittenwalder Str. 8	82499	Wallgau	47.519700	11.282420	1			~TYPE2:22|~TYPE2:22
+1114332	Auto & Service PIA GmbH		Olympiastraße 4-8	82362	Weilheim	47.845640	11.148910	1			~TYPE2:22|~CCS2:75
+1114499	Autohaus Hornung GmbH & Co. KG		Seeshaupterstraße 54	82377	Penzberg	47.766046	11.360575	1			~TYPE2:11|~TYPE2:11
+1114500	Autohaus Hornung GmbH & Co. KG		Seeshaupterstraße 54	82377	Penzberg	47.766279	11.360713	1			~TYPE2:11|~TYPE2:11
+1114501	Autohaus Hornung GmbH & Co. KG		Seeshaupterstraße 54	82377	Penzberg	47.765739	11.359658	1			~TYPE2:11|~TYPE2:11
+1114792	Messtechnik Gengenbach Inh. Christian Gengenbach eK		Im Tal 1	82490	Farchant	47.535600	11.114460	1			~TYPE2:22|~TYPE2:22
+1116662	Abtei Venio KdöR	Haus Venio Pöcking	Parkstr. 10	82343	Pöcking	47.965480	11.307340	1	24/7	Keine Beschränkung	~TYPE2:22
+1116663	Abtei Venio KdöR	Haus Venio Pöcking	Parkstr. 10	82343	Pöcking	47.965370	11.307280	1	24/7	Keine Beschränkung	~TYPE2:22
+1119026	Gemeinde Münsing	Tiefgarage Bürgerhaus/Gemeinde Münsing	Weipertshausener Str. 3	82541	Münsing	47.903100	11.366520	1	24/7	Keine Beschränkung	DE*ONE*E6H7F~TYPE2:22|DE*ONE*EB5JZ~TYPE2:22|DE*ONE*EC57K~TYPE2:22|DE*ONE*ET8V1~TYPE2:22|DE*ONE*E92B8~TYPE2:22
+1119509	Energie Südbayern GmbH	ESB_0224 / Klosterstraße - Schäftlarn	Kloster Schäftlarn 0	82067	Kloster Schäftlarn	47.978684	11.466162	1	24/7	Keine Beschränkung	DEESBE022401~TYPE2:22|DEESBE022402~TYPE2:22
+1119541	Energie Südbayern GmbH	ESB_0345 / Assenbucher Straße - Berg	Assenbucher Str. 45	82335	Berg	47.954556	11.343401	1	24/7	Keine Beschränkung	DEESBE034501~TYPE2:22|DEESBE034502~TYPE2:22
+1119542	Energie Südbayern GmbH	ESB_0354 / Sissi Schloss - Pöcking	Karl-Theodor-Str. 3	82343	Pöcking	47.959210	11.310140	1	24/7	Keine Beschränkung	DEESBE035401~TYPE2:22|DEESBE035402~TYPE2:22
+1119543	Energie Südbayern GmbH	ESB_0355 / Sportplatz - Pöcking	Weilheimer Str. 5	82343	Pöcking	47.962526	11.290644	1	24/7	Keine Beschränkung	DEESBE035501~TYPE2:22|DEESBE035502~TYPE2:22
+1119544	Energie Südbayern GmbH	ESB_0356 / Lindenberg 1 - Pöcking	Lindenberg 62	82343	Pöcking	47.963876	11.289492	1	24/7	Keine Beschränkung	DEESBE035601~TYPE2:22|DEESBE035602~TYPE2:22
+1119545	Energie Südbayern GmbH	ESB_0357 / Lindenberg 2 - Pöcking	Lindenberg 172	82343	Pöcking	47.964767	11.289997	1	24/7	Keine Beschränkung	DEESBE035701~TYPE2:22|DEESBE035702~TYPE2:22
+1119546	Energie Südbayern GmbH	ESB_0358 / Schwimmbad - Pöcking	Sternweg 4	82343	Pöcking	47.964095	11.303142	1	24/7	Keine Beschränkung	DEESBE035801~TYPE2:22|DEESBE035802~TYPE2:22
+1119547	Energie Südbayern GmbH	ESB_0359 / Bahnhof - Pöcking	Schloßberg 2	82343	Pöcking	47.961966	11.307200	1	24/7	Keine Beschränkung	DEESBE035901~TYPE2:22|DEESBE035902~TYPE2:22
+1119548	Energie Südbayern GmbH	ESB_0360 / Moritz-von-Schwindweg -Pöcking	Moritz-von-Schwind-Weg 84	82343	Pöcking	47.977890	11.324500	1	24/7	Keine Beschränkung	DEESBE036001~TYPE2:22|DEESBE036002~TYPE2:22
+1119549	Energie Südbayern GmbH	ESB_0361 / Hauptstraße - Pöcking	Hauptstr. 49	82343	Pöcking	47.971781	11.303902	1	24/7	Keine Beschränkung	DEESBE036101~CCS2:50|DEESBE036102~CCS2:50
+1120696	CUBOS Service GmbH		Hohenberg 3	82402	Seeshaupt	47.804114	11.263453	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1121238	Gemeinde Bichl	Bahnhof Bichl	Bahnhofstr. 0	83673	Bichl	47.723280	11.408820	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121241	Gemeinde Bichl	Bayerischer Löwe Bichl	Kocheler Str. 16	83673	Bichl	47.718350	11.413000	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1125925	Merdedes-Benz High Power Charging Network	Mercedes-Benz High Power Charging Hub Penzberg	Seeshaupter Str. 54	82377	Penzberg	47.765949	11.359962	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1125961	EREA		Karl-Lederer-Platz 18	82538	Geretsried	47.874046	11.465271	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1126199	Parkhotel am Soier See	Parkhotel am Soier See	Kirmesauerstr. 19	82435	Bad Bayersoien	47.691270	11.002047	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1127942	Kasimir Farana	E-TANKSTELLE OBERMARKT-CENTER	Am Kreuzfeld 2	82418	Murnau a. Staffelsee	47.680670	11.200390	1	24/7	Keine Beschränkung	DE*MDS*E012620~TYPE2:22|DE*MDS*E012678~TYPE2:22|DE*MDS*E012124~TYPE2:22|DE*MDS*E011619~TYPE2:22|DE*MDS*E012668~TYPE2:22|DE*MDS*E012666~TYPE2:22
+1128305	EnBW mobility+ AG und Co.KG		Bergkramerhof 1	82515	Wolfratshausen	47.906054	11.401421	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1128364	EnBW mobility+ AG und Co.KG		Weilheimer Str. 21	82343	Pöcking	47.965056	11.298216	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1128903	EDEKA		Alte Ettaler Str. 12	82496	Oberau	47.558868	11.121592	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128979	Energie Südbayern GmbH	ESB_0424_01 / Alte Römerstraße - Saulgrub	Alte Römerstr. 41	82442	Saulgrub	47.655264	11.027398	1	24/7	Keine Beschränkung	DEESBE042401~TYPE2:22|DEESBE042402~TYPE2:22
+1129417	KCS	Kloster Benediktbeuern	Rieder Str. 1	83671	Benediktbeuern	47.706960	11.402454	1	24/7	Keine Beschränkung	DECPIE6870735*1~TYPE2_TETHERED:22|DECPIE6870735*2~TYPE2_TETHERED:22
+1129419	KCS	Kloster Benediktbeuern	Rieder Str. 1	83671	Benediktbeuern	47.706917	11.402421	1	24/7	Keine Beschränkung	DECPIE6869205*1~TYPE2_TETHERED:22|DECPIE6869205*2~TYPE2_TETHERED:22
+1129420	KCS	Kloster Benediktbeuern	Rieder Str. 1	83671	Benediktbeuern	47.706820	11.402418	1	24/7	Keine Beschränkung	DECPIE6869315*1~TYPE2_TETHERED:22|DECPIE6869315*2~TYPE2_TETHERED:22
+1129422	KCS	Kloster Benediktbeuern	Rieder Str. 1	83671	Benediktbeuern	47.706673	11.402297	1	24/7	Keine Beschränkung	DECPIE6870735*1~CCS2:150|DECPIE6870735*2~CCS2:150
+1130901	VSP 38 GmbH & Co. KG		Spatzenhauser Str. 0	82395	Obersöchering	47.732987	11.214244	1		Keine Beschränkung	DK*MON*E4312107~CCS2:160|DK*MON*E4312105~TYPE2_TETHERED:22|DK*MON*E4312113~CCS2:160|DK*MON*E4312108~TYPE2_TETHERED:22|DK*MON*E4312116~CCS2:160|DK*MON*E4312117~TYPE2_TETHERED:22
+1132369	EDEKA		Königsdorfer Str. 36	82515	Wolfratshausen	47.909430	11.424661	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132370	EDEKA		Oderdinger Str. 2	82362	Weilheim i. OB	47.834280	11.138648	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1132543	smopi	HerrschingAmAmmersee.Bahnhofsplatz4.Public	Bahnhofsplatz 4	82211	Herrsching a.Ammersee	47.998344	11.171290	1	24/7	Keine Beschränkung	DE*SMC*E0000287~CCS2:50|DE*SMC*E0000288~CCS2:50
+1133784	Bauhandel Müller GmbH		Graf-Rasso-Str. 4	82346	Andechs	47.974420	11.221690	1	Mo-Do 07:30-17:00, Fr 07:30-15:00	Keine Beschränkung	~CCS2:150|~CCS2:150
+1133786	Bauhandel Müller GmbH		Graf-Rasso-Str. 4	82346	Andechs	47.582700	11.131810	1		Keine Beschränkung	~TYPE2:22
+1139737	E.ON Drive GmbH		Oskar-von-Miller-Str. 9	82377	Penzberg	47.749667	11.385078	1		Keine Beschränkung	DE*EDR*E22010740~TYPE2:22
+1142553	Qwello Deutschland GmbH		Bergkramerhof 1	82515	Wolfratshausen	47.906109	11.402249	1	24/7	Keine Beschränkung	DEQRMEXM8P911~TYPE2_TETHERED:11+TYPE2:22|DEQRMEXM8P921~TYPE2_TETHERED:11+TYPE2:22|DEQRMEXM8P931~TYPE2_TETHERED:11+TYPE2:22|DEQRMEXM8P941~TYPE2_TETHERED:11+TYPE2:22|DEQRMEXM8P951~TYPE2_TETHERED:11+TYPE2:22|DEQRMEXM8P961~TYPE2_TETHERED:11+TYPE2:22
+1145925	Energie Südbayern GmbH	ESB_0505_01 / Golfclub München Riedhof - Egling	Riedhof 16	82544	Egling	47.923548	11.464692	1	24/7	Keine Beschränkung	DEESBE050501~TYPE2:11|DEESBE050502~TYPE2:11|DEESBE050503~TYPE2:11|DEESBE050504~TYPE2:11
+1147348	Energie Südbayern GmbH	ESB_0402_01 / Alte Bahnhofstraße - Pöcking	Alte Bahnhofstr. 1	82343	Pöcking	47.968289	11.303159	1	24/7	Keine Beschränkung	DEESBE040201~CCS2:50|DEESBE040202~CCS2:50
+1147383	Energie Südbayern GmbH	ESB_0423_01 / In d. Weide - Oberammergau	In der Weide 2	82497	Unterammergau	47.620941	11.029818	1	24/7	Keine Beschränkung	DEESBE042301~CCS2:300|DEESBE042302~CCS2:300
+1147573	17er Oberlandenergie		Steinberg 0	82392	Habach	47.730048	11.277057	1	24/7	Keine Beschränkung	DE17RE006301~TYPE2:22|DE17RE006302~TYPE2:22|DE17RE006303~TYPE2:22|DE17RE006304~TYPE2:22
+1147607	17er Oberlandenergie		Zugspitzstr. 35	82418	Hofheim	47.716751	11.213063	1	Mo-Fr 17:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	DE17RE008501~TYPE2:11
+1147616	17er Oberlandenergie		Kirchenweg 0	82399	Raisting	47.912715	11.113334	1	24/7	Keine Beschränkung	DE17RE007902~TYPE2:22
+1147627	17er Oberlandenergie		Banater Str. 14a	82538	Geretsried	47.882152	11.464306	1	24/7	Keine Beschränkung	DE17RE010301~TYPE2:22|DE17RE010302~TYPE2:22
+1147631	17er Oberlandenergie		Adalbert-Stifter-Str. 20	82538	Geretsried	47.867321	11.474247	1		Keine Beschränkung	DE17RE004604~TYPE2:22|DE17RE004605~TYPE2:22|DE17RE004606~TYPE2:22|DE17RE004607~TYPE2:22|DE17RE004608~TYPE2:22
+1147644	17er Oberlandenergie		Egerlandstr. 54	82538	Geretsried	47.874790	11.468149	1	24/7	Keine Beschränkung	DE17RE006901~TYPE2:22|DE17RE006902~TYPE2:22
+1147645	17er Oberlandenergie		Prälatenstr. 3	83671	Benediktbeuern	47.706331	11.410477	1	24/7	Keine Beschränkung	DE17RE007501~TYPE2:22|DE17RE007502~TYPE2:22
+1147647	17er Oberlandenergie		Hammerschmiedweg 3	82515	Wolfratshausen	47.914113	11.420650	1	24/7	Keine Beschränkung	DE17RE002801~TYPE2:22|DE17RE002802~TYPE2:22
+1147651	17er Oberlandenergie		Pfaffenrieder Str. 6	82515	Wolfratshausen	47.905635	11.428575	1	24/7	Keine Beschränkung	DE17RE003901~TYPE2:22
+1147658	17er Oberlandenergie		Egerlandstr. 57	82538	Geretsried	47.875779	11.465970	1	24/7	Keine Beschränkung	DE17RE004005~CCS2:49.9|DE17RE004006~CCS2:49.9|DE17RE004001~TYPE2:22|DE17RE004002~TYPE2:22
+1147847	17er Oberlandenergie		Maximilianstr. 2	82319	Starnberg	47.996920	11.343583	1	24/7	Keine Beschränkung	DE17RE008701~TYPE2:22|DE17RE008702~TYPE2:22
+1147851	17er Oberlandenergie		Dorfstr. 35	82418	Riegsee	47.699214	11.233906	1	24/7	Keine Beschränkung	DE17RE005501~TYPE2:22|DE17RE005502~TYPE2:22
+1147863	17er Oberlandenergie		Hauptstr. 25	82395	Obersöchering	47.738015	11.217623	1	24/7	Keine Beschränkung	DE17RE000201~TYPE2:22|DE17RE000202~TYPE2:22
+1148152	17er Oberlandenergie		Vogelanger 2	82319	Starnberg	47.999427	11.341130	1	24/7	Keine Beschränkung	DE17RE008901~TYPE2:22|DE17RE008902~TYPE2:22
+1148153	17er Oberlandenergie		Nepomukweg 0	82319	Starnberg	47.998609	11.352520	1	24/7	Keine Beschränkung	DE17RE008801~TYPE2:22|DE17RE008802~TYPE2:22|DE17RE008803~TYPE2:22|DE17RE008804~TYPE2:22
+1150781	17er Oberlandenergie		Feichtmayrstr. 0	82405	Wessobrunn	47.874379	11.023309	1	24/7	Keine Beschränkung	DE17RE009801~TYPE2:22|DE17RE009802~TYPE2:22
+1150782	17er Oberlandenergie		Alpenstr. 12	82377	Penzberg	47.752231	11.369673	1	24/7	Keine Beschränkung	DE17RE010101~TYPE2:22
+1150857	EM2 GmbH	EM2GWELS01	Auweg 20	82439	Großweil	47.674205	11.292561	1	24/7	Keine Beschränkung	DE*443*EEM2GWELS01*01~CCS2:400|DE*443*EEM2GWELS01*02~CCS2:400|DE*443*EEM2GWELS02*01~CCS2:400|DE*443*EEM2GWELS02*02~CCS2:400|DE*443*EEM2GWELS01*01~CCS2:400|DE*443*EEM2GWELS01*02~CCS2:400|DE*443*EEM2GWELS02*01~CCS2:400|DE*443*EEM2GWELS02*02~CCS2:400
+1150987	Lidl	1567_Lidl_Wolfratshausen_QP-20081-0525-060-121-QP-VER:321	Margeritenstr. 6	82515	Wolfratshausen	47.907305	11.431076	1		Keine Beschränkung	~CCS2:60|~CCS2:60
+1151829	Wirelane GmbH		Buchwies 1	82496	Oberau	47.554833	11.149594	1		Keine Beschränkung	DE*WLN*ES001453~TYPE2:11|DE*WLN*ES001454~TYPE2:11
+1152944	LENA Solutions GmbH	Feldafing	Johann-Biersack-Str. 23	82340	Feldafing	47.949020	11.293060	1	24/7	Keine Beschränkung	DE*898*E10391*001~TYPE2:11|DE*898*E10391*002~TYPE2:11
+1154601	Hubert Rott		Pfisterbergweg 9	82431	Kochel a. See	47.691000	11.409417	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1158925	17er Oberlandenergie		Richard-Wagner-Str. 9	82538	Geretsried	47.857121	11.481529	1	24/7	Keine Beschränkung	DE17RE009901~TYPE2:22|DE17RE009902~TYPE2:22
+1159304	Energie Südbayern GmbH	ESB_0425_01 / Kloster Ettal - Ettal	Kaiser-Ludwig-Platz 1	82488	Ettal	47.569135	11.092752	1	24/7	Keine Beschränkung	DEESBE042501~CCS2:150|DEESBE042502~CCS2:150|DEESBE042503~TYPE2:22|DEESBE042504~TYPE2:22
+1159436	Energiepark Schäftlarn GmbH & Co. KG	VISPIRON HPC - ChargeFarm Schäftlarn - LS 3.1	Nr. 0	82069	Schäftlarn	47.995308	11.430372	1	24/7	Keine Beschränkung	DK*MON*E5342292~TYPE2:22|DK*MON*E5342293~CCS2:160|DK*MON*E5342297~TYPE2:22|DK*MON*E5342299~CCS2:160|DK*MON*E5342302~TYPE2:22|DK*MON*E5342303~CCS2:160|DK*MON*E5323038~TYPE2:22|DK*MON*E5323041~CCS2:160|DK*MON*E5342272~TYPE2:22|DK*MON*E5342274~CCS2:160|DK*MON*E5342276~TYPE2:22|DK*MON*E5342279~CCS2:160|DK*MON*E5342281~TYPE2:22|DK*MON*E5342282~CCS2:160|DK*MON*E5342283~TYPE2:22|DK*MON*E5342284~CCS2:160|DK*MON*E5342288~TYPE2:22|DK*MON*E5342290~CCS2:160
+1159448	EnBW mobility+ AG und Co.KG		Reschstr. 7	82418	Murnau a. Staffelsee	47.681300	11.200600	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1162153	Kreissparkasse München Starnberg Ebersberg / Anstalt des öffentlichen Rechts		Hauptstr. 55	82327	Tutzing	47.911800	11.280700	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1162804	Energie Südbayern GmbH	ESB_0040_01 / Keislainenweg - Oberammergau	Kreislaineweg 1	82487	Oberammergau	47.597432	11.048757	1	24/7	Keine Beschränkung	DEESBE004001~TYPE2:22|DEESBE004002~TYPE2:22|DEESBE004001~TYPE2:22|DEESBE004002~TYPE2:22
+1163394	Energie Südbayern GmbH	ESB_0013_01 / Bahnhofstr. - Oberammergau	Bahnhofstr. 1	82487	Oberammergau	47.599124	11.057295	1	24/7	Keine Beschränkung	DEESBE001302~TYPE2:22
+1163688	Kommunalunternehmen Gemeindewerke Peißenberg	GWP 1 / Saint-Brevin-Ring Peißenberg	Saint-Brevin-Ring 12a	82380	Peißenberg	47.786254	11.050540	1	24/7	Keine Beschränkung	DE*AUW*E0009*001~TYPE2:22|DE*AUW*E0009*002~TYPE2:22
+1163824	Energie Südbayern GmbH	ESB_0426_02 / Liftweg - Unterammergau	Liftweg 2	82497	Unterammergau	47.609756	11.019446	1	24/7	Keine Beschränkung	DEESBE042601~TYPE2:15|DEESBE042602~TYPE2:15|DEESBE042603~TYPE2:15|DEESBE042604~TYPE2:15
+1164089	BaySG	SA_Schwaiganger Geb. 52 Sägmehlhalle links	Schwaiganger 1	82441	Ohlstadt	47.657390	11.254970	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1164091	BaySG	SA_Schwaiganger Geb. 52 Sägmehlhalle rechts	Schwaiganger 1	82441	Ohlstadt	47.657410	11.255050	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22

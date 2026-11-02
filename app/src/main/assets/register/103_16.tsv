@@ -1,0 +1,513 @@
+1001624	Stadtwerke Ostmünsterland GmbH & Co. KG		Marktplatz 19	59320	Ennigerloh	51.835084	8.027617	1	24/7	Keine Beschränkung	DE*ISE*E0003509~TYPE2:22|DE*ISE*E0003512~TYPE2:22
+1004111	Stadtwerke Bielefeld		Föhrenstraße 2b	33649	Bielefeld	51.969998	8.463506	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1004120	Stadtwerke Bielefeld		Eisenbahnstraße 42	33647	Bielefeld	51.996956	8.498627	1			~TYPE2:22|~TYPE2:22
+1004121	Stadtwerke Bielefeld		Eisenbahnstraße 42	33647	Bielefeld	51.996832	8.498662	1			~TYPE2:22|~TYPE2:22
+1004124	Stadtwerke Bielefeld		Friedrich-Wilhelms-Bleiche 1-3	33649	Bielefeld	51.993709	8.491285	1			~TYPE2:22|~TYPE2:22
+1004128	Stadtwerke Bielefeld		Carl-Severing-Str. 92	33649	Bielefeld	51.997628	8.485355	1			~TYPE2:22|~TYPE2:22
+1004143	Stadtwerke Bielefeld		Brockhagener Straße 20	33649	Bielefeld	51.987509	8.483502	1			~CCS2:50|~TYPE2:22
+1011017	Stadtwerke Versmold GmbH		Remse 26	33428	Marienfeld	51.953630	8.259383	1			~TYPE2:22|~TYPE2:22
+1011018	Stadtwerke Versmold GmbH		Talstraße 0	33428	Harsewinkel	51.965365	8.219501	1			~TYPE2:22|~TYPE2:22
+1011020	Stadtwerke Versmold GmbH		Münstertsraße 8	33428	Harsewinkel	51.961340	8.224360	1			~TYPE2:22|~TYPE2:22
+1011026	Stadtwerke Versmold GmbH		Hauptstr. 30	33428	Harsewinkel	51.977196	8.142953	1			~TYPE2:22|~TYPE2:22
+1011641	E-Merge Mobility GmbH		Werler Landstraße 14	59494	Soest	51.563786	8.086238	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1012794	Westenergie Metering GmbH		Zum Walde 15	59602	Rüthen	51.508168	8.491858	1			~TYPE2:22|~TYPE2:22
+1012829	Westenergie Metering GmbH		Soester Strasse 65	59597	Erwitte	51.610175	8.313990	1			~TYPE2:22|~TYPE2:22
+1013279	Westenergie Metering GmbH		Zum Hagen 4 Z	59609	Anröchte	51.560241	8.328028	1			~TYPE2:22|~TYPE2:22
+1016401	Erik Mutzke Fertigungstechnik e.K.		Oderweg 11	33330	Gütersloh	51.929524	8.387517	1			~TYPE2_TETHERED:11
+1021663	EWE Go GmbH	McD_0478	Bielefelder Str. 57	33378	Rheda-Wiedenbrück	51.843258	8.317584	1	24/7	Keine Beschränkung	DE*2GO*EMCD0478*1A*1~CCS2:150|DE*2GO*EMCD0478*1A*2~CCS2:150
+1022122	EWE Go GmbH		Erwitter Str. 157 a	59557	Lippstadt	51.650935	8.344990	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1022192	EWE Go GmbH		Werler Landstraße 4	59494	Soest	51.564769	8.087513	1			~CCS2:300|~CCS2:300
+1025140	EnBW mobility+ AG und Co.KG		Autobahnraststätte Soester Börde Süd 0	59494	Soest	51.547181	8.133495	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50|~CCS2:300|~CCS2:300+CHADEMO:300
+1025146	EnBW mobility+ AG und Co.KG		Raststätte Soester Börde Nord 0	59494	Soest	51.548396	8.132224	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025149	EnBW mobility+ AG und Co.KG		Raststätte Vellern 0	59269	Beckum	51.791080	8.074054	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025791	EnBW mobility+ AG und Co.KG		Kirch Weg 18	59494	Soest	51.548307	8.132187	1			~CCS2:300|~CCS2:300
+1025856	EnBW mobility+ AG und Co.KG		Müllerstr. 31	59269	Beckum	51.790705	8.072179	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025887	EnBW mobility+ AG und Co.KG		Raststätte Hellweg Süd 0	59590	Geseke	51.595156	8.485109	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300
+1026129	EnBW mobility+ AG und Co.KG		Windmüllerstr. 14	59557	Lippstadt	51.660555	8.360522	1			~CCS2:150|~CCS2:150
+1026544	EnBW mobility+ AG und Co.KG		Am Anger 43a	36433	Gütersloh	51.900849	8.403486	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026582	EnBW mobility+ AG und Co.KG		Herzebrockerstr 25	33378	Rheda-Wiedenbrück	51.859167	8.279739	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1026616	EnBW mobility+ AG und Co.KG		Grevenbrede 12	59269	Beckum	51.774444	8.039583	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026793	EnBW mobility+ AG und Co.KG		Grevenbrede 12	59269	Beckum	51.774183	8.040673	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027206	EnBW mobility+ AG und Co.KG		Bahnhofstraße 14A	59597	Erwitte	51.606250	8.336750	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1028429	Westfalen Weser Ladeservice GmbH		Am Rathaus 1	33442	Herzebrock-Clarholz	51.884331	8.231221	1			~TYPE2:22|~TYPE2:22
+1028430	Westfalen Weser Ladeservice GmbH	60101	Bahnhofstraße 0	33442	Herzebrock-Clarholz	51.880561	8.235431	1		Keine Beschränkung	DE*WWL*E60101*04~TYPE2:22|DE*WWL*E60101*05~TYPE2:22
+1028431	Westfalen Weser Ladeservice GmbH		Am Halloh 1	33442	Herzebrock-Clarholz	51.898427	8.200306	1			~TYPE2:22|~TYPE2:22
+1028432	Westfalen Weser Ladeservice GmbH		Schulstraße 20	33442	Herzebrock-Clarholz	51.902004	8.196638	1			~TYPE2:22|~TYPE2:22
+1028434	Westfalen Weser Ladeservice GmbH		Jordanweg 1	33397	Rietberg	51.809822	8.414218	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028446	Westfalen Weser Ladeservice GmbH	60200	Lindenstr. 0	33442	Herzebrock-Clarholz	51.901941	8.193262	1		Keine Beschränkung	DE*WWL*E60200*01~CCS2:50|DE*WWL*E60200*02~TYPE2:22
+1028447	Westfalen Weser Ladeservice GmbH		Am Hallenbad 11	33442	Herzebrock-Clarholz	51.887720	8.245534	1			~TYPE2:22|~TYPE2:22
+1028448	Westfalen Weser Ladeservice GmbH		Am Hallenbad 11	33442	Herzebrock-Clarholz	51.887740	8.245590	1			~TYPE2:22|~TYPE2:22
+1028449	Westfalen Weser Ladeservice GmbH		Klosterstr. 21	33442	Herzebrock-Clarholz	51.885756	8.246918	1			~TYPE2:22|~TYPE2:22
+1028506	Westfalen Weser Ladeservice GmbH		Holzhofstraße 22	33442	Herzebrock-Clarholz	51.904020	8.196858	1			~TYPE2:22|~TYPE2:22
+1028507	Westfalen Weser Ladeservice GmbH	60300	Südhoffsweg 0	33442	Herzebrock-Clarholz	51.881236	8.240803	1		Keine Beschränkung	DE*WWL*E60300*01~CCS2:100|DE*WWL*E60300*02~CCS2:100
+1030415	Q-Park Recharge Germany GmbH		Woldemei 9	59555	Lippstadt	51.672759	8.348525	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1031830	TotalEnergies Charging Solutions		Sassenberger Str. 77	48231	Warendorf	51.958039	8.010148	1			~CCS2:75|~TYPE2:22
+1032029	TotalEnergies Charging Solutions		Bokeler Str. 218	33397	Rietberg	51.796652	8.368117	1			~CCS2:75|~CCS2:75|~TYPE2:22|~CCS2:75|~CCS2:75|~TYPE2:22|~CCS2:75|~CCS2:75|~TYPE2:22|~CCS2:75|~CCS2:75|~TYPE2:22|~CCS2:75|~CCS2:75|~TYPE2:22|~CCS2:75|~CCS2:75|~TYPE2:22
+1032367	GETEC mobility solutions GmbH		Kahrlertstraße 145-147	33334	Gütersloh	51.924131	8.384781	1			~TYPE2:22|~TYPE2:22
+1032383	GETEC mobility solutions GmbH		Hülsbrockstraße 75	33334	Gütersloh	51.919403	8.408312	1			~TYPE2:22|~TYPE2:22
+1037180	Westfalen AG & Co. KG		In der Geist 110	59302	Oelde	51.814324	8.137045	1			~CCS2:75
+1037190	Westfalen AG & Co. KG		Bielefelderstraße 107	33378	Rheda-Wiedenbrück	51.845972	8.320647	1			~CCS2:75
+1037252	Westfalen AG & Co. KG		Arnsbergerstr. 30	59494	Soest	51.560229	8.104220	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2:22
+1037545	Citywatt GmbH		Nottebohmweg 18	59494	Soest	51.574332	8.119588	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037547	Citywatt GmbH		Nottebohmweg 18	59494	Soest	51.574219	8.119637	1			~TYPE2:22|~TYPE2:22
+1037836	Lippstädter Ladesäulen GmbH		Am Markt 14	59597	Erwitte	51.612625	8.341002	1			~TYPE2:22
+1037837	Lippstädter Ladesäulen GmbH		Hansastraße 26	59557	Lippstadt	51.653183	8.355137	1			~TYPE2:22
+1037838	Lippstädter Ladesäulen GmbH		Klosterstraße 37	59555	Lippstadt	51.672042	8.338458	1			~TYPE2:22
+1037839	Lippstädter Ladesäulen GmbH		Erwitter Str. 175	59557	Lippstadt	51.645861	8.343636	1			~TYPE2:22
+1037840	Lippstädter Ladesäulen GmbH		Erwitter Str. 175	59557	Lippstadt	51.645861	8.343677	1			~TYPE2:22
+1037841	Lippstädter Ladesäulen GmbH		Wiedenbrücker Str. 33	59555	Lippstadt	51.684443	8.344167	1			~TYPE2:22
+1037842	Lippstädter Ladesäulen GmbH		Wiedenbrücker Str. 33	59555	Lippstadt	51.684452	8.344207	1			~TYPE2:22
+1037843	Lippstädter Ladesäulen GmbH		Bahnhofstr. 38	59505	Bad Sassendorf	51.586093	8.164199	1			~TYPE2:22
+1037844	Lippstädter Ladesäulen GmbH		Am Bahnhof 2	59505	Bad Sassendorf	51.585998	8.162568	1			~TYPE2:22
+1037845	Lippstädter Ladesäulen GmbH		Gartenstr. 33	59505	Bad Sassendorf	51.590439	8.166074	1			~TYPE2:22|~TYPE2:22
+1037847	Lippstädter Ladesäulen GmbH		Gartenstr. 33	59505	Bad Sassendorf	51.590393	8.166047	1			~TYPE2:22|~TYPE2:22
+1037855	Lippstädter Ladesäulen GmbH		Cappeltor 2b	59555	Lippstadt	51.677260	8.342203	1			~TYPE2:22|~TYPE2:22
+1037857	Lippstädter Ladesäulen GmbH		Dr.-Arnold-Hueck-Straße 3	59557	Lippstadt	51.673427	8.364984	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037858	Lippstädter Ladesäulen GmbH		Konrad-Adenauer-Ring 0	59557	Lippstadt	51.670160	8.349260	1			~TYPE2:22|~TYPE2:22
+1037860	Lippstädter Ladesäulen GmbH		Eichendorffstr 1	59505	Bad Sassendorf	51.585393	8.172020	1			~TYPE2:22|~TYPE2:22
+1037862	Lippstädter Ladesäulen GmbH		Bückeburgerstr 0	59555	Lippstadt	51.673729	8.333631	1			~TYPE2:22|~TYPE2:22
+1037864	Lippstädter Ladesäulen GmbH		Wiedenbrückerstr 33	59555	Lippstadt	51.684456	8.344293	1			~TYPE2:22|~TYPE2:22
+1037866	Lippstädter Ladesäulen GmbH		Udenerstr 2	59555	Lippstadt	51.676301	8.328217	1			~TYPE2:22|~TYPE2:22
+1037867	Lippstädter Ladesäulen GmbH		Cappeltor 2b	59555	Lippstadt	51.677274	8.342276	1			~TYPE2:22|~TYPE2:22
+1037869	Lippstädter Ladesäulen GmbH		Landsbergerstr 17	59557	Lippstadt	51.656852	8.338260	1			~TYPE2:22|~TYPE2:22
+1037870	Lippstädter Ladesäulen GmbH		Braukstr 4	59556	Lippstadt	51.709055	8.336542	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037871	Lippstädter Ladesäulen GmbH		Poststr 25	59555	Lippstadt	51.674654	8.344261	1			~TYPE2:22|~TYPE2:22
+1037872	Lippstädter Ladesäulen GmbH		Badstr 0	59556	Lippstadt	51.654223	8.223571	1			~TYPE2:22|~TYPE2:22
+1037873	Lippstädter Ladesäulen GmbH		Benninghauserstr 0	59556	Lippstadt	51.654214	8.238046	1			~TYPE2:22
+1037874	Lippstädter Ladesäulen GmbH		Cappellerstiftsallee 0	59556	Lippstadt	51.682836	8.301592	1			~TYPE2:22|~TYPE2:22
+1037875	Lippstädter Ladesäulen GmbH		Schwemannskamp 2	59555	Lippstadt	51.687402	8.351107	1			~TYPE2:22|~TYPE2:22
+1037876	Lippstädter Ladesäulen GmbH		Am Rüsing 38	59555	Lippstadt	51.679662	8.313682	1			~TYPE2:11|~TYPE2:11
+1037877	Lippstädter Ladesäulen GmbH		Elserstr 9	59557	Lippstadt	51.660869	8.346517	1			~TYPE2:22|~TYPE2:22
+1037878	Lippstädter Ladesäulen GmbH		Geiststr 44	59555	Lippstadt	51.674834	8.350713	1			~TYPE2:22|~TYPE2:22
+1037879	Lippstädter Ladesäulen GmbH		Rathausstr 4	59557	Lippstadt	51.675625	8.345775	1			~TYPE2:22|~TYPE2:22
+1037880	Lippstädter Ladesäulen GmbH		Lippertor 0	59555	Lippstadt	51.679529	8.346034	1			~TYPE2:22|~TYPE2:22
+1038359	Klosterpforte GmbH		Klosterhof 2-3	33428	Marienfeld	51.945818	8.281448	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038823	Stadtwerke Ostmünsterland GmbH & Co. KG		Clemens-von-Nagel-Str. 2	59320	Ennigerloh	51.866803	8.080119	1	24/7	Keine Beschränkung	DE*OML*E23EN3*1~TYPE2:22|DE*OML*E23EN3*2~TYPE2:22
+1038824	Stadtwerke Ostmünsterland GmbH & Co. KG		Neumarkt 1	59320	Ennigerloh	51.884049	8.044134	1	24/7	Keine Beschränkung	DE*OML*E23EN2*1~TYPE2:22|DE*OML*E23EN2*2~TYPE2:22
+1038827	Stadtwerke Ostmünsterland GmbH & Co. KG		Bernhard-Raestrup-Platz 3	59302	Oelde	51.826507	8.142432	1	24/7	Keine Beschränkung	DE*OML*E24OE1*1~TYPE2:22|DE*OML*E24OE1*2~TYPE2:22
+1038832	Stadtwerke Ostmünsterland GmbH & Co. KG		Warendorfer Str. 16	59302	Oelde	51.828761	8.146195	1	24/7	Keine Beschränkung	DE*ISE*E0003506~TYPE2:22|DE*ISE*E0003517~TYPE2:22
+1038833	Stadtwerke Ostmünsterland GmbH & Co. KG		Konrad-Adenauer-Allee 20b	59302	Oelde	51.818475	8.142140	1	24/7	Keine Beschränkung	DE*ISE*E0003515~TYPE2:22|DE*ISE*E0003518~TYPE2:22
+1039796	IONITY GmbH		In der Geist 120	59302	Oelde	51.812002	8.131019	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1040161	Auto Weber Gmbh & Co KG		Hauptstraße 190	59269	Beckum	51.786523	8.030538	1			~CCS2:300|~CCS2:300|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1040177	KFZ-Service Wiengarten		Robert-Linnemann-Str. 3	48336	Sassenberg	51.981021	8.052625	1			~TYPE2:22|~TYPE2:22
+1040958	Stadtwerke Ostmünsterland GmbH & Co. KG	Albert-Einstein-Str	Albert-Einstein-Str. 14	59302	Oelde	51.814336	8.123626	1	24/7	Keine Beschränkung	DE*OML*E24OE2*1~TYPE2:22|DE*OML*E24OE2*2~TYPE2:22
+1041016	Lippstädter Ladesäulen GmbH	Bismarckstr	Bismarckstr. 0	59505	Bad Sassendorf	51.588107	8.167834	1	24/7	Keine Beschränkung	~TYPE2:11+TYPE2:11
+1041412	GP JOULE Connect GmbH	DE*CNT*EP01756*001	Unterberg II 19	59269	Beckum	51.724487	8.070807	1		Keine Beschränkung	DE*CNT*EP01756*001*1~CCS2:300|DE*CNT*EP01756*001*2~CCS2:300
+1041822	Stadtwerke Soest Energiedienstleistungs GmbH		Domplatz 1	59494	Soest	51.571993	8.108305	1			~TYPE2:22|~TYPE2:22
+1041823	Stadtwerke Soest Energiedienstleistungs GmbH		Severinstraße 10	59494	Soest	51.573173	8.110616	1			~TYPE2:22|~TYPE2:22
+1041825	Stadtwerke Soest Energiedienstleistungs GmbH		Hoher Weg 1 - 3	59494	Soest	51.571814	8.114493	1			~TYPE2:22|~TYPE2:22
+1041826	Stadtwerke Soest Energiedienstleistungs GmbH		Bentlerstraße 106	33449	Langenberg	51.762570	8.320900	1			~TYPE2:22|~TYPE2:22
+1041827	Stadtwerke Soest Energiedienstleistungs GmbH		Körnerstraße 14	33449	Langenberg	51.774990	8.317900	1			~TYPE2:22|~TYPE2:22
+1041828	Stadtwerke Soest Energiedienstleistungs GmbH		Liesborner Straße 10	33449	Langenberg	51.749219	8.326853	1			~TYPE2:22|~TYPE2:22
+1041829	Stadtwerke Soest Energiedienstleistungs GmbH		Britischer Weg 10	59494	Soest	51.555144	8.108317	1			~TYPE2:22|~TYPE2:22
+1041830	Stadtwerke Soest Energiedienstleistungs GmbH		Werkstraße 6	59494	Soest	51.577923	8.109346	1			~TYPE2:22|~TYPE2:22
+1041831	Stadtwerke Soest Energiedienstleistungs GmbH		Thomästraße 1	59494	Soest	51.571113	8.108789	1			~TYPE2:22|~TYPE2:22
+1041832	Stadtwerke Soest Energiedienstleistungs GmbH		Westerwieher Straße 247	33397	Rietberg	51.815362	8.492031	1			~TYPE2:22|~TYPE2:22
+1041833	Stadtwerke Soest Energiedienstleistungs GmbH		Doppstraße 14	33397	Rietberg	51.802776	8.379002	1			~TYPE2:22|~TYPE2:22
+1041834	Stadtwerke Soest Energiedienstleistungs GmbH		Troyesweg 9	59494	Soest	51.564923	8.115324	1			~TYPE2:22|~TYPE2:22
+1041835	Stadtwerke Soest Energiedienstleistungs GmbH		Hauptstraße 39	33397	Rietberg	51.859228	8.440856	1			~TYPE2:22|~TYPE2:22
+1041836	Stadtwerke Soest Energiedienstleistungs GmbH		Delbrücker Straße 1	33397	Rietberg	51.806125	8.426172	1			~TYPE2:22|~TYPE2:22
+1041837	Stadtwerke Soest Energiedienstleistungs GmbH		Gütersloher Straße 18	33397	Rietberg	51.831905	8.442296	1			~TYPE2:22|~TYPE2:22
+1041838	Stadtwerke Soest Energiedienstleistungs GmbH		Brandstraße 4	33397	Rietberg	51.754049	8.392126	1			~TYPE2:22|~TYPE2:22
+1041839	Stadtwerke Soest Energiedienstleistungs GmbH		Im Ennebutt 1	33397	Rietberg	51.807539	8.425519	1			~TYPE2:22|~TYPE2:22
+1041840	Stadtwerke Soest Energiedienstleistungs GmbH		Zum Bürgerhaus 6	33397	Rietberg	51.827268	8.402240	1			~TYPE2:22|~TYPE2:22
+1041841	Stadtwerke Soest Energiedienstleistungs GmbH		Senator-Schwarz-Ring 21	59494	Soest	51.561610	8.083026	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041842	Stadtwerke Soest Energiedienstleistungs GmbH		Rietberg Heinrich-Kupper-Str. 3	33397	Rietberg	51.805606	8.426854	1			~TYPE2:22|~TYPE2:22
+1041843	Stadtwerke Soest Energiedienstleistungs GmbH		Emsstraße 21	33397	Rietberg	51.809272	8.429270	1			~TYPE2:11|~TYPE2:11
+1041845	Stadtwerke Soest Energiedienstleistungs GmbH		Riga Ring 1	59494	Soest	51.570088	8.129327	1			~CCS2:150|~CCS2:150
+1041846	Stadtwerke Soest Energiedienstleistungs GmbH		Ardeyweg 31	59494	Soest	51.570930	8.078387	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041847	Stadtwerke Soest Energiedienstleistungs GmbH		Am Hellweg 15	59494	Soest	51.555534	8.057025	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041848	Stadtwerke Soest Energiedienstleistungs GmbH		Karl-Rose-Weg 5	59494	Soest	51.559000	8.091531	1			~TYPE2:22|~TYPE2:22
+1041849	Stadtwerke Soest Energiedienstleistungs GmbH		Pollhofstraße 16	59494	Soest	51.568285	8.109544	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041850	Stadtwerke Soest Energiedienstleistungs GmbH		Lippstädter Straße 36	59494	Soest	51.555439	8.118821	1			~TYPE2:22|~TYPE2:22
+1041851	Stadtwerke Soest Energiedienstleistungs GmbH		Naugardenring 5	59494	Soest	51.573785	8.128724	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041852	Stadtwerke Soest Energiedienstleistungs GmbH		Dominikanerstraße 5	59494	Soest	51.574595	8.102941	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1041854	Stadtwerke Soest Energiedienstleistungs GmbH		Werstraße 16z	59494	Soest	51.579560	8.103784	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041855	Stadtwerke Soest Energiedienstleistungs GmbH		Gährenweg 2z	59494	Soest	51.546955	8.003236	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1041856	Stadtwerke Soest Energiedienstleistungs GmbH		Walburger-Osthofen-Wallstraße 13z	59494	Soest	51.574933	8.114199	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1043543	Allego		Schuetzenstr. 67	59505	Bad Sassendorf	51.579043	8.158500	1		Keine Beschränkung	DEALLEGO002857*1~CCS2:150|DEALLEGO002857*2~CCS2:150
+1045934	Stadtwerke Warendorf GmbH		Am Krankenhaus 4z	48231	wa	51.960174	8.001734	1			~TYPE2:22|~TYPE2:22
+1047464	Otto Scharpenberg		Köntrup 22	59320	Ennigerloh	51.862980	8.108460	1			~TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1047466	Otto Scharpenberg		Köntrup 22	59320	Ennigerloh	51.862770	8.108546	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2:11
+1047953	Stadtwerke Soest Energiedienstleistungs GmbH	AquaFun Soest	Ardeyweg 35	59494	Soest	51.569341	8.077987	1	24/7	Nur für Kunden/Besucher	DE*EDL*E291800*001~TYPE2:22|DE*EDL*E291800*002~TYPE2:22|DE*EDL*E291802*001~TYPE2:22|DE*EDL*E291802*002~TYPE2:22
+1047954	Stadtwerke Soest Energiedienstleistungs GmbH	Stadthalle Soest Dasselwall	Dasselwall 5	59494	Soest	51.566150	8.104648	1	24/7	Keine Beschränkung	DE*EDL*E2394730*001~TYPE2:22|DE*EDL*E2394730*002~TYPE2:22|DE*EDL*E2394730*003~TYPE2:22|DE*EDL*E2394730*004~TYPE2:22
+1047956	Stadtwerke Soest Energiedienstleistungs GmbH	Severinstraße Parkplatz Großer Teich	Severinstr. 10	59494	Soest	51.573082	8.110297	1	24/7	Keine Beschränkung	DE*EDL*E276500*003~TYPE2:11|DE*EDL*E276500*004~TYPE2:11|DE*EDL*E276500*005~TYPE2:11|DE*EDL*E276500*006~TYPE2:11
+1047965	Stadtwerke Soest Energiedienstleistungs GmbH	Sekundarschule / Bruno Grundschule	Rüthener Str. 12	59494	Soest	51.563016	8.118313	1	24/7	Keine Beschränkung	DE*EDL*E2408042*001~TYPE2:22|DE*EDL*E2408042*002~TYPE2:22|DE*EDL*E2408042*003~TYPE2:22|DE*EDL*E2408042*004~TYPE2:22
+1047966	Stadtwerke Soest Energiedienstleistungs GmbH	Soest Deiringsen	Der Mühlenweg 2	59494	Soest	51.532871	8.080010	1	24/7	Keine Beschränkung	DE*EDL*E2506545*001~TYPE2:22|DE*EDL*E2506545*002~TYPE2:22
+1047967	Stadtwerke Soest Energiedienstleistungs GmbH	Georg-Plange-Platz	Nelmannwall 2	59494	Soest	51.570464	8.117221	1	24/7	Keine Beschränkung	DE*EDL*E685028*001~TYPE2:22|DE*EDL*E685028*002~TYPE2:22|DE*EDL*E685028*003~TYPE2:22|DE*EDL*E685028*004~TYPE2:22
+1047969	Stadtwerke Soest Energiedienstleistungs GmbH	Torschreiberweg neben Kita Petrus	Torschreiberweg 15	59494	Soest	51.586298	8.114561	1	24/7	Keine Beschränkung	DE*EDL*E2588975*001~TYPE2:22|DE*EDL*E2588975*002~TYPE2:22|DE*EDL*E2588978*001~TYPE2:22|DE*EDL*E2588978*002~TYPE2:22
+1048165	Stadtwerke Ostmünsterland GmbH & Co. KG	Sünninghausen	Dorfstr. 30	59302	Oelde	51.768630	8.150660	1	24/7	Keine Beschränkung	DE*OML*E24OE3*~TYPE2:22+TYPE2:22
+1048444	Lidl		Am Bahnhof 4	33397	Rietberg	51.817588	8.430122	1			~TYPE2:22|~TYPE2:22
+1048447	Lidl		Bielefelder Str. 55	33378	Rheda-Wiedenbrück	51.842300	8.317100	1			~TYPE2:22|~TYPE2:22
+1048482	Lidl		Westring 11	33415	Verl	51.878790	8.491260	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22+CHADEMO:22
+1048566	Lidl		Schürenstr. 51	48336	Sassenberg	51.981790	8.036510	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:50+CCS2:50|~TYPE2:43+TYPE2_TETHERED:43+CHADEMO:43
+1048837	Lidl	6697_Lidl_Geseke_T54-HU1-4720-012	Störmeder Str. 40	59590	Geseke	51.639623	8.493577	1		Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50+CHADEMO:50
+1048915	Lidl	6622_Lidl_Gütersloh_T65-IT1-2222-083	Neuenkirchener Str. 100	33332	Gütersloh	51.893655	8.380950	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1050445	Pfalzwerke AG		Hans-Böckler-Straße 0	33334	Gütersloh	51.883901	8.354353	1			~CCS2:150|~CCS2:150
+1050492	Pfalzwerke AG		Am Mondschein 0	59557	Lippstadt	51.676000	8.371000	1			~CCS2:225|~CCS2:225|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1051667	AVIA Volt		Carl-Berstelsmann-Straße 255	33335	Gütersloh	51.909993	8.419774	1			~CCS2:150+CHADEMO:150|~CCS2:150
+1051695	MER Germany		Aurea 3	33378	Rheda-Wiedenbrück	51.831173	8.219114	1			~CCS2:150+CHADEMO:150|~CCS2:150|~CCS2:225|~CCS2:225|~TYPE2:22|~CCS2:62+CHADEMO:62
+1053225	Charge Construct GmbH		Hülsbrockstraße 79 a	33343	Gütersloh	51.919692	8.408718	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1054670	Aral Pulse		Overweg 33	59494	Soest	51.553549	8.158549	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054811	Aral Pulse		Neubeckumer Straße 72	59269	Beckum	51.767925	8.040848	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1057000	Elektro Holtkamp GmbHJH		Dieselstr. 13-19	33442	Herzebrock-Clarholz	51.879417	8.228500	1			~TYPE2:22|~TYPE2:22
+1057003	Stadtwerke Gütersloh GmbH		Mauerstraße 0	33330	Gütersloh	51.909950	8.381290	1			~TYPE2:22|~TYPE2:22
+1057004	Stadtwerke Gütersloh GmbH		Am Wochenmarkt 0	33330	Gütersloh	51.911940	8.378050	1			~TYPE2:22|~TYPE2:22
+1057005	Stadtwerke Gütersloh GmbH		Westfalenweg 0	33330	Gütersloh	51.894722	8.380000	1			~TYPE2:22|~TYPE2:22
+1057006	Stadtwerke Gütersloh GmbH		Vennstraße 0	33330	Gütersloh	51.912148	8.371618	1			~TYPE2:22|~TYPE2:22
+1057007	Stadtwerke Gütersloh GmbH		Schlüterstraße 0	33330	Gütersloh	51.916100	8.371320	1			~TYPE2:22|~TYPE2:22
+1057008	Stadtwerke Gütersloh GmbH		Virchowstraße 0	33332	Gütersloh	51.896389	8.386667	1			~TYPE2:22|~TYPE2:22
+1057009	Stadtwerke Gütersloh GmbH		Herzebrockerstraße 0	33334	Gütersloh	51.903870	8.348830	1			~TYPE2:22|~TYPE2:22
+1057013	Stadtwerke Gütersloh GmbH		Herzebrockerstraße 142	33334	Gütersloh	51.904723	8.347477	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057015	Stadtwerke Gütersloh GmbH		Saligmannsweg 42	33330	Gütersloh	51.906757	8.360252	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057016	Stadtwerke Gütersloh GmbH		Saligmannsweg 46	33330	Gütersloh	51.906703	8.360247	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057017	Stadtwerke Gütersloh GmbH		Goethestraße 24	33330	Gütersloh	51.916992	8.385789	1			~CCS2:75|~CCS2:75
+1057018	Stadtwerke Gütersloh GmbH		Goethestraße 24	33330	Gütersloh	51.917022	8.385721	1			~CCS2:75|~CCS2:75
+1057019	Stadtwerke Gütersloh GmbH		Dalkestraße 10	33334	Gütersloh	51.901539	8.377914	1			~CCS2:75|~CCS2:75
+1057020	Stadtwerke Gütersloh GmbH		Dalkestraße 10	33334	Gütersloh	51.901461	8.377731	1			~CCS2:75|~CCS2:75
+1057021	Stadtwerke Gütersloh GmbH		Brockweg 108	33332	Gütersloh	51.887952	8.374332	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057022	Stadtwerke Gütersloh GmbH		Avenwedder Str. 88	33335	Gütersloh	51.913151	8.435277	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057024	Stadtwerke Gütersloh GmbH		Isselhorster Str. 247A	33335	Gütersloh	51.938970	8.437427	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1057025	Stadtwerke Gütersloh GmbH		Isselhorster Str. 247A	33335	Gütersloh	51.938934	8.437310	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1057026	Stadtwerke Gütersloh GmbH		Am Wochenmarkt 0	33330	Gütersloh	51.912157	8.377742	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057027	Stadtwerke Gütersloh GmbH		Am Wochenmarkt 0	33330	Gütersloh	51.912204	8.377883	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057028	Stadtwerke Gütersloh GmbH		Webereistraße 6	33330	Gütersloh	51.901356	8.375789	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057029	Stadtwerke Gütersloh GmbH		Webereistraße 6	33330	Gütersloh	51.901315	8.375749	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|DECPIE69030251~TYPE2:22|DECPIE69030252~TYPE2:22
+1057030	Stadtwerke Gütersloh GmbH		Adlerweg 0	33335	Gütersloh	51.936546	8.483068	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057031	Stadtwerke Gütersloh GmbH		Adlerweg 0	33335	Gütersloh	51.936554	8.483126	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1060281	Pluq		Kossberg 1	59510	Lippetal	51.669466	8.150207	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1061326	Allego		Windmüllerstr. 1	59557	Lippstadt	51.658917	8.364906	1	24/7	Keine Beschränkung	DEALLEGO003589_1~CCS2:150|DEALLEGO003589_2~CCS2:150|DEALLEGO003595_1~CCS2:150|DEALLEGO003595_2~CCS2:150|DEALLEGO003753_1~CCS2:50|DEALLEGO003753_2~CCS2:50|DEALLEGO003768_1~CCS2:50|DEALLEGO003768_2~CCS2:50|DEALLEGO003772_1~CCS2:50|DEALLEGO003772_2~CCS2:50
+1061440	Allego		Hauptstr. 69	33378	Rheda-Wiedenbrück	51.838327	8.300825	1	24/7	Keine Beschränkung	DEALLEGO003127_1~CCS2:150|DEALLEGO003127_2~CCS2:150
+1062443	Stadtwerke Gütersloh GmbH	Magnolienweg 1	Magnolienweg 0	33330	Gütersloh	51.927045	8.387299	1	24/7	Keine Beschränkung	DECPIE69308751~TYPE2:22|DECPIE69308752~TYPE2:22
+1062444	Stadtwerke Gütersloh GmbH	Magnolienweg 2	Magnolienweg 0	33330	Gütersloh	51.927057	8.387263	1	24/7	Keine Beschränkung	DECPIE69308651~TYPE2:22|DECPIE69308652~TYPE2:22
+1062446	Stadtwerke Gütersloh GmbH	Stadthalle	Friedrichstr. 10	33330	Gütersloh	51.906914	8.371526	1	24/7	Keine Beschränkung	DECPIE69259851~TYPE2:22|DECPIE69259852~TYPE2:22
+1062527	Stadtwerke Gütersloh GmbH	Weberei 4	Webereistr. 6	33330	Gütersloh	51.901434	8.375877	1	24/7	Keine Beschränkung	DECPIE69030351~TYPE2:22|DECPIE69030352~TYPE2:22
+1062884	HD Kottmeyer Beteiligungs GmbH & Co. KG		Berliner Ring 44a	33428	Harsewinkel	51.966556	8.244361	1		Nur für Kunden/Besucher	DE*ONE*ET7TX~TYPE2:11|DE*ONE*EMMV6~TYPE2:11|DE*ONE*E2VKH~TYPE2:11|DE*ONE*E4LMM~TYPE2:11
+1063395	BERDING BETON GmbH		Delecker Weg 33	59519	Möhnesee	51.506360	8.085180	1			~TYPE2:22|~TYPE2:22
+1063714	SWW		Dalmerweg 44	59269	Beckum	51.750278	8.036111	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063715	SWW		Sternstr. 22	59269	Beckum	51.756600	8.045109	1			~TYPE2:22|~TYPE2:22|~CCS2:75|~CCS2:75
+1063716	SWW		Bahnhofstr. 5	59269	Beckum	51.801896	8.022911	1			~TYPE2:22|~TYPE2:22
+1063718	SWW		Gustav-Moll-Str. 2	59269	Beckum	51.799000	8.025380	1			~TYPE2:22|~TYPE2:22
+1063719	SWW		Weststr. 46	59269	Beckum	51.755500	8.036120	1			~TYPE2:22|~TYPE2:22
+1063721	SWW		Nordwall 3	59269	Beckum	51.756944	8.039444	1			~TYPE2:22|~TYPE2:22
+1063722	SWW		Obere Brede 1	59269	Beckum	51.772500	8.032222	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1063724	SWW		Obere Brede 1	59269	Beckum	51.772639	8.032595	1			~TYPE2:22|~TYPE2:22
+1063725	SWW		Obere Brede 1	59269	Beckum	51.772627	8.032475	1			~TYPE2:11|~TYPE2:22
+1063726	SWW		Obere Brede 1	59269	Beckum	51.772495	8.032576	1			~TYPE2:22|~TYPE2:22
+1063727	SWW		Obere Brede 1	59269	Beckum	51.772683	8.032672	1			~TYPE2:22|~TYPE2:22
+1063728	SWW		Obere Brede 1	59269	Beckum	51.772711	8.032273	1			~TYPE2:22|~TYPE2:22
+1063729	SWW		Alleestraße 36	59269	Beckum	51.757105	8.037018	1			~TYPE2:22|~TYPE2:22
+1063730	SWW		Poststraße 4	59269	Beckum	51.759221	8.041169	1			~TYPE2:22|~TYPE2:22
+1063731	SWW		Weststraße 32 32	59269	Beckum	51.755336	8.038178	1			~TYPE2:22|~TYPE2:22
+1063732	SWW		Sternstraße 22	59269	Beckum	51.756615	8.044962	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064104	Kaufland	7510_Kland_Rheda-Wiedenbrück_T53-HU1-4817-009	Bahnhofstr. 36	33378	Rheda-Wiedenbrück	51.853002	8.287328	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064254	Kaufland	4343_Kland_Gütersloh_T65-IT1-2822-166	Am Anger 22	33332	Gütersloh	51.899743	8.401545	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1065141	SMATRICS GmbH & Co KG		Dieselstraße 6	48361	Beelen	51.930630	8.095350	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1065144	SMATRICS GmbH & Co KG		Dieselstraße 6	48361	Beelen	51.931630	8.096560	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1066774	Casa di Moto GmbH		Gütersloher Str. 339	33649	Bielefeld	51.966723	8.459628	1			~TYPE2:11
+1067127	Paul Daut GmbH & Co. KG		Heiligenhäuschenweg 84	33378	Rheda-Wiedenbrück	51.849817	8.316091	1			~TYPE2_TETHERED:11
+1067128	Paul Daut GmbH & Co. KG		Heiligenhäuschenweg 84	33378	Rheda-Wiedenbrück	51.849836	8.316153	1			~TYPE2_TETHERED:11
+1067194	SWW	Jobcenter Dalmerweg	Dalmerweg 77	59269	Beckum	51.747524	8.037065	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1067195	SWW		Gustav-Moll-Str. 47a	59269	Beckum	51.797573	8.019489	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1067200	SWW		Gustav-Moll-Str. 47a	59269	Beckum	51.797501	8.019589	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1067218	Wattif Europe GmbH	Beckum Hotel Dreams Soestwarte 1 Ravensberger Hof	Soestwarte 1	59269	Beckum	51.734590	8.058884	1	24/7	Keine Beschränkung	DEUBECHDB01~TYPE2:22|DEUBECHDB02~TYPE2:22|DEUBECHDB03~TYPE2:22|DEUBECHDB04~TYPE2:22
+1067903	Klaus Göttgens Vermögens-und Grundstücksverwaltung GmbH		Werler Landstraße 24	59494	Soest	51.563390	8.083660	1			~TYPE2:50+TYPE2_TETHERED:50|~TYPE2:50+TYPE2_TETHERED:50|~TYPE2_TETHERED:50+CCS2:50|~TYPE2:50+TYPE2_TETHERED:50
+1067925	Schröder Team Verl VW		Nickelstraße 6	33415	Verl	51.875570	8.457610	1		Keine Beschränkung	~CCS2:24|~TYPE2:22
+1067933	CARTEC Ladesäulen		Erwitter Straße 105	59557	Lippstadt	51.659820	8.344470	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068097	Cremer-Heitmann GmbH & Co. KG		Beckumer Straße 32	48231	Warendorf	51.945259	8.012947	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1068134	Porsche Zentrum Soest		Am Bohnenpfad 2	59494	Soest	51.552761	8.098855	1			~CCS2:320|~CCS2:320|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068136	Porsche Zentrum Soest		Am Bohnenpfad 2	59494	Soest	51.552649	8.099277	1			~CCS2:350|~CCS2:350
+1068191	Green Hub OWL		Lippstädter Straße 3	33659	Bielefeld	51.950099	8.498867	1			~TYPE2:22|~TYPE2:22
+1068192	Green Hub OWL		Lippstädter Straße 3	33659	Bielefeld	51.950094	8.498974	1			~TYPE2:22|~TYPE2:22
+1068193	Green Hub OWL		Lippstädter Straße 3	33659	Bielefeld	51.950094	8.499106	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068236	ihrportal		Wiesenstraße 32	33397	Rietberg	51.722526	8.376933	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068704	Hof Elfental		Mönkeweg 189	33334	Gütersloh	51.974860	8.369298	1			~TYPE2_TETHERED:11+SCHUKO:11
+1069600	UEW eG		Liesborner Straße 5	59329	Wadersloh	51.734695	8.248213	1			~TYPE2:22|~TYPE2:22
+1069601	UEW eG		Im Klostergarten 24	59329	Wadersloh	51.714277	8.260840	1			~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1069602	UEW eG		Von-Wendt-Straße 40	59329	Wadersloh	51.733958	8.171926	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22
+1069604	UEW eG		Konrad-Adenauer-Straße 2	59329	Wadersloh	51.742099	8.248059	1			~TYPE2:11
+1069857	Öffentlicher Ladepark SE Solutions GmbH		Am Osternkamp 32	33334	Gütersloh	51.957179	8.366105	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1069906	Wickern Elektrotechnik GmbH	Firma Wickern Elektrotechnik	Bruno-Kleine-Str. 11	33428	Marienfeld	51.956320	8.296160	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070002	Fleischerei Timmer		Westenholzer Straße 5	33154	Salzkotten	51.706420	8.482530	1			~TYPE2:22|~TYPE2:22
+1070619	Volksbank Hellweg eG		Westenhellweg 1	59494	Soest	51.567661	8.099595	1			~TYPE2:22|~TYPE2:22
+1071711	Daniel Tigges		Ludgerusstrasse 14	59302	Oelde	51.829741	8.146396	1			~TYPE2_TETHERED:7
+1073105	Edeka Carsten Recker	Parkplatz Edeka Recker	Gustav-Moll-Str. 4-12	59269	Beckum	51.799008	8.023947	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1074925	Bernd Reinberger		Königsberger Straße 4	59558	Lippstadt	51.703903	8.363406	1			~TYPE2_TETHERED:11
+1074953	Dr. Reilmann & Goodson GmbH		Eickelbornstr. 3	59556	Lippstadt	51.653342	8.214694	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:50+CCS2:50
+1075068	Klinik Solequelle Kemper GmbH		Mühlenweg 13	59597	Erwitte	51.628830	8.355430	1			~TYPE2_TETHERED:11
+1075069	Klinik Solequelle Kemper GmbH		Mühlenweg 13	59597	Erwitte	51.628840	8.355350	1			~TYPE2_TETHERED:11
+1075070	Klinik Solequelle Kemper GmbH		Mühlenweg 13	59597	Erwitte	51.628780	8.355230	1			~TYPE2_TETHERED:11
+1075185	Stadtwerk Verl GmbH		Paderborner Str. 28	33415	Verl	51.889653	8.465758	1			~TYPE2:22|~TYPE2:22
+1075913	Autohaus Markötter GmbH		Auf ´m Kampe 1-11	33334	Gütersloh	51.885324	8.360378	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076536	Schenke Delikatessen GmbH &Co.Kg		Hauptstr. 35	33378	Rheda-Wiedenbrück	51.836111	8.301667	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076661	Stadtwerke Geseke		Hauptstr. 4	59590	Geseke	51.657160	8.451630	1			~TYPE2:22|~TYPE2:22
+1076981	R&B Wullengerd OHG		Paderborner Str. 102	33335	Gütersloh	51.926940	8.486400	1	24/7	Keine Beschränkung	DE*ONE*EHRW4~CCS2:200|DE*ONE*EDWM8~CCS2:200
+1077030	Klinik Solequelle Kemper GmbH	Klinik Solequelle (Haupteingang)	Mühlenweg 13	59597	Erwitte	51.629823	8.354671	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077243	Sancar E-Technik Gbr		Friedhofstr. 11	33330	Gütersloh	51.902509	8.372354	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077748	Stadtwerke Gütersloh GmbH	Bultmannstraße 1	Bultmannstr. 9	33330	Gütersloh	51.900430	8.371156	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22
+1077752	Stadtwerke Gütersloh GmbH	Bultmannstraße 2	Bultmannstr. 9	33330	Gütersloh	51.900432	8.371327	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077757	Stadtwerke Gütersloh GmbH	Ludwigstraße 1	Ludwigstr. 2	33330	Gütersloh	51.899967	8.365897	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077762	Stadtwerke Gütersloh GmbH	Ludwigstraße 2	Ludwigstr. 2	33330	Gütersloh	51.900143	8.365919	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077771	Stadtwerke Gütersloh GmbH	Oststraße 1	Oststr. 1	33332	Gütersloh	51.899322	8.387638	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077772	Stadtwerke Gütersloh GmbH	Oststraße 2	Oststr. 1	33332	Gütersloh	51.899390	8.387795	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077774	Stadtwerke Gütersloh GmbH	Dalkestraße	Dalkestr. 1	33330	Gütersloh	51.903109	8.377457	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077778	Stadtwerke Gütersloh GmbH	Goldweg 1	Goldweg 1	33334	Gütersloh	51.946914	8.409246	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1077782	Stadtwerke Gütersloh GmbH	Wilhelmwolfstr. 1	Wilhelm-Wolf-Str. 1	33330	Gütersloh	51.903478	8.369082	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1077949	EDEKA-MIHA Charge GmbH		Hauptstr. 5	33449	Langenberg	51.775562	8.322486	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:22
+1077951	EDEKA-MIHA Charge GmbH		Hauptstr. 5	33449	Langenberg	51.775576	8.322415	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2_TETHERED:22
+1078000	Stadtwerke Soest Energiedienstleistungs GmbH	Lendringser Weg (FH Soest)	Lendringser Weg 4z	59494	Soest	51.561189	8.111963	1	24/7	Keine Beschränkung	DE*EDL*E2722317*001~TYPE2:22|DE*EDL*E2722317*002~TYPE2:22
+1078072	Finanzberatung Kemal e.K		Herringser Weg 4A	59494	Soest	51.552127	8.117103	1	24/7	Keine Beschränkung	~TYPE2:22
+1080494	PÖLTER bei MARKUS T		An der Manufaktur 7	33334	Gütersloh	51.945906	8.410291	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1080641	Christian Vennemeyer		Beelener Strasse 1	59302	Oelde	51.883342	8.158564	1			~TYPE2:22|~TYPE2:22+TYPE2_TETHERED:22
+1080735	JSC Timework GmbH		Warendorferstr 38	59320	Ennigerloh	51.840300	8.030900	1			~TYPE2:5
+1080887	ABK Einkaufsverband GmbH & Co.KG		Pfälzer Str. 10	33332	Gütersloh	51.913560	8.392440	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1081340	Autohaus Erwin Schmidt GmbH & Co. KG		Arnsberger Str. 30	59494	Soest	51.560548	8.105275	1			~TYPE2:22|~TYPE2:22
+1083922	K60-Gitterrostsysteme GmbH & Co. KG		Grüner Weg 13	33449	Langenberg	51.760776	8.327327	1			~CCS2:120|~CCS2:120
+1083991	Mühlenkamp Hotel & Gastronomie		Geiststraße 36	59302	Oelde	51.822120	8.141760	1			~TYPE2:11|~TYPE2:11
+1084263	Sparkasse Münsterland Ost		Überwasserstraße 2	59329	Wadersloh	51.737157	8.247421	1			~TYPE2:22
+1084569	Alexander Sterzl		Berliner Straße 13	59329	Wadersloh	51.705835	8.248963	1			~TYPE2_TETHERED:7
+1084634	Andreas Ditz		Rosenkamp 18	59602	Rüthen	51.525210	8.404580	1			~TYPE2_TETHERED:11
+1084705	Andy Thielke		Kohbrede 27	33442	Herzebrock-Clarholz	51.910819	8.189543	1			~TYPE2:10
+1084760	autoForum Wiegers GmbH		Verler Straße 321	33334	Gütersloh	51.884321	8.427912	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~CCS2:22
+1084795	Autohaus Grundmeier GmbH		Gütersloher Straße 33	33428	Harsewinkel	51.964282	8.233368	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1084860	Autohaus Walter Ritzel GmbH & Co. KG		Roßfeld 78	59557	Lippstadt	51.670419	8.366775	1			~TYPE2:22|~TYPE2:22
+1085011	Bosch Car Service Mischok-Team		Marienstraße 30	33332	Gütersloh	51.909305	8.403322	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1085228	Dalkmann Automobile GmbH & Co. KG		Adam-Opel-Straße 1	33334	Gütersloh	51.942186	8.434902	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1085429	Dominica Qual		Danzigerstrasse 15	48336	Sassenberg	51.992991	8.044371	1			~TYPE2_TETHERED:11
+1085844	Grumbach GmbH & Co. KG		In der Heide 2	33428	Harsewinkel	51.982558	8.164653	1			~TYPE2:22|~TYPE2:22
+1085870	Günter Staeck		Niemöllerallee 16	59555	Lippstadt	51.684115	8.329078	1			~CCS2:16
+1085919	Harald Reuter		Feuerstrasse 1A	59510	Lippetal	51.692626	8.130080	1			~TYPE2_TETHERED:11
+1086152	Timm Frankrone		Bultstraße 3	59320	Ennigerloh	51.885188	8.039150	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086171	Jan Luca Wiehenstroth		Röhrheide 40	33335	Gütersloh	51.930666	8.436098	1			~TYPE2_TETHERED:11
+1086203	Jens Behrens		Im Nahtfeld 26	59556	Lippstadt	51.662897	8.306887	1			~TYPE2_TETHERED:11
+1086218	Jens Höbel		Cheruskerstraße 26	33647	Bielefeld	51.988958	8.498665	1			~TYPE2_TETHERED:11
+1086328	Jörg Reiling		Ostpreußenweg 3	33378	Rheda-Wiedenbrück	51.834921	8.298513	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086335	Jörg Wecke		Arminstraße 18	33649	Bielefeld	51.995102	8.481041	1			~TYPE2_TETHERED:11
+1086374	Jürgen Böckmann		Auf den Gärten 5	59609	Anröchte	51.555671	8.270783	1			~TYPE2_TETHERED:11
+1086432	Karsten Bansemer		Schulbach 9	33378	Rheda-Wiedenbrück	51.803573	8.295988	1			~TYPE2:11|~TYPE2:11
+1086505	Knut Frerichs		Hofwiese 7b	59329	Wadersloh	51.711618	8.251505	1			~TYPE2_TETHERED:11
+1086847	Martin Hell		Neuenkirchener Straße 47	33397	Rietberg	51.827602	8.448779	1			~TYPE2:22
+1086885	Martina Peterburs		Im Stadtfeld 1	33378	Rheda-Wiedenbrück	51.845858	8.299742	1			~TYPE2:11
+1086989	Michael Botta		Angenetestraße 50	33332	Gütersloh	51.894170	8.379980	1			~TYPE2:11
+1087208	Oliver Faber		Speckenstraße 28	59302	Oelde	51.802191	8.195045	1			~TYPE2_TETHERED:22
+1087507	Reinhard Pratzer		Am Rothenbach 28	33397	Rietberg	51.826674	8.403940	1			~TYPE2_TETHERED:11
+1087692	Sebastian Klempin		Schneiderstraße 61A	33449	Langenberg	51.765604	8.317675	1			~TYPE2_TETHERED:11
+1087745	Silvio Kurmas		Albert-Einstein-Weg 3	33449	Langenberg	51.783492	8.315386	1			~TYPE2:11
+1088102	Thomas Schulte		Dahneweg 6	59609	Anröchte	51.555380	8.250238	1			~TYPE2_TETHERED:11
+1088147	Thorsten Reinert		Birkenweg 37	33335	Gütersloh	51.924140	8.441191	1			~TYPE2:11|~TYPE2:11
+1088272	Udo Twehues		Langefort 53	48336	Sassenberg	51.984946	8.047288	1			~TYPE2:11
+1088286	Ulrich Neumann		Rothertstraße 29	59555	Lippstadt	51.687361	8.323873	1			~TYPE2_TETHERED:11
+1088348	Volksbank Störmede-Hörste eG		Kirchstraße 6A	59590	Geseke	51.638680	8.470275	1			~TYPE2_TETHERED:11
+1089525	Jens Michael Peters		Herenfridstraße 14	59494	Soest	51.568595	8.095620	1			~TYPE2:11
+1089530	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.672775	8.358973	1			~TYPE2:11|~TYPE2:11
+1089531	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.672772	8.358912	1			~TYPE2:11|~TYPE2:11
+1089532	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.673063	8.361591	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089534	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.672996	8.358171	1			~TYPE2:11|~TYPE2:11
+1089535	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.672955	8.358146	1			~TYPE2:11|~TYPE2:11
+1089536	Hella GmbH und Co. KGaA		Rixbecker Straße 75	59552	Lippstadt	51.672919	8.358122	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089538	Hella GmbH und Co. KGaA		Beckumer Straße 130	59555	Lippstadt	51.682563	8.312398	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089540	Hella GmbH und Co. KGaA		Beckumer Straße 130	59555	Lippstadt	51.682706	8.312466	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1089542	Hella GmbH und Co. KGaA		Beckumer Straße 130	59555	Lippstadt	51.682044	8.312821	1			~TYPE2:11|~TYPE2:11
+1089543	Hella GmbH und Co. KGaA		Beckumer Straße 130	59555	Lippstadt	51.682078	8.312846	1			~TYPE2:11|~TYPE2:11
+1089544	Hella GmbH und Co. KGaA		Beckumer Straße 130	59555	Lippstadt	51.679889	8.321517	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1090051	EnBW mobility+ AG und Co.KG		Schützenstr. 15	59505	Bad Sassendorf	51.583800	8.161410	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1091180	Arens Immobilien Verwaltungs- GmbH		Altes Stellwerk 9	59494	Soest	51.575580	8.114580	1			~TYPE2:22|~TYPE2:22
+1091184	Schenke Delikatessen GmbH & CO. KG		Carl-Bertelsmann-Straße 11	33332	Gütersloh	51.905400	8.400500	1			~TYPE2:22|~TYPE2:22
+1091185	Schenke Delikatessen GmbH & CO. KG		Hauptstraße 35	33378	Rheda-Wiedenbrück	51.835760	8.301780	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091187	Schenke Delikatessen GmbH & CO. KG		Rhedaer Straße 43	33330	Gütersloh	51.893980	8.362970	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1091619	Gemeindewerke Steinhagen Service GmbH & Co. KG		Brockhagener Str. 224	33803	Steinhagen	51.992025	8.348526	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091624	Gemeindewerke Steinhagen Service GmbH & Co. KG		Am Cronsbach 10	33803	Steinhagen	51.999471	8.423204	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091939	Thys Wohnpark GmbH		Am Lippbach 2	59269	Beckum	51.750066	8.053649	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22
+1092848	Hörmann KG Antriebstechnik		Michaelisstr. 1	33803	Steinhagen	51.985278	8.349393	1		Nur für Kunden/Besucher	~TYPE2:11+TYPE2:11
+1092977	Jost Schwider		Vor dem Schültingertor 27 B	59494	Soest	51.580500	8.107600	1			~TYPE2_TETHERED:11
+1093184	Volksbank Anröchte eG		Obere Kirchstraße 3	59609	Anröchte	51.558555	8.326159	1			~TYPE2_TETHERED:44|~CCS2:50+CHADEMO:50
+1093391	er elektronik GmbH		Drillmakersweg 22	33428	Harsewinkel	51.977000	8.150000	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1093536	Eberlein KG		Mörikestr. 10	59505	Bad Sassendorf	51.581380	8.171782	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1093537	Eberlein KG		Alleestr. 3	59505	Bad Sassendorf	51.581960	8.170950	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1096531	Autohaus am Südtor GmbH		Mastholter Str. 50	33397	Rietberg	51.802965	8.421483	1			~CCS2:22|~TYPE2:11
+1096577	Autohaus Brinker Gmbh		Haller Str. 79	33334	Gütersloh	51.942296	8.412472	1			~TYPE2:11|~CCS2:22
+1097357	H. Gretenkort GmbH		Westriceg 2	59302	Oelde	51.823674	8.126240	1			~CCS2:22|~TYPE2:11|~TYPE2:22
+1097452	Leweling GmbH & Co.KG		Wiedenbrücker Str. 138	33449	Langenberg	51.789854	8.320937	1			~CCS2:22|~TYPE2:11
+1097465	Mense GmbH		Gneisenaustraße 2	33330	Gütersloh	51.916494	8.391178	1			~CCS2:22|~TYPE2:11
+1097466	Mense GmbH		Verler Str. 280	33332	Gütersloh	51.886881	8.420127	1			~CCS2:22|~TYPE2:11
+1097705	stadtraum Gesellschaft für Raumplanung, Städtebau & Verkehrstechnik mbH	Fa.Lehde Ladesäule Rechts	Sassendorfer Weg 8	59494	Soest	51.578614	8.133446	1	24/7	Keine Beschränkung	DE*MTD*E3197602*001~TYPE2:22|DE*MTD*E3197602*002~TYPE2:22
+1097847	Knubel GmbH & Co. KG		Neubeckumer Str. 74c	59269	Beckum	51.767188	8.041285	1		Keine Beschränkung	~CCS2:22|~TYPE2:11
+1102328	Börger Elektrotechnik GmbH		Gütersloher Str. 18	33378	Rheda-Wiedenbrück	51.854219	8.297260	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102423	Josephs-Hospital Warendorf		Am Krankenhaus 2	48321	Warendorf	51.960569	8.001808	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102834	Lippstädter Ladesäulen GmbH	An der Rosenau Parkplatz	An der Rosenau 0	59505	Bad Sassendorf	51.585116	8.166590	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1103115	SWW	Nordwall / 23BZ3303A	Nordwall 2	59269	Beckum	51.757423	8.039595	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1103135	SWW	Hauptstraße / 23BZ3311A	Hauptstr. 1	59269	Beckum	51.802176	8.023860	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1103144	SWW	Dorfstraße / 23BZ3306A	Dorfstr. 33	59269	Beckum	51.787979	8.071473	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1103330	Kaufland	8290_KLand_Lippstadt_T65-IT1-2824-009	Planckstr. 1	59557	Lippstadt	51.655172	8.345896	1	Mo-Sa 07:00-22:00	Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1103473	Pluq		Albert-Brand-Str. 3	59590	Geseke	51.637750	8.467161	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103474	Pluq	59590	Albert-Brand-Str. 3	59590	Geseke	51.637751	8.467161	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103857	Westerbarkei	Westerbarkei	Wiedenbrücker Str. 33	33415	Verl	51.872840	8.455030	1	24/7	Keine Beschränkung	DE*ONE*ERV43~CCS2:50|DE*ONE*ES4QU~CCS2:50|DE*ONE*EHSY3~CCS2:50|DE*ONE*EAJV3~CCS2:50|DE*ONE*E9GE3~CCS2:400|DE*ONE*E8AN4~CCS2:400|EV28R~CCS2:200|E4HZG~CCS2:200
+1104021	Hairstyle by Nazan		Rigge 1	59320	Ennigerloh	51.877848	8.039522	1		Nur für Kunden/Besucher	~TYPE2:11
+1104272	Sparkasse Hellweg-Lippe		Spielplatzstr. 10	59555	Lippstadt	51.671906	8.345647	1			~TYPE2:22|~TYPE2:22
+1104300	Autohaus Helmut Oesterhelweg e.K.		Berliner Strasse 247	33330	Gütersloh	51.920818	8.397543	1			~TYPE2:22|~TYPE2:22
+1104526	Egor Mutik	Mutik - E-Car Charger - 22kW	Wessingweg 11	59269	Beckum	51.756535	8.025432	1	Mo-So 07:00-22:00	Keine Beschränkung	~TYPE2:22
+1104572	CrämerSchmäling GmbH	AVIA Volt Ladepark Soest	Overweg 19a	59494	Soest	51.556873	8.144128	1	24/7	Keine Beschränkung	DE*APS*E170001~CCS2:400|DE*APS*E170002~CCS2:400|DE*APS*E170003~CCS2:400|DE*APS*E170004~CCS2:400
+1104630	KAMA Nüsken OHG		Westkirchener Str. 77	59320	Ennigerloh	51.847060	8.024905	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1104631	KAMA Nüsken OHG		Westkirchener Str. 77	59320	Ennigerloh	51.846997	8.024890	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1105462	Innogy by Rodriguez		Alter Schützenplatz 17	33397	Rietberg	51.805698	8.415843	1			~TYPE2:11
+1105743	Autohaus Grundmeier		Gütersloher Straße 33	33428	Harsewinkel	51.959002	8.233906	1			~TYPE2:22|~TYPE2:22
+1107113	E.ON Drive GmbH		Südertor 2	59557	Lippstadt	51.669939	8.342991	1			~TYPE2:11
+1107188	E.ON Drive GmbH		Rudolf-Diesel-Str. 2	33428	Harsewinkel	51.967842	8.251161	1			~TYPE2:11|~TYPE2:22|~TYPE2:11|~TYPE2:22
+1107190	E.ON Drive GmbH		Rudolf-Diesel-Str. 2	33428	Harsewinkel	51.967888	8.251161	1			~TYPE2:11|~TYPE2:22
+1107467	E.ON Drive GmbH		Eckeystraße 18	59320	Ennigerloh-Ostenfelde	51.868111	8.075190	1			~TYPE2:22
+1107470	E.ON Drive GmbH		Eckeystraße 18	59320	Ennigerloh-Ostenfelde	51.866971	8.077042	1			~TYPE2:22
+1109654	Gemeinde Herzebrock-Clarholz		Marktplatz Clarholz 0	33442	Herzebrock-Clarholz	51.901846	8.193611	1			~TYPE2:22|~TYPE2:22
+1109655	Gemeinde Herzebrock-Clarholz		Am Rathaus 1	33442	Herzebrock-Clarholz	51.884406	8.231239	1			~TYPE2:22|~TYPE2:22
+1109680	Autohaus Walter Ritzel GmbH & Co. KG		Rossfeld 78	59557	Lippstadt	51.670488	8.366777	1			~TYPE2:11|~TYPE2:11
+1109790	Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG		Fontainestr. 2	33378	Rheda-Wiedenbrück	51.853372	8.289130	1			~TYPE2:22|~TYPE2:22
+1109791	Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG		Am Reckenberg 1	33378	Rheda-Wiedenbrück	51.832793	8.312404	1			~TYPE2:22|~TYPE2:22
+1109792	Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG		Hauptstr. 120	33378	Rheda-Wiedenbrück	51.841667	8.298670	1			~TYPE2:22|~TYPE2:22
+1109970	Autohaus Walkenhorst GmbH		Hülsbrockstr. 83-87	33334	Gütersloh	51.919180	8.408200	1			~TYPE2:22|~TYPE2:22
+1110178	Procar Automobile Münsterland GmbH		Sassenberger Strasse 77	48231	Warendorf	51.958028	8.010142	1			~TYPE2:22|~TYPE2:22
+1112317	Bessmann	Spielplatz	Südfeld 48A	33428	Marienfeld	51.938820	8.297710	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1112318	Bessmann		Südfeld 47	33428	Marienfeld	51.939560	8.297050	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1112319	Bessmann		Dalmer Weg 3	59510	Lippetal	51.666650	8.035290	1	Mo-Fr 10:00-18:30, Sa 09:00-16:00	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1112424	WELLER	WELLER Gütersloh	Hülsbrockstr. 83-87	33334	Gütersloh	51.918967	8.410106	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1112626	Windmann Frische-Center Erwitte GmbH & Co. KG		Wemberweg 4	59597	Erwitte	51.613578	8.351498	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1112627	Windmann Frische-Center Erwitte GmbH & Co. KG		Wemberweg 4	59597	Erwitte	51.613611	8.351619	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1112655	Auto-Meyer GmbH		James-Watt-Straße 25	33334	Gütersloh	51.920834	8.405494	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1113009	Miele & Cie. KG		Carl-Miele-Str. 29	33332	Gütersloh	51.910620	8.396189	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~CCS2:75|~CCS2:75
+1113028	Lebensmittel Einzelhandel Thorsten Rumpsmüller e.K.		Otto-Hahn-Straße 19	59557	Lippstadt	51.657220	8.329570	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1113485	OWIT- Ostwestfälische Immobilien- und Treuhand GmbH		Tulpenweg 5	33659	Bielefeld	51.946745	8.498413	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1113546	Haver & Boecker OHG	Haver & Boecker Werk 1	Friedhofsweg 1	59302	Oelde	51.825404	8.146340	1	24/7	Keine Beschränkung	DECPIE6733125~TYPE2_TETHERED:22|DECPIE6733125~TYPE2_TETHERED:22
+1113547	Haver & Boecker OHG	Haver & Boecker Werk 2	Vinckestr. 3	59302	Oelde	51.825845	8.131684	1	24/7	Keine Beschränkung	DECPIE6733545~TYPE2_TETHERED:11|DECPIE6733545~TYPE2_TETHERED:11
+1113959	Bauzentrum Lippetal		Diestedder Strasse 63	59510	Lippetal	51.669630	8.148070	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114303	Global Living GmbH		Mühlenfeld 26	33154	Salzkotten-Verlar	51.690650	8.497570	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114629	Michael Köller		Preußenweg 1	59302	Oelde	51.785194	8.167905	1			~TYPE2_TETHERED:11
+1114821	FHD GmbH & Co. KG		Wagenfeldstraße 2	33332	Gütersloh	51.892209	8.409739	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114896	Haver & Boecker OHG	Haver & Boecker Werk 6	Wiedenbrücker Str. 3	59302	Oelde	51.827929	8.156526	1	24/7	Keine Beschränkung	DECPIE6733295~TYPE2_TETHERED:22|DECPIE6733295~TYPE2_TETHERED:22
+1115176	ALDI Nord		Haselnussweg 2	59269	Beckum	51.798822	8.034839	1	24/7	Keine Beschränkung	DE ALN~CCS2:50|DE ALN~CCS2:50
+1115179	ALDI Nord		Lippweg 16	59269	Beckum	51.753003	8.048864	1	24/7	Keine Beschränkung	DE ALN~CCS2:50|DE ALN~CCS2:50
+1115522	Westfalen Weser Ladeservice GmbH	9400101	Hellweg 27	59597	Erwitte	51.612283	8.342404	1	24/7	Keine Beschränkung	DE*WWL*E9400101*01~CCS2:300|DE*WWL*E9400101*02~CCS2:300
+1115797	ALDI Nord		Prozessionsweg 43	33428	Harsewinkel	51.969768	8.221554	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1116677	Tischlerei Holste (Einzelfirma)	Ladepark Holste	Ringstr. 135	33378	Rheda-Wiedenbrück	51.841856	8.293342	1	24/7	Keine Beschränkung	Holste_AC1-1 | DE*WFX*E4830140~TYPE2:22|Holste_AC1-2 | DE*WFX*E4830141~TYPE2:22|Holste-DC1-1 | DE*WFX*E4830143~CCS2:240|Holste-DC1-2 | DE*WFX*E4830144~CCS2:240
+1117019	Cattaro GmbH		Am Schwibbogen 40	59557	Lippstadt	51.665915	8.350366	1	Mo-So 08:00-20:00	Keine Beschränkung	DE*ONE*EPD1Q~TYPE2:22
+1117072	Tischlerei Holste (Einzelfirma)	Ladepark_Holste	Ringstr. 135	33378	Rheda-Wiedenbrück	51.841827	8.293363	1	24/7	Keine Beschränkung	Holste_AC2-1 | DE*WFX*E4830142~TYPE2:22
+1117403	Kaufland	4053_KLAND_Bielefeld_T65-IT1-4023-009	Gütersloher Str. 122	33649	Bielefeld	51.986787	8.485852	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1120346	ALDI Nord	Parkplatz	Wiedenbrücker Str. 45	59555	Lippstadt	51.688300	8.341900	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1120488	Westfalen AG & Co. KG	Tankstelle	Warendorfer Str. 12	48361	Beelen	51.929736	8.120790	1	24/7	Keine Beschränkung	~CCS2:150+CCS2:150
+1120497	Leffers GmbH & Co. KG	Modehaus Leffers GmbH & Co KG	Jakobikirchstr. 1	59555	Lippstadt	51.673820	8.347200	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1120569	Pfalzwerke AG	Blumen Risse Soest	Römerweg 1	59494	Soest	51.571495	8.129504	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01423*01~CCS2:400|DE*PWA*EALP22541X01423*02~CCS2:400|DE*PWA*EALP22541X01424*01~CCS2:400|DE*PWA*EALP22541X01424*02~CCS2:400
+1120788	TotalEnergies Charging Solutions		Neubeckumer Str. 100	59269	Beckum	51.770438	8.040876	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50071*002*1~CCS2:200|DE*TCB*E3D9CS50071*002*2~CCS2:200|DE*TCB*E3D9CS50071*001*1~CCS2:200|DE*TCB*E3D9CS50071*001*2~CCS2:200
+1121115	Bessmann	Spielplatz	Südfeld 48A	33428	Marienfeld	51.938880	8.297710	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121278	Oesterhelweg Immobilien GmbH	Rietberger Straße 84	Rietberger Str. 84	33378	Rheda-Wiedenbrück	51.832958	8.326241	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1121382	Stadtwerke Soest Energiedienstleistungs GmbH	Bahnhof Soest Süd	Bahnhofstr. 2z	59494	Soest	51.577827	8.104908	1	24/7	Keine Beschränkung	DE*EDL*E3326576*001~TYPE2:22|DE*EDL*E3326576*002~TYPE2:22|DE*EDL*E3326577*001~TYPE2:22|DE*EDL*E3326577*002~TYPE2:22
+1121383	Stadtwerke Soest Energiedienstleistungs GmbH	Zinngießerweg 1	Zinngießerweg 1z	59494	Soest	51.588233	8.114426	1	24/7	Keine Beschränkung	DE*EDL*E2686531*001~TYPE2:22|DE*EDL*E2686531*002~TYPE2:22|DE*EDL*E2686533*001~TYPE2:22|DE*EDL*E2686533*002~TYPE2:22
+1121384	Stadtwerke Soest Energiedienstleistungs GmbH	Feuerwehrgerätehaus Langenberg	Wiedenbrücker Str. 35z	33449	Langenberg	51.778729	8.321514	1	24/7	Keine Beschränkung	DE*EDL*E3537395*001~TYPE2:22|DE*EDL*E3537395*002~TYPE2:22
+1121385	Stadtwerke Soest Energiedienstleistungs GmbH	Ampen B1	Werler Landstr. 227z	59494	Soest	51.552253	8.051067	1	24/7	Keine Beschränkung	DE*EDL*E3661173*001~TYPE2:22|DE*EDL*E3661173*002~TYPE2:22
+1121393	RK Autowelt Rinke & Knipps GmbH		Thomätor 12	59494	Soest	51.570450	8.119460	1		Nur für Kunden/Besucher	~CCS2:22|~TYPE2:11
+1121394	RK Autowelt Ennigerloh GmbH		Neubeckumer Str. 150	59320	Ennigerloh	51.817310	8.024150	1		Nur für Kunden/Besucher	~CCS2:22|~TYPE2:11
+1121414	MER Germany	IKEA Bielefeld (DE*MER*E011540)	Südring 7	33647	Bielefeld	51.981041	8.491296	1	24/7	Keine Beschränkung	DE*MER*E011540*01~CCS2:50|DE*MER*E011540*02~CCS2:50|DE*MER*E011570*01~CCS2:50|DE*MER*E011570*02~CCS2:50|DE*MER*E011600*01~CCS2:50|DE*MER*E011600*02~CCS2:50|DE*MER*E011630*01~CCS2:50|DE*MER*E011630*02~CCS2:50|DE*MER*E011660*01~CCS2:50|DE*MER*E011660*02~CCS2:50|DE*MER*E011720*01~CCS2:50|DE*MER*E011720*02~CCS2:50|DE*MER*E011750*01~CCS2:50|DE*MER*E011750*02~CCS2:50|DE*MER*E013974*01~CCS2:300|DE*MER*E013974*02~CCS2:300|DE*MER*E014004*01~CCS2:300|DE*MER*E014004*02~CCS2:300|DE*MER*E014034*01~CCS2:300|DE*MER*E014034*02~CCS2:300|DE*MER*E014064*01~CCS2:300|DE*MER*E014064*02~CCS2:300|DE*MER*E011690*01~CCS2:50|DE*MER*E011690*02~CCS2:50
+1121454	OWIT- Ostwestfälische Immobilien- und Treuhand GmbH	Geschäftsstelle OWIT	Tulpenweg 5	33659	Bielefeld	51.946757	8.498383	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1121700	Lippstädter Ladesäulen GmbH	Marienschule	Pauline-von-Mallinckrodt-Platz 1	59558	Lippstadt	51.710509	8.361596	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1125879	cocharge	DECOC138	Stemecke 8	59505	Bad Sassendorf	51.593071	8.155904	1	24/7	Keine Beschränkung	DE*COC*E138*01~TYPE2:11
+1127598	AVIA VOLT	AVIA Volt Ladepark Gütersloh - Neuenkirchener Str.111	Neuenkirchener Str. 111	33332	Gütersloh	51.892055	8.383815	1	24/7	Keine Beschränkung	DE*APS*E200005~CCS2:400|DE*APS*E200006~CCS2:400|DE*APS*E200003~CCS2:400|DE*APS*E200004~CCS2:400|DE*APS*E200001~CCS2:400|DE*APS*E200002~CCS2:400
+1128231	JET Tankstellen Deutschland GmbH		Neubeckumer Str. 88	59269	Beckum	51.769595	8.040961	1	24/7	Nur für Kunden/Besucher	~CCS2:300|~CCS2:300
+1128232	JET Tankstellen Deutschland GmbH		Neubeckumer Str. 88	59269	Beckum	51.769571	8.040864	1	24/7	Nur für Kunden/Besucher	~CCS2:300|~CCS2:300
+1128233	JET Tankstellen Deutschland GmbH		Neubeckumer Str. 88	59269	Beckum	51.769563	8.040784	1	24/7	Nur für Kunden/Besucher	~CCS2:300|~CCS2:300
+1128405	Merschbrock Kunststoff Spritzguss GmbH	Parkplatz Titanweg 14	Titanweg 14	33415	Verl	51.870120	8.466170	1	24/7	Keine Beschränkung	DE*EDL*E3849726*001~CCS2:50|DE*EDL*E3849726*002~TYPE2:22
+1129658	Getränkesupermarkt Schwarze EK	Trinkgut Schwarze Lippstadt	Windmüllerstr. 6a	59557	Lippstadt	51.660210	8.363474	1		Nur für Kunden/Besucher	DE*WLN*EL00765~TYPE2:22|DE*WLN*EL00766~TYPE2:22
+1130387	Stadtwerke Gütersloh GmbH	Spexarder Bauernhaus	Lukasstr. 14	33332	Gütersloh	51.881380	8.409050	1	24/7	Keine Beschränkung	DECPIE72326651~CCS2:100|DECPIE72326652~CCS2:100
+1130389	Stadtwerke Gütersloh GmbH	Welle Gütersloh	Am Anger 32	33332	Gütersloh	51.899640	8.402880	1	24/7	Keine Beschränkung	DECPIE72325051~CCS2:100|DECPIE72325052~CCS2:100
+1130531	Reload-Solution GmbH	RELOAD042	Cusanusweg 2	59494	Soest	51.565385	8.127587	1	24/7	Keine Beschränkung	DE*RLS*ERELOAD042*01~TYPE2:11
+1130532	Reload-Solution GmbH	RELOAD045	Cusanusweg 2	59494	Soest	51.565295	8.127229	1	24/7	Keine Beschränkung	DE*RLS*ERELOAD045*01~TYPE2:11
+1130622	E.ON Drive Infrastructure	Raststätte Gütersloh Nord, A2	Raststätte Gütersloh Nord, A2 0	33334	Gütersloh	51.866323	8.368908	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:300|~CCS2:300
+1131283	Tesla Germany GmbH		Rigaring 5-15	59494	Soest	51.566812	8.130355	1	24/7	Keine Beschränkung	DE*TSL*E1B9ICI~CCS2:250|DE*TSL*E1B9ICG~CCS2:250|DE*TSL*E1B9ICE~CCS2:250|DE*TSL*E1B9ICC~CCS2:250|DE*TSL*E1B9ICB~CCS2:250|DE*TSL*E1B9ICA~CCS2:250|DE*TSL*E1B9IBW~CCS2:250
+1132111	Stadtwerke Gütersloh GmbH	Georgstr. 6	Georgstr. 6	33330	Gütersloh	51.914420	8.373930	1	24/7	Keine Beschränkung	DECPIE72544251~CCS2:100|DECPIE725442522~CCS2:100
+1132513	smopi	Sassenberg.Daimlerring4.Public1	Daimlerring 4	48336	Sassenberg	51.976122	8.053148	1	24/7	Keine Beschränkung	DE*SMC*E0000309~TYPE2:22|DE*SMC*E0000310~TYPE2:22|DE*SMC*E0000311~TYPE2:22|DE*SMC*E0000312~TYPE2:22
+1132576	E.ON Drive Infrastructure		Raststätte Gütersloh Süd 0	33334	Gütersloh	51.864878	8.369658	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:100|~CCS2:100
+1132635	EnBW mobility+ AG und Co.KG		Lappenbrink 53	48336	Sassenberg	51.988200	8.034430	1	24/7	Keine Beschränkung	DE*EBW*E913931*1~CCS2:100|DE*EBW*E913931*2~CCS2:100|DE*EBW*E917142*1~CCS2:100|DE*EBW*E917142*2~CCS2:100
+1133483	EWE Go GmbH	McD_0972_1A	Im Brocke 43	33649	Bielefeld	51.980017	8.481183	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1133489	Porsche Zentrum Soest		Am Bohnenpfad 2	59494	Soest	51.552700	8.098980	1	Mo-Fr 08:00-18:00, Sa 10:00-13:00	Keine Beschränkung	DE911E*DE*000767*0000001*0000001~TYPE2:22|DE911E*DE*000909*0000001*0000001~TYPE2:22|DE911E*DE*000910*0000001*0000001~TYPE2:22|DE911E*DE*000911*0000001*0000001~TYPE2:22|DE911E*DE*000912*0000001*0000001~TYPE2:22|DE911E*DE*001398*0000001*0000001~TYPE2:22|DE911E*DE*001399*0000001*0000001~TYPE2:22
+1133547	Lippstädter Ladesäulen GmbH	Grundschule Dedinghausen	Kleefeld 5	59558	Lippstadt	51.670347	8.396657	1	24/7	Keine Beschränkung	DE*BDO*E146120679*1~TYPE2:22|DE*BDO*E146120679*2~TYPE2:22
+1134103	Marktkauf EHG Rhein-Ruhr mbH	Marktkauf Gütersloh	Hans-Böckler-Str. 14	33334	Gütersloh	51.889187	8.359672	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1134453	Tischlerei Holste (Einzelfirma)	Ladepark Holste	Ringstr. 135	33378	Rheda-Wiedenbrück	51.842050	8.293195	1	24/7	Keine Beschränkung	Holste-DC2-1 | DE*WFX*E4830167~CCS2:300|Holste-DC2-2 | DE*WFX*E4830168~CCS2:300
+1136080	Lidl	7099_Lidl_Gütersloh_T65-IT1-0825-002	Carl-Bertelsmann-Str. 152	33332	Gütersloh	51.904700	8.404470	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1136894	Stadtwerke Gütersloh GmbH	SWG Kundenparkplatz 1	Berliner Str. 260	33330	Gütersloh	51.920511	8.398385	1	24/7	Keine Beschränkung	DECPIE72992651~CCS2:150|DECPIE72992652~CCS2:150|DECPIE72992751~CCS2:150|DECPIE72992752~CCS2:150
+1137278	Stadtwerke Soest Energiedienstleistungs GmbH	Stadtwerke Soest	Aldegreverwall 12	59494	Soest	51.576410	8.100868	1	Mo-Mi 07:00-16:30, Do 07:00-18:00, Fr 07:00-13:00	Nur für Kunden/Besucher	DE*EDL*E2778888*001~TYPE2:22|DE*EDL*E2778888*002~TYPE2:22|DE*EDL*E3692081*001~TYPE2:22|DE*EDL*E3692081*002~TYPE2:22
+1137509	EnBW mobility+ AG und Co.KG	REWE Rietberg-Neuenkirchen, Detmolder Straße	Detmolder Straße 10	33397	Rietberg	51.830800	8.445900	1	24/7	Keine Beschränkung	DE*EBW*E911775*1~CCS2:200|DE*EBW*E911775*2~CCS2:200|DE*EBW*E911749*1~CCS2:200|DE*EBW*E911749*2~CCS2:200
+1137928	Stadtwerke Soest Energiedienstleistungs GmbH	Stadtwerke Soest	Aldegreverwall 12	59494	Soest	51.576295	8.100604	1	Mo-Mi 07:00-16:00, Do 07:00-18:00, Fr 07:00-12:00	Keine Beschränkung	DE*EDL*E1274430*003~TYPE2:11|DE*EDL*E1274439*004~TYPE2:11|DE*EDL*E1274440*005~TYPE2:11|DE*EDL*E1274441*006~TYPE2:11|DE*EDL*E685017*010~TYPE2:11|DE*EDL*E1274442*007~TYPE2:11
+1138245	Shell Deutschland GmbH	Shell Ladepark Rheda-Wiedenbrück (OBN 3696 bzw. 3199)	Bielefelder Str. 141a	33378	Rheda-Wiedenbrück	51.849211	8.322004	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1138246	Shell Deutschland GmbH	Shell Ladepark Rheda-Wiedenbrück (OBN 3696 bzw. 3199)	Bielefelder Str. 141a	33378	Rheda-Wiedenbrück	51.849168	8.322120	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1138248	Shell Deutschland GmbH	Shell Ladepark Rheda-Wiedenbrück (OBN 3696 bzw. 3199)	Bielefelder Str. 141a	33378	Rheda-Wiedenbrück	51.849162	8.322198	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1138250	Shell Deutschland GmbH	Shell Ladepark Rheda-Wiedenbrück (OBN 3696 bzw. 3199)	Bielefelder Str. 141a	33378	Rheda-Wiedenbrück	51.849131	8.322174	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1138791	EnBW mobility+ AG und Co.KG	33330 Gütersloh, Vennstraße 40	Vennstraße 40	33330	Gütersloh	51.913300	8.380500	1	24/7	Keine Beschränkung	DE*EBW*E915115*1~CCS2:200|DE*EBW*E915115*2~CCS2:200|DE*EBW*E915116*1~CCS2:200|DE*EBW*E915116*2~CCS2:200|DE*EBW*E915117*1~CCS2:100|DE*EBW*E915117*2~CCS2:100
+1139547	Stadtwerke Ostmünsterland GmbH & Co. KG	Rottendorf	Ostenfelder Str. 51	59320	Ennigerloh	51.848332	8.045967	1		Nur für Kunden/Besucher	DE*OML*E24EN2*1~TYPE2:22|DE*OML*E24EN2*2~TYPE2:22|DE*OML*E24EN1*1~TYPE2:22|DE*OML*E24EN1*2~TYPE2:22
+1139549	Stadtwerke Ostmünsterland GmbH & Co. KG	Parkplatz Stadtwerke Ostmünsterland	Breslauer Str. 6	59320	Ennigerloh	51.840272	8.027820	1	24/7	Keine Beschränkung	DE*OML*E25EN3*1~TYPE2:22|DE*OML*E25EN3*2~TYPE2:22
+1139551	Stadtwerke Ostmünsterland GmbH & Co. KG		Beelener Str. 11	59302	Oelde	51.884786	8.156984	1	24/7	Keine Beschränkung	DE*OML*E24OE5*1~TYPE2:22|DE*OML*E24OE5*2~TYPE2:22
+1139552	Stadtwerke Ostmünsterland GmbH & Co. KG	Stromberg	Münsterstr. 14	59302	Oelde	51.803407	8.202276	1	24/7	Keine Beschränkung	DE*OML*E24OE4*1~TYPE2:22|DE*OML*E24OE4*2~TYPE2:22
+1139564	CJS Immobilien GmbH & Co. KG	Doyenweg 15-17a	Doyenweg 17	59494	Soest	51.559780	8.128320	1		Nur für Kunden/Besucher	DE*ONE*E6VTA DE*ONE*EDZ78 DE*ONE*EB2WB DE*ONE*E5QTT DE*ONE*EXG6B DE*ONE*EZR11~TYPE2:22
+1140243	Lippstädter Ladesäulen GmbH	Ulmenstraße 35	Ulmenstr. 35	59557	Lippstadt	51.665384	8.332515	1	24/7	Keine Beschränkung	DE*BDO*E121907148*1~TYPE2:22|DE*BDO*E121907148*2~TYPE2:22
+1141069	Siemon GmbH	Autohaus Siemon GmbH	Splieterstr. 69	48231	Warendorf	51.942115	8.012002	1		Keine Beschränkung	~CCS2:22|~TYPE2:11
+1141520	Westfalen AG & Co. KG	Westfalen Tankstelle Ennigerloh	Westkirchener Str. 7	59320	Ennigerloh	51.839045	8.025992	1	24/7	Keine Beschränkung	DE*WAG*EE1049~CCS2:150|DE*WAG*EE2049~CCS2:150
+1143366	EWE Go HOCHTIEF Ladepartner GmbH & Co. KG	EHT_64812_1	Franz-Claas-Str. 3	33428	Harsewinkel	51.954251	8.246002	1	24/7	Keine Beschränkung	DE*EHT*E64812*1*1~CCS2:400|DE*EHT*E64812*1*2~CCS2:400|DE*EHT*E64812*2*1~CCS2:400|DE*EHT*E64812*2*2~CCS2:400|DE*EHT*E64812*3*1~CCS2:400|DE*EHT*E64812*3*2~CCS2:400|DE*EHT*E64812*4*1~CCS2:400|DE*EHT*E64812*4*2~CCS2:400
+1144926	Mense GmbH		Am Hüttenbrink 204	33334	Gütersloh	51.894244	8.449981	1	24/7	Keine Beschränkung	DE*ONE*EX8PT~CCS2:50|DE*ONE*E3JU6~CCS2:50|DE*ONE*ECS1T~TYPE2:22|DE*ONE*EH446~TYPE2:22|DE*ONE*E5V5B~TYPE2:22|DE*ONE*E1EU6~TYPE2:22|DE*ONE*EE8MW~TYPE2:22|DE*ONE*E1AEJ~TYPE2:22|DE*ONE*EKD1H~TYPE2:22|DE*ONE*EZ17E~TYPE2:22
+1144949	EWE Go GmbH	McD_0494_1A	Neubeckumer Str. 55	59269	Beckum	51.766641	8.040074	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1146189	Stadtwerke Soest Energiedienstleistungs GmbH	Lüllingsohr	Lülingsohr 5z	59494	Soest	51.564267	8.078722	1	24/7	Keine Beschränkung	DE*EDL*E4011516*001~TYPE2:22|DE*EDL*E4011516*002~TYPE2:22|DE*EDL*E4011517*001~TYPE2:22|DE*EDL*E4011517*002~TYPE2:22
+1147439	Stadt Erwitte	Parkplatz	Hellweg 36	59597	Erwitte	51.612646	8.341722	1	24/7	Keine Beschränkung	DE*ISE*E0002848~TYPE2:22|DE*ISE*E0002846~TYPE2:22
+1147442	Stadt Erwitte	Parkplatz	Am Markt 13	59597	Erwitte	51.613390	8.341055	1	24/7	Keine Beschränkung	DE*ISE*E0002743~TYPE2:22|DE*ISE*E0002745~TYPE2:22
+1147444	Stadt Erwitte	Parkplatz	Westerntor 5	59597	Erwitte	51.630790	8.360218	1	24/7	Keine Beschränkung	DE*ISE*EA189921~TYPE2:22|DE*ISE*EA181262~TYPE2:22
+1147907	Gemeindewerke Steinhagen Service GmbH & Co. KG	Am Cronsbach 10 b	Am Cronsbach 10	33803	Steinhagen	51.999426	8.423295	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1147998	ORLEN Deutschland GmbH	DC-10015-03	Hauptstr. 164	59269	Beckum	51.790200	8.029800	1	24/7	Keine Beschränkung	DE*ODE*EDC1001503*05~CCS2:400|DE*ODE*EDC1001503*06~CCS2:400|DE*ODE*EDC1001504*07~CCS2:400|DE*ODE*EDC1001504*08~CCS2:400|DE*ODE*EDC1001501*01~CCS2:400|DE*ODE*EDC1001501*02~CCS2:400|DE*ODE*EDC1001502*03~CCS2:400|DE*ODE*EDC1001502*04~CCS2:400
+1148086	Vattenfall Smarter Living GmbH		Spexarder Postweg 1	33332	Gütersloh	51.880905	8.393073	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1149112	Allego		Wiedenbrücker Str. 12	33332	Gütersloh	51.895355	8.368045	1	24/7	Keine Beschränkung	DEALLEGO004058_1~CCS2:400|DEALLEGO004058_2~CCS2:400|DEALLEGO004059_1~CCS2:400|DEALLEGO004059_2~CCS2:400|DEALLEGO004060_1~CCS2:400|DEALLEGO004060_2~CCS2:400|DEALLEGO004061_1~CCS2:400|DEALLEGO004061_2~CCS2:400
+1149337	Lippstädter Ladesäulen GmbH		Erwitter Str. 113	59557	Lippstadt	51.657534	8.343748	1	24/7	Keine Beschränkung	DE*BDO*E403618023*1~TYPE2:22|DE*BDO*E403618023*2~TYPE2:22
+1149727	Christian Dreising	BK5	Bürges Kamp 5	59590	Geseke	51.673430	8.462598	1	Mo-Fr 10:00-17:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1150003	Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG		Am Werl 3z	33378	Rheda-Wiedenbrück	51.854807	8.296749	1	24/7	Keine Beschränkung	DE*SRW*E25RW2*1~TYPE2:22
+1150005	Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG		Auf der Schanze 2z	33378	Rheda-Wiedenbrück	51.832983	8.306281	1	24/7	Keine Beschränkung	DE*SRW*E25RW1*1~TYPE2:22
+1151195	Wirelane GmbH	Eichenstraße 18, 33449 Langenberg	Eichenstraße 18	33449	Langenberg	51.766937	8.312057	1		Keine Beschränkung	DE*WLN*EP000105~TYPE2:22|DE*WLN*EP000106~TYPE2:22
+1151450	Wirelane GmbH	Bauenrott 15, 48361 Beelen	Bauenrott 15	48361	Beelen	51.925472	8.119750	1		Keine Beschränkung	DE*WLN*EP000531~TYPE2:22|DE*WLN*EP000532~TYPE2:22
+1151535	Wirelane GmbH		Gartenstraße 10	48361	Beelen	51.929611	8.116389	1		Keine Beschränkung	DE*WLN*EP001031~TYPE2:22|DE*WLN*EP001032~TYPE2:22
+1151985	Wirelane GmbH		Am bhf 8	59510	Lippetal	51.634111	8.097333	1		Keine Beschränkung	DE*WLN*EP001276~TYPE2:22|DE*WLN*EP001277~TYPE2:22
+1152093	Wirelane GmbH		Unionstraße 1	59557	Lippstadt	51.670187	8.351922	1		Keine Beschränkung	DE*WLN*ES001577~TYPE2:11|DE*WLN*ES001578~TYPE2:11|DE*WLN*ES001579~TYPE2:11|DE*WLN*ES001580~TYPE2:11|DE*WLN*ES001581~TYPE2:11|DE*WLN*ES001582~TYPE2:11
+1152845	Vattenfall Smarter Living GmbH		Lilienweg 1	48361	Beelen	51.929098	8.124435	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*1224*005*1~CCS2:180|DE*VAT*E*T184*IT1*1224*005*2~CCS2:180
+1152846	Vattenfall Smarter Living GmbH		Lilienweg 1	48361	Beelen	51.929065	8.124520	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*1224*009*1~CCS2:180|DE*VAT*E*T184*IT1*1224*009*2~CCS2:180
+1153943	SWW	Elisabethstraße 4	Elisabethstr. 4	59269	Beckum	51.753370	8.040530	1	24/7	Keine Beschränkung	DE*ISE*EA173752~TYPE2:22|DE*ISE*EA174422~TYPE2:22
+1154023	Paul Daut GmbH & Co. KG	Station 3	Schmeerplatzweg 11	33378	Rheda-Wiedenbrück	51.849217	8.314280	1		Keine Beschränkung	6877555~TYPE2_TETHERED:22
+1154024	Paul Daut GmbH & Co. KG	Station 4	Schmeerplatzweg 11	33378	Rheda-Wiedenbrück	51.849178	8.314200	1		Keine Beschränkung	6877565~TYPE2_TETHERED:22
+1154249	Stadtwerke Bielefeld	Aquawede / Oetker-Eisbahn	Duisburger Str. 4	33647	Bielefeld	51.980242	8.497627	1	24/7	Keine Beschränkung	DE*ISE*EA186359~TYPE2:22|DE*ISE*EA195936~TYPE2:22
+1154269	EnBW mobility+ AG und Co.KG	hagebaumarkt Soest	Seidenstückerweg 6	59494	Soest	51.558149	8.133895	1	24/7	Keine Beschränkung	DE*EBW*E911524*1~CCS2:93|DE*EBW*E911524*2~CCS2:93
+1155896	EWE Go GmbH	EWE_7250_1A	Mark I 2	59269	Beckum	51.798823	8.016802	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1156086	Wirelane GmbH		Am Mühlenwall 11a	59597	Erwitte	51.622272	8.310592	1		Keine Beschränkung	DE*WLN*ES000826~CCS2:50|DE*WLN*ES000827~CCS2:50
+1156692	HomE of Mobility GmbH	Schröder Team Verl GmbH & Co. KG · Nickelstraße · AC,DC	Nickelstr. 6	33415	Verl	51.875649	8.457490	1	24/7	Keine Beschränkung	DE*HOM*E500206*501~CCS2:50|DE*HOM*E500206*502~CCS2:50
+1156788	Golfclub Stahlberg im Lippetal e.V.		Ebbeckeweg 3	59510	Lippetal	51.696760	8.007746	1	24/7	Keine Beschränkung	DE*POW*E02126~TYPE2:22|DE*POW*E02127~TYPE2:22|DE*POW*E02126~TYPE2:22|DE*POW*E02127~TYPE2:22|DE*POW*E02124~TYPE2:22|DE*POW*E02125~TYPE2:22
+1156875	Wirelane GmbH		Lippestraße 4	59510	Lippetal	51.662528	8.142667	1		Keine Beschränkung	DE*WLN*EP001278~TYPE2:22|DE*WLN*EP001279~TYPE2:22
+1157081	Wirelane GmbH		Joan-Herman-Schwarze-Straße 15	59302	Oelde	51.841389	8.154444	1		Keine Beschränkung	DE*WLN*EP001745~TYPE2:22|DE*WLN*EP001746~TYPE2:22
+1157083	Wirelane GmbH		Bernhard-Rinke-Straße 13	59302	Oelde	51.829889	8.139444	1		Keine Beschränkung	DE*WLN*EP001749~TYPE2:22|DE*WLN*EP001750~TYPE2:22
+1157084	Wirelane GmbH		Willy-Brandt-Str. 18	59302	Oelde	51.838000	8.141417	1		Keine Beschränkung	DE*WLN*EP001751~TYPE2:22|DE*WLN*EP001752~TYPE2:22
+1157315	Fred Pfennings GmbH & Co. KG	Shell (BMÖ) Oelde	Warendorfer Str. 73-75	59302	Oelde	51.834710	8.145068	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1157719	Erenja AG & Co. KG		Carl-Haver-Platz 3	59302	Oelde	51.825815	8.145388	1	24/7	Keine Beschränkung	DE*GWE*EAC1289~CCS2:150|DE*GWE*EAC1290DE*GWE*EAC1290~CCS2:150
+1158175	Bessmann	Spielplatz	Südfeld 48	33428	Marienfeld	51.939400	8.297780	1	24/7	Keine Beschränkung	DE*ONE*E8G74~TYPE2:22|DE*ONE*E2KQL~TYPE2:22
+1158210	Mutzke Energiesysteme GmbH & Co. KG		Oderweg 11	33330	Gütersloh	51.929497	8.387660	1	24/7	Keine Beschränkung	DE*CIQ*EF9DVKHXIFK5X*1~TYPE2_TETHERED:11
+1159098	Shell Deutschland GmbH		Rosengartenweg 4	59590	Geseke	51.593251	8.487300	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1159099	Shell Deutschland GmbH		Rosengartenweg 4	59590	Geseke	51.593160	8.487329	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1159100	Shell Deutschland GmbH		Rosengartenweg 4	59590	Geseke	51.593115	8.487355	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1159323	Wirelane GmbH		Hellinghäuser Weg 25	59557	Lippstadt	51.671500	8.333056	1		Keine Beschränkung	DE*WLN*EP002927~TYPE2:22|DE*WLN*EP002928~TYPE2:22
+1159471	Wirelane GmbH		Marienstraße 12	59302	Oelde	51.820397	8.135553	1		Keine Beschränkung	DE*WLN*EP001753~TYPE2:22|DE*WLN*EP001754~TYPE2:22
+1159904	EWE Go HOCHTIEF Ladepartner GmbH & Co. KG	EHT_64817_1	Mastholter Str. 42	33397	Rietberg	51.803462	8.421635	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1159905	EWE Go HOCHTIEF Ladepartner GmbH & Co. KG	EHT_64817_2	Mastholter Str. 42	33397	Rietberg	51.803417	8.421619	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1159907	EWE Go HOCHTIEF Ladepartner GmbH & Co. KG	EHT_64817_4	Mastholter Str. 42	33397	Rietberg	51.803323	8.421494	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1160197	Wirelane GmbH		Westenholzer Str. 97	33129	Delbrück	51.756861	8.471806	1		Keine Beschränkung	DE*WLN*EP001729~TYPE2:22|DE*WLN*EP001730~TYPE2:22
+1160222	Westenergie Metering GmbH		Torfweg 0	33397	Rietberg	51.807287	8.432859	1	24/7	Keine Beschränkung	DE*WEA*E0000030*1~TYPE2:22|DE*WEA*E0000030*2~TYPE2:22
+1160226	Westenergie Metering GmbH		Kolpingstr. 6	33378	Rheda-Wiedenbrück	51.856319	8.289748	1	24/7	Keine Beschränkung	DE*WEA*E0000032*1~TYPE2:22|DE*WEA*E0000032*2~TYPE2:22
+1160885	Wirelane GmbH		Welserstraße 13	59557	Lippstadt	51.655833	8.364361	1		Keine Beschränkung	DE*WLN*EP002923~TYPE2:22|DE*WLN*EP002924~TYPE2:22
+1160886	Wirelane GmbH		Südertor 18	59557	Lippstadt	51.668917	8.345917	1		Keine Beschränkung	DE*WLN*EP002921~TYPE2:22|DE*WLN*EP002922~TYPE2:22
+1160908	Reload-Solution GmbH		Elisabethstr. 13	59269	Beckum	51.752287	8.040054	1	24/7	Keine Beschränkung	DE*RLS*ERELOAD063*01~TYPE2:22|DE*RLS*ERELOAD063*02~TYPE2:22
+1160951	Paul Daut GmbH & Co. KG	Station 5	Schmeerplatzweg 8	33378	Rheda-Wiedenbrück	51.849856	8.316135	1		Keine Beschränkung	7297465~TYPE2_TETHERED:11|7297465~TYPE2_TETHERED:11
+1161658	Qwello Deutschland GmbH		Baumstraße 43	33330	Gütersloh	51.911774	8.366419	1	24/7	Keine Beschränkung	DEQRME3JRRJ11~TYPE2:22|DEQRME3JRRJ12~TYPE2:22
+1161659	Qwello Deutschland GmbH		Böhmerstraße 18	33330	Gütersloh	51.910351	8.366096	1	24/7	Keine Beschränkung	DEQRMEHX6X611~TYPE2:22|DEQRMEHX6X612~TYPE2:22
+1161660	Qwello Deutschland GmbH		Moltkestraße 24	33330	Gütersloh	51.909622	8.376701	1	24/7	Keine Beschränkung	DEQRME8589P11~TYPE2:22|DEQRME8589P12~TYPE2:22
+1161661	Qwello Deutschland GmbH		Schalückstraße 62	33332	Gütersloh	51.891666	8.375810	1	24/7	Keine Beschränkung	DEQRMEW5H8711~TYPE2:22|DEQRMEW5H8712~TYPE2:22
+1161738	Qwello Deutschland GmbH		Königstraße 50	33330	Gütersloh	51.907269	8.372700	1	24/7	Keine Beschränkung	DEQRME48FHP11~TYPE2:22|DEQRME48FHP12~TYPE2:22|DEQRME48FHP21~TYPE2:22|DEQRME48FHP22~TYPE2:22
+1162085	WELLER	WELLER Gütersloh Alfen Double	Hülsbrockstr. 83-87	33334	Gütersloh	51.919206	8.410914	1	Mo-Fr 08:00-17:00, Sa 09:00-12:00	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1162106	Kai beckmann	P62 Strasse	Postdamm 62	33334	Gütersloh	51.927900	8.397300	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1162108	Kai beckmann	A22	Ackerstr. 22	33330	Gütersloh	51.912840	8.382590	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1162421	ALDI Nord	ALDI Nord Parkplatz	Am Bahnhof 5	59510	Lippetal	51.634010	8.097844	1	24/7	Keine Beschränkung	DE-ALN-EDE130804-1-1~CCS2:150|DE-ALN-EDE130804-1-2~CCS2:150
+1163723	Walter Fritz deutsche Gesellschaft für Energieversorgung mbH	WESTAG-TUERENWERK-01	Reinholdstr. 0	33378	Rheda-Wiedenbrück	51.824834	8.310389	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1163731	Walter Fritz deutsche Gesellschaft für Energieversorgung mbH	WESTAG-VW-001	Hellweg 0	33378	Rheda-Wiedenbrück	51.829270	8.309340	1	24/7	Nur für Kunden/Besucher	DE*193*EX098300014750~TYPE2:11|DE*193*EX098300014751~TYPE2:11|DE*193*EX098300014753~TYPE2:11|DE*193*EX098300014755~TYPE2:11|DE*193*EX098300014756~TYPE2:11|DE*193*EX098300014757~TYPE2:11|DE*193*EX098300014758~TYPE2:11|DE*193*EX098300014759~TYPE2:11
+1163743	Walter Fritz deutsche Gesellschaft für Energieversorgung mbH	WESTAG-WDL-001	Mauritz 0	59329	Wadersloh	51.731187	8.259534	1	24/7	Nur für Kunden/Besucher	DE*193*EX098300014770~TYPE2:11|DE*193*EX098300014771~TYPE2:11|DE*193*EX098300014774~TYPE2:11|DE*193*EX098300014776~TYPE2:11

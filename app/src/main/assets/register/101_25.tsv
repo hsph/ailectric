@@ -1,0 +1,457 @@
+1002958	Bürger Energie Erzgebirge eG		Ernst-Grohmann-Straße 0	09423	Gelenau	50.713253	12.980636	1			~TYPE2:22
+1005693	Bürger Energie Erzgebirge eG		Am Frauenberg 2	09427	Ehrenfriedersdorf	50.649526	12.966411	1	24/7	Keine Beschränkung	DE*BED*EBED*0007*1~CCS2:150|DE*BED*EBED*0007*2~CCS2:150|DE*BED*EBED*0007*3~TYPE2:22
+1008986	Shell Deutschland GmbH		Auerstr. 2	09366	Stollberg	50.712492	12.761482	1			~CCS2:180|~CCS2:180
+1009038	Shell Deutschland GmbH		Schneeberger Str. 1	08107	Kirchberg	50.622760	12.531150	1			~CCS2:120|~CCS2:120
+1009098	Shell Deutschland GmbH		Otto-Thörner-Str. 5	09127	Chemnitz	50.808370	12.969800	1			~CCS2:150|~CCS2:150
+1009206	Shell Deutschland GmbH		Jagdschänkenstr. 17	09117	Chemnitz	50.812677	12.842068	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1011391	Comfort Charge		Weststraße 51	09212	Limbach-Oberfrohna	50.855556	12.756111	1			~CCS2:150|~CCS2:100|~TYPE2:22
+1011393	Comfort Charge		Glauchauer Str. 16	09113	Chemnitz	50.845617	12.900417	1		Keine Beschränkung	~CCS2:100|~TYPE2:22|~TYPE2_TETHERED:22|~CCS2:100
+1011396	Comfort Charge		Arno-Schreiter-Str. 3	09123	Chemnitz	50.791120	12.903310	1		Keine Beschränkung	~CCS2:150|~TYPE2:22|~TYPE2_TETHERED:22|~CCS2:150
+1011503	Comfort Charge		Schneeberger Straße 11	08340	Schwarzenberg	50.539590	12.779000	1			~CCS2:100+CHADEMO:100|~TYPE2:22|~TYPE2_TETHERED:22
+1021673	EWE Go GmbH	McD_0652	Oskar-Arnold-Str. 2	08056	Zwickau	50.706263	12.500934	1	24/7	Keine Beschränkung	DE*2GO*EMCD0652*1~CCS2:150|DE*2GO*EMCD0652*2~CCS2:150
+1021745	EWE Go GmbH	McD_0621_1A	Lößnitzer Str. 89	08280	Aue-Bad Schlema	50.596182	12.709610	1	24/7	Keine Beschränkung	DE*2GO*EMCD0621*1A*1~CCS2:300|DE*2GO*EMCD0621*1A*2~CCS2:300
+1021783	EWE Go GmbH	McD_0731_1A	Arno-Schmidt-Str. 28	08134	Wildenfels	50.680719	12.591151	1	24/7	Keine Beschränkung	DE*2GO*EMCD0731*1A*1~CCS2:300|DE*2GO*EMCD0731*1A*2~CCS2:300
+1021878	EWE Go GmbH	McD_1680_1A	Reichsstr. 1	09112	Chemnitz	50.827325	12.912553	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1024283	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bahnhofstraße 0	08107	Kirchberg	50.623282	12.523727	1			~TYPE2:3.7
+1024284	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bahnhofstraße 8	08107	Kirchberg	50.623099	12.524027	1			~TYPE2:3.7
+1024285	ubitricity Gesellschaft für verteilte Energiesysteme mbH		Bahnhofstraße 4	08107	Kirchberg	50.622868	12.524392	1			~TYPE2:3.7
+1026660	EnBW mobility+ AG und Co.KG		Zschopauer Str. 273	09126	Chemnitz	50.814957	12.954203	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026938	EnBW mobility+ AG und Co.KG		Chemnitzer Str. 65	09123	Chemnitz	50.783191	12.896768	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026940	EnBW mobility+ AG und Co.KG		Waldenburger Str. 175	08371	Glauchau	50.839764	12.541133	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1026980	EnBW mobility+ AG und Co.KG		Seminarstraße 45	08289	Schneeberg	50.598717	12.635920	1			~CCS2:150|~CCS2:150
+1027093	EnBW mobility+ AG und Co.KG		Zwickauer Straße 81	09112	Chemnitz	50.825980	12.907570	1			~CCS2:150|~CCS2:150
+1027323	EnBW mobility+ AG und Co.KG		Chemnitzer Straße 102	09322	Penig	50.921900	12.715930	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1027627	EnBW mobility+ AG und Co.KG		Werner-Seelenbinder-Str. 5	09120	Chemnitz	50.804381	12.912269	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027701	EnBW mobility+ AG und Co.KG		Arno-Schmidt-Straße 28	08134	Wildenfels	50.680480	12.590721	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~TYPE2:22|~CCS2:300+CHADEMO:300|~CCS2:300|~TYPE2:22
+1028054	EnBW mobility+ AG und Co.KG		Sachsenstraße 9A	09244	Lichtenau	50.907996	12.976107	1			~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1030958	Fraunhofer-Gesellschaft e. V.		Reichenhainer Straße 88	09126	Chemnitz	50.813507	12.926417	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031180	Fraunhofer-Gesellschaft e. V.		Reichenhainer Straße 88	09126	Chemnitz	50.813422	12.925726	1			~TYPE2:22|~TYPE2:22
+1031182	Fraunhofer-Gesellschaft e. V.		Reichenhainer Straße 88	09126	Chemnitz	50.813442	12.925836	1			~TYPE2:22|~TYPE2:22
+1031952	Circle K Deutschland		Waldenburger Straße 115	08371	Glauchau	50.840473	12.542328	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1031978	Circle K Deutschland		Bahnhofstr. 30	09366	Stollberg	50.699648	12.766417	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032487	envia Mitteldeutsche Energie AG	SL00993	Chemnitztalstr. 13	09114	Chemnitz	50.858100	12.927941	1	24/7	Keine Beschränkung	DE*ISE*E0004854~TYPE2:22|DE*ISE*E0004853~TYPE2:22
+1032511	envia Mitteldeutsche Energie AG	113191437981011429	Am Sachsenring 1A	09353	Oberlungwitz	50.789401	12.693997	1	24/7	Keine Beschränkung	DE*ISE*E0004913~CCS2:50+CHADEMO:50|DE*ISE*E0004688~TYPE2:22
+1032512	envia Mitteldeutsche Energie AG	113191337981011427	Neue Schichtstr. 2	09366	Niederdorf	50.722143	12.784239	1	24/7	Keine Beschränkung	DE*ISE*E0004994~CCS2:50+CHADEMO:50|DE*ISE*E0005097~TYPE2:22
+1032540	envia Mitteldeutsche Energie AG	KP01217	Albert-Funk-Schacht-Str. 1d	09376	Oelsnitz /Erzgeb.	50.720835	12.698799	1	24/7	Keine Beschränkung	DE*ISE*E0005475~TYPE2:22|DE*ISE*E0005476~TYPE2:22
+1032542	envia Mitteldeutsche Energie AG	KP01219	Stollberger Str. 23z	09385	Lugau	50.735853	12.748620	1	24/7	Keine Beschränkung	DE*ISE*E0004777~TYPE2:22|DE*ISE*E0004778~TYPE2:22
+1032543	envia Mitteldeutsche Energie AG	KP00954	Zimmerstr. 1	09648	Mittweida	50.986536	12.980651	1	24/7	Keine Beschränkung	DE*ISE*E0004435~TYPE2:22|DE*ISE*E0004436~TYPE2:22
+1032544	envia Mitteldeutsche Energie AG	KP00951	Peniger Str. 10	08396	Waldenburg	50.875554	12.603737	1	24/7	Keine Beschränkung	DE*ISE*E0004631~TYPE2:22|DE*ISE*E0004632~TYPE2:22
+1032555	envia Mitteldeutsche Energie AG	KP00973	Heinrich-Heine-Str. 8	08297	Zwönitz	50.627748	12.814283	1	24/7	Keine Beschränkung	DE*ISE*E0005399~TYPE2:22|DE*ISE*E0005400~TYPE2:22
+1032559	envia Mitteldeutsche Energie AG	KP00953	Burkersdorfer Str. 44	09217	Burgstädt	50.920893	12.803242	1	24/7	Keine Beschränkung	DE*ISE*E0004449~TYPE2:22|DE*ISE*E0004450~TYPE2:22
+1032563	envia Mitteldeutsche Energie AG	KP01228	Am Bahnhof 6	09337	Hohenstein-Ernstthal	50.798959	12.707669	1	24/7	Keine Beschränkung	DE*ISE*E0004533~TYPE2:22|DE*ISE*E0004534~TYPE2:22
+1032568	envia Mitteldeutsche Energie AG	KP01205	Bahnhofstr. 19	08107	Kirchberg	50.622914	12.523289	1	24/7	Keine Beschränkung	DE*ISE*E0004489~TYPE2:22|DE*ISE*E0004490~TYPE2:22
+1032569	envia Mitteldeutsche Energie AG	KP01235	Markt 6	09322	Penig	50.933362	12.706367	1	24/7	Keine Beschränkung	DE*ISE*E0004445~TYPE2:22|DE*ISE*E0004446~TYPE2:22
+1032573	envia Mitteldeutsche Energie AG	KP01218	Carl-Kirchhof-Str. 32	09232	Hartmannsdorf	50.886026	12.792759	1	24/7	Keine Beschränkung	DE*ISE*E0004583~TYPE2:22|DE*ISE*E0004584~TYPE2:22
+1032593	envia Mitteldeutsche Energie AG	KP00232	Chemnitztalstr. 13	09114	Chemnitz	50.858146	12.927089	1	24/7	Keine Beschränkung	DE*ISE*E0005496~TYPE2:22|DE*ISE*E0005495~TYPE2:22
+1032600	envia Mitteldeutsche Energie AG	02.S95-01036	Ringstr. 23	09247	Chemnitz	50.865000	12.864917	1	24/7	Keine Beschränkung	DE*ISE*E0008928~CHADEMO:50+CCS2:50|DE*ISE*E0008145~TYPE2:22
+1032620	envia Mitteldeutsche Energie AG		Kleine Biergasse 1 zzz	08056	Zwickau	50.722060	12.500810	1			~TYPE2:22|~TYPE2:22
+1032641	envia Mitteldeutsche Energie AG		Reinsdorfer Str. 2 z	08066	Zwickau	50.717254	12.502278	1			~TYPE2:22|~TYPE2:22
+1032642	envia Mitteldeutsche Energie AG		Otto-Lilienthal-Weg 9 zz	08066	Zwickau	50.732305	12.523832	1			~TYPE2:22|~TYPE2:22
+1032643	envia Mitteldeutsche Energie AG		Otto-Lilienthal-Weg 9 zzz	08066	Zwickau	50.732357	12.523691	1			~TYPE2:22|~TYPE2:22
+1032648	envia Mitteldeutsche Energie AG		Ernst-Thälmann-Str. 124 z	08066	Zwickau	50.736685	12.525121	1			~TYPE2:22|~TYPE2:22
+1032663	envia Mitteldeutsche Energie AG		Trillerstraße 41 Z	08058	Zwickau	50.725955	12.509681	1			~TYPE2:22|~TYPE2:22
+1032671	envia Mitteldeutsche Energie AG		Weitblick 10 ZZ	08058	Zwickau	50.733895	12.513388	1			~TYPE2:22|~TYPE2:22
+1032672	envia Mitteldeutsche Energie AG		Weitblick 10 Z	08058	Zwickau	50.733890	12.513316	1			~TYPE2:22|~TYPE2:22
+1032685	envia Mitteldeutsche Energie AG		Uhdestraße 25	08058	Zwickau	50.709330	12.504080	1			~CCS2:75|~CCS2:75
+1035999	AC Chemnitz		Röhrsdorfer Allee 6	09247	Chemnitz	50.866652	12.856772	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036056	ACN		Blankenauer Str. 58	09113	Chemnitz	50.853673	12.930449	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036058	ACN		Zschopauer Straße 212	09126	Chemnitz	50.815451	12.951330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036060	ACN		Carl-Hamel-Str. 4	09116	Chemnitz	50.815094	12.884082	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037499	Citywatt GmbH		Am Bühl 1	08309	Eibenstock	50.504980	12.596608	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037621	Citywatt GmbH		Frankenberger Straße 61	09131	Chemnitz	50.852843	12.946315	1			~TYPE2:22|~TYPE2:22
+1037622	Citywatt GmbH		Frankenberger Straße 61	09131	Chemnitz	50.852870	12.946224	1			~TYPE2:22|~TYPE2:22
+1037696	Citywatt GmbH		Lungwitzer Str. 82	09356	St. Egidien	50.783704	12.623194	1			~TYPE2:22|~TYPE2:22
+1037697	Citywatt GmbH		Lungwitzer Str. 82	09356	St. Egidien	50.783925	12.623629	1			~TYPE2:22|~TYPE2:22
+1038220	Hotel an der Oper Chemnitz GmbH		Straße der Nationen 56	09111	Chemnitz	50.837358	12.926434	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1043031	Allego		Carl-Hamel-Straße 21	09116	Chemnitz	50.811504	12.881038	1			DEALLEGO000535*1~CCS2:50+CHADEMO:50|DEALLEGO000535*2~TYPE2_TETHERED:43
+1043299	Allego		Sachsenstraße 9	09244	Oberlichtenau	50.906951	12.978084	1			DEALLEGO002690*1~CCS2:150|DEALLEGO002690*2~CCS2:150
+1043559	Allego		Hohensteiner Str. 60	09366	Stollberg /Erzgeb.	50.712837	12.762789	1	24/7	Keine Beschränkung	DEALLEGO002905*1~CCS2:150|DEALLEGO002905*2~CCS2:150
+1048461	Lidl	5249_Lidl_Niederwürschnitz_T65-IT1-4022-251	Stollberger Str. 7	09399	Niederwürschnitz	50.720710	12.755490	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048478	Lidl		Chemnitzer Str. 40	09212	Limbach Oberfrohna	50.854870	12.778200	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:43+CHADEMO:43|~TYPE2_TETHERED:43+CCS2:43
+1048675	Lidl		Limbacherstr. 21	09112	Chemnitz	50.838650	12.902750	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048743	Lidl	5780_Lidl_Chemnitz-Helbersdorf_T54-HU1-3219-003	Paul-Bertz-Str. 14	09120	Chemnitz	50.802433	12.886539	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1048879	Lidl	6089_Lidl_Chemnitz_T65-IT1-1822-078	Zschopauer Str. 184	09126	Chemnitz	50.818006	12.945107	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049687	E.ON Drive Infrastructure		Raststätte Auerswalder Blick Nord 0	09244	Lichtenau	50.893563	12.940800	1			~CCS2:50|~CCS2:50
+1050018	amperio GmbH (DEAMP)		Im Neefepark 3	09116	Chemnitz	50.806189	12.862190	1			~TYPE2:11|~TYPE2:11
+1050426	Pfalzwerke AG		Stollberger Straße 0	09122	Chemnitz	50.795273	12.880417	1			~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1051221	Danpower-Gruppe		Am Stadtpark 22	09212	Limbach-Oberfrohna	50.852220	12.759488	1			~TYPE2:22|~TYPE2:22
+1051229	Danpower-Gruppe		Ehrenfriedersdorfer Straße 21a	09468	Geyer	50.626443	12.928226	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1051230	Danpower-Gruppe		Lengenfelder Straße 58	08107	Kirchberg	50.619623	12.507303	1			~TYPE2:22|~TYPE2:22
+1051233	Danpower-Gruppe		Grießheimerstraße 18	08112	Wilkau-Haßlau	50.681127	12.509581	1			~TYPE2:22|~TYPE2:22
+1051235	Danpower-Gruppe		Feldstraße 11	08132	Mülsen	50.763482	12.539511	1			~TYPE2:22|~TYPE2:22
+1051450	MER Germany		Rabensteiner Wald Süd 0	09224	Chemnitz/Grüna	50.821584	12.765012	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:42+CCS2:42
+1052841	iSATT-GmbH		Leipziger Str. 214	09114	Chemnitz	50.857794	12.872727	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052844	iSATT-GmbH		Leipziger Straße 214	09114	Chemnitz	50.857300	12.873400	1			~TYPE2:22|~TYPE2:11
+1052940	iSATT-GmbH		Clemens-Winkler-Straße 6B	09116	Chemnitz	50.815900	12.865440	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1054747	Aral Pulse		Neue Schichtstraße 16	09366	Niederdorf	50.724870	12.778700	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055202	Aral Pulse		Chemnitzer Landstr. 30A	09244	Lichtenau	50.893469	12.945990	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055231	Aral Pulse		Neue Schichtstraße 16	09366	Niederdorf	50.724486	12.778826	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1056132	eins energie in sachsen GmbH & Co. KG		Neefestr. 88	09116	Chemnitz	50.819402	12.887048	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056133	eins energie in sachsen GmbH & Co. KG		Theaterstr. 7	09111	Chemnitz	50.835223	12.920058	1			~TYPE2:22+SCHUKO:22
+1056134	eins energie in sachsen GmbH & Co. KG		Am Rathaus 1	09111	Chemnitz	50.831822	12.921410	1			~TYPE2:22+SCHUKO:22
+1056135	eins energie in sachsen GmbH & Co. KG		Messeplatz 1	09116	Chemnitz	50.817782	12.882904	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056136	eins energie in sachsen GmbH & Co. KG		Straße der Nationen 25	09111	Chemnitz	50.836690	12.925040	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056137	eins energie in sachsen GmbH & Co. KG		Georgstr. 13	09111	Chemnitz	50.841012	12.922595	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056138	eins energie in sachsen GmbH & Co. KG		Werner-Seelenbinder-Str. 11b	09120	Chemnitz	50.805651	12.921763	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056139	eins energie in sachsen GmbH & Co. KG		Limbacher Str. 195	09116	Chemnitz	50.832081	12.873760	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056140	eins energie in sachsen GmbH & Co. KG		Zöllnerplatz 1	09111	Chemnitz	50.845162	12.925941	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056141	eins energie in sachsen GmbH & Co. KG		Gellertstr. 25	09130	Chemnitz	50.841546	12.943657	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056142	eins energie in sachsen GmbH & Co. KG		Neumarkt 15	09427	Ehrenfriedersdorf	50.644780	12.967971	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056143	eins energie in sachsen GmbH & Co. KG		Paul-Gruner-Str. 56	09120	Chemnitz	50.809355	12.910055	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056145	eins energie in sachsen GmbH & Co. KG		Schönherrstr. 8	09113	Chemnitz	50.850518	12.921121	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056146	eins energie in sachsen GmbH & Co. KG		Carl-Bobach-Str. 2-8	09120	Chemnitz	50.805173	12.890133	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056147	eins energie in sachsen GmbH & Co. KG		Alfred-Neubert-Str. 17	09123	Chemnitz	50.786366	12.902672	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056148	eins energie in sachsen GmbH & Co. KG		Further Str. 41	09113	Chemnitz	50.849406	12.926375	1			~TYPE2:22|~TYPE2:22
+1056149	eins energie in sachsen GmbH & Co. KG		Hilbersdorfer Str. 1	09131	Chemnitz	50.845823	12.936077	1			~TYPE2:22|~TYPE2:22
+1056150	eins energie in sachsen GmbH & Co. KG		Hauptstr. 5	09380	Thalheim	50.702457	12.851544	1			~TYPE2:22+SCHUKO:22
+1056151	eins energie in sachsen GmbH & Co. KG		Pestalozzistr. 6	09111	Chemnitz	50.834913	12.939041	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056153	eins energie in sachsen GmbH & Co. KG		Neefestr. 147	09116	Chemnitz	50.816363	12.882830	1			~TYPE2:22|~TYPE2:22
+1056154	eins energie in sachsen GmbH & Co. KG		Max-Saupe-Str. 36	09131	Chemnitz	50.869840	12.959070	1	24/7	Keine Beschränkung	DE*EIN*E00052*001~TYPE2:22|DE*EIN*E00052*002~TYPE2:22
+1056155	eins energie in sachsen GmbH & Co. KG		Am Karbel 65	09116	Chemnitz	50.837540	12.881210	1			~TYPE2:22|~TYPE2:22
+1056157	eins energie in sachsen GmbH & Co. KG		Uhlichstr. 3	09112	Chemnitz	50.837180	12.908960	1	24/7	Keine Beschränkung	DE*EIN*E00054*001~TYPE2:22|DE*EIN*E00054*002~TYPE2:22
+1056159	eins energie in sachsen GmbH & Co. KG		Augustusburger Str. 195	09127	Chemnitz	50.832166	12.956393	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056160	eins energie in sachsen GmbH & Co. KG		Carl-von-Ossietzky-Str. 168b	09127	Chemnitz	50.821970	12.960720	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056161	eins energie in sachsen GmbH & Co. KG		Walter-Oertel-Str. 39	09112	Chemnitz	50.833860	12.898670	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056162	eins energie in sachsen GmbH & Co. KG		Pfarrhübel 29	09125	Chemnitz	50.789390	12.933000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056163	eins energie in sachsen GmbH & Co. KG		Zieschestr. 28	09111	Chemnitz	50.828700	12.932410	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056164	eins energie in sachsen GmbH & Co. KG		Uhlandstr. 17	09130	Chemnitz	50.837506	12.935767	1			~TYPE2:22|~TYPE2:22
+1056165	eins energie in sachsen GmbH & Co. KG		Irkutskerstr. 105	09119	Chemnitz	50.814350	12.893807	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056166	eins energie in sachsen GmbH & Co. KG		Bernsdorfer Str. 130	09126	Chemnitz	50.815139	12.943536	1			~TYPE2:22|~TYPE2:22
+1056167	eins energie in sachsen GmbH & Co. KG		Orthstr. 9	09131	Chemnitz	50.852420	12.944890	1			~TYPE2:22|~TYPE2:22
+1056168	eins energie in sachsen GmbH & Co. KG		Lortzingstr. 47	09119	Chemnitz	50.820838	12.903340	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056169	eins energie in sachsen GmbH & Co. KG		Carl-von-Ossietzky-Str. 21	09126	Chemnitz	50.823989	12.935642	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056170	eins energie in sachsen GmbH & Co. KG		Jagdschänkenstr. 50	09117	Chemnitz	50.809510	12.842020	1			~TYPE2:22|~TYPE2:22
+1056171	eins energie in sachsen GmbH & Co. KG		Robert-Siewert-Str. 22	09122	Chemnitz	50.796875	12.897374	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056172	eins energie in sachsen GmbH & Co. KG		Bruno-Granz-Str. 42	09122	Chemnitz	50.794940	12.886040	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056173	eins energie in sachsen GmbH & Co. KG		Marie-Tilch-Str. 2a	09123	Chemnitz	50.783260	12.877290	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056174	eins energie in sachsen GmbH & Co. KG		Untere Bergstr. 99z	09123	Chemnitz	50.769850	12.889830	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056176	eins energie in sachsen GmbH & Co. KG		Straße der Nationen 140	09113	Chemnitz	50.849506	12.933407	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056181	eins energie in sachsen GmbH & Co. KG		Am Walkgraben 13	09111	Chemnitz	50.827711	12.913200	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~CCS2:75+CHADEMO:75
+1056185	eins energie in sachsen GmbH & Co. KG		Straße Usti nad Labem 23	09111	Chemnitz	50.810559	12.892220	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~CCS2:75|~CCS2:75|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056189	eins energie in sachsen GmbH & Co. KG		Hechinger Str. 4	09212	Limbach-Oberfrohna	50.859021	12.762689	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22
+1056190	eins energie in sachsen GmbH & Co. KG		Theaterstr. 3	09111	Chemnitz	50.835376	12.920049	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056195	eins energie in sachsen GmbH & Co. KG		An der Großsporthalle 2	09212	Limbach-Oberfrohna	50.859832	12.767306	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056196	eins energie in sachsen GmbH & Co. KG		Tierparkstr. 2	09212	Limbach-Oberfrohna	50.852589	12.751342	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056197	eins energie in sachsen GmbH & Co. KG		Neefestraße 88	09116	Chemnitz	50.818772	12.886459	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056200	eins energie in sachsen GmbH & Co. KG		Neefestraße 88a	09116	Chemnitz	50.819115	12.886765	1			~TYPE2:22|~TYPE2:22
+1056202	eins energie in sachsen GmbH & Co. KG		Neefestraße 82	09119	Chemnitz	50.820125	12.891174	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056205	eins energie in sachsen GmbH & Co. KG		Neefestraße 78	09119	Chemnitz	50.820627	12.892345	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1056209	eins energie in sachsen GmbH & Co. KG		Kutusowstr. 42	09130	Chemnitz	50.832626	12.970711	1			~TYPE2:22|~TYPE2:22
+1057101	EnBW mobility+ AG und Co.KG		Gewerbegebiet an der B 95 10	09427	Ehrenfriedersdorf	50.634830	12.961639	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1057343	Stadtwerke Schwarzenberg GmbH		Karlsbader Straße 72	08340	Schwarzenberg	50.519145	12.785202	1			~TYPE2:22|~TYPE2:22
+1057344	Stadtwerke Schwarzenberg GmbH		Bermsgrüner Straße 30A	08340	Schwarzenberg	50.532519	12.774150	1			~TYPE2:22|~TYPE2:22
+1057345	Stadtwerke Schwarzenberg GmbH		Hammerweg 8	08340	Schwarzenberg	50.536671	12.787084	1			~TYPE2:22|~TYPE2:22
+1057346	Stadtwerke Schwarzenberg GmbH		Am Fichtbusch 61	08340	Schwarzenberg	50.556950	12.784239	1			~TYPE2:22|~TYPE2:22
+1057347	Stadtwerke Schwarzenberg GmbH		Hauptraße 7	08315	Lauter-Bernsbach	50.560438	12.742495	1			~TYPE2:22|~TYPE2:22
+1057348	Stadtwerke Schwarzenberg GmbH		Straße der Einheit 20	08340	Schwarzenberg	50.546445	12.792621	1			~TYPE2:22|~TYPE2:22
+1057349	Stadtwerke Schwarzenberg GmbH		Erlaer Straße 5	08340	Schwarzenberg	50.536324	12.782557	1			~TYPE2:22|~TYPE2:22
+1057350	Stadtwerke Schwarzenberg GmbH		Alte Bahnhofstraße 7L	08340	Schwarzenberg	50.527538	12.819653	1			~TYPE2:22
+1057351	Stadtwerke Schwarzenberg GmbH		Schulstraße 63L	08352	Raschau-Markersbach	50.531793	12.833665	1			~TYPE2:22|~TYPE2:22
+1057352	Stadtwerke Schwarzenberg GmbH		Schneeberger Straße 67	08340	Schwarzenberg	50.548490	12.767010	1			~TYPE2:22
+1057353	Stadtwerke Schwarzenberg GmbH		Grünhainer Straße 24	08340	Schwarzenberg	50.547266	12.783933	1			~TYPE2:11|~TYPE2:11
+1057354	Stadtwerke Schwarzenberg GmbH		Straße der Einheit 42	08340	Schwarzenberg	50.547151	12.787793	1			~TYPE2:22|~TYPE2:22
+1057355	Stadtwerke Schwarzenberg GmbH		Klempnerweg 31	08340	Schwarzenberg	50.544014	12.799405	1			~TYPE2:11
+1057356	Stadtwerke Schwarzenberg GmbH		Am Moosbach 10	08344	Grünhain-Beierfeld	50.585866	12.811666	1			~TYPE2:11|~TYPE2:11
+1057358	Stadtwerke Schwarzenberg GmbH		Kirchstraße 2	09648	Altmittweida	50.965092	12.946985	1			~TYPE2:11
+1057359	Stadtwerke Schwarzenberg GmbH		Straße der Einheit 7L	08315	Lauter-Bernsbach	50.576181	12.771999	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057364	Stadtwerke Schwarzenberg GmbH		Erzstraße 11L	08340	Schwarzenberg	50.531898	12.768396	1			~TYPE2:22|~TYPE2:22
+1057365	Stadtwerke Schwarzenberg GmbH		Straße der Einheit 57L	08340	Schwarzenberg	50.547531	12.775220	1			~TYPE2:22|~TYPE2:22
+1057367	Stadtwerke Schwarzenberg GmbH		Am Lindengarten 9L	08340	Schwarzenberg	50.534607	12.767937	1			~TYPE2:22|~TYPE2:22
+1058023	eins energie in sachsen GmbH & Co. KG	Parkplatz "Fernbusterminal - Dresdner Str. 58"	Dresdner Str. 58	09130	Chemnitz	50.837317	12.930658	1	24/7	Keine Beschränkung	DE*EIN*E00122*001~TYPE2:22|DE*EIN*E00122*002~TYPE2:22|DE*EIN*E00123*001~TYPE2:22|DE*EIN*E00123*002~TYPE2:22|DE*EIN*E00124*001~TYPE2:22|DE*EIN*E00124*002~TYPE2:22
+1060184	CCE		Beyerstraße 1	09113	Chemnitz	50.838691	12.899793	1			~TYPE2:22|~TYPE2:22
+1060214	CCE		Äußere Dresdner Str. 25a	08066	Zwickau	50.719167	12.520716	1			~TYPE2:22|~TYPE2:22
+1061186	Gemeindeverwaltung Zschorlau	Parkplatz Kita	Albernauer Hauptstr. 23	08321	Zschorlau	50.547924	12.656041	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22
+1061482	Allego		Hilbersdorfer Str. 21	09131	Chemnitz	50.846637	12.938195	1	24/7	Keine Beschränkung	DEALLEGO003729_1~CCS2:50|DEALLEGO003729_2~CCS2:50|DEALLEGO003730_1~CCS2:50|DEALLEGO003730_2~CCS2:50
+1062536	Autohaus Hübsch GmbH		Hainstr. 139	09130	Chemnitz	50.845310	12.941300	1	24/7	Keine Beschränkung	~TYPE2:22
+1063512	Grüne Säule		Carl-von-Bach-Straße 8a	09116	Chemnitz	50.802619	12.852037	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1063513	Grüne Säule		Carl-von-Bach-Straße 8a	09116	Chemnitz	50.802432	12.852020	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22
+1063514	Grüne Säule		Annaberger Straße 121	09120	Chemnitz	50.814612	12.914112	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1063515	Grüne Säule		Carl-von-Bach-Straße 8a	09116	Chemnitz	50.802500	12.852029	1			~CCS2:350+CHADEMO:350|~CCS2:350+CHADEMO:350|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1063517	Grüne Säule		Annaberger Straße 121	09120	Chemnitz	50.814593	12.914239	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1063518	Grüne Säule		Hoffmannstraße 47	09112	Chemnitz	50.830299	12.896190	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1063519	Grüne Säule		Technologie-Campus 1	09126	Chemnitz	50.815841	12.925067	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1063520	Grüne Säule		F.-O.-Schimmel-Str. 2	09120	Chemnitz	50.805123	12.924765	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1063521	Grüne Säule		F.-O.-Schimmel-Str. 3	09120	Chemnitz	50.805607	12.925831	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1063527	Grüne Säule		Hauboldstraße 30	09111	Chemnitz	50.846346	12.922824	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1063531	Grüne Säule		Leipziger Str. 66-68	08371	Glauchau	50.821075	12.542552	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063534	Grüne Säule		Carl-von-Bach-Straße 8a	09116	Chemnitz	50.802474	12.851502	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1063535	Grüne Säule		Reichenhainer Straße 35/37	09126	Chemnitz	50.818405	12.929424	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063539	Grüne Säule		Annaberger Straße 240	09125	Chemnitz	50.795541	12.918332	1			~TYPE2:22|~TYPE2:22
+1063814	Grüne Säule		Harthweg 149z	09117	Chemnitz	50.824772	12.848610	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1064044	Kaufland	3110_Kland_Chemnitz_T53-IT1-0817-005	Chemnitzer Str. 65	09123	Chemnitz	50.783715	12.895356	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064103	Kaufland	2090_Kland_Mittweida_T53-HU1-2618-004	Sonnenstr. 7	09648	Mittweida	50.994903	12.965836	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064211	Kaufland	5900_Kland_Stollberg_T65-IT1-3322-114	Auer Str. 20	09366	Stollberg /Erzgeb.	50.706370	12.757840	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064239	Kaufland	3340_Kland_Zwickau_T54-IT1-3022-046	Äußere Dresdner Str. 25	08066	Zwickau	50.719473	12.523077	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064296	Kaufland	3660_Kland_Limbach-Oberfrohna_T65-IT1-4622-132	Ostring 4	09212	Limbach-Oberfrohna	50.855181	12.783754	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1064821	Aral Pulse		Zschopauer Straße 234	09126	Chemnitz	50.814229	12.954846	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1064870	Aral Pulse		Leipziger Str. 257	09114	Chemnitz	50.858174	12.869172	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1064957	Aral Pulse		Leipziger Straße 206	09114	Chemnitz	50.856937	12.874925	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1064998	Grüne Säule		Alfons-Pech-Straße 21	09116	Chemnitz	50.841520	12.881750	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1065000	Grüne Säule		Eislebener Straße 11	09126	Chemnitz	50.809491	12.950367	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1065002	Chemnitzer Siedlungsgemeinschaft eG		Kaßbergstraße 20	09112	Chemnitz	50.834260	12.910836	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1065003	Chemnitzer Siedlungsgemeinschaft eG		Kaßbergstraße 20	09112	Chemnitz	50.834260	12.910731	1			~CCS2:175+CHADEMO:175
+1065004	Chemnitzer Siedlungsgemeinschaft eG		Kaßbergstraße 20	09112	Chemnitz	50.834290	12.910545	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1065168	SMATRICS GmbH & Co KG		Johann-Esche-Straße 28	09212	Limbach-Oberfrohna	50.845971	12.787958	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1065233	Manuela Schleith		Zum Sonnenlandpark 3	09244	Lichtenau	50.919600	12.983570	1			~CCS2:50
+1065234	Manuela Schleith		Untere Hauptstraße 95	09244	Lichtenau	50.909370	12.995160	1			~CCS2:50
+1065336	EnBW mobility+ AG und Co.KG		Chemnitzer Str. 1	09385	Lugau	50.743046	12.748841	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1065388	EnBW mobility+ AG und Co.KG		Planitzwiese 2-8	09130	Chemnitz	50.840600	12.951200	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1066631	SB Handelsgesellschaft Nordbayern-Sachsen-Thüringen mbH		Im Gewerbegebiet 10	09355	Gersdorf	50.780371	12.697212	1			~TYPE2:22|~TYPE2:22
+1066763	EDEKA König		Wartburgstr. 25	09126	Chemnitz	50.817740	12.939490	1			~TYPE2:22|~TYPE2:22
+1066853	LADEFIX		Wettinerstraße 4	08280	Aue	50.586075	12.700782	1			~CCS2:50|~TYPE2:22
+1066855	LADEFIX		Chemnitzer Str. 93	09224	Grüna	50.810930	12.787175	1			~CCS2:50|~TYPE2:22
+1066856	LADEFIX		Beethovenstrasse 1	09217	Burgstädt	50.912944	12.809113	1			~CCS2:50|~TYPE2:22
+1066857	LADEFIX		Lutherstrasse 15	09366	Stollberg	50.710134	12.777614	1			~CCS2:50|~TYPE2:22
+1066859	LADEFIX		Schillerstraße 1	09648	Mittweida	50.985566	12.972501	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1066860	LADEFIX		Auerswalder Straße 5	09244	Oberlichtenau	50.905719	12.962406	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1066861	LADEFIX		Rudolf-Breitscheid-Straße 10	08371	Glauchau	50.819667	12.550579	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1066862	LADEFIX		Zwickauer Straße 409	09117	Chemnitz	50.816214	12.842483	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1066863	LADEFIX		Helenenstraße 27	09212	Limbach-Oberfrohna	50.858479	12.775807	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1066905	Ladeloewe GmbH		Sterzelstraße 1-3 1-3	09117	Chemnitz	50.822141	12.840441	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068669	Benjamin Schiller		Am Hutholz 31	09221	Neukirchen	50.780843	12.888772	1			~TYPE2:11
+1068691	Maximilian Steinert Einzelunternehmer		Am Dorfbach 5	09577	Niederwiesa	50.812622	12.862283	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068884	Audi Zentrum Zwickau GmbH		Oskar-Arnold-Str. 30	08056	Zwickau	50.708891	12.502916	1		Keine Beschränkung	DE*AZZ*EAUDI08056DC0043133~CCS2:50|DE*AZZ*EAUDI08056AC0043133~TYPE2:22
+1068885	Audi Zentrum Zwickau GmbH		Oskar-Arnold-Str. 30	08056	Zwickau	50.708900	12.502670	1		Keine Beschränkung	DE*AZZ*EAUDI08056ACL012486~TYPE2:22|DE*AZZ*EAUDI08056ACR012483~TYPE2:22
+1068895	Gerry Ditscher		Oberer Gutsweg 13	09232	Hartmannsdorf	50.877771	12.805444	1			~TYPE2:11|~TYPE2:11
+1068968	K&W Informatik GmbH		Feldstraße 2	09366	Niederdorf	50.723024	12.783124	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069087	Natur-Energie Andre Fritzsche (Einzelfirma)		Dorfstraße 24	04618	Göpfersdorf	50.912620	12.593960	1			~TYPE2_TETHERED:11|~TYPE2:11|~TYPE2:11
+1069294	Jörg Eißmann		Hartmannsdorfer Straße 18	08107	Kirchberg	50.614910	12.529554	1			~TYPE2:23+CCS2:23|~TYPE2_TETHERED:23+CCS2:23+CHADEMO:23
+1069619	Rehaklinik atr Beckerstraße 16		Beckerstraße 16	09120	Chemnitz	50.823910	12.917500	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1069882	Anne Buschbeck		Zliner Straße 39	09212	Limbach-Oberfrohna	50.851665	12.772206	1			~TYPE2:11|~TYPE2:11
+1071281	Katholische Pfarrei Heilige Mutter Teresa Chemnitz		Ludwig-Kirsch-Straße 19	09130	Chemnitz	50.837417	12.938191	1			~TYPE2:22
+1071282	Nicole Lauckner (Einzelunternehmen)		Bergstraße 11	08352	Raschau-Markersbach	50.533773	12.876500	1			~TYPE2:11
+1071452	Leonhard Zintl		Markt 25	09648	Mittweida	50.985350	12.981700	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1074173	Überlandwerke Glauchau GmbH		Sachsenallee 65	08371	Glauchau	50.826807	12.520004	1			~TYPE2:22|~TYPE2:22
+1074174	Überlandwerke Glauchau GmbH		Kopernikusstraße 51	08371	Glauchau	50.822842	12.555966	1			~TYPE2:22|~TYPE2:22
+1074175	Überlandwerke Glauchau GmbH		Hoffnung 83	08371	Glauchau	50.820212	12.543420	1			~TYPE2:22|~TYPE2:22
+1074176	Überlandwerke Glauchau GmbH		Wehrdigtstraße 29	08371	Glauchau	50.818576	12.536936	1			~TYPE2:22|~TYPE2:22
+1074177	Überlandwerke Glauchau GmbH		Bahnhofplatz 0	08371	Glauchau	50.827876	12.547434	1			~TYPE2:22|~TYPE2:22
+1074178	Überlandwerke Glauchau GmbH		Zum Vogelberg 10	08373	Remse OT Weidensdorf	50.848111	12.542942	1			~TYPE2:22|~TYPE2:22
+1074179	Überlandwerke Glauchau GmbH		Virchowstraße 18	08371	Glauchau	50.811054	12.548765	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074180	Überlandwerke Glauchau GmbH		Hoffnung 29	08371	Glauchau	50.818189	12.543810	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074181	Überlandwerke Glauchau GmbH		Lungwitzer Straße 55	08371	Glauchau	50.818627	12.556154	1			~TYPE2:22|~TYPE2:22
+1074182	Überlandwerke Glauchau GmbH		Thurmer Straße 7	08371	Glauchau	50.790220	12.555156	1			~TYPE2:22|~TYPE2:22
+1074183	Überlandwerke Glauchau GmbH		Sachsenallee 65	08371	Glauchau	50.827140	12.519900	1			~TYPE2:22|~CCS2:76.5|~CCS2:76.5
+1074184	Überlandwerke Glauchau GmbH		Bahnhofstraße 7	08371	Glauchau	50.827830	12.545390	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1075091	Schmutzler Immobilien GbR		Markt 3	09427	Ehrenfriedersdorf	50.645833	12.970277	1			~TYPE2:22
+1076285	Autohaus Rudi Seidel Inhaber Matthias Seidel e.K.		Zwickauer Strasse 51	08134	Wildenfels	50.669480	12.602100	1			~CCS2:22|~TYPE2:11|~CCS2:22|~TYPE2:11
+1076390	Fernwärmeversorgung der Stadt Lößnitz		Schneeberger Platz 10	08294	Lößnitz	50.621828	12.729378	1			~TYPE2:22|~TYPE2:22
+1076391	Fernwärmeversorgung der Stadt Lößnitz		Marktplatz 1	08294	Lößnitz	50.621141	12.732439	1			~TYPE2:22|~TYPE2:22
+1076392	Fernwärmeversorgung der Stadt Lößnitz		Heinestraße 1	08294	Lößnitz	50.611990	12.716388	1			~TYPE2:22|~TYPE2:22
+1076424	DI Hotel Chemnitz Nr. 30 GmbH & Co. KG Co/56 Chemnitz		Salzstr. 56 56	09113	Chemnitz	50.847041	12.916647	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1080446	Stadtwerke Annaberg-Buchholz GmbH		Lousie-Otto-Peters-Straße 1	09456	Annaberg-Buchholz	50.579405	12.982081	1			~TYPE2:22|~TYPE2:22
+1080447	Stadtwerke Annaberg-Buchholz GmbH		Sehmatalstraße 15	09456	Annaberg-Buchholz	50.598816	12.995631	1			~TYPE2:22|~TYPE2:22
+1080448	Stadtwerke Annaberg-Buchholz GmbH		Mittelweg 4	09488	Schönfeld	50.619041	12.982446	1			~TYPE2:22|~TYPE2:22
+1080455	Stadtwerke Annaberg-Buchholz GmbH		An der Festwiese 2	09468	Tannenberg	50.605459	12.948165	1			~TYPE2:22|~TYPE2:22
+1080555	Andre Gersch		Zliner Str. 25	09212	Limbach-Oberfrohna	50.851581	12.771454	1			~TYPE2:6
+1081318	Autohaus Melkus GmbH		F.-O.-Schimmel-Str. 31	09120	Chemnitz	50.804918	12.923611	1			~TYPE2:22|~TYPE2:22
+1081402	Autohaus Zwingenberger		Hofer Str. 8	09355	Gersdorf	50.780519	12.695516	1			~TYPE2:22|~TYPE2:22
+1083723	Schreinerei & Metallbau Wagner GmbH		Stollberger Straße 58	09399	Niederwürschnitz	50.713640	12.756340	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1084262	SEDHo GmbH		Unter Hauptstraße 61	09232	Hartmannsdorf	50.892239	12.799957	1			~TYPE2:11
+1084687	Andreas Spielberg		Thalheimer Straße 13	09387	Jahnsdorf/Erzgeb	50.736368	12.843882	1			~TYPE2_TETHERED:11
+1085152	Christina Martin		Ahornweg 24	09221	Neukirchen/Erzgebirge	50.755771	12.882829	1			~TYPE2:11
+1085236	Daniel Benkert		Windmühlenweg 7	08304	Schönheide	50.500704	12.519718	1			~TYPE2_TETHERED:11
+1085566	Erik Trinks		Rhenaniaweg 34	09385	Lugau/Erzgeb.	50.740660	12.743043	1			~TYPE2:11
+1086046	Holger Wehner		Majakowskistraße 98	09127	Chemnitz	50.815954	12.975473	1			~TYPE2_TETHERED:11
+1086407	Kai Todorowski		Willibald Emmrich Straße 3d	09376	Oelsnitz/Erzgebirge	50.722654	12.731392	1			~TYPE2_TETHERED:7
+1086419	Karin Simone Wenzel		Am Hang 8	09337	Callenberg	50.836288	12.703799	1			~TYPE2_TETHERED:11
+1086529	Kristin Günther		Thurmer Straße 2c	09356	Sankt Egidien	50.789327	12.614391	1			~TYPE2:6
+1086597	LHT Land-, Hoch- und Tiefbau GmbH		Chemnitzer Straße 38	09366	Stollberg/Erzgeb.	50.715070	12.784843	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086680	Marcel Baldauf		Obere Hauptstraße 16	09235	Burkhardtsdorf	50.734322	12.914785	1			~TYPE2_TETHERED:11
+1086832	Marlies Annemarie Flemming		Albert-Köhler-Straße 47A	08371	Glauchau	50.822501	12.507319	1			~TYPE2_TETHERED:11
+1086879	Martin Lehnert		An der Koppel 5	09221	Neukirchen/Erzgebirge	50.777947	12.846003	1			~TYPE2_TETHERED:11
+1087361	Philipp Winkler		Pleißaer Str. 42	09224	Chemnitz	50.828222	12.920855	1			~TYPE2:11
+1087859	Stefanie Zeidler		Rathausplatz 7	09247	Chemnitz	50.860909	12.836270	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087964	Sven Deckert		Am Fischerberg 4	08118	Hartenstein	50.661953	12.671365	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088100	Thomas Schmidt		Kreherstraße 69	09127	Chemnitz	50.823919	12.953342	1			~TYPE2_TETHERED:11
+1088109	T. S.		An der Bahnstrecke 28	09114	Chemnitz	50.879299	12.943391	1			~TYPE2_TETHERED:11
+1088277	Ulf-Michael Nützel		Wilhelmschachtweg 16	08056	Zwickau	50.698257	12.515326	1			~TYPE2:11
+1088455	X1-Autoteile	X1-Autoteiled	Popowstraße 1B	09116	Chemnitz	50.820296	12.876342	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1089429	Würth Elektrogroßhandel GmbH & Co. KG		Niedermülsener Hauptstraße 14b	08132	Mülsen	50.779878	12.545137	1			~TYPE2:22|~TYPE2:22
+1089430	Würth Elektrogroßhandel GmbH & Co. KG		Niedermülsener Hauptstraße 14b	08132	Mülsen	50.779851	12.545174	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089431	Würth Elektrogroßhandel GmbH & Co. KG		Niedermülsener Hauptstraße 14b	08132	Mülsen	50.779831	12.545207	1			~TYPE2:22|~TYPE2:22
+1089433	Würth Elektrogroßhandel GmbH & Co. KG		Niedermülsener Hauptstraße 14b	08132	Mülsen	50.779987	12.545196	1			~TYPE2:22|~TYPE2:22
+1090948	Solarbetrieb Regina und Bernhard Herrmann (GbR)		Zauberweg 13	09224	Chemnitz	50.816380	12.795150	1			~TYPE2:11
+1091017	Andrè Lackner Einzelunternehmen		Dorfstraße 47	08340	Schwarzenberg	50.523079	12.779084	1			~TYPE2:22|~TYPE2:22
+1091209	LS-sasto-MW-DC		Dreiwerdener Weg 1	09648	Mittweida	50.978623	12.982143	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1091308	Ladelöwe GmbH		Reichenbrander Straße 26b	09224	Chemnitz	50.809160	12.833460	1			~TYPE2:22|~TYPE2_TETHERED:22
+1091711	AreaCharge	C_WCW_1_1	Irkutsker Str. 43	09119	Chemnitz	50.813910	12.895490	1	24/7	Keine Beschränkung	~TYPE2:22
+1091712	AreaCharge	C_WCW_2_1	Irkutsker Str. 187	09119	Chemnitz	50.814842	12.892669	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091721	AreaCharge	ERZ_WBG_1_1	Stadtbadstr. 36	09380	Thalheim	50.705672	12.846112	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091787	MER Germany	Oberlungwitz (DE*MER*E011509)	Hofer Str. 30	09353	Oberlungwitz	50.785056	12.720611	1	24/7	Keine Beschränkung	DE*MER*E011509*01~CCS2:50|DE*MER*E011539*01~CCS2:50|DE*MER*E011449*01~CCS2:50|DE*MER*E011479*01~CCS2:50
+1092056	Neukauf Verbrauchermarkt GmbH		Neefestr. 52k	09119	Chemnitz	50.822273	12.901631	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1092971	Jens Kaufmann		Lugauer Straße 1b	09385	Lugau	50.762248	12.737477	1			~TYPE2_TETHERED:11
+1093082	Gemeindeverwaltung Zschorlau		August-Bebel-Straße 77L	08321	Zschorlau	50.564840	12.645360	1			~TYPE2:22|~TYPE2:22
+1093514	Stadtwerke Schneeberg GmbH		Am Filzteich 0	08289	Schneeberg	50.574052	12.612503	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093516	Stadtwerke Schneeberg GmbH		Friedensstraße 0	08301	Bad Schlema	50.600769	12.656529	1			~TYPE2:22|~TYPE2:22
+1093518	Stadtwerke Schneeberg GmbH		Topfmarkt 0	08289	Schneeberg	50.594472	12.641701	1			~TYPE2:22|~TYPE2:22
+1093519	Stadtwerke Schneeberg GmbH		Straße der Solidarität 1	08289	Schneeberg	50.602201	12.631758	1			~TYPE2:22|~TYPE2:22
+1093520	Stadtwerke Schneeberg GmbH		Keilbergring 20	08289	Schneeberg	50.607014	12.632824	1			~TYPE2:22|~TYPE2:22
+1093521	Stadtwerke Schneeberg GmbH		Gottlieb-Heinrich-Dietz Straße 30	08289	Schneeberg	50.600633	12.635083	1			~TYPE2:22|~TYPE2:22
+1093522	Stadtwerke Schneeberg GmbH		Christian-Meltzer-Straße 1-9	08289	Schneeberg	50.604572	12.627402	1			~TYPE2:22|~TYPE2:22
+1093523	Stadtwerke Schneeberg GmbH		Friedensring 0	08289	Schneeberg	50.605618	12.636005	1			~TYPE2:22|~TYPE2:22
+1093524	Stadtwerke Schneeberg GmbH		Wolfgang-Krodel-Straße 0	08289	Schneeberg	50.606967	12.629389	1			~TYPE2:22|~TYPE2:22
+1093525	Stadtwerke Schneeberg GmbH		Ludwig-Jahn-Straße 22	08309	Eibenstock	50.504040	12.600100	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096437	Auto Günther Inhaber Jörg Günther e.K.		Anton-Günther-Straße 27A	08352	Raschau-Markersbach	50.528919	12.845155	1			~CCS2:22|~TYPE2:11
+1096471	AUTO POINT GmbH		Neefestraße 0	09116	Chemnitz	50.818092	12.885790	1			~CCS2:22|~TYPE2:11
+1096549	Autohaus Baumgärtel GmbH		Stützengrüner Str. 4	08304	Schönheide	50.506550	12.539246	1			~CCS2:22|~TYPE2:11
+1096652	Autohaus Fleischer GmbH		Am Gründel 19	09423	Gelenau/Erzgeb.	50.704525	12.938060	1			~CCS2:22|~TYPE2:11
+1096749	Autohaus Illgen GmbH		Zwönitzer Str. 10B	09366	Stollberg/Erzgeb.	50.706325	12.785224	1			~CCS2:22|~TYPE2:11
+1097031	Autohaus Schüler & Co GmbH		Am Schmelzbach 81	08112	Wilkau-Haßlau	50.687694	12.515790	1			~CCS2:22|~TYPE2:11
+1097087	Autohaus Telke e.K.		Auer Talstraße 2	08301	Bad Schlema	50.614796	12.682043	1			~CCS2:22|~TYPE2:11
+1097090	Autohaus Thomas Rudolph GmbH		Turleyring 6	09376	Oelsnitz/Erzgebirge	50.723299	12.718752	1			~CCS2:22|~TYPE2:11
+1097140	Autohaus Weinhold	Autohaus Weinhold	Limbacher Straße 110-112	09116	Chemnitz	50.836425	12.890740	1		Keine Beschränkung	~CCS2:50|~TYPE2:11|~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1097189	Auto-Leonhardt GmbH		Eisenbrückenweg 13	08280	Aue-Bad Schlema	50.612592	12.704278	1			~CCS2:22|~TYPE2:11
+1097199	Automobile Werner		Chemnitzer Straße 0	09648	Mittweida	50.974354	12.981191	1			~CCS2:22|~TYPE2:11|~CCS2:75|~CCS2:75|~TYPE2:22
+1102259	Lebenshilfe Stollberg e.V.		Hohensteiner Straße 39	09366	Stollberg/Erzgeb.	50.712296	12.765348	1			~TYPE2:22|~TYPE2:22
+1102330	Peter Fisch		Salzstraße 68A	09113	Chemnitz	50.848300	12.917800	1			~TYPE2:11
+1102419	Erzgebirgische Krankenhaus- und Hospitalgesellschaft mbH		Clara-Zetkin-Str. 74	08340	Schwarzenberg	50.554105	12.772405	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1102588	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845644	12.783300	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102589	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845484	12.784987	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102590	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845489	12.784934	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102593	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845556	12.784882	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102594	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845599	12.784809	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102595	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845603	12.784718	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102598	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845673	12.784600	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102600	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845721	12.784500	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102601	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845750	12.784456	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102602	BplusL Infra Log GmbH		Johann-Esche-Straße 27	09212	Limbach-Oberfrohna	50.845729	12.784446	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102643	Bert Lorenz		Neuheiderstrasse 48d	08304	Schönheide	50.514587	12.513113	1			~TYPE2_TETHERED:11
+1103243	LADEFIX	Parkplatz KITA	Eichenweg 2A	09481	Scheibenberg	50.538842	12.913155	1	24/7	Keine Beschränkung	DE*EME*EFIX*0012*1~TYPE2:22+TYPE2:22|DE*EME*EFIX*0012*2~TYPE2:22
+1103455	Energielösung GmbH	Zwönitzer G. 7, 08297 Zwönitz	Zwönitzer Gasse 8	08297	Zwönitz	50.631114	12.815648	1		Keine Beschränkung	~TYPE2:22
+1103456	Energielösung GmbH	Zwönitzer G. 7, 08297 Zwönitz	Zwönitzer Gasse 7	08297	Zwönitz	50.634030	12.815460	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103794	eins energie in sachsen GmbH & Co. KG	Parkplatz "Schwimmsportkomplex Bernsdorf"	Bernsdorfer Str. 213	09126	Chemnitz	50.809676	12.952333	1	24/7	Keine Beschränkung	DE*EIN*E00118*001~TYPE2:11|DE*EIN*E00118*002~TYPE2:11|DE*EIN*E00119*001~TYPE2:11|DE*EIN*E00119*002~TYPE2:11
+1103824	EnBW mobility+ AG und Co.KG		Carl-von-Ossietzky-Str. 153	09127	Chemnitz	50.822400	12.959900	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1103826	Überlandwerke Glauchau GmbH	Antonstraße	Lichtensteiner Str. 50	08371	Glauchau	50.813934	12.553813	1	24/7	Keine Beschränkung	DE*ISE*EA184542~TYPE2:22|DE*ISE*EA148161~TYPE2:22
+1103828	Überlandwerke Glauchau GmbH	Ringstraße	Ringstr. 12	08371	Glauchau	50.835705	12.566662	1	24/7	Keine Beschränkung	DE*ISE*EA129119~TYPE2:22|DE*ISE*EA129487~TYPE2:22
+1103831	Überlandwerke Glauchau GmbH	Schillerplatz	Leipziger Str. 34	08371	Glauchau	50.822552	12.543059	1	24/7	Keine Beschränkung	DE*ISE*EA132736~TYPE2:22|DE*ISE*EA134571~TYPE2:22
+1104224	Andreas Pfüller - Autohaus Stollberg e.K.		Auer Str. 4	09366	Stollberg	50.711652	12.760258	1			~CCS2:22|~TYPE2:11
+1104286	Thomas Kubbe		Egghalde 16	08371	Glauchau	50.813010	12.533450	1	24/7	Nur für Kunden/Besucher	~TYPE2:22
+1105753	Jan Rudolph		Dresdner Straße 136	09131	Chemnitz	50.848456	12.946811	1			~TYPE2_TETHERED:22
+1105955	BAB Tank- und Rastanlage Auerswalde Süd GmbH & Co. KG		Chemnitzer Landstraße 30 A	09244	Lichtenau-Auerswalde	50.893378	12.946093	1			~TYPE2:150+CCS2:150|~TYPE2:150+CCS2:150|~TYPE2:150+CCS2:150|~TYPE2:150+CCS2:150
+1106515	E.ON Drive GmbH		Auerswalder Blick Nord 0	09244	Lichtenau	50.892978	12.938842	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1107079	E.ON Drive GmbH		Theaterstraße 7	09111	Chemnitz	50.835055	12.920021	1			~TYPE2:11|~TYPE2:11
+1109511	EEG Curiestrasse GbR		Curiestrasse 3a	09117	Chemnitz	50.814530	12.843410	1			~TYPE2:11|~TYPE2:11
+1109874	BMW AG		Röhrsdorfer Allee 3	09247	Chemnitz	50.865973	12.859146	1			~TYPE2:22|~TYPE2:22
+1110165	FEN - Handels und Dienstleistungs GmbH		Teichstraße 11	09366	Niederdorf	50.728484	12.783813	1			~TYPE2:22|~TYPE2:22
+1110248	Kamps Sportwagenzentrum Chemnitz GmbH & Co. KG		Tuchschererstr. 9-11	09116	Chemnitz	50.827845	12.921370	1			~TYPE2_TETHERED:320|~TYPE2_TETHERED:320|~TYPE2_TETHERED:300
+1110615	envia Mitteldeutsche Energie AG	24BZ6075A	Johann-Esche-Str. 3	09212	Limbach-Oberfrohna	50.846958	12.788082	1	24/7	Keine Beschränkung	DE*ISE*E0022446~CCS2:100|DE*ISE*E0022444~CCS2:100
+1110616	CAP PARTS AG		Elterleiner Str. 15	09481	Scheibenberg	50.546902	12.913645	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1110617	envia Mitteldeutsche Energie AG	CSN0072660	Johann-Esche-Str. 3	09212	Limbach-Oberfrohna	50.846991	12.788032	1	24/7	Keine Beschränkung	DE*ISE*E0022872~TYPE2:11|DE*ISE*E0022870~TYPE2:11
+1113205	Emobility East		Adorfer Str. 2	09235	Burkhardtsdorf	50.734907	12.919503	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113206	Emobility East		Topfmarkt 15	09235	Burkhardtsdorf	50.733396	12.917213	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113373	Gemeinde Gelenau		Ernst-Thälmann-Straße 14	09423	Gelenau/Erzgebirge	50.713526	12.987662	1			~CCS2:50|~TYPE2:22
+1113374	Gemeinde Gelenau		Am Sportareal 8	09423	Gelenau/Erzgebirge	50.716821	12.980348	1			~CCS2:50|~TYPE2:22
+1113375	Gemeinde Gelenau		Louis-Riedel-Weg 2	09423	Gelenau/Erzgebirge	50.710639	12.974625	1			~CCS2:50|~TYPE2:22
+1113376	Gemeinde Gelenau		Fritz-Reuter-Str. 2	09423	Gelenau/Erzgebirge	50.693479	12.942639	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1113409	Albani-Elektronik J.H.Albani		Oberlungwitzer Straße 2	09337	Hohenstein-Ernstthal	50.806389	12.753002	1			~TYPE2_TETHERED:22
+1113597	Berghotel Greifensteine e.K.		Greifensteinstraße 42	09427	Ehrenfriedersdorf	50.649818	12.928356	1			~TYPE2:22|~TYPE2:22
+1113758	Schlettau-Online - Sven Ziller, Einzelunternehmen		Markt 1	09487	Schlettau	50.559380	12.951579	1			~TYPE2:22|~TYPE2:22
+1113759	Schlettau-Online - Sven Ziller, Einzelunternehmen		Hermannsdorfer Weg 6	09487	Schlettau	50.611520	12.949927	1			~TYPE2:22|~TYPE2:22
+1113760	Schlettau-Online - Sven Ziller, Einzelunternehmen		Schwarzenberger Straße 31	09487	Schlettau	50.555140	12.949050	1			~TYPE2:11
+1113761	Schlettau-Online - Sven Ziller, Einzelunternehmen		Beutengraben 6	09487	Schlettau	50.558585	12.952315	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114063	Volkswagen Automobile Chemnitz GmbH		Müllerstr. 46	09113	Chemnitz	50.845405	12.920689	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~CCS2:25|~CCS2:25
+1114065	Volkswagen Automobile Chemnitz GmbH		Röhrsdorfer Allee 8	09247	Chemnitz	50.867180	12.856933	1			~TYPE2_TETHERED:11|~CCS2:25|~CCS2:25
+1114345	Energiegenossenschaft Chemnitz-Zwickau		Auer Str. 11a	09366	Stollberg	50.707568	12.759318	1			~TYPE2:22|~TYPE2:22
+1114346	Energiegenossenschaft Chemnitz-Zwickau		Zschoapauer Str. 254	09126	Chemnitz	50.812781	12.957838	1			~TYPE2:22|~TYPE2:22
+1114347	Energiegenossenschaft Chemnitz-Zwickau		Zschopauer Str. 254	09126	Chemnitz	50.812761	12.957872	1			~TYPE2_TETHERED:22|~CCS2:43+CHADEMO:43|~CCS2:50+CHADEMO:50
+1114351	Energiegenossenschaft Chemnitz-Zwickau		Bahnhofstr. 11b	08340	Schwarzenberg/Erzgebirge	50.541567	12.785734	1			~TYPE2:11
+1114352	Energiegenossenschaft Chemnitz-Zwickau		Zschoapuer Str. 254	09126	Chemnitz	50.813048	12.957898	1			~TYPE2:11|~TYPE2:11
+1114354	Energiegenossenschaft Chemnitz-Zwickau		Dresdner Str. 100	09130	Chemnitz	50.843868	12.937753	1			~TYPE2:11|~TYPE2:11
+1114356	Energiegenossenschaft Chemnitz-Zwickau		Ahnataler Platz 8	09217	Burgstädt	50.917691	12.812110	1			~TYPE2:11
+1114357	Energiegenossenschaft Chemnitz-Zwickau		Uferweg 235b	09474	Crottendorf	50.511681	12.939988	1			~TYPE2:11
+1114358	Energiegenossenschaft Chemnitz-Zwickau		Hauptstr. 33	09380	Thalheim	50.699997	12.848427	1			~TYPE2:11|~TYPE2:11
+1114359	Energiegenossenschaft Chemnitz-Zwickau		Irkutsker Str. 213-227	09119	Chemnitz	50.873371	12.905493	1			~TYPE2:11
+1114361	Energiegenossenschaft Chemnitz-Zwickau		Seminarstr. 2	08289	Schneeberg	50.596820	12.640020	1			~TYPE2_TETHERED:11
+1114362	Energiegenossenschaft Chemnitz-Zwickau		Theaterstr. 13	09111	Chemnitz	50.833735	12.917819	1			~TYPE2:11|~TYPE2:11
+1114364	Energiegenossenschaft Chemnitz-Zwickau		Theaterstr. 13	09111	Chemnitz	50.833733	12.917857	1			~TYPE2:11
+1114532	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb		Grenzstraße 2 a/b	09376	Oelsnitz/Erzgebirge	50.727148	12.735045	1			~TYPE2:22+TYPE2_TETHERED:22
+1114533	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb		August-Bebel-Straße 16	09376	Oelsnitz/Erzgebirge	50.702797	12.714939	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1114534	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb		August-Bebel-Straße 16	09376	Oelsnitz/Erzgebirge	50.726660	12.705690	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114535	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb		Rathausplatz 4	09376	Oelsnitz/Erzgeb.	50.722510	12.698108	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1114536	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb		Waldbad Oelsnitz/Erzgeb 0	09376	Oelsnitz/Erzgeb.	50.702765	12.714818	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1115223	Emobility East		Hauptstr. 87A	09392	Auerbach	50.686770	12.913627	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1115399	Reinhardt Lindner	ROGO-Werke	Hofer Str. 30	09353	Oberlungwitz	50.785717	12.721502	1	24/7	Keine Beschränkung	DEMERE01144901~CCS2:50|DEMERE01147901~CCS2:50|DEMERE01150901~CCS2:50|DMERE01153901~CCS2:50
+1115932	AIC Hörmann		Brückenstrasse 8	09111	Chemnitz	50.834960	12.925032	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1115983	Hotel zur Talsperre		Althainer Alee 6	09123	Chemnitz	50.771964	12.976332	1			~TYPE2:22|~TYPE2:22
+1116395	AreaCharge	C_WCW_1_2	Irkutsker Str. 43	09119	Chemnitz	50.813910	12.892669	1	24/7	Keine Beschränkung	~TYPE2:22
+1116588	Grüne Säule	Hartmannfabrik	Fabrikstr. 11	09111	Chemnitz	50.837209	12.914453	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1117562	EWE Go GmbH	McD_1648_1A	Dresdner Str. 43	09130	Chemnitz	50.846513	12.940299	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1118251	Q1 Autostrom	Schlettau, Buchholzer Straße	Buchholzer Str. 36A	09487	Schlettau	50.558624	12.960702	1	24/7	Keine Beschränkung	DE*Q1A*E48140022~CCS2:300|DE*Q1A*E48140046~CCS2:300|DE*Q1A*E48140049~TYPE2:22
+1118820	Robert Lasch		Dorfstr. 25	09385	Lugau	50.760278	12.770556	1	Mo-Fr 08:00-15:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1119023	Vattenfall Smarter Living GmbH		Kleines Dörfchen 5	09212	Limbach-Oberfrohna	50.862232	12.760883	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1119880	Wohnungsbaugesellschaft mbH Oelsnitz/Erzgeb	Parkplatz Waldbad Oelsnitz	Oelsnitzer Str. 0	09376	Oelsnitz /Erzgeb.	50.703300	12.719120	1	24/7	Nur für Kunden/Besucher	ABL_10363993~TYPE2:11|ABL_10363993~TYPE2:11
+1120330	Autohaus Bräutigam GmbH & Co. KG	Autohaus Bräutigam Körnerstrasse	Körnerstr. 1	08371	Glauchau	50.819984	12.548550	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22
+1120527	EnBW mobility+ AG und Co.KG		Bahnhofsplatz 5	09456	Annaberg-Buchholz	50.576900	12.998700	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1121671	David Korb		Geschwister-Scholl-Str. 14	09114	Chemnitz	50.865446	12.881041	1	24/7	Keine Beschränkung	~TYPE2:11
+1125687	cocharge	DECOC209	Geschwister-Scholl-Str. 14	09114	Chemnitz	50.865436	12.880711	1	24/7	Keine Beschränkung	DE*COC*E209*01~TYPE2:22
+1125991	eins energie in sachsen GmbH & Co. KG	Parkplatz "ISB - Max-Türpe-Str. 40"	Max-Türpe-Str. 40	09122	Chemnitz	50.791375	12.882079	1	24/7	Keine Beschränkung	DE*EIN*E00142*001~TYPE2:22|DE*EIN*E00142*002~TYPE2:22
+1126277	Tesla Germany GmbH		Ringstr. 17	09247	Chemnitz	50.864132	12.867660	1	24/7	Keine Beschränkung	DE*TSL*E12WIG5~CCS2:250|DE*TSL*E12WIG6~CCS2:250|DE*TSL*E12WIG7~CCS2:250|DE*TSL*E12WIG8~CCS2:250|DE*TSL*E12WIG9~CCS2:250|DE*TSL*E12WIGA~CCS2:250|DE*TSL*E12WIGH~CCS2:250|DE*TSL*E12WIGO~CCS2:250
+1127736	eins energie in sachsen GmbH & Co. KG	Parkplatz "Autohaus Melkus"	F.-O.-Schimmel-Str. 31	09120	Chemnitz	50.805229	12.923693	1	Mo-Fr 07:00-18:00	Keine Beschränkung	DE*EIN*E00145*002~TYPE2:22|DE*EIN*E00145*001~TYPE2_TETHERED:22
+1128491	EDEKA MÜLSEN		St. Jacober Hauptstr. 135	08132	Mülsen	50.730027	12.585079	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1128725	TotalEnergies Charging Solutions		Otto-Hahn-Str. 18	08066	Zwickau	50.731218	12.524927	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS90057*001*1~CCS2:200|DE*TCB*E3D9CS90057*001*2~CCS2:200|DE*TCB*E3D9CS90057*002*1~CCS2:200|DE*TCB*E3D9CS90057*002*2~CCS2:200|DE*TCB*E3D9CS90057*003*1~CCS2:200|DE*TCB*E3D9CS90057*003*2~CCS2:200|DE*TCB*E3D9CS90057*004*1~CCS2:200|DE*TCB*E3D9CS90057*004*2~CCS2:200
+1128806	EnBW mobility+ AG und Co.KG		Chemnitzer Str. 1	09385	Lugau	50.743180	12.748000	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1129110	Kaufland	2830_KLand_Schwarzenberg_T65-IT1-0425-004	Karlsbader Str. 2A	08340	Schwarzenberg /Erzgeb.	50.539523	12.785952	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1129594	MER Germany	IKEA Chemnitz (DE*MER*E017708)	Im Neefepark 5	09116	Chemnitz	50.803161	12.859083	1	24/7	Keine Beschränkung	DE*MER*E017708*01~CCS2:150|DE*MER*E017708*02~CCS2:150|DE*MER*E017709*01~CCS2:150|DE*MER*E017709*02~CCS2:150|DE*MER*E018426*01~CCS2:50|DE*MER*E018426*02~CCS2:50|DE*MER*E018427*01~CCS2:50|DE*MER*E018427*02~CCS2:50|DE*MER*E018428*01~CCS2:50|DE*MER*E018428*02~CCS2:50|DE*MER*E018430*01~CCS2:200|DE*MER*E018430*02~CCS2:200|DE*MER*E018431~CCS2:150|DE*MER*E018431*02~CCS2:150|DE*MER*E018432*01~CCS2:150|DE*MER*E018432*02~CCS2:150|DE*MER*E018429*01~CCS2:50|DE*MER*E018429*02~CCS2:50
+1130341	Kaufland	7210_KLand_Burgstädt_T65-IT1-0425-003	Mittweidaer Str. 1	09217	Burgstädt	50.918390	12.815050	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1130397	envia Mitteldeutsche Energie AG	25BZ1847C	Am Sachsenring 2T	09353	Oberlungwitz	50.789730	12.694746	1	24/7	Keine Beschränkung	DE*ISE*EA127957~CCS2:100|DE*ISE*EA167498~CCS2:100|DE*ISE*EA189883~CCS2:100|DE*ISE*EA172113~CCS2:100
+1130401	envia Mitteldeutsche Energie AG	25BZ1846C	Am Sachsenring 2a	09353	Oberlungwitz	50.789716	12.694614	1	Mo-So 06:00-22:00	Nur für Kunden/Besucher	DE*ISE*EA119125~CCS2:100|DE*ISE*EA189373~CCS2:100
+1130697	envia Mitteldeutsche Energie AG	CSN0075580	Albrecht-Dürer-Str. 85	09366	Stollberg /Erzgeb.	50.713566	12.767906	1	24/7	Keine Beschränkung	DE*ISE*EA135953~TYPE2:22|DE*ISE*EA187458~TYPE2:22
+1130700	envia Mitteldeutsche Energie AG	CSN0075581	Altmarkt 13	09350	Lichtenstein /Sa.	50.755918	12.634781	1	24/7	Keine Beschränkung	DE*ISE*EA135988~TYPE2:22|DE*ISE*EA168534~TYPE2:22
+1131141	envia Mitteldeutsche Energie AG	CSN0074601	Hartensteiner Str. 11	09350	Lichtenstein /Sa.	50.754752	12.633418	1	24/7	Nur für Kunden/Besucher	DE*ISE*EA112956~TYPE2:11
+1131594	Energielösung GmbH		Markt 6	08297	Zwönitz	50.630060	12.813300	1	24/7	Keine Beschränkung	DE*BEM*E0011326~CCS2:150|DE*BEM*E0011327~CCS2:150
+1132128	Allego		Thomas-Mann-Platz 1b	09130	Chemnitz	50.848317	12.938126	1	24/7	Keine Beschränkung	DEALLEGO002999_1~CCS2:150|DEALLEGO002999_2~CCS2:150|DEALLEGO003107_1~CCS2:150|DEALLEGO003107_2~CCS2:150|DEALLEGO003291_1~CCS2:150|DEALLEGO003291_2~CCS2:150|DEALLEGO003292_1~CCS2:150|DEALLEGO003292_2~CCS2:150
+1132382	Energielösung GmbH		Speicherstr. 1	08297	Zwönitz	50.633833	12.815469	1	24/7	Keine Beschränkung	DE*BEM*E0011326~CCS2:150|DE*BEM*E0011327~CCS2:150
+1133394	envia Mitteldeutsche Energie AG	24BZ2818C	Chemnitztalstr. 13	09114	Chemnitz	50.858105	12.927007	1	24/7	Keine Beschränkung	DE*ISE*E0022873~CCS2:100|DE*ISE*E0022875~CCS2:100
+1134123	Ladelöwe GmbH	Sterzelstraße 1	Sterzelstr. 1	09117	Chemnitz	50.822746	12.843067	1	24/7	Keine Beschränkung	DE*ONE*EFS33 DE*ONE*E3G2M~TYPE2:22|DE*ONE*ELFZ8 DE*ONE*EZA8B~TYPE2:22|DE*ONE*E6ZVZ DE*ONE*E2YLV~TYPE2_TETHERED:22|DE*ONE*EVY2M~CCS2:22|DE*ONE*ENW42~TYPE2_TETHERED:22
+1134125	senso energy	senso	Bernsdorfer Str. 291	09125	Chemnitz	50.800681	12.947156	1	24/7	Keine Beschränkung	DE*EFL*EV9730162*C1~TYPE2:22|DE*EFL*EV9730162*C2~TYPE2:22|CH*ECUEBLKQFMDEMDBVT3GTRGFLAWGPQW~TYPE2:11|CH*ECUELQHEFYBEM9K7WFBNQ5AW7Z8LBQ~TYPE2:11
+1134447	Porsche Zentrum Chemnitz	Kundenparkplatz	Tuchschererstraße 9-11	09116	Chemnitz	50.805584	12.857157	1	Mo-Fr 08:00-18:00, Sa 09:00-13:00	Nur für Kunden/Besucher	~CCS2:350|~CCS2:350|~TYPE2:22|~TYPE2:22
+1134562	Kaufland	3350_KLand_Aue_T65-IT-0425-006	Brünlasberg 1a	08280	Aue-Bad Schlema	50.596510	12.679120	1	Mo-Sa 07:00-22:00	Nur für Kunden/Besucher	~CCS2:60|~TYPE2:22|~CCS2:60
+1134657	senso energy	Deutsches Haus Mittweida	Rochlitzer Str. 5	09648	Mittweida	50.985503	12.979279	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1136340	Shell Deutschland GmbH		Beyerstr 1	09113	Chemnitz	50.838814	12.899910	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1136341	Shell Deutschland GmbH		Frankenberger Str. 46	09131	Chemnitz	50.847924	12.944365	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1136342	Shell Deutschland GmbH		Frankenberger Str. 46	09131	Chemnitz	50.847953	12.944316	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1137510	Kaufland	3193_Kland_Chemnitz_T124-IT1-4023-011	Im Neefepark 3	09116	Chemnitz	50.806210	12.862130	1		Keine Beschränkung	~TYPE2:22|~CCS2:60|~CCS2:60
+1138843	Annemarie Katrin Feicke		Semperstr. 2c	09117	Chemnitz	50.827845	12.921370	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1139331	Marcel Albert	Parkplatz	Feldstr. 0	09387	Jahnsdorf /Erzgeb.	50.733590	12.841281	1	Mo-Fr 10:00-18:00	Nur für Kunden/Besucher	~TYPE2:11
+1139788	Marbach Stanzformtechnik in Geyer GmbH	Station 01	Gewerbegebiet An der Morgensonne 6	09468	Geyer	50.625080	12.937731	1	24/7	Keine Beschränkung	DECPIE7291215~TYPE2_TETHERED:22|DECPIE7291215~TYPE2_TETHERED:22|DECPIE7291175~TYPE2_TETHERED:22|DECPIE7291175~TYPE2_TETHERED:22
+1140295	LADEFIX		Wettinerplatz 4	08280	Aue-Bad Schlema	50.586020	12.700788	1	24/7	Keine Beschränkung	DE*EME*EFIX*0020~CCS2:49+CHADEMO:49
+1140813	Aral Pulse		Neefestr. 145	09116	Chemnitz	50.816440	12.883710	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1141153	AH Uhlig		Altenburger Str. 83	09328	Lunzenau	50.960997	12.743199	1			~TYPE2:11|~TYPE2_TETHERED:22
+1141648	Q1 Autostrom	Schwarzenberg, Straße der Einheit	Straße der Einheit 126	08340	Schwarzenberg /Erzgeb.	50.555921	12.755566	1	24/7	Keine Beschränkung	DE*Q1A*E48140020~CCS2:150|DE*Q1A*E48140021~CCS2:150
+1143201	VINCharge 3 GmbH	eliso - Gartenfach. - Chemnitz	Zschopauer Str. 277	09126	Chemnitz	50.814870	12.957083	1	24/7	Keine Beschränkung	DE*ELI*E3603100~CCS2:400|DE*ELI*E3603101~CCS2:400|DE*ELI*E3603102~CCS2:400|DE*ELI*E3603103~CCS2:400|DE*ELI*E3603104~CCS2:400|DE*ELI*E3603105~CCS2:400|DE*ELI*E3603106~CCS2:400|DE*ELI*E3603107~CCS2:400
+1144369	Stadtwerke Schwarzenberg GmbH	Bermsgrün Neue Straße	Neue Str. 1	08340	Schwarzenberg /Erzgeb.	50.522836	12.779043	1	24/7	Keine Beschränkung	DE*SZB*EBNS*001L~TYPE2:11|DE*SZB*EBNS*001R~TYPE2:11
+1144922	Jörg Wagner		Rudolf-Breitscheid-Str. 16	08112	Wilkau-Haßlau	50.672039	12.514935	1		Nur für Kunden/Besucher	~TYPE2:11
+1144943	Electra Germany GmbH	Chemnitz - Netto Bergstraße	Bergstr. 40	09113	Chemnitz	50.843305	12.908711	1	24/7	Keine Beschränkung	DE*ELD*E5ADE~CCS2:300|DE*ELD*E6C3F~CCS2:300|DE*ELD*ERS4F~CCS2:300|DE*ELD*EJG7U~CCS2:300|DE*ELD*EJCBY~CCS2:300|DE*ELD*ERA28~CCS2:300
+1145966	VINCharge 3 GmbH	eliso - Obi Baumarkt - Schwarzenberg	Roter Mühlenweg 34	08340	Schwarzenberg /Erzgeb.	50.549339	12.773985	1	24/7	Keine Beschränkung	DE*ELI*E3603180~CCS2:400|DE*ELI*E3603181~CCS2:400|DE*ELI*E3603182~CCS2:400|DE*ELI*E3603183~CCS2:400|DE*ELI*E3603180~CCS2:400|DE*ELI*E3603181~CCS2:400|DE*ELI*E3603182~CCS2:400|DE*ELI*E3603183~CCS2:400
+1146002	ALDI Nord		Bornaer Str. 148	09114	Chemnitz	50.864100	12.902200	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1147565	Emobility East	Parkplatz Schule Gelenau	Straße der Einheit 209	09423	Gelenau	50.704899	12.952234	1	24/7	Keine Beschränkung	DE*EME*EEME*0014*1~CCS2:50|DE*EME*EEME*0014*2~CCS2:50
+1147737	Krämer Pferdesport GmbH & Co.KG	Megastore Zwickau	Gewerbestr. 1a	08134	Wildenfels	50.681727	12.590477	1	Mo-Fr 10:00-19:00, Sa 09:00-17:00	Keine Beschränkung	DE*ONE*ELP1C~TYPE2:22
+1147890	Autohaus Lohs		Kreuzeiche 8	09212	Limbach-Oberfrohna	50.868813	12.774916	1	Mo-So 06:00-21:00	Keine Beschränkung	DE*ISE*E0008924~CCS2:150|DE*ISE*E0005243~CCS2:150|DE*ISE*E0005245~TYPE2:22
+1148221	LADEFIX	Parkhaus SKC	Flemmingstr. 2	09116	Chemnitz	50.844030	12.886701	1	24/7	Nur für Kunden/Besucher	DE*EME*EFIX*0016~TYPE2:22|DE*EME*EFIX*0017~TYPE2:22
+1148358	schönherr.fabrik	Parkplatz am Ende der Industrieeinfahrt	Schönherrstr. 8	09113	Chemnitz	50.850610	12.923590	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1149645	EnBW mobility+ AG und Co.KG	Höffner, 09247 Chemnitz-Röhrsdorf, Ringstraße	Ringstraße 17	09247	Chemnitz	50.864217	12.867827	1	24/7	Keine Beschränkung	DE*EBW*E910974*1~CCS2:200|DE*EBW*E910974*2~CCS2:200|DE*EBW*E910984*1~CCS2:200|DE*EBW*E910984*2~CCS2:200
+1149723	Thomas Radke		Gärtnerweg 4	04618	Langenleuba-Niederhain	50.958145	12.611278	1	Mo-Fr 08:00-14:00	Keine Beschränkung	~TYPE2:11
+1150126	Aral Pulse		Teutonenweg 52	65929	Frankfurt am Main	50.893889	12.947501	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1150696	Robert Bosch GmbH		Beckerstraße 31	09120	Chemnitz	50.822073	12.916142	1		Nur für Kunden/Besucher	DE*811*EEFB025A*1001~TYPE2:11|DE*811*EEFB025A*1002~TYPE2:11|DE*811*E481875936*1~TYPE2:22|DE*811*E481875936*2~TYPE2:22
+1151524	Wirelane GmbH		Grubenstraße 3	08280	Aue-Bad Schlema	50.615500	12.677889	1		Keine Beschränkung	DE*WLN*EP000980~TYPE2:22|DE*WLN*EP000979~TYPE2:22
+1152102	Wirelane GmbH		Goethestraße 24	08107	Kirchberg	50.616611	12.516194	1		Keine Beschränkung	DE*WLN*EP001735~TYPE2:22|DE*WLN*EP001736~TYPE2:22
+1152104	Wirelane GmbH		Malzhausstraße 39	08107	Kirchberg	50.620528	12.520361	1		Keine Beschränkung	DE*WLN*EP001737~TYPE2:22|DE*WLN*EP001738~TYPE2:22
+1152270	Vattenfall Smarter Living GmbH		Limbacher Str. 73	09113	Chemnitz	50.836172	12.894887	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1152271	Vattenfall Smarter Living GmbH		Limbacher Str. 73	09113	Chemnitz	50.836258	12.894849	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1152823	ALDI Nord	ALDI Nord Parkplatz	Chemnitzer Str. 52	09427	Ehrenfriedersdorf	50.652430	12.971250	1	24/7	Keine Beschränkung	DE-ALN-EDE361244-1-1~CCS2:150|DE-ALN-EDE361244-1-2~CCS2:150
+1153287	Autohaus Kühnert GmbH & Co. KG	Schneeberg	Hohe Str. 2	08289	Schneeberg	50.575110	12.635088	1	Mo-Fr 07:00-18:00	Nur für Kunden/Besucher	DE*ISE*EA129947~CCS2:50|DE*ISE*EA118857~TYPE2:22
+1155363	eins energie in sachsen GmbH & Co. KG	Parkplatz "Albrechtstraße"	Johannisplatz 6a	09212	Limbach-Oberfrohna	50.858907	12.760868	1	24/7	Keine Beschränkung	DE*EIN*E00188*001~TYPE2:22|DE*EIN*E00188*002~TYPE2:22
+1155791	Stadtwerke Schwarzenberg GmbH	SZB-Sonnenleithe-Ärztehaus	Sachsenfelder Str. 69Z	08340	Schwarzenberg /Erzgeb.	50.558781	12.783530	1	24/7	Keine Beschränkung	DE*SZB*ESAE*001L~TYPE2:22|DE*SZB*ESAE*001R~TYPE2:22
+1156157	Wirelane GmbH	Super 8 Chemnitz	Stefan-Heym-Platz 3 3	09111	Chemnitz	50.833723	12.925436	1		Keine Beschränkung	DE*WLN*ES000513~TYPE2:11|DE*WLN*ES000514~TYPE2:11|DE*WLN*ES000516~TYPE2:11|DE*WLN*ES000515~TYPE2:11
+1157780	senso energy	Chemnitz Berbisdorfeer Straße 124	Berbisdorfer Str. 124	09123	Chemnitz	50.761897	12.937028	1	24/7	Keine Beschränkung	CH*ECUESGSQ2ZR3EPCCQ4YTEUJ2MX936Z~TYPE2:22
+1157823	amperio GmbH (DEAMP)	Chemnitz - Heinrich-Lorenz-Straße 12 - SELGROS - (ID 1)	Heinrich-Lorenz-Str. 12	09120	Chemnitz	50.814288	12.910433	1		Keine Beschränkung	DEAMPEA100980691~CCS2:300|DEAMPEA100980692~CCS2:300
+1158289	Eviny	Chemnitz Ikarus-Center	Dr.-Salvador-Allende-Str. 1	09119	Chemnitz	50.809187	12.891616	1	24/7	Keine Beschränkung	DE*EVY*ECIC1*A~CCS2:400|DE*EVY*ECIC1*B~CCS2:400|DE*EVY*ECIC2*A~CCS2:200|DE*EVY*ECIC2*B~CCS2:200
+1158293	SWAUE	SWAUESS01	Robert-Schumann-Str. 12	08280	Aue-Bad Schlema	50.596379	12.703302	1	24/7	Keine Beschränkung	DE*ERZ*ESWAUESS01*01~TYPE2:22|DE*ERZ*ESWAUESS01*02~TYPE2:22
+1158321	AMVisor GmbH		Zwickauer Str. 135	09116	Chemnitz	50.822191	12.896941	1	Mo-Fr 06:00-20:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1159143	Emobility East		Karl-Marx-Str. 15	09423	Gelenau	50.715883	12.986401	1	24/7	Keine Beschränkung	DE*EME*EEME*0010*1~TYPE2:22|DE*EME*EEME*0010*2~TYPE2:22|DE*EME*EEME*0011*1~TYPE2:22|DE*EME*EEME*0011*2~TYPE2:22
+1160210	Wirelane GmbH		Kirchberger Straße 2	08134	Wildenfels	50.648689	12.559979	1		Keine Beschränkung	DE*WLN*ES001833~TYPE2:11|DE*WLN*ES001834~TYPE2:11|DE*WLN*ES001835~TYPE2:11|DE*WLN*ES001836~TYPE2:11
+1162599	Erzgebirgische Krankenhaus- und Hospitalgesellschaft mbH	Pflegeheim Zwönitz	Gustav-Adolf-Zeidler-Str. 1	08297	Zwönitz	50.636118	12.805357	1	24/7	Keine Beschränkung	EBKA9~TYPE2:11|EBVV8~TYPE2:11|EPN9L~TYPE2:11
+1164088	Shell Deutschland GmbH	Shell Tankstelle St. Egidien Platanenstr. 2 (OBN 7466)	Platanenstr. 2	09356	St. Egidien	50.772300	12.623100	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1164322	ORLEN Deutschland GmbH	DC-10049-01	Bruno-Dost-Str. 31	08289	Schneeberg	50.600200	12.624200	1	24/7	Nur für Kunden/Besucher	DE*ODE*EDC1004901*01~CCS2:300|DE*ODE*EDC1004901*02~CCS2:300|DE*ODE*EDC1004902*03~CCS2:300|DE*ODE*EDC1004902*04~CCS2:300
+1164390	EWE Go GmbH	EWE_7794_1A	Hauptstr. 314	09355	Gersdorf	50.748801	12.717338	1	24/7	Keine Beschränkung	DE*2GO*EEWE7794*1A*1~CCS2:150|DE*2GO*EEWE7794*1A*2~CCS2:150

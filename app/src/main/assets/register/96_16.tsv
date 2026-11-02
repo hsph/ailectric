@@ -1,0 +1,282 @@
+1001198	E-Werk Mittelbaden		Hauptstraße 5	77736	Zell am Harmersbach	48.345333	8.061613	1			~TYPE2:22|~TYPE2_TETHERED:22
+1001199	E-Werk Mittelbaden		Schulstraße 25	77709	Oberwolfach	48.316954	8.218275	1			~TYPE2:22|~TYPE2_TETHERED:22
+1001201	E-Werk Mittelbaden		Auestraße 1	77761	Schiltach	48.290444	8.345924	1			~TYPE2:22|~TYPE2:22
+1001204	E-Werk Mittelbaden		Georg-Giesler-Straße 1	77716	Hofstetten	48.257923	8.068232	1			~TYPE2:22|~TYPE2:22
+1001208	E-Werk Mittelbaden		Rippoldsauer Straße 36/1	77776	Bad Rippoldsau-Schapbach	48.393995	8.310908	1			~TYPE2:22|~TYPE2:22
+1001212	E-Werk Mittelbaden		In den Brachfelden 6	77756	Hausach	48.286512	8.187556	1			~CCS2:75|~TYPE2:22
+1001215	E-Werk Mittelbaden		Hauptstraße 38	77716	Fischerbach	48.287833	8.114754	1			~TYPE2:22|~TYPE2:22
+1001218	E-Werk Mittelbaden		Talstraße 96	77784	Oberharmersbach	48.383390	8.144194	1			~TYPE2:22|~TYPE2:22
+1001232	E-Werk Mittelbaden		Wählerbrücke 1	77793	Gutach	48.271153	8.200299	1			~TYPE2:22|~TYPE2:22
+1001237	E-Werk Mittelbaden		Tal 40	77770	Durbach	48.493306	8.021289	1			~TYPE2:22|~TYPE2:22
+1001240	E-Werk Mittelbaden		Hauptstraße 40	77756	Hausach	48.283961	8.170057	1			~TYPE2:22|~TYPE2:22
+1001241	E-Werk Mittelbaden		Lindenstraße 1	77756	Hausach	48.283785	8.170497	1			~TYPE2:22|~TYPE2:22
+1001243	E-Werk Mittelbaden		Bahnhofstraße 1	77709	Wolfach	48.297402	8.221758	1			~TYPE2:22|~TYPE2:22
+1001244	E-Werk Mittelbaden		Im Dorf 25	77787	Nordrach	48.398060	8.078199	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001248	E-Werk Mittelbaden		Hauptstraße 74	77761	Schiltach	48.291409	8.352180	1			~TYPE2:22|~CCS2:50
+1001257	E-Werk Mittelbaden		Büchern 1	77796	Mühlenbach	48.253023	8.112438	1			~TYPE2:22|~TYPE2:22
+1001776	deer GmbH		Am Hirschen 2/1	77761	Schiltach	48.291161	8.344380	1			~TYPE2:22|~TYPE2:22
+1001824	deer GmbH		Kirchplatz 2	78733	Aichhalden	48.267811	8.398290	1			~TYPE2:22|~TYPE2:22
+1021736	EWE Go GmbH	McD_0459_1A	Stuttgarter Str. 193	72250	Freudenstadt	48.462147	8.435842	1	24/7	Keine Beschränkung	DE*2GO*EMCD0459*1A*1~CCS2:300|DE*2GO*EMCD0459*1A*2~CCS2:300
+1025300	EnBW mobility+ AG und Co.KG		Hauptstr. 46	72290	Loßburg	48.414140	8.450130	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025357	EnBW mobility+ AG und Co.KG		Gewerbepark 1	78713	Schramberg	48.230089	8.394727	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1025635	EnBW mobility+ AG und Co.KG		Alte Poststraße 3	72250	Freudenstadt	48.465734	8.439616	1			~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:150|~CCS2:150|~TYPE2:22
+1025966	EnBW mobility+ AG und Co.KG		Im Spießacker 15	77716	Heslach	48.278206	8.092781	1			~CCS2:75|~CCS2:75
+1026335	EnBW mobility+ AG und Co.KG		Schramberger Str. 5	78730	Lauterbach	48.227828	8.347589	1			~TYPE2:22|~TYPE2:22
+1026425	EnBW mobility+ AG und Co.KG		Gutenbergstr. 2	72250	Freudenstadt	48.466300	8.440400	1			~TYPE2:22|~TYPE2:22
+1027165	EnBW mobility+ AG und Co.KG		Im Sulzhau 1	72250	Freudenstadt	48.483530	8.411640	1			~CCS2:150|~CCS2:150
+1027859	EnBW mobility+ AG und Co.KG		Niederwiesenstraße 35/1	78050	Villingen-Schwenningen	48.044224	8.466013	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1030766	badenova AG & Co. KG		Feldbergstraße 7	79274	St. Märgen	48.008480	8.094220	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1035567	ALDI SÜD		Hindenburgstraße 8	72250	Freudenstadt	48.468017	8.411845	1			~TYPE2:22|~TYPE2:22
+1035591	ALDI SÜD		Bahnhofstraße 31	78713	Schramberg	48.230783	8.382875	1			~TYPE2:22|~TYPE2:22
+1035593	ALDI SÜD		Kinzigstraße 11	77791	Berghaupten	48.404577	8.001135	1			~TYPE2:22|~TYPE2:22
+1035791	ALDI SÜD		Am Krebsgraben 14	78048	Villingen-Schwenningen	48.069643	8.446168	1			~TYPE2:22|~TYPE2:22
+1035939	ALDI SÜD		Peterzeller Straße 4	78126	Königsfeld	48.080840	8.251340	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035958	ALDI SÜD		Freudenstädter Straße 13	72290	Loßburg	48.416004	8.447542	1			~TYPE2:22|~TYPE2:22
+1037583	Citywatt GmbH		Am Hirschen 1	77761	Schiltach	48.290989	8.343773	1			~TYPE2:11|~TYPE2:11
+1038445	Landhaus Lauble GmbH		Fohrenbühl 65	78132	Hornberg	48.235936	8.291159	1			~TYPE2:11|~TYPE2:11
+1038933	naturenergie		Parkstrasse 13	78126	Königsfeld	48.137093	8.414551	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038955	naturenergie		Rathausplatz 7	79274	St. Märgen	48.006988	8.092218	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038962	naturenergie		Am Hoptbühl 2	78048	Villingen-Schwenningen	48.059722	8.467778	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038971	naturenergie		Waldstraße 8	78126	Königsfeld	48.140620	8.418900	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038972	naturenergie		Josef-Hepting-Straße 8	78147	Vöhrenbach	48.044920	8.304250	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039025	naturenergie		Ostlandstrasse 8	78739	Hardt	48.184889	8.410173	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039032	naturenergie		St.-Gallus-Straße 0	78086	Brigachtal	48.012370	8.469479	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039062	naturenergie		Max-Planck-Strasse 3-5	78052	Villingen-Schwenningen	48.078479	8.449370	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50
+1039120	naturenergie		Bondelstrasse 23	78086	Brigachtal	48.011724	8.454426	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039192	naturenergie		Hauptstraße 27	77781	Biberach	48.351346	8.022706	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1044431	E-Werk Mittelbaden	Raiffeisen Kinzigtal eG Markt Biberach	Kinzigstr. 2	77781	Biberach	48.334668	8.029755	1	24/7	Nur für Kunden/Besucher	DE*EWM*E0000244~TYPE2:22|DE*EWM*E0000245~TYPE2:22
+1048375	deer GmbH		Landhausstr. 3	72250	Freudenstadt	48.461050	8.416891	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048649	Lidl		Schiltachstr. 60	78713	Schramberg	48.232748	8.380353	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2_TETHERED:23+CCS2:23|~TYPE2_TETHERED:23+CHADEMO:23
+1048708	Lidl	6021_Lidl_Georgen_T54-HU1-3519-017	Industriestr. 3	78112	St. Georgen im Schwarzwald	48.123060	8.338240	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1048866	Lidl	3586_Lidl_Triberg_T65-IT1-2222-080	Nußbacher Str. 2	78098	Triberg im Schwarzwald	48.138487	8.240927	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048965	Lidl	5980_Lidl_T65-IT1-0523-038	Am Krebsgraben 4	78048	Villingen-Schwenningen	48.068561	8.450102	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1051191	EnBW ODR AG		Am Tannwald 1-3	79215	Elzach	48.175110	8.079464	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1055682	Elektrogesellschaft Werner Maier mbH		Leimeweg 1	78737	Fluorn-Winzeln	48.297807	8.480348	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1056802	Stadtwerke Oberkirch GmbH		Schwarzwaldstr. 21	77740	Bad Peterstal	48.430503	8.208605	1			~TYPE2:22|~TYPE2:22
+1056807	Stadtwerke Oberkirch GmbH		Farnweg 0	77728	Oppenau	48.473980	8.165640	1			~TYPE2:22|~TYPE2:22
+1062417	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Musbacher Str. 33	72250	Freudenstadt	48.467107	8.418121	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1063345	Franz Wild GbR	Streuobstgarten 1	Streuobstgarten 1	77723	Gengenbach	48.387680	8.018960	1	24/7	Keine Beschränkung	DE*ONE*E3WNX~TYPE2:22|DE*ONE*E9M44~TYPE2:22
+1064384	Frank Schmelzle	Hotel Sonneneck	Jakob-Mutz-Str. 6	72280	Dornstetten	48.475961	8.491750	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22
+1065157	SMATRICS GmbH & Co KG		Hauptstraße 25	78713	Schramberg	48.226218	8.384911	1			~TYPE2:22|~TYPE2:22
+1065158	SMATRICS GmbH & Co KG		Hauptstraße 33	78144	Schramberg	48.190636	8.351273	1			~TYPE2:22|~TYPE2:22
+1065159	SMATRICS GmbH & Co KG		Seedorfer Straße 1	78713	Schramberg	48.268896	8.486115	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1065160	SMATRICS GmbH & Co KG		Wittumweg 7	78713	Schramberg	48.241780	8.416100	1			~TYPE2:22|~TYPE2:22
+1065179	Jürgen Ratz		Weilerner Str. 1	78664	Eschbronn	48.182720	8.457780	1	24/7	Keine Beschränkung	NLLMSE1811623*1~TYPE2:22|NLLMSE1811623*2~TYPE2:22
+1065824	Team-Emobility GmbH		Munde 1	77716	Hofstetten	48.223121	8.050094	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1065862	Team-Emobility GmbH		Julius-Allgeyer-Str. 1	77716	Haslach	48.274414	8.094889	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065882	Team-Emobility GmbH		Dr.Kempf-Straße 18	77716	Haslach im Kinzigtal	48.275147	8.094816	1		Nur für Kunden/Besucher	~TYPE2:11
+1065883	Team-Emobility GmbH		Strickerweg 3d	77716	Haslach	48.278449	8.080447	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1065935	Team-Emobility GmbH		Gutenbergstr. 2	72250	Freudenstadt	48.467014	8.440313	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1065958	Team-Emobility GmbH		Alte Poststr. 3	72250	Freudenstadt	48.466148	8.439248	1			~TYPE2:11|~TYPE2:11
+1065983	Team-Emobility GmbH		Albert-Moser-Str. 20	78713	Schramberg	48.238262	8.418360	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1066175	EnergieWende Bregtal UG		Baumannstr. 13	78120	Furtwangen	48.049664	8.205917	1			~TYPE2:22
+1066868	B. Ketterer Söhne GmbH & Co. KG		Bahnhofstraße 20	78120	Furtwangen	48.048185	8.203726	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:11|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6|~TYPE2_TETHERED:3.6
+1067907	Hotel Hirsch, Lossburg		Hauptstraße 5	72290	Lossburg	48.411780	8.451990	1			~TYPE2:22|~TYPE2:22
+1068157	Deckert 'Einzelunternehmen'		Georg-Feuerbacher-Straße 4	72280	Dornstetten	48.471722	8.498161	1			~TYPE2:11+TYPE2_TETHERED:11
+1068178	Greenman Energy Operations GmbH & Co. KG	Netto Markt Wolfach 2	Hausacher Str. 17	77709	Wolfach	48.290942	8.217466	1	24/7	Keine Beschränkung	AT*HTB*E1024109~CCS2:300|AT*HTB*E1024110~CCS2:300|AT*HTB*E1024107~CCS2:300|AT*HTB*E1024108~CCS2:300
+1068420	Elektro Birk		Bachgasse 51	77728	Oppenau	48.474946	8.167614	1			~TYPE2:11|~TYPE2:11
+1068422	Elektro Birk		Allmendplatz 4	77728	Oppenau	48.474777	8.164821	1			~TYPE2:22|~TYPE2:22
+1068423	Elektro Birk		Schwarzwaldstraße 16	77728	Oppenau	48.465845	8.161507	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068677	Christian Fehrenbach		Im Schnabelstal 6a	78120	Baden-Württemberg - Furtwangen	48.034085	8.206144	1			~TYPE2_TETHERED:11
+1068762	Ingeborg Wimmer		Löwengründleweg 17	78079	Unterkirnach	48.082030	8.357040	1			~TYPE2_TETHERED:12
+1068883	BAUMANNs LANDHAUS - landhaus-durbach.de		Oberweiler 18	77770	Durbach	48.488700	8.036950	1	24/7	Keine Beschränkung	DE*ONE*EEEL8~TYPE2:11|DE*ONE*E2X9M~TYPE2:11|EU8NH~TYPE2:11|E79MB~TYPE2:11
+1069025	Bürger Energie St. Peter eG		Mühlegraben 2	79271	St. Peter	48.017940	8.034440	1			~TYPE2:22|~TYPE2:22
+1069027	Bürger Energie St. Peter eG		Schulweg 0	79271	St. Peter	48.016120	8.034130	1			~TYPE2:22|~TYPE2:22
+1069345	easy Fit GmbH		Niederwiesenstraße 36	78050	Villingen-Schwenningen	48.045740	8.463550	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1069526	EV Ladetechnik GmbH		Jaspisstrasse 23	72250	Freudenstadt	48.480730	8.407686	1			~TYPE2:22
+1069919	Raiffeisenbank Aichhalden-Hardt-Sulgen eG		Schramberger Str. 10	78739	Hardt	48.184210	8.409540	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1070094	deer GmbH	Königsfeld im Schwarzwald, Rathaus	Rathausstr. 5	78126	Königsfeld im Schwarzwald	48.139990	8.418365	1	24/7	Keine Beschränkung	DE*753*E00434*001~TYPE2:22|DE*753*E00434*002~TYPE2:22
+1070171	Hotel Gasthaus Mosers Blume e.K.		Schnellinger Str. 56	77716	Haslach	48.285400	8.080970	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1070235	AVIA Volt		Stuttgarter Straße 109	72250	Freudenstadt	48.465466	8.425653	1			~CCS2:150|~CCS2:150
+1071011	BürgerEnergiegenossenschaft Biederbach & Elztal eG		Dorf-Dobelstraße 1	79215	Biederbach	48.193330	8.033550	1			~TYPE2:22|~TYPE2:22
+1072099	Hotel zum Ochsen , Frau Barbara Martin e.K.		Ludwig-Uhland-Str. 15	78141	Schönwald im Schwarzwald	48.101887	8.205989	1			~TYPE2_TETHERED:22+SCHUKO:22|~TYPE2_TETHERED:22|~SCHUKO:3|~SCHUKO:3
+1075149	Stadtwerke Haslach, Eigenbetrieb		Alte Hausacher Straße 1	77716	Haslach	48.278439	8.095819	1			~TYPE2:11
+1075150	Stadtwerke Haslach, Eigenbetrieb		Neue Eisenbahnstraße 16	77716	Haslach	48.278967	8.087492	1			~TYPE2:11|~TYPE2:11
+1075151	Stadtwerke Haslach, Eigenbetrieb		Niederhofenparkplatz 0	77716	Haslach	48.277822	8.085603	1			~TYPE2:11|~TYPE2:11
+1075152	Stadtwerke Haslach, Eigenbetrieb		Bohnackerstraße 17	77716	Haslach	48.277371	8.090001	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1075208	Regioladen+		Marktplatz 66	72250	Freudenstadt	48.464255	8.412113	1			~TYPE2:22|~TYPE2:22
+1075209	Regioladen+		Moosstraße 13	72250	Freudenstadt	48.466998	8.409437	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1075210	Regioladen+		Herrenfelderstraße 14	72250	Freudenstadt	48.461145	8.417849	1			~TYPE2:22|~TYPE2:22
+1075211	Regioladen+		Am Panorama-Bad 5	72250	Freudenstadt	48.473419	8.417072	1			~TYPE2:22|~TYPE2:22
+1075212	Regioladen+		Reichsstr. 9	72250	Freudenstadt	48.463101	8.415845	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1075213	Regioladen+		Straßburger Straße 349	72250	Freudenstadt	48.474252	8.295017	1			~TYPE2:22|~TYPE2:22
+1075214	Kurz GmbH & Co. KG		Robert-Bosch-Str. 38	72250	Freudenstadt	48.463706	8.434861	1			~TYPE2:22|~TYPE2:22
+1076135	Otto Wagner GmbH & CO. KG		Alte Poststr. 17	72250	Freudenstadt	48.466626	8.442763	1			~TYPE2:22|~TYPE2:22
+1076139	Aliseo GmbH		Leutkrichstr 63	77723	Gengenbach	48.411720	8.006270	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076641	Gemeinde Biederbach		Dorf-Dobelstr. 1c	79215	Biederbach	48.193378	8.033801	1			~TYPE2:22|~TYPE2:22
+1076714	Regioladen+		Bahnhofstraße 0	78048	Villingen-Schwenningen	48.057250	8.464778	1	24/7	Keine Beschränkung	~CHADEMO:50+CCS2:50|~TYPE2:22
+1076715	Regioladen+		Eckweg 3	78048	Villingen-Schwenningen	48.069870	8.465368	1			~TYPE2:22|~TYPE2:22
+1076716	Regioladen+		Am Hoptbühl 2	78048	Villingen-Schwenningen	48.060014	8.467894	1			~TYPE2:22|~TYPE2:22
+1076717	Regioladen+		Kalkofenstraße 28	78050	Villingen-Schwenningen	48.057485	8.447887	1			~TYPE2:22|~TYPE2:22
+1076718	Regioladen+		Schillerstraße 2	78087	Mönchweiler	48.099167	8.423871	1			~TYPE2:22|~TYPE2:22
+1076722	Regioladen+		Gemeindewaldstraße 73	78052	Villingen-Schwenningen	48.001024	8.393125	1			~TYPE2:22|~TYPE2:22
+1076723	Regioladen+		Gemeindewaldstraße 73	78052	Villingen-Schwenningen	48.000993	8.393186	1			~TYPE2:22|~TYPE2:22
+1076724	Regioladen+		Singener Straße 6-1	78048	Villingen-Schwenningen	48.069925	8.457912	1			~TYPE2:22|~TYPE2:22
+1076725	Regioladen+		Langstraße 2	78050	Villingen-Schwenningen	48.052353	8.459660	1			~TYPE2:22|~TYPE2:22
+1076726	Regioladen+		Brigachstraße 6	78048	Villingen-Schwenningen	48.058062	8.463954	1			~TYPE2:22|~TYPE2:22
+1076727	Regioladen+		Luise-von-Preußen-Straße 18	78050	Villingen-Schwenningen	48.057744	8.438016	1			~TYPE2:22|~TYPE2:22
+1076728	Regioladen+		Friedrich-Wilhelm-Straße 9	78050	Villingen-Schwenningen	48.057679	8.436362	1			~TYPE2:22|~TYPE2:22
+1076730	Regioladen+		Pforzheimer Platz 1	78048	Villingen-Schwenningen	48.066228	8.459665	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1076733	Regioladen+		Kirchdorfer Straße 7	78052	Villingen-Schwenningen	48.031457	8.471329	1			~TYPE2:22|~TYPE2:22
+1076734	Regioladen+		Efeustraße 7	78052	Villingen-Schwenningen	48.032530	8.413490	1			~TYPE2:22|~TYPE2:22
+1076735	Regioladen+		Liebermannstraße 12	78052	Villingen-Schwenningen	48.030650	8.453260	1			~TYPE2:22|~TYPE2:22
+1076738	Regioladen+		Vöhrenbacher Str. 60	78050	Villingen-Schwenningen	48.058550	8.437420	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1076739	Regioladen+		Johanniterweg 1	78052	Villingen-Schwenningen	48.106010	8.470580	1			~TYPE2:22|~TYPE2:22
+1076740	Regioladen+		Am Riettor 1	78050	Villingen-Schwenningen	48.060920	8.454750	1			~TYPE2:22|~TYPE2:22
+1076741	Regioladen+		Klinikstraße 11	78052	Villingen-Schwenningen	48.064500	8.499870	1			~TYPE2:22|~TYPE2:22
+1076744	Regioladen+		Glaserstraße 4	78052	Villingen-Schwenningen	48.025380	8.371270	1			~TYPE2:22|~TYPE2:22
+1076745	Regioladen+		Hindenburgstraße 42	78087	Villingen-Schwenningen	48.100360	8.429530	1			~TYPE2:22|~TYPE2:22
+1076746	Regioladen+		Christel-Pache-Straße 6	78050	Villingen-Schwenningen	48.064160	8.444520	1			~TYPE2:22|~TYPE2:22
+1076747	Regioladen+		Christel-Pache-Straße 12	78050	Villingen-Schwenningen	48.063770	8.445770	1			~TYPE2:22|~TYPE2:22
+1076748	Regioladen+		Christel-Pache-Straße 17	78050	Villingen-Schwenningen	48.063350	8.445930	1			~TYPE2:22|~TYPE2:22
+1076749	Regioladen+		Christel-Pache-Straße 23	78050	Villingen-Schwenningen	48.063400	8.445060	1			~TYPE2:22|~TYPE2:22
+1076750	Regioladen+		Christel-Pache-Straße 29	78050	Villingen-Schwenningen	48.063680	8.444180	1			~TYPE2:22|~TYPE2:22
+1076761	Regioladen+	Kasernenplatz Freudenstadt	Kasernenplatz 5	72250	Freudenstadt	48.465557	8.412336	1	24/7	Keine Beschränkung	DEFREE000801~CCS2:150|DEFREE000802~CCS2:150|DEFREE000803~TYPE2:22
+1077836	Theris GmbH	Ladepark Winterbauernhof	Winterbauernhof 2	78730	Lauterbach	48.240030	8.333940	1	24/7	Keine Beschränkung	DE*FKU*EFS10493~TYPE2:22|DE*FKU*EFS10499~TYPE2:22|DE*FKU*EFS10494~TYPE2:22|DE*FKU*EFS10495~TYPE2:22|DE*FKU*EFS10496~TYPE2:22|DE*FKU*EFS10497~TYPE2:22|DE*FKU*EFS10498~TYPE2:22
+1077935	Hess	Koppengässle 14	Koppengäßle 14	78733	Aichhalden	48.261720	8.410450	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|DE_EUL_ETHE0001_01~CCS2:50
+1080691	Hotel Restaurant zur Sonne E.K		Zähringerstr. 2	79271	St.Peter	48.015657	8.032162	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1081352	Autohaus Schmid GmbH		Freiburger Str. 21	79215	Elzach	48.169307	8.065166	1			~TYPE2:22|~TYPE2:22
+1081548	Michael Huber	Energiekonzept Ortenau	Neuensteiner Str. 8	77728	Oppenau	48.497870	8.138200	1	24/7	Keine Beschränkung	DE*ONE*ECN8S~TYPE2:22|DE*ONE*E5JLB~TYPE2:22
+1084274	Hotel Langenwaldsee GmbH & Co. KG		Straßburger Str. 99	72250	Freudenstadt	48.452401	8.391054	1			~TYPE2:11|~TYPE2:11
+1084905	Eduard Volk		Hauptstraße 59	77781	Biberach Deutschland	48.339597	8.026787	1			~TYPE2_TETHERED:16
+1085908	Hans-Peter Rombach		Linach 19	78120	Furtwangen im Schwarzwald	48.024878	8.244308	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085910	Hans-Peter Rombach		Linach 19	78120	Furtwangen im Schwarzwald	48.025537	8.247320	1			~TYPE2_TETHERED:11
+1085953	Heike Heinrich		Abt-Dilger-Weg 3	79274	Sankt Märgen	48.007819	8.092995	1			~TYPE2:11
+1086161	Jakob Sawazki		Mörikestraße 15	72250	Freudenstadt	48.467642	8.416707	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086423	Karl Henne		Schwarzwaldstraße 15	72250	Freudenstadt	48.450335	8.470874	1			~TYPE2_TETHERED:11
+1086774	Marion Rombach		Sebastian-Kneippstrasse 80/1	78048	Villingen-Schwenningen	48.085496	8.418004	1			~TYPE2_TETHERED:11
+1086941	Maurice Ott		Holzwaldstraße 18/1	77776	Bad Rippoldsau-Schapbach	48.446857	8.294849	1			~TYPE2:11
+1087892	Stehle GmbH Zerspanungs- und Schleiftechnik		Kinzigstraße 28	77716	Fischerbach	48.283090	8.119600	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088419	Wiltrud Hug		Jahnstraße 4a	77736	Zell am Harmersbach	48.347157	8.065653	1			~TYPE2:11
+1089752	EGT Energy Solutions GmbH		Bahnhofstr. 5	78112	St. Georgen	48.124751	8.340386	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089754	EGT Energy Solutions GmbH		Sommerauer Str. 9	78112	St. Georgen	48.125510	8.326620	1			~TYPE2:22|~TYPE2:22
+1089755	EGT Energy Solutions GmbH		Stadthallenplatz 1	78132	Hornberg	48.210628	8.232683	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089757	EGT Energy Solutions GmbH		Neuweg 11	78120	Furtwangen	48.095524	8.156302	1			~TYPE2:22|~TYPE2:22
+1091136	Nico Späth		Reichenbachtal 33	77723	Gengenbach	48.426897	8.012595	1			~TYPE2:11|~TYPE2:11
+1091181	DreiGe Projektentwicklung GmbH & Co.KG		Max-Planck-Straße 11	78052	Villingen-Schwenningen	48.078810	8.448418	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1091330	Autohaus Katz GmbH		Wittlensweiler Str. 1	72250	Freudenstadt	48.470000	8.430000	1			~TYPE2:22|~TYPE2:22
+1091334	Hotel Restaurant Rössle		Aischbachstraße 3	72275	Alpirsbach	48.344550	8.404210	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091465	EGT Energie GmbH		Kreuzstrasse 5	78098	Triberg	48.130263	8.230775	1			~TYPE2:22|~TYPE2:22
+1091466	EGT Energie GmbH		Schonacher Str. 2	78098	Triberg	48.133417	8.221528	1			~TYPE2:22|~TYPE2:22
+1091467	EGT Energie GmbH		Talstrasse 1	78089	Unterkirnach	48.078667	8.366056	1			~TYPE2:22|~TYPE2:22
+1091468	EGT Energie GmbH		Gerwigstrasse 38	78112	St. Georgen	48.125222	8.332222	1			~TYPE2:22|~TYPE2:22
+1091469	EGT Energie GmbH		Sommerauer Str. 5	78112	St. Georgen	48.125500	8.326627	1			~TYPE2:22|~TYPE2:22
+1091470	EGT Energie GmbH		Friedrichstrasse 3	78120	Furtwangen	48.052934	8.205120	1			~TYPE2:22|~TYPE2:22
+1091471	EGT Energie GmbH		Kurgarten 1	78136	Schonach	48.142371	8.198627	1			~TYPE2:22|~TYPE2:22
+1091472	EGT Energie GmbH		Ludwig-van-Beethoven-Str. 2	78141	Schönwald	48.099795	8.200106	1			~TYPE2:22|~TYPE2:22
+1091473	EGT Energie GmbH		Poststrasse 0	78132	Hornberg	48.214153	8.230824	1			~TYPE2:22|~TYPE2:22
+1091474	EGT Energie GmbH		Schonacher Str. 2	78098	Triberg	48.133220	8.222080	1			~CCS2:60|~CCS2:60|~TYPE2_TETHERED:44|~TYPE2:22
+1091475	EGT Energie GmbH		Zinzendorfweg 1	78126	Königsfeld	48.139599	8.420484	1			~TYPE2:22|~TYPE2:22
+1091476	EGT Energie GmbH		Gerwigstraße 1	78120	Furtwangen	48.051540	8.206910	1			~TYPE2:22|~TYPE2:22
+1093538	Autohaus Kopf GmbH		Hauptstr. 88	77790	STEINACH	48.307221	8.057506	1			~TYPE2:22|~TYPE2:22
+1093686	Kaupp Verwaltung GmbH		Max-Planck-Str. 25	78713	Schramberg	48.231726	8.426938	1			~TYPE2:22|~TYPE2:22
+1096525	Autohaus Allgeier GmbH		Ahfeldstraße 2	77781	Biberach	48.334841	8.031822	1			~CCS2:22|~TYPE2:11
+1096603	Autohaus Doll GmbH		Moosweg 1A	77728	Oppenau	48.471901	8.159595	1			~CCS2:22|~TYPE2:11
+1097106	Autohaus Ummenhofer		Heinrich-Hertz-Straße 4	78052	Villingen-Schwenningen	48.080871	8.447021	1			~CCS2:22|~TYPE2:11
+1097228	Autowelt Schuler GmbH		Max-Planck-Straße 34	78052	Villingen-Schwenningen	48.084778	8.448116	1			~CCS2:22|~TYPE2:11
+1097977	MER Germany	Schramberg (DE*MER*E007306)	Heiligenbronner Str. 26	78713	Schramberg	48.229937	8.422080	1	24/7	Keine Beschränkung	DE*MER*E007306*01~CCS2:400|DE*MER*E007306*02~CCS2:400
+1097978	MER Germany	Schramberg (DE*MER*E007336)	Heiligenbronner Str. 26	78713	Schramberg	48.229940	8.422173	1	24/7	Keine Beschränkung	DE*MER*E007336*01~CCS2:400|DE*MER*E007336*02~CCS2:400
+1102749	ALDI SÜD	MAH-060	Keramikstr. 1	77736	Zell am Harmersbach	48.364308	8.056677	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11872~TYPE2:22|DE*ALD*E11871~TYPE2:22
+1102833	Wellnesshotel Hohenrodt	Wellnesshotel Hohenrodt	Obere Schulstr. 20	72290	Loßburg	48.416340	8.444180	1	24/7	Nur für Kunden/Besucher	DE*ONE*EAZX1~TYPE2:22|DE*ONE*E1PDM~TYPE2:22|DE*ONE*E1RDJ~TYPE2:22|DE*ONE*E26DW~TYPE2:22
+1103067	EnBW ODR AG		Karl-von-Hahn-Str. 100	72250	Freudenstadt	48.476484	8.404213	1		Keine Beschränkung	DE*ODR*E1000*1674~TYPE2_TETHERED:11|DE*ODR*E1000*1675~TYPE2_TETHERED:11|DE*ODR*E1000*1676~TYPE2_TETHERED:11|DE*ODR*E1000*1677~TYPE2_TETHERED:11
+1103072	EnBW ODR AG		Schillerstr. 10	72275	Alpirsbach	48.346757	8.403641	1		Keine Beschränkung	DE*ODR*E1000*0363~TYPE2:22|DE*ODR*E1000*0365~TYPE2:22
+1103652	Dayser Deutschland GmbH	Park Your Truck, 77793 Gutach	Hausacher Str. 13	77793	Gutach (Schwarzwaldbahn)	48.279537	8.197640	1	24/7	Keine Beschränkung	DEDGVE005106~TYPE2:11|DEDGVE005107~TYPE2:11
+1103979	Schnebel IT-Systemhaus GmbH		Keramikstr. 8	77736	Zell a. H.	48.346190	8.057370	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1104062	Ingenieurbüro Markus Hall, Einzelunternehmer		Rietheimerstr. 6	78050	Villingen-Schwenningen	48.050106	8.460342	1			~TYPE2_TETHERED:11
+1109664	Stadtwerke Gengenbach		Grünstraße 1	77723	Gengenbach	48.402483	8.016651	1			~TYPE2:22|~TYPE2:22
+1109665	Stadtwerke Gengenbach		Bahnhofstraße 8	77723	Gengenbach	48.405129	8.011442	1			~TYPE2:22|~TYPE2:22
+1109666	Stadtwerke Gengenbach		Brambachstraße 3	77723	Gengenbach	48.397110	8.021825	1			~TYPE2:22|~TYPE2:22
+1109667	Stadtwerke Gengenbach		Nollenstraße 15	77723	Gengenbach	48.406758	8.014265	1			~TYPE2:22|~TYPE2:22
+1109668	Stadtwerke Gengenbach		Schulstraße 7	77723	Gengenbach	48.427838	8.016157	1			~TYPE2:22|~TYPE2:22
+1109669	Stadtwerke Gengenbach		Benedikt-von-Nursia-Straße 0 0	77723	Gengenbach	48.403502	8.018717	1			~TYPE2:22|~TYPE2:22
+1109670	Stadtwerke Gengenbach		Scheffelstraße 8	77723	Gengenbach	48.405890	8.009740	1			~TYPE2:22|~TYPE2:22
+1110017	Bürgerenergie Schwarzwald e.G.		Hauptstraße 56	72275	Alpirsbach	48.342300	8.397540	1			~TYPE2:22|~TYPE2:22
+1110401	Stadtwerke Waldkirch GmbH		Kandel 1	79183	Waldkirch	48.064758	8.016033	1			~TYPE2:11|~TYPE2:11
+1110460	Hahn Sportwagen Reutlingen GmbH		Goldenbühltraße 9	78048	Villingen-Schwenningen	48.066155	8.457981	1			~TYPE2:22|~TYPE2:22|~CCS2:160|~CCS2:160
+1112184	Team-Emobility GmbH		Kandel 1	79183	Waldkirch	48.064758	8.016033	1		keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|DESWKEPH0010618~TYPE2:11|~TYPE2:11
+1112185	Team-Emobility GmbH		Talstraße 7	79263	Simonswald	48.099597	8.055077	1		keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|DESWKEPH0010616~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1112511	Autohaus Roth GmbH		Freudenstädter Straße 75	72275	Alpirsbach	48.347411	8.411823	1			~TYPE2:11|~TYPE2:11
+1112721	Emil Löffelhardt GmbH & Co. KG		Wittlensweiler Straße 12	72250	Freudenstadt	48.465206	8.431324	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113007	Stadthaus Gengenbach GmbH & Co.KG		Leutkirchstraße 34	77723	Gengenbach	48.406470	8.011650	1			~TYPE2:22|~TYPE2:22
+1113218	Stadtwerke Gengenbach	Ärztehaus	Eugen-Klaussner-Str. 19	77723	Gengenbach	48.394153	8.024159	1	24/7	Keine Beschränkung	DEGENS 0007~TYPE2:22+TYPE2:22
+1113230	Stadtwerke Villingen-Schwenningen GmbH		Wilhelm-Binder-Str. 3	78048	Villingen-Schwenningen	48.063863	8.456229	1		Keine Beschränkung	~CCS2:49|~TYPE2:22
+1113234	Regioladen+		An der Kapelle 21	78050	Villingen-Schwenningen	48.062781	8.432405	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113236	Regioladen+		Breslauer Str. 26	78052	Villingen-Schwenningen	48.082578	8.455818	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113238	Regioladen+		Falkenring 65	78048	Villingen-Schwenningen	48.063110	8.472265	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113241	Regioladen+		Kirnacher Str. 32	78050	Villingen-Schwenningen	48.061706	8.449507	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113242	Regioladen+		Kopsbühl 58	78048	Villingen-Schwenningen	48.051473	8.476507	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113243	Regioladen+		Prinz-Eugen-Str. 19	78048	Villingen-Schwenningen	48.064344	8.453574	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113244	Regioladen+		Tulastr. 12	78052	Villingen-Schwenningen	48.066288	8.487695	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113246	Regioladen+		Wöschhalde 125	78052	Villingen-Schwenningen	48.078776	8.464488	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113264	Regioladen+		Wöschhalde 61	78052	Villingen-Schwenningen	48.083598	8.465661	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1113331	Stadtwerke Oberkirch GmbH	Schnellladepark Oppenau	Moosweg 2	77728	Oppenau	48.472028	8.161329	1	24/7	Keine Beschränkung	DEREME002501~CCS2:240|DEREME002502~CCS2:240|DEREME002503~CCS2:240|DEREME002504~CCS2:240
+1113621	Michel Fliegans		Carl-Beer-Str. 21	72250	Freudenstadt	48.464480	8.417999	1			~TYPE2:11+TYPE2_TETHERED:11+SCHUKO:11
+1113712	Gästehaus Speicher		Untertal 6	77781	Biberach-Prinzbach	48.327920	8.011510	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1114074	SPK SWB		Gerberstraße 45	78050	Villingen	48.057380	8.462166	1			~TYPE2:22|~TYPE2:22
+1114287	Ladepark Kinzigtal GmbH & Co.KG		Berghauptener Straße 21	77723	Gengenbach	48.400498	8.007498	1			~CCS2:320|~CCS2:320|~CCS2:240|~CCS2:240|~CCS2:240|~CCS2:240
+1114288	Ladepark Kinzigtal GmbH & Co.KG		Berghauptener Straße 21b	77723	Gengenbach	48.399410	8.007598	1			~CCS2:320|~CCS2:320
+1114495	Hotel-Restaurant Rebstock Volker Baumann e.K.vb		Halbgütle 30	77770	Durbach	48.490530	8.034820	1			~TYPE2:22|~TYPE2:22
+1114496	Hotel-Restaurant Rebstock Volker Baumann e.K.vb		Halbgütle 30	77770	Durbach	48.490788	8.034647	1			~TYPE2:11|~TYPE2:11
+1114497	Hotel-Restaurant Rebstock Volker Baumann e.K.vb		Halbgütle 30	77770	Durbach	48.490779	8.034653	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114617	Kleinen IT		Vöhringer Straße 7	72250	Freudenstadt	48.463453	8.422161	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1114840	ALDI SÜD	DON-071	Schramberger Str. 42	78713	Schramberg	48.229850	8.417301	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23310~CCS2:50|DE*ALD*E23311~CCS2:50
+1114893	Hotel-Restaurant Rebstock Volker Baumann e.K.vb		Halbgütle 30	77770	Durbach	48.490740	8.034700	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116872	Team-Emobility GmbH		Hechtsberg 10	77756	Hausach	48.282434	8.138497	1		keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|DESWKEPH0010408~TYPE2:11|~TYPE2:11
+1117353	EGT Energy Solutions GmbH		Bahnhofstr. 2	78112	St. Georgen im Schwarzwald	48.124890	8.341382	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0089~CCS2:150|DE*GUC*E*BEC*0090~CCS2:150
+1117381	EGT Energy Solutions GmbH		Hauptstr. 56	78098	Triberg im Schwarzwald	48.131361	8.231365	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0027~TYPE2:22|DE*GUC*E*BEC*0028~TYPE2:22|DE*GUC*E*BEC*0029~TYPE2:22|DE*GUC*E*BEC*0030~TYPE2:22
+1117388	EGT Energy Solutions GmbH		Schonacher Str. 2	78098	Triberg im Schwarzwald	48.133338	8.222051	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0051~CCS2:173|DE*GUC*E*BEC*0052~CCS2:173
+1117437	EGT Energy Solutions GmbH		Industriestr. 29	78112	St. Georgen im Schwarzwald	48.127610	8.351123	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0091~TYPE2:22|DE*GUC*E*BEC*0092~TYPE2:22
+1117438	EGT Energy Solutions GmbH		Industriestr. 29	78112	St. Georgen im Schwarzwald	48.127628	8.351184	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0093~TYPE2:22|DE*GUC*E*BEC*0094~TYPE2:22
+1117440	EGT Energy Solutions GmbH		Adelheid 18	78098	Triberg im Schwarzwald	48.125882	8.220007	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0115~TYPE2:22|DE*GUC*E*BEC*0116~TYPE2:22
+1117441	EGT Energy Solutions GmbH		In der Mühlenmatte 3	78132	Hornberg	48.189637	8.229065	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0117~TYPE2:22|DE*GUC*E*BEC*0118~TYPE2:22
+1117455	EGT Energy Solutions GmbH		Gerwigstr. 1	78120	Furtwangen im Schwarzwald	48.051511	8.206835	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0057~TYPE2:22|DE*GUC*E*BEC*0058~TYPE2:22
+1118075	EnBW mobility+ AG und Co.KG		Ziegeleistr. 1	72250	Freudenstadt	48.462108	8.437326	1		Keine Beschränkung	~CCS2:73|~CCS2:73
+1118310	BAUMANNs LANDHAUS - landhaus-durbach.de		Oberweiler 18	77770	Durbach	48.488834	8.036924	1	24/7	Keine Beschränkung	E89WX~TYPE2_TETHERED:11
+1120526	SMATRICS GmbH & Co KG		Bahnhofstr. 1	78713	Schramberg	48.228363	8.384009	1		Keine Beschränkung	~TYPE2:22|~CCS2:150|~CCS2:150
+1121561	Scheerer Logistik GmbH & Co KG		Karl-Simon-Str. 10	78733	Aichhalden	48.255795	8.410509	1	Mo-Fr 17:00-23:59, Sa-So 00:01-23:59	Keine Beschränkung	DE*ONE*EC6UF~TYPE2:11|DE*ONE*E8F2T~TYPE2:11|~TYPE2:22|~TYPE2:22
+1125786	Eviny	Freudenstadt	Ludwig-Jahn-Str. 34	72250	Freudenstadt	48.470220	8.416090	1	Mo-So 07:00-21:00	Keine Beschränkung	DE*EVY*ESFR1*A~CCS2:400|DE*EVY*ESFR1*B~CCS2:400|DE*EVY*ESFR2*A~CCS2:400|DE*EVY*ESFR2*B~CCS2:400|DE*EVY*ESFR3*A~CCS2:200|DE*EVY*ESFR3*B~CCS2:200|DE*EVY*ESFR4*A~CCS2:200|DE*EVY*ESFR4*B~CCS2:200
+1125856	Autohaus Roth GmbH	Autohaus Roth GmbH	Freudenstädter Str. 75	72275	Alpirsbach	48.346769	8.411242	1	24/7	Keine Beschränkung	~CCS2:22|SAM-DB00206~TYPE2:11
+1128723	TotalEnergies Charging Solutions		Lehmfeldweg 3	79261	Gutach im Breisgau	48.128017	8.003909	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS15104*001*2~CCS2:200|DE*TCB*E3D9CS15104*001*1~CCS2:200|DE*TCB*E3D9CS15104*002~CCS2:200|DE*TCB*E3D9CS15104*002~CCS2:200
+1129923	Shell Deutschland GmbH	13016366_Baden-Baden/Oos	Wilhelm-Drapp-Str. 15	76532	Baden-Baden	48.474430	8.115170	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1129978	Shell Deutschland GmbH	13086468_Villingen	Wieselsbergstr. 27	78048	Villingen	48.068644	8.467987	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129979	Shell Deutschland GmbH	13086468_Villingen	Wieselsbergstr. 27	78048	Villingen	48.068613	8.467878	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1130214	Aral Pulse		Vöhrenbacherstr. 38	78050	Villingen-Schwenningen	48.058240	8.444180	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1134126	SMATRICS GmbH & Co KG	Stadtwerke Schramberg, Wittumweg 7	Wittumweg 7	78713	Schramberg	48.225335	8.422280	1	24/7	Keine Beschränkung	DE*SMA*EDE9220899*201AC~TYPE2:11|DE*SMA*EDE9220899*202AC~TYPE2:11
+1134441	Lehmann GmbH		Hauptstr. 219	77736	Zell am Harmersbach	48.356600	8.093365	1	24/7	Keine Beschränkung	DE*ONE*E7VM9~TYPE2:22|DE*ONE*E6N3U~TYPE2:22
+1134665	E-Werk Mittelbaden	VEGA Grieshaber KG	Am Hohenstein 113	77761	Schiltach	48.291012	8.324877	1	24/7	Keine Beschränkung	DE*EWM*E0000332~CCS2:200|DE*EWM*E0000333~CCS2:200
+1135392	ALDI SÜD	DON-045-01	Alte Landstr. 17	78112	St. Georgen im Schwarzwald	48.125883	8.341273	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23415~CCS2:150|DE*ALD*E23416~CCS2:150
+1135618	Regioladen+		Wilhelm-Binder-Str. 3	78048	Villingen-Schwenningen	48.063882	8.456231	1	24/7	Keine Beschränkung	DERLAESVS003901~CCS2:50|DERLAESVS003902~TYPE2:22
+1135619	Regioladen+		Nunnensteig 20	78052	Villingen-Schwenningen	48.083712	8.498906	1		Nur für Kunden/Besucher	DERLAESVS005301~TYPE2:22|DERLAESVS005302~TYPE2:22|DERLAESVS005303~TYPE2:22|DERLAESVS005304~TYPE2:22|DERLAESVS005305~TYPE2:22|DERLAESVS005306~TYPE2:22|DERLAESVS005307~TYPE2:22|DERLAESVS005308~TYPE2:22
+1135623	Regioladen+		Heinrich-Hertz-Str. 45	78052	Villingen-Schwenningen	48.086866	8.449651	1		Nur für Kunden/Besucher	DERLAESVS005401~TYPE2:22|DERLAESVS005402~TYPE2:22|DERLAESVS005403~TYPE2:22|DERLAESVS005404~TYPE2:22|DERLAESVS005405~TYPE2:22|DERLAESVS005406~TYPE2:22|DERLAESVS005407~TYPE2:22|DERLAESVS005408~TYPE2:22|DERLAESVS005409~TYPE2:22|DERLAESVS005410~TYPE2:22
+1135628	Regioladen+		Albert-Schweitzer-Str. 63	78052	Villingen-Schwenningen	48.063157	8.497967	1		Nur für Kunden/Besucher	8,497967~TYPE2:22|DERLAESVS005503~TYPE2:22|DERLAESVS005503~TYPE2:22|DERLAESVS005504~TYPE2:22|DERLAESVS005505~TYPE2:22|DERLAESVS005506~TYPE2:22
+1136291	Oel-Heimburger GmbH	bft Baiersbronn	Freudenstädter Str. 80	72270	Baiersbronn	48.495303	8.377724	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1139796	SCHARR Drive Ladestation	SP Adler Forenbühl	Fohrenbühl 1	78730	Lauterbach	48.235825	8.295181	1	24/7	Keine Beschränkung	DE*ARR*ESP117*001~TYPE2:11|DE*ARR*ESP117*002~TYPE2:11
+1140131	Team-Emobility GmbH		Wittlensweiler Str. 12	72250	Freudenstadt	48.465213	8.431741	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1141054	Graf Hardenberg GmbH & Co.KG		Eugen-Klaussner-Str. 16	77723	Gengenbach	48.394770	8.023484	1			~TYPE2_TETHERED:22|~TYPE2:11
+1144663	Marcel Mämpel		Lohäckerstr. 26	78078	Niedereschach	48.128892	8.488081	1	Mo-So 10:00-18:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:4.3
+1145196	MER Germany	Oppenau (DE*MER*E018284)	Schwarzwaldstr. 16	77728	Oppenau	48.466275	8.161717	1	24/7	Keine Beschränkung	DE*MER*E018284*01~CCS2:400|DE*MER*E018284*02~CCS2:400
+1145468	becharged GmbH		Oberkatzensteig 11	78141	Schönwald im Schwarzwald	48.092902	8.189736	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0227~TYPE2:22|DE*GUC*E*BEC*0228~TYPE2:22
+1145497	EGT Energy Solutions GmbH	Tiefgarage Marktplatz, St. Georgen, LP 1+2	Am Markt 1	78112	St. Georgen im Schwarzwald	48.125947	8.333325	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0169~TYPE2:22|DE*GUC*E*BEC*0170~TYPE2:22|DE*GUC*E*BEC*0171~TYPE2:22|DE*GUC*E*BEC*0172~TYPE2:22
+1145523	EGT Energy Solutions GmbH	Obertalstr. 35, Schonach, FC Teutonia, P1 + P2	Obertalstr. 35	78136	Schonach im Schwarzwald	48.146931	8.186341	1	24/7	Keine Beschränkung	DE*GUC*E*BEC*0087~TYPE2:22|DE*GUC*E*BEC*0088~TYPE2:22
+1147725	RUWI		Obercarsdorfer Str. 10	78737	Fluorn-Winzeln	48.295284	8.495665	1	Mo-So 06:00-22:00	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1149763	Fastned Deutschland GmbH & Co. KG		Hauptstr. 82	77756	Hausach	48.283789	8.164710	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1149783	cocharge	DECOC336	Grimmelshausenstr. 20	77797	Ohlsbach	48.431120	8.002537	1	24/7	Keine Beschränkung	DE*COC*E3361*01~TYPE2:11
+1149785	cocharge	DECOC3431	Wittumweg 4	78713	Schramberg	48.224991	8.421696	1	24/7	Keine Beschränkung	DE*COC*E3431*01~TYPE2:22|DE*COC*E3441*01~TYPE2:22
+1149956	ibcompany	Parkhaus Am Klinikum VS	Albert-Schweitzer-Str. 4	78052	Villingen-Schwenningen	48.063990	8.499900	1	24/7	Keine Beschränkung	DE*IBC*E100100*001~TYPE2:11|DE*IBC*E100100*002~TYPE2:11|DE*IBC*E100101*001~TYPE2:11|DE*IBC*E100101*002~TYPE2:11|DE*IBC*E100102*001~TYPE2:11|DE*IBC*E100102*002~TYPE2:11
+1150262	EnBW mobility+ AG und Co.KG	72290 Loßburg, Freudenstädter Str. 75	Freudenstädter Str. 57	72290	Loßburg	48.420334	8.444033	1	24/7	Keine Beschränkung	DE*EBW*E916718*1~CCS2:50|DE*EBW*E916718*2~CCS2:50
+1151081	Elektrogesellschaft Werner Maier mbH	Flößergasse 1	Flößergasse 11	72275	Alpirsbach	48.343960	8.402980	1	24/7	Keine Beschränkung	DE*ONE*E68M9~TYPE2:22|DE*ONE*EK7X4~TYPE2:22
+1151082	Elektrogesellschaft Werner Maier mbH	Flößergasse 2	Flößergasse 11	72275	Alpirsbach	48.343900	8.402920	1		Keine Beschränkung	DE*ONE*ESH5T~TYPE2:22|DE*ONE*EVLD7~TYPE2:22
+1151954	Wirelane GmbH		Rudolf-Diesel-Str. 19	72250	Freudenstadt	48.464282	8.445719	1		Keine Beschränkung	DE*WLN*ES001914~CCS2:50|DE*WLN*ES001915~CCS2:50
+1152334	Eviny	Haslach	Neue Eisenbahnstr. 14	77716	Haslach im Kinzigtal	48.278850	8.087328	1	24/7	Keine Beschränkung	DE*EVY*EHAS1*A~CCS2:400|DE*EVY*EHAS1*B~CCS2:400|DE*EVY*EHAS2*A~CCS2:400|DE*EVY*EHAS1*B~CCS2:400
+1153514	Linde Hotel-Restaurant GmbH		Lindenplatz 1	77770	Durbach	48.493800	8.023190	1	24/7	Nur für Kunden/Besucher	DE*ONE*EH658~TYPE2_TETHERED:22|DE*ONE*EWVD5~TYPE2_TETHERED:22|DE*ONE*E59Y2~TYPE2_TETHERED:22|DE*ONE*ECE1Q~TYPE2_TETHERED:22
+1153967	E-Werk Mittelbaden	Kirnbach Talstraße	Talstr. 12	77709	Wolfach	48.278819	8.219296	1	24/7	Keine Beschränkung	DE*EWM*E0000670~TYPE2:22|DE*EWM*E0000669~TYPE2:22|DE*EWM*E0000671~TYPE2:22
+1154131	Kreissparkasse Freudenstadt		Stuttgarter Str. 31	72250	Freudenstadt	48.464800	8.416800	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1154268	Erdrich		Neuensteiner Str. 1	77728	Oppenau	48.496747	8.138800	1	24/7	Nur für Kunden/Besucher	DEERO~TYPE2:11|DEERO~TYPE2:11
+1154984	EnBW mobility+ AG und Co.KG	PENNY Oberharmersbach, Im Ballmatt	Im Ballmatt 1	77784	Oberharmersbach	48.372040	8.123380	1	24/7	Keine Beschränkung	DE*EBW*E910814*1~CCS2:100|DE*EBW*E910814*2~CCS2:100|DE*EBW*E911491*1~CCS2:100|DE*EBW*E911491*2~CCS2:100
+1155317	Tesla Germany GmbH		Vockenhauser Str. 15	78048	Villingen-Schwenningen	48.070830	8.456065	1	24/7	Keine Beschränkung	DE*TSL*EC6DY7V~CCS2:250|DE*TSL*EC6DY7W~CCS2:250|DE*TSL*EC6DY7U~CCS2:250|DE*TSL*EC6DY7Z~CCS2:250
+1156507	SCHARR Drive Ladestation	SP Kurhotel Adlerbad	Kniebisstr. 55	77740	Bad Peterstal-Griesbach	48.452743	8.238583	1	24/7	Keine Beschränkung	DE*ARR*ESP164*001~TYPE2:11|DE*ARR*ESP164*002~TYPE2:11
+1156546	E-Merge Mobility GmbH		Am Erlenbach 10	77736	Zell am Harmersbach	48.332880	8.039176	1		Keine Beschränkung	DE*MRG*EOGKJ01*01~CCS2:400|DE*MRG*EOGKJ01*02~CCS2:400|DE*MRG*EOGKJ02*01~CCS2:400|DE*MRG*EOGKJ02*02~CCS2:400|DE*MRG*EOGKJ03*01~CCS2:200|DE*MRG*EOGKJ03*02~CCS2:200
+1158008	Alpenland Ladeinfrastruktur	Seniorenresidenz am Kaiserring	Kaiserring 2	78050	Villingen-Schwenningen	48.058505	8.462047	1	24/7	Nur für Kunden/Besucher	DE*ONE*E3VZ6~TYPE2:22|DE*ONE*E8S3Y~TYPE2:22|DE*ONE*E85BH~TYPE2:22|DE*ONE*E6G6Q~TYPE2:22
+1158283	naturenergie		Mariazeller Str. 4	78739	Hardt	48.183767	8.412861	1	24/7	Keine Beschränkung	DE*EDH*E001615~TYPE2:22|DE*EDH*E001616~TYPE2:22
+1158397	SI Energy		Obere Lehrstr. 24	78737	Fluorn-Winzeln	48.285743	8.488142	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:150|~CCS2:150
+1158399	SI Energy		Schulweg 10	78737	Fluorn-Winzeln	48.301535	8.481659	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50

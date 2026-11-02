@@ -1,0 +1,57 @@
+1011457	Comfort Charge		Lindenweg 2a	21514	Büchen	53.475210	10.620070	1			~CCS2:100+CHADEMO:100|~TYPE2:22|~TYPE2_TETHERED:22
+1016357	Avacon AG		Marktplatz 1	21379	Scharnebeck	53.294120	10.504460	1			~TYPE2:22|~TYPE2:22
+1035078	WEMAG AG		Dr. Robert Koch Str. 2b	19260	Vellahn	53.399083	10.967836	1			~TYPE2:22|~TYPE2:22
+1035130	WEMAG AG		Zarrentiner Straße 12	19258	Gresse	53.428441	10.746752	1			~TYPE2:22|~TYPE2:22
+1038676	Land-gut-Hotel Waldesruh (Einzelunternehmen)		Bostelwiebeck 14	29575	Altenmedingen	53.147330	10.666801	1			~TYPE2:22
+1041454	GP JOULE Connect GmbH	DE*CNT*EP03224*001	Ladestr. 0	21514	Büchen	53.475555	10.623725	1		Keine Beschränkung	DE*CNT*EP03224*001*1~TYPE2:22|DE*CNT*EP03224*001*2~TYPE2:22
+1041520	GP JOULE Connect GmbH	DE*CNT*EP03224*002	Lauenburger Str. 34	21514	Büchen	53.474022	10.622387	1		Keine Beschränkung	DE*CNT*EP03224*002*1~TYPE2:22|DE*CNT*EP03224*002*2~TYPE2:22
+1048403	Lidl		Hamburgerstraße 47	21481	Lauenburg	53.373946	10.548033	1			~TYPE2:22|~TYPE2:22
+1051286	Ladepark Torsten Schenzel		Am Kronshof 1	21368	Dahlenburg	53.224000	10.709900	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1056859	Energieversorgung Dahlenburg-Bleckede AG		Am Markt 12	21368	Dahlenburg	53.186967	10.742463	1			~TYPE2:22|~TYPE2:22
+1056860	Energieversorgung Dahlenburg-Bleckede AG	Schlossstraße Bleckede	Schützenweg 1	21354	Bleckede	53.296010	10.726753	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1056861	Energieversorgung Dahlenburg-Bleckede AG		Am Hafen 3	29490	Neu Darchau	53.231631	10.888169	1			~TYPE2:22|~TYPE2:22
+1056862	Energieversorgung Dahlenburg-Bleckede AG		Schützenweg 1	21354	Bleckede	53.295330	10.731207	1			~TYPE2:22|~TYPE2:22
+1056863	Energieversorgung Dahlenburg-Bleckede AG		Fritz von dem Berge Str. 40 40	21354	Bleckede	53.286778	10.738015	1			~TYPE2:11|~TYPE2:11
+1056864	Energieversorgung Dahlenburg-Bleckede AG		Lüneburger Str. 1A	21354	Bleckede	53.290594	10.730692	1			~TYPE2:22|~TYPE2:22
+1056865	Energieversorgung Dahlenburg-Bleckede AG		Lüneburger Str. 21	21368	Dahlenburg	53.186784	10.739507	1			~TYPE2:11|~TYPE2:11
+1056866	Energieversorgung Dahlenburg-Bleckede AG		Lüneburger Str. 1A	21354	Bleckede	53.290546	10.730563	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1056867	Energieversorgung Dahlenburg-Bleckede AG		Am Markt 3	21368	Dahlenburg	53.186513	10.742671	1			~TYPE2:22|~TYPE2:22|~CCS2:150|~CCS2:150
+1057032	Stadtwerke Uelzen GmbH		Zum neuen Gehege 3	29525	Uelzen / OT Molzen	53.005270	10.603446	1			~CCS2:150+CHADEMO:150|~TYPE2_TETHERED:43|~TYPE2:22
+1057118	SVO Vertrieb GmbH	Bad Bevensen, Dahlenburger Straße	Dahlenburger Str. 7a	29549	Bad Bevensen	53.080926	10.588196	1	24/7	Keine Beschränkung	DE*ISE*E0016675~TYPE2:22|DE*ISE*E0016676~TYPE2:22
+1064927	Aral Pulse		Industriestraße 30	21354	Bleckede	53.286528	10.734475	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1067969	Bildungsstätte Bad Bevensen		Uferallee 1	29549	Bad Bevensen	53.087420	10.594710	1	24/7	Keine Beschränkung	EVSE-ID: DE*ONE*E681Q~TYPE2:11|EVSE-ID: DE*ONE*EXL84~TYPE2:11|EVSE-ID: DE*ONE*EB13V~TYPE2:11|EVSE-ID: DE*ONE*EE552~TYPE2:11
+1067970	Bildungsstätte Bad Bevensen		Uferallee 1	29549	Bad Bevensen	53.087060	10.594090	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1069729	Objekt & Eigentum UG (haftungsbeschränkt) & Co. KG		Büchener Weg 94	21481	Lauenburg	53.381420	10.554609	1			~TYPE2:11
+1076050	Stadt Bad Bevensen		Brückenstraße 0	29549	Bad Bevensen	53.079086	10.584913	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076051	Stadt Bad Bevensen		Brückenstraße 0	29549	Bad Bevensen	53.079086	10.584960	1			~TYPE2:22|~TYPE2:22
+1077930	EnBW mobility+ AG und Co.KG		Fritz-Reuter-Weg 16	29549	Bad Bevensen	53.074490	10.582007	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1080437	VersorgungsBetriebe Elbe GmbH		Hamburger Straße 9-11	21481	Lauenburg / Elbe	53.373785	10.552642	1			~TYPE2:22|~TYPE2:22
+1080438	VersorgungsBetriebe Elbe GmbH		Auf dem Elbberg 18	19258	Boizenburg / Elbe	53.375577	10.698652	1			~TYPE2:22|~TYPE2:22
+1080439	VersorgungsBetriebe Elbe GmbH		An der Quöbbe 35	19258	Boizenburg / Elbe	53.374542	10.727276	1			~TYPE2:22|~TYPE2:22
+1080440	VersorgungsBetriebe Elbe GmbH		Alter Bahnhof 1	21481	Lauenburg / Elbe	53.370041	10.566966	1			~TYPE2:22|~TYPE2:22
+1080441	VersorgungsBetriebe Elbe GmbH		Am Schüsselteich 0	21481	Lauenburg / Elbe	53.374449	10.550757	1			~TYPE2:125+CCS2:125+CHADEMO:125|~CCS2:125|~TYPE2:22
+1080442	VersorgungsBetriebe Elbe GmbH		Bei der Palmschleuse 0	21481	Lauenburg/Elbe	53.375014	10.585823	1			~CCS2:150|~CCS2:150
+1080443	VersorgungsBetriebe Elbe GmbH		Weingarten 0	21481	Lauenburg / Elbe	53.374056	10.554083	1			~CCS2:150|~CCS2:150
+1084744	Arnold Schütte		Lütt Hamborg 6	21371	Tosterglope	53.205818	10.813995	1			~TYPE2_TETHERED:11
+1085330	Denise Hänschke-Berg		Grüner Jäger 11a	29553	Bienenbüttel	53.131432	10.550836	1			~TYPE2:11
+1085549	Enrico Scharfenberg		Kurt-Klein-Straße 5	19258	Boizenburg/Elbe	53.377614	10.702298	1			~TYPE2:11
+1087311	Peter Baumann		Am Walde 4	21397	Barendorf	53.223997	10.543299	1			~TYPE2:11
+1093561	Uhlenköper-Camp Körding eGbR		Festplatzweg 11	29525	Uelzen	53.000800	10.516917	1			~TYPE2:22
+1106360	E.ON Drive GmbH		Marktplatz 1	21379	Scharnebek	53.294120	10.504460	1			~TYPE2:22|~TYPE2:22
+1106452	E.ON Drive GmbH		Lauenburger Strasse 33	21514	Büchen	53.474490	10.622690	1			~TYPE2:22|~TYPE2:22
+1106620	E.ON Drive GmbH		Im Stadtkamp 1	21397	Barendorf	53.229282	10.514989	1			~TYPE2:11|~TYPE2:11
+1106623	E.ON Drive GmbH		Am Sportzentrum 5	21522	Hohnstorf/Elbe	53.363950	10.550970	1			~TYPE2:22|~TYPE2:22
+1112585	BIO-Hotel Kenners LandLust		Dübbekold 1	29473	Göhrde	53.147478	10.885286	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1112586	BIO-Hotel Kenners LandLust		Dübbekold 1	29473	Göhrde	53.147486	10.885114	1			~TYPE2:11|~TYPE2:11
+1112587	BIO-Hotel Kenners LandLust		Dübbekold 1	29473	Göhrde	53.147451	10.884650	1			~TYPE2:11|~TYPE2:11
+1113589	Gasthof Basedau		Alte Salzstraße 16	21483	Lütau	53.432432	10.547784	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1118270	Comfort Charge	Dahlenburg, CC_21_0015	Bahnhofstr. 11	21368	Dahlenburg	53.186690	10.736250	1	24/7	Keine Beschränkung	DECCH*ECCH2400007EBG*1~CCS2:200|DECCH*ECCH2400007EBG*2~CCS2:200|DECCH*ECCH2400008EBG*1~CCS2:200|DECCH*ECCH2400008EBG*2~CCS2:200
+1118661	hagebaumarkt Mölders Adendorf GmbH	hagebaumarkt Bad Bevensen	Ludwig-Ehlers-Str. 14	29549	Bad Bevensen	53.071230	10.572010	1	24/7	Keine Beschränkung	E5YES & EV3WH~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1137019	Roland Basch	Carport	Dragahner Weg 16	29481	Karwitz	53.089711	10.999716	1	Mo-So 16:00-20:00	Nur für Kunden/Besucher	~TYPE2:11
+1137843	Bauckhof Stütensen e.V.	Stütensen 2	Stütensen 2	29571	Rosche	53.001998	10.789212	1	Mo-Fr 08:00-18:30, Sa 08:00-16:00, So 09:00-16:00	Keine Beschränkung	~TYPE2:22
+1138031	GP JOULE Connect GmbH	DE*CNT*EP03224*003	Amtsplatz 1	21514	Büchen	53.480064	10.616282	1		Keine Beschränkung	DE*CNT*EP03224*003*1~TYPE2:22|DE*CNT*EP03224*003*2~TYPE2:22
+1138032	GP JOULE Connect GmbH	DE*CNT*EP03224*004	Möllner Str. 61	21514	Büchen	53.490887	10.613944	1		Keine Beschränkung	DE*CNT*EP03224*004*1~TYPE2:22|DE*CNT*EP03224*004*2~TYPE2:22
+1147864	Uhlenköper-Camp Körding eGbR		Festplatzweg 11	29525	Uelzen	53.000000	10.515613	1		Keine Beschränkung	~TYPE2:3.7|~TYPE2:7|~TYPE2:7|~TYPE2:7|~TYPE2:7|~TYPE2:7|~TYPE2:7|~TYPE2:7
+1155136	E.ON Drive Infrastructure		Vor dem Mühlentor 0	19258	Boizenburg	53.376233	10.717293	1	24/7	Keine Beschränkung	DE*UFC*E01419*1~CCS2:400|DE*UFC*E01419*2~CCS2:400|DE*UFC*E01418*1~CCS2:400|DE*UFC*E01418*2~CCS2:400
+1155809	Backcharge	Samtgemeinde Ostheide	Schulstr. 2	21397	Barendorf	53.227276	10.535738	1	24/7	Keine Beschränkung	DEBCKE1234627594*1~TYPE2:22|DEBCKE1234627594*2~TYPE2:22|DEBCKE1234627594*1~TYPE2:22|DEBCKE1234627594*2~TYPE2:22
+1156418	Wirelane GmbH	Medikom GmbH	Am Klaubusch 11	29549	Bad Bevensen	53.086042	10.583852	1		Keine Beschränkung	DE*WLN*ES000340~TYPE2:11|DE*WLN*ES000341~TYPE2:11|DE*WLN*ES000342~TYPE2:11|DE*WLN*ES000343~TYPE2:11|DE*WLN*ES000342~TYPE2:11|DE*WLN*ES000343~TYPE2:11

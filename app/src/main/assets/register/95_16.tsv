@@ -1,0 +1,225 @@
+1001564	Stadtwerke Waldshut-Tiengen		Lise-Meitner-Ring 0	79761	Waldshut-Tiengen	47.617895	8.249086	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001565	Stadtwerke Waldshut-Tiengen		Industriestraße 2	79761	Waldshut-Tiengen	47.628259	8.304125	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001566	Stadtwerke Waldshut-Tiengen		Bahnhofstraße 2	79761	Waldshut-Tiengen	47.635390	8.272410	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1001568	Stadtwerke Waldshut-Tiengen		Industriestraße 1	79761	Waldshut-Tiengen	47.625491	8.263227	1			~TYPE2:22|~TYPE2:22+SCHUKO:22
+1001569	Stadtwerke Waldshut-Tiengen		Hohreinstr. 59	79787	Lauchringen	47.627566	8.314227	1			~TYPE2:11|~TYPE2:11
+1001570	Stadtwerke Waldshut-Tiengen		Jahnweg 22	79761	Waldshut-Tiengen	47.611000	8.225270	1			~TYPE2:22|~TYPE2:22
+1001571	Stadtwerke Waldshut-Tiengen		Porschestraße 1	79761	Waldshut-Tiengen	47.629250	8.266900	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1001572	Stadtwerke Waldshut-Tiengen		Bahnhofstraße 12	79787	Lauchringen	47.628710	8.322289	1			~TYPE2:22|~TYPE2:22
+1001573	Stadtwerke Waldshut-Tiengen		Alte Rathausstraße 26	79787	Lauchringen	47.621697	8.322694	1			~TYPE2:22|~TYPE2:22
+1001574	Stadtwerke Waldshut-Tiengen		Hebelstraße / Bundesstraße 1	79787	Lauchringen	47.621697	8.305457	1			~TYPE2:22|~TYPE2:22
+1009106	Shell Deutschland GmbH		Schnötstr. 2	79804	Dogern	47.613970	8.183170	1			~CCS2:360|~CCS2:360
+1009122	Shell Deutschland GmbH		Studerstr. 26	79843	Löffingen	47.886190	8.361040	1			~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1026625	EnBW mobility+ AG und Co.KG		Lindenpark 6	78183	Hüfingen	47.934584	8.497364	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1028139	EnBW mobility+ AG und Co.KG		Bregstraße 30	78166	Donaueschingen	47.934700	8.498669	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1030743	badenova AG & Co. KG		Strandbadstraße 14	79822	Titisee-Neustadt	47.900600	8.147616	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031947	Circle K Deutschland		Am Friedenweiler 0	79877	Friedenweiler	47.897600	8.274400	1			~CCS2:150+CHADEMO:150|~CCS2:150+CHADEMO:150
+1032212	TotalEnergies		Am Friedenweiler B31	79877	Röthenbach/Friedenweiler	47.897590	8.274834	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1035721	ALDI SÜD		Freiburger Straße 9	79822	Titisee-Neustadt	47.923309	8.190432	1			~TYPE2:22|~TYPE2:22
+1035967	ALDI SÜD	DON-029	Laufenpark 9	79725	Laufenburg (Baden)	47.565389	8.074583	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22953~CCS2:150|DE*ALD*E22954~CCS2:150|DE*ALD*E22955~TYPE2:22
+1036873	badenova AG & Co. KG		Gutachstr. 34a	79822	Titisee-Neustadt	47.918539	8.204174	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1038027	Schneider KG		Todtmooserstr. 5	79837	St. Blasien	47.761214	8.127543	1			~TYPE2:11
+1038278	Autohaus Hofheinz e.K.		Hüfingerstr 13	18199	Bräunlingen	47.931380	8.452178	1			~TYPE2:11|~TYPE2:11
+1038317	Landhotel und Restaurant Haringerhof		Brandhaldenweg 1	79865	Grafenhausen	47.769937	8.257473	1			~TYPE2:22
+1038920	naturenergie		Dorfstrasse 11	79874	Breitnau	47.939779	8.080231	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038923	naturenergie		Bei der Kirche 7	79871	Eisenbach	47.958052	8.265034	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038924	naturenergie		Hüsli 1a	79865	Grafenhausen	47.793324	8.246839	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038928	naturenergie		Hauptstrasse 27	79737	Herrischried	47.664163	8.003102	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038930	naturenergie		Bahnhofweg 2	79856	Hinterzarten	47.905920	8.106344	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038931	naturenergie		Haus des Gastes 0	79862	Höchenschwand	47.737131	8.166402	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038934	naturenergie		Gemeindezentrum 1	79790	Küssaberg-Rheinheim	47.593054	8.299903	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038935	naturenergie		Säckingerstrasse 61	79725	Laufenburg	47.557717	8.045899	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038936	naturenergie		Kirchplatz 1	79853	Lenzkirch	47.868066	8.202655	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038937	naturenergie		Bittengasse 3	79843	Löffingen	47.884107	8.345817	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038945	naturenergie		Hauptstrasse 52	79730	Murg	47.553616	8.023323	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038946	naturenergie		Lauberstrasse 4	79730	Murg-Hänner	47.594915	8.035577	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038951	naturenergie		Fürstabt-Gerbert-Straße 18	79837	Sankt Blasien	47.760085	8.131474	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038957	naturenergie		Parkstraße beim Bahnhof 0	79822	Titisee	47.903012	8.144799	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038958	naturenergie		Gutachstr. 36	79822	Titisee-Neustadt	47.918977	8.203733	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038961	naturenergie		Hauptstraße 10	79777	Ühlingen-Birkendorf	47.720139	8.318419	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038963	naturenergie		Peter-Thumb-Strasse 1	79761	Waldshut-Tiengen	47.634273	8.274138	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038964	naturenergie		Bismarckstrasse 7	79761	Waldshut-Tiengen	47.621069	8.218004	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038965	naturenergie		Waldtorstrasse 1	79761	Waldshut-Tiengen	47.623954	8.212864	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038966	naturenergie		Sulzerring 6	79761	Waldshut-Tiengen	47.634648	8.277262	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038967	naturenergie		Kaiserstrasse 110	79761	Waldshut-Tiengen	47.622712	8.204805	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038973	naturenergie		Bühlstraße 48	78166	Donaueschingen	47.942310	8.497690	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038976	naturenergie		Bahnhoferstraße 10	78183	Hüfingen	47.929190	8.490490	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038978	naturenergie		Blaumeerstraße 12	78199	Bräunlingen	47.929390	8.446610	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038997	naturenergie		Marktplatz 2	79733	Görwihl	47.641270	8.078130	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038998	naturenergie		Bahnhofstraße 14	79774	Albruck	47.592120	8.132890	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038999	naturenergie		St. Fridolin Straße 5	79837	Häusern	47.753140	8.168460	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039000	naturenergie		Schwimmbadstraße 2	79848	Bonndorf	47.817820	8.340560	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039001	naturenergie		Dr Rudolf Eberle Straße 3	79862	Höchenschwand	47.737100	8.166240	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039002	naturenergie		Birklehof 10	79874	Hinterzarten	47.910030	8.100740	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039008	naturenergie		Bürgerstrasse 7	79805	Eggingen	47.698400	8.390130	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039009	naturenergie		Hauptstrasse 28	79730	Murg	47.553585	8.019521	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039011	naturenergie		Schulstr. 1	79865	Grafenhausen	47.775000	8.259970	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039012	naturenergie		Hauptstrasse 0	79780	Stühlingen	47.746306	8.450000	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039024	naturenergie		Wehratalstrasse 0	79682	Todtmoos	47.735625	8.000615	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039026	naturenergie		Rothaus 1	79865	Grafenhausen-Rothaus	47.795445	8.244960	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039027	naturenergie		Am Badeparadies 1	79822	Titisee-Neustadt	47.907599	8.158931	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039029	naturenergie		Hohlgasse 3	79777	Ühlingen-Birkendorf	47.750762	8.307544	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039031	naturenergie		Im Breitenfeld 20	79848	Bonndorf	47.822388	8.348564	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039039	naturenergie		Dr. Pilet-Spur 2	79868	Feldberg	47.859022	8.037157	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039042	naturenergie		Schulstrasse 6	79774	Albbruck	47.593580	8.131465	1			~TYPE2:22+SCHUKO:22
+1039044	naturenergie		Haennerstrasse 6	79730	Murg	47.582398	8.032507	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039047	naturenergie		Dorfplatz 1	79853	Lenzkirch	47.892153	8.177807	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039053	naturenergie		Riedstrasse 1	79787	Lauchringen	47.628270	8.314657	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039054	naturenergie		Kirchstr. 24	78199	Braeunlingen	47.928357	8.449206	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039056	naturenergie		Innerlehen Am Kurpark 26	79872	Bernau	47.799869	8.037518	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039060	naturenergie		Gewerbegebiet Tiefenhaeusern 2	79682	Hoechenschwand	47.704099	8.144363	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039068	naturenergie		Hohenstr. 18	78183	Huefingen	47.923911	8.496610	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039072	naturenergie		Rathausweg 1	79804	Dogern	47.608698	8.167759	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039076	naturenergie		Lenzkircherstrasse 24	79848	Bonndorf im Schwarzwald	47.818418	8.331576	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039077	naturenergie		Talstrasse 3a	79848	Bonndorf im Schwarzwald	47.794525	8.351893	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1039080	naturenergie		St.-Friedolinstrasse 15	79837	Haeusern	47.751241	8.167991	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039096	naturenergie		Albtalstraße 14	79837	Sankt Blasien	47.758767	8.136095	1			~TYPE2:22|~TYPE2:22
+1039097	naturenergie		Tusculumweg 1	79837	Sankt Blasien	47.760012	8.128016	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039100	naturenergie		Obere Hauptstraße 32	79843	Löffingen	47.884773	8.352785	1			~TYPE2:22|~TYPE2:22
+1039102	naturenergie		Am Postplatz 1	79822	Titisee-Neustadt	47.910808	8.212421	1			~TYPE2:22|~TYPE2:22
+1039104	naturenergie		Hauptstrasse 7	79837	Sankt Blasien	47.761520	8.129164	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039106	naturenergie		Schlossstrasse 10	79780	Stühlingen	47.741692	8.439056	1			~TYPE2:22|~TYPE2:22
+1039114	naturenergie		Gewerbestrasse 3	79822	Titisee-Neustadt	47.910643	8.166421	1			~TYPE2:22|~TYPE2:22
+1039115	naturenergie		Nikolaus-Otto-Strasse 4	79761	Waldshut-Tiengen	47.620099	8.253920	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039116	naturenergie		Bergstrasse 37	79843	Löffingen	47.857720	8.312120	1			~TYPE2:22|~TYPE2:22
+1039118	naturenergie		Franz-Morat-Strasse 6	79871	Eisenbach	47.947081	8.264740	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039126	naturenergie		Schaffhauser Strasse 1	79865	Grafenhausen	47.775167	8.256008	1			~TYPE2:22|~TYPE2:22
+1039130	naturenergie		Im Spitz 2	79790	Küssaberg	47.610215	8.297019	1			~TYPE2:22|~TYPE2:22
+1039132	naturenergie		Feldbergstr. 5	79868	Feldberg (Schwarzwald)	47.868640	8.095834	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1039133	naturenergie		Am Kaltenbach 10	79761	Waldshut-Tiengen	47.627259	8.266758	1			~TYPE2:22|~TYPE2:22
+1039134	naturenergie		Am Golfplatz 1-3	79780	Stühlingen	47.766957	8.373787	1			~TYPE2:22|~TYPE2:22
+1039141	naturenergie		Salzstrasse 6	79822	Titisee-Neustadt	47.911316	8.213460	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039148	naturenergie		Fohrenbachstrasse 2	79809	Weilheim	47.690868	8.213569	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039149	naturenergie		Badener Platz 1	79809	Weilheim	47.657723	8.239837	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039150	naturenergie		Waldhausstrasse 1	79809	Weilheim	47.679364	8.153699	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039161	naturenergie		Seebrugg 14	79859	Schluchsee	47.802281	8.192684	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039162	naturenergie		Am Sommerberg 3	79859	Schluchsee	47.835741	8.125007	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039163	naturenergie		Faulenfürster Str. 4	79859	Schluchsee	47.815280	8.180469	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039169	naturenergie		Stadtweg 4	79725	Laufenburg	47.564917	8.077430	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~CCS2:50|~CCS2:50
+1039170	naturenergie		Mettinger Straße 11	79805	Eggingen	47.700128	8.387195	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039171	naturenergie		Seestraße 37-41	79822	Titisee-Neustadt	47.899174	8.154299	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039172	naturenergie		Birklehof 1	79856	Hinterzarten	47.912067	8.094428	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039173	naturenergie		Abt-Meister-Straße 35	79780	Stühlingen	47.811847	8.451498	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039175	naturenergie		St.-Gallus-Straße 37	79780	Mauchen	47.741491	8.389510	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039179	naturenergie		Schulstraße 2	79853	Lenzkirch	47.869689	8.202423	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039183	naturenergie		Markäcker 9	79793	Wutöschingen	47.637121	8.343124	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039185	naturenergie		Gewerbestrasse 5	79804	Dogern	47.601776	8.155439	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039193	naturenergie		Säckingerstrasse 8	79725	Laufenburg	47.564604	8.062130	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039194	naturenergie		Rathausstraße 18	79872	Bernau	47.802031	8.035550	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039195	naturenergie		Lindenstraße 1	79877	Friedenweiler	47.917119	8.256327	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039207	naturenergie		Dorfplatz 4	79853	Lenzkirch	47.892849	8.177165	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039248	naturenergie		Landstraße 13	79822	Titisee-Neustadt	47.981958	8.166811	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039251	naturenergie		Feldbergstr. 5	79868	Feldberg (Schwarzwald)	47.868430	8.095862	1		Keine Beschränkung	~CCS2:75|~CCS2:75
+1039258	naturenergie		Industriestraße 1	79761	Waldshut-Tiengen	47.625908	8.264205	1			~CCS2:150|~CCS2:150
+1039259	naturenergie		Industriestraße 1	79761	Waldshut-Tiengen	47.625976	8.264246	1			~CCS2:150|~CCS2:150
+1039260	naturenergie		Studerstraße 20	79843	Löffingen	47.886223	8.359335	1			~CCS2:75|~CCS2:75
+1039261	naturenergie		Studerstraße 20	79843	Löffingen	47.886237	8.359587	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1043579	Allego		Carl-Duisburg-Straße 2	79761	Waldshut-Tiengen	47.614103	8.237895	1		Keine Beschränkung	DEALLEGO002956*1~CCS2:150|DEALLEGO002956*2~CCS2:150
+1046863	Parkraumgesellschaft Baden-Württemberg GmbH		Irmastraße 11	78166	Donaueschingen	47.950510	8.495567	1			~TYPE2:22|~TYPE2:22
+1048986	Lidl	4534_Lidl_Waldshut_T65-IT1-0523-033	Hebelstr. 2	79761	Waldshut-Tiengen	47.630851	8.267186	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1060251	Pluq		Dorfplatz 5	79853	Lenzkirch-Saig	47.893148	8.177818	1			~TYPE2:22|~TYPE2:22
+1061474	naturenergie		Am Sommerberg 29	79868	Feldberg (Schwarzwald)	47.854558	8.106854	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1061493	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Bahnhofstr. 0	78166	Donaueschingen	47.949718	8.495922	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22
+1061583	naturenergie		Obere Hauptstr. 28	79843	Löffingen	47.885100	8.351578	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1062670	Stadtwerke Bad Säckingen GmbH	Rathaus Harpolingen	Ringstr. 26	79713	Bad Säckingen	47.572779	8.001542	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1064077	Kaufland		Brückenstraße 7	79761	Waldshut-Tiengen	47.624530	8.218593	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1065057	SMATRICS GmbH & Co KG		Schlüchtseeweg 7	79865	Grafenhausen	47.791274	8.248239	1			~TYPE2:11
+1065852	Team-Emobility GmbH		Seestraße 16	79822	Titisee-Neustadt	47.898362	8.155018	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066729	Hotel Albtalblick GmbH		St.Blasierstr. 9	79837	Häusern	47.751510	8.158640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1066731	Hotel Nägele GmbH & Co.KG		Bürgermeister Huberstr. 13	79862	Höchenschwand	47.736730	8.168780	1			~TYPE2:22|~TYPE2:22
+1067982	Lewke Photovoltaik Gbr		An der Haslach 12	79853	Lenzkirch	47.871972	8.199194	1			~TYPE2:22|~TYPE2:22
+1067990	Dunkermotoren GmbH		Allmendstraße 6	79848	Bonndorf	47.813140	8.331930	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50
+1068412	Hotel Silberdistel Hinterzarten		Freiburger Str. 27	79856	Hinterzarten	47.908870	8.100746	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068413	Hotel Silberdistel Hinterzarten		Freiburger Str. 27	79856	Hinterzarten	47.908788	8.100930	1			~TYPE2:22|~TYPE2:22
+1069024	Bürger Energie St. Peter eG		Hauptstr. 0	79256	Buchenbach	47.961270	8.010550	1			~TYPE2:22|~TYPE2:22
+1069241	Martin Börner		Ob der Schwelle 18	79868	Feldberg	47.869206	8.125083	1			~TYPE2:22+TYPE2_TETHERED:22
+1070329	Volksbank Hochrhein eG		Hauptstr. 80	79761	Waldshut-Tiengen	47.635109	8.278973	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1074960	Hetzel Hotel Hochschw. Gmbh und COKG		Am Riesenbühl 4	79859	Schluchsee	47.823391	8.180910	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1076265	Privatbrauerei Waldhaus Joh. Schmid GmbH		Waldhaus 1	79809	Waldhaus	47.683343	8.157378	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076732	Regioladen+		Stankertstraße 5	78052	Villingen-Schwenningen	47.999380	8.410300	1			~TYPE2:22|~TYPE2:22
+1077264	Privatbrauerei Waldhaus Joh. Schmid GmbH	Parkplatz	Waldhaus 1	79809	Weilheim	47.683272	8.157458	1	24/7	Keine Beschränkung	DE*PWH*E3050018171~TYPE2:22|DE*PWH*E3050018172~TYPE2:22|DE*PWH*E3050018173~TYPE2:22
+1078009	badenova AG & Co. KG		August-Euler-Platz 3	79868	Feldberg (Schwarzwald)	47.856260	8.029840	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1078073	Volksbank Hochrhein eG	Parkdeck	Bismarckstr. 29	79761	Waldshut-Tiengen	47.621968	8.216021	1	24/7	Keine Beschränkung	E26TW~TYPE2:22|EK5HF~TYPE2:22
+1080821	Landgasthof Bergblick		Hasenbuckweg 1	79872	Bernau	47.811180	8.027580	1			~TYPE2:22|~TYPE2:22
+1080823	Landgasthof Bergblick		Hasenbuckweg 1	79872	Bernau	47.811220	8.027430	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1081362	Gottstein GmbH Automobile + Motorräder		Karl-Ziegler-Str. 4	79761	Waldshut-Tiengen	47.616051	8.245010	1			~TYPE2:22|~TYPE2:22
+1083983	becharged GmbH		Hauptstraße 32	79822	Titisee-Neustadt	47.913872	8.210338	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084264	WHB Wohnheim- und Hotelbetriebsgesellschaft UG & Co.KG		Unterfischbach 4	79859	Schluchsee	47.819847	8.177770	1			~TYPE2:22|~TYPE2:22
+1084695	Andreas Baumann		Ortsstraße 3	78183	Hüfingen	47.894354	8.489033	1			~TYPE2:11
+1085066	Christel Bönecke		Weiherhalde 16	79875	Dachsberg (Südschwarzwald)	47.697655	8.064641	1			~TYPE2_TETHERED:11
+1085348	Derek Rothstein		Ulmenweg 34	79761	Waldshut-Tiengen	47.620171	8.233249	1			~TYPE2_TETHERED:11
+1085782	Gemeinde Lauchringen		Riedpark 19	79787	Lauchringen	47.630382	8.312778	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1086306	Johannes Thiel		Lochmühleweg 6	79713	Bad Säckingen	47.573824	8.003443	1			~TYPE2_TETHERED:11
+1086396	Jürgen Woenckhaus		Ulmenweg 38	79761	Waldshut-Tiengen	47.619980	8.232095	1			~TYPE2_TETHERED:11
+1087134	Nicole Andrea Wohner		Giebelmattstrasse 7	79730	Murg	47.555979	8.024304	1			~TYPE2_TETHERED:11
+1087137	Nicole Obrist		Giebelmattstrasse 7	79730	Murg	47.555979	8.024304	1			~TYPE2_TETHERED:11
+1087429	Rafael Kosak		Haslachstraße 42	79868	Feldberg (Schwarzwald)	47.858997	8.037044	1			~TYPE2_TETHERED:11
+1088529	naturenergie		An der Donauhalle 2	78166	Donaueschingen	47.951679	8.492689	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091875	SCHARR Drive Ladestation		Mettmatalstr. 1	79865	Grafenhausen	47.795290	8.234764	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1092966	Gasthaus Kreuz		Ehrenbachstr, 70	79780	Stühlingen-Weizen	47.778985	8.463637	1			~TYPE2:22|~TYPE2:22
+1093002	Geissenhof		Strittberg 55	79862	Höchenschwand	47.719048	8.196837	1			~TYPE2_TETHERED:11
+1096534	Autohaus Amann GmbH		Bundesstraße 14	79780	Stühlingen	47.748549	8.454869	1			~CCS2:22|~TYPE2:11
+1096948	Autohaus Peter Ebner GmbH		Am Mühlebach 5	79774	Albbruck	47.598383	8.146818	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1097161	Autohaus Wittmer GmbH		Titiseestraße 1	79822	Titisee-Neustadt	47.917204	8.207500	1			~TYPE2:11
+1097162	Autohaus Wittmer GmbH		Titiseestraße 1	79822	Titisee-Neustadt	47.917110	8.207612	1			~CCS2:22|~TYPE2:11
+1097359	H. und H. Wittmer GmbH		Ludwig-Kegel-Straße 11	79853	Lenzkirch	47.868029	8.205770	1			~CCS2:22|~TYPE2:11
+1097530	Stoll GmbH		Porschestraße 1	79761	Waldshut-Tiengen	47.629520	8.267328	1			~CCS2:150|~TYPE2:22|~CCS2:150
+1097531	Stoll GmbH		Porschestraße 1	79761	Waldshut-Tiengen	47.629578	8.267380	1			~CCS2:150|~TYPE2:22|~CCS2:150
+1102288	Schlehdorn GmbH		Am Sommerberg 1	79868	Feldberg	47.856773	8.109759	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1102289	Schlehdorn GmbH		Am Sommerberg 1	79868	Feldberg	47.856321	8.109026	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1102290	Schlehdorn GmbH		Edwin Vogt Weg 6	79868	Feldberg	47.854238	8.107848	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1102401	Gasthaus Kranz, Einzelunternehmen		Luttingerstrasse 22	79725	Laufenburg	47.574886	8.099633	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102585	Gasthof-Pension Lamm		Rüßwihl 147	79733	Görwihl	47.629420	8.072950	1			~TYPE2:22|~TYPE2:22
+1104091	HVT Hochrhein Veranstaltungstechnik Einzelfirma		Kupferschmidstr. 78	79761	Waldshut-Tiengen	47.623830	8.250670	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104253	Seipp Wohnen GmbH		Schaffhauser Str. 36	79761	Waldshut-Tiengen	47.634210	8.283158	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104254	Seipp Wohnen GmbH		Schaffhauser Str. 36	79761	Waldshut-Tiengen	47.634072	8.284085	1			~TYPE2:22|~TYPE2:22
+1104255	Seipp Wohnen GmbH		Schaffhauser Str. 36	79761	Waldshut-Tiengen	47.633699	8.283688	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1104460	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Hauptstr. 1	79771	Klettgau	47.661279	8.431041	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1104462	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Industriestr. 19	79771	Klettgau	47.628372	8.397648	1			~TYPE2:11+SCHUKO:11|~TYPE2:11
+1104463	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Industriestr. 2	79801	Hohentengen am Hochrhein	47.572841	8.445163	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:3.7
+1104465	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Degernauer Str. 22	79771	Klettgau	47.657460	8.421927	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1104540	Pneuhage Management GmbH & Co. KG		Rheinbrückenstr. 6	79761	Waldshut-Tiengen	47.609480	8.230994	1		Keine Beschränkung	6778495~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1113457	Sto SE & Co KGaA		Ehrenbachstraße 1	79780	Stühlingen	47.767020	8.475870	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1113459	Sto SE & Co KGaA		Ehrenbachstraße 1	79780	Stühlingen	47.767056	8.475903	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1113460	Sto SE & Co KGaA		Ehrenbachstraße 1	79780	Stühlingen	47.766867	8.476248	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1113461	Sto SE & Co KGaA		Ehrenbachstraße 1	79780	Stühlingen	47.766885	8.476264	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1113531	Café Pension Feldbergblick / Einzelunternehmer		Schwärzenbach 19	79822	Titisee-Neustadt	47.948989	8.238742	1			~TYPE2:22|~TYPE2:22
+1114076	SPK SWB		Mühlenstraße 1	78166	Donaueschingen	47.953261	8.495389	1			~TYPE2:22|~TYPE2:22
+1114244	Hotel Diana Feldberg Bärental Verwaltungs- und Betriebsberatungs GmbH - Feldberg		Panoramaweg 11	79868	Feldberg	47.869707	8.088207	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1114245	Hotel Diana Feldberg Bärental Verwaltungs- und Betriebsberatungs GmbH - Feldberg		Panoramaweg 11	79868	Feldberg	47.869802	8.088543	1			~TYPE2:22|~TYPE2:22
+1114367	Der Adler Lauchringen		Alter Schulplatz 2	79787	Lauchringen	47.621752	8.326775	1			~TYPE2:11|~TYPE2:11
+1115081	Bächle Immobilien GbR	Steuerkanzlei Florian Bächle	Gupfenstr. 9a	79809	Weilheim	47.673074	8.161387	1	24/7	Keine Beschränkung	DE*MDS*E011319~TYPE2:22|DE*MDS*E011321~TYPE2:22|DE*MDS*E011056~TYPE2:22|DE*MDS*E011254~TYPE2:22
+1115955	coucou Hotel		Parkstr 11-13	79822	Titisee	47.902805	8.154879	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1117610	naturenergie	OBI Markt Waldshut-Tiengen	Lise-Meitner-Ring 8	79761	Waldshut-Tiengen	47.616781	8.249316	1	24/7	Keine Beschränkung	DE*EDH*E001493~CCS2:150|DE*EDH*E001494~CCS2:150
+1117612	naturenergie	OBI Markt Waldshut-Tiengen	Lise-Meitner-Ring 8	79761	Waldshut-Tiengen	47.616680	8.249059	1	24/7	Keine Beschränkung	DE*EDH*E001491~CCS2:75|DE*EDH*E001492~CCS2:75
+1117613	naturenergie	OBI Markt Waldshut-Tiengen	Lise-Meitner-Ring 8	79761	Waldshut-Tiengen	47.616738	8.249295	1	24/7	Keine Beschränkung	DE*EDH*E001488~TYPE2:22|DE*EDH*E001489~TYPE2:22
+1118421	EnBW mobility+ AG und Co.KG		Freiburger Str. 11	79822	Titisee-Neustadt	47.923180	8.189440	1		Keine Beschränkung	~CCS2:75|~CCS2:75
+1118457	EnBW mobility+ AG und Co.KG		Am Kugelrain 6	79837	St. Blasien	47.764645	8.123457	1		Nur für Kunden/Besucher	~CCS2:75|~CCS2:75
+1118513	Lidl	5037_Lidl_Feldberg-Bärental_T65-IT1-3722-258	Ignaz-Gfell-Platz 3	79868	Feldberg (Schwarzwald)	47.868740	8.096620	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1118653	naturenergie		Rathausplatz 1	79865	Grafenhausen	47.773378	8.261414	1	24/7	Keine Beschränkung	DE*EDH*E001385~TYPE2:22|DE*EDH*E001386~TYPE2:22
+1119942	Lidl	6848_Lidl_St. Blasien_T65-IT1-0225-001	Am Kugelrain 1	79837	St. Blasien	47.764630	8.124720	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1120097	EnBW mobility+ AG und Co.KG		Bahnhofstr. 1	79848	Bonndorf im Schwarzwald	47.817657	8.333230	1		Keine Beschränkung	~CCS2:72|~CCS2:72
+1121045	badenova AG & Co. KG		Hauptstr. 28A	79793	Wutöschingen	47.658910	8.363570	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1121549	naturenergie		Johann-Anton-Morath-Weg 5	79865	Grafenhausen	47.756482	8.211561	1	24/7	Keine Beschränkung	DE*EDH*E001391~TYPE2:22|DE*EDH*E001392~TYPE2:22
+1125767	Sebastian Domke		Öhmdwiese 2	79843	Löffingen	47.900940	8.366920	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1125800	ALDI SÜD	DON-048	Bregstr. 2	78183	Hüfingen	47.933604	8.495332	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23356~CCS2:50|DE*ALD*E23357~CCS2:50
+1126565	naturenergie	Mösleparkplatz	Hinterdorfstr. 57	79837	St. Blasien	47.832903	8.066524	1	24/7	Keine Beschränkung	DE*EDH*E001507~TYPE2:22|DE*EDH*E001508~TYPE2:22|DE*EDH*E001509~TYPE2:22|DE*EDH*E001510~TYPE2:22
+1127643	Alexander Bürkle GmbH & Co. KG	Hotel Peterle	Schuppenhörnlestr. 18	79868	Feldberg (Schwarzwald)	47.862876	8.117411	1	24/7	Nur für Kunden/Besucher	DE*ABF*E000010~TYPE2:22|DE*ABF*E000011~TYPE2:22
+1128385	EnBW mobility+ AG und Co.KG		Laufenpark 2	79725	Laufenburg (Baden)	47.565360	8.075620	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1130896	ALDI SÜD	DON-052	Donaueschinger Str. 17	79848	Bonndorf im Schwarzwald	47.818704	8.347306	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23728~CCS2:50|DE*ALD*E23729~CCS2:50
+1132837	ALDI SÜD	DON-076-01	Studerstr. 24	79843	Löffingen	47.886323	8.360317	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11052~TYPE2:22|DE*ALD*E11053~TYPE2:22
+1137742	EnBW mobility+ AG und Co.KG	79790 Küssaberg-Rheinheim, Rheinpromenade 2	Rheinpromenade 2	79790	Küssaberg	47.586924	8.304186	1	24/7	Keine Beschränkung	DE*EBW*E910162*1~CCS2:50|DE*EBW*E910162*2~CCS2:50
+1147232	Haberjockelshof	Haberjockelshof	Schwärzenbach 24	79822	Titisee-Neustadt	47.955673	8.226385	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11
+1147665	LIGNOTREND	LIGNOTREND GmbH & Co. KG - Verwaltung	Steinbachstr. 41	79809	Weilheim	47.673948	8.158139	1	Mo-Sa 11:59-23:59, So 00:00-20:00	Nur für Kunden/Besucher	DE*ONE*ESLN7~TYPE2_TETHERED:11|DE*ONE*EG9MX~TYPE2_TETHERED:11|DE*ONE*ES4E9~TYPE2_TETHERED:11|DE*ONE*ECJ5B~TYPE2_TETHERED:11|DE*ONE*EMQG4~TYPE2_TETHERED:11|DE*ONE*E6TZK~TYPE2_TETHERED:11
+1149945	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Schulstr. 0	79801	Hohentengen am Hochrhein	47.570794	8.432151	1	24/7	Keine Beschränkung	DE797E001101~TYPE2:22|DE797E001102~TYPE2:22
+1149946	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Klettgaustr. 3	79771	Klettgau	47.622259	8.388046	1	24/7	Keine Beschränkung	DE797E001001~TYPE2:22|DE797E001002~TYPE2:22
+1149947	Energieversorgung Klettgau-Rheintal GmbH & Co. KG		Kirchstr. 4	79801	Hohentengen am Hochrhein	47.570596	8.432997	1	24/7	Keine Beschränkung	DE797E000901~TYPE2:22|DE797E000902~TYPE2:22
+1150150	Autohaus Wittmer		Ludwig-Kegel-Str. 11	79853	Lenzkirch	47.868029	8.205770	1	24/7	Nur für Kunden/Besucher	DE POW E02377~CCS2:50|DE POW E02378~TYPE2:22|DE POW E02377~CCS2:50|DE POW E02378~TYPE2:22
+1150345	MER Germany	Titisee-Neustadt (DE*MER*E018141)	Titiseestr. 28	79822	Titisee-Neustadt	47.918370	8.206963	1	24/7	Keine Beschränkung	DE*MER*E018141*01~CCS2:400|DE*MER*E018141*02~CCS2:400|DE*MER*E018142*01~CCS2:400|DE*MER*E018142*02~CCS2:400|DE*MER*E018143*01~CCS2:400|DE*MER*E018143*02~CCS2:400|DE*MER*E018144*01~CCS2:400|DE*MER*E018144*02~CCS2:400
+1154546	EnBW mobility+ AG und Co.KG	Hofgut Sternen, Breitnau	Höllsteig 76	79874	Breitnau	47.914530	8.075210	1	24/7	Keine Beschränkung	DE*EBW*E910138*1~CCS2:200|DE*EBW*E910138*2~CCS2:200
+1154547	EnBW mobility+ AG und Co.KG	Hofgut Sternen, Breitnau	Höllsteig 76	79874	Breitnau	47.914556	8.075222	1	24/7	Keine Beschränkung	DE*EBW*E910130*1~CCS2:200|DE*EBW*E910130*2~CCS2:200|DE*EBW*E907422*1~CCS2:400|DE*EBW*E907422*2~CCS2:400|DE*EBW*E907417*1~CCS2:400|DE*EBW*E907417*2~CCS2:400
+1155365	SCHARR Drive Ladestation	SP Parkotel Waldlust	In der Würze 18	79837	Häusern	47.749873	8.172203	1	24/7	Keine Beschränkung	DE*ARR*ESP155*001~TYPE2:11|DE*ARR*ESP155*002~TYPE2:11
+1155906	EWE Go GmbH	McD_1884_1A	St.-Florian-Str. 2	79725	Laufenburg (Baden)	47.567875	8.085394	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1156430	Wirelane GmbH	ASS GesundSEINzentrum - Laura Gamp	Lauchringer Straße 30	79787	Lauchringen	47.623390	8.317150	1		Keine Beschränkung	DE*WLN*ES000637~TYPE2:11|DE*WLN*ES000638~TYPE2:11
+1162929	HOSPA 1	HOSPA	Bündtenäcker 1	79730	Murg	47.552600	8.017000	1	24/7	Keine Beschränkung	DE*CAF*E0103ED*1~TYPE2:11|DE*CAF*E0103F7*1~TYPE2:11|DE*CAF*E0103EE*1~TYPE2:11|DE*CAF*E0103F6*1~TYPE2:11|DE*CAF*E01040C*1~CCS2:50|DE*CAF*E01040C*2~CCS2:50|DE*CAF*E0103F5*1~TYPE2:11
+1163687	ZG	Agrar Hüfingen	Seemühle 1	78183	Hüfingen	47.924920	8.480200	1	Mo-Fr 08:00-16:30	Nur für Kunden/Besucher	DE*MSU*EZGR*AGR*W09*01~TYPE2:11

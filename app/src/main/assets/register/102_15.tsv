@@ -1,0 +1,661 @@
+1010793	AggerEnergie GmbH		Alexander-Fleming-Straße 2	51643	Gummersbach	51.013613	7.565015	1			~TYPE2:11|~TYPE2:11
+1010795	AggerEnergie GmbH		Steinmüllerallee 5	51643	Gummersbach	51.023920	7.565635	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1010801	AggerEnergie GmbH		Othestraße 3	51702	Bergneustadt	51.019582	7.649179	1			~TYPE2:22|~TYPE2:22
+1010802	AggerEnergie GmbH		Zum Rathaus 0	51702	Bergneustadt	51.019406	7.654844	1			~TYPE2:22|~TYPE2:22
+1010804	AggerEnergie GmbH		Steinmüllerallee 0	51643	Gummersbach	51.022386	7.564570	1			~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1010810	AggerEnergie GmbH		Hauptstr. 20	51709	Marienheide	51.085680	7.529992	1			~TYPE2:22|~TYPE2:22
+1010811	AggerEnergie GmbH		Klosterstr. 9	51709	Marienheide	51.084580	7.532231	1			~TYPE2:22|~TYPE2:22
+1010812	AggerEnergie GmbH		Bahnhofstr. 11	51709	Marienheide	51.081697	7.532321	1			~TYPE2:22|~TYPE2:22
+1010815	AggerEnergie GmbH		Singerbrinkstraße 31	51643	Gummersbach	51.026580	7.573850	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1010816	AggerEnergie GmbH		Moltkestraße 18 Z	51643	Gummersbach	51.027850	7.568100	1			~TYPE2:22
+1010817	AggerEnergie GmbH		Steinmüllerallee 18Z	51643	Gummersbach	51.024670	7.564670	1			~TYPE2:22
+1010818	AggerEnergie GmbH		Hindenburgstr. 17Z	51643	Gummersbach	51.025633	7.568276	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1011115	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Feuerteich 0	57439	Attendorn	51.127700	7.901500	1			~TYPE2:22|~TYPE2:22
+1011116	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Auf der Tränke 0	57439	Attendorn	51.123112	7.901830	1			~TYPE2:22|~TYPE2:22
+1011117	BIGGE ENERGIE GmbH & Co. KG		Parkplatz P13 0	57462	Olpe	51.026726	7.841802	1			~TYPE2:22|~TYPE2:22
+1011118	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Freizeitbad 0	57462	Olpe	51.032209	7.841478	1			~TYPE2:22|~TYPE2:22
+1011119	BIGGE ENERGIE GmbH & Co. KG		Imbergstr. 0	57462	Olpe	51.031280	7.844894	1			~TYPE2:22|~TYPE2:22
+1011120	BIGGE ENERGIE GmbH & Co. KG		Bleichewiese 0	57462	Olpe	51.030470	7.849060	1			~TYPE2:22|~TYPE2:22
+1011121	BIGGE ENERGIE GmbH & Co. KG		Fellmicke 0	57462	Olpe	51.030658	7.851879	1			~TYPE2:22|~TYPE2:22
+1011122	BIGGE ENERGIE GmbH & Co. KG		Sonderner Str. 0	57462	Olpe	51.076382	7.843165	1			~TYPE2:22|~TYPE2:22
+1011127	BIGGE ENERGIE GmbH & Co. KG		Parkplatz vorm Bahnhof Hützemert Radstation 0	57489	Drolshagen	51.038183	7.751102	1			~TYPE2:22|~TYPE2:22
+1011128	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Mühlenteich 0	57489	Drolshagen	51.021646	7.777208	1			~TYPE2:22|~TYPE2:22
+1011129	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Brunnenstr. 0	57489	Drolshagen	51.023986	7.777472	1			~TYPE2:22|~TYPE2:22
+1011130	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Kalberschnacke 0	57489	Drolshagen	51.070347	7.809837	1			~TYPE2:22|~TYPE2:22
+1011131	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Mühlwiese 0	57439	Attendorn	51.123969	7.912785	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1011132	BIGGE ENERGIE GmbH & Co. KG		Parkplatz Kino Attendorn 0	57439	Attendorn	51.125291	7.912629	1			~TYPE2:22|~TYPE2:22
+1011147	BIGGE ENERGIE GmbH & Co. KG		In der Wüste 8	57462	Olpe	51.031407	7.842630	1			~TYPE2:22|~TYPE2:22
+1011148	BIGGE ENERGIE GmbH & Co. KG		In der Stesse 14	57439	Attendorn	51.122067	7.890588	1			~TYPE2:22|~TYPE2:22
+1011149	BIGGE ENERGIE GmbH & Co. KG		Südwall 84	57439	Attendorn	51.124252	7.904410	1			~TYPE2:22|~TYPE2:22
+1011150	BIGGE ENERGIE GmbH & Co. KG		In der Trift 24	57462	Olpe	51.021220	7.841169	1			~TYPE2:22|~TYPE2:22
+1011151	BIGGE ENERGIE GmbH & Co. KG		Josefstr. 19	57462	Olpe	51.026373	7.849072	1			~TYPE2:22|~TYPE2:22
+1011152	BIGGE ENERGIE GmbH & Co. KG		Harkortstr. 5	57462	Olpe	51.010809	7.834986	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1011155	BIGGE ENERGIE GmbH & Co. KG		Schüldernhof 2	57439	Attendorn	51.126184	7.901501	1			~TYPE2:22|~TYPE2:22
+1012715	Westenergie Metering GmbH		Amecker Damm 1	59846	Sundern (Sauerland)	51.308500	7.941309	1			~TYPE2:22|~TYPE2:22
+1012725	Westenergie Metering GmbH		Zum Sorpedamm 3	59846	Sundern (Sauerland)	51.353459	7.964911	1			~TYPE2:22|~TYPE2:22
+1012828	Westenergie Metering GmbH		Am Baumberg 2	58802	Balve	51.332392	7.864002	1			~TYPE2:22|~TYPE2:22
+1012890	Westenergie Metering GmbH		Heinrich-Lübke-Straße 4	59759	Arnsberg	51.428191	7.994319	1			~TYPE2:22|~TYPE2:22
+1012896	Westenergie Metering GmbH		Heuerwerth 1	59469	Ense	51.490214	7.995675	1			~TYPE2:22|~TYPE2:22
+1012911	Westenergie Metering GmbH		Zum Hafen 2	59846	Sundern (Sauerland)	51.294666	7.986714	1			~TYPE2:22|~TYPE2:22
+1012965	Westenergie Metering GmbH		Sauerlandstr. 5	58802	Balve	51.327934	7.868013	1			~TYPE2:22|~TYPE2:22
+1012972	Westenergie Metering GmbH		Dicke Hecke 30	59755	Arnsberg	51.441162	7.965057	1			~TYPE2:22|~TYPE2:22
+1013004	Westenergie Metering GmbH		Hagener Str. 32	59846	Sundern (Sauerland)	51.260900	7.959672	1			~TYPE2:22|~TYPE2:22
+1013254	Westenergie Metering GmbH		Kirchstr. 0	59439	Holzwickede	51.498881	7.618205	1			~TYPE2:22|~TYPE2:22
+1013275	Westenergie Metering GmbH		Hauptstr. 210	59846	Sundern	51.336251	7.999304	1			~TYPE2:22|~TYPE2:22
+1013383	Westenergie Metering GmbH		Unnaer Straße 60z	59439	Holzwickede	51.486660	7.639340	1			~TYPE2:22|~TYPE2:22
+1013400	Westenergie Metering GmbH		Mittelweg 15z	58802	Balve	51.311668	7.878683	1			~TYPE2:22|~TYPE2:22
+1013401	Westenergie Metering GmbH		Horster Str. 2z	58802	Balve	51.386345	7.882218	1			~TYPE2:22|~TYPE2:22
+1013402	Westenergie Metering GmbH		Balver Str. 5z	58802	Balve	51.327257	7.905891	1			~TYPE2:22|~TYPE2:22
+1013403	Westenergie Metering GmbH		Mendener Straße 14z	58802	Balve	51.360593	7.874138	1			~TYPE2:22|~TYPE2:22
+1013427	Westenergie Metering GmbH		Am Südfeld 2z	58802	Balve	51.353869	7.893186	1			~TYPE2:22|~TYPE2:22
+1013428	Westenergie Metering GmbH		Märkische Str. 51z	58802	Balve	51.317728	7.828406	1			~TYPE2:22|~TYPE2:22
+1016423	Steinbergs Wildewiese		Wildewiese 1	59846	Sundern	51.238959	7.998243	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1016424	Rodelhaus Hotel + Gastro GmbH		Zu den Drei Bänken 1	59757	Arnsberg	51.442635	7.949296	1			~TYPE2:11|~TYPE2:11
+1017454	Gemeinde Finnentrop		Am Markt 3	57413	Finnentrop	51.172721	7.972641	1			~TYPE2:22|~TYPE2:22
+1017455	Gemeinde Finnentrop		Attendorner Str 0	57413	Finnentrop	51.175383	7.964191	1			~TYPE2:22|~TYPE2:22
+1021769	EWE Go GmbH	McD_1545_1A	Bahnhofstr. 12	58675	Hemer	51.386180	7.768576	1	24/7	Keine Beschränkung	DE*2GO*EMCD1545*1A*1~CCS2:300|DE*2GO*EMCD1545*1A*2~CCS2:300
+1021775	EWE Go GmbH	McD_0544_1A	Raiffeisenstr. 43	58638	Iserlohn	51.385495	7.675747	1	24/7	Keine Beschränkung	DE*2GO*EMCD0544*1A*1~CCS2:150|DE*2GO*EMCD0544*1A*2~CCS2:150
+1021960	EWE Go GmbH		Gildestraße 6B	58791	Werdohl	51.262681	7.781223	1			~CCS2:100|~CCS2:100
+1021995	EWE Go GmbH		Hämmerstr. 1	58708	Menden	51.450727	7.752865	1			~CCS2:320|~CCS2:320
+1022016	EWE Go GmbH		Schweinsohl 2	59846	Sundern	51.337549	7.997124	1			~CCS2:160|~CCS2:160
+1023055	Dortmunder Energie- und Wasserversorgung GmbH		AM GEENSEEL 11	44229	Dortmund	51.486335	7.510547	1			~TYPE2:11
+1023056	Dortmunder Energie- und Wasserversorgung GmbH		AM GEENSEEL 10	44229	Dortmund	51.486623	7.510548	1			~TYPE2:11
+1023057	Dortmunder Energie- und Wasserversorgung GmbH		AM REBSTOCK 42	44229	Dortmund	51.495172	7.506565	1			~TYPE2:11
+1023058	Dortmunder Energie- und Wasserversorgung GmbH		AM REBSTOCK 38-40	44229	Dortmund	51.495004	7.507005	1			~TYPE2:11
+1023059	Dortmunder Energie- und Wasserversorgung GmbH		AM REBSTOCK 48	44229	Dortmund	51.495344	7.506029	1			~TYPE2:11
+1023070	Dortmunder Energie- und Wasserversorgung GmbH		ECKARDTSTR 6	44263	Dortmund	51.486875	7.503013	1			~TYPE2:11
+1023073	Dortmunder Energie- und Wasserversorgung GmbH		HUESTR 99	44263	Dortmund	51.497709	7.516434	1			~TYPE2:11|~TYPE2:11
+1023074	Dortmunder Energie- und Wasserversorgung GmbH		I. BICKESTR 3	44229	Dortmund	51.486308	7.513179	1			~TYPE2:11
+1023075	Dortmunder Energie- und Wasserversorgung GmbH		II. BICKESTR 19	44229	Dortmund	51.485475	7.513669	1			~TYPE2:11
+1023076	Dortmunder Energie- und Wasserversorgung GmbH		II. BICKESTR 11	44229	Dortmund	51.485856	7.513693	1			~TYPE2:11
+1023084	Dortmunder Energie- und Wasserversorgung GmbH		STIFTSKAMP 22	44263	Dortmund	51.486703	7.503718	1			~TYPE2:11
+1023085	Dortmunder Energie- und Wasserversorgung GmbH		STIFTSKAMP 18	44263	Dortmund	51.486785	7.504284	1			~TYPE2:11
+1023160	Dortmunder Energie- und Wasserversorgung GmbH		ABTEISTR 10	44287	Dortmund	51.493469	7.564355	1			~TYPE2:11
+1023161	Dortmunder Energie- und Wasserversorgung GmbH		ABTEISTR 2	44287	Dortmund	51.494013	7.563883	1			~TYPE2:11
+1023165	Dortmunder Energie- und Wasserversorgung GmbH		AM KAPELLENUFER 119	44289	Dortmund	51.496312	7.592904	1			~TYPE2:11
+1023166	Dortmunder Energie- und Wasserversorgung GmbH		AM KAPELLENUFER 109	44289	Dortmund	51.497320	7.592660	1			~TYPE2:11
+1023183	Dortmunder Energie- und Wasserversorgung GmbH		FALTERWEG 32	44267	Dortmund	51.477742	7.542469	1			~TYPE2:11
+1023198	Dortmunder Energie- und Wasserversorgung GmbH		HYAZINTHENSTR 4	44289	Dortmund	51.495181	7.592830	1			~TYPE2:11
+1023209	Dortmunder Energie- und Wasserversorgung GmbH		LEHMKUHLE 3	44287	Dortmund	51.494485	7.549259	1			~TYPE2:11
+1023210	Dortmunder Energie- und Wasserversorgung GmbH		LEHMKUHLE 8	44287	Dortmund	51.494325	7.547716	1			~TYPE2:11
+1023216	Dortmunder Energie- und Wasserversorgung GmbH		MARKSCHEIDERSTR 11	44269	Dortmund	51.498355	7.541160	1			~TYPE2:11
+1023217	Dortmunder Energie- und Wasserversorgung GmbH		MÄRTMANNSTR 28	44287	Dortmund	51.495530	7.557114	1			~TYPE2:11
+1023218	Dortmunder Energie- und Wasserversorgung GmbH		MÄRTMANNSTR 22	44287	Dortmund	51.495145	7.558166	1			~TYPE2:11
+1023221	Dortmunder Energie- und Wasserversorgung GmbH		MEININGHAUSSTR 10	44141	Dortmund	51.499512	7.519669	1			~TYPE2:11
+1023228	Dortmunder Energie- und Wasserversorgung GmbH		OVERGÜNNE 231	44267	Dortmund	51.477733	7.520866	1			~TYPE2:11
+1023237	Dortmunder Energie- und Wasserversorgung GmbH		ROSENSTR 68	44289	Dortmund	51.494994	7.585441	1			~TYPE2:11
+1023238	Dortmunder Energie- und Wasserversorgung GmbH		ROSENSTR 92b	44289	Dortmund	51.493557	7.582566	1			~TYPE2:11
+1023242	Dortmunder Energie- und Wasserversorgung GmbH		SCHMALER WEG 12	44287	Dortmund	51.485090	7.563443	1			~TYPE2:11
+1023244	Dortmunder Energie- und Wasserversorgung GmbH		SCHÜRBANKSTR 35	44287	Dortmund	51.498592	7.558423	1			~TYPE2:11
+1023245	Dortmunder Energie- und Wasserversorgung GmbH		SCHÜRENER STR 20	44269	Dortmund	51.491721	7.536915	1			~TYPE2:11
+1023247	Dortmunder Energie- und Wasserversorgung GmbH		SELZERSTR 16	44267	Dortmund	51.476712	7.534765	1			~TYPE2:11
+1023251	Dortmunder Energie- und Wasserversorgung GmbH		TRAPPHOFSTR 18	44287	Dortmund	51.498467	7.565895	1			~TYPE2:11
+1023254	Dortmunder Energie- und Wasserversorgung GmbH		VIESELERHOFSTR 78	44287	Dortmund	51.491976	7.569559	1			~TYPE2:11
+1023292	Dortmunder Energie- und Wasserversorgung GmbH		GOTENSTR 8	44229	Dortmund	51.486785	7.509263	1			~TYPE2:11
+1023349	Dortmunder Energie- und Wasserversorgung GmbH		Phönixseestraße 15	44263	Dortmund	51.488204	7.512250	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1023350	Dortmunder Energie- und Wasserversorgung GmbH		Feldmark 1b	44267	Dortmund	51.443709	7.533235	1			~TYPE2:22|~TYPE2:22
+1023357	Dortmunder Energie- und Wasserversorgung GmbH		Rodenbergstraße 47	44287	Dortmund	51.494074	7.552290	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25|~CCS2:25|~CCS2:25|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1023363	Dortmunder Energie- und Wasserversorgung GmbH		Berghofer Straße 11	44269	Dortmund	51.483952	7.519047	1			~CCS2:50|~TYPE2:22
+1025203	EnBW mobility+ AG und Co.KG		Autobahnraststätte Kaltenborn 0	58579	Schalksmühle	51.288867	7.571800	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025855	EnBW mobility+ AG und Co.KG		An der A45 0	58579	Schalksmühle	51.288103	7.569145	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026428	EnBW mobility+ AG und Co.KG		Hönnenwerth 7	58706	Menden	51.442689	7.784449	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026537	EnBW mobility+ AG und Co.KG		Hohe Steinert 6	58509	Lüdenscheid	51.228528	7.608633	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026917	EnBW mobility+ AG und Co.KG		Baarstr. 114	58636	Iserlohn	51.395812	7.693116	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027007	EnBW mobility+ AG und Co.KG		Hüttenweg 13	58809	Neuenrade	51.286790	7.806770	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027778	EnBW mobility+ AG und Co.KG		Rodenbergstraße 61	44287	Dortmund	51.493290	7.550264	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22
+1027780	EnBW mobility+ AG und Co.KG		Rodenbergstraße 61	44287	Dortmund	51.493225	7.550444	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1030871	AggerEnergie GmbH	Krankenhaus Gummersbach	Wilhelm-Breckow-Allee 20 Z	51643	Gummersbach	51.015630	7.569090	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031836	TotalEnergies Charging Solutions		Werler Str. 85	58706	Menden	51.451183	7.787591	1			~CCS2:150|~TYPE2:22
+1031839	TotalEnergies Charging Solutions		Elseyer Str. 77	58119	Hagen	51.367628	7.550393	1			~CCS2:75|~TYPE2:22
+1032045	Biotrans GmbH	Biotrans - DC - DE*DES*E1003431	Auf der Hofestatt 11	58239	Schwerte	51.416304	7.529346	1		Keine Beschränkung	DE*DES*E1003431*1~CCS2:25|DE*DES*E100343*2~CCS2:25
+1035415	Westfalen Weser Ladeservice GmbH	63HA1	Bergerhofweg 24	58239	Schwerte	51.456942	7.552961	1	24/7	Keine Beschränkung	DE*WWL*E63HA1*04~TYPE2:22|DE*WWL*E63HA1*05~TYPE2:22|DE*WWL*E63HA2*04~TYPE2:22|DE*WWL*E63HA2*05~TYPE2:22
+1036729	Gemeindewerke Finnentrop GmbH		Bamenohler Str. 119	57413	Finnentrop	51.168557	7.976772	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1037698	Citywatt GmbH		Hachener Straße 5a	59846	Sundern	51.380141	7.987086	1			~TYPE2_TETHERED:11
+1037723	Citywatt GmbH		Bräuckenstraße 95	58511	Lüdenscheid	51.218967	7.655518	1			~CCS2:150|~CCS2:150
+1037724	Citywatt GmbH		Bräuckenstraße 95	58511	Lüdenscheid	51.218887	7.655582	1			~TYPE2:22|~TYPE2:22
+1037725	Citywatt GmbH		Bräuckenstraße 95	58511	Lüdenscheid	51.218541	7.655507	1			~TYPE2:22|~TYPE2:22
+1038588	SJG St. Paulus GmbH		Brücherhofstraße 200	44265	Dortmund	51.463879	7.503079	1			~TYPE2:22|~TYPE2:22
+1038591	SJG St. Paulus GmbH		Brücherhofstraße 200	44265	Dortmund	51.463704	7.503449	1			~TYPE2:22|~TYPE2:22
+1038876	EnBW mobility+ AG und Co.KG		Darmcher Weg 2	58540	Meinerzhagen	51.101409	7.679749	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1039570	IONITY GmbH		Lichtendorf Nord 0	44289	Dortmund	51.468811	7.595449	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1039574	IONITY GmbH		Lichtendorf Süd 0	58239	Schwerte	51.467206	7.594438	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1040292	EnBW mobility+ AG und Co.KG		Schüruferstraße 195	44269	Dortmund	51.491307	7.540811	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1040562	Mark-E AG		Linscheidstr. 52	58762	Altena	51.303249	7.668521	1			~TYPE2:22|~TYPE2:22
+1040563	Mark-E AG		Freiheitstr. 6	58119	Hagen	51.350720	7.566900	1			~TYPE2:22|~TYPE2:22
+1040565	Mark-E AG		Kölner Str. 145	58566	Kierspe	51.124721	7.604411	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1040566	Mark-E AG		Thingslindestr. 22	58566	Kierspe	51.127658	7.600413	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1040568	Mark-E AG		Thomasstr. 18	58553	Halver	51.188657	7.503802	1			~TYPE2:22|~TYPE2:22
+1040569	Mark-E AG		Lindenstr. 8	58540	Meinerzhagen	51.107842	7.641689	1			~TYPE2:22|~TYPE2:22
+1040571	Mark-E AG		Berghang 36	58093	Hagen	51.346413	7.510754	1			~TYPE2:22|~TYPE2:22
+1040572	Mark-E AG		Dümpelstr. 5	58093	Hagen	51.374633	7.515394	1			~TYPE2:22|~TYPE2:22
+1040579	Mark-E AG		Im Küstersort 0	58762	Altena	51.295750	7.672871	1			~TYPE2:22|~TYPE2:22
+1040580	Mark-E AG		Langer Kamp 0	58762	Altena	51.292367	7.672483	1			~TYPE2:22|~TYPE2:22
+1040582	Mark-E AG		Elseyer Str. 67	58119	Hagen	51.366123	7.551930	1			~TYPE2:22|~TYPE2:22
+1040583	Mark-E AG		Platz der Impulse 1	58093	Hagen	51.349034	7.528147	1			~TYPE2:22|~TYPE2:22
+1040584	Mark-E AG		Platz der Impulse 1	58093	Hagen	51.349063	7.528213	1			~TYPE2:22|~TYPE2:22
+1040585	Mark-E AG		Delsterner Str. 147	58091	Hagen	51.332545	7.521023	1			~TYPE2:22|~TYPE2:22
+1040587	Mark-E AG		Worthstr. 2	58579	Schalksmühle	51.240633	7.531501	1			~TYPE2:22|~TYPE2:22
+1040589	Mark-E AG		Rohrstr. 17	58093	Hagen	51.381384	7.518068	1			~TYPE2:22|~TYPE2:22
+1040591	Mark-E AG		Hinterm Wall 15	58809	Neuenrade	51.280512	7.781755	1			~TYPE2:22|~TYPE2:22
+1040596	Mark-E AG		Bahnhofstr. 5	58553	Halver	51.186274	7.504529	1			~TYPE2:22|~TYPE2:22
+1040597	Mark-E AG		Unterm Bamberg 3	58540	Meinerzhagen	51.108377	7.637037	1			~TYPE2:22|~TYPE2:22
+1040599	Mark-E AG		Freiligrathstr. 26	58840	Plettenberg	51.211340	7.881240	1			~TYPE2:22|~TYPE2:22
+1040600	Mark-E AG		Otto-Ruhe-Str. 2	58566	Kierspe	51.128272	7.595052	1			~TYPE2:22|~TYPE2:22
+1040601	Mark-E AG		Schöntaler Weg 46	58809	Neuenrade	51.288851	7.804505	1			~TYPE2:22|~TYPE2:22
+1040602	Mark-E AG		Schöntaler Weg 46	58809	Neuenrade	51.288915	7.805470	1			~TYPE2:22|~TYPE2:22
+1040604	Mark-E AG		Osemundstr. 14-22	58809	Neuenrade	51.285506	7.805193	1			~TYPE2:22|~TYPE2:22
+1040605	Mark-E AG		Bahnhofstr. 64	58809	Neuenrade	51.285142	7.796704	1			~TYPE2:22|~TYPE2:22
+1040606	Mark-E AG		Iserlohner Str. 48	58119	Hagen	51.358286	7.566097	1			~TYPE2:22|~TYPE2:22
+1040607	Mark-E AG		Werkzeugstr. 19-23	58093	Hagen	51.382926	7.505462	1			~TYPE2:22|~TYPE2:22
+1040608	Mark-E AG		Boschstr. 4	58553	Halver	51.207868	7.525909	1			~TYPE2:22|~TYPE2:22
+1040609	Mark-E AG		Oesterberg 15	58553	Halver	51.183163	7.506701	1			~TYPE2:22|~TYPE2:22
+1040610	Mark-E AG		Mühlendorf 3	58809	Neuenrade	51.281366	7.784474	1			~TYPE2:22|~TYPE2:22
+1040611	Mark-E AG		Berliner Allee 108	58119	Hagen	51.368693	7.586225	1			~TYPE2:22|~TYPE2:22
+1040612	Mark-E AG		Von-Vincke-Str. 22	58553	Halver	51.188539	7.500807	1			~TYPE2:22|~TYPE2:22
+1040615	Mark-E AG		Am Wall 1	58809	Neuenrade	51.281632	7.781846	1			~TYPE2:22|~TYPE2:22
+1040616	Mark-E AG		Fröbelstr. 3	58540	Meinerzhagen	51.110019	7.653213	1			~TYPE2:22|~TYPE2:22
+1040617	Mark-E AG		Iserlohner Str. 98	58119	Hagen	51.360772	7.576573	1			~TYPE2:22|~TYPE2:22
+1040619	Mark-E AG		Brachtstr. 20-22	58840	Plettenberg	51.212514	7.878504	1			~TYPE2:22|~TYPE2:22
+1040623	Mark-E AG		Werkzeugstraße 7	58093	Hagen	51.381191	7.508501	1			~TYPE2:22|~TYPE2:22
+1040624	Mark-E AG		Alter Schulhof 1	58579	Schalksmühle	51.242041	7.527344	1			~TYPE2:22|~TYPE2:22
+1040625	Mark-E AG		Rummenohler Straße 31	58091	Hagen	51.277472	7.527278	1			~TYPE2:22|~TYPE2:22
+1040626	Mark-E AG		Hönnestraße 24	58809	Neuenrade	51.291230	7.812010	1			~TYPE2:22|~TYPE2:22
+1040627	Mark-E AG		Grünestr. 12	58840	Plettenberg	51.211712	7.877574	1			~TYPE2:11|~TYPE2:11
+1040628	Mark-E AG		Delsterner Str. 147	58091	Hagen	51.332463	7.521072	1			~CCS2:225|~CCS2:225|~CCS2:225+CHADEMO:225|~TYPE2:22
+1040630	Mark-E AG		Esserstraße 22	58119	Hagen	51.360228	7.563683	1			~TYPE2:22|~TYPE2:22
+1040632	Mark-E AG		Grünestraße 19	58840	Plettenberg	51.212733	7.876492	1			~TYPE2:22|~TYPE2:22
+1040633	Mark-E AG		Goethestraße 51	58791	Werdohl	51.253330	7.764270	1			~TYPE2:22|~TYPE2:22
+1040634	Mark-E AG		Woeste 2	58566	Kierspe	51.122618	7.558377	1			~TYPE2:22|~TYPE2:22
+1040636	Mark-E AG		Klagebach 40	58579	Schalksmühle	51.244387	7.541351	1			~TYPE2:22|~TYPE2:22
+1040637	Mark-E AG		Profilstraße 4	58093	Hagen	51.389898	7.514539	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040645	Mark-E AG		Verbandsstr. 101	58093	Hagen	51.377681	7.542926	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1040646	Mark-E AG		Garbecker Str. 35	58809	Neuenrade	51.293644	7.814473	1			~TYPE2:22|~TYPE2:22
+1040647	Mark-E AG		Verbandsstr. 101	58093	Hagen	51.377706	7.543118	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1040652	Mark-E AG		Königsberger Straße 13	58119	Hagen	51.364611	7.563378	1			~TYPE2:22|~TYPE2:22
+1040653	Mark-E AG		Mollsiepen 25	58579	Schalksmühle	51.238711	7.514935	1			~TYPE2:22|~TYPE2:22
+1040654	Mark-E AG		Dieselstr. 3	58840	Plettenberg	51.196250	7.837440	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1043700	Allego		Oststraße 46 46	58540	Meinerzhagen	51.105805	7.655247	1		Keine Beschränkung	DEALLEGO002932*1~CCS2:150|DEALLEGO002932*2~CCS2:150
+1047659	Mark-E AG	P+R Parkplatz, Im Tempel, Meinerzhagen	Im Tempel 1	58540	Meinerzhagen	51.108372	7.633731	1	24/7	Keine Beschränkung	DEMKEE021801~TYPE2:22|DEMKEE021802~TYPE2:22
+1048177	Wattif Europe GmbH	Iserlohn St. Elisabeth Hospital weststraße 58	Weststr. 58	58638	Iserlohn	51.380164	7.691820	1	24/7	Keine Beschränkung	DE*WAT*EW049072001~TYPE2:22|DE*WAT*EW049072002~TYPE2:22|DE*WAT*EW049072003~TYPE2:22|DE*WAT*EW049072004~TYPE2:22
+1048181	Wattif Europe GmbH	Iserlohn St. Elisabeth Hospital Weststraße 58	Weststr. 58	58638	Iserlohn	51.380188	7.691891	1	24/7	Keine Beschränkung	DE*WAT*EW049072005~TYPE2:22|DE*WAT*EW049072006~TYPE2:22
+1048459	Lidl		Settmecke Str. 35	59846	Sundern	51.324492	7.999203	1			~TYPE2:22|~TYPE2:22
+1048625	Lidl		Refflingser Str. 2	58640	Iserlohn	51.423842	7.671311	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2_TETHERED:50+CHADEMO:50|~TYPE2:50+CCS2:50
+1048773	Lidl	6804_Lidl_Hagen-Hohenlimburg_T54-HU1-2521-011	Gotenweg 9	58119	Hagen	51.363796	7.556620	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1048784	Lidl	6039_Lidl_Lüdescheid_T54-HU1-2521-014	Bräuckenstr. 6	58511	Lüdenscheid	51.212318	7.647126	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048902	Lidl	6532_Lidl_Dortmund-Schüren_T54-HU1-1422-020	Markscheiderstr. 1	44269	Dortmund	51.497365	7.537826	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1049644	E.ON Drive Infrastructure		Raststätte Sauerland Ost 0	58507	Lüdenscheid	51.222916	7.670150	1			~CCS2:50|~CCS2:50
+1049663	E.ON Drive Infrastructure		Raststätte Lichtendorf Nord 0	44289	Dortmund	51.468373	7.594038	1			~CCS2:50|~CCS2:50
+1049664	E.ON Drive Infrastructure		Raststätte Lichtendorf Süd 0	58239	Schwerte	51.467696	7.596939	1			~CCS2:50|~CCS2:50
+1049666	E.ON Drive Infrastructure		Raststätte Sauerland West 0	58507	Lüdenscheid	51.223119	7.667457	1			~CCS2:50|~CCS2:50
+1050903	Pfalzwerke AG		Urbecker Str. 122	58675	Hemer	51.396469	7.778441	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1050911	EnBW mobility+ AG und Co.KG		Auf dem Lölfert 50	58119	Hagen	51.364300	7.585800	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300+CHADEMO:50|~CCS2:300|~TYPE2:22|~CCS2:300+CHADEMO:50|~CCS2:300|~TYPE2:22
+1052190	EnBW mobility+ AG und Co.KG		Zum Eickenhahn 2B	58540	Meinerzhagen	51.106145	7.659806	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1052946	Schwerter Strom Management-GmbH		Liethstraße 32-36	58239	Schwerte	51.434698	7.565463	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052952	Schwerter Strom Management-GmbH		Bürenbrucher Weg 180	58239	Schwerte	51.414691	7.586246	1			~TYPE2:22|~TYPE2:22
+1052953	Schwerter Strom Management-GmbH		Bürenbrucher Weg 1a	58239	Schwerte	51.424650	7.578030	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052955	Schwerter Strom Management-GmbH		Lichtendorfer Straße 5	58239	Schwerte	51.454481	7.578046	1			~TYPE2:22|~TYPE2:22
+1052956	Schwerter Strom Management-GmbH		Im Reiche des Wassers 1	58239	Schwerte	51.440270	7.572480	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052958	Schwerter Strom Management-GmbH		Bahnhofstraße 35	58239	Schwerte	51.441760	7.559650	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052960	Schwerter Strom Management-GmbH		Rathausstraße 31	58239	Schwerte	51.444260	7.564540	1			~TYPE2:22|~TYPE2:22
+1052961	Schwerter Strom Management-GmbH		Hörder Straße 32	58239	Schwerte	51.451110	7.562010	1			~TYPE2:22|~TYPE2:22
+1052962	Schwerter Strom Management-GmbH		Goethestraße 19	58239	Schwerte	51.443550	7.566840	1			~TYPE2:22|~TYPE2:22
+1052963	Schwerter Strom Management-GmbH		Schützenstraße 9	58239	Schwerte	51.444050	7.575390	1			~TYPE2:22|~TYPE2:22
+1052964	Schwerter Strom Management-GmbH		An der Silberkuhle 2	58239	Schwerte	51.460310	7.617840	1			~TYPE2:22|~TYPE2:22
+1052965	Schwerter Strom Management-GmbH		Im Wietloh 1a	58239	Schwerte	51.412920	7.561960	1			~TYPE2:22|~TYPE2:22
+1052966	Schwerter Strom Management-GmbH		Schützenstraße 75-77	58239	Schwerte	51.449875	7.587162	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052967	Schwerter Strom Management-GmbH		Kuhstraße 20a	58239	Schwerte	51.443710	7.565470	1			~TYPE2:22|~TYPE2:22
+1052968	Schwerter Strom Management-GmbH		Bahnhofstraße 1	58239	Schwerte	51.441750	7.564270	1			~TYPE2:22|~TYPE2:22
+1052969	Schwerter Strom Management-GmbH		Bahnhofstraße 6	58239	Schwerte	51.441830	7.564100	1			~TYPE2:22|~TYPE2:22
+1052970	Schwerter Strom Management-GmbH		Westwall 7	58239	Schwerte	51.440389	7.566172	1			~TYPE2:22|~TYPE2:22
+1052971	Schwerter Strom Management-GmbH		Zum Wellenbad 7	58239	Schwerte	51.451907	7.628434	1			~TYPE2:22|~TYPE2:22
+1052972	Schwerter Strom Management-GmbH		Lohbachstraße 12	58239	Schwerte	51.447670	7.579616	1			~TYPE2:22|~TYPE2:22
+1052973	Schwerter Strom Management-GmbH		Minna-Marcus-Straße 2	58239	Schwerte	51.423980	7.524905	1			~TYPE2:22|~TYPE2:22
+1052974	Schwerter Strom Management-GmbH		Niederstraße 22	58239	Schwerte	51.420834	7.527533	1			~TYPE2:22|~TYPE2:22
+1052975	Schwerter Strom Management-GmbH		Am Hohenstein 28	58239	Schwerte	51.454177	7.581269	1			~TYPE2:22|~TYPE2:22
+1052976	Schwerter Strom Management-GmbH		Grürmannstraße 26	58239	Schwerte	51.416280	7.566380	1			~TYPE2:22|~TYPE2:22
+1052977	Schwerter Strom Management-GmbH		Haselackstraße 20	58239	Schwerte	51.442880	7.567680	1			~TYPE2:22|~TYPE2:22
+1052978	Schwerter Strom Management-GmbH		Im Winkel 22	58239	Schwerte	51.412150	7.559740	1			~TYPE2:22|~TYPE2:22
+1052979	Schwerter Strom Management-GmbH		Lichtendorfer Straße 45	58239	Schwerte	51.456140	7.583960	1			~TYPE2:22|~TYPE2:22
+1052980	Schwerter Strom Management-GmbH		Thüner Wiese 2	58239	Schwerte	51.413820	7.562120	1			~TYPE2:22|~TYPE2:22
+1052981	Schwerter Strom Management-GmbH		Untere Meischede 5	58239	Schwerte	51.432760	7.564370	1			~TYPE2:22|~TYPE2:22
+1052982	Schwerter Strom Management-GmbH		Im Rohlande 53	58239	Schwerte	51.421330	7.582530	1			~TYPE2:22|~TYPE2:22
+1052983	Schwerter Strom Management-GmbH		Kirchstraße 39	58239	Schwerte	51.413850	7.567090	1			~TYPE2:22|~TYPE2:22
+1052984	Schwerter Strom Management-GmbH		Schützenstraße 39b	58239	Schwerte	51.447190	7.581880	1			~TYPE2:22|~TYPE2:22
+1052985	Schwerter Strom Management-GmbH		Wittekindstraße 10	58239	Schwerte	51.444060	7.572180	1			~TYPE2:22|~TYPE2:22
+1052986	Schwerter Strom Management-GmbH		Zwischen den Wegen 2	58239	Schwerte	51.456120	7.613060	1			~TYPE2:22|~TYPE2:22
+1052987	Schwerter Strom Management-GmbH		Eintrachtstraße 10	58239	Schwerte	51.440838	7.564017	1			~TYPE2:22|~TYPE2:22
+1052988	Schwerter Strom Management-GmbH		Heidestraße 81	58239	Schwerte	51.464610	7.573402	1			~TYPE2:22|~TYPE2:22
+1052989	Schwerter Strom Management-GmbH		Westhellweg 220	58239	Schwerte	51.445162	7.545022	1			~TYPE2:22|~TYPE2:22
+1052990	Schwerter Strom Management-GmbH		Schulstraße 15	58239	Schwerte	51.431594	7.593741	1			~TYPE2:22|~TYPE2:22
+1052991	Schwerter Strom Management-GmbH		Brinkmanns Hof 2	58239	Schwerte	51.412135	7.566772	1			~TYPE2:22|~TYPE2:22
+1052992	Schwerter Strom Management-GmbH		Zum Großen Feld 40	58239	Schwerte	51.437575	7.543483	1			~TYPE2:22|~TYPE2:22
+1052993	Schwerter Strom Management-GmbH		Buschkampweg 93	58239	Schwerte	51.461440	7.610135	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1052994	Schwerter Strom Management-GmbH		Gustav-Heinemann-Str. 2	58239	Schwerte	51.459092	7.611319	1			~TYPE2:22|~TYPE2:22
+1052995	Schwerter Strom Management-GmbH		Grünstr. 70	58239	Schwerte	51.449060	7.592559	1			~TYPE2:22|~TYPE2:22
+1052997	Schwerter Strom Management-GmbH		Zum Kellerbach 19a	58239	Schwerte	51.458689	7.628164	1			~TYPE2:22|~TYPE2:22
+1052998	Schwerter Strom Management-GmbH		Geisecker Talstraße 76	58239	Schwerte	51.454684	7.616669	1			~TYPE2:22|~TYPE2:22
+1052999	Schwerter Strom Management-GmbH		Am Winkelstück 113	58239	Schwerte	51.424922	7.583884	1			~TYPE2:22|~TYPE2:22
+1053000	Schwerter Strom Management-GmbH		Am Ziegelofen 4	58239	Schwerte	51.431114	7.598593	1			~TYPE2:22|~TYPE2:22
+1053001	Schwerter Strom Management-GmbH		Am Hohlen Wege 3	58239	Schwerte	51.454473	7.594006	1			~TYPE2:22|~TYPE2:22
+1053002	Schwerter Strom Management-GmbH		Gotenstraße 6	58239	Schwerte	51.450649	7.594596	1			~TYPE2:22|~TYPE2:22
+1053003	Schwerter Strom Management-GmbH		Lichtendorfer Straße 5	58239	Schwerte	51.454610	7.578160	1			~TYPE2:22|~TYPE2:22
+1053004	Schwerter Strom Management-GmbH		Am Zimmermannswäldchen 27	58239	Schwerte	51.443235	7.541544	1			~TYPE2:22|~TYPE2:22
+1053005	Schwerter Strom Management-GmbH		Ostenstraße 21	58239	Schwerte	51.441700	7.572050	1			~TYPE2:22|~TYPE2:22
+1053006	Schwerter Strom Management-GmbH		Am Kornfeld 1	58239	Schwerte	51.431710	7.561070	1			~TYPE2:22|~TYPE2:22
+1053007	Schwerter Strom Management-GmbH		Poststraße 21	58239	Schwerte	51.443700	7.563740	1			~TYPE2:22|~TYPE2:22
+1053008	Schwerter Strom Management-GmbH		Holbeinweg 1	58239	Schwerte	51.434420	7.591030	1			~TYPE2:22|~TYPE2:22
+1053009	Schwerter Strom Management-GmbH		Neumarkt 2	58239	Schwerte	51.443226	7.569365	1			~TYPE2:22|~TYPE2:22
+1053010	Schwerter Strom Management-GmbH		Goldammerweg 11	58239	Schwerte	51.424940	7.581550	1			~TYPE2:22|~TYPE2:22
+1053011	Schwerter Strom Management-GmbH		Hörder Straße 35	58239	Schwerte	51.448700	7.562670	1			~TYPE2:22|~TYPE2:22
+1053012	Schwerter Strom Management-GmbH		Teutonenstraße 19	58239	Schwerte	51.450870	7.598356	1			~TYPE2:22|~TYPE2:22
+1053013	Schwerter Strom Management-GmbH		Im Ortsstück 2	58239	Schwerte	51.427250	7.530260	1			~TYPE2:22|~TYPE2:22
+1053014	Schwerter Strom Management-GmbH		Heidestraße 142/142a	58239	Schwerte	51.464240	7.580770	1			~TYPE2:22|~TYPE2:22
+1053015	Schwerter Strom Management-GmbH		Alter Hellweg 12	58239	Schwerte	51.424740	7.529520	1			~TYPE2:22|~TYPE2:22
+1053016	Schwerter Strom Management-GmbH		Reichshofstraße 41	58239	Schwerte	51.423660	7.534000	1			~TYPE2:22|~TYPE2:22
+1053017	Schwerter Strom Management-GmbH		Schützenstraße 22	58239	Schwerte	51.444310	7.579360	1			~TYPE2:11
+1053018	Schwerter Strom Management-GmbH		Kleine Märkische Straße 2	58239	Schwerte	51.448620	7.568700	1			~TYPE2:11
+1053019	Schwerter Strom Management-GmbH		Hörder Straße 131	58239	Schwerte	51.464258	7.558028	1			~CCS2:300|~CCS2:300
+1053020	Schwerter Strom Management-GmbH		Bethunestraße 17	58239	Schwerte	51.444690	7.567300	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1053022	Schwerter Strom Management-GmbH		Wittekindstraße 10	58239	Schwerte	51.444067	7.572438	1			~CCS2:300|~CCS2:300|DE*ISE*EA132288~CCS2:300|DE*ISE*EA124494~CCS2:300
+1053023	Schwerter Strom Management-GmbH		Wasserstraße 17	58239	Schwerte	51.417842	7.534954	1			~TYPE2:11
+1053024	Schwerter Strom Management-GmbH		Alter Dortmunder Weg 89	58239	Schwerte	51.461940	7.561430	1			~TYPE2:11
+1053025	Schwerter Strom Management-GmbH		Ruhrstraße 20	58239	Schwerte	51.437926	7.569615	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053027	Schwerter Strom Management-GmbH		Lohbachstraße 12	58239	Schwerte	51.448070	7.579938	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053031	Schwerter Strom Management-GmbH		Grünstraße 89	58239	Schwerte	51.449885	7.594149	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1053032	Schwerter Strom Management-GmbH		Märkische Straße 69c	58239	Schwerte	51.449810	7.571770	1			~TYPE2:22|~TYPE2:22
+1053033	Schwerter Strom Management-GmbH		Virchowstraße 8a	58239	Schwerte	51.449306	7.554478	1			~TYPE2:22|~TYPE2:22
+1053034	Schwerter Strom Management-GmbH		Hörder Straße 131	58239	Schwerte	51.463964	7.559069	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1053122	Stadtwerke Iserlohn GmbH		Viktoriastr. 7	58636	Iserlohn	51.377390	7.700839	1			~TYPE2:22|~TYPE2:22
+1053123	Stadtwerke Iserlohn GmbH		Caller Weg 15	58636	Iserlohn	51.385298	7.704016	1			~TYPE2:22|~TYPE2:22
+1053124	Stadtwerke Iserlohn GmbH		Nikolaus-Ehlen-Str. 3	58636	Iserlohn	51.389189	7.706058	1			~TYPE2:22|~TYPE2:22
+1053125	Stadtwerke Iserlohn GmbH		An den Sieben Gäßchen 3	58636	Iserlohn	51.380805	7.702660	1			~TYPE2:22|~TYPE2:22
+1053126	Stadtwerke Iserlohn GmbH		Hagener Str. 76	58769	Nachrodt-Wiblingwerde	51.337757	7.636080	1			~TYPE2:22|~TYPE2:22
+1053127	Stadtwerke Iserlohn GmbH		Nachrodter Str. 4	58769	Nachrodt-Wiblingwerde	51.308562	7.616771	1			~TYPE2:22|~TYPE2:22
+1053128	Stadtwerke Iserlohn GmbH		Holensiepen 3	58769	Nachrodt-Wiblingwerde	51.332165	7.639432	1			~TYPE2:22|~TYPE2:22
+1053129	Stadtwerke Iserlohn GmbH		Schleddenhofer Weg 30	58636	Iserlohn	51.377287	7.708027	1			~TYPE2:22|~TYPE2:22
+1053130	Stadtwerke Iserlohn GmbH		Görresstraße 14	58636	Iserlohn	51.382268	7.708616	1			~TYPE2:22|~TYPE2:22
+1053131	Stadtwerke Iserlohn GmbH		Friedrichstraße 79	58636	Iserlohn	51.372707	7.712660	1			~TYPE2:22|~TYPE2:22
+1053132	Stadtwerke Iserlohn GmbH		Im Wiesengrund 92	58636	Iserlohn	51.373094	7.720215	1			~TYPE2:22|~TYPE2:22
+1053133	Stadtwerke Iserlohn GmbH		Zur Sonnenhöhe 131	58636	Iserlohn	51.384647	7.723923	1			~TYPE2:22|~TYPE2:22
+1053134	Stadtwerke Iserlohn GmbH		Bertha-von-Suttner-Straße 24	58636	Iserlohn	51.377030	7.725710	1			~TYPE2:22|~TYPE2:22
+1053135	Stadtwerke Iserlohn GmbH		Corunna Straße 15	58636	Iserlohn	51.375718	7.735917	1			~TYPE2:22|~TYPE2:22
+1053136	Stadtwerke Iserlohn GmbH		Auf der Emst 263	58638	Iserlohn	51.372032	7.663635	1			~TYPE2:22|~TYPE2:22
+1053137	Stadtwerke Iserlohn GmbH		Barbarastraße 53	58638	Iserlohn	51.388523	7.665141	1			~TYPE2:22|~TYPE2:22
+1053138	Stadtwerke Iserlohn GmbH		Sonnenweg 3	58638	Iserlohn	51.374692	7.673197	1			~TYPE2:22|~TYPE2:22
+1053139	Stadtwerke Iserlohn GmbH		Bieler Straße 54	58638	Iserlohn	51.391377	7.675890	1			~TYPE2:22|~TYPE2:22
+1053140	Stadtwerke Iserlohn GmbH		Kiefernweg 6	58638	Iserlohn	51.385603	7.682313	1			~TYPE2:22|~TYPE2:22
+1053141	Stadtwerke Iserlohn GmbH		Dördelweg 35	58638	Iserlohn	51.379808	7.685767	1			~TYPE2:22|~TYPE2:22
+1053142	Stadtwerke Iserlohn GmbH		Erbenberg 5	58638	Iserlohn	51.391893	7.686707	1			~TYPE2:22|~TYPE2:22
+1053143	Stadtwerke Iserlohn GmbH		Berliner Platz 3	58638	Iserlohn	51.387851	7.693063	1			~TYPE2:22|~TYPE2:22
+1053144	Stadtwerke Iserlohn GmbH		Inselstraße 11	58638	Iserlohn	51.373398	7.695113	1			~TYPE2:22|~TYPE2:22
+1053145	Stadtwerke Iserlohn GmbH		Dorfstraße 37	58640	Iserlohn	51.440370	7.632000	1			~TYPE2:22|~TYPE2:22
+1053146	Stadtwerke Iserlohn GmbH		Paschufer 6	58640	Iserlohn	51.444907	7.645207	1			~TYPE2:22|~TYPE2:22
+1053147	Stadtwerke Iserlohn GmbH		Hennigestraße 9	58640	Iserlohn	51.438807	7.657223	1			~TYPE2:22|~TYPE2:22
+1053148	Stadtwerke Iserlohn GmbH		Sterkenkamp 12	58640	Iserlohn	51.419899	7.666148	1			~TYPE2:22|~TYPE2:22
+1053149	Stadtwerke Iserlohn GmbH		Am Spring 19	58640	Iserlohn	51.420443	7.671632	1			~TYPE2:22|~TYPE2:22
+1053150	Stadtwerke Iserlohn GmbH		Hoppenbeul 2	58640	Iserlohn	51.403203	7.685009	1			~TYPE2:22|~TYPE2:22
+1053151	Stadtwerke Iserlohn GmbH		Leckingser Straße 35	58640	Iserlohn	51.399094	7.690058	1			~TYPE2:22|~TYPE2:22
+1053152	Stadtwerke Iserlohn GmbH		Lerchenstraße 34	58640	Iserlohn	51.413296	7.701647	1			~TYPE2:22|~TYPE2:22
+1053153	Stadtwerke Iserlohn GmbH		Waldweg 19	58640	Iserlohn	51.401975	7.711200	1			~TYPE2:22|~TYPE2:22
+1053154	Stadtwerke Iserlohn GmbH		Gertrudisstraße 10	58640	Iserlohn	51.419584	7.712047	1			~TYPE2:22|~TYPE2:22
+1053155	Stadtwerke Iserlohn GmbH		Schneebruch 9	58640	Iserlohn	51.426332	7.716913	1			~TYPE2:22|~TYPE2:22
+1053156	Stadtwerke Iserlohn GmbH		Hagener Straße 134	58642	Iserlohn	51.364356	7.598310	1			~TYPE2:22|~TYPE2:22
+1053157	Stadtwerke Iserlohn GmbH		Im Nordfeld 31	58642	Iserlohn	51.369109	7.603861	1			~TYPE2:22|~TYPE2:22
+1053158	Stadtwerke Iserlohn GmbH		Am Dorfplatz 6	58642	Iserlohn	51.378860	7.605120	1			~TYPE2:22|~TYPE2:22
+1053159	Stadtwerke Iserlohn GmbH		Vom-Stein-Straße 37	58642	Iserlohn	51.371051	7.610616	1			~TYPE2:22|~TYPE2:22
+1053160	Stadtwerke Iserlohn GmbH		Von-der-Kuhlen-Straße 35	58642	Iserlohn	51.366486	7.613814	1			~TYPE2:22|~TYPE2:22
+1053161	Stadtwerke Iserlohn GmbH		Unterfeldstraße 4	58642	Iserlohn	51.370338	7.623381	1			~TYPE2:22|~TYPE2:22
+1053162	Stadtwerke Iserlohn GmbH		Berliner Allee 88	58642	Iserlohn	51.372311	7.627318	1			~TYPE2:22|~TYPE2:22
+1053163	Stadtwerke Iserlohn GmbH		Schleddestraße 30	58644	Iserlohn	51.370596	7.636778	1			~TYPE2:22|~TYPE2:22
+1053164	Stadtwerke Iserlohn GmbH		Insterburger Weg 10	58644	Iserlohn	51.361765	7.641314	1			~TYPE2:22|~TYPE2:22
+1053165	Stadtwerke Iserlohn GmbH		Am Buschwald 16	58644	Iserlohn	51.371774	7.645107	1			~TYPE2:22|~TYPE2:22
+1053166	Stadtwerke Iserlohn GmbH		Rauhe Hardt 32	58642	Iserlohn	51.377295	7.655051	1			~TYPE2:22|~TYPE2:22
+1053167	Stadtwerke Iserlohn GmbH		Untergrüner Straße 134	58644	Iserlohn	51.367265	7.656551	1			~TYPE2:22|~TYPE2:22
+1053168	Stadtwerke Iserlohn GmbH		Zur Friedenseiche 33	58644	Iserlohn	51.347279	7.657135	1			~TYPE2:22|~TYPE2:22
+1053169	Stadtwerke Iserlohn GmbH		Am Wiesenrain 6	58644	Iserlohn	51.376185	7.661050	1			~TYPE2:22|~TYPE2:22
+1053170	Stadtwerke Iserlohn GmbH		Saatweg 59	58644	Iserlohn	51.364536	7.660937	1			~TYPE2:22|~TYPE2:22
+1053171	Stadtwerke Iserlohn GmbH		Düsingstraße 20	58644	Iserlohn	51.369589	7.670599	1			~TYPE2:22|~TYPE2:22
+1053172	Stadtwerke Iserlohn GmbH		Bertholdstraße 21	58644	Iserlohn	51.370767	7.677325	1			~TYPE2:22|~TYPE2:22
+1053173	Stadtwerke Iserlohn GmbH		Am Hochbehälter 2	58644	Iserlohn	51.370767	7.704483	1			~TYPE2:22|~TYPE2:22
+1053174	Stadtwerke Iserlohn GmbH		Siebrechtsweg 23	58644	Iserlohn	51.368891	7.710694	1			~TYPE2:22|~TYPE2:22
+1053175	Stadtwerke Iserlohn GmbH		Bahnhofsplatz 2	58644	Iserlohn	51.372995	7.691311	1			~TYPE2:22|~TYPE2:22
+1053176	Stadtwerke Iserlohn GmbH		Bahnhofstr. 3	58642	Iserlohn	51.363675	7.618361	1			~TYPE2:22|~TYPE2:22
+1053177	Stadtwerke Iserlohn GmbH		Baarstr. 110	58638	Iserlohn	51.393796	7.693014	1			~TYPE2:22|~TYPE2:22
+1053178	Stadtwerke Iserlohn GmbH		Stefanstr. 4-8	58638	Iserlohn	51.378260	7.694540	1			~TYPE2:22|~TYPE2:22
+1053179	Stadtwerke Iserlohn GmbH		An der Schlacht 13	58638	Iserlohn	51.372500	7.698800	1			~TYPE2:22|~TYPE2:22
+1053181	Stadtwerke Iserlohn GmbH		An der Schlacht 13	58638	Iserlohn	51.372500	7.698700	1			~TYPE2:22
+1053182	Stadtwerke Iserlohn GmbH		An der Schlacht 13	58638	Iserlohn	51.372500	7.698850	1			~TYPE2:22
+1053183	Stadtwerke Iserlohn GmbH		Rotehausstr. 36	58642	Iserlohn	51.389200	7.633400	1			~TYPE2:22
+1053184	Stadtwerke Iserlohn GmbH		Oesestr. 36	58675	Hemer	51.397766	7.784625	1			~TYPE2:22|~TYPE2:22
+1053185	Stadtwerke Iserlohn GmbH		Oesestr. 36	58675	Hemer	51.397768	7.784705	1			~TYPE2:22|~TYPE2:22
+1053186	Stadtwerke Iserlohn GmbH		Kurt-Schumacher-Ring 5	58636	Iserlohn	51.375598	7.696538	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1053194	Stadtwerke Iserlohn GmbH		Westfalenstr. 6	58636	Iserlohn	51.376860	7.716070	1			~TYPE2:22|~TYPE2:22
+1053195	Stadtwerke Iserlohn GmbH		Hagener Straße 185	58642	Iserlohn	51.363639	7.591409	1			~TYPE2:22
+1053196	Stadtwerke Iserlohn GmbH		Baarstraße 125	58636	Iserlohn	51.397690	7.693030	1			~TYPE2:22|~TYPE2:22
+1053389	Landhotel Repetal		Dünscheder Str. 8	57439	Attendorn	51.123151	7.973616	1			~TYPE2:11|~TYPE2:11
+1055083	Aral Pulse		Werdohler Landstraße 4	58511	Lüdenscheid	51.228590	7.651420	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055168	Aral Pulse		Fröndenberger Str. 291	58708	Menden	51.468478	7.768807	1			~CCS2:150|~CCS2:150
+1055226	Aral Pulse		Baarstraße 162	58636	Iserlohn	51.400465	7.697738	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1060113	Stadtwerke Lüdenscheid GmbH		Rathausplatz 2	58507	Lüdenscheid	51.217252	7.630346	1			~TYPE2:22|~TYPE2:22
+1060114	Stadtwerke Lüdenscheid GmbH		Frankenstr. 0	58509	Lüdenscheid	51.220381	7.617024	1			~TYPE2:22|~TYPE2:22
+1060115	Stadtwerke Lüdenscheid GmbH		Kerksigstr. 5	58511	Lüdenscheid	51.217705	7.635046	1			~TYPE2:22|~TYPE2:22
+1060116	Stadtwerke Lüdenscheid GmbH		Grabenstr. 12 a	58511	Lüdenscheid	51.215057	7.632996	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1060117	Stadtwerke Lüdenscheid GmbH		Goldene Ecke 8	58511	Lüdenscheid	51.216692	7.635815	1			~TYPE2:22|~TYPE2:22
+1060119	Stadtwerke Lüdenscheid GmbH		Am Alten Schulplatz 0	58849	Herscheid	51.178379	7.743377	1			~TYPE2:22|~TYPE2:22
+1060120	Stadtwerke Lüdenscheid GmbH		Lüdenscheider Str. 28	58849	Herscheid	51.178858	7.738965	1			~TYPE2:22|~TYPE2:22
+1060121	Stadtwerke Lüdenscheid GmbH		Plettenberger Str. 27	58849	Herscheid	51.178309	7.749287	1			~TYPE2:22|~TYPE2:22
+1060122	Stadtwerke Lüdenscheid GmbH		Saarlandstraße 5	58511	Lüdenscheid	51.219661	7.646997	1			~TYPE2:22|~TYPE2:22
+1060123	Stadtwerke Lüdenscheid GmbH		Honseler Straße 6	58511	Lüdenscheid	51.221784	7.644849	1			~TYPE2:22|~TYPE2:22
+1060124	Stadtwerke Lüdenscheid GmbH		Mathildenstraße 10	58507	Lüdenscheid	51.221823	7.624594	1			~TYPE2:22|~TYPE2:22
+1060125	Stadtwerke Lüdenscheid GmbH		Mathildenstraße 10	58507	Lüdenscheid	51.221795	7.624427	1			~TYPE2:22|~TYPE2:22
+1060126	Stadtwerke Lüdenscheid GmbH		Wefelshohler Str. 50	58511	Lüdenscheid	51.215645	7.653968	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1060128	Stadtwerke Lüdenscheid GmbH		Wefelshohler Str. 50	58511	Lüdenscheid	51.215726	7.654156	1			~TYPE2:22|~TYPE2:22
+1060129	Stadtwerke Lüdenscheid GmbH		Staberger Straße 2	58511	Lüdenscheid	51.213916	7.635724	1			~TYPE2:22|~TYPE2:22
+1060130	Stadtwerke Lüdenscheid GmbH		Lennestraße 2	58507	Lüdenscheid	51.227231	7.635959	1			~TYPE2:22|~TYPE2:22
+1060132	Stadtwerke Lüdenscheid GmbH		Heedfelder Straße 45	58509	Lüdenscheid	51.225186	7.615398	1			~TYPE2:22|~TYPE2:22
+1060133	Stadtwerke Lüdenscheid GmbH		Bahnhofstraße 26	58507	Lüdenscheid	51.220889	7.629694	1			~TYPE2:22|~TYPE2:22
+1060134	Stadtwerke Lüdenscheid GmbH		Habbeler Straße 23	58849	Herscheid	51.191722	7.799703	1			~TYPE2:22|~TYPE2:22
+1060135	Stadtwerke Lüdenscheid GmbH		Unterdorfstraße 24	58849	Herscheid	51.175608	7.743249	1			~TYPE2:22|~TYPE2:22
+1061306	EnBW mobility+ AG und Co.KG		Schürbankstr. 40	44287	Dortmund	51.498892	7.559832	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1063389	BERDING BETON GmbH		Steinstrasse 1	57489	Drolshagen	51.038160	7.770940	1			~TYPE2:22|~TYPE2:22
+1064053	Kaufland	1373_Kland_Iserlohn_T53-IT1-3917-006	Raiffeisenstr. 5	58638	Iserlohn	51.383775	7.674532	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064861	Aral Pulse		Hauptstraße 72	58675	Hemer	51.378101	7.764372	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1066251	Dortmunder Energie- und Wasserversorgung GmbH		Phoenixseestr. 4	44263	Dortmund	51.488822	7.508026	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25
+1066256	Dortmunder Energie- und Wasserversorgung GmbH		Hörder Hafenstraße 7	44263	Dortmund	51.492587	7.505308	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1066266	Dortmunder Energie- und Wasserversorgung GmbH		Wittbräukerstr. 52 52	44287	Dortmund	51.486228	7.553003	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~TYPE2:11|~TYPE2:11
+1066269	Dortmunder Energie- und Wasserversorgung GmbH		Wilhelm-Schmidt-Straße 4	44263	Dortmund	51.485332	7.504083	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25
+1066271	Dortmunder Energie- und Wasserversorgung GmbH		Wittbräucker Str. 504	44267	Dortmund	51.454295	7.516309	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25
+1067246	EnBW mobility+ AG und Co.KG		Märkische Str. 59	58675	Hemer	51.390550	7.755153	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1068473	Schuhhaus + Sanitätshaus Koch		Kurfürst-Heinrich-Str. 6-10	57462	Olpe	51.027455	7.844179	1			~TYPE2:22|~TYPE2:22
+1068944	Volker Rehmes		Auf der Woort 8	59846	Sundern	51.285539	7.953816	1			~TYPE2:11
+1069466	Roth Network		Zur Schönen Aussicht 1	58579	Schalksmühle	51.254627	7.531692	1			~TYPE2:11+TYPE2_TETHERED:11
+1069884	Tappeser Solar		Im Ostfeld 15	58239	Schwerte	51.422182	7.535416	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1070282	Meißner Technik Müllenbach GmbH		Graf-Albert-Straße 9	51709	Marienheide	51.069785	7.573346	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1071639	Brillen Rottler GmbH & Co. KG		Im Ohl 85	59757	Arnsberg	51.466224	7.943563	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1071640	Brillen Rottler GmbH & Co. KG		Im Ohl 85	59757	Arnsberg	51.466264	7.943609	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1071641	Brillen Rottler GmbH & Co. KG		Im Ohl 85	59757	Arnsberg	51.466231	7.943670	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1072098	EDEKA Handelsgesellschaft Rhein-Rhur mbH		Hagener Straße 2	58642	Iserlohn	51.365222	7.618083	1			~TYPE2:11|~TYPE2:11
+1072205	NetzService Ruhr GmbH		Obere Promenade 3	58706	Menden	51.435536	7.793041	1			~TYPE2:22|~TYPE2:22
+1072206	NetzService Ruhr GmbH		Lendringser Hauptstraße 28 a	58710	Menden	51.439844	7.769280	1			~TYPE2:22|~TYPE2:22
+1072207	NetzService Ruhr GmbH		Heidestraße 80	58708	Menden	51.457477	7.758795	1			~TYPE2:22|~TYPE2:22
+1072208	NetzService Ruhr GmbH		Margueritenweg 9	58708	Menden	51.433036	7.759102	1			~TYPE2:22|~TYPE2:22
+1072209	NetzService Ruhr GmbH		Oberm Rohlande 18	58710	Menden	51.417380	7.834489	1			~TYPE2:22|~TYPE2:22
+1072210	NetzService Ruhr GmbH		Am Papenbusch 26-42	58708	Menden	51.442058	7.768868	1			~TYPE2:22|~TYPE2:22
+1072211	NetzService Ruhr GmbH		Poststraße 0	58706	Menden	51.438533	7.790367	1			~TYPE2:22|~CCS2:50
+1072212	NetzService Ruhr GmbH		Eisenberger Straße 139	58708	Menden	51.439206	7.762739	1			~TYPE2:22|~TYPE2:22
+1072213	NetzService Ruhr GmbH		Unnaer Landstraße 103	58708	Menden	51.447257	7.770100	1			~TYPE2_TETHERED:300|~CCS2:300|~CCS2:300|~CCS2:300
+1072214	NetzService Ruhr GmbH		Kolpingstraße 46	58706	Menden	51.435680	7.798595	1			~TYPE2:22|~TYPE2:22+CCS2:22
+1072215	Kfz-Meisterbetrieb Bernd Nickel		Bräukerweg 4	58708	Menden	51.441475	7.780298	1			~TYPE2:22
+1075900	NOI GmbH & Co. KG		Alte Landstraße 12	57462	Olpe	51.048633	7.858095	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076290	AEF - Alternatives Energie Forum GmbH & Co. KG		Zum Dümpel 60	59846	Sundern (Sauerland)	51.352756	7.992329	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1076292	AEF - Alternatives Energie Forum GmbH & Co. KG		Zum Dümpel 60	59846	Sundern (Sauerland)	51.352720	7.992447	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1076296	AEF - Alternatives Energie Forum GmbH & Co. KG		Zum Dümpel 60	59846	Sundern (Sauerland)	51.352460	7.992541	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076300	AEF - Alternatives Energie Forum GmbH & Co. KG		Zum Dümpel 60	59846	Sundern (Sauerland)	51.350944	7.992253	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1076345	Kreisverwaltung Oberbergischer Kreis		Moltkestr. 42	51643	Gummersbach	51.029730	7.570420	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076350	Olper Automobil-Club e.V.		Daimlerweg 2	57462	Olpe	51.044185	7.888347	1			~TYPE2:22|~TYPE2:22
+1076670	Czogalla		Auf dem Loh 1	58840	Plettenberg	51.232360	7.881310	1			~TYPE2:22
+1076753	Hymes Energy GmbH	Haus Berghoff	In der Ecke 6	59846	Sundern (Sauerland)	51.284279	7.989139	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076783	Mark-E AG		Pulverstr. 14	58566	Kierspe	51.136183	7.584988	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1077103	Marvin Neumann		Ruhrtalstr. 1	58099	Hagen	51.412000	7.513600	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1077715	Mark-E AG		Volmestr. 1	58540	Meinerzhagen	51.107948	7.638921	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1078185	Shell Deutschland GmbH		Paulmannshöher Str. 2	58515	Lüdenscheid	51.207860	7.655820	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1078186	Shell Deutschland GmbH		Paulmannshoeher Str. 2	58515	Lüdenscheid	51.207820	7.655940	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1078241	EnBW mobility+ AG und Co.KG		Stadionstr. 2	51702	Bergneustadt	51.018120	7.643320	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1080529	Busenius Automobile GmbH		Mühlhofe 2	58540	Meinerzhagen	51.112744	7.798655	1	24/7	Keine Beschränkung	~CCS2:160|~CCS2:160|~CCS2:160|~CCS2:160
+1080531	Märkischer Kreis - Der Landrat	Kreisarchiv	Bismarckstr. 21	58762	Altena	51.296538	7.670856	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080532	Märkischer Kreis - Der Landrat	Jugendbildungsstätte	Sedanstr. 9	58507	Lüdenscheid	51.220509	7.632564	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080795	Ferchau Management GmbH		Steinmüllerallee 2	51643	Gummersbach	51.023358	7.562980	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080796	Ferchau Management GmbH		Steinmüllerallee 2	51643	Gummersbach	51.023343	7.563052	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080797	Ferchau Management GmbH		Steinmüllerallee 2	51643	Gummersbach	51.023366	7.563089	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1080799	Ferchau Management GmbH		Steinmüllerallee 2	51643	Gummersbach	51.023332	7.563002	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1081154	Märkischer Kreis - Der Landrat	Berufskolleg Iserlohn	Hansaallee 19	58636	Iserlohn	51.374258	7.715516	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1081160	Märkischer Kreis - Der Landrat	Berufskolleg Iserlohn	Hansaallee 19	58636	Iserlohn	51.374153	7.715372	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1081194	Heuel Beteiligungsgesellschaft mbH	Parkplatz Spedition Heuel Unten 1	Darmcher Grund 1	58540	Meinerzhagen	51.098950	7.678040	1	24/7	Keine Beschränkung	DE*MDS*E005286~TYPE2:22|DE*MDS*E006645~TYPE2:22|DE*MDS*E005813~TYPE2:22|DE*MDS*E008166~TYPE2:22
+1081435	AKG Automobile GmbH		Heerstr. 18	58540	Meinerzhagen	51.096429	7.671732	1			~TYPE2:22|~TYPE2:22
+1083790	stadtraum Gesellschaft für Raumplanung, Städtebau & Verkehrstechnik mbH	Kirchplatz 2	Kirchplatz 7	58739	Wickede (Ruhr)	51.494315	7.896564	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1084422	advercharge	advercharge Ladestation Justmore Fitness Bergneustadt DC	Kölner Str. 404	51702	Bergneustadt	51.022745	7.673788	1	24/7	Nur für Kunden/Besucher	~CCS2:120|~CCS2:120
+1084453	Heuel Beteiligungsgesellschaft mbH	Parkplatz Spedition Heuel	Darmcher Grund 1	58540	Meinerzhagen	51.099609	7.677730	1	24/7	Keine Beschränkung	DECPIE6939105~CCS2:50|DECPIE6939105~CCS2:50
+1084859	Autohaus Trimpop e. Kfr.		Im Wiesental 90	58513	Lüdenscheid	51.248239	7.597235	1			~TYPE2_TETHERED:11
+1085076	Christian Bugiel		Friedrichstraße 37	57462	Olpe	51.024750	7.854468	1			~TYPE2:11
+1085174	Christoph Huber		Letmather Straße 94	58239	Schwerte	51.421058	7.573139	1			~TYPE2_TETHERED:22
+1085237	Daniel Bergmann		Alter Hohlweg 21	58093	Hagen	51.389101	7.539779	1			~TYPE2_TETHERED:11
+1085270	Daniel Pätzold		Heesfeld 2B	58553	Halver	51.208656	7.538376	1			~TYPE2_TETHERED:11
+1085393	Dirk Appelhoff		Lestremer Straße 38	58708	Menden (Sauerland)	51.456775	7.787680	1			~TYPE2_TETHERED:11
+1085424	Dohrmann Straßen - und Tiefbau GmbH		Boschstraße 2	58553	Halver	51.207948	7.526109	1			~TYPE2:22|~TYPE2:22
+1085634	Florian Block		Peter-und-Paul-Straße 16	58809	Neuenrade	51.274610	7.863455	1			~TYPE2_TETHERED:11
+1085653	Florian Weigel		Schmiedestraße 44	57439	Attendorn	51.132360	7.915286	1			~TYPE2_TETHERED:11
+1085664	Frank Bahr		Schumannstraße 4A	51643	Gummersbach	51.016578	7.525633	1			~TYPE2:11
+1085680	Frank Koschewski		Europaring 19	58762	Altena	51.292878	7.714992	1			~TYPE2_TETHERED:11
+1086070	Horst Wagner GmbH		Köln-Berliner Straße 146	44287	Dortmund	51.497775	7.567911	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1086102	Immobilienverwaltung Rebhuhnweg GbR		Rebhuhnweg 4	58638	Iserlohn	51.392486	7.677668	1			~TYPE2:22|~TYPE2:22
+1086115	Bernd Lilienthal		Haydnstraße 32	58509	Lüdenscheid	51.220380	7.591750	1			~TYPE2_TETHERED:22
+1086277	Johann Witte		Hauptstraße 112	58730	Fröndenberg/Ruhr	51.480379	7.685915	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086660	Manuel Kampschulte		Iringweg 41	59757	Arnsberg	51.455525	7.941207	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1086798	Markus Grote		Am Höltchen 36	58791	Werdohl	51.242405	7.782787	1			~TYPE2:11
+1086876	Martin Werner		Elbingstraße 17	59755	Arnsberg	51.449375	7.982369	1			~TYPE2:11
+1086950	Maximilian Abdul Mrosek		Hermann-Löns-Straße 20	58730	Fröndenberg/Ruhr	51.472343	7.788277	1			~TYPE2_TETHERED:11
+1086964	mehrwert systemhaus GmbH		In der Trift 14	57462	Olpe	51.022939	7.842709	1			~TYPE2_TETHERED:22
+1087057	Michael Wolts		Schürbankstraße 17	44287	Dortmund	51.498108	7.556784	1			~TYPE2:11
+1087292	Patrick Wehden		Saatweg 3B	58644	Iserlohn	51.365805	7.650367	1			~TYPE2_TETHERED:11
+1087369	Phong Nguyen		Hellweg 5	58644	Iserlohn	51.375320	7.658787	1			~TYPE2_TETHERED:11
+1087482	Raphael Muckhoff		Astrid-Lindgren-Weg 6	58640	Iserlohn	51.422061	7.717139	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087548	Robbyn Gerhardt		Kirchkette 12	59846	Sundern (Sauerland)	51.369969	7.929050	1			~TYPE2:11
+1087921	Stephan Stecken		Im Spring 11	59846	Sundern (Sauerland)	51.317212	7.995906	1			~TYPE2_TETHERED:11
+1087991	SW Vertriebsges. mbH & Co.KG		Am Wiedenhof 12	51643	Gummersbach	51.028825	7.570049	1			~TYPE2_TETHERED:11
+1088260	Torsten Bühner		An der Wende 36	51643	Gummersbach	51.025763	7.536353	1			~TYPE2:11
+1088349	Herbertine		Engelbertstraße 18	57489	Drolshagen	51.025276	7.769886	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088646	EnBW mobility+ AG und Co.KG		Hennener Marktplatz 2	58640	Iserlohn	51.441800	7.651850	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1089381	Gasthof Friedrich Spelsberg e.K		Großendrescheid 17	58762	Altena	51.272160	7.646730	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089706	Langdor Hotel GmbH - Lüdenscheid		Parkstraße 66	58509	Lüdenscheid	51.217780	7.612110	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090690	Stadtwerke Fröndenberg Wickede GmbH		Graf-Adolf-Straße 0	58730	Fröndenberg	51.471657	7.777057	1			~TYPE2:22|~TYPE2:22
+1090691	Stadtwerke Fröndenberg Wickede GmbH		Ruhrstraße 9	58730	Fröndenberg	51.471004	7.768302	1			~TYPE2:22|~TYPE2:22
+1090693	Stadtwerke Fröndenberg Wickede GmbH		Bahnhofstraße 0	58739	Wickede	51.493843	7.869522	1			~TYPE2:22|~TYPE2:22
+1090694	Stadtwerke Fröndenberg Wickede GmbH		Hauptstraße 81	58739	Wickede	51.493910	7.867570	1			~TYPE2:22|~TYPE2:22
+1090695	Stadtwerke Fröndenberg Wickede GmbH		Wilhelm-Feuerhake-Straße 0	58730	Fröndenberg	51.471986	7.761838	1			~TYPE2:22|~TYPE2:22
+1090696	Stadtwerke Fröndenberg Wickede GmbH		Harthaer Platz 0	58730	Fröndenberg	51.472003	7.767247	1			~TYPE2:22|~TYPE2:22
+1090697	Stadtwerke Fröndenberg Wickede GmbH		Bruayplatz 0	58730	Fröndenberg	51.472972	7.764722	1			~TYPE2:22|~TYPE2:22
+1090698	Stadtwerke Fröndenberg Wickede GmbH		Am Brauck 9	58730	Fröndenberg	51.480825	7.692130	1			~TYPE2:22|~TYPE2:22
+1090699	Stadtwerke Fröndenberg Wickede GmbH		Bahnhofsallee 24a	58730	Fröndenberg	51.475923	7.705007	1			~TYPE2:22|~TYPE2:22
+1090700	Stadtwerke Fröndenberg Wickede GmbH		Im Wiesengrund 0	58730	Fröndenberg	51.478047	7.775040	1			~TYPE2:22|~TYPE2:22
+1090701	Stadtwerke Fröndenberg Wickede GmbH		Ludwig Steil Straße 11	58730	Fröndenberg	51.476164	7.753848	1			~TYPE2:22|~TYPE2:22
+1090702	Stadtwerke Fröndenberg Wickede GmbH		Eulenstraße 12	58730	Fröndenberg	51.473924	7.766875	1			~TYPE2:22|~TYPE2:22
+1090703	Stadtwerke Fröndenberg Wickede GmbH		Ardeyer Straße 66	58730	Fröndenberg	51.481682	7.724168	1			~TYPE2:22|~TYPE2:22
+1090704	Stadtwerke Fröndenberg Wickede GmbH		Schwarzer Weg 1	58730	Fröndenberg	51.487104	7.763899	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090706	Stadtwerke Fröndenberg Wickede GmbH		Eulenstr. 58	58730	Fröndenberg	51.489074	7.755777	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090708	Stadtwerke Fröndenberg Wickede GmbH		Rosenstr. 0	58739	Wickede	51.494819	7.868698	1			~TYPE2:22|~TYPE2:22
+1090709	Stadtwerke Fröndenberg Wickede GmbH		Hövelstraße 6	58739	Wickede	51.498721	7.876683	1			~TYPE2:22|~TYPE2:22
+1090710	Stadtwerke Fröndenberg Wickede GmbH		Im Winkel 24	58739	Wickede	51.498744	7.881510	1			~TYPE2:22|~TYPE2:22
+1090711	Stadtwerke Fröndenberg Wickede GmbH		Bredde 0	58730	Fröndenberg	51.483484	7.724646	1			~TYPE2:22|~TYPE2:22
+1090720	Laatsch Govari Kaminski Rechtsanwälte GbR		Altstadt 11	58636	Iserlohn	51.372796	7.695008	1			~TYPE2:11|~TYPE2:11
+1090798	Königs + Woisetschläger GmbH		Fraunhoferstr. 4	51647	Gummersbach	51.051602	7.539471	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091840	E.ON Drive Infrastructure		Marsbruchstr. 27	44287	Dortmund	51.494961	7.555438	1	24/7	Keine Beschränkung	DE*UFC*E01272*1~TYPE2:22|DE*UFC*E01272*2~TYPE2:22
+1093137	Sparkasse an Volme und Ruhr AdöR		Sauerfelder Straße 7-11	58511	Lüdenscheid	51.214732	7.629867	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093429	Mark-E AG		Hademareplatz 1	58675	Hemer	51.385671	7.768385	1			~TYPE2:22|~TYPE2:22
+1093430	Mark-E AG		Mozartstr. 12	58675	Hemer	51.392050	7.765450	1			~TYPE2:22|~TYPE2:22
+1093431	Mark-E AG		Am Jalohsweg 0	58675	Hemer	51.386139	7.750972	1			~TYPE2:22|~TYPE2:22
+1093432	Mark-E AG		An der Steinert 0	58675	Hemer	51.384904	7.763986	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2:22
+1093434	Mark-E AG		Platanenallee 0	58675	Hemer	51.387268	7.780824	1			~TYPE2:22|~TYPE2:22
+1093435	Mark-E AG		Platanenallee 0	58675	Hemer	51.387263	7.781036	1			~CCS2:50|~TYPE2:22
+1096719	Autohaus Hengesbach GmbH & Co KG		Hauptstraße 210-214	59846	Sundern (Sauerland)	51.336373	7.999609	1			~CCS2:22|~TYPE2:11
+1096727	Autohaus Hoffmann GmbH		Altenaer Str. 21 a	58769	Nachrodt-Wiblingwerde	51.333856	7.649857	1			~TYPE2:11|~CCS2:22
+1096842	Autohaus Levermann GmbH		Hönnetalstraße 66	58802	Balve	51.337400	7.869790	1			~CCS2:22|~TYPE2:11
+1096892	Autohaus Möller GmbH		Westicker Str. 55	58730	Fröndenberg/Ruhr	51.474525	7.786690	1			~CCS2:22|~TYPE2:11
+1096949	Autohaus Pfeffer GmbH		Bandstahlstraße 7	58093	Hagen	51.381602	7.511639	1			~CCS2:22|~TYPE2:11
+1097426	Knabe GmbH & Co.KG		Osemundstraße 32	58566	Kierspe	51.124044	7.593356	1			~CCS2:22|~TYPE2:11|~TYPE2:11
+1097629	E.ON Drive Infrastructure		Wenzelstr. 3	44263	Dortmund	51.489186	7.502455	1	24/7	Keine Beschränkung	DE*UFC*E01276*1~TYPE2:22|DE*UFC*E01276*2~TYPE2:22
+1097723	EnBW mobility+ AG und Co.KG		Neuer Weg 11	58849	Herscheid	51.177690	7.745640	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1097749	EnBW mobility+ AG und Co.KG		Bergkuhle 1	57439	Attendorn	51.142790	7.910044	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~TYPE2:22
+1097867	Meierjohann Lebensmittelhandel Sölderholz KG		Nelkenstr. 4a	44289	Dortmund	51.477906	7.600067	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1097960	Marktkauf Mehr	Marktkauf Mehr	Urbecker Str. 127	58675	Hemer	51.396089	7.777551	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1097961	Marktkauf Mehr	Marktkauf Mehr	Urbecker Str. 127	58675	Hemer	51.396174	7.777488	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1102512	MENNEKES Elektrotechnik GmbH & Co. KG		Industriestraße 5	57399	Kichhundem	51.038666	7.997107	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102960	Stadtwerke Iserlohn GmbH		Im Markenfeld 7	58642	Iserlohn	51.366817	7.596204	1	24/7	Keine Beschränkung	~TYPE2:22
+1102962	Stadtwerke Iserlohn GmbH	Museum Barendorf	Baarstr. 220-226	58636	Iserlohn	51.408404	7.694392	1	24/7	Keine Beschränkung	DE*ISE*E0013771~TYPE2:22
+1102963	Stadtwerke Iserlohn GmbH	Parkplatz Fingerhutsmühle	Fingerhutsmühle 61	58642	Iserlohn	51.364622	7.612209	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1102964	Stadtwerke Iserlohn GmbH		Hagener Str. 63	58642	Iserlohn	51.365086	7.611988	1	24/7	Keine Beschränkung	DE*ISE*E0014099~TYPE2:22
+1102967	Stadtwerke Iserlohn GmbH	Tiefgarage HANSE 1	Hansaallee 1	58636	Iserlohn	51.375090	7.712540	1	24/7	Nur für Kunden/Besucher	DE*ISE*E00173784~TYPE2:22|DE*ISE*E0017381~TYPE2:22
+1102968	Stadtwerke Iserlohn GmbH	Saalbau Letmathe	Marktstr. 34	58642	Iserlohn	51.365840	7.611670	1	24/7	Keine Beschränkung	DE*ISE*E0017337~TYPE2:22|DE*ISE*E0017338~TYPE2:22
+1102970	Stadtwerke Iserlohn GmbH		Mendener Str. 135	58636	Iserlohn	51.378212	7.712924	1	24/7	Keine Beschränkung	DE*ISE*E0009208~TYPE2:22|DE*ISE*E0009207~TYPE2:22|DE*ISE*E0009207~TYPE2:22|DE*ISE*E0009208~TYPE2:22
+1102974	Stadtwerke Iserlohn GmbH		Rebhuhnweg 4	58638	Iserlohn	51.392536	7.677744	1	24/7	Keine Beschränkung	DE*ISE*E0008981~TYPE2:22|DE*ISE*E0008982~TYPE2:22
+1102975	Stadtwerke Iserlohn GmbH	Hagebaumarkt Iserlohn	Reiterweg 2	58636	Iserlohn	51.386476	7.728663	1	24/7	Keine Beschränkung	DE*ISE*E0009205~TYPE2:22|DE*ISE*E0009206~TYPE2:22
+1102988	Stadtwerke Iserlohn GmbH	Parkhaus B&U	Steinstr. 11	58636	Iserlohn	51.375450	7.698540	1	24/7	Nur für Kunden/Besucher	DE*ISE*E0008921~TYPE2:22|DE*ISE*E0008922~TYPE2:22
+1102989	Stadtwerke Iserlohn GmbH	Parkplatz Trift	Trift 24	58636	Iserlohn	51.376746	7.696890	1	24/7	Keine Beschränkung	DE*ISE*E0014101~TYPE2:22
+1102990	Stadtwerke Iserlohn GmbH	Quartier WoGe	Zum Tannenkopf 7	58642	Iserlohn	51.366829	7.621626	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1102991	Stadtwerke Iserlohn GmbH	Parkplatz IGW	Bleichstr. 16	58638	Iserlohn	51.377160	7.693201	1	24/7	Nur für Kunden/Besucher	DE*ISE*E0017379~TYPE2:22|~TYPE2:22
+1103126	Ronny Gängler		Albertweg 22	59757	Arnsberg	51.459700	7.937090	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1103435	Heuel Beteiligungsgesellschaft mbH	Parkplatz Spedition Heuel Oben 1	Darmcher Grund 1	58540	Meinerzhagen	51.098631	7.679516	1	24/7	Keine Beschränkung	DE*MDS*E010882~TYPE2:22|DE*MDS*E010886~TYPE2:22
+1103437	Heuel Beteiligungsgesellschaft mbH	Parkplatz Spedition Heuel Oben 2	Darmcher Grund 1	58540	Meinerzhagen	51.098698	7.679285	1	24/7	Keine Beschränkung	DE*MSD*E005851~TYPE2:22|DE*MDS*E006026~TYPE2:22|DE*MDS*E006036~TYPE2:22|DE*MDS*E005849~TYPE2:22|DE*MDS*E005866~TYPE2:22|DE*MDS*E005860~TYPE2:22
+1103675	Frischemarkt Clever KG		Volmestr. 53a	58579	Schalksmühle	51.248741	7.518640	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50|~TYPE2:22|~CCS2:50+CHADEMO:50
+1104187	HUHN-Kunststofftechnik® GmbH&Co.KG		Am alten Steg 21	51647	Gummersbach-Becke	51.038957	7.591032	1			~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104198	Gemeinde Nachrodt-Wiblingwerde		Hagener Str. 76	58769	Nachrodt-Wiblingwerde	51.337757	7.636080	1			~TYPE2:22|~TYPE2:22
+1104199	Gemeinde Nachrodt-Wiblingwerde		Holensiepen 3	58769	Nachrodt-Wiblingwerde	51.332165	7.639432	1			~TYPE2:22|~TYPE2:22
+1104200	Gemeinde Nachrodt-Wiblingwerde		Nachrodter Str. 0	58769	Nachrodt-Wiblingwerde	51.308562	7.616771	1			~TYPE2:22|~TYPE2:22
+1104468	Sparkasse Kierspe-Meinerzhagen AdöR		Thingslindestr. 1	58566	Kierspe	51.127868	7.599199	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104469	Sparkasse Kierspe-Meinerzhagen AdöR		Zur Alten Post 2-4	58540	Meinerzhagen	51.107076	7.638655	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1105486	Autohaus Kaltenbach GmbH & Co. KG		Kälner Str. 137	58509	Lüdenscheid	51.211578	7.616259	1			~TYPE2:22|~TYPE2:22
+1105491	Kaltenbach Automobile GmbH & Co. KG		Gildestr. 26	58791	Werdohl	51.261574	7.786229	1			~TYPE2:22|~TYPE2:22
+1105492	Kaltenbach Automobile GmbH & Co. KG		Im Langen Feld 8	57462	Olpe	51.003138	7.837923	1			~TYPE2:22|~TYPE2:22
+1109327	energielenker service GmbH		Sternbergstraße 38-40	59755	Arnsberg	51.445920	7.968520	1		Keine Beschränkung	DE*EDR*E32000387*1~CCS2:200|DE*EDR*E32000387*2~CCS2:200
+1109556	Prange Green Management GmbH		Reichsstr. 64	58840	Plettenberg	51.232335	7.873550	1			~TYPE2:22|~TYPE2:22
+1109901	Procar Automobile GmbH		Werler Str. 85	58706	Menden	51.451166	7.787590	1			~TYPE2:22|~TYPE2:22
+1109905	Procar Automobile GmbH		Hembergstr. 5	58636	Iserlohn	51.386936	7.705646	1			~TYPE2:22|~TYPE2:22
+1109907	Procar Automobile GmbH		Elseyer Straße 77	58119	Hagen	51.367618	7.550410	1			~TYPE2:22|~TYPE2:22
+1110268	S+K Services GmbH		Olper Hütte 5f	57462	Olpe	51.031254	7.859739	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1112527	Lebensmittelhandel Meierjohann e.K.		Kirchstraße 2	59439	Holzwickede	51.498819	7.619253	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1112591	MM kommerzielle Vermietungen Gummersbach, Hindenburgstraße 35-37 GmbH & Co. KG		Kalrstraße 6	51643	Gummersbach	51.025151	7.568891	1			~TYPE2_TETHERED:22
+1112592	MM kommerzielle Vermietungen Gummersbach, Hindenburgstraße 35-37 GmbH & Co. KG		Hindenburgstraße 35	51643	Gummersbach	51.024665	7.568791	1			~TYPE2_TETHERED:22
+1112784	ITS Informationstechnik Service GmbH		Phoenixseestraße 6	44263	Dortmund	51.488989	7.508482	1			~TYPE2:11
+1113668	Michael Fratz		Linscheider Str. 35	58579	Schalksmühle	51.256253	7.519235	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1114724	Matthes & Soltan OHG		Iserlohner Str, 98	58119	HAgen	51.360753	7.576003	1			~TYPE2:22|~TYPE2:22
+1114797	L'Arrivée Hotel & Spa GmbH		Wittbräucker Str. 565	44267	Dortmund	51.453510	7.511620	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1114905	Mark-E AG		Böddinghauser Feld 1	58840	Plettenberg	51.231370	7.850590	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1114908	Mark-E AG		Brauckstr. 11	58840	Plettenberg	51.232350	7.869560	1	24/7	Keine Beschränkung	~TYPE2:22
+1114957	Mark-E AG		Brauckstr. 11	58840	Plettenberg	51.232350	7.869530	1	24/7	Keine Beschränkung	~TYPE2:22
+1114991	AggerEnergie GmbH	KKH Marienheide	Leppestr. 63z	51709	Marienheide	51.076960	7.524280	1	24/7	Keine Beschränkung	DE*AEG*E00057*001~TYPE2:22|DE*AEG*E00057*002~TYPE2:22
+1114999	Mark-E AG		Brachtstr. 6	58840	Plettenberg	51.213100	7.877370	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1115002	AggerEnergie GmbH		Hömerichstr. 56z	51643	Gummersbach	51.025920	7.540000	1	24/7	Keine Beschränkung	DE*AEG*E00058*001~TYPE2:22|DE*AEG*E00058*002~TYPE2:22
+1115018	AggerEnergie GmbH		Olper Str. 6z	51702	Bergneustadt	51.022240	7.681260	1	24/7	Keine Beschränkung	DE*AEG*E00037*001~TYPE2:22|DE*AEG*E00037*002~TYPE2:22
+1115026	Stadtwerke Lüdenscheid GmbH		Raithelplatz 5	58509	Lüdenscheid	51.227649	7.609110	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116125	Schwerter Strom Management-GmbH		Bachstr. 22	58239	Schwerte	51.433350	7.601832	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116128	Schwerter Strom Management-GmbH		Sauerlandstr. 12	58239	Schwerte	51.442616	7.551018	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116130	Schwerter Strom Management-GmbH		Auf dem Spiekstück 1	58239	Schwerte	51.455016	7.622013	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116324	NetzService Ruhr GmbH	Hotel zur Post Balve-Eisborn	Eisborner Dorfstr. 3	58802	Balve	51.386179	7.884165	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116326	NetzService Ruhr GmbH		Clemens-Brentano-Str. 66	58710	Menden (Sauerland)	51.420551	7.844608	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1116670	Lebensmittelhandel Meierjohann e.K.		Sölder Str. 145	44289	Dortmund	51.492580	7.586910	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1116732	EnBW mobility+ AG und Co.KG		Am Paulshof 32-34	58119	Hagen	51.371400	7.548650	1		Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1116967	Oliver Tomaschewski		Kapellenstr. 30a	58739	Wickede (Ruhr)	51.496523	7.857862	1	Mo-Do 12:00-17:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1117242	André Stötzel		Schwerter Str. 294b	44287	Dortmund	51.481410	7.559350	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1117594	Heidemann Makleragentur		Baumbach 12	59759	Arnsberg	51.433946	7.965970	1	24/7	Keine Beschränkung	~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22
+1118619	SolarLoader+ GmbH	IJH-LIS_Spannstiftstraße 54	Spannstiftstr. 54	58119	Hagen	51.369770	7.549060	1	24/7	Keine Beschränkung	DE*SLP*E0000015~TYPE2_TETHERED:22
+1118620	SolarLoader+ GmbH	IJH-LIS_Spannstiftstraße 54	Spannstiftstr. 54	58119	Hagen	51.369850	7.548360	1	24/7	Keine Beschränkung	DE*SLP*E0000016~TYPE2_TETHERED:22
+1118621	SolarLoader+ GmbH	IJH-LIS_Spannstiftstraße 54	Spannstiftstr. 54	58119	Hagen	51.369830	7.548540	1	24/7	Keine Beschränkung	DE*SLP*E0000017~TYPE2_TETHERED:22
+1118622	SolarLoader+ GmbH	IJH-LIS_Färberstraße 4	Färberstr. 4	58119	Hagen	51.357620	7.557100	1	24/7	Keine Beschränkung	DE*SLP*E0000018~TYPE2_TETHERED:22|DE*SLP*E0000019~TYPE2_TETHERED:22|DE*SLP*E0000020~TYPE2_TETHERED:22|DE*SLP*E0000021~TYPE2_TETHERED:22|DE*SLP*E0000022~TYPE2_TETHERED:22|DE*SLP*E0000023~TYPE2_TETHERED:22|DE*SLP*E0000024~TYPE2_TETHERED:22
+1118740	Eviny	Rewe Halver	Von-Vincke-Str. 42	58553	Halver	51.189726	7.503823	1	24/7	Keine Beschränkung	DE*EVY*ERHA1*A~CCS2:400|DE*EVY*ERHA1*B~CCS2:400
+1118875	Edeka Wirths - Bergneustadt	Edeka Wirths - Bergneustadt	Kölner Str. 113	51702	Bergneustadt	51.016248	7.637831	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1118877	Edeka Wirths - Bergneustadt	Edeka Wirths - Bergneustadt	Kölner Str. 113	51702	Bergneustadt	51.016260	7.637808	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1119004	Lidl	6654_Lidl_Halver_T65-IT1-0623-140	Herpiner Weg 1	58553	Halver	51.187810	7.507990	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1120265	ALDI Nord	Parkplatz	Altenaer Str. 29	58762	Altena	51.297800	7.748200	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1120276	ALDI Nord	Parkplatz	In der Hützenau 2	57489	Drolshagen	51.032000	7.766000	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1120549	Schwerter Strom Management-GmbH		Wasserstr. 40	58239	Schwerte	51.416817	7.533811	1	24/7	Keine Beschränkung	DE*ISE*EA156281~TYPE2:22
+1120550	Schwerter Strom Management-GmbH		Wasserstr. 15	58239	Schwerte	51.418340	7.535035	1	24/7	Keine Beschränkung	DE*ISE*EA125226~TYPE2:22|DE*ISE*EA194221~TYPE2:22
+1120551	Schwerter Strom Management-GmbH		Friedrich-Hegel-Str. 80	58239	Schwerte	51.442843	7.548443	1	24/7	Keine Beschränkung	DE*ISE*EA152185~TYPE2:22|DE*ISE*EA153164~TYPE2:22
+1120553	Schwerter Strom Management-GmbH		Messingstr. 1	58239	Schwerte	51.452111	7.571424	1	24/7	Keine Beschränkung	DE*ISE*EA143464~TYPE2:22|DE*ISE*EA178419~TYPE2:22
+1120555	Schwerter Strom Management-GmbH		Schmalzkamp 21	58239	Schwerte	51.461041	7.559931	1	24/7	Keine Beschränkung	DE*ISE*EA153629~TYPE2:22|DE*ISE*EA136941~TYPE2:22
+1120866	G-DS Gängler DatenService		Albertweg 22	59757	Arnsberg	51.459760	7.936896	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1120939	IONITY GmbH	Lichtendorf Nord	Römerstr. 28	44289	Dortmund	51.468319	7.594014	1	24/7	Nur für Kunden/Besucher	DE*IOY*E206905~CCS2:350|DE*IOY*E206906~CCS2:350
+1120945	IONITY GmbH	Lichtendorf Süd	Lichtendorfer Str. 0	58239	Schwerte	51.467751	7.596959	1	24/7	Nur für Kunden/Besucher	DE*IOY*E207005~CCS2:350|DE*IOY*E207006~CCS2:350
+1121193	Mark-E AG	Hagen - DC-Schnelllader Pendler-Parkpl. HA-Süd (200 kW)	Zur Hünenpforte 1	58093	Hagen	51.348550	7.529870	1	24/7	Keine Beschränkung	DEMKEE027303~CCS2:200|DEMKEE027304~CCS2:200|DEMKEE027301~CCS2:300|DEMKEE027302~CCS2:300
+1121244	AEF - Alternatives Energie Forum GmbH & Co. KG		Sternstr. 6-8	59755	Arnsberg	51.455460	7.967870	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1121486	FaktorEnergie GmbH		Graf-Gottfried-Str. 92	59755	Arnsberg	51.453964	7.974907	1	24/7	Keine Beschränkung	DE*MDS*E002750~TYPE2:22|DE*MDS*E002747~TYPE2:22
+1121634	Schwerter Strom Management-GmbH		Heidekamp 78	58239	Schwerte	51.458522	7.560021	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1126171	Klaus Harmann	Rostergeweg	Rostergeweg 3	44269	Dortmund	51.494796	7.542440	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2_TETHERED:11
+1126801	Shell Deutschland GmbH	10024909_Menden	Mendener Str. 1	58710	Menden (Sauerland)	51.417190	7.828307	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1126831	Dortmunder Energie- und Wasserversorgung GmbH	Schwerte, Hagener Str. 68	Hagener Str. 68	58239	Schwerte	51.437050	7.563860	1	24/7	Nur für Kunden/Besucher	DE*DEW*E00866*001~CCS2:200|DE*DEW*E00866*002~CCS2:200
+1126832	Dortmunder Energie- und Wasserversorgung GmbH	Schwerte, Hagener Str. 68	Hagener Str. 68	58239	Schwerte	51.437050	7.563840	1	24/7	Nur für Kunden/Besucher	DE*DEW*E00868*001~CCS2:200|DE*DEW*E00868*002~CCS2:200|DE*DEW*E00867*001~CCS2:200|DE*DEW*E00867*002~CCS2:200
+1126939	Dortmunder Energie- und Wasserversorgung GmbH	Overkamp	Am Ellberg 1	44265	Dortmund	51.450268	7.505804	1	24/7	Nur für Kunden/Besucher	DE*DEW*E00879*001~TYPE2:22|DE*DEW*E00879*002~TYPE2:22|DE*DEW*E00880*001~TYPE2:22|DE*DEW*E00880*002~TYPE2:22
+1126942	Dortmunder Energie- und Wasserversorgung GmbH	Overkamp	Am Ellberg 1	44265	Dortmund	51.450379	7.505731	1	24/7	Nur für Kunden/Besucher	DE*DEW*E00878*001~CCS2:50|DE*DEW*E00878*002~CCS2:50
+1127285	ALDI Nord		Herscheider Str. 14-16	58840	Plettenberg	51.209700	7.870200	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1127433	Pfalzwerke AG	OBI Lüdenscheid (ALP22270X01399)	Brunscheider Str. 51	58513	Lüdenscheid	51.238453	7.676027	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01399*01~CCS2:300|DE*PWA*EALP22270X01399*02~CCS2:300
+1127435	Pfalzwerke AG	OBI Lüdenscheid (ALP22270X01400)	Brunscheider Str. 51	58513	Lüdenscheid	51.238432	7.675823	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01400*01~CCS2:300|DE*PWA*EALP22270X01400*02~CCS2:300
+1127437	Pfalzwerke AG	OBI Lüdenscheid (ALP22537X01398)	Brunscheider Str. 51	58513	Lüdenscheid	51.238445	7.675924	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01398*01~CCS2:50|DE*PWA*EALP22537X01398*02~CCS2:50
+1127853	Mark-E AG		Bahnhofstr. 14	58675	Hemer	51.386709	7.768850	1	24/7	Keine Beschränkung	DEMKEE027101~CCS2:50|DEMKEE027102~TYPE2:22|DEMKEE027103~CCS2:50|DEMKEE027104~TYPE2:22
+1128081	Mark-E AG		Spormecke 2	58579	Schalksmühle	51.258490	7.570340	1	24/7	Keine Beschränkung	DEMKEE023001~TYPE2:22|DEMKEE023002~TYPE2:22
+1128082	Mark-E AG		Im Schlah 19	58579	Schalksmühle	51.237130	7.525160	1	24/7	Keine Beschränkung	DEMKEE023101~TYPE2:22|DEMKEE023102~TYPE2:22
+1128155	Wattif Europe GmbH	Menden St. Vinzenz Krankenhaus Am Stein 24	Am Stein 24	58706	Menden (Sauerland)	51.437213	7.799904	1	24/7	Keine Beschränkung	DE*WAT*EW049059001~TYPE2:22|DE*WAT*EW049059002~TYPE2:22|DE*WAT*EW049059003~TYPE2:22|DE*WAT*EW049059004~TYPE2:22|DE*WAT*EW049059005~TYPE2:22|DE*WAT*EW049059006~TYPE2:22|DE*WAT*EW049059007~TYPE2:22|DE*WAT*EW049059008~TYPE2:22
+1128298	BayWa Mobility Solutions GmbH		Akeleiweg 2	58638	Iserlohn	51.387716	7.676463	1	24/7	Keine Beschränkung	DE*122*E7023301~CCS2:150|DE*122*E7023302~CCS2:150
+1128393	Eviny	Halver	Von-Vincke-Str. 42	58553	Halver	51.189920	7.502630	1	24/7	Keine Beschränkung	DE*EVY*ERHA2*A~CCS2:200|DE*EVY*ERHA2*B~CCS2:200
+1129154	GP JOULE Connect GmbH	DE*CNT*EP06123*002	Am Sportplatz 2	58553	Halver	51.183275	7.509734	1	24/7	Keine Beschränkung	DE*CNT*EP06123*002*1~CCS2:150|DE*CNT*EP06123*002*2~CCS2:150|DE*CNT*EP06123*001*1~CCS2:150|DE*CNT*EP06123*001*2~CCS2:150
+1129190	AggerEnergie GmbH		Bunsenstr. 5	51647	Gummersbach	51.050450	7.541730	1	24/7	Keine Beschränkung	DE*AEG*E00061*001~TYPE2:22|DE*AEG*E00061*002~TYPE2:22|DE*AEG*E00062*001~TYPE2:22|DE*AEG*E00062*002~TYPE2:22
+1129536	Märkischer Kreis - Der Landrat	Eugen Schmalenbach Berufskolleg	Eugen-Schmalenbach-Str. 1	58553	Halver	51.207840	7.553800	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129537	Märkischer Kreis - Der Landrat	Gertrud-Bäumer-BK + Berufskolleg Technik Lüdenscheid	Raithelplatz 5	58509	Lüdenscheid	51.227430	7.609860	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129538	Märkischer Kreis - Der Landrat	Kreishaus Lüdenscheid - Märkischer Kreis	Heedfelder Str. 45	58509	Lüdenscheid	51.224360	7.613460	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129540	Märkischer Kreis - Der Landrat	Berufskolleg Land- und Gartenbau Letmathe	Aucheler Str. 18	58642	Iserlohn	51.371920	7.603310	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1129786	Märkischer Kreis - Der Landrat	Eugen Schmalenbach Berufskolleg	Eugen-Schmalenbach-Str. 1	58553	Halver	51.207770	7.553950	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129787	Märkischer Kreis - Der Landrat	Eugen Schmalenbach Berufskolleg	Eugen-Schmalenbach-Str. 1	58553	Halver	51.207890	7.553900	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129789	Märkischer Kreis - Der Landrat	Kreishaus Lüdenscheid - Märkischer Kreis	Heedfelder Str. 45	58509	Lüdenscheid	51.224430	7.613550	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1129792	Märkischer Kreis - Der Landrat	Kreishaus Lüdenscheid - Märkischer Kreis	Heedfelder Str. 45	58509	Lüdenscheid	51.224320	7.613420	1		Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1131399	Bäckerei Franzes GmbH	Bäckerei Franzes Arnsberg-Müschede	Rönkhauser Str. 70	59757	Arnsberg	51.401320	7.998350	1	Mo-Fr 06:00-18:00, Sa 06:00-14:00, So 07:00-14:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1131545	EWE Go GmbH	EWE_7426_1A	Christian-Liebrecht-Str. 1	58739	Wickede (Ruhr)	51.494028	7.865398	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1133218	ALDI Nord		Hälverstr. 51	58579	Schalksmühle	51.237300	7.529300	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1134118	Christian Schulte	Wallbox 1	Pottenberg 1a	59757	Arnsberg	51.415023	7.911320	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1134246	NetzService Ruhr GmbH	Overhuesstraße	Overhuesstr. 4	58706	Menden (Sauerland)	51.423198	7.793303	1	24/7	Keine Beschränkung	DENSREM03601~TYPE2:22|DENSREM03602~TYPE2:22
+1134248	NetzService Ruhr GmbH	Overhuesstraße	Ober der Becke 13	58706	Menden (Sauerland)	51.450789	7.764834	1	24/7	Keine Beschränkung	DENSREM03801~TYPE2:22|DENSREM03802~TYPE2:22
+1134250	NetzService Ruhr GmbH	Walramstr.	Walramstr. 8	58706	Menden (Sauerland)	51.433551	7.798321	1	24/7	Keine Beschränkung	DENSREM03701~TYPE2:22|DENSREM03702~TYPE2:22|DENSREM03703~TYPE2:22|DENSREM03704~TYPE2:22
+1134260	NetzService Ruhr GmbH	Hämmer	Am Riekenbrauck 0	58708	Menden (Sauerland)	51.447912	7.744789	1	24/7	Keine Beschränkung	DENSREM03901~TYPE2:22|DENSREM03902~TYPE2:22|DENSREM03903~TYPE2:22|DENSREM03904~TYPE2:22
+1134381	Schwerter Strom Management-GmbH		Hermann-von-Wanthoff-Str. 67	58239	Schwerte	51.434227	7.555648	1	24/7	Keine Beschränkung	DE*ISE*EA177968~TYPE2:22|DE*ISE*EA112179~TYPE2:22|DE*ISE*EA188399~TYPE2:22|DE*ISE*EA168767~TYPE2:22|DE*ISE*EA186919~TYPE2:22|DE*ISE*EA159641~TYPE2:22
+1134947	TotalEnergies Charging Solutions		Am Güterbahnhof 1	58507	Lüdenscheid	51.220526	7.628282	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50080*002*1~CCS2:200|DE*TCB*E3D9CS50080*002*2~CCS2:200|DE*TCB*E3D9CS50080*001*1~CCS2:200|DE*TCB*E3D9CS50080*001*2~CCS2:200
+1135543	ETO Volts GmbH	Gummersbach	Gummersbacher Str. 67-71	51645	Gummersbach	51.014012	7.571806	1	24/7	Keine Beschränkung	E111X~CCS2:150|E2DZ9~CCS2:150
+1135598	Stadtwerke Iserlohn GmbH	Parkplatz Kundencenter	Stefanstr. 4-8	58638	Iserlohn	51.378026	7.694524	1	24/7	Keine Beschränkung	DE*ISE*E0013781~TYPE2:22|DE*ISE*E0013783~TYPE2:22
+1138700	Bernd Breuer		Vom Hölchen 4	57462	Olpe	51.070000	7.840000	1	Mo-Fr 08:00-16:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1139257	Michael Striepen		Rheinener Weg 48	58239	Schwerte	51.439390	7.621370	1	Mo-Do 08:00-17:30, Fr 08:30-15:30	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1141064	Hoppmann Automobil GmbH		Bruchstr. 85	57462	Olpe	51.017059	7.840533	1			~TYPE2_TETHERED:22|~TYPE2:11
+1141152	Tiemeyer automobile GmbH & Co. KG		Nottebohmstr. 2	58511	Lüdenscheid	51.213376	7.658865	1			~TYPE2:11|~TYPE2_TETHERED:22
+1141159	Tiemeyer automobile GmbH & Co.KG		Bamenohler Str. 119	57413	Finnentrop	51.168389	7.976711	1			~TYPE2:11|~TYPE2_TETHERED:22
+1141160	Tiemeyer automobile GmbH & Co.KG		Kettling 39	58791	Werdohl	51.258957	7.793821	1			~TYPE2:11|~TYPE2_TETHERED:22
+1141647	Westfalen AG & Co. KG	Markant Tankstelle Gummersbach	Brückenstr. 85	51643	Gummersbach	51.023584	7.554144	1	24/7	Keine Beschränkung	DE*WAG*EE1051~CCS2:150|DE*WAG*EE2051~CCS2:150
+1141683	Stadtwerke Lüdenscheid GmbH		Hueckstr. 16	58511	Lüdenscheid	51.220540	7.659170	1	24/7	Keine Beschränkung	DESLGE003301~TYPE2:22|DESLGE003302~TYPE2:22
+1143678	Aral Pulse		Am alten Bahnhof 1	51645	Gummersbach	51.003506	7.576107	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1143860	Märkischer Kreis - Der Landrat	Hönne-Berufskolleg Menden	Werler Str. 4	58706	Menden (Sauerland)	51.444050	7.788320	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1143863	Märkischer Kreis - Der Landrat	Hönne-Berufskolleg Menden	Werler Str. 4	58706	Menden (Sauerland)	51.444005	7.788356	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1143864	Märkischer Kreis - Der Landrat	Wilhelm Busch Schule Hemer	Iserlohner Str. 13	58675	Hemer	51.373297	7.752740	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1144180	Tank & Wasch Udo Rosch	Bosch Car Service Udo Rosch	Esperantostr. 5	59846	Sundern (Sauerland)	51.295544	7.983984	1	24/7	Keine Beschränkung	DE*HEC*E20770270*1~CCS2:200|DE*HEC*E20770270*2~CCS2:200
+1144265	Angelika Kaisig		Lingen 1	58553	Halver	51.198496	7.525692	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1144658	Schwerter Strom Management-GmbH	Park & Ride Parkplatz A45	Ruhrtalstr. 0	58239	Schwerte	51.410675	7.553240	1	24/7	Keine Beschränkung	DE*ISE*EA112679~CCS2:400|DE*ISE*EA135941~CCS2:400|DE*ISE*EA119223~CCS2:400|DE*ISE*EA132885~CCS2:400|DE*ISE*EA132155~CCS2:400|DE*ISE*EA144376~CCS2:400|DE*ISE*EA129864~CCS2:200|DE*ISE*EA144823~CCS2:200|DE*ISE*EA112281~CCS2:200|DE*ISE*EA115471~CCS2:200
+1145499	autostrom.plus	Neuenschmiede Ost Fahrtrichtung Dortmund	Käte-Strobel-Weg 0	51647	Gummersbach	51.078772	7.697011	1	24/7	Keine Beschränkung	DE*AUP*E16401*01~CCS2:400|DE*AUP*E16401*02~CCS2:400
+1145500	autostrom.plus	Neuenschmiede Ost Fahrtrichtung Dortmund	Käte-Strobel-Weg 0	51647	Gummersbach	51.078722	7.697052	1	24/7	Keine Beschränkung	DE*AUP*E16402*01~CCS2:400|DE*AUP*E16402*02~CCS2:400
+1146143	Schwerter Strom Management-GmbH		Hohlweg 2	58239	Schwerte	51.420740	7.525160	1	24/7	Keine Beschränkung	DE*ISE*EA173341~TYPE2:22|DE*ISE*EA157568~TYPE2:22
+1148253	Dortmunder Energie- und Wasserversorgung GmbH	DEW21 - Wittbräucker Str. 630 (Haus Prein)	Wittbräucker Str. 630	44265	Dortmund	51.448696	7.505258	1	24/7	Keine Beschränkung	DE*DEW*E00916*001~CCS2:50|DE*DEW*E00916*002~CCS2:50
+1148255	Dortmunder Energie- und Wasserversorgung GmbH	DEW21 - Elias Gemeinde	Fasanenweg 18	44269	Dortmund	51.476820	7.531809	1	24/7	Keine Beschränkung	DE*DEW*E00911*001~CCS2:50|DE*DEW*E00911*002~CCS2:50
+1151410	Wirelane GmbH	Trapphofstraße 3, 44287 Dortmund	Trapphofstraße 3	44287	Dortmund	51.497722	7.566583	1		Keine Beschränkung	DE*WLN*EP000287~TYPE2:22|DE*WLN*EP000288~TYPE2:22
+1151657	Wirelane GmbH	Humboldtstraße ggü. 12, 58511 Lüdenscheid	Humboldtstraße 12	58511	Lüdenscheid	51.217578	7.632356	1		Keine Beschränkung	DE*WLN*EP000659~TYPE2:22|DE*WLN*EP000660~TYPE2:22
+1151658	Wirelane GmbH	Dukatenweg 1, 58507 Lüdenscheid	Dukatenweg 1	58507	Lüdenscheid	51.222038	7.622968	1		Keine Beschränkung	DE*WLN*EP000661~TYPE2:22|DE*WLN*EP000662~TYPE2:22
+1151953	Wirelane GmbH		Kölner Str. 17	58509	Lüdenscheid	51.216082	7.626641	1		Keine Beschränkung	DE*WLN*EP000730~CCS2:50|DE*WLN*EP000731~CCS2:50
+1152052	Wirelane GmbH		Graf-Gottfried-Straße 1	59755	Arnsberg	51.447378	7.968593	1		Keine Beschränkung	DE*WLN*ES001527~TYPE2:11|DE*WLN*ES001528~TYPE2:11|DE*WLN*ES001529~TYPE2:11|DE*WLN*ES001530~TYPE2:11|DE*WLN*ES001531~TYPE2:11|DE*WLN*ES001532~TYPE2:11
+1152394	Mark-E AG	Hagen - Arcadeon Tagungshotel WB1	Lennestr. 91	58093	Hagen	51.379970	7.520590	1	24/7	Keine Beschränkung	DEMKEE027701~TYPE2:22|DEMKEE027702~TYPE2:22
+1153071	Westfalen Weser Ladeservice GmbH	6300101	St.-Ursula-Str. 12	57439	Attendorn	51.122592	7.893642	1	24/7	Keine Beschränkung	DE*WWL*E6300101*04~TYPE2:22|DE*WWL*E6300101*05~TYPE2:22
+1154085	EnBW mobility+ AG und Co.KG	Euronics Hagen	Elseyer Straße 12-14	58119	Hagen	51.362535	7.558388	1	24/7	Keine Beschränkung	DE*EBW*E911530*1~CCS2:93|DE*EBW*E911530*2~CCS2:93
+1154438	Märkischer Kreis - Der Landrat	Straßenverkehrsamt Iserlohn Griesenbrauck	Griesenbraucker Str. 6	58640	Iserlohn	51.398974	7.708283	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1155192	Aral Pulse		Brückenstr. 83	51643	Gummersbach	51.023558	7.555026	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1155699	Montag Service GmbH	MSG127 / LANGE WENDE 42	Lange Wende 42	59755	Arnsberg	51.446665	7.963222	1	24/7	Keine Beschränkung	7132215~TYPE2_TETHERED:22|7132215~TYPE2_TETHERED:22
+1155987	Märkischer Kreis - Der Landrat	Carl Sonnenschein Schule	Gertrudisstr. 10b	58640	Iserlohn	51.420177	7.710810	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1155988	Märkischer Kreis - Der Landrat	Carl Sonnenschein Schule	Gertrudisstr. 10b	58640	Iserlohn	51.420192	7.710875	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1156670	Watttanke GmbH	EKZ Wiedenest	Olper Str. 52-60	51702	Bergneustadt	51.028789	7.688606	1	24/7	Keine Beschränkung	DECPIE7391645~CCS2:75|DECPIE7391645~CCS2:75
+1157024	Wirelane GmbH		Wiesenstraße 38	58119	Hagen	51.363583	7.573500	1		Keine Beschränkung	DE*WLN*EP001385~TYPE2:22|DE*WLN*EP001386~TYPE2:22
+1157025	Wirelane GmbH		Cunostr. 10	58093	Hagen	51.351694	7.505944	1		Keine Beschränkung	DE*WLN*EP001387~TYPE2:22|DE*WLN*EP001388~TYPE2:22
+1157125	Wirelane GmbH		Am Marksbach 28	44269	Dortmund	51.481223	7.509830	1		Keine Beschränkung	DE*WLN*ES001759~TYPE2:11|DE*WLN*ES001760~TYPE2:11|DE*WLN*ES001761~TYPE2:11|DE*WLN*ES001762~TYPE2:11
+1157156	Wirelane GmbH		Auf der Kugel 1	58093	Hagen	51.354528	7.505917	1		Keine Beschränkung	DE*WLN*EP000513~TYPE2:22|DE*WLN*EP000514~TYPE2:22
+1157748	Wirelane GmbH		Reiterweg 1	58636	Iserlohn	51.386192	7.726805	1		Keine Beschränkung	DE*WLN*EP004087~CCS2:50|DE*WLN*EP004088~CCS2:50
+1157897	EnBW mobility+ AG und Co.KG	REWE Gummersbach, Am alten Bahnhof	Am Alten Bahnhof 5	51645	Gummersbach	51.003030	7.574090	1	24/7	Keine Beschränkung	DE*EBW*E914078*1~CCS2:400|DE*EBW*E914078*2~CCS2:400|DE*EBW*E914077*1~CCS2:200|DE*EBW*E914077*2~CCS2:200|DE*EBW*E914179*1~CCS2:200|DE*EBW*E914179*2~CCS2:200|DE*EBW*E914180*1~CCS2:100|DE*EBW*E914180*2~CCS2:100
+1158087	Stadtwerke Iserlohn GmbH	Einfahrt Festplatz Seilersee	Seeuferstr. 55z	58636	Iserlohn	51.387534	7.711440	1	24/7	Keine Beschränkung	DE*ISE*E0020968~CCS2:200|DE*ISE*E0020966~CCS2:200
+1158291	EnBW mobility+ AG und Co.KG	Euronics Arnsberg-Neheim	Stembergstraße 60	59755	Arnsberg	51.444021	7.967238	1	24/7	Keine Beschränkung	DE*EBW*E911522*1~CCS2:100|DE*EBW*E911522*2~CCS2:100|DE*EBW*E911525*1~CCS2:100|DE*EBW*E911525*2~CCS2:100
+1158403	Märkischer Kreis - Der Landrat	Ladestation Kreishaus Altena	Bismarckstr. 15	58762	Altena	51.297442	7.671663	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1160697	MER Germany	Lüdenscheid (DE*MER*E002991)	Gustavstr. 3	58511	Lüdenscheid	51.211214	7.649692	1	24/7	Keine Beschränkung	DE*MER*E002991*01~TYPE2:22|DE*MER*E002997*01~TYPE2:22|DE*MER*E003250*01~TYPE2:22
+1160698	MER Germany	Lüdenscheid (DE*MER*E002996)	Baukloh 12	58515	Lüdenscheid	51.205090	7.630490	1	24/7	Keine Beschränkung	DE*MER*E002996*01~TYPE2:22
+1160706	MER Germany	Lüdenscheid (DE*MER*E002998)	Wefelshohler Str. 25	58511	Lüdenscheid	51.212913	7.651999	1	24/7	Keine Beschränkung	DE*MER*E002998*01~TYPE2:22|DE*MER*E003249*01~TYPE2:22|DE*MER*E003251*01~TYPE2:22
+1161425	Schultheis PowerSolutions GmbH	Fuchs	Burgholdinghauser Weg 29	57223	Kreuztal	51.006428	7.983649	1	24/7	Keine Beschränkung	32598359~TYPE2_TETHERED:11
+1162133	Stark Energy GmbH	Stark Energy Ladepark Dortmund - 24BZ0595F	Köln-Berliner Str. 18	44287	Dortmund	51.493806	7.556327	1	24/7	Keine Beschränkung	DE*ARK*E10050*001~CCS2:400|DE*ARK*E10050*002~CCS2:400
+1162134	Stark Energy GmbH	Stark Energy Ladepark Dortmund - 24BZ0600F	Köln-Berliner Str. 18	44287	Dortmund	51.493681	7.556085	1	24/7	Keine Beschränkung	DE*ARK*E10051*001~CCS2:400|DE*ARK*E10051*002~CCS2:400
+1162148	NetzService Ruhr GmbH	Burger King	Carl-Schmöle-Str. 2	58706	Menden (Sauerland)	51.443865	7.785020	1	24/7	Keine Beschränkung	DENSREM04001~CCS2:150|DENSREM04002~CCS2:150
+1162491	Metrio GmbH		Auf der Breihe 7	59469	Ense	51.492021	7.968494	1	Mo-Do 00:00-23:59, Fr 00:00-17:00, So 22:00-23:59	Keine Beschränkung	DE*EDL*E2237109*001~TYPE2:22|DE*EDL*E2237109*002~TYPE2:22
+1162750	Vattenfall Smarter Living GmbH	T184_IT1_2424_037	Sleperstr. 20	59757	Arnsberg	51.455990	7.937730	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*2424*037*1~CCS2:180|DE*VAT*E*T184*IT1*2424*037*2~CCS2:180
+1163105	Shell Deutschland GmbH		Stembergstr. 80	59755	Arnsberg	51.442417	7.968167	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300

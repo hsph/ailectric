@@ -19,6 +19,7 @@ import app.ailectric.core.search.Freshness
 import app.ailectric.core.search.SearchCache
 import app.ailectric.core.search.StationRepository
 import com.google.common.truth.Truth.assertThat
+import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.test.runTest
 import org.junit.Assert.fail
 import org.junit.Test
@@ -96,10 +97,18 @@ class SearchTest {
         }
     }
 
-    @Test fun `secondary provider takes over and the reason is reported`() = runTest {
+    @Test fun `all sources are asked, not only the first that answers`() = runTest {
+        val first = FakeStations("ocm", ok(near))
+        val second = FakeStations("osm", ok(far))
+        val r = repo(first, second).load(center, 50_000.0)
+        assertThat(r.stations.map { it.id }).containsExactly("a", "b")
+        assertThat(second.calls).isEqualTo(1)
+    }
+
+    @Test fun `a failing source leaves the others and the reason is reported`() = runTest {
         val primary = FakeStations("ocm") { throw ProviderException("kein Schlüssel", retryable = false) }
         val r = repo(primary, FakeStations("osm", ok(near))).load(center, 50_000.0)
-        assertThat(r.providerId).isEqualTo("osm")
+        assertThat(r.stations.map { it.id }).containsExactly("a")
         assertThat(r.notice).isEqualTo("kein Schlüssel")
     }
 
@@ -111,6 +120,50 @@ class SearchTest {
             fail("expected failure")
         } catch (e: ProviderException) {
             assertThat(e.message).isEqualTo("kein Schlüssel · Overpass ausgelastet")
+        }
+    }
+
+    @Test fun `results of a fast source appear before a slow one is done`() = runTest {
+        val gate = CompletableDeferred<Unit>()
+        val slow = object : StationProvider {
+            override val id = "osm"
+            override suspend fun search(query: StationQuery): StationResult {
+                gate.await()
+                return StationResult(listOf(far), false)
+            }
+        }
+        val partials = mutableListOf<List<String>>()
+        val r = repo(FakeStations("ocm", ok(near)), slow).load(center, 50_000.0) {
+            partials += it.stations.map { s -> s.id }
+            gate.complete(Unit)
+        }
+        assertThat(partials).containsExactly(listOf("a"))
+        assertThat(r.stations.map { it.id }).containsExactly("a", "b")
+    }
+
+    @Test fun `a local source needs no cache and offline only it still answers`() = runTest {
+        val local = object : StationProvider {
+            override val id = "bnetza"
+            override val local = true
+            override suspend fun search(query: StationQuery) = StationResult(listOf(near), false)
+        }
+        val r = repo(local, FakeStations("ocm", offline)).load(center, 50_000.0)
+        assertThat(r.stations.map { it.id }).containsExactly("a")
+        assertThat(r.notice).isEqualTo("offline")
+        assertThat(cache.coverage).isEmpty()
+    }
+
+    @Test fun `a local source with nothing here does not hide that the network is down`() = runTest {
+        val empty = object : StationProvider {
+            override val id = "bnetza"
+            override val local = true
+            override suspend fun search(query: StationQuery) = StationResult(emptyList(), false)
+        }
+        try {
+            repo(empty, FakeStations("ocm", offline)).load(center, 50_000.0)
+            fail("expected failure")
+        } catch (e: ProviderException) {
+            assertThat(e.message).isEqualTo("offline")
         }
     }
 

@@ -1,0 +1,55 @@
+1001005	Stadtwerke Pritzwalk GmbH		Meyenburger Straße 1	16928	Pritzwalk	53.151804	12.177141	1			~CCS2:50+CHADEMO:50|~TYPE2:22|~TYPE2_TETHERED:43
+1001006	Stadtwerke Pritzwalk GmbH		Bahnhofstraße 1	16928	Pritzwalk	53.145798	12.182030	1			~TYPE2:22|~TYPE2:22
+1001007	Stadtwerke Pritzwalk GmbH		Bahnhofstraße 1	16928	Pritzwalk	53.145780	12.181941	1			~TYPE2:22|~TYPE2:22
+1001008	Stadtwerke Pritzwalk GmbH		Parkstraße 9	16928	Pritzwalk	53.147888	12.176525	1			~TYPE2:22|~TYPE2:22
+1001009	Stadtwerke Pritzwalk GmbH		Postplatz 1	16928	Pritzwalk	53.148217	12.180087	1			~TYPE2:22|~TYPE2:22
+1009228	Shell Deutschland GmbH		Röbeler Chaussee 3	17209	Bütow	53.361254	12.496832	1			~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1026774	EnBW mobility+ AG und Co.KG		Uetersener Str. 2	16909	Wittstock/Dosse	53.158488	12.455837	1			~CCS2:150|~CCS2:150
+1027880	EnBW mobility+ AG und Co.KG		Rostocker Straße 2	16928	Pritzwalk	53.158520	12.171940	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1030553	Fastned Deutschland GmbH & Co. KG		Hamburgerstraße 0	16909	Wittstock/Dosse	53.157440	12.451240	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300
+1034771	E.DIS AG		Wilhemsplatz 3	16945	Meyenburg	53.313042	12.244179	1			~TYPE2:22|~TYPE2:22
+1035082	WEMAG AG		Quitziner Straße 2	19395	Plau am See	53.462082	12.265593	1			~TYPE2:22|~TYPE2:22
+1038512	Landhotel Prignitzer Hof		Hauptstraße Buchholz 4	16928	Pritzwalk	53.120213	12.182083	1			~TYPE2:11|~TYPE2:11
+1039746	IONITY GmbH		Heiligengrabe 0	16909	Heiligengrabe	53.147243	12.398704	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|DE*IOY*E218107~CCS2:350|DE*IOY*E218108~CCS2:350|DE*IOY*E218109~CCS2:350|DE*IOY*E218110~CCS2:350|DE*IOY*E218111~CCS2:350|DE*IOY*E218112~CCS2:350
+1045121	EMB Energie Brandenburg GmbH		Am Bahnhof 2	16909	Wittstock /Dosse	53.161262	12.478543	1	24/7	Keine Beschränkung	DE*EMB*E*0*00401~TYPE2:22|DE*EMB*E*0*00402~TYPE2:22
+1049725	E.ON Drive Infrastructure		Raststätte Prignitz Ost 0	16909	Heiligengrabe	53.115207	12.469085	1			~CCS2:50|~CCS2:50
+1049728	E.ON Drive Infrastructure		Raststätte Prignitz West 0	16909	Heiligengrabe	53.115301	12.466908	1			~CCS2:50|~CCS2:50
+1067123	Ferienhäuser Plau am See GbR		Kantor-Ehrich-Str. 42 j	19395	Plau am See	53.472440	12.286880	1			~TYPE2:11
+1067124	Ferienhäuser Plau am See GbR		Kantor-Ehrich-Str. 42 c	19395	Plau am See	53.472690	12.286020	1			~TYPE2:11
+1069108	WEMAG AG		Am Markt 22	19386	Lübz	53.462000	12.030000	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1072357	Stadtwerke Neuruppin GmbH		Rheinsberger Straße 18	16909	Wittstock/Dosse	53.163095	12.497294	1			~TYPE2:22|~TYPE2:22
+1072358	Stadtwerke Neuruppin GmbH		Gröper Straße 1	16909	Wittstock/Dosse	53.163401	12.486011	1			~TYPE2:22|~TYPE2:22
+1072372	Stadtwerke Neuruppin GmbH		Wittstocker Chaussee 1	16909	Heiligengrabe	53.146633	12.379056	1			~TYPE2:22|~TYPE2:22
+1075270	Eneco eMobility B.V.		Insel Werder 6	17214	Alt Schwerin	53.491760	12.324303	1			~TYPE2:22|~TYPE2:22
+1084579	Alexander-Benjamin Thomas		Dorfring 42	16945	Marienfließ	53.316920	12.173840	1			~TYPE2_TETHERED:11
+1084954	Bernd Willführ		Siedlung links 6A	16949	Putlitz	53.244116	12.043784	1			~TYPE2:7
+1096761	Autohaus Jensen Wittstock GmbH		Hamburger Straße 1	16909	Wittstock/Dosse	53.157337	12.452296	1			~CCS2:22|~TYPE2:11
+1099754	Vattenfall Smarter Living GmbH		Polthierstraße 14	16909	Wittstock/Dosse	53.156304	12.482213	1			~CCS2:180|~CCS2:180
+1106534	E.ON Drive GmbH		Prignitz Ost 0	16909	Wittstock/Dosse	53.115306	12.468818	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106535	E.ON Drive GmbH		Prignitz West 0	16909	Wittstock/Dosse	53.115138	12.466601	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1109795	Ferien- und Tagungszentrum Alt Schweriner Werder GmbH & Co.KG		Insel Werder 6	17214	Alt Schwerin	53.491646	12.324321	1			~TYPE2:22|~TYPE2:22
+1110169	Stadtwerke Malchow GmbH		Friedrich-Ebert-Str. 0	17213	Malchow	53.477875	12.422922	1			~TYPE2:22|~TYPE2:22
+1110170	Stadtwerke Malchow GmbH		Kloster 34	17213	Malchow	53.471745	12.432733	1			~TYPE2:22|~TYPE2:22
+1110171	Stadtwerke Malchow GmbH		Strandstrasse 7	17213	Malchow	53.484096	12.437630	1			~TYPE2:22|~TYPE2:22
+1110172	Stadtwerke Malchow GmbH		Schulstrße 1	17213	Malchow	53.471961	12.408356	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1110173	Stadtwerke Malchow GmbH		August Bebel Straße 16	17213	Malchow	53.479241	12.431065	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1110174	Stadtwerke Malchow GmbH		Friedrich-Ebert-Str. 0	17213	Malchow	53.478136	12.422736	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1113400	Sopho		Eisenbahnstr. 2b	16909	Wittstock /Dosse	53.159815	12.479836	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1113401	Sopho		Eisenbahnstrasse 2	16909	Wittstock	53.159923	12.479391	1			~TYPE2:11|~TYPE2:11
+1117105	Fleesensee Holding GmbH	Golf Fleesensee	Tannenweg 1	17213	Göhren-Lebbin	53.475049	12.494607	1	24/7	Keine Beschränkung	DEGLSEHHBZW0801 DEGLSEHHBZW0802~TYPE2:22+TYPE2:22|DEGLSEHHBZW0901 DEGLSEHHBZW0902~TYPE2:22+TYPE2:22
+1118843	EnBW mobility+ AG und Co.KG		An der Brücke 1	19386	Lübz	53.465195	12.042823	1		Keine Beschränkung	~CCS2:100|~CCS2:100
+1126607	WEMAG AG		Am Fuchsberg 47	19386	Lübz	53.463964	12.045852	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1131428	SP-Jürgenshof GmbH & Co.KG	Herrenhaus Jürgenshof	Seestr. 17	17214	Alt Schwerin	53.499280	12.353340	1	24/7	Keine Beschränkung	DE*ONE*EUNV5~TYPE2:11|DE*ONE*EV7TX~TYPE2:11
+1134176	Vattenfall Smarter Living GmbH		Schwalbenweg 1	16928	Pritzwalk	53.148876	12.159060	1	24/7	Keine Beschränkung	~CCS2:120|~CCS2:120
+1134297	Vattenfall Smarter Living GmbH		Eisenbeissstr. 25	19386	Lübz	53.462354	12.020126	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134298	Vattenfall Smarter Living GmbH		Eisenbeissstr. 25	19386	Lübz	53.462210	12.020588	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134688	Stadtwerke Malchow GmbH		Zum Hafen 0	17209	Zislow	53.433190	12.314910	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134689	Stadtwerke Malchow GmbH		Am Strande 0	17213	Fünfseen	53.468030	12.348230	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134690	Stadtwerke Malchow GmbH		Ladewigallee 0	17213	Malchow	53.487470	12.434210	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134691	Stadtwerke Malchow GmbH		Clara-Zetkin-Ring 3	17213	Malchow	53.473640	12.420800	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134692	Stadtwerke Malchow GmbH		Stämmenberg 0	17213	Malchow	53.472350	12.437200	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134693	Stadtwerke Malchow GmbH		Mecklenburger Str. 4	17213	Malchow	53.468970	12.413860	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1139033	ALDI Nord		Quetziner Str. 19b	19395	Plau am See	53.464500	12.265500	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1154280	Vattenfall Smarter Living GmbH		Friedrich-Ebert-Str. 11	17213	Malchow	53.476851	12.421587	1	24/7	Keine Beschränkung	DE*VAT*E*T184*IT1*1624*032*1~CCS2:90|DE*VAT*E*T184*IT1*1624*032*2~CCS2:90
+1156516	Wirelane GmbH	BEECH Resort Plauer See	Dresenower Mühle 9	19395	Ganzlin	53.405229	12.288309	1		Keine Beschränkung	DE*WLN*ES000497~TYPE2:11|DE*WLN*ES000498~TYPE2:11|DE*WLN*ES000495~TYPE2:11|DE*WLN*ES000496~TYPE2:11|DE*WLN*ES000493~TYPE2:11|DE*WLN*ES000494~TYPE2:11
+1158439	Tesla Germany GmbH		Uetersener Str. 1	16909	Wittstock /Dosse	53.157922	12.455141	1	24/7	Keine Beschränkung	DE*TSL*EI2IB6D~CCS2:250|DE*TSL*EI2I3PH~CCS2:250|DE*TSL*EI2I42N~CCS2:250|DE*TSL*EI2I42R~CCS2:250|DE*TSL*EI2I4R8~CCS2:250|DE*TSL*EI2I4QY~CCS2:250|DE*TSL*EI2I4RH~CCS2:250|DE*TSL*EI2I4QK~CCS2:250

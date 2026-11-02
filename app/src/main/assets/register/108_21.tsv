@@ -1,0 +1,185 @@
+1011547	Comfort Charge		Am Mühlenberg 2	23701	Eutin	54.136260	10.611520	1			~CCS2:200|~CCS2:200
+1012634	Westenergie Metering GmbH		Strandallee 42 Z	23669	Timmendorfer Strand	54.004500	10.775000	1			~TYPE2:22|~TYPE2:22
+1012650	Westenergie Metering GmbH		Strandallee 42	23669	Timmendorfer Strand	54.004430	10.774519	1			~TYPE2:22|~TYPE2:22
+1012657	Westenergie Metering GmbH		Wohldstr. 24	23669	Timmendorfer Strand	54.000100	10.773000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013084	Westenergie Metering GmbH		Seestraße 11z	23683	Scharbeutz	54.024722	10.755556	1			~TYPE2:22|~TYPE2:22
+1013263	Westenergie Metering GmbH		Glockenstr. 2	23683	Scharbeutz	54.021467	10.749350	1			~TYPE2:22|~TYPE2:22
+1013327	Westenergie Metering GmbH		Seestraße 43z	23684	Scharbeutz	54.027267	10.702633	1			~TYPE2:22|~TYPE2:22
+1013328	Westenergie Metering GmbH		Ostseestraße 1	23683	Scharbeutz	54.022417	10.758064	1			~TYPE2:22|~TYPE2:22
+1013329	Westenergie Metering GmbH		Fischerstieg Ecke Badeweg 0	23683	Scharbeutz	54.024782	10.756040	1			~TYPE2:22|~TYPE2:22
+1013330	Westenergie Metering GmbH		Muschelstieg 0	23683	Scharbeutz	54.026325	10.756603	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1013332	Westenergie Metering GmbH		Strandallee 0	23683	Scharbeutz	54.012194	10.769069	1			~TYPE2:22|~TYPE2:22
+1013333	Westenergie Metering GmbH		Bahnhofstraße 48z	23683	Scharbeutz	54.053667	10.742597	1			~TYPE2:22|~TYPE2:22
+1013334	Westenergie Metering GmbH		Pönitzer Chaussee 1	23683	Scharbeutz	54.034892	10.750231	1			~TYPE2:22|~TYPE2:22
+1013335	Westenergie Metering GmbH		Pönitzer Chaussee 1	23683	Scharbeutz	54.034883	10.750136	1			~TYPE2:22|~TYPE2:22
+1013336	Westenergie Metering GmbH		Lindenstraße 34z	23684	Scharbeutz	54.045536	10.673567	1			~TYPE2:22|~TYPE2:22
+1013337	Westenergie Metering GmbH		Lindenstraße 31z	23684	Scharbeutz	54.044914	10.671597	1			~TYPE2:22|~TYPE2:22
+1013338	Westenergie Metering GmbH		Waldweg 1	23683	Scharbeutz	54.047202	10.748738	1			~TYPE2:22|~TYPE2:22
+1013339	Westenergie Metering GmbH		Trelleborgstraße 1z	23683	Scharbeutz	54.030297	10.752181	1			~TYPE2:22|~TYPE2:22
+1013340	Westenergie Metering GmbH		Dorfstraße 8z	23629	Scharbeutz	54.028997	10.663189	1			~TYPE2:22|~TYPE2:22
+1013341	Westenergie Metering GmbH		Konsulweg 8z	23683	Scharbeutz	54.019050	10.757257	1			~TYPE2:22|~TYPE2:22
+1013342	Westenergie Metering GmbH		Wiesenweg 1z	23683	Scharbeutz	54.050317	10.748747	1			~TYPE2:22|~TYPE2:22
+1013343	Westenergie Metering GmbH		Wennseestraße 0	23683	Scharbeutz	54.020200	10.744128	1			~TYPE2:22|~TYPE2:22
+1013344	Westenergie Metering GmbH		Strandallee 12z	23683	Scharbeutz	54.051146	10.751585	1			~TYPE2:22|~TYPE2:22
+1021650	EWE Go GmbH	EWE_7106_1A	An der E 47 0	23774	Heiligenhafen	54.362009	10.983293	1	24/7	Keine Beschränkung	DE*2GO*E7106*1A*1~CCS2:300|DE*2GO*E7106*1A*2~CCS2:300|DE*2GO*E7106*1B*1~CCS2:300|DE*2GO*E7106*1B*2~CCS2:300
+1021857	EWE Go GmbH	McD_1584_1A	Dannauer Bruch 1	23758	Oldenburg in Holstein	54.296939	10.866525	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1022191	EWE Go GmbH		Eutiner Straße 59	23730	Neustadt/Holstein	54.099960	10.794668	1			~CCS2:150|~CCS2:150
+1036851	EnBW mobility+ AG und Co.KG		Am Jachthafen 0	23774	Heiligenhafen	54.374200	10.982900	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1040515	famila		Rettiner Weg 77	23730	Neustadt i.H.	54.103684	10.833596	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~TYPE2:22|~TYPE2:22
+1041141	GP JOULE Connect GmbH	DE*CNT*EP04086*001	Seestr. 12a	24321	Hohwacht (Ostsee)	54.324436	10.661668	1		Keine Beschränkung	DE*CNT*EP04086*001*1~TYPE2:22|DE*CNT*EP04086*001*2~TYPE2:22
+1041209	GP JOULE Connect GmbH	DE*CNT*EP00190*001	Bankendorfer Weg 1	23758	Gremersdorf	54.332249	10.933156	1		Keine Beschränkung	DE*CNT*EP00190*001*1~CCS2:300|DE*CNT*EP00190*001*2~CCS2:300
+1041758	HanseWerk Charging Station		Eutiner Straße 2	23738	Lensahn	54.220040	10.884170	1			~TYPE2:22|~TYPE2:22
+1041759	HanseWerk Charging Station		Doktor-Julius-Stinde-Straße 0	23738	Lensahn	54.213840	10.881370	1			~TYPE2:22|~TYPE2:22
+1041762	HanseWerk Charging Station		Gustav-Friedrich-Meyer-Straße 1 1	23684	Pönitz	54.044320	10.679456	1			~TYPE2:22|~TYPE2:22
+1041781	HanseWerk Charging Station		Süseler Moor 2	23701	Süsel	54.075787	10.687770	1			~TYPE2:22|~TYPE2:22
+1047979	GLS Mobility GmbH		Kembs 9a	24321	Behrensdorf	54.348033	10.578816	1	24/7	Keine Beschränkung	DEGLSEPLOEG0101~CCS2:22|DEGLSEPLOEG0102~TYPE2:11
+1048778	Lidl	6617_Lidl_Eutin_T54-IT1-4121-061	Bürgermeister-Steenbock-Str. 22-24	23701	Eutin	54.128977	10.621966	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1048966	Lidl	6030_Lidl_T65-IT1-0423-216	Eutiner Str. 71	23730	Neustadt in Holstein	54.099253	10.794518	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049647	E.ON Drive Infrastructure		Raststätte Neustädter Bucht West 0	23730	Sierksdorf	54.070886	10.755442	1			~CCS2:50|~CCS2:50
+1049657	E.ON Drive Infrastructure		Raststätte Neustädter Bucht Ost 0	23730	Sierksdorf	54.068219	10.756875	1			~CCS2:50|~CCS2:50
+1057219	nonoxx pro		Auf der Pelzerwiese 24	23730	Neustadt in Holstein	54.088213	10.872796	1			~TYPE2:22|~TYPE2:22
+1057228	nonoxx pro		Königsredder 0	23743	Grömitz	54.138847	10.946256	1			~TYPE2:22|~TYPE2:22
+1057233	nonoxx pro		Klosterstraße 1	23730	Neustadt in Holstein	54.108755	10.812872	1		Keine Beschränkung	~CCS2:25|~CCS2:25|~TYPE2:11|~TYPE2:11
+1057234	nonoxx pro		Dünenweg 7	23730	Neustadt in Holstein	54.088609	10.861096	1		Keine Beschränkung	~CCS2:25|~CCS2:25
+1057236	nonoxx pro		Akazienweg 0	23730	Neustadt in Holstein	54.109288	10.817476	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057238	nonoxx pro		Am Gogenkoog 0	23730	Neu	54.107008	10.806218	1			~TYPE2:22|~TYPE2:22
+1057239	nonoxx pro		Strandweg 94	23730	Neustadt in Holstein	54.095302	10.890037	1			~TYPE2:22|~TYPE2:22
+1061430	EMI ElektroMobilitätsInfrastruktur GmbH		Elisabethstraße 22	23701	Eutin	54.135346	10.607631	1			~TYPE2:22|~TYPE2:22
+1062569	The Cozy Hotel	The Cozy Hotel	Schmilinskystr. 2	23669	Timmendorfer Strand	54.000460	10.776690	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22
+1062570	The Cozy Hotel	The Cozy Lofts	Am Kurpark 10	23669	Timmendorfer Strand	54.000470	10.777270	1	24/7	Nur für Kunden/Besucher	~TYPE2:22+TYPE2:22
+1063075	Golfanlage Hohwacht GmbH & Co.KG	Golfanlage Hohwacht	Eichenallee 1	24321	Hohwacht (Ostsee)	54.303570	10.629550	1	24/7	Keine Beschränkung	~TYPE2:22
+1065280	Stark Energy GmbH	Stark Energy Ladepark Scharbeutz - 23BZ2590E	Bormwiese 1	23683	Scharbeutz	54.054822	10.730602	1	24/7	Keine Beschränkung	DE*ARK*E10027*001~CCS2:300|DE*ARK*E10027*002~CCS2:300
+1066316	Ostsee-Campingplatz Kagelbusch L. Gosch GmbH & Co.KG		Kagelbusch 1	23730	Schashagen OT Bliesdorf	54.126256	10.928069	1			~TYPE2:22|~TYPE2:22
+1068482	Buchladen Lensahn		Bäderstr. 8a	23738	Lensahn	54.219720	10.887670	1			~TYPE2:22|~TYPE2:22
+1068987	Gemeinde Grömitz		Bäderstraße 38	23743	Grömitz/Cismar	54.190321	10.984544	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068988	Gemeinde Grömitz		Blankwasserweg 138	23743	Grömitz/Lensterstrand	54.159525	10.998932	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068989	Gemeinde Grömitz		Gildestraße 58	23743	Grömitz	54.144826	10.955467	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068990	Gemeinde Grömitz		Pappelallee 48	23743	Grömitz	54.145357	10.962998	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068991	Gemeinde Grömitz		Schützenstraße 20	23743	Grömitz	54.148483	10.966469	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068992	Gemeinde Grömitz		Am Strande 6	23743	Grömitz	54.144581	10.959313	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068993	Gemeinde Grömitz		Rathausplatz 11	23743	Grömitz	54.150847	10.958402	1			~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068994	Gemeinde Grömitz	Kurpromenade West 8b	Kurpromenade 8b	23743	Grömitz	54.148686	10.973059	1	24/7	Keine Beschränkung	~CCS2:50|~CHADEMO:50+CCS2:50|~TYPE2:22
+1068995	Gemeinde Grömitz	Kurpromenade West 8c	Kurpromenade 8c	23743	Grömitz	54.148491	10.972232	1	24/7	Keine Beschränkung	~CCS2:50|~CHADEMO:50+CCS2:50|~TYPE2:22
+1068996	Gemeinde Grömitz	Kurpromenade Ost 8c	Kurpromenade Ost 8c	23743	Grömitz	54.148264	10.972282	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22
+1068998	Gemeinde Grömitz	Kurpromenade 12	Kurpromenade 12	23743	Grömitz	54.147474	10.969833	1	24/7	Keine Beschränkung	~CCS2:50|~CHADEMO:50+CCS2:50|~TYPE2:22
+1069075	Büro Am Tannenberg		Bormwiese 1	23683	Scharbeutz	54.054972	10.730597	1	24/7	Keine Beschränkung	~TYPE2:22
+1071793	Thomas Knop		Neustädter Straße 40	23743	Grömitz	54.151860	10.949910	1			~TYPE2:11|~TYPE2:11
+1072320	HEV		Eutiner Straße 0	23744	Schönwalde am Bungsberg	54.187646	10.753807	1			~TYPE2:22|~TYPE2:22
+1072322	HEV		Bahnhofstraße 0	23714	Malente	54.172298	10.556858	1			~TYPE2:22|~TYPE2:22
+1072323	HEV		Weidestraße 0	23701	Eutin	54.130451	10.615896	1			~TYPE2:22|~TYPE2:22
+1072324	HEV		Pastor-Dr.-Fuchs-Weg 0	23701	Süsel	54.077062	10.716282	1			~TYPE2:22|~TYPE2:22
+1072325	HEV		Am Fahrenkrog 0	23730	Sierksdorf	54.071558	10.778642	1			~TYPE2:22|~TYPE2:22
+1072326	HEV		Poststraße 0	23623	Ahrensbök	54.012848	10.572616	1			~TYPE2:22|~TYPE2:22
+1072328	HEV		Jungfernstieg 3a	23701	Eutin	54.134711	10.619403	1			~TYPE2:22|~TYPE2:22
+1072329	HEV		Robert-Schade-Straße 21	23701	Eutin	54.131865	10.625604	1			~TYPE2:22
+1072330	HEV		Am Stadtgraben 6	23701	Eutin	54.136649	10.614942	1			~CCS2:75|~CCS2:75|~TYPE2:22
+1072331	HEV		Holstenstraße 2	23701	Eutin	54.142017	10.612487	1			~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1072332	HEV		Berliner Platz 1	23701	Eutin	54.133863	10.615300	1			~CCS2:50|~CCS2:50|~TYPE2:22
+1072333	HEV		Segenhörn 1	23701	Eutin	54.134944	10.616075	1			~CCS2:50|~CCS2:50
+1072334	HEV		Riemannstraße 46	23701	Eutin	54.142110	10.613660	1			~TYPE2:22|~TYPE2:22
+1072335	HEV		Elisabethstraße 20	23701	Eutin	54.135370	10.609310	1			~TYPE2:22|~TYPE2:22
+1072336	HEV		Schlossplatz 5	23701	Eutin	54.138330	10.619800	1			~TYPE2:22|~TYPE2:22
+1072338	HEV		Segenhörn 0	23701	Eutin	54.134961	10.615996	1			~TYPE2:22|~TYPE2:22
+1072339	HEV		Bleekergang 1a	23701	Eutin	54.140150	10.616280	1			~TYPE2:22|~TYPE2:22
+1072340	HEV		Röntgenstraße 1	23701	Eutin	54.123480	10.635875	1			~TYPE2:22|~TYPE2:22
+1072341	HEV		Am Stadtgraben 6	23701	Eutin	54.136650	10.614940	1			~TYPE2:22|~TYPE2:22
+1076484	ancora Marina		An der Wiek 7-15	23730	Neustadt in Holstein	54.093905	10.799539	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076488	ancora Marina		An der Wiek 7-15	23730	Neustadt in Holstein	54.094450	10.797490	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1077525	nonoxx pro		Lindenweg 1	23730	Neustadt in Holstein	54.095078	10.816127	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077527	nonoxx pro	Parkplatz "Zum Leuchturm" an der Ecke Wiesenstraße	Zum Leuchtturm 0	23730	Neustadt in Holstein	54.089211	10.864998	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077528	nonoxx pro		Dünenweg 7	23730	Neustadt in Holstein	54.088612	10.861173	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077529	nonoxx pro		Schaarweg 0	23730	Neustadt in Holstein	54.091100	10.860592	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077530	nonoxx pro		Gildestr. 39	23743	Grömitz	54.144832	10.955539	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077531	nonoxx pro		Gildestr. 4	23743	Grömitz	54.147984	10.954030	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077532	nonoxx pro		Am Seestern 1	23743	Grömitz	54.142991	10.955079	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077533	nonoxx pro		Jachthafen 12	23743	Grömitz	54.136498	10.946232	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077535	nonoxx pro		Jachthafen 12	23743	Grömitz	54.136471	10.946284	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1077536	nonoxx pro		Seestr. 0	23743	Grömitz	54.145602	10.963552	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25
+1080693	VR Bank zwischen den Meeren eG		Zum Windpark 9	23738	Lensahn	54.220364	10.900107	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084328	Stark Energy GmbH	Stark Energy Ladepark Scharbeutz - 22BZ4611B	Bormwiese 1	23683	Scharbeutz	54.054756	10.730856	1	24/7	Keine Beschränkung	DE*ARK*E10029*001~CCS2:300|DE*ARK*E10029*002~CCS2:300|DE*ARK*E10028*001~CCS2:300|DE*ARK*E10028*002~CCS2:300|DE*ARK*E10052*001~CCS2:400|DE*ARK*E10052*002~CCS2:400
+1085221	Cornelia Asmus		Schwinkenrade 11	23623	Ahrensbök	54.003477	10.553642	1			~TYPE2_TETHERED:22
+1085371	Dieter Krengel		Hühnerbusch 5	24321	Panker	54.310410	10.572626	1			~TYPE2_TETHERED:11
+1085741	Frederic Knopf		Bunendorp 7	24321	Lütjenburg	54.299410	10.578407	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086021	Herbert Hansen		Stiller Winkel 19	24321	Giekau	54.320731	10.503031	1			~TYPE2:11
+1086319	Jörg Detlof		Sonnenkoppel 3	23701	Eutin	54.134698	10.586250	1			~TYPE2_TETHERED:11
+1087067	MICHEL IT GmbH		Bergstr. 19a	24321	Panker	54.340610	10.552769	1			~TYPE2:11
+1087083	Mirko Platz	Ferienhaus hey Beachvilla	Kranichring 152	24321	Hohwacht (Ostsee)	54.316485	10.662675	1		Nur für Kunden/Besucher	~TYPE2:11
+1087103	Murat özden		Geschwister-Scholl-Ring 85	23701	Eutin	54.131208	10.583387	1			~TYPE2:11|~TYPE2:11
+1096519	Autohaus Ahrensbök GmbH		Segeberger Chaussee 2A	23623	Ahrensbök	54.015923	10.570551	1			~CCS2:22|~TYPE2:11
+1097376	Heinrich Berg e.K.		Schuhstraße 0	23758	Oldenburg in Holstein	54.287102	10.880287	1			~CCS2:22|~TYPE2:11
+1097377	Heinrich Berg e.K.		Wendstraße 19	23774	Heiligenhafen	54.371154	10.980757	1			~CCS2:22|~TYPE2:11
+1097378	Heinrich Berg e.K.		Oldenburger Str. 29	24321	Lütjenburg	54.291197	10.597632	1			~CCS2:22|~TYPE2:11
+1099734	Vattenfall Smarter Living GmbH		Bürgermeister-Steenbock-Straße 2	23701	Eutin	54.130309	10.617276	1			~CCS2:120|~CCS2:120
+1099735	Vattenfall Smarter Living GmbH		Holsteiner Straße 2	23758	Oldenburg in Holstein	54.290995	10.888225	1			~CCS2:90|~CCS2:90
+1102625	Otto Cobobes GmbH		Lübecker Landstraße 32	23701	Eutin	54.126660	10.627310	1			~TYPE2:11|~TYPE2:11
+1102807	nonoxx pro		Gildestr. 39	23743	Grömitz	54.144826	10.955563	1	24/7	Keine Beschränkung	~CCS2:25|~CCS2:25
+1103483	Schleswig-Holsteinischer Fußballverband e.V.	Uwe Seeler Fußball Park	Am Stadion 4	23714	Malente	54.159779	10.561141	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1104096	Bretterbude		Seepromenade 4	23774	Heiligenhafen	54.379758	10.979413	1			~TYPE2:22|~TYPE2:22
+1106345	E.ON Drive GmbH		Gustav-Friedrich-Meyer-Straße 1	23684	Pönitz	54.044290	10.679338	1			~TYPE2:22|~TYPE2:22
+1106504	E.ON Drive GmbH		Lübecker Straße 28	23738	Lensahn	54.213946	10.881713	1			~TYPE2:22|~TYPE2:22
+1106506	E.ON Drive GmbH		Eutiner Str. 4a	23738	Lensahn	54.220016	10.884069	1			~TYPE2:22|~TYPE2:22
+1106543	E.ON Drive GmbH		Neustädter Bucht Ost 0	23730	Neustadt in Holstein	54.068004	10.756057	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106544	E.ON Drive GmbH		Neustädter Bucht West 0	23730	Neustadt in Holstein	54.071150	10.756240	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106626	E.ON Drive GmbH		Dieselstraße 4	23738	Lensahn	54.218255	10.897136	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106654	E.ON Drive GmbH		Dieselstraße 2	23738	Lensahn	54.217937	10.897398	1			~TYPE2_TETHERED:50|~CCS2:22+CHADEMO:22
+1106796	E.ON Drive GmbH		Süseler Moor 2	23701	Süsel	54.075376	10.687607	1			~TYPE2:22|~TYPE2:22
+1107681	E.ON Drive GmbH		Eutiner Straße 47	23730	Neustadt in Holstein	54.102053	10.799498	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1109019	E.ON Drive GmbH		Rothensande 1-12	23714	Malente	54.161853	10.580402	1		Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1109030	E.ON Drive GmbH		Rothensande 1-12	23714	Malente	54.161840	10.580403	1	24/7	Keine Beschränkung	~TYPE2:11
+1110117	Stadtwerke Oldenburg in Holstein GmbH		Hopfenmarkt 0	23758	Oldenburg in Holstein	54.293300	10.887920	1			~TYPE2:22|~TYPE2:22
+1110118	Stadtwerke Oldenburg in Holstein GmbH		Kieler Chaussee 0	23758	Oldenburg in Holstein	54.287090	10.887920	1			~TYPE2:22|~TYPE2:22
+1113090	Ostseeheimat		Neustädter Str. 40	23743	Grömitz	54.151920	10.949762	1			~TYPE2:22|~TYPE2:22
+1113116	Autohaus Hansa Nord GmbH- Zentrale		Am Voßberg 18	23758	Oldenburg in Holstein	54.291883	10.917644	1			~TYPE2:22|~TYPE2:22
+1113122	Autohaus Hansa Nord GmbH- Zentrale		Lübecker Landstraße 61	23701	Eutin	54.124786	10.631629	1			~TYPE2:22|~TYPE2:22
+1113144	Bayside GmbH		Strandallee 130a	23683	Scharbeutz	54.028324	10.756383	1			~TYPE2:11+TYPE2_TETHERED:11+CCS2:11|~TYPE2:11+TYPE2_TETHERED:11+CCS2:11|~TYPE2:11+TYPE2_TETHERED:11+CCS2:11|~TYPE2:11+TYPE2_TETHERED:11+CCS2:11
+1113935	Gemeindewerke Malente AöR		Bahnhofstraße 40	23714	Malente	54.172040	10.556360	1			~TYPE2:22|~TYPE2:22
+1113936	Gemeindewerke Malente AöR		Hindenburgallee 0	23714	Malente	54.167134	10.550980	1			~TYPE2:22|~TYPE2:22
+1113937	Gemeindewerke Malente AöR		Sebastian-Kneipp-Straße 0	23714	Malente	54.171166	10.549320	1			~TYPE2:22|~TYPE2:22
+1113938	Gemeindewerke Malente AöR		Neversfelder Straße 11	23714	Malente	54.177696	10.555366	1			~TYPE2:22|~TYPE2:22
+1113939	Gemeindewerke Malente AöR		Marktstraße 0	23714	Malente	54.173778	10.557620	1			~TYPE2:22|~TYPE2:22
+1115086	HanseWerk Charging Station	0043582	Dorfstr. 6	23719	Glasau	54.056404	10.531043	1	24/7	Keine Beschränkung	DE*ISE*E0019667~TYPE2:22|DE*ISE*E0019668~TYPE2:22
+1116414	Stadtwerke Lübeck Energie GmbH	Lüdemann & Zankel Malente	Lütjenburger Str. 98	23714	Malente	54.189309	10.564975	1	24/7	Keine Beschränkung	DE*451*ELUED007*01~CCS2:150|DE*451*ELUED007*02~CCS2:150|DE*451*ELUED007*03~TYPE2:22
+1121614	ZVO Energie GmbH		Am Dorfplatz 0	23717	Kasseedorf	54.164640	10.720930	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1129432	Ostseestrand Ferienpark Scharbeutz GmbH	Ferienpark Ladesäule 2	Strandallee 98b	23683	Scharbeutz	54.035390	10.747170	1	24/7	Keine Beschränkung	EV5J2~TYPE2:22|E5TBF~TYPE2:22
+1131452	ZVO Energie GmbH		Furthkoppel 0	23730	Schashagen	54.122874	10.921967	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1131453	ZVO Energie GmbH		Furthkoppel 0	23730	Schashagen	54.122955	10.921904	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1131454	ZVO Energie GmbH		Furthkoppel 0	23730	Schashagen	54.122844	10.921990	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1131583	TTTK Verwaltungs GmbH		Am Fahrenkrog 12	23730	Sierksdorf	54.073175	10.781191	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1131851	Tesla Germany GmbH		Kieler Chaussee 4a	23758	Oldenburg in Holstein	54.287102	10.877015	1	24/7	Keine Beschränkung	DE*TSL*E1YJDQD~CCS2:250|DE*TSL*E1YJDQC~CCS2:250|DE*TSL*E1YJDQA~CCS2:250|DE*TSL*E1YJDQ9~CCS2:250|DE*TSL*E1YJDQ8~CCS2:250|DE*TSL*E1YJDQ7~CCS2:250|DE*TSL*E1YJDQ5~CCS2:250|DE*TSL*E1YJDQ3~CCS2:250
+1133475	EWE Go GmbH	McD_1174_1A	Röntgenstr. 2	23701	Eutin	54.123167	10.635947	1	24/7	Keine Beschränkung	~CCS2:400|~CCS2:400
+1136837	E.ON Drive GmbH		Am Rathsland 19	23758	Oldenburg in Holstein	54.293320	10.910950	1		Keine Beschränkung	DE*EDR*E2202473*1~TYPE2:22|DE*EDR*E2202473*2~TYPE2:22
+1138107	GP JOULE Connect GmbH	DE*CNT*EP08370*001	Panker 25	24321	Panker	54.330173	10.573252	1		Keine Beschränkung	DE*CNT*EP08370*001*1~TYPE2:22|DE*CNT*EP08370*002*1~TYPE2:22
+1139240	Allego		Sandberger Weg 88	23730	Neustadt in Holstein	54.093905	10.824379	1	24/7	Keine Beschränkung	DEALLEGO002948_1~CCS2:150|DEALLEGO002948_2~CCS2:150
+1139518	Baltic smart Energy		Holmer Weg 16	23730	Neustadt in Holstein	54.090583	10.791917	1	24/7	Keine Beschränkung	DE*MDS*E007170~TYPE2:22|DE*MDS*E007839~TYPE2:22
+1140650	ZVO Energie GmbH		Carl-Maria-von-Weber-Str. 0	23701	Eutin	54.132720	10.618950	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1143543	nonoxx pro		Kirchhofsallee 12	23730	Neustadt in Holstein	54.107540	10.822790	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1143957	EnBW mobility+ AG und Co.KG	EDEKA Jens Schönwalde am Bungsberg	Oldenburger Straße 19	23744	Schönwalde am Bungsberg	54.186460	10.763123	1	24/7	Keine Beschränkung	DE*EBW*E911729*1~CCS2:100|DE*EBW*E911729*2~CCS2:100|DE*EBW*E911548*1~CCS2:100|DE*EBW*E911548*2~CCS2:100
+1143980	EnBW mobility+ AG und Co.KG	PENNY Lütjenburg, Schönberger Straße	Schönberger Straße 3	24321	Lütjenburg	54.288622	10.582973	1	24/7	Keine Beschränkung	DE*EBW*E911636*1~CCS2:200|DE*EBW*E911636*2~CCS2:200|DE*EBW*E911598*1~CCS2:200|DE*EBW*E911598*2~CCS2:200
+1144097	ZVO Energie GmbH		Allee 97	23730	Altenkrempe	54.140120	10.813140	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144690	Susanne Treczokat		Neuland bei 27	24321	Behrensdorf	54.359390	10.599960	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11
+1147297	Lidl	7281_Lidl_Eutin_QP-20076-0525-060-121-QP-VER.321	Plöner Landstr. 9	23701	Eutin	54.128842	10.579189	1	24/7	Keine Beschränkung	~CCS2:60|~CCS2:60
+1148101	Vattenfall Smarter Living GmbH		Neustädter Str. 12	23743	Grömitz	54.152766	10.955244	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1149674	E.ON Drive Infrastructure		Dieselstr. 4	23738	Lensahn	54.218242	10.897136	1	24/7	Keine Beschränkung	DE*UFC*E01406*1~CCS2:100|DE*UFC*E01406*2~CCS2:100
+1151638	Wirelane GmbH	Hotel und Restaurantbetriebe Tedsen GmbH	Plöner Straße 3	24321	Lütjenburg	54.291397	10.587493	1		Keine Beschränkung	DE*WLN*ES000563~TYPE2:22|DE*WLN*ES000564~TYPE2:22|DE*WLN*ES000565~TYPE2:22
+1153957	LichtBlick eMobility GmbH		Am Markt 1-3	23743	Grömitz	54.151933	10.955771	1		Keine Beschränkung	DE*BDO*EQ20007*001*01~CCS2:400|DE*BDO*EQ20007*001*02~CCS2:400|DE*BDO*EQ20007*002*01~CCS2:400|DE*BDO*EQ20007*002*02~CCS2:400
+1154040	Campingplatz Platen	Gästeparkplatz	Wewerin 2	24327	Blekendorf	54.302056	10.696541	1	24/7	Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11+TYPE2:11
+1154611	ZVO Energie GmbH		Sierksdorfer Str. 39	23730	Neustadt in Holstein	54.094982	10.789831	1	Mo-Fr 13:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1154614	ZVO Energie GmbH		Wagrienring 3-13	23730	Sierksdorf	54.093748	10.779984	1	Mo-Fr 13:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1154881	nonoxx pro		Reiferbahn 2	23730	Neustadt in Holstein	54.104470	10.807280	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1156688	ALDI Nord		Höhenweg 2	23774	Heiligenhafen	54.364225	10.966328	1	24/7	Keine Beschränkung	DE-ALN-EDE040334-1-1~CCS2:150|DE-ALN-EDE040334-1-2~CCS2:150
+1158686	go2zero	nordicwave hotel THE FLAMINGO	Strandallee 60	23669	Timmendorfer Strand	54.002029	10.777052	1	24/7	Keine Beschränkung	DE*GO2*E6293265~TYPE2:22|DE*GO2*E6293268~TYPE2:22
+1158814	ZVO Energie GmbH		Am Kiebitzberg 10	23730	Neustadt in Holstein	54.091392	10.829499	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1158871	ALDI Nord	Aldi Nord Parkplatz	Am Voßberg 4c	23758	Oldenburg in Holstein	54.292384	10.913579	1	24/7	Keine Beschränkung	DE-ALN-EDE040333-1-1~CCS2:150|DE-ALN-EDE040333-1-2~CCS2:150
+1159386	EnBW mobility+ AG und Co.KG	EDEKA Jens Heiligenhafen	Höhenweg 4	23774	Heiligenhafen	54.363444	10.965839	1	24/7	Keine Beschränkung	DE*EBW*E910245*1~CCS2:400|DE*EBW*E910245*2~CCS2:400|DE*EBW*E910258*1~CCS2:400|DE*EBW*E910258*2~CCS2:400|DE*EBW*E910261*1~CCS2:200|DE*EBW*E910261*2~CCS2:200|DE*EBW*E917220*1~CCS2:200|DE*EBW*E917220*2~CCS2:200
+1159947	Stadtwerke Lübeck Energie GmbH	Neue Lübecker - Westpreußenring	Westpreußenring 22	23730	Neustadt in Holstein	54.113470	10.831563	1	24/7	Keine Beschränkung	DE*451*ENEUL005*01~TYPE2:11|DE*451*ENEUL005*02~TYPE2:11
+1160880	LichtBlick eMobility GmbH		Bahnhofstr. 40	23714	Malente	54.171846	10.556496	1		Keine Beschränkung	DE*BDO*EQ10016*002*01~CCS2:300|DE*BDO*EQ10016*002*02~CCS2:300|DE*BDO*EQ10016*003*01~CCS2:300|DE*BDO*EQ10016*003*02~CCS2:300|DE*BDO*EQ10016*001*01~CCS2:300|DE*BDO*EQ10016*001*02~CCS2:300
+1161894	HVB		Am Jachthafen 4A	23774	Heiligenhafen	54.374200	10.984100	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1161896	HVB		Steinwarder 1003	23774	Heiligenhafen	54.379600	10.976700	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1161898	E.ON Drive Infrastructure	Famila, Posthofstr. 4, 24321 Lütjenburg	Posthofstr. 4	24321	Lütjenburg	54.293267	10.586613	1	24/7	Keine Beschränkung	DE*UFC*E00759*1~CCS2:400|DE*UFC*E00759*2~CCS2:400|DE*UFC*E00752*1~CCS2:400|DE*UFC*E00752*2~CCS2:400
+1161989	ALDI Nord	ALDI Nord Parkplatz	Sierksdorfer Str. 19	23730	Neustadt in Holstein	54.097101	10.792112	1	24/7	Keine Beschränkung	DE-ALN-EDE161420-1-1~CCS2:150|DE-ALN-EDE161420-1-2~CCS2:150
+1162195	ALDI Nord	ALDI Nord Parkplatz	Seestr. 63	23683	Scharbeutz	54.022163	10.750727	1	24/7	Keine Beschränkung	DE-ALN-EDE161426-1-1~CCS2:50|DE-ALN-EDE161426-1-2~CCS2:50|DE-ALN-EDE161426-2-1~CCS2:150|DE-ALN-EDE161426-2-2~CCS2:150
+1162401	Allego		Sierksdorfer Str. 8	23730	Neustadt in Holstein	54.097284	10.791536	1	24/7	Keine Beschränkung	DEALLEGO004127_1~CCS2:400|DEALLEGO004127_2~CCS2:400|DEALLEGO004135_1~CCS2:400|DEALLEGO004135_2~CCS2:400|DEALLEGO004136_1~CCS2:400|DEALLEGO004136_2~CCS2:400
+1162574	E.ON Drive Infrastructure	Kaufhaus Stolz, Schashagener Str. 4, 23730 Schashagen	Schashagener Str. 4	23730	Schashagen	54.132744	10.906805	1	24/7	Keine Beschränkung	DE*UFC*E01347*1~CCS2:200|DE*UFC*E01347*2~CCS2:200|DE*UFC*E01352*1~CCS2:200|DE*UFC*E01352*2~CCS2:200
+1162760	ALDI Nord	ALDI Nord Parkplatz	Am Voßberg 6	23758	Oldenburg in Holstein	54.292091	10.913298	1	24/7	Keine Beschränkung	DE-ALN-EDE040333-1-1~CCS2:150|DE-ALN-EDE040333-1-2~CCS2:150
+1164984	Wirelane GmbH		Am Binnenwasser 24	23730	Neustadt in Holstein	54.111139	10.816667	1		Keine Beschränkung	DE*WLN*EP001929~TYPE2:22|DE*WLN*EP001930~TYPE2:22
+1165015	Gronenberger Mühle	Gronenberger Mühle	Gronenberger Mühle 2	23684	Scharbeutz	54.038615	10.707928	1	24/7	Keine Beschränkung	DE*GRM*EGRM*0001*1~TYPE2:22|DE*GRM*EGRM*0001*2~TYPE2:22|DE*GRM*EGRM*0001*1~TYPE2:22|DE*GRM*EGRM*0001*2~TYPE2:22

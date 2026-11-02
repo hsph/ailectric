@@ -1,0 +1,463 @@
+1001126	Stadtwerke Bad Säckingen GmbH		Nagaistraße 3	79713	Bad Säckingen	47.563354	7.943602	1			~TYPE2:22|~TYPE2:22
+1001127	Stadtwerke Bad Säckingen GmbH	Kundenparkplatz Mennekes	Schulhausstr. 40	79713	Bad Säckingen	47.550433	7.941245	1	24/7	Keine Beschränkung	DESWSE000303~TYPE2:22|DESWSE000305~TYPE2:22|DESWSE000304~TYPE2:22|DESWSE000306~TYPE2:22|DESWSE000307~TYPE2:22
+1001129	Stadtwerke Bad Säckingen GmbH		Lohgerbe 19	79713	Bad Säckingen	47.553606	7.946605	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001132	Stadtwerke Bad Säckingen GmbH		Albert-Gerspach-Allee 8	79713	Bad Säckingen	47.555401	7.950105	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1001134	Stadtwerke Bad Säckingen GmbH	Rathaus Wallbach	Hauptstr. 60	79713	Bad Säckingen	47.566704	7.914562	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1001135	Stadtwerke Bad Säckingen GmbH		Trottäcker 48	79713	Bad Säckingen	47.551506	7.919809	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1009178	Shell Deutschland GmbH		Wiesentalstr. 82	79539	Lörrach	47.624416	7.657931	1			~CCS2:120|~CCS2:120|~CCS2:120|~CCS2:120
+1009230	Shell Deutschland GmbH		Schlingener Str. 11	79379	Müllheim	47.808850	7.606080	1			~CCS2:150|~CCS2:150
+1010978	Markgräfler Alte Post Hotel GmbH & Co. KG		Bundesstraße 3	79379	Müllheim	47.800000	7.633300	1			~TYPE2:22|~TYPE2:22
+1022250	EWE Go GmbH	McD_1579	Freiburger Str. 25	79189	Bad Krozingen	47.923160	7.708327	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1024938	EnBW mobility+ AG und Co.KG		Basler Straße 98	79115	Freiburg im Breisgau	47.983340	7.819940	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1025050	EnBW mobility+ AG und Co.KG		Lustgartenstr. 5	79576	Weil am Rhein	47.594401	7.603720	1			~TYPE2_TETHERED:43|~CCS2:50
+1025511	EnBW mobility+ AG und Co.KG		Wiesentalstr. 77-79	79539	Lörrach	47.623236	7.656689	1			~TYPE2:22
+1025664	EnBW mobility+ AG und Co.KG		Schönenberg Str. 10	79618	Rheinfelden	47.574002	7.802055	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1025903	EnBW mobility+ AG und Co.KG		Lustgartenstr. 5	79576	Weil am Rhein	47.598570	7.603392	1			~CCS2:150|~CCS2:150
+1026171	EnBW mobility+ AG und Co.KG		Tullastr. 4	79713	Bad Säckingen	47.553822	7.930503	1			~CCS2:150|~CCS2:150
+1026180	EnBW mobility+ AG und Co.KG		Im unteren Stollen 5	79189	Bad Krotzingen	47.925027	7.701838	1			~CCS2:150|~CCS2:150
+1026200	EnBW mobility+ AG und Co.KG		Im Hemmet 12	79664	Wehr	47.608637	7.913102	1			~CCS2:150|~CCS2:150|DE*EBW*E908891*1~CCS2:150|DE*EBW*E908891*2~CCS2:150
+1026260	EnBW mobility+ AG und Co.KG		Bad Bellingen West 0	79415	Bad Bellingen	47.737703	7.551272	1			~CCS2:50+CHADEMO:50|~TYPE2_TETHERED:43
+1027044	EnBW mobility+ AG und Co.KG		Großmattenstraße 2	79219	Staufen im Breisgau	47.888820	7.723820	1			~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150
+1027226	EnBW mobility+ AG und Co.KG		Industriestraße 1	79541	Lörrach	47.634580	7.678860	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1030684	badenova AG & Co. KG		Bettackerstr. 1-3	79115	Freiburg	47.985149	7.810448	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1030687	badenova AG & Co. KG		Schlossbergring 14	79098	Freiburg	47.994041	7.855265	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030688	badenova AG & Co. KG		Schlossbergring 4a	79098	Freiburg	47.991269	7.856361	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1030689	badenova AG & Co. KG		Vaubanallee 4	79100	Freiburg	47.974542	7.827092	1			~TYPE2:22|~TYPE2:22
+1030690	badenova AG & Co. KG		Haslacher Straße 57	79115	Freiburg	47.993347	7.830781	1			~TYPE2:22|~TYPE2:22
+1030691	badenova AG & Co. KG		Bohrerstraße 11	79289	Horben	47.936575	7.865220	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030694	badenova AG & Co. KG		Prinz-Eugen-Straße 1	79102	Freiburg im Breisgau	47.984280	7.847836	1			~TYPE2:22|~TYPE2:22|AT*HTB*E1019419~CCS2:150|AT*HTB*E1019420~CCS2:150
+1030696	badenova AG & Co. KG		Friedhofweg 10	79249	Merzhausen	47.966333	7.825780	1			~TYPE2:22|~TYPE2:22
+1030702	badenova AG & Co. KG		Friedrich-Husemann-Weg 8	79256	Buchenbach	47.969510	7.996328	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030712	badenova AG & Co. KG		Bismarckallee 10	79098	Freiburg	47.997820	7.843302	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030724	badenova AG & Co. KG		Rotteckring 12	79098	Freiburg	47.996230	7.846570	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030726	badenova AG & Co. KG		Krumlinden 13	79244	Münstertal/Schwarzwald	47.870430	7.809990	1			~TYPE2:22|~TYPE2:22
+1030731	badenova AG & Co. KG		Max-Immelmann-Allee 10	79427	Eschbach	47.895540	7.622903	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030733	Ladepark Südbaden GmbH		Schreiberstraße 1	79098	Freiburg	47.990650	7.846640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030742	badenova AG & Co. KG		Schulstraße 6	79285	Ebringen	47.956420	7.776510	1			~TYPE2:22|~TYPE2:22
+1030763	badenova AG & Co. KG		Basler Landstraße 35 - 37	79111	Freiburg	47.982220	7.803424	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030765	badenova AG & Co. KG		Waldseestraße 75	79117	Freiburg	47.983440	7.880068	1			~TYPE2:22|~TYPE2:22|DE*BAD*E100345~TYPE2:22|DE*BAD*E100346~TYPE2:22|DE*BAD*E100347~TYPE2:22|DE*BAD*E100348~TYPE2:22
+1030769	badenova AG & Co. KG		Mathias-Blank-Straße 34	79115	Freiburg	47.995940	7.819796	1			~TYPE2:22|~TYPE2:22
+1030785	badenova AG & Co. KG		Neumattenweg 1	79589	Binzen	47.630400	7.614415	1			~TYPE2:22|~TYPE2:22
+1030786	badenova AG & Co. KG		Werderstraße 44a	79379	Müllheim	47.808184	7.628607	1			~TYPE2:22|~TYPE2:22
+1030792	badenova AG & Co. KG		Hauptstraße 25	79591	Eimeldingen	47.630202	7.595075	1			~TYPE2:22|~TYPE2:22
+1030795	badenova AG & Co. KG		Konrad-Adenauer-Platz 1	79098	Freiburg	47.996020	7.842200	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1030797	badenova AG & Co. KG		Auf der Zinnen 1	79098	Freiburg	47.997270	7.854380	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031172	Fraunhofer-Gesellschaft e. V.		Heidenhofstraße 2	79110	Freiburg im Breisgau	47.984960	7.787244	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031649	CUBOS Service GmbH		Zollstr. 14	79576	Weil am Rhein	47.589581	7.593906	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031736	CUBOS Service GmbH		Munzinger Str. 18	79098	Freiburg	47.987380	7.795610	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1034231	badenova AG & Co. KG		Jahnstr. 26	79423	Heitersheim	47.874504	7.666963	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1035488	ALDI SÜD		Basler Straße 113	79115	Freiburg	47.984639	7.819528	1			~CCS2:125|~CCS2:125|~TYPE2:22
+1035552	ALDI SÜD		Bismarckstraße 6	79650	Schopfheim	47.647224	7.818464	1			~TYPE2:22|~TYPE2:22
+1035563	ALDI SÜD		Freiburger Tor 2	79249	Merzhausen	47.972639	7.828139	1			~CCS2:125|~CCS2:125|~TYPE2:22
+1035564	ALDI SÜD		Heckerstraße 4	79114	Freiburg	47.989111	7.800167	1			~CCS2:125|~CCS2:125|~TYPE2:22
+1035700	ALDI SÜD		Gewerbestraße 5	79585	Steinen-Höllstein	47.641537	7.747726	1			~TYPE2:22|~TYPE2:22
+1035748	ALDI SÜD		Colmarer Straße 5	79395	Neuenburg	47.817417	7.556417	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035757	ALDI SÜD		In der Teichmatt 10	79689	Maulburg	47.644415	7.766344	1			~TYPE2:22|~TYPE2:22
+1035953	ALDI SÜD	MAH-005	Alte Str. 46	79576	Weil am Rhein	47.599361	7.599055	1	24/7	Keine Beschränkung	DE*ALD*E22851~CCS2:140|DE*ALD*E22852~CCS2:140
+1035956	ALDI SÜD	MAH-046	Im Rebacker 10	79591	Eimeldingen	47.625944	7.599395	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*ALD*E22794~CCS2:150|DE*ALD*E22795~CCS2:150|DE*ALD*E22796~TYPE2:22
+1036872	badenova AG & Co. KG		Am Vogelsang 4	79618	Rheinfelden (Baden)	47.579818	7.784816	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1037280	Shell Deutschland GmbH		Gewerbestr. 1	79585	Steinen	47.640700	7.746580	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1037679	Citywatt GmbH		Rennemattenweg 14	79576	Weil am Rhein	47.620556	7.612485	1			~CCS2:300|~CCS2:300
+1037680	Citywatt GmbH		Rennemattenweg 14	79576	Weil am Rhein	47.620567	7.612383	1			~CCS2:300|~CCS2:300
+1037681	Citywatt GmbH		Rennemattenweg 14	79576	Weil am Rhein	47.620563	7.612275	1			~CCS2:300|~CCS2:300
+1037682	Citywatt GmbH		Rennemattenweg 14	79576	Weil am Rhein	47.620563	7.612206	1			~CCS2:300|~CCS2:300
+1037683	Citywatt GmbH		Rennemattenweg 14	79576	Weil am Rhein	47.620578	7.612141	1			~CCS2:300|~CCS2:300
+1037900	Stadtwerke Bad Säckingen GmbH	Kundenparkplatz	Schulhausstr. 40	79713	Bad Säckingen	47.550550	7.941261	1	24/7	Keine Beschränkung	DESWSE000308~CCS2:150|DESWSE000309~CCS2:150
+1038377	Schwarzwaldmädel-Ferienwohnungen KG		Hohfelsstraße 1	79674	Todtnau	47.857060	7.916259	1			~TYPE2:22|~TYPE2:22
+1038781	Stadtwerke Bad Säckingen GmbH	Bauvereinstraße	Bauvereinstr. 19	79713	Bad Säckingen	47.551984	7.938150	1	24/7	Keine Beschränkung	DESWSE001101~TYPE2:22|DESWSE001102~TYPE2:22|DESWSE001103~TYPE2:22|DESWSE001104~TYPE2:22
+1038921	naturenergie		Nettenbergstraße 1	79618	Degerfelden	47.570283	7.751207	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038925	naturenergie		Scheffelstrasse 2	79639	Grenzach-Wyhlen	47.551220	7.659979	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038926	naturenergie		Rheinfelderstr. 19	79639	Grenzach-Wyhlen	47.549582	7.692710	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038932	naturenergie		Riehenstrasse 5	79594	Inzlingen	47.586986	7.696068	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038938	naturenergie		Wallbrunnstrasse 42	79539	Lörrach	47.610213	7.664981	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038939	naturenergie		Haagener Strasse 24	79539	Lörrach	47.615845	7.662071	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038940	naturenergie		Talweg 2	79540	Lörrach	47.596700	7.662286	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038941	naturenergie		Bahnhofstrasse 1	79539	Lörrach	47.614865	7.665696	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038943	naturenergie		Beim Haagensteg 5	79541	Lörrach - Haagen	47.683368	7.842388	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038947	naturenergie		Eichamtstrasse 15	79618	Rheinfelden	47.560822	7.786135	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038949	naturenergie		Adolf-Senger-Strasse 1	79618	Rheinfelden	47.566401	7.785180	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038952	naturenergie		Fischerinsel 6	79227	Schallstadt	47.963948	7.768890	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038953	naturenergie		Eschenweg 1	79859	Schluchsee	47.964040	7.768852	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038960	naturenergie		Franz- Josef- Fallerstraße 2	79674	Todtnau	47.828965	7.944554	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038981	naturenergie		Kirchstrasse 16	79227	Schallstadt	47.961170	7.764600	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038982	naturenergie		Waldseemueller-Str. 1	79227	Schallstadt	47.961470	7.756800	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038983	naturenergie		Hans-Scherlin-Straße 3a	79238	Ehrenkirchen	47.920820	7.738640	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038984	naturenergie		Jengerstraße 4	79238	Ehrenkirchen	47.918290	7.745700	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038985	naturenergie		Feldkircher Straße 17	79258	Hartheim	47.936540	7.628270	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038986	naturenergie		Hangstraße 46	79539	Lörrach	47.617460	7.676440	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038987	naturenergie		Beim Haagensteg 10	79541	Lörrach	47.631880	7.678850	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038989	naturenergie		Am Wasserwerk 2	79576	Weil am Rhein	47.585530	7.615920	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038990	naturenergie		Charles-Eames-Straße 2	79576	Weil am Rhein	47.602540	7.616750	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038991	naturenergie		Hardstraße 4	79576	Weil am Rhein	47.589890	7.603050	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038992	naturenergie		Hohe Flum 20B	79650	Schopfheim	47.645860	7.800180	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038993	naturenergie		Hauptstraße 14	79664	Wehr	47.625740	7.905360	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038994	naturenergie		Bahnhofstraße 15	79669	Zell im Wiesental	47.705810	7.849230	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038995	naturenergie		Schulstraße 7	79688	Hausen im Wiesental	47.683410	7.842290	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1038996	naturenergie		Bahnhofstr. 9	79689	Maulburg	47.644610	7.783070	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039004	naturenergie		Im Winckel 1	79418	Schliengen	47.756730	7.575770	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039005	naturenergie		Brückenstr. 3	79541	Lörrach	47.642040	7.695600	1		Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039006	naturenergie		Bahnhofstrasse 1	79639	Grenzach-Wyhlen	47.546460	7.690930	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039007	naturenergie		Hauptstrasse 9	79650	Schopfheim	47.649060	7.817340	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039010	naturenergie		Hammersteiner Str. 1	79400	Kandern	47.713328	7.659514	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039013	naturenergie		Hauptstraße 24	79427	Eschbach	47.890260	7.654422	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039014	naturenergie		Schwarzwaldstr. 3	79674	Todtnau	47.830386	7.944097	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039023	naturenergie		Ludingarten 3	79664	Wehr	47.626043	7.906204	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039028	naturenergie		Am Dreispitz 6	79589	Binzen	47.625603	7.611764	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039030	naturenergie		Hauptstraße 64	79295	Sulzburg	47.840339	7.708734	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039033	naturenergie		Hexentalstraße 56	79283	Bollschweil	47.920431	7.787179	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039034	naturenergie		Bahnhofstraße 2	79585	Steinen	47.641653	7.740778	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039035	naturenergie		Kirchweg 2	79299	Wittnau	47.946363	7.813807	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039037	naturenergie		Munzinger Strasse 3	79111	Freiburg	47.987736	7.794980	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039038	naturenergie		Herrenstrasse 11	79238	Ehrenkirchen	47.923458	7.740389	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039045	naturenergie		Kappelenweg 2	79682	Todtmoos	47.751185	7.999662	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039046	naturenergie		Haagenstr. 2	79539	Loerrach	47.614774	7.661435	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039051	naturenergie		Kirchweg 0	79280	Au	47.956218	7.829836	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039063	naturenergie		Constanze-Weber-Gasse 7	79669	Zell im Wiesental	47.708056	7.854043	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039064	naturenergie		Steinstrasse 4	79258	Hartheim	47.940695	7.630857	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|DE*EDH*E000491~TYPE2:22+SCHUKO:22|DE*EDH*E000492~TYPE2:22|DE*EDH*E000542~TYPE2:22+SCHUKO:22|DE*EDH*E000543~TYPE2:22
+1039066	naturenergie		Hornacker 0	79639	Grenzach-Wyhlen	47.560825	7.640467	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039071	naturenergie		Alfred-Loefflerstrasse 1	79282	Ballrechten-Dottingen	47.857444	7.691749	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039073	naturenergie		Dietzelbachstr. 1	79244	Münstertal	47.859005	7.763240	1		Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039078	naturenergie		Baslerstrasse 6	79618	Rheinfelden	47.558360	7.787313	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039079	naturenergie		Alfred-Loeffler-Strasse 2	79282	Ballrechten-Dottingen	47.859213	7.689016	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039083	naturenergie		Rheinstrasse 23	79588	Efringen-Kirchen	47.685615	7.522566	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:24+CHADEMO:24
+1039087	naturenergie		Cesar-Stuenzi-Strasse 2	79618	Rheinfelden	47.558717	7.788531	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039089	naturenergie		Im Schaffeld 1	79736	Rickenbach	47.621939	7.985860	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1039090	naturenergie		Posthalterweg 3	79379	Müllheim im Markgräflerland	47.812794	7.610030	1		Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039091	naturenergie		Haagener Str. 2	79539	Lörrach	47.614692	7.661507	1		Keine Beschränkung	DE*EDH*E000625~TYPE2:22+SCHUKO:22|DE*EDH*E000624~TYPE2:22
+1039093	naturenergie		Belchenstr. 19a	79539	Lörrach	47.613511	7.665764	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1039094	naturenergie		Hauptstraße 25	79426	Buggingen	47.846503	7.639246	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039095	naturenergie		St.-Erentrudis-Strasse 12	79112	Freiburg im Breisgau	47.968111	7.697539	1			~TYPE2:22|~TYPE2:22
+1039098	naturenergie		Haagenerstrasse 2	79539	Lörrach	47.614903	7.661613	1			~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22
+1039099	naturenergie		Im Stühlinger 1	79423	Heitersheim	47.872280	7.659435	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039101	naturenergie		Schulstrasse 18	79426	Buggingen	47.855946	7.641705	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039108	naturenergie		Untere Kanalstrasse 3	79618	Rheinfelden	47.570105	7.808737	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039111	naturenergie		Friedrichstrasse 2	79664	Wehr	47.633358	7.905940	1			~TYPE2:22|~TYPE2:22
+1039112	naturenergie		Brisengasse 1a	79618	Rheinfelden	47.594136	7.792681	1			~TYPE2:22|~TYPE2:22
+1039117	naturenergie		Allee 1	79674	Todtnauberg	47.850492	7.938094	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039121	naturenergie		Bahnhofstrasse 9	79689	Maulburg	47.644592	7.780182	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039123	naturenergie		Schlachthofstrasse 2	79539	Lörrach	47.605605	7.653854	1			~TYPE2:22|~TYPE2:22
+1039124	naturenergie		Dorfplatz 1	79252	Stegen	47.981761	7.964140	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039125	naturenergie		Bahnhofstrasse 7	79400	Kandern	47.713207	7.658091	1			~TYPE2:22|~TYPE2:22
+1039129	naturenergie		Alte Straße 28	79576	Weil am Rhein	47.596730	7.600849	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039139	naturenergie		Bahnhofstrasse 34	79588	Efringen-Kirchen	47.655111	7.563516	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039142	naturenergie		Im Wiedenhut 2	79285	Ebringen	47.956721	7.776485	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039143	naturenergie		Norsinger Strasse 2	79189	Bad Krozingen	47.922451	7.707577	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039144	naturenergie		Schulstrasse 4	79292	Pfaffenweiler	47.939178	7.756820	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039145	naturenergie		Gebrüder-Dorner-Strasse 10	79238	Ehrenkirchen	47.912309	7.746846	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039146	naturenergie		Dorfstrasse 6	79238	Ehrenkirchen	47.933723	7.713146	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039147	naturenergie		St. Ulrich 9	79238	Blollschweil	47.908571	7.838453	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039151	naturenergie		Ziegelstrasse 2	79294	Sölden	47.933954	7.810896	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039152	naturenergie		Schulstr. 11	79258	Hartheim am Rhein	47.933903	7.630829	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039153	naturenergie		Hauptstrasse 11	79258	Hartheim	47.916405	7.625169	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039154	naturenergie		Dorfstrasse 11	79258	Hartheim	47.935941	7.649104	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039155	naturenergie		Kanderner Strasse 4	79410	Badenweiler	47.796366	7.669969	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039156	naturenergie		Bundesstrasse 11	79238	Ehrenkirchen	47.938671	7.726065	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039157	naturenergie		Am Rain 2	79650	Schopfheim	47.631976	7.812558	1			~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039158	naturenergie		Belchenstraße 22	79244	Münstertal	47.854982	7.781052	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039159	naturenergie		Badstraße 1/3	79415	Bad Bellingen	47.731650	7.553705	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039164	naturenergie		Am Sonnenstück 1	79418	Schliengen	47.763409	7.578810	1		Keine Beschränkung	~CCS2:50|~CCS2:50
+1039167	naturenergie		Norsinger Str. 2	79189	Bad Krozingen	47.922712	7.707851	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039174	naturenergie		Am Sonnenstück 3	79418	Schliengen	47.760048	7.577958	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039176	naturenergie		Römerstraße 1	79618	Rheinfelden	47.569733	7.782982	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039177	naturenergie		Maienplatz 2	79618	Rheinfelden	47.599804	7.756686	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039184	naturenergie		Bündtenfeldstraße 12	79688	Hausen im Wiesental	47.683892	7.843104	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039186	naturenergie		Franz-Ehret-Straße 9	79541	Lörrach	47.637321	7.695065	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039191	naturenergie		Gottlieb-Daimler-Straße 4a	79618	Rheinfelden	47.549200	7.741054	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039202	naturenergie		Salzertstraße 41	79539	Lörrach	47.602115	7.685197	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039203	naturenergie		L126 0	79674	Todtnau	47.842546	7.932821	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039204	naturenergie		Ortsstraße 9	79692	Kleines Wiesental	47.720293	7.794376	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039210	naturenergie		Dürerstraße 18	79618	Rheinfelden	47.570134	7.775047	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039211	naturenergie		Talstrasse 6	79764	Todtnau	47.842593	7.930557	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039214	naturenergie		Fridolinsgasse 9	79540	Lörrach	47.602199	7.662996	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039215	naturenergie		Roggenbachstraße 11	79650	Schopfheim	47.651031	7.828286	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039216	naturenergie		Schlattholzstraße 14	79650	Schopfheim	47.653749	7.833344	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039219	naturenergie		Königsberger Straße 7	79576	Weil am Rhein	47.594085	7.625429	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039225	naturenergie		Friedrich-Hecker-Straße 19	79539	Lörrach	47.623532	7.654311	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039252	naturenergie		Industriestraße 2	79541	Lörrach	47.635325	7.680467	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1039254	naturenergie		Spielweg 61	79244	Münstertal	47.877498	7.836766	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039256	naturenergie		Spielweg 61	79244	Münstertal	47.877419	7.836390	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1039257	naturenergie		Marie-Curie-Straße 1	79539	Lörrach	47.608431	7.657664	1			~CCS2:75|~CCS2:75
+1039263	naturenergie		Kirchstraße 2	79227	Schallstadt	47.961355	7.767473	1			~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1040361	HomE of Mobility GmbH		Schongauer Str. 14	86975	Bernbeuren	47.739821	7.787280	1			~CCS2:50|~CCS2:50
+1040432	Bidirex GmbH		Willhelm-Schneider-Str. 3a	79189	Bad Krozingen	47.919622	7.699371	1			~TYPE2:22|~TYPE2:22
+1040433	Bidirex GmbH		Südring 11	79189	Bad Krozingen	47.909774	7.699440	1			~TYPE2:22|~TYPE2:22
+1040434	Bidirex GmbH		Beim Stadthaus 2	79395	Neuenburg am Rhein	47.815983	7.563645	1			~TYPE2:22|~TYPE2:22
+1040435	Bidirex GmbH		Freiburgerstraße 11a	79395	Neuenburg am Rhein	47.814297	7.568957	1			~TYPE2:22|~TYPE2:22
+1040436	Bidirex GmbH		Vogesenstraße 2	79395	Neuenburg am Rhein	47.819663	7.555028	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040444	Bidirex GmbH		Tunibergstraße 2b	79189	Bad Krozingen	47.953119	7.670041	1			~TYPE2:22|~TYPE2:22
+1040445	Bidirex GmbH		Blauenstraße 6	79189	Bad Krozingen	47.913599	7.702176	1			~TYPE2:22|~TYPE2:22
+1040448	Bidirex GmbH		Baslerstraße 2	79418	Schliengen	47.755053	7.577599	1			~TYPE2:22|~TYPE2:22
+1040449	Bidirex GmbH		Baslerstraße 2	79418	Schliengen	47.754649	7.577475	1			~TYPE2:22|~TYPE2:22
+1040450	Bidirex GmbH		Kronenrain 1	79395	Neuenburg am Rhein	47.814565	7.557823	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040454	Bidirex GmbH		Otto-Lilienthal-Str. 4	79395	Neuenburg am Rhein	47.800282	7.551201	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|DE*ING*E6999*006~TYPE2_TETHERED:22|DE*ING*E6999*007~TYPE2_TETHERED:22
+1040455	Bidirex GmbH		Basler Straße 50	79227	Schallstadt	47.957799	7.761709	1			~TYPE2:11|~TYPE2:11
+1040456	Bidirex GmbH		Scheffelstraße 49	79199	Kirchzarten	47.969671	7.951132	1			~TYPE2:22|~TYPE2:22
+1040459	Bidirex GmbH		Hacher Straße 7	79379	Müllheim	47.811932	7.603148	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1040969	Bidirex GmbH	Bidirex TechCenter	Karl-Friedrich-Benz-Str. 5b	79395	Neuenburg am Rhein	47.808740	7.558667	1	24/7	Keine Beschränkung	DE*ING*E7999*001~TYPE2:22|DE*ING*E7999*002~TYPE2:22
+1040983	Bidirex GmbH	Bidirex GmbH TechCenter	Karl-Friedrich-Benz-Str. 5b	79395	Neuenburg am Rhein	47.808713	7.558752	1	24/7	Keine Beschränkung	DE*ING*E7999*003~TYPE2:22|DE*ING*E7999*004~TYPE2:22|DE*ING*E7999*005~TYPE2:22|DE*ING*E7999*006~TYPE2:22|DE*ING*E7999*007~TYPE2:22|DE*ING*E7999*008~TYPE2:22|DE*ING*E7999*009~TYPE2:22|DE*ING*E7999*010~TYPE2:22
+1040988	Bidirex GmbH	Bidirex GmbH Ladepark Auggen	An der Sonnberghalle 2	79424	Auggen	47.791150	7.592355	1	24/7	Keine Beschränkung	DE*ING*E79424*001~CCS2:150|DE*ING*E79424*002~CCS2:150|DE*ING*E79424*003~CCS2:150|DE*ING*E79424*004~CCS2:150|DE*ING*E79424*005~CCS2:150|DE*ING*E79424*006~CCS2:150|DE*ING*E79424*007~CCS2:150|DE*ING*E79424*008~CCS2:150|DE*ING*E79424*020~TYPE2:22|DE*ING*E79424*021~TYPE2:22
+1040993	Bidirex GmbH	Bidirex GmbH BürgelinIT	Moltkeplatz 1	79379	Müllheim	47.809480	7.629510	1	24/7	Keine Beschränkung	DE*ING*E6999*021~TYPE2:22|DE*ING*E6999*022~TYPE2:22|DE*ING*E6999*023~TYPE2:22|DE*ING*E6999*024~TYPE2:22
+1042983	Allego		Am Dreispitz 3	79589	Binzen	47.625680	7.606957	1			DEALLEGO000603*1~CCS2:50+CHADEMO:50|DEALLEGO000603*2~TYPE2_TETHERED:43
+1043702	Allego		Schopfheimer Str. 15	79115	Freiburg im Breisgau	47.981078	7.820611	1		Keine Beschränkung	DEALLEGO002959*1~CCS2:150|DEALLEGO002959*2~CCS2:150
+1046838	Parkraumgesellschaft Baden-Württemberg GmbH		Luisenstraße 10	79539	Lörrach	47.615986	7.663278	1			~TYPE2:22|~TYPE2:22
+1046851	Parkraumgesellschaft Baden-Württemberg GmbH		Friedrichstraße 4	79410	Badenweiler	47.799924	7.672456	1			~TYPE2:22|~TYPE2:22
+1046884	go2zero		Schwarzwaldstr. 179	79117	Freiburg	47.990129	7.883426	1			~TYPE2:22|~TYPE2:22
+1047338	GETEC mobility solutions GmbH		Friedrichstraße 53-55	79677	Schönau im Schwarzwald	47.791990	7.900629	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1047358	GETEC mobility solutions GmbH		Talstraße 22	79677	Schönau	47.786136	7.892958	1			~TYPE2:22|~TYPE2:22
+1047409	GETEC mobility solutions GmbH		Hof 1	79677	Fröhnd	47.764116	7.891523	1			~TYPE2:22|~TYPE2:22
+1047480	GETEC mobility solutions GmbH		Holz 10b	79677	Fröhnd	47.764513	7.904341	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1048695	Lidl	3388_Lidl_Freiburg_T53-IT1-4516-021	Konrad-Goldmann-Str. 3	79100	Freiburg im Breisgau	47.986370	7.834220	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1048918	Lidl	6837_Lidl_Wehr-Baden_T65-IT1-1522-071	Im Hammer 5b	79664	Wehr	47.631242	7.905062	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1048977	Lidl	6682_Lidl_T65-IT1-0323-120	Weiler Str. 26	79540	Lörrach	47.603982	7.653580	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049704	E.ON Drive Infrastructure		Raststätte Breisgau Ost 0	79227	Schallstadt	47.970582	7.721727	1			~CCS2:50|~CCS2:50
+1050354	Pfalzwerke AG		Glarnerstraße 4	79713	Bad Säckingen	47.551947	7.932648	1			~TYPE2:22|~CCS2:150|~CCS2:150
+1050376	Pfalzwerke AG		Max-Schweinlin-Straße 7	79395	Neuenburg am Rhein	47.810230	7.569870	1			~TYPE2:22|~CCS2:50
+1050389	Pfalzwerke AG		Eulerstraße 2	79589	Binzen	47.624872	7.606320	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1050745	Pfalzwerke AG		Lörracher Straße, Gewerbegebiet 30	79379	Müllheim	47.805660	7.603200	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1050864	Pfalzwerke AG		St.-Erentrudis-Straße 1A	79112	Freiburg im Breisgau	47.967338	7.694853	1		Keine Beschränkung	~CCS2:125|~CCS2:125
+1051350	badenova AG & Co. KG		Urachstr. 25	79102	Freiburg im Breisgau	47.985024	7.853347	1	24/7	Keine Beschränkung	AT*HTB*E1019329~TYPE2:11|AT*HTB*E1019330~TYPE2:11
+1051352	badenova AG & Co. KG		Hansjakobstr. 112B	79117	Freiburg im Breisgau	47.986258	7.887516	1	24/7	Keine Beschränkung	AT*HTB*E1019331~TYPE2:11|AT*HTB*E1019332~TYPE2:11
+1053456	JET Tankstellen Deutschland GmbH		In der Teichmatt 2	79689	Maulburg	47.645799	7.770141	1		Nur für Kunden/Besucher	~CCS2:320|~CCS2:320
+1053457	JET Tankstellen Deutschland GmbH		In der Teichmatt 2	79689	Maulburg	47.645815	7.770240	1		Nur für Kunden/Besucher	~CCS2:320|~CCS2:320
+1054783	Aral Pulse		Werderstraße 105	79379	Müllheim	47.808867	7.639707	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055165	Aral Pulse		Werderstraße 105	79379	Müllheim	47.809064	7.639596	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055582	Ladepark Südbaden GmbH		Schreiberstr. 1	79098	Freiburg im Breisgau	47.990642	7.846255	1	24/7	Keine Beschränkung	AT*HTB*E1012974 AT*HTB*E1012973~CCS2:350+CCS2:350|AT*HTB*E1012975 AT*HTB*E1012976~CCS2:350+CCS2:350|AT*HTB*E1012977 AT*HTB*E1012978~CCS2:200+CCS2:200
+1055585	Ladepark Südbaden GmbH		Kappler Str. 58	79117	Freiburg im Breisgau	47.980413	7.904304	1	24/7	Keine Beschränkung	AT*HTB*E1015373 AT*HTB*E1015374~CCS2:150+CCS2:150
+1055665	Bidirex GmbH	Stadt Neuenburg Bibliothek	Rebstr. 3a	79395	Neuenburg am Rhein	47.814421	7.562035	1	24/7	Keine Beschränkung	DE*ING*E0075*001~TYPE2:22|DE*ING*E0075*002~TYPE2:22
+1057669	StromSpeicherMarkt GmbH		Bertha-von-Suttner-Straße 14	79111	Freiburg im Breisgau	47.997777	7.793680	1			~TYPE2:22|~TYPE2:22
+1057673	StromSpeicherMarkt GmbH		Laßbergstraße 4	79117	Freiburg im Breisgau	47.984412	7.893325	1			~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057677	StromSpeicherMarkt GmbH		Basler Straße 8	79100	Freiburg im Breisgau	47.988679	7.847522	1			~TYPE2:22|~TYPE2:22
+1057678	StromSpeicherMarkt GmbH		Hermannstraße 2	79098	Freiburg im Breisgau	47.996692	7.854878	1			~TYPE2:22|~TYPE2:22
+1057679	StromSpeicherMarkt GmbH		Merianstraße 34	79104	Freiburg im Breisgau	47.999801	7.850711	1			~TYPE2:22|~TYPE2:22
+1057681	StromSpeicherMarkt GmbH		Schwarzwaldstraße 125	79117	Freiburg im Breisgau	47.988690	7.869063	1			~TYPE2:22|~TYPE2:22
+1057682	StromSpeicherMarkt GmbH		Carl-Kistner-Straße 176	79115	Freiburg im Breisgau	47.987648	7.827715	1			~TYPE2:22|~TYPE2:22
+1057683	StromSpeicherMarkt GmbH		Willy-Brandt-Allee 13	79111	Freiburg im Breisgau	47.999809	7.792340	1			~TYPE2:22|~TYPE2:22
+1057684	StromSpeicherMarkt GmbH		Romanstraße 2	79112	Freiburg im Breisgau Ortsteil Munzingen	47.968380	7.698765	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057686	StromSpeicherMarkt GmbH		Alte Breisacher Straße 0	79112	Freiburg im Breisgau Ortsteil Tiengen	47.985019	7.713413	1			~TYPE2:22|~TYPE2:22
+1057689	StromSpeicherMarkt GmbH		Im Maierbrühl 0	79112	Freiburg im Breisgau Ortsteil Tiengen	47.982901	7.719170	1			~TYPE2:22|~TYPE2:22
+1057690	StromSpeicherMarkt GmbH		Vaubanallee 43	79100	Freiburg im Breisgau	47.975998	7.819701	1			~TYPE2:22|~TYPE2:22
+1057691	StromSpeicherMarkt GmbH		Habsburger Straße 130	79104	Freiburg im Breisgau	47.999489	7.853232	1			~TYPE2:22|~TYPE2:22
+1057692	StromSpeicherMarkt GmbH		Feldbergstaße 18a	79115	Freiburg im Breisgau	47.988521	7.818918	1			~TYPE2:22|~TYPE2:22
+1057694	StromSpeicherMarkt GmbH		Merzhauser Straße 172	79100	Freiburg im Breisgau	47.972968	7.828331	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2:22
+1057696	StromSpeicherMarkt GmbH		An den Heilquellen 4	79111	Freiburg im Breisgau	47.983045	7.765496	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057698	StromSpeicherMarkt GmbH		Rabenkopfstraße 4	79102	Freiburg im Breisgau	47.992085	7.872607	1			~TYPE2:22|~TYPE2:22
+1057699	StromSpeicherMarkt GmbH		Krozinger Straße 15	79114	Freiburg im Breisgau	47.994189	7.813555	1			~TYPE2:22|~TYPE2:22
+1057703	StromSpeicherMarkt GmbH		Talstraße 72	79102	Freiburg im Breisgau	47.993016	7.810357	1			~TYPE2:22|~TYPE2:22
+1057704	StromSpeicherMarkt GmbH		Türkenlouisstraße 22	79102	Freiburg im Breisgau	47.982580	7.853524	1			~TYPE2:22|~TYPE2:22
+1057705	StromSpeicherMarkt GmbH		Türkenlouisstraße 22	79102	Freiburg im Breisgau	47.982591	7.853586	1			~TYPE2:22|~TYPE2:22
+1057707	StromSpeicherMarkt GmbH		Großtalstraße 45	79117	Freiburg im Breisgau	47.964747	7.908629	1			~TYPE2:22|~TYPE2:22
+1057708	StromSpeicherMarkt GmbH		Kartäuserstraße 64a	79102	Freiburg im Breisgau	47.991605	7.860415	1			~TYPE2:22|~TYPE2:22
+1057712	StromSpeicherMarkt GmbH		Reichenbachstraße 8	79117	Freiburg im Breisgau Stadtteil Kappel	47.970024	7.910563	1			~TYPE2:22|~TYPE2:22
+1057714	StromSpeicherMarkt GmbH		Gabelsbergstraße 2	79111	Freiburg im Breisgau Stadtteil St. Georgen	47.978147	7.814856	1			~TYPE2:22|~TYPE2:22
+1057721	StromSpeicherMarkt GmbH		Reinhold-Schneider-Straße 9	79117	Freiburg im Breisgau	47.982739	7.899411	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057728	StromSpeicherMarkt GmbH		Oltmannsstraße 14	79100	Freiburg im Breisgau	47.980038	7.829475	1			~TYPE2:22|~TYPE2:22
+1057729	StromSpeicherMarkt GmbH		Maximilianstraße 34	79100	Freiburg im Breisgau	47.983405	7.844513	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057735	StromSpeicherMarkt GmbH		Skagerrakstraße 9	79100	Freiburg im Breisgau	47.983640	7.833525	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057737	StromSpeicherMarkt GmbH		Hartkirchweg 15a	79111	Freiburg im Breisgau	47.980128	7.802515	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057739	StromSpeicherMarkt GmbH		Bürgerwehrstraße 28	79102	Freiburg im Breisgau	47.985805	7.863517	1			~TYPE2:22|~TYPE2:22
+1061461	naturenergie		Gustave-Fecht-Str. 21	79576	Weil am Rhein	47.597599	7.619944	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1061539	naturenergie		Oberbaselweg 55	79576	Weil am Rhein	47.589823	7.627870	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1061541	naturenergie		Eichbergstr. 44	79618	Rheinfelden (Baden)	47.556024	7.768734	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1061554	naturenergie		Im Ebnet 13	79238	Ehrenkirchen	47.922937	7.725190	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1061558	naturenergie		Wiesentalstr. 62	79539	Lörrach	47.619845	7.653557	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1061586	Allego		Alte Str. 56	79576	Weil am Rhein	47.599616	7.598581	1	24/7	Keine Beschränkung	DEALLEGO003209_1~CCS2:300|DEALLEGO003209_2~CCS2:300|DEALLEGO003325_1~CCS2:300|DEALLEGO003325_2~CCS2:300|DEALLEGO003630_1~CCS2:300|DEALLEGO003630_2~CCS2:300
+1062314	naturenergie		Müllheimer Str. 6	79576	Weil am Rhein	47.594161	7.610183	1	24/7	Keine Beschränkung	DE*EDH*E001370~TYPE2:22|DE*EDH*E001371~TYPE2:22
+1062315	naturenergie		Hauptstr. 33	79618	Rheinfelden (Baden)	47.556790	7.732762	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062316	naturenergie		Tumringer Str. 271	79539	Lörrach	47.620415	7.658885	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1062396	Parkraumgesellschaft Baden-Württemberg GmbH	Stellplatz	Engelbergerstr. 41	79106	Freiburg im Breisgau	47.997057	7.833839	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1062400	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Katharinenstr. 0	79104	Freiburg im Breisgau	47.999524	7.848759	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1062401	Parkraumgesellschaft Baden-Württemberg GmbH	Parkplatz	Friedrichstr. 39	79098	Freiburg im Breisgau	47.998937	7.847815	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1062516	Parkraumgesellschaft Baden-Württemberg GmbH	Parkgarage	Friedrichstr. 4	79410	Badenweiler	47.799864	7.668335	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1064082	Kaufland	2020_Kland_Lörrach_T53-HU1-4317-014	Robert-Bosch-Str. 6	79539	Lörrach	47.625961	7.675049	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064155	Kaufland		Großfeldstr. 2	79618	Rheinfelden	47.575350	7.801850	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1064394	badenova AG & Co. KG		Brendweg 0	79115	Freiburg im Breisgau	47.990349	7.815582	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1064395	badenova AG & Co. KG		Schwarzwaldstr. 124	79102	Freiburg im Breisgau	47.988873	7.880958	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1065947	Team-Emobility GmbH		Lörracher Str. 4	79115	Freiburg	47.984935	7.826133	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1066319	Autohaus Josef Mayer GmbH		Beiersdorfstraße 4	79423	Heitersheim	47.872692	7.650652	1			~TYPE2:22|~TYPE2:22
+1066610	Bruggaa Restaurant		Geroldstalstraße 1	79254	Oberried	47.945003	7.951041	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1066666	Hajro Mujevic, Einzelunternehmer		Gewerbering 13	79426	Buggingen	47.852162	7.629382	1			~TYPE2:22|~TYPE2:22
+1066687	Porsche Sales and Marketplace GmbH		Eisenbahnstr. 13	79541	Lörrach	47.631800	7.683510	1			~CCS2:320|~CCS2:320|~CCS2:320|~CCS2:320
+1066749	Stadt Breisach am Rhein		Oberrimsinger Weg 16	79206	Breisach-Oberrimsingen	47.983385	7.666722	1			~TYPE2:22|~TYPE2:22
+1066806	coffee & wine		An der B3 1	79424	Auggen	47.787841	7.589908	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1067899	Petra Fischer		Bahnhofstr. 22	79585	Steinen	47.640732	7.736266	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1067966	Dreher + Dreher GmbH		Mühlenstraße 10	79599	Wittlingen	47.657048	7.645378	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1068544	RGET-Elektrotankstelle		Tumringerstrasse 289-293	79539	Lörrach	47.623280	7.658690	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068892	Thomas Betz		Kirchweg 4	79244	Münstertal	47.860328	7.799530	1			~TYPE2:11
+1068971	Sport-Kuhn		Freiburger Straße 21	77652	Offenburg	47.973681	7.838145	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1069026	Bürger Energie St. Peter eG		Hauptstraße 20a	79254	Oberried	47.935680	7.953420	1			~TYPE2:22|~TYPE2:22
+1069071	Michael Szymanski	Death Star Coaxium Hub	Flößerstraße 11	79713	Bad Säckingen	47.563176	7.914255	1		Keine Beschränkung	~TYPE2:11
+1069374	Panorama Sonnenalm Schwarzwald		Hornweg 21	79674	Todtnau	47.851290	7.937280	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1069401	Hotel Schwarzmatt e.K.		Schwarzmattstr. 6A	79410	Badenweiler	47.803610	7.679170	1			~TYPE2:11+TYPE2_TETHERED:11
+1070214	Porsche Zentrum Freiburg Graf Hardenberg Sportwagen GmbH		Basler Straße 94	79115	Freiburg	47.984828	7.824174	1			~CCS2:320
+1070851	badenova AG & Co. KG		Friedhofstraße 15	79199	Kirchzarten	47.965295	7.953878	1			~TYPE2:22|~TYPE2:22
+1070852	badenova AG & Co. KG		Am Burger Platz 3	79199	Kirchzarten	47.962967	7.982577	1			~TYPE2:11|~TYPE2:11
+1070902	Autohaus Lehmann GmbH		Hohe-Flum-Str. 1	79650	Schopfheim	47.651860	7.823571	1			~TYPE2:22|~TYPE2:22
+1071647	Fred Abel GmbH		Im Ebnet 1	79238	Ehrenkirchen	47.921638	7.723955	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071850	Sutter³		Freiburgerstr. 6	79199	Kirchzarten	47.963931	7.951964	1			~TYPE2:22
+1075740	Kestenholz GmbH		St.Georgener Strasse 1	79111	Freiburg	47.989187	7.798313	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075741	Kestenholz GmbH		Bärenfelser Str. 8	79539	Lörrach	47.626246	7.678129	1			~TYPE2:11+TYPE2_TETHERED:11+CHADEMO:11+SCHUKO:11|~TYPE2:11+TYPE2_TETHERED:11
+1075742	Kestenholz GmbH		Bärenfelser Str. 8	79539	Lörrach	47.626282	7.678183	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075743	Kestenholz GmbH		Bärenfelser Str. 8	79539	Lörrach	47.626350	7.678267	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075744	Kestenholz GmbH		Hegenheimer Str. 6	79576	Weil am Rhein	47.605606	7.598742	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075745	Kestenholz GmbH		Hegenheimer Str. 6	79576	Weil am Rhein	47.605452	7.597656	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075746	Kestenholz GmbH		Am Buchrain 4	79713	Bad Säckingen	47.555401	7.927942	1			~TYPE2:150+TYPE2_TETHERED:150|~TYPE2:150+TYPE2_TETHERED:150
+1075747	Kestenholz GmbH		Am Buchrain 4	79713	Bad Säckingen	47.555410	7.928003	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075749	Kestenholz GmbH		Am Buchrain 4	79713	Bad Säckingen	47.555442	7.928179	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075750	Kestenholz GmbH		Am Buchrain 4	79713	Bad Säckingen	47.555462	7.928259	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1075752	Kestenholz GmbH		Am Buchrain 4	79713	Bad Säckingen	47.555385	7.928442	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1076003	Einrichten Schweigert		Hauptstraße 28	79689	Maulburg	47.647255	7.777702	1			~TYPE2:11|~TYPE2:11
+1076842	Korkis Motel	Korkis Motel	Lusring 7	79650	Schopfheim	47.642140	7.812555	1	24/7	Keine Beschränkung	DE*ONE*ESS1E~TYPE2_TETHERED:22|DE*ONE*EQJ89~TYPE2_TETHERED:22
+1077093	StromSpeicherMarkt GmbH		Hildastr. 25	79102	Freiburg im Breisgau	47.989080	7.854430	1	24/7	Keine Beschränkung	DESSME004401~TYPE2:22|DESSME004401~TYPE2:22|DESSME004403~TYPE2:22|DESSME004404~TYPE2:22
+1077200	naturenergie	DHBW Lörrach	Hangstr. 54	79539	Lörrach	47.617925	7.677502	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1078061	Stadtwerke Bad Säckingen GmbH	Autohaus Bartholome	Am Buchrain 17	79713	Bad Säckingen	47.554403	7.928873	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1078128	naturenergie	Stadthalle Schopfheim	Hauptstr. 9	79650	Schopfheim	47.649530	7.817421	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1078296	Bidirex GmbH	Bidirex GmbH Beermann	Im Mittelfeld 19	79426	Buggingen	47.850181	7.625652	1	24/7	Keine Beschränkung	DE*ING*E7999*011~TYPE2_TETHERED:22|DE*ING*E7999*012~TYPE2_TETHERED:22|DE*ING*E7999*013~TYPE2_TETHERED:22|DE*ING*E7999*014~TYPE2_TETHERED:22|DE*ING*E7999*015~TYPE2_TETHERED:22|DE*ING*E7999*016~TYPE2_TETHERED:22
+1080988	H2O GmbH		Wiesenstrasse 32	79585	Steinen	47.638837	7.730513	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:50|~CCS2:50
+1081361	Gottstein GmbH Automobile + Motorräder		Konrad-Zuse-Str. 4	79589	Binzen	47.623297	7.612194	1			~TYPE2:22|~TYPE2:22
+1081499	Pfalzwerke AG		Hexentalstr. 49	79249	Merzhausen	47.965857	7.829283	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1085569	Erjon Dyshniku		Schillerstraße 8	79618	Rheinfelden (Baden)	47.559061	7.782632	1			~TYPE2:11
+1086542	Kurt Spittler		Hünerbergweg 1b	79539	Lörrach	47.610831	7.666109	1			~TYPE2_TETHERED:11
+1086835	Marlies Lorenz		Clara-Schumann-Straße 8	79189	Bad Krozingen	47.924147	7.699254	1			~TYPE2_TETHERED:11
+1087476	Ralph Remensperger		Talstrasse 3	79418	Schliengen	47.753720	7.576649	1			~TYPE2_TETHERED:11
+1087519	Rene Jackstien		Blansinger Straße 15	79415	Bad Bellingen	47.707611	7.531855	1			~TYPE2:11
+1087635	Sandra Waßmer		Lindenstraße 12	79674	Todtnau	47.828811	7.948148	1			~CCS2:11
+1087755	Simon Scherer		Herrgasse 19	79294	Sölden	47.934164	7.806144	1			~TYPE2_TETHERED:22
+1087832	Stefan Niederkofler		Bühlstraße 45333	79576	Weil am Rhein	47.595654	7.614143	1			~TYPE2_TETHERED:20
+1087900	STEP Computer- und Datentechnik GmbH		Im Entenbad 20	79541	Lörrach	47.641359	7.700751	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088391	Waldmeier Kremer Andreas		Lindenstraße 35	79258	Hartheim am Rhein	47.916603	7.624612	1			~TYPE2_TETHERED:11
+1088714	naturenergie	derWaldfrieden	Dorfstr. 8	79674	Todtnau	47.767759	7.954534	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1089808	StromSpeicherMarkt GmbH	Wilhelmstraße 26	Wilhelmstr. 26	79098	Freiburg im Breisgau	47.993568	7.842558	1	24/7	Keine Beschränkung	DESSME003901~CCS2:50|DESSME003902~CCS2:50|DESSME003903~CCS2:50|DESSME003904~CCS2:50
+1091196	Irene Albiez		Notschreipasshöhe 2	79674	Todtnau	47.875747	7.910914	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1091200	Irene Albiez		Schauinslandstr. 3	79674	Todtnau	47.857053	7.917173	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1091846	naturenergie		Bahnhofstr. 20	79415	Bad Bellingen	47.730552	7.557275	1	24/7	Keine Beschränkung	~TYPE2:22+SCHUKO:22|~TYPE2:22
+1092845	Ladepark Südbaden GmbH & Co. KG		Schreiberstraße 1	79098	Freiburg	47.980700	7.904700	1			~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1093201	Hotel garni Schacherer		Moltkestr. 12	79379	Müllheim	47.810610	7.631380	1			~TYPE2:22
+1096580	Autohaus Büchle GmbH		Blauenstraße 69	79589	Binzen	47.629138	7.619552	1			~CCS2:22|~TYPE2:11
+1096743	Autohaus Hunzinger GmbH		Betberger Str. 1	79426	Buggingen	47.858417	7.639640	1			~CCS2:22|~TYPE2:11
+1096811	Autohaus Krüger GmbH		Tulpenbaumallee 55	79189	Bad Krozingen	47.921855	7.708166	1			~CCS2:22|~TYPE2:11
+1096950	Autohaus Pfister		Fischerstraße 6	79395	Neuenburg am Rhein	47.812460	7.556097	1			~CCS2:22|~TYPE2:11
+1097061	Autohaus Stoll GmbH		Wiesentalstraße 30	79540	Lörrach	47.605182	7.653391	1			~CCS2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1097101	Autohaus Tröndle		Gündenhausen 34	79650	Schopfheim	47.647209	7.809152	1			~CCS2:22|~TYPE2:11
+1097102	Autohaus Tröndle		Langfuhren 12	79713	Bad Säckingen	47.551526	7.929021	1			~CCS2:22|~TYPE2:11
+1097600	Vollmer GmbH & Co.KG		Bundesstraße 5	79379	Müllheim	47.810887	7.609133	1			~CCS2:22|~TYPE2:11
+1100338	Tesla Germany GmbH		Im Rebacker 1	79591	Eimeldingen	47.626586	7.599531	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102424	David Dybal		Dortustrasse 32	79111	Freiburg im Breisgau	47.979813	7.810668	1			~TYPE2:11
+1102658	Hotel Burgblick Einzelfirma		Hebelweg 15	79410	Badenweiler	47.798280	7.666006	1			~TYPE2:6|~TYPE2:6|~TYPE2:6|~TYPE2:6
+1104064	Hotel Höllsteiner Hof		Friedrichstr. 65	79585	Steinen	47.639646	7.757737	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1104249	Roswitha Reinmuth		Ferdinand-Weiß-Str. 9-11	79106	Freiburg	47.994910	7.834246	1			~TYPE2:22|~TYPE2:22
+1104459	Wassmer Spezialmaschinen GmbH		Steinmattenstr. 5	79423	Heitersheim	47.871150	7.647530	1			~TYPE2:22|~TYPE2:22
+1104541	Pneuhage Management GmbH & Co. KG		Waltershofener Str. 12	79111	Freiburg im Breisgau	47.989623	7.791185	1		Keine Beschränkung	6933645~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1106020	Stadtwerke MüllheimStaufen GmbH		Wilhelmstr. 14	79379	Müllheim	47.807538	7.630816	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106021	Stadtwerke MüllheimStaufen GmbH		Münstertäler Str. 4	79219	Staufen	47.880760	7.729637	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106022	Stadtwerke MüllheimStaufen GmbH		Weilertalstraße 21	79379	Müllheim	47.806370	7.648295	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106023	Stadtwerke MüllheimStaufen GmbH		Bahnhofstrasse 4a	79219	Staufen	47.884715	7.729389	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106024	Stadtwerke MüllheimStaufen GmbH		Am Schießrain 4	79219	Staufen	47.880182	7.730821	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106025	Stadtwerke MüllheimStaufen GmbH		Grünmatten 2b	79219	Staufen	47.884994	7.728221	1			~TYPE2:22+SCHUKO:22
+1106026	Stadtwerke MüllheimStaufen GmbH		Wilhelmstraße 14	79379	Müllheim	47.807457	7.630721	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1106710	E.ON Drive GmbH		Autohof Bremgarten 0	79258	Hartheim-Bremgarten	47.909055	7.592565	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1107114	E.ON Drive GmbH		Fahnenbergplatz 3	79098	Freiburg	47.998413	7.849094	1			~TYPE2:11|~TYPE2:11
+1110009	Stadt Neuenburg am Rhein		Rebstraße 1	79395	Neuenburg am Rhein	47.814421	7.562007	1			~TYPE2:22|~TYPE2:22
+1112981	Schmidt's Märkte Wehr GmbH		Im Hammer 5	79664	Wehr	47.630413	7.906163	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113603	Yan GmbH		Cesar-Stünzi-Straße 0	79618	Rheinfelden	47.558466	7.788565	1			~TYPE2:22|~TYPE2:22
+1113683	Peter Jeschke		Schönbergweg 1	79283	Bollschweil	47.922378	7.783629	1			~TYPE2_TETHERED:11
+1114026	MB Grundstücksverwaltung GmbH&Co.KG		Nelly Sachs Straße 1a	79111	Freiburg	47.996577	7.790430	1			~TYPE2:22|~TYPE2:22
+1114034	Elektro Ullmann, Einzelunternehmen		Nelly-Sachs-Strasse 6	79111	Freiburg im Breisgau	47.995958	7.791295	1			~TYPE2:22|~TYPE2:22
+1114636	Tobias Trickes Photovoltaik		Radschertstr. 5	79674	Todtnau	47.853027	7.942873	1			~TYPE2:22
+1114969	cocharge	DECOC122	Tanzmattstr. 11	79618	Rheinfelden (Baden)	47.555654	7.734965	1	24/7	Keine Beschränkung	DE*COC*E122*01~TYPE2:22
+1116011	Rheinhotel Dreiländerbrücke GmbH		Hauptstraße 435	79576	Weil am Rhein	47.590747	7.593263	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1116272	EWE Go GmbH	McD_0411_1A	Großmattstr. 2	79618	Rheinfelden (Baden)	47.576000	7.796430	1	24/7	Keine Beschränkung	DE*2GO*EMCD0411*1A*1~CCS2:150|DE*2GO*EMCD0411*1A*2~CCS2:150
+1116289	Stadtwerke MüllheimStaufen GmbH		Auf der Breite 7	79379	Müllheim	47.807524	7.627278	1			~TYPE2:22|~TYPE2:22
+1116935	Ludwig Förster		Unter dem Dorf 11	79713	Bad Säckingen	47.553710	7.943600	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22
+1117606	naturenergie	Rathaus Tiefgarage	Kirchplatz 2	79618	Rheinfelden (Baden)	47.560521	7.785847	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118085	TankE GmbH		Rotteckring 3	79098	Freiburg im Breisgau	47.996422	7.846085	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1118315	Parkraumgesellschaft Baden-Württemberg GmbH		Werderstr. 5	79713	Bad Säckingen	47.553249	7.946080	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1118318	Parkraumgesellschaft Baden-Württemberg GmbH		Stefan-Meier-Str. 19-21	79104	Freiburg im Breisgau	47.999456	7.845175	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1118459	EnBW mobility+ AG und Co.KG		Kirchstr. 11	79736	Rickenbach	47.620759	7.980643	1		Keine Beschränkung	~CCS2:75|~CCS2:75
+1119241	EnBW mobility+ AG und Co.KG		Höllentalstr. 96	79199	Kirchzarten	47.961942	7.986999	1		Keine Beschränkung	~CCS2:72|~CCS2:72
+1119252	EnBW mobility+ AG und Co.KG		Tullastr. 12	79713	Bad Säckingen	47.553160	7.934780	1		Keine Beschränkung	~CCS2:72|~CCS2:72
+1120108	naturenergie		Wehratalstr. 56	79664	Wehr	47.592540	7.913868	1	24/7	Keine Beschränkung	DE*EDH*E001506~TYPE2:22
+1120247	eliso	eliso - Wohnwelt - Rheinfelden	Großfeldstr. 17	79618	Rheinfelden (Baden)	47.576966	7.805714	1	24/7	Keine Beschränkung	DE*ELI*E3584537~CCS2:400|DE*ELI*E3584538~CCS2:400|DE*ELI*E3585495~CCS2:200|DE*ELI*E3585497~CCS2:200
+1120911	Stadtwerke MüllheimStaufen GmbH	Im Wolfacker	Im Wolfacker 4	79219	Staufen im Breisgau	47.878798	7.725160	1	24/7	Keine Beschränkung	DESMS~TYPE2:22|DESMS~TYPE2:22
+1121293	Stark Energy GmbH	Jacob-Burckhardt-Straße	Jacob-Burckhardt-Str. 15	79098	Freiburg im Breisgau	47.998827	7.856816	1	24/7	Keine Beschränkung	DE*ARK*E10013*001~CCS2:50|DE*ARK*E10013*002~CCS2:50
+1121294	Stark Energy GmbH	Stark Energy Urachstraße	Urachstr. 9	79102	Freiburg im Breisgau	47.984817	7.849132	1	24/7	Keine Beschränkung	DE*ARK*E10010*001~CCS2:50|DE*ARK*E10010*002~CCS2:50
+1121295	Stark Energy GmbH	Stark Energy Merzhausen	Am Marktplatz 3	79249	Merzhausen	47.966134	7.827046	1	24/7	Keine Beschränkung	DE*ARK*E10009*001~CCS2:150|DE*ARK*E10009*002~CCS2:150
+1121342	Shell Deutschland GmbH	10024722_Binzen	Bundesstr. 3	79589	Binzen	47.625490	7.607740	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1121343	Shell Deutschland GmbH	10024722_Binzen	Bundesstr. 3	79589	Binzen	47.625420	7.607710	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1121344	Shell Deutschland GmbH	10024722_Binzen	An Der B3 0	79589	Binzen	47.625330	7.607670	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1121345	Shell Deutschland GmbH	10024722_Binzen	An Der B3 0	79589	Binzen	47.625260	7.607600	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1121368	naturenergie	Talgarage Wehr	Hauptstr. 25	79664	Wehr	47.626682	7.904723	1	24/7	Keine Beschränkung	DE*EDH*E001517~TYPE2:22|DE*EDH*E001518~TYPE2:22
+1125962	StromSpeicherMarkt GmbH		Mozartstr. 3	79104	Freiburg im Breisgau	47.998963	7.859380	1	24/7	Keine Beschränkung	DESSME005601~TYPE2:22|DESSME005602~TYPE2:22
+1126160	StromSpeicherMarkt GmbH		Schwarzwaldstr. 151	79102	Freiburg im Breisgau	47.987996	7.876114	1	24/7	Keine Beschränkung	DESSME005701~TYPE2:22|DESSME005702~TYPE2:22
+1126407	Stark Energy GmbH	Stark Energy Bergiselstraße	Bergiselstr. 34a	79111	Freiburg im Breisgau	47.975490	7.815677	1	24/7	Keine Beschränkung	DE*ARK*E10012*001~CCS2:200|DE*ARK*E10012*002~CCS2:200
+1126804	Shell Deutschland GmbH		Auf der Gänsmatt 16	79650	Schopfheim	47.647213	7.807443	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1126830	FREICON	FREICON Freiburg	Riegeler Str. 12	79111	Freiburg im Breisgau	47.986547	7.782370	1	24/7	Keine Beschränkung	DE*OMS*EC*A0273*01~TYPE2_TETHERED:22|DE*OMS*EC*A0273*02~TYPE2_TETHERED:22
+1127332	Aberer Automobile GmbH		Brombacher Str. 69	79539	Lörrach	47.621370	7.673530	1	24/7	Nur für Kunden/Besucher	~TYPE2:22
+1127516	Tesla Germany GmbH		Im Maierbrühl 4	79112	Freiburg im Breisgau	47.983534	7.719195	1	24/7	Keine Beschränkung	DE*TSL*E10VAJ6~CCS2:250|DE*TSL*E10VAHW~CCS2:250|DE*TSL*E10VAG9~CCS2:250|DE*TSL*E10VAE5~CCS2:250
+1127640	Alexander Bürkle GmbH & Co. KG	Roche Grenzach-Wyhlen	Emil-Barell-Str. 1	79639	Grenzach-Wyhlen	47.549906	7.664154	1	24/7	Nur für Kunden/Besucher	DE*ABF*E0000055~TYPE2:11|DE*ABF*E0000056~TYPE2:11|DE*ABF*E0000051~TYPE2:11|DE*ABF*E0000052~TYPE2:11|DE*ABF*E0000053~TYPE2:11|DE*ABF*E0000054~TYPE2:11
+1128508	badenova AG & Co. KG		Ludwigstr. 25	79104	Freiburg im Breisgau	47.998935	7.857974	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128745	Alexander Bürkle GmbH & Co. KG	Sparkasse Hochschwarzwald Kirchzarten Hauptstelle 4	Hauptstr. 1	79199	Kirchzarten	47.964631	7.954773	1	24/7	Nur für Kunden/Besucher	DE*ABF*E0000008~TYPE2:11|DE*ABF*E0000007~TYPE2:11|DE*ABF*E0000006~TYPE2:11|DE*ABF*E0000005~TYPE2:11
+1130123	Team-Emobility GmbH		Wiesenstalstrasse 30-31	79540	Lörrach	47.604757	7.653482	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1130800	Pluq		Thürachstr. 10	79189	Bad Krozingen	47.918609	7.688319	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1131065	naturenergie		Hirschenhofweg 15	79117	Freiburg im Breisgau	47.985172	7.903794	1	24/7	Keine Beschränkung	DE*EDH*E001559~TYPE2:22|DE*EDH*E001558~TYPE2:22
+1131411	EnBW mobility+ AG und Co.KG		Basler Str. 12	79227	Schallstadt	47.962200	7.768300	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1131862	naturenergie	Ötlingen Halle	Zur Inmatt 17	79576	Weil am Rhein	47.623832	7.625225	1	24/7	Keine Beschränkung	DE*EDH*E001579~TYPE2:22|DE*EDH*E001580~TYPE2:22
+1132004	Stark Energy GmbH	Stark Energy Else-Wagner-Straße	Else-Wagner-Str. 3	79115	Freiburg im Breisgau	47.984906	7.820478	1	24/7	Keine Beschränkung	DE*ARK*E10036*001~CCS2:200|DE*ARK*E10036*002~CCS2:200
+1132794	Shell Deutschland GmbH	13053414_Bad Krozingen	Am Alamannenfeld 1	79189	Bad Krozingen	47.920572	7.704189	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1134445	D&S Müller Energie eGbR	Müller Gartencenter	Am Hockenbuck 1	79227	Schallstadt	47.952220	7.745475	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1134653	ALDI SÜD	MAH-008-02	Colmarer Str. 5	79395	Neuenburg am Rhein	47.817545	7.556497	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23784~CCS2:50|DE*ALD*E23785~CCS2:50
+1134905	Kaufland	8490_KLand_Bad Säckingen_LS2_T65-IT1-1025-001	Schaffhauser Str. 90	79713	Bad Säckingen	47.559690	7.973170	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60|~CCS2:60|~TYPE2:22|~CCS2:60
+1135197	SimplyCharge	Binzen Gemeindehalle Schulstraße	Schulstr. 7	79589	Binzen	47.635294	7.623307	1	24/7	Keine Beschränkung	Noch nicht bekannt~TYPE2:22|Noch nicht bekannt~TYPE2:22|Noch nicht bekannt~TYPE2:22|Noch nicht bekannt~TYPE2:22
+1135564	Circle K Deutschland	Freiburg	Basler Str. 57	79100	Freiburg im Breisgau	47.987354	7.839019	1	24/7	Keine Beschränkung	Seriennummer HYC400-24BZ1081D~CCS2:400|Seriennummer HYC400-24BZ1081D~CCS2:400|Seriennummer HYC400-24BZ1082D~CCS2:400+CHADEMO:100|Seriennummer HYC400-24BZ1082D~CCS2:400
+1136353	Aral Pulse		Bötzinger Str. 19	79111	Freiburg im Breisgau	47.991710	7.788987	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400|~CCS2:400
+1138883	badenova AG & Co. KG		Bismarckallee 1	79098	Freiburg im Breisgau	47.996810	7.841673	1	24/7	Keine Beschränkung	DE*BAD*E100359~TYPE2:22|DE*BAD*E100360~TYPE2:22|DE*BAD*E100361~TYPE2:22|DE*BAD*E100362~TYPE2:22|DE*BAD*E100363~TYPE2:22|DE*BAD*E100364~TYPE2:22
+1138888	badenova AG & Co. KG		Herbert-Hellmann-Allee 44	79189	Bad Krozingen	47.923200	7.688347	1	24/7	Keine Beschränkung	DE*BAD*E100353~TYPE2:22|DE*BAD*E100354~TYPE2:22|DE*BAD*E100355~TYPE2:22|DE*BAD*E100356~TYPE2:22|DE*BAD*E100357~TYPE2:22|DE*BAD*E100358~TYPE2:22
+1139341	SCHARR Drive Ladestation	SP Golfclub Tuniberg	Große Brühl 1	79112	Freiburg im Breisgau	47.967498	7.682556	1	24/7	Keine Beschränkung	DE*ARR*ESP137*001~TYPE2:11|DE*ARR*ESP137*002~TYPE2:11|DE*ARR*ESP138*001~TYPE2:11|DE*ARR*ESP138*002~TYPE2:11
+1139669	naturenergie		Rheinstr. 17	79576	Weil am Rhein	47.624888	7.580668	1	24/7	Keine Beschränkung	DE*EDH*E001566~TYPE2:22|DE*EDH*E001567~TYPE2:22
+1139781	GETEC mobility solutions GmbH	LADEGRUEN20147 HYC150 EWS Freibad Schönau im Schwarzwald	Friedrichstr. 58	79677	Schönau im Schwarzwald	47.790969	7.899948	1	24/7	Keine Beschränkung	DE*LAD*ELADEGRUEN20147*01~CCS2:150|DE*LAD*ELADEGRUEN20147*01~CCS2:150
+1140700	Lidl	7081_Lidl_Schopfheim_T65-IT1-0725-010	Auf der Gänsmatt 20	79650	Schopfheim	47.646590	7.809390	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1140997	naturenergie		Holzmattenweg 4	79576	Weil am Rhein	47.584722	7.606101	1	24/7	Keine Beschränkung	DE*EDH*E001572~TYPE2:22|DE*EDH*E001573~TYPE2:22
+1140998	naturenergie	Rathaus Kandern	Waldeckstr. 39	79400	Kandern	47.713573	7.664246	1	24/7	Keine Beschränkung	DE*EDH*E001611~TYPE2:22|DE*EDH*E001612~TYPE2:22|DE*EDH*E001613~TYPE2:22|DE*EDH*E001614~TYPE2:22
+1143899	Stadtwerke Bad Säckingen GmbH	Festplatz	Austr. 32	79713	Bad Säckingen	47.548970	7.946934	1	24/7	Keine Beschränkung	DESWSE001501~CCS2:25|DESWSE001502~CCS2:25
+1143902	Stadtwerke Bad Säckingen GmbH	Bergseestraße	Bergseestr. 0	79713	Bad Säckingen	47.560966	7.942036	1	24/7	Keine Beschränkung	DESWSE001701~TYPE2:22|DESWSE001702~TYPE2:22|DESWSE001703~TYPE2:22|DESWSE001704~TYPE2:22
+1143932	Stadtwerke Bad Säckingen GmbH	Rathaus Rippolingen	Mühlenweg 2	79713	Bad Säckingen	47.577845	7.987638	1	24/7	Keine Beschränkung	DESWSE001601~TYPE2:22|DESWSE001602~TYPE2:22
+1145719	Stadtwerke Bad Säckingen GmbH	Autohaus Gottstein	Im Grütt 14	79713	Bad Säckingen	47.552949	7.927422	1	24/7	Keine Beschränkung	DESWSE001401~TYPE2:22|DESWSE001402~TYPE2:22
+1145786	Stadtwerke MüllheimStaufen GmbH	Rathaus	Bismarckstr. 3	79379	Müllheim im Markgräflerland	47.809496	7.629407	1	24/7	Nur für Kunden/Besucher	DESMSS001101~TYPE2:11|DESMSE001102~TYPE2:11|DESMSS001201~TYPE2:11|DESMSE001202~TYPE2:11
+1147038	Neukauf Markt GmbH		Lörracher Str. 8	79115	Freiburg im Breisgau	47.981520	7.824440	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1149150	ALDI SÜD	MAH-012-02	Basler Str. 113	79115	Freiburg im Breisgau	47.984453	7.818796	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*ALD*E23443~CCS2:200|DE*ALD*E23442~CCS2:200
+1149151	ALDI SÜD	MAH-012-03	Basler Str. 113	79115	Freiburg im Breisgau	47.984604	7.818710	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*ALD*E23444~CCS2:200|DE*ALD*E23445~CCS2:200
+1149749	Streck Transportges.mbH	Streck Lörrach PKW-1	Brombacher Str. 61	79539	Lörrach	47.621120	7.672680	1		Nur für Kunden/Besucher	DE*ONE*EA8HV~TYPE2:11|DE*ONE*E7TKU~TYPE2:11
+1150061	Parkraumgesellschaft Baden-Württemberg GmbH	Tiefgarage Universität Kollegiengebäude	Humboldtstr. 3	79098	Freiburg im Breisgau	47.993201	7.847686	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1150140	BCW Hotels & Resorts GmbH	Hotel Luisenhöhe - Gesundheitsresort Schwarzwald	Luisenhöhestr. 14	79289	Horben	47.946600	7.855100	1	24/7	Keine Beschränkung	DE*MSU*ECBCW*ST1*01~TYPE2:11|DE*MSU*ECBCW*ST1*02~TYPE2:11|DE*MSU*ECBCW*ST4*01~TYPE2:22|DE*MSU*ECBCW*ST4*02~TYPE2:22|DE*MSU*ECBCW*ST7*01~TYPE2:11|DE*MSU*ECBCW*ST7*02~TYPE2:11|DE*MSU*ECBCW*ST10*01~TYPE2:11|DE*MSU*ECBCW*ST10*02~TYPE2:11|DE*MSU*ECBCW*ST13*01~TYPE2:11|DE*MSU*ECBCW*ST13*02~TYPE2:11
+1150331	BCW Hotels & Resorts GmbH	Dorint Thermenhotel Freiburg	An den Heilquellen 8	79111	Freiburg im Breisgau	47.984600	7.768700	1	24/7	Keine Beschränkung	DE*MSU*ECBCW*ST15*01~TYPE2:11|DE*MSU*ECBCW*ST18*02~TYPE2:11|DE*MSU*ECBCW*ST16*01~TYPE2:11|DE*MSU*ECBCW*ST16*02~TYPE2:11|DE*MSU*ECBCW*ST17*01~TYPE2_TETHERED:11|DE*MSU*ECBCW*ST17*02~TYPE2_TETHERED:11|DE*MSU*ECBCW*ST18*01~TYPE2_TETHERED:11|DE*MSU*ECBCW*ST18*02~TYPE2_TETHERED:11
+1150785	Eviny	Wehr	Friedrichstr. 4	79664	Wehr	47.634173	7.905255	1	24/7	Keine Beschränkung	DE*EVY*EWEH1*A~CCS2:400|DE*EVY*EWEH1*B~CCS2:400|DE*EVY*EWEH2*A~CCS2:400|DE*EVY*EWEH2*B~CCS2:400
+1150915	BCW Hotels & Resorts GmbH	Hotel Luisenhöhe - Gesundheitsresort Schwarzwald	Luisenhöhestr. 14	79289	Horben	47.946000	7.855100	1	24/7	Keine Beschränkung	DE*MSU*ECBCW*ST2*01~TYPE2:11|DE*MSU*ECBCW*ST2*02~TYPE2:11|DE*MSU*ECBCW*ST3*01~TYPE2:22|DE*MSU*ECBCW*ST3*02~TYPE2:22|DE*MSU*ECBCW*ST5*01~TYPE2:11|DE*MSU*ECBCW*ST5*02~TYPE2:11|DE*MSU*ECBCW*ST6*01~TYPE2:11|DE*MSU*ECBCW*ST6*02~TYPE2:11|DE*MSU*ECBCW*ST8*01~TYPE2:11|DE*MSU*ECBCW*ST8*02~TYPE2:11|DE*MSU*ECBCW*ST9*01~TYPE2:11|DE*MSU*ECBCW*ST9*02~TYPE2:11|DE*MSU*ECBCW*ST11*01~TYPE2:11|DE*MSU*ECBCW*ST11*02~TYPE2:11|DE*MSU*ECBCW*ST12*01~TYPE2:11|DE*MSU*ECBCW*ST12*02~TYPE2:11|DE*MSU*ECBCW*ST14*01~TYPE2:22|DE*MSU*ECBCW*ST14*02~TYPE2:22
+1151287	Wirelane GmbH	Alte Straße 51, 79249 Merzhausen	Alte Straße 51	79249	Merzhausen	47.967278	7.829694	1		Keine Beschränkung	DE*WLN*EP000281~TYPE2:22|DE*WLN*EP000282~TYPE2:22
+1151377	Wirelane GmbH	Base I Hotel Eckert Dresden	Basler Straße 20	79639	Grenzach-Wyhlen	47.553306	7.658359	1		Keine Beschränkung	DE*WLN*ES000615~TYPE2:11|DE*WLN*ES000614~TYPE2:11|DE*WLN*ES000613~TYPE2:11
+1151388	Wirelane GmbH		Friedrichring 1	79098	Freiburg im Breisgau	47.998695	7.852627	1		Keine Beschränkung	DE*WLN*ES000209~TYPE2:11|DE*WLN*ES000208~TYPE2:11
+1151389	Wirelane GmbH		Friedrichring 1	79098	Freiburg im Breisgau	47.998587	7.852691	1		Keine Beschränkung	DE*WLN*ES000210~TYPE2:11|DE*WLN*ES000211~TYPE2:11
+1151850	Wirelane GmbH		Thürachstraße 3	79189	Bad Krozingen	47.918953	7.689700	1		Keine Beschränkung	DE*WLN*ES001423~TYPE2:11|DE*WLN*ES001424~TYPE2:11|DE*WLN*ES001425~TYPE2:11|DE*WLN*ES001426~TYPE2:11
+1151855	Wirelane GmbH		Bötzinger Straße 76	79111	Freiburg im Breisgau	47.985945	7.782771	1		Keine Beschränkung	DE*WLN*ES001457~TYPE2:11|DE*WLN*ES001458~TYPE2:11|DE*WLN*ES001459~TYPE2:11|DE*WLN*ES001460~TYPE2:11|DE*WLN*ES001461~TYPE2:11|DE*WLN*ES001462~TYPE2:11
+1152393	naturenergie		Hebelstr. 28	79688	Hausen im Wiesental	47.682862	7.842280	1	24/7	Keine Beschränkung	DE*EDH*E001635~TYPE2:22|DE*EDH*E001636~TYPE2:22
+1152866	Schmidts Märkte Wehr		Im Hammer 5	79664	Wehr	47.631090	7.906590	1	Mo-Sa 07:00-20:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1153764	APCOA Deutschland GmbH		Europaplatz 1	79576	Weil am Rhein	47.593878	7.609082	1	24/7	Keine Beschränkung	DE-ACO-E79500-EG-01-1~TYPE2:11|DE-ACO-E79500-EG-02-1~TYPE2:11
+1153914	naturenergie	Karsau Sonnenrainhalle	Steigweg 4	79618	Rheinfelden (Baden)	47.585001	7.807432	1	24/7	Keine Beschränkung	DE*EDH*E001649~TYPE2:22|DE*EDH*E001650~TYPE2:22
+1153985	badenova AG & Co. KG		Thürachstr. 4	79189	Bad Krozingen	47.917656	7.688754	1	24/7	Keine Beschränkung	DE*BAD*E100381~TYPE2:22|DE*BAD*E100382~TYPE2:22|DE*BAD*E100383~TYPE2:22|DE*BAD*E100384~TYPE2:22
+1154491	naturenergie		Johanniterstr. 17	79189	Bad Krozingen	47.925099	7.675511	1	24/7	Keine Beschränkung	DE*EDH*E001644~TYPE2:22|DE*EDH*E001645~TYPE2:22
+1154492	naturenergie		Rimsinger Str. 2	79189	Bad Krozingen	47.957902	7.667234	1	24/7	Keine Beschränkung	DE*EDH*E001642~TYPE2:22|DE*EDH*E001643~TYPE2:22
+1154789	naturenergie		Im Steinfacht 1	79739	Schwörstadt	47.589943	7.861158	1	24/7	Keine Beschränkung	DE*EDH*E001441~CCS2:150|DE*EDH*E001442~CCS2:150|DE*EDH*E001443~CCS2:150|DE*EDH*E001444~CCS2:150
+1155370	Tesla Germany GmbH		Hauptstr. 435	79576	Weil am Rhein	47.589618	7.593214	1	24/7	Keine Beschränkung	DE*TSL*ECJ84IB~CCS2:250|DE*TSL*ECJ89T8~CCS2:250|DE*TSL*ECJ8E52~CCS2:250|DE*TSL*ECJ8H3T~CCS2:250|DE*TSL*ECJ8JF6~CCS2:250|DE*TSL*ECJ8M78~CCS2:250|DE*TSL*ECJ8OX0~CCS2:250|DE*TSL*ECJ8W37~CCS2:250|DE*TSL*ECL56LC~CCS2:250|DE*TSL*ECL5A3N~CCS2:250|DE*TSL*ECL5GPE~CCS2:250|DE*TSL*ECL60OB~CCS2:250
+1155720	SimplyCharge	SimplyCharge Fischingen Kirchplatz	Kirchplatz 6	79592	Fischingen	47.651488	7.596820	1	24/7	Keine Beschränkung	DE*VIR*E309383~TYPE2:22|DE*VIR*E309384~TYPE2:22
+1156437	Wirelane GmbH	BASE II Hotel Lörrach	Basler Straße 7A	79540	Lörrach	47.597140	7.655770	1		Keine Beschränkung	DE*WLN*ES000471~TYPE2:11|DE*WLN*ES000472~TYPE2:11|DE*WLN*ES000377~TYPE2:11|DE*WLN*ES000378~TYPE2:11
+1157026	Wirelane GmbH		In den Weihern 4	79379	Müllheim im Markgräflerland	47.799722	7.623611	1		Keine Beschränkung	DE*WLN*EP001393~TYPE2:22|DE*WLN*EP001394~TYPE2:22
+1157027	Wirelane GmbH		Bärenfelsstraße 10A	79379	Müllheim im Markgräflerland	47.813639	7.627083	1		Keine Beschränkung	DE*WLN*EP001395~TYPE2:22|DE*WLN*EP001396~TYPE2:22
+1157028	Wirelane GmbH		Am Pfannenstiel 38	79379	Müllheim im Markgräflerland	47.800472	7.621861	1		Keine Beschränkung	DE*WLN*EP001397~TYPE2:22|DE*WLN*EP001398~TYPE2:22
+1157093	naturenergie		Danziger Str. 6	79576	Weil am Rhein	47.594009	7.622704	1	24/7	Keine Beschränkung	DE*EDH*E001654~CCS2:50|DE*EDH*E001655~CCS2:50|DE*EDH*E001656~CCS2:50|DE*EDH*E001657~CCS2:50
+1157292	EnBW mobility+ AG und Co.KG	REWE Schönau, Bahnhofstr	Bahnhofstraße 13	79677	Schönau im Schwarzwald	47.783480	7.893950	1	24/7	Keine Beschränkung	DE*EBW*E906428*1~CCS2:150|DE*EBW*E906428*2~CCS2:150
+1158288	naturenergie	Besucherparkplatz naturenergie hochrhein AG	Schönenbergerstr. 10	79618	Rheinfelden (Baden)	47.573822	7.801449	1	24/7	Keine Beschränkung	DE*EDH*E001668~TYPE2:22|DE*EDH*E001669~TYPE2:22
+1159248	Tank & Rast Entwicklungsgesellschaft mbH	mblty Bremgarten	An der Ries 5	79258	Hartheim am Rhein	47.909239	7.592396	1	24/7	Keine Beschränkung	DE*MBT*ESO1702DC001*1~CCS2:400|DE*MBT*ESO1702DC001*2~CCS2:400|DE*MBT*ESO1702DC002*1~CCS2:400|DE*MBT*ESO1702DC002*2~CCS2:400
+1160561	naturenergie	Fécamphalle Rheinfelden	Fecampring 32	79618	Rheinfelden (Baden)	47.562264	7.777562	1	24/7	Keine Beschränkung	DE*EDH*E001670~TYPE2:22|DE*EDH*E001671~TYPE2:22
+1160702	Electra Germany GmbH	Freiburg - McFit & McDonalds	Basler Str. 109	79115	Freiburg im Breisgau	47.984686	7.820649	1	24/7	Keine Beschränkung	DE*ELD*E8TQD~CCS2:300|DE*ELD*E75BM~CCS2:300|DE*ELD*EFAK3~CCS2:300|DE*ELD*ETRSX~CCS2:300
+1161427	StromSpeicherMarkt GmbH		Maria-von-Rudloff-Platz 2	79111	Freiburg im Breisgau	47.999289	7.792503	1	24/7	Keine Beschränkung	DESSME006001~TYPE2:22|DESSME006002~TYPE2:22
+1162125	ZG Technik	TE Heitersheim	Raiffeisenstr. 1	79423	Heitersheim	47.879947	7.641468	1	Mo-Fr 08:00-17:00	Nur für Kunden/Besucher	DE*MSU*EZGR*TE*W08*01~TYPE2:11|DE*MSU*EZGR*TE*W08*02~TYPE2:11
+1162953	EnBW mobility+ AG und Co.KG	Norma Lörrach, Wallbrunnstr. 88	Wallbrunnstraße 88	79539	Lörrach	47.609280	7.670340	1	24/7	Keine Beschränkung	DE*EBW*E906418*1~CCS2:200|DE*EBW*E906418*2~CCS2:200|DE*EBW*E906419*1~CCS2:200|DE*EBW*E906419*2~CCS2:200
+1163802	ZG	RM Müllheim	Eisenbahnstr. 8a	79379	Müllheim im Markgräflerland	47.809584	7.602193	1	Mo-Fr 08:30-18:30, Sa 08:30-16:00	Nur für Kunden/Besucher	DE*MSU*EZGR*RM*W16*01~TYPE2:11|DE*MSU*EZGR*RM*W16*02~TYPE2:11

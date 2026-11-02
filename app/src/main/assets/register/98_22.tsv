@@ -1,0 +1,757 @@
+1002971	Gemeindewerke Feucht Holding GmbH		Am Bahndamm 0	90537	Feucht	49.388601	11.259853	1			~TYPE2:22|~TYPE2:22
+1002972	Gemeindewerke Feucht Holding GmbH		Bienenweg 0	90537	Feucht	49.377227	11.219502	1			~TYPE2:22|~TYPE2:22
+1002973	Gemeindewerke Feucht Holding GmbH		Ludwig-Ganghofer-Str. 0	90537	Feucht	49.371816	11.220995	1			~TYPE2:22|~TYPE2:22
+1002988	Parkhaus Adlerstraße GmbH		Adlerstraße 0	90403	Nürnberg	49.451934	11.077008	1			~TYPE2:11|~TYPE2:11
+1002989	Parkhaus Adlerstraße GmbH		Adlerstraße 4-8	90403	Nürnberg	49.452088	11.076892	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005138	infra fürth service gmbh		Leyher Straße 69	90763	Fürth	49.463221	11.008158	1			~TYPE2:22|~TYPE2:22
+1005142	infra fürth service gmbh		Espanstraße 1	90765	Fürth	49.479644	11.000584	1			~TYPE2:22|~TYPE2:22
+1005148	infra fürth service gmbh		Dr.-Mack-Straße 88	90762	Fürth	49.468298	11.010118	1			~TYPE2:22|~TYPE2:22
+1005151	infra fürth service gmbh		Nürnberger Straße 147	90762	Fürth	49.465530	11.011273	1			~TYPE2:22|~TYPE2:22|~CCS2:50
+1005156	infra fürth service gmbh		Karl-Bröger-Straße 32	90765	Fürth	49.477533	11.014259	1			~TYPE2:22|~TYPE2:22|DE*LVP*E22317*001~CCS2:200|DE*LVP*E22317*002~CCS2:200
+1005161	infra fürth service gmbh		Europaallee 6	90763	Fürth	49.452996	11.000636	1			~TYPE2:22|~TYPE2:22
+1005190	infra fürth service gmbh		Leyher Straße 85	90763	Fürth	49.460191	11.008994	1			~TYPE2:22|~TYPE2:22
+1005192	infra fürth service gmbh		Fronmüllerstraße 71	90763	Fürth	49.458685	11.001310	1			~TYPE2:22|~TYPE2:22
+1005196	infra fürth service gmbh		Fronmüllerstraße 71	90763	Fürth	49.458693	11.001364	1			~CCS2:150|~CCS2:150
+1005198	infra fürth service gmbh	Standort: Fürth - Norma Fronmüllerstraße	Fronmüllerstr. 78	90763	Fürth	49.458347	11.001722	1		Keine Beschränkung	DE*LVP*E21166*001~TYPE2:22|DE*LVP*E21166*002~TYPE2:22|DE*LVP*E21165*001~TYPE2:22|DE*LVP*E21165*002~TYPE2:22
+1005217	infra fürth service gmbh	Standort: Fürth - Im Stöckig 65	Im Stöckig 65	90765	Fürth	49.488200	11.008000	1		Keine Beschränkung	DE*LVP*E21651*001~TYPE2:22|DE*LVP*E21651*002~TYPE2:22|DE*LVP*E21437*001~TYPE2:22|DE*LVP*E21437*002~TYPE2:22
+1005221	infra fürth service gmbh	Fürth - Laubenweg 3	Laubenweg 3	90765	Fürth	49.481800	11.002800	1		Keine Beschränkung	DE*LVP*E21781*001~TYPE2_TETHERED:22|DE*LVP*E21781*002~TYPE2_TETHERED:22|DE*LVP*E21882*001~TYPE2:22|DE*LVP*E21882*002~TYPE2:22
+1005227	infra fürth service gmbh	Fürth - Venusweg 18	Venusweg 18	90763	Fürth	49.460800	11.001400	1		Keine Beschränkung	DE*LVP*E21760*001~TYPE2:22|DE*LVP*E21760*002~TYPE2:22|DE*LVP*E21793*001~TYPE2:22|DE*LVP*E21793*002~TYPE2:22
+1005229	N-ERGIE Aktiengesellschaft		Karlstraße 0	90552	Röthenbach a.d. Pegnitz	49.483120	11.239893	1			~TYPE2:22|~TYPE2:22
+1005230	N-ERGIE Aktiengesellschaft	Röthenbach a.d. Pegnitz - Alter Kirchweg	Alter Kirchenweg 21	90552	Röthenbach a.d.Pegnitz	49.486030	11.242904	1	24/7	Keine Beschränkung	DE*LVP*E20005*001~TYPE2_TETHERED:22|DE*LVP*E20005*002~TYPE2_TETHERED:22
+1005232	N-ERGIE Aktiengesellschaft		Haupstraße 32	90607	Rückersdorf	49.493690	11.243120	1			~TYPE2:22|~TYPE2:22
+1005233	N-ERGIE Aktiengesellschaft		Am Waldfriedhof 2	90607	Rückersdorf	49.494550	11.227310	1			~TYPE2:22|~TYPE2:22
+1005236	Versorgungsgesellschaft Altdorf mbH		Am See 0	90518	Altdorf	49.391380	11.363280	1			~TYPE2:22|~TYPE2:22
+1005237	Versorgungsgesellschaft Altdorf mbH		Äußere Fischbacher Straße 0	90518	Altdorf	49.391610	11.339630	1			~TYPE2:22|~TYPE2:22
+1005238	Versorgungsgesellschaft Altdorf mbH		Weidentalstraße 0	90518	Altdorf	49.379765	11.356621	1			~TYPE2:22|~TYPE2:22
+1005239	Versorgungsgesellschaft Altdorf mbH		Stephanstraße 1	90518	Altdorf	49.388560	11.354580	1			~TYPE2:22|~TYPE2:22
+1005308	Bürgerkraftwerke Stein		Deutenbacher Straße 2a	90547	Stein	49.412939	11.007016	1			~TYPE2:22|~TYPE2:22
+1005309	Bürgerkraftwerke Stein		Hauptstraße 56	90547	Stein	49.412853	11.011260	1			~TYPE2:22|~TYPE2:22
+1005312	Bürgerkraftwerke Stein		Mühlstraße 45	90547	Stein	49.416830	11.008883	1			~TYPE2:22|~TYPE2:22
+1005313	Bürgerkraftwerke Stein		Jagdweg 50a	90547	Stein	49.397389	11.018193	1			~TYPE2:22|~TYPE2:22
+1005314	Bürgerkraftwerke Stein		Jagdweg 48	90547	Stein	49.398102	11.017064	1			~TYPE2:22|~TYPE2:22
+1005315	Bürgerkraftwerke Stein		Knauppstraße 23	90547	Stein	49.409386	11.010046	1			~TYPE2:22|~TYPE2:22
+1005316	Bürgerkraftwerke Stein		Knauppstraße 25	90547	Stein	49.409292	11.010101	1			~TYPE2:22|~TYPE2:22
+1005317	Bürgerkraftwerke Stein		Deutenbacherstraße 28	90547	Stein	49.409568	11.012799	1			~TYPE2:22|~TYPE2:22
+1005375	Energie Service GmbH der Stadtwerke Roth		Weinbergweg 0	91154	Roth	49.236887	11.075514	1			~TYPE2:22|~TYPE2:22
+1005376	Energie Service GmbH der Stadtwerke Roth		Otto-Schrimpff-Straße 0	91154	Roth	49.243280	11.094969	1			~TYPE2:22|~TYPE2:22
+1005377	Energie Service GmbH der Stadtwerke Roth		Friedrich-Ebert-Straße 40	91154	Roth	49.251531	11.103479	1			~TYPE2:22|~TYPE2:22
+1005378	Energie Service GmbH der Stadtwerke Roth		Veit-Stoß-Straße 0	91154	Roth	49.257048	11.085738	1			~TYPE2:22|~TYPE2:22
+1005379	Energie Service GmbH der Stadtwerke Roth		Stieberstraße 7	91154	Roth	49.246953	11.089909	1			~TYPE2:22|~TYPE2:22
+1005380	Energie Service GmbH der Stadtwerke Roth		Sandgasse 23	91154	Roth	49.250316	11.086904	1			~TYPE2:22|~TYPE2:22
+1005381	Energie Service GmbH der Stadtwerke Roth		Ostring 6	91154	Roth	49.248076	11.104264	1			~CCS2:150|~CCS2:150
+1005396	N-ERGIE Aktiengesellschaft		Parkplatz Am Bruckespan 0	91166	Georgensgmünd	49.188310	11.017560	1			~TYPE2:22|~TYPE2:22
+1005397	N-ERGIE Aktiengesellschaft		Wießenstraße 0	91166	Georgensgmünd	49.183520	11.015790	1			~TYPE2:22|~TYPE2:22
+1005398	N-ERGIE Aktiengesellschaft		Bahnhofstrae 0	91166	Georgensgmünd	49.180020	11.013920	1			~TYPE2:22|~TYPE2:22
+1005399	N-ERGIE Aktiengesellschaft		Wiesenstraße 0	91166	Georgensgmünd	49.183691	11.017028	1			~CCS2:150+CHADEMO:150|~CCS2:150+CHADEMO:150|~TYPE2:22
+1005465	Gemeindewerke Feucht Holding GmbH		Bahnhofstraße 0	90592	Schwarzenbruck	49.361544	11.249226	1			~TYPE2:22|~TYPE2:22
+1005466	Gemeindewerke Feucht Holding GmbH		Rummelsberg 61	90592	Schwarzenbruck	49.363600	11.268330	1			~TYPE2:22|~TYPE2:22
+1005467	Gemeindewerke Feucht Holding GmbH		Siedlerstraße 2	90592	Schwarzenbruck	49.355530	11.243670	1			~TYPE2:22|~TYPE2:22
+1005468	Gemeindewerke Feucht Holding GmbH		Ochenbrucker Straße 30	90592	Altenthann	49.366428	11.304493	1			~TYPE2:22|~TYPE2:22
+1005469	Gemeindewerke Feucht Holding GmbH		Rummelsberg 33	90592	Schwarzenbruck	49.367758	11.264127	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005471	Gemeindewerke Feucht Holding GmbH	Standort: Schwarzenbruck - Rummelsberg 58	Rummelsberg 58	90592	Schwarzenbruck	49.362800	11.260652	1		Keine Beschränkung	DE*LVP*E21326*001~TYPE2:22|DE*LVP*E21326*002~TYPE2:22|DE*LVP*E21316*001~TYPE2:22|DE*LVP*E21316*002~TYPE2:22
+1005509	StWL Mobilität und Infrastruktur GmbH		Heilingstraße 0	91207	Lauf an der Pegnitz	49.487617	11.304517	1			~TYPE2:22|~TYPE2:22
+1005776	Stadtwerke Neumarkt		Parkplatz Johanneszentrum 0	92318	Neumarkt	49.280141	11.454146	1			~TYPE2:22|~TYPE2:22
+1005777	Stadtwerke Neumarkt		Ingolstädter Straße 18	92318	Neumarkt	49.272489	11.460565	1			~TYPE2:22|~TYPE2:22
+1005778	Stadtwerke Neumarkt		Nürnberger Straße 1	92318	Neumarkt	49.282830	11.455720	1			~TYPE2:22|~TYPE2:22
+1005780	Stadtwerke Neumarkt		Ringstraße 5a	92318	Neumarkt i.d.OPf	49.276427	11.458680	1			~TYPE2:11|~TYPE2:11
+1005781	Stadtwerke Neumarkt		Dr.-Kurz-Straße 40A	92318	Neumarkt i.d.Opf.	49.288300	11.457100	1			~TYPE2:22|~TYPE2:22
+1005782	Stadtwerke Neumarkt		Dr.-Kurz-Straße 51-49	92318	Neumarkt i.d.Opf	49.287500	11.452700	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005783	Stadtwerke Neumarkt		Glasergasse 4	92319	Neumarkt i.d.Opf.	49.280900	11.459200	1			~TYPE2:22|~TYPE2:22
+1005784	Stadtwerke Neumarkt		Nobelstraße 0	92318	Neumarkt i.d.Opf.	49.266800	11.472900	1			~TYPE2:22|~TYPE2:22
+1005787	Stadtwerke Neumarkt		Egerländer Straße 0	92318	Neumarkt i.d.Opf.	49.280200	11.468100	1			~TYPE2:22|~TYPE2:22
+1005788	Stadtwerke Neumarkt		Sandstraße 15	92318	Neumarkt i.d. Opf.	49.280100	11.466000	1			~TYPE2:22|~TYPE2:22
+1005789	Stadtwerke Neumarkt		Sandstraße 24	92318	neumarkt i.d.Opf	49.279900	11.466900	1			~TYPE2:22|~TYPE2:22
+1005790	Stadtwerke Neumarkt		Mühlstraße 0	92318	Neumarkt i.d. Opf	49.282500	11.459800	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005792	Stadtwerke Neumarkt		Kerschensteiner Str. 7	92318	Neumarkt	49.263517	11.470692	1			~TYPE2:11|~TYPE2:11
+1005793	Stadtwerke Neumarkt		Dr.-Grundler-Str. 5	92318	Neumarkt	49.282874	11.453127	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1005795	Stadtwerke Neumarkt		Mühlstr. 44	92318	Neumarkt	49.281570	11.468670	1			~TYPE2:11|~TYPE2:11
+1005796	Stadtwerke Neumarkt		Kerschensteiner Str. 7	92318	Neumarkt	49.263525	11.470648	1			~TYPE2:11|~TYPE2:11
+1005797	Stadtwerke Neumarkt		Dr.-Grundler-Str. 5	92318	Neumarkt	49.282802	11.452994	1			~TYPE2:11|~TYPE2:11
+1005798	Stadtwerke Neumarkt		Neumarkter Straße 14	90602	Pyrbaum	49.297024	11.288757	1			~TYPE2:11|~TYPE2:11
+1005799	Stadtwerke Neumarkt		Nürnberger Straße 48	92318	Neumarkt	49.289380	11.442840	1			~TYPE2:22|~TYPE2:22
+1005803	Stadtwerke Neumarkt		Centrum 5	92353	Postbauer-Heng	49.303494	11.350956	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1005854	Gemeindewerke Wendelstein Breitband GmbH		Mittelweg 37	90530	Wendelstein	49.338849	11.116065	1			~TYPE2:22|~TYPE2:22
+1005855	Gemeindewerke Wendelstein Breitband GmbH		Feuchter Straße 6a/b	90530	Wendelstein	49.363365	11.172303	1			~TYPE2:22|~TYPE2:22
+1005856	Gemeindewerke Wendelstein Breitband GmbH		Röthenbacherstraße 0	90530	Wendelstein	49.355115	11.148942	1			~TYPE2:22|~TYPE2:22
+1005857	Gemeindewerke Wendelstein Breitband GmbH		Rieterstraße 0	90530	Wendelstein	49.346473	11.108850	1			~TYPE2:22|~TYPE2:22
+1005858	Gemeindewerke Wendelstein Breitband GmbH		Sperbersloherstr. 5	90530	Wendelstein	49.354838	11.146205	1			~TYPE2:22|~TYPE2:22
+1005859	Gemeindewerke Wendelstein Breitband GmbH		Johann-Höllfritsch-Straße 41	90530	Wendelstein	49.354050	11.167210	1			~TYPE2:22|~TYPE2:22
+1005860	Gemeindewerke Wendelstein Breitband GmbH		Wilhelm Maisel Straße 5	90530	Wendelstein	49.346720	11.161970	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1005861	Gemeindewerke Wendelstein Breitband GmbH		Am Zehnthof 1	90530	Wendelstein	49.364405	11.169686	1			~TYPE2:22
+1005862	Gemeindewerke Wendelstein Breitband GmbH		Schleißweg 0	90530	Wendelstein	49.345798	11.101692	1			~TYPE2:22|~TYPE2:22
+1005863	Gemeindewerke Wendelstein Breitband GmbH		Johann-Höllfritsch-Straße 41	90530	Wendelstein	49.354005	11.167184	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1005864	Gemeindewerke Wendelstein Breitband GmbH		Johann-Trinker-Straße 16	90530	Wendelstein	49.352236	11.148429	1			~CCS2:50|~CCS2:50
+1005865	Gemeindewerke Wendelstein Breitband GmbH		In der Lach 2	90530	Wendelstein	49.366460	11.168040	1			~TYPE2:22|~TYPE2:22|DE*LVP*E22626*001~TYPE2:22
+1005866	Gemeindewerke Wendelstein Breitband GmbH		Bierweg 0	90530	Wendelstein	49.343200	11.118790	1			~TYPE2:22|~TYPE2:22
+1005867	Gemeindewerke Wendelstein Breitband GmbH		Wolfgang-Borchert-Straße 2	90530	Wendelstein	49.350960	11.157130	1			~TYPE2:22|~TYPE2:22
+1005868	Gemeindewerke Wendelstein Breitband GmbH	Standort: Wendelstein - Neues Rathaus Markt Wendelstein	Doktorsbuck 0	90530	Wendelstein	49.355920	11.139460	1		Keine Beschränkung	DE*LVP*E21532*001~TYPE2:22|DE*LVP*E21532*002~TYPE2:22|DE*LVP*E21530*001~TYPE2:22|DE*LVP*E21530*002~TYPE2:22|DE*LVP*E21506*001~TYPE2:22|DE*LVP*E21506*002~TYPE2:22
+1005870	Gemeindewerke Wendelstein Breitband GmbH		Leerstetter Straße 35	90530	Wendelstein	49.349720	11.138620	1			~TYPE2:22
+1005872	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - Schäferstraße	Schäferstr. 0	90530	Wendelstein	49.334140	11.087650	1	24/7	Keine Beschränkung	DE*LVP*E21497*001~TYPE2_TETHERED:22|DE*LVP*E21497*002~TYPE2:22
+1005879	Stadtdienste Schwabach GmbH		Martin-Luther-Platz 11-12	91126	Schwabach	49.328757	11.022068	1			~TYPE2:22|~TYPE2:22
+1005880	Stadtdienste Schwabach GmbH		Am Falbenholzweg 15	91126	Schwabach	49.322330	11.051476	1			~TYPE2:22|~TYPE2:22
+1005881	Stadtdienste Schwabach GmbH		Angerstraße 10	91126	Schwabach	49.322453	11.028504	1			~TYPE2:22|~TYPE2:22
+1005882	Stadtdienste Schwabach GmbH		Auf der Reit 0	91126	Schwabach	49.334640	11.011760	1			~TYPE2:22|~TYPE2:22
+1005883	Stadtdienste Schwabach GmbH		Bismarckstraße 4	91126	Schwabach	49.326156	11.018550	1			~TYPE2:22|~TYPE2:22
+1005884	Stadtdienste Schwabach GmbH		Eisentrautstraße 1	91126	Schwabach	49.327903	11.025719	1			~TYPE2:22|~TYPE2:22
+1005885	Stadtdienste Schwabach GmbH		Dr.-Rudolf-Faulhaber-Straße 1	91186	Büchenbach	49.261973	11.055423	1			~TYPE2:22|~TYPE2:22
+1006073	N-ERGIE Aktiengesellschaft		Hilpoltsteinerstraße 0	90584	Allersberg	49.250997	11.232961	1			~TYPE2:22|~TYPE2:22
+1006074	N-ERGIE Aktiengesellschaft		Rathausplatz 0	90559	Burgthann	49.351209	11.314597	1			~TYPE2:22|~TYPE2:22
+1006076	N-ERGIE Aktiengesellschaft		Badstraße 1	91161	Hilpoltstein	49.191379	11.194075	1			~TYPE2:22|~TYPE2:22
+1006081	N-ERGIE Aktiengesellschaft		Talstraße 6	91161	Hilpoltstein	49.189123	11.188468	1			~TYPE2:22|~TYPE2:22
+1006087	N-ERGIE Aktiengesellschaft		Sandbergstraße 3	90571	Schwaig-Behringersdorf	49.480093	11.199410	1			~TYPE2:22|~TYPE2:22
+1006095	N-ERGIE Aktiengesellschaft		Südliche Fürther Straße 14	90429	Nürnberg	49.448534	11.062629	1			~TYPE2:22|~TYPE2:22
+1006097	N-ERGIE Aktiengesellschaft		Kesslerplatz 19	90489	Nürnberg	49.453004	11.092775	1			~TYPE2:22|~TYPE2:22
+1006101	N-ERGIE Aktiengesellschaft		Sperbersloher Straße 6	90596	Schwanstetten	49.311351	11.125465	1			~TYPE2:22|~TYPE2:22
+1006102	N-ERGIE Aktiengesellschaft		Marktplatz 27	92342	Freystadt	49.198744	11.328916	1			~TYPE2:22|~TYPE2:22
+1006105	N-ERGIE Aktiengesellschaft		Engelgasse 8	92360	Mühlhausen	49.181696	11.414269	1			~TYPE2:22|~TYPE2:22
+1006108	N-ERGIE Aktiengesellschaft		Julius-Leber-Straße 1	90473	Nürnberg	49.397992	11.141557	1			~TYPE2:22|~TYPE2:22
+1006109	N-ERGIE Aktiengesellschaft		Hainstraße 34	90461	Nürnberg	49.439890	11.102797	1			~TYPE2:22|~TYPE2:22
+1006110	N-ERGIE Aktiengesellschaft		Am Mühlbach 3	85125	Kinding	49.000581	11.380451	1			~TYPE2:22|~TYPE2:22
+1006113	N-ERGIE Aktiengesellschaft		Marktplatz 11 - 13	91171	Greding	49.046140	11.352750	1			~TYPE2:22|~TYPE2:22
+1006115	N-ERGIE Aktiengesellschaft		Herrnstraße 1	92348	Berg bei Neumarkt in der Oberpfalz	49.332752	11.440030	1			~TYPE2:22|~TYPE2:22
+1006129	N-ERGIE Aktiengesellschaft		Bahnhofstraße 0	92360	Mühlhausen	49.170610	11.448891	1			~TYPE2:22|~TYPE2:22
+1006132	N-ERGIE Aktiengesellschaft		Fürther Straße 155	90429	Nürnberg	49.455745	11.040319	1			~TYPE2:22|~TYPE2:22
+1006133	N-ERGIE Aktiengesellschaft		Äußere Bayreuther Straße 109	90409	Nürnberg	49.471754	11.102375	1			~TYPE2:22|~TYPE2:22
+1006134	N-ERGIE Aktiengesellschaft		Forchheimer Straße 8	90425	Nürnberg	49.473482	11.062492	1			~TYPE2:22|~TYPE2:22
+1006139	N-ERGIE Aktiengesellschaft		Bahnhofstraße 0	92353	Postbauer-Heng	49.308026	11.358302	1			~TYPE2:22|~TYPE2:22
+1006140	N-ERGIE Aktiengesellschaft		Winnberger Str. 19	92369	Sengenthal	49.233810	11.461251	1			~TYPE2:22|~TYPE2:22
+1006148	N-ERGIE Aktiengesellschaft		Wallensteinstraße 24	90439	Nürnberg	49.439617	11.037509	1			~TYPE2:22|~TYPE2:22
+1006149	N-ERGIE Aktiengesellschaft		Kreuther Straße 2	91180	Heideck	49.133968	11.121650	1			~TYPE2:22|~TYPE2:22
+1006158	N-ERGIE Aktiengesellschaft		Kornmarkt 8	90402	Nürnberg	49.449179	11.074740	1			~TYPE2:22|~TYPE2:22
+1006159	N-ERGIE Aktiengesellschaft		Rennweg 7	90489	Nürnberg	49.460714	11.092175	1			~TYPE2:22|~TYPE2:22
+1006160	N-ERGIE Aktiengesellschaft		Königstorgraben 1	90402	Nürnberg	49.449467	11.083265	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006161	N-ERGIE Aktiengesellschaft		An der Sparkasse 2-4	90402	Nürnberg	49.449984	11.080309	1			~TYPE2:22|~TYPE2:22
+1006173	N-ERGIE Aktiengesellschaft		Dianaplatz 11-13	90443	Nürnberg	49.428363	11.065904	1			~TYPE2:22|~TYPE2:22
+1006174	N-ERGIE Aktiengesellschaft		Hauptstraße 23	92339	Beilngries	49.034760	11.474309	1			~TYPE2:22|~TYPE2:22
+1006181	N-ERGIE Aktiengesellschaft		Laufertorgraben 6	90489	Nürnberg	49.453827	11.087383	1			~TYPE2:22|~TYPE2:22
+1006188	N-ERGIE Aktiengesellschaft		Südwestpark 50	90449	Nürnberg	49.429659	11.018107	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006189	N-ERGIE Aktiengesellschaft		Am See 1	85125	Kinding	49.004080	11.448180	1			~TYPE2:22|~TYPE2:22
+1006190	N-ERGIE Aktiengesellschaft		Am Hirschfeld 2a	90451	Nürnberg	49.416722	11.037833	1			~TYPE2:22|~TYPE2:22
+1006194	N-ERGIE Aktiengesellschaft		Münchener Str. 0	91777	Thalmässing	49.088060	11.222660	1			~TYPE2:22|~TYPE2:22
+1006203	N-ERGIE Aktiengesellschaft		Herbststraße 13	90431	Nürnberg	49.435573	11.020460	1			~TYPE2:11|~TYPE2:11
+1006204	N-ERGIE Aktiengesellschaft		Allersberger Str. 114	90461	Nürnberg	49.438073	11.090449	1			~TYPE2:22|~TYPE2:22
+1006206	N-ERGIE Aktiengesellschaft		An der Ehrenhalle 0	90478	Nürnberg	49.434679	11.109546	1			~TYPE2:22|~TYPE2:22
+1006207	N-ERGIE Aktiengesellschaft		Eibacher Hauptstraße 21	90451	Nürnberg	49.406715	11.035298	1			~TYPE2:22|~TYPE2:22
+1006208	N-ERGIE Aktiengesellschaft		Eilgutstraße 9	90443	Nürnberg	49.445545	11.078952	1			~TYPE2:22|~TYPE2:22
+1006209	N-ERGIE Aktiengesellschaft		Flaschenhofstraße 35	90402	Nürnberg	49.448764	11.092173	1			~TYPE2:22|~TYPE2:22
+1006210	N-ERGIE Aktiengesellschaft		Fürtherstraße 92	90429	Nürnberg	49.453033	11.049345	1			~TYPE2:22|~TYPE2:22
+1006211	N-ERGIE Aktiengesellschaft	Nürnberg - Fürther Str. 232	Fürther Str. 232	90429	Nürnberg	49.458691	11.032552	1		Keine Beschränkung	DE*LVP*E20335*001~TYPE2:22|DE*LVP*E20335*002~TYPE2:22
+1006212	N-ERGIE Aktiengesellschaft		Heimerichstraße 0	90419	Nürnberg	49.463917	11.065708	1			~TYPE2:22|~TYPE2:22
+1006213	N-ERGIE Aktiengesellschaft		Deutschherrnstraße 15-19	90429	Nürnberg	49.454020	11.063524	1			~TYPE2:22|~TYPE2:22
+1006214	N-ERGIE Aktiengesellschaft		Kachlestraße 0	90480	Nürnberg	49.443836	11.124381	1			~TYPE2:22|~TYPE2:22
+1006215	N-ERGIE Aktiengesellschaft		Freiligrathstraße 5	90482	Nürnberg	49.459493	11.133360	1			~TYPE2:22|~TYPE2:22
+1006217	N-ERGIE Aktiengesellschaft		Lindengasse 34	90419	Nürnberg	49.457774	11.063061	1			~TYPE2:22|~TYPE2:22
+1006218	N-ERGIE Aktiengesellschaft		Marienbergstraße 0	90411	Nürnberg	49.484723	11.089290	1			~TYPE2:22|~TYPE2:22
+1006219	N-ERGIE Aktiengesellschaft		Mommenstraße 16	90491	Nürnberg	49.468528	11.110853	1			~TYPE2:22|~TYPE2:22
+1006220	N-ERGIE Aktiengesellschaft		Rothenburger Straße 0	90439	Nürnberg	49.443554	11.055881	1			~TYPE2:22|~TYPE2:22
+1006221	N-ERGIE Aktiengesellschaft		Schweppermannstraße 59	90408	Nürnberg	49.463381	11.078857	1			~TYPE2:22|~TYPE2:22
+1006222	N-ERGIE Aktiengesellschaft		Sperberstraße 0	90461	Nürnberg	49.431716	11.087090	1			~TYPE2:22|~TYPE2:22
+1006223	N-ERGIE Aktiengesellschaft		Theresienstraße 2	90403	Nürmberg	49.455778	11.077788	1			~TYPE2:22|~TYPE2:22
+1006225	N-ERGIE Aktiengesellschaft		Ziegelsteinstraße 0	90411	Nürnberg	49.485469	11.105204	1			~TYPE2:22|~TYPE2:22
+1006245	N-ERGIE Aktiengesellschaft		An der Bahnlinie 5-6	90475	Nürnberg	49.413880	11.173730	1			~TYPE2:22|~TYPE2:22
+1006246	N-ERGIE Aktiengesellschaft		Innerer Laufer Platz 0	90403	Nürnberg	49.456080	11.084294	1			~TYPE2:22|~TYPE2:22
+1006247	N-ERGIE Aktiengesellschaft		Egidienplatz 0	90403	Nürnberg	49.456903	11.082322	1			~TYPE2:22|~TYPE2:22
+1006281	N-ERGIE Aktiengesellschaft		Patersholzer Weg 19	91161	Hilpoltstein	49.184426	11.198128	1			~TYPE2:22|~TYPE2:22
+1006285	N-ERGIE Aktiengesellschaft		Rothenburger Straße 453	90431	Nürnberg	49.440970	11.014220	1			~TYPE2:22|~TYPE2:22
+1006286	N-ERGIE Aktiengesellschaft		Dutzendteichstr. 24	90478	Nürnberg	49.437110	11.114650	1			~TYPE2:22|~TYPE2:22
+1006307	N-ERGIE Aktiengesellschaft		Am Hallenbad 8	91171	Greding	49.044090	11.356080	1			~TYPE2:22|~TYPE2:22
+1006310	N-ERGIE Aktiengesellschaft		Segelausstr. 7-11	92342	Freystadt	49.129220	11.359570	1			~TYPE2:22|~TYPE2:22
+1006311	N-ERGIE Aktiengesellschaft		Kurpfalzstraße 9	90602	Pyrbaum	49.296130	11.286260	1			~TYPE2:22|~TYPE2:22
+1006328	N-ERGIE Aktiengesellschaft		Brunngasse 0	90610	Winkelhaid	49.387270	11.303100	1			~TYPE2:22|~TYPE2:22
+1006331	N-ERGIE Aktiengesellschaft		Haidelbacher Str. 3	91227	Leinburg	49.451099	11.311612	1			~TYPE2:22|~TYPE2:22
+1006332	N-ERGIE Aktiengesellschaft		Diepersdorfer Hauptstr. 12	91227	Leinburg	49.460970	11.289220	1			~TYPE2:22|~TYPE2:22
+1006334	N-ERGIE Aktiengesellschaft		Hohe-Reuth-Gasse 1	90552	Röthenbach an der Pegnitz (Haimendorf)	49.472439	11.296670	1			~TYPE2:22|~TYPE2:22
+1006335	N-ERGIE Aktiengesellschaft		Hersbrucker Str. 24	91230	Happurg	49.494133	11.469637	1			~TYPE2:22|~TYPE2:22
+1006340	N-ERGIE Aktiengesellschaft		Flughafenstraße 100	90411	Nürnberg	49.493234	11.076267	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006344	N-ERGIE Aktiengesellschaft		Flughafenstraße 100	90411	Nürnberg	49.492252	11.079067	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006347	N-ERGIE Aktiengesellschaft		Flughafenstraße 100	90411	Nürnberg	49.492800	11.081312	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006353	N-ERGIE Aktiengesellschaft		Sulzbacher Straße 11	90489	Nürnberg	49.457840	11.090930	1			~TYPE2:22|~TYPE2:22
+1006354	N-ERGIE Aktiengesellschaft		Nordwestring 67	90419	Nürnberg	49.464723	11.100515	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006355	N-ERGIE Aktiengesellschaft		Johann-Sperl-Straße 31	90427	Nürnberg	49.492690	11.054380	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006367	N-ERGIE Aktiengesellschaft	Standort: Nürnberg - Parkhaus ECE Frankencenter	Oppelner Str. 213	90473	Nürnberg	49.402966	11.136470	1		Keine Beschränkung	DE*LVP*E20852*001~TYPE2:22|DE*LVP*E20852*002~TYPE2:22|DE*LVP*E20853*001~TYPE2:22|DE*LVP*E20853*002~TYPE2:22
+1006368	N-ERGIE Aktiengesellschaft		Augustinerstraße 11	90403	Nürnberg	49.453710	11.075180	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006374	N-ERGIE Aktiengesellschaft	Röttenbach - Meisenweg 11	Meisenweg 11	91187	Röttenbach	49.150592	11.003161	1		Keine Beschränkung	DE*LVP*E20757*001~TYPE2:22|DE*LVP*E20757*002~TYPE2:22
+1006377	N-ERGIE Aktiengesellschaft		Hauptstraße 22	91239	Henfenfeld	49.496820	11.390560	1			~TYPE2:22|~TYPE2:22
+1006378	N-ERGIE Aktiengesellschaft		Bergstraße 46	91227	Diepersdorf	49.458694	11.303211	1			~TYPE2:22|~TYPE2:22
+1006382	N-ERGIE Aktiengesellschaft		Johann-Sperl-Straße 31	90427	Nürnberg	49.492426	11.054278	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006393	N-ERGIE Aktiengesellschaft		Glogauer Str. 140	90427	Nürnberg	49.397882	11.142143	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006414	N-ERGIE Aktiengesellschaft		Marienbergstraße 100	90411	Nürnberg	49.487081	11.093492	1			~TYPE2:22|~TYPE2:22
+1006416	N-ERGIE Aktiengesellschaft		Maxplatz 20	90403	Nürnberg	49.454170	11.073400	1			~TYPE2:22|~TYPE2:22
+1006417	N-ERGIE Aktiengesellschaft		Stephanstraße 49	90478	Nürnberg	49.446290	11.101700	1			~TYPE2:22|~TYPE2:22
+1006418	N-ERGIE Aktiengesellschaft		Barlachstraße 2	90455	Nürnberg	49.371670	11.078720	1			~TYPE2:22|~TYPE2:22
+1006419	N-ERGIE Aktiengesellschaft		Grünstraße 3	90439	Nürnberg	49.439340	11.051120	1			~TYPE2:22|~TYPE2:22
+1006420	N-ERGIE Aktiengesellschaft		Sandstraße 25 - 27	90443	Nürnberg	49.445700	11.072110	1			~TYPE2:22|~TYPE2:22
+1006421	N-ERGIE Aktiengesellschaft		Wirthstraße 49	90459	Nürnberg	49.440382	11.087212	1			~TYPE2:22|~TYPE2:22
+1006424	N-ERGIE Aktiengesellschaft		Färberstraße 54	90402	Nürnberg	49.447760	11.071760	1			~TYPE2:22|~TYPE2:22
+1006425	N-ERGIE Aktiengesellschaft		Südliche Fürther Str. 14	90429	Nürnberg	49.448534	11.062688	1			~TYPE2:22|~TYPE2:22
+1006428	N-ERGIE Aktiengesellschaft		Sandreuthstr. 25	90441	Nürnberg	49.435780	11.060370	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006484	N-ERGIE Aktiengesellschaft		Sandreuthstr. 21	90441	Nürnberg	49.435380	11.059470	1			~CCS2:150|~CCS2:150
+1006493	N-ERGIE Aktiengesellschaft		Kleinreuther Weg 87	90408	Nürnberg	49.470490	11.070930	1			~TYPE2:22|~TYPE2:22
+1006495	N-ERGIE Aktiengesellschaft		Berliner Platz 20	90489	Nürnberg	49.463640	11.096680	1			~TYPE2:22|~TYPE2:22
+1006496	N-ERGIE Aktiengesellschaft		Moritzbergstraße 49	90482	Nürnberg	49.466350	11.163640	1			~TYPE2:22|~TYPE2:22
+1006498	N-ERGIE Aktiengesellschaft		Brettergartenstraße 53	90427	Nürnberg	49.469210	11.029250	1			~TYPE2:22|~TYPE2:22
+1006500	N-ERGIE Aktiengesellschaft		Wittelsbacher Straße 1	90475	Nürnberg	49.411880	11.172880	1			~TYPE2:22|~TYPE2:22
+1006502	N-ERGIE Aktiengesellschaft		Sonnenstraße 16	90471	Nürnberg	49.416390	11.106890	1			~TYPE2:22|~TYPE2:22
+1006503	N-ERGIE Aktiengesellschaft		Zuckmayerweg 14	90471	Nürnberg	49.411300	11.128710	1			~TYPE2:22|~TYPE2:22
+1006504	N-ERGIE Aktiengesellschaft		Fischbacher Hauptstraße 121	90475	Nürnberg	49.418860	11.185810	1			~TYPE2:22|~TYPE2:22
+1006505	N-ERGIE Aktiengesellschaft		Augustenstraße 31	90461	Nürnberg	49.440960	11.094260	1			~TYPE2:22|~TYPE2:22|DE*LVP*E22159*001~TYPE2:22|DE*LVP*E22159*002~TYPE2:22
+1006506	N-ERGIE Aktiengesellschaft		Schweinauer Hauptstraße 29	90441	Nürnberg	49.433930	11.048210	1			~TYPE2:22|~TYPE2:22
+1006507	N-ERGIE Aktiengesellschaft		Fichtestraße 2	90489	Nürnberg	49.458522	11.105761	1			~TYPE2:22|~TYPE2:22
+1006526	N-ERGIE Aktiengesellschaft	Nürnberg - P+R Herrnhütte	Äußere Bayreuther Str. 166	90411	Nürnberg	49.478348	11.109819	1		Keine Beschränkung	DE*LVP*E21041*001~TYPE2:22|DE*LVP*E21041*002~TYPE2:22|DE*LVP*E21043*001~TYPE2:22|DE*LVP*E21043*002~TYPE2:22|DE*LVP*E21045*001~TYPE2:22|DE*LVP*E21045*002~TYPE2:22|DE*LVP*E21047*001~TYPE2:22|DE*LVP*E21047*002~TYPE2:22|DE*LVP*E21049*001~TYPE2:22|DE*LVP*E21049*002~TYPE2:22|DE*LVP*E21051*001~TYPE2:22|DE*LVP*E21051*002~TYPE2:22|DE*LVP*E21053*001~TYPE2:22|DE*LVP*E21053*002~TYPE2:22|DE*LVP*E21055*001~TYPE2:22|DE*LVP*E21055*002~TYPE2:22|DE*LVP*E21057*001~TYPE2:22|DE*LVP*E21057*002~TYPE2:22|DE*LVP*E21042*001~TYPE2:22|DE*LVP*E21042*002~TYPE2:22|DE*LVP*E21044*001~TYPE2:22|DE*LVP*E21044*002~TYPE2:22|DE*LVP*E21046*001~TYPE2:22|DE*LVP*E21046*002~TYPE2:22|DE*LVP*E21048*001~TYPE2:22|DE*LVP*E21048*002~TYPE2:22|DE*LVP*E21050*001~TYPE2:22|DE*LVP*E21050*002~TYPE2:22|DE*LVP*E21052*001~TYPE2:22|DE*LVP*E21052*002~TYPE2:22|DE*LVP*E21054*001~TYPE2:22|DE*LVP*E21054*002~TYPE2:22|DE*LVP*E21056*001~TYPE2:22|DE*LVP*E21056*002~TYPE2:22|DE*LVP*E21058*001~TYPE2:22|DE*LVP*E21058*002~TYPE2:22
+1006539	N-ERGIE Aktiengesellschaft	Thalmässing - Badstraße	Badstr. 25	91177	Thalmässing	49.080826	11.212952	1		Keine Beschränkung	DE*LVP*E20917*001~TYPE2:22|DE*LVP*E20917*002~TYPE2:22|DE*LVP*E20967*001~TYPE2:22|DE*LVP*E20967*002~TYPE2:22
+1006541	N-ERGIE Aktiengesellschaft		Lessingstraße 6	90443	Nürnberg	49.445370	11.074460	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1006542	N-ERGIE Aktiengesellschaft		Wiedersbacher Straße 11	90449	Nürnberg	49.421760	11.033720	1			~TYPE2:22|~TYPE2:22
+1006543	N-ERGIE Aktiengesellschaft		Norikerstraße 12	90402	Nürnberg	49.451130	11.102680	1			~TYPE2:22|~TYPE2:22
+1006544	N-ERGIE Aktiengesellschaft		Schlotfegergasse 5	90402	Nürnberg	49.450180	11.067670	1			~TYPE2:22|~TYPE2:22
+1006545	N-ERGIE Aktiengesellschaft		Katharinengasse 14	90403	Nürnberg	49.451240	11.082170	1			~TYPE2:22|~TYPE2:22
+1006553	N-ERGIE Aktiengesellschaft		Allersberger Str. 35	92342	Freystadt	49.204260	11.327470	1			~TYPE2:22|~TYPE2:22
+1006560	N-ERGIE Aktiengesellschaft		Wieseneckstraße 26	90571	Schwaig	49.469980	11.189190	1			~TYPE2:22|~TYPE2:22
+1006568	N-ERGIE Aktiengesellschaft		Tannenweg 28	90559	Burgthann	49.333636	11.341319	1			~TYPE2:22|~TYPE2:22
+1006569	N-ERGIE Aktiengesellschaft		Gutenstetterstraße 8	90449	Nürnberg	49.436080	11.003270	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1006573	N-ERGIE Aktiengesellschaft		Zwingerstraße 3	91161	Hilpoltstein	49.189600	11.190990	1			~CCS2:150|~CCS2:150
+1006576	N-ERGIE Aktiengesellschaft	Standort: Evenord Bank - Am Leonhardspark	Am Leonhardspark 1	90439	Nürnberg	49.443264	11.056389	1		Keine Beschränkung	DE*LVP*E21185*001~TYPE2:22|DE*LVP*E21185*002~TYPE2:22|DE*LVP*E20044*001~TYPE2:22|DE*LVP*E20044*002~TYPE2:22|DE*LVP*E21295*001~TYPE2:22|DE*LVP*E21295*002~TYPE2:22|DE*LVP*E21181*001~TYPE2:22|DE*LVP*E21181*002~TYPE2:22|DE*LVP*E20924*001~TYPE2:22|DE*LVP*E20924*002~TYPE2:22|DE*LVP*E21296*001~TYPE2:22|DE*LVP*E21296*002~TYPE2:22|DE*LVP*E21184*001~TYPE2:22|DE*LVP*E21184*002~TYPE2:22|DE*LVP*E21183*001~TYPE2:22|DE*LVP*E21183*002~TYPE2:22|DE*LVP*E21182*001~TYPE2:22|DE*LVP*E21182*002~TYPE2:22|DE*LVP*E21069*001~TYPE2:22|DE*LVP*E21069*002~TYPE2:22
+1006595	N-ERGIE Aktiengesellschaft		Ziegenstraße 110	90482	Nürnberg	49.467630	11.139930	1			~TYPE2:22|~TYPE2:22
+1006599	N-ERGIE Aktiengesellschaft	Nürnberg - Valznerweiherstraße	Valznerweiherstr. 200	90480	Nürnberg	49.434350	11.132655	1		Keine Beschränkung	DE*LVP*E21418*002~TYPE2:22|DE*LVP*E21418*002~TYPE2:22|DE*LVP*E21421*001~TYPE2:22|DE*LVP*E21421*002~TYPE2:22
+1006601	N-ERGIE Aktiengesellschaft		Zell A 9	91161	Hilpoltstein	49.140170	11.187300	1			~TYPE2:22|~TYPE2:22
+1006604	N-ERGIE Aktiengesellschaft	Standort: Evenord Bank - Am Leonhardspark	Am Leonhardspark 1	90439	Nürnberg	49.443330	11.056150	1		Keine Beschränkung	DE*LVP*E21069*001~TYPE2:22|DE*LVP*E21069*002~TYPE2:22|~CCS2:75|~CCS2:75
+1006613	N-ERGIE Aktiengesellschaft		Rothenburger Str. 183	90439	Nürnberg	49.442243	11.045790	1			~TYPE2:22|~TYPE2:22
+1006614	N-ERGIE Aktiengesellschaft		Archivstraße 5	90408	Nürnberg	49.462418	11.072568	1			~TYPE2:22|~TYPE2:22
+1006616	N-ERGIE Aktiengesellschaft		Kölner Straße 31	90425	Nürnberg	49.467670	11.057558	1			~TYPE2:22|~TYPE2:22
+1006618	N-ERGIE Aktiengesellschaft		Haimendorfer Straße 37	90571	Schwaig	49.466297	11.207207	1			~TYPE2:22|~TYPE2:22
+1006619	N-ERGIE Aktiengesellschaft		Günthersbühler Straße 48	90571	Schwaig	49.487525	11.202942	1			~TYPE2:22|~TYPE2:22
+1006622	N-ERGIE Aktiengesellschaft		Badstr. 6	91227	Leinburg	49.428817	11.361711	1			~TYPE2:22|~TYPE2:22
+1006623	N-ERGIE Aktiengesellschaft		Heisterstr. 48	90441	Nürnberg	49.424717	11.063527	1			~TYPE2:22|~TYPE2:22
+1006624	N-ERGIE Aktiengesellschaft		Hesselbergring 1	90449	Nürnberg	49.420695	11.018387	1			~TYPE2:22|~TYPE2:22
+1006625	N-ERGIE Aktiengesellschaft		Paumannstr. 130	90469	Nürnberg	49.407252	11.083878	1			~TYPE2:22|~TYPE2:22
+1006626	N-ERGIE Aktiengesellschaft		Armin-Knab-Str. 4	90469	Nürnberg	49.411259	11.078896	1			~TYPE2:22|~TYPE2:22
+1006627	N-ERGIE Aktiengesellschaft		Nürnberger Str. 3	91227	Leinburg	49.450722	11.304535	1			~TYPE2:22|~TYPE2:22
+1006632	N-ERGIE Aktiengesellschaft		Bregenzer Str. 15	90475	Nürnberg	49.397726	11.175358	1			~TYPE2:22|~TYPE2:22
+1006633	N-ERGIE Aktiengesellschaft		Brunner Hauptstr. ggü. 2	90475	Nürnberg	49.436657	11.250154	1			~TYPE2:22|~TYPE2:22
+1006634	N-ERGIE Aktiengesellschaft		Zapfengasse 2	90491	Nürnberg	49.472560	11.136880	1			~TYPE2:22|~TYPE2:22
+1006635	N-ERGIE Aktiengesellschaft		Mögeldorfer Hauptstraße 13	90482	Nürnberg	49.459124	11.128524	1			~TYPE2:22|~TYPE2:22
+1006636	N-ERGIE Aktiengesellschaft		Bismarckstr. 175	90491	Nürnberg	49.464631	11.118233	1			~TYPE2:22|~TYPE2:22
+1006637	N-ERGIE Aktiengesellschaft		Schopenhauerstr. 24	90409	Nürnberg	49.468477	11.089281	1			~TYPE2:22|~TYPE2:22
+1006638	N-ERGIE Aktiengesellschaft	Nürnberg - Südwestpark 50	Südwestpark 50	90449	Nürnberg	49.429755	11.017988	1		Keine Beschränkung	DE*LVP*E20966*001~TYPE2:22|DE*LVP*E20966*002~TYPE2:22|DE*LVP*E21153*001~TYPE2:22|DE*LVP*E21153*002~TYPE2:22|DE*LVP*E21319*001~TYPE2:22|DE*LVP*E21319*002~TYPE2:22
+1006639	N-ERGIE Aktiengesellschaft		Südwestpark 10	90449	Nürnberg	49.427815	11.019527	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1006640	N-ERGIE Aktiengesellschaft	Standort: Allersberg - Grashof	Grashof 4	90584	Allersberg	49.229414	11.203992	1		Keine Beschränkung	DE*LVP*E21439*001~TYPE2:22|DE*LVP*E21439*002~TYPE2:22|DE*LVP*E21336*001~TYPE2:22|DE*LVP*E21336*002~TYPE2:22
+1006643	N-ERGIE Aktiengesellschaft	Standort: Nürnberg - Südwestpark 100 (bei Straßenquerung)	Südwestpark 100	90449	Nürnberg	49.426714	11.018185	1		Keine Beschränkung	DE*LVP*E21314*001~TYPE2:22|DE*LVP*E21314*002~TYPE2:22|DE*LVP*E21325*001~TYPE2:22|DE*LVP*E21325*002~TYPE2:22
+1006644	N-ERGIE Aktiengesellschaft	Roth - Birkacher Hauptstraße	Birkacher Hauptstr. 2	91154	Roth	49.230133	11.190786	1		Keine Beschränkung	DE*LVP*E21367*001~TYPE2:22|DE*LVP*E21338*002~TYPE2:22|DE*LVP*E21338*001~TYPE2:22|DE*LVP*E21338*002~TYPE2:22
+1006645	N-ERGIE Aktiengesellschaft	Hilpoltstein - Am Rothsee 1	Am Rothsee 1	91161	Hilpoltstein	49.210724	11.187590	1		Keine Beschränkung	DE*LVP*E21324*001~TYPE2:22|DE*LVP*E21324*002~TYPE2:22|DE*LVP*E21334*001~TYPE2:22|DE*LVP*E21334*002~TYPE2:22
+1006651	N-ERGIE Aktiengesellschaft	Standort: Nürnberg - Südwestpark 44	Südwestpark 44	90449	Nürnberg	49.428065	11.022970	1		Keine Beschränkung	DE*LVP*E21344*001~TYPE2:22|DE*LVP*E21344*002~TYPE2:22|DE*LVP*E21359*001~TYPE2:22|DE*LVP*E21359*002~TYPE2:22
+1007894	Robert Bosch GmbH		Zweibrückener Straße 13	90441	Nürnberg	49.426340	11.051090	1			~TYPE2:15|~TYPE2:15
+1007895	Robert Bosch GmbH		Zweibrückener Straße 13	90441	Nürnberg	49.423990	11.051550	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|DE*811*E61234875*1~TYPE2:22|DE*811*E61234875*2~TYPE2:22|DE*811*E61234875*3~TYPE2:22|DE*811*E61234875*4~TYPE2:22|DE*811*E61234875*5~TYPE2:22|DE*811*E61234875*6~TYPE2:22|DE*811*E61234875*1~TYPE2:22|DE*811*E61234875*2~TYPE2:22|DE*811*E61234875*3~TYPE2:22|DE*811*E61234875*4~TYPE2:22|DE*811*E61234875*5~TYPE2:22|DE*811*E61234875*6~TYPE2:22|DE*811*E61234868*1~TYPE2:22|DE*811*E61234868*2~TYPE2:22|DE*811*E61234868*3~TYPE2:22|DE*811*E61234868*4~TYPE2:22
+1007896	Robert Bosch GmbH		Zweibrückener Straße 13	90441	Nürnberg	49.424860	11.048120	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1007973	Robert Bosch GmbH		Zweibrückener Straße 13	90441	Nürnberg	49.424810	11.048120	1			~TYPE2:22|~TYPE2:22
+1009289	Shell Deutschland GmbH		Erlenstegenstr. 39	49491	Nürnberg	49.468927	11.129254	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1011049	Jolt Energy GmbH		Ostendstr. 56	90482	Nürnberg	49.452144	11.110589	1			~CCS2:160|~CCS2:160
+1011054	Jolt Energy GmbH		Gustav-Adolf-Str. 49A	90439	Nürnberg	49.436700	11.038900	1			~CCS2:160|~CCS2:160
+1011410	Comfort Charge	Nürnberg, CC_90_0001	Hansastr. 1	90441	Nürnberg	49.426520	11.038870	1	24/7	Keine Beschränkung	DECCH*ECCH2300050DLT*1~CCS2:200|DECCH*ECCH2300050DLT*2~CCS2:200
+1011483	Comfort Charge	Nürnberg, CC_90_0001	Hansastr. 1	90441	Nürnberg	49.426550	11.038960	1	24/7	Keine Beschränkung	DECCH*ECCH2300051DLT*1~CCS2:200|DECCH*ECCH2300051DLT*2~CCS2:200
+1011551	Comfort Charge		Herzogstandstr 5-7	90471	Nürnberg	49.413670	11.118070	1			~CCS2:200|~CCS2:200
+1011580	Comfort Charge	Neumarkt in der Oberpfalz, CC_92_0001	Milchhofstr. 20	92318	Neumarkt i.d.OPf.	49.286500	11.463120	1	24/7	Keine Beschränkung	DECCH*ECCH2200053EBG*1~CCS2:49|DECCH*ECCH2200053EBG*2~TYPE2_TETHERED:22
+1012305	N-ERGIE Aktiengesellschaft		Espenpark 28	90559	Burgthann	49.317040	11.338970	1			~CCS2:75|~CCS2:75
+1019384	Stadtwerke Neumarkt	Neumarkt - Nürnberger Str. 37A	Nürnberger Str. 37A	92318	Neumarkt i.d.OPf.	49.287167	11.443186	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1019385	Stadtwerke Neumarkt	Neumarkt - Nürnberger Str. 37A	Nürnberger Str. 37A	92318	Neumarkt i.d.OPf.	49.287481	11.443245	1		Keine Beschränkung	DE*LVP*E21935*001~CCS2:300|DE*LVP*E21935*002~CCS2:300
+1021631	EWE Go GmbH	McD_0998	Heisterstr. 1	90441	Nürnberg	49.427964	11.061603	1	24/7	Keine Beschränkung	DE*2GO*EMCD0998*1A*1~CCS2:150|DE*2GO*EMCD0998*1A*2~CCS2:150
+1021724	EWE Go GmbH	McD_0861	Regensburger Str. 416	90480	Nürnberg	49.427460	11.143342	1	24/7	Keine Beschränkung	DE*2GO*EMCD0861*1A*1~CCS2:150|DE*2GO*EMCD0861*1A*2~CCS2:150
+1022080	EWE Go GmbH		An der Autobahn 4	91171	Greding	49.042819	11.342601	1			~CCS2:225|~CCS2:225
+1022081	EWE Go GmbH		An der Autobahn 4	91171	Greding	49.042795	11.342686	1			~CCS2:225|~CCS2:225|~CCS2:225|~CCS2:225
+1022087	EWE Go GmbH		Am Falbenholzweg 4	91126	Schwabach	49.318986	11.048517	1			~CCS2:300|~CCS2:300
+1022146	EWE Go GmbH		Laufamholzstraße 76	90482	Nürnberg	49.462117	11.141015	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1022215	EWE Go GmbH		Röthensteig 30	90408	Röthensteig	49.469915	11.074890	1			~CCS2:150|~CCS2:150
+1025153	EnBW mobility+ AG und Co.KG		Raststätte Greding West 0	91171	Greding	49.045639	11.337409	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025603	EnBW mobility+ AG und Co.KG		An der Autobahn 9	91171	Greding	49.045591	11.337633	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1025983	EnBW mobility+ AG und Co.KG		Aüßere Bayreuther Strasse 134	90411	Nürnberg	49.475270	11.104245	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1026173	EnBW mobility+ AG und Co.KG		Bahnhofstr. 20	91171	Greding	49.043808	11.349945	1			~CCS2:150|~CCS2:150
+1026175	EnBW mobility+ AG und Co.KG		Rother Str. 18	90584	Allersberg	49.250900	11.228536	1			~CCS2:150|~CCS2:150
+1027120	EnBW mobility+ AG und Co.KG		Pleinfelder Str. 66 b-e	97766	Georgensgmünd	49.177042	11.011883	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027208	EnBW mobility+ AG und Co.KG		Bregenzer Str. 15	90475	Nürnberg/Moorenbrunn	49.398242	11.175675	1			~CCS2:150|~CCS2:150
+1027248	EnBW mobility+ AG und Co.KG		Rother Straße 1B	90530	Wendelstein	49.334400	11.114360	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150
+1028142	N-ERGIE Aktiengesellschaft	Nürnberg - Allersberger Straße 177 (Ecke Tristanstraße)	Allersberger Str. 177	90461	Nürnberg	49.433865	11.096262	1	24/7	Keine Beschränkung	DE*LVP*E21537*001~TYPE2:22|DE*LVP*E21537*002~TYPE2:22
+1028144	N-ERGIE Aktiengesellschaft	Nürnberg - Gleisshammerstraße 118	Gleißhammerstr. 118	90480	Nürnberg	49.453220	11.122460	1	24/7	Keine Beschränkung	DE*LVP*E21535*001~TYPE2:22|DE*LVP*E21535*002~TYPE2:22
+1028145	N-ERGIE Aktiengesellschaft		Heilbronner Platz 2	90453	Nürnberg	49.386730	11.033970	1	24/7	Keine Beschränkung	DE*LVP*E21514*001~TYPE2:22|DE*LVP*E21514*002~TYPE2:22
+1028147	N-ERGIE Aktiengesellschaft	Nürnberg - Ludwigstraße 77	Ludwigstr. 77	90402	Nürnberg	49.448670	11.067530	1	24/7	Keine Beschränkung	DE*LVP*E21457*001~TYPE2_TETHERED:22|DE*LVP*E21457*002~TYPE2_TETHERED:22
+1028156	N-ERGIE Aktiengesellschaft	Nürnberg - Schleifweg 14	Schleifweg 14	90409	Nürnberg	49.470750	11.082810	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1028157	N-ERGIE Aktiengesellschaft	Nürnberg - Pirckheimerstraße 78	Pirckheimerstr. 78	90408	Nürnberg	49.460870	11.084850	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1028158	N-ERGIE Aktiengesellschaft	Nürnberg - Nerzstraße 34	Nerzstr. 34	90461	Nürnberg	49.424610	11.089030	1	24/7	Keine Beschränkung	DE*LVP*E22667*001~TYPE2_TETHERED:22|DE*LVP*E22667*002~TYPE2_TETHERED:22
+1028170	Gemeindewerke Feucht Holding GmbH	Feucht - Kirchweihplatz	Kapellenplatz 5	90537	Feucht	49.377382	11.213764	1	24/7	Keine Beschränkung	DE*LVP*E21205*001~TYPE2_TETHERED:22|DE*LVP*E21205*002~TYPE2_TETHERED:22
+1030831	SVG Straßenverkehrsgenossenschaft Süd eG	Nürnberg Witschlstraße	Witschelstr. 95	90431	Nürnberg	49.447527	11.038986	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031366	HomE of Mobility GmbH		Heisterstraße 4a	90441	Nürnberg	49.426440	11.060292	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|DE*HOM*E500101*013~TYPE2:22|DE*HOM*E500101*014~TYPE2:22
+1031369	HomE of Mobility GmbH		Heisterstraße 4a	90441	Nürnberg	49.426794	11.059892	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031373	HomE of Mobility GmbH		Heisterstraße 4a	90441	Nürnberg	49.426735	11.059204	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031506	CUBOS Service GmbH		Frauentorgraben 37	90443	Nürnberg	49.446769	11.073465	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031527	CUBOS Service GmbH		Marienstraße 10	90402	Nürnberg	49.448606	11.085794	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031632	CUBOS Service GmbH		Ötterichweg 7	90411	Nürnberg	49.478675	11.116625	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1032200	TotalEnergies		Gildestraße 5	91154	Roth	49.246100	11.113526	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032258	IKEA Deutschland GmbH & Co.KG		Hans-Vogel-Straße 110	90765	Fürth	49.484806	11.009020	1			~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20|~TYPE2_TETHERED:22|~CCS2:20+CHADEMO:20
+1034279	Stadtdienste Schwabach GmbH	Schwabach - Haydnstraße	Haydnstr. -	91126	Schwabach	49.319184	11.022789	1	24/7	Keine Beschränkung	DE*LVP*E21880*001~TYPE2_TETHERED:22|DE*LVP*E21880*002~TYPE2_TETHERED:22
+1035559	ALDI SÜD		Konstanzenstraße 111	90439	Nürnberg	49.434944	11.041028	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035600	ALDI SÜD		Wolkersdorfer Hauptstraße 61	91126	Schwabach-Wolkersdorf	49.365254	11.030376	1			~TYPE2:22|~TYPE2:22
+1035629	ALDI SÜD		Bortenmacherstraße 4	91154	Roth	49.246927	11.120593	1			~TYPE2:22|~TYPE2:22
+1035675	ALDI SÜD	ADE-089	Regensburger Straße 266	90480	Nürnberg	49.435643	11.122679	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E22401~CCS2:150|DE*ALD*E22402~CCS2:150|DE*ALD*E22403~TYPE2:22
+1035695	ALDI SÜD		Katzwanger Straße 140	90461	Nürnberg	49.425186	11.084767	1			~TYPE2:22|~TYPE2:22
+1035749	ALDI SÜD		An der Radrunde 148	90455	Nürnberg	49.372028	11.081889	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035784	ALDI SÜD		Magazinstraße 61	90763	Fürth	49.454163	11.001365	1			~TYPE2:22|~TYPE2:22
+1035864	ALDI SÜD		Lübener Straße 18	90471	Nürnberg	49.410389	11.140000	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035870	ALDI SÜD		Ostendstraße 144	90482	Nürnberg	49.456361	11.121444	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1035989	ALDI SÜD	ADE-097	Grolandstraße 43	90408	Nürnberg	49.465417	11.076167	1	Mo-Sa 06:00-22:00	Keine Beschränkung	DE*ALD*E22692~CCS2:150|DE*ALD*E22693~CCS2:150|DE*ALD*E22694~TYPE2:22
+1036044	Kropf		Deutschherrenstr. 1-7	90429	Nürnberg	49.453495	11.065450	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036050	Kropf		Bessemerstraße 10	90411	Nürnberg	49.474385	11.106316	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036052	Kropf		Ostring 14	91154	Roth	49.250744	11.105197	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036054	Kropf		Leyher Str. 64	90431	Nürnberg	49.451747	11.027457	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036709	Jolt Energy GmbH		Erlanger Str. 3	90425	Nürnberg	49.469836	11.067393	1	24/7	Keine Beschränkung	DE*JEG*EN009001~CCS2:300|DE*JEG*EN009002~CCS2:300
+1036714	Stadtdienste Schwabach GmbH	Schwabach - Wilhelm-Dümmler-Straße 104	Wilhelm-Dümmler-Str. 104	91126	Schwabach	49.341787	11.012748	1	24/7	Keine Beschränkung	DE*LVP*E21361*001~TYPE2_TETHERED:22|DE*LVP*E21361*002~TYPE2_TETHERED:22
+1036839	N-ERGIE Aktiengesellschaft	Nürnberg - Regenstraße 1	Regenstr. 1	90451	Nürnberg	49.407650	11.066470	1	24/7	Keine Beschränkung	DE*LVP*E21515*001~TYPE2_TETHERED:22|DE*LVP*E21515*002~TYPE2_TETHERED:22
+1037275	Shell Deutschland GmbH		Erlanger Str. 4	90408	Nürnberg	49.470110	11.067920	1			~CCS2:150|~CCS2:150
+1037572	Citywatt GmbH		Blomenhofstraße 3	92318	Neumarkt i. d. Oberpfalz	49.300005	11.459062	1			~CCS2:300|~CCS2:300
+1037573	Citywatt GmbH		Blomenhofstraße 3	92318	Neumarkt i. d. Oberpfalz	49.300029	11.459180	1			~CCS2:300|~CCS2:300
+1037574	Citywatt GmbH		Blomenhofstraße 3	92318	Neumarkt i. d. Oberpfalz	49.300036	11.459277	1			~CCS2:300|~CCS2:300
+1037575	Citywatt GmbH		Blomenhofstraße 3	92318	Neumarkt i. d. Oberpfalz	49.300040	11.459368	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1037952	Gasthof Krone		Marktplatz 14	85125	Kinding	49.000229	11.383499	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1038751	N-ERGIE Aktiengesellschaft	Nürnberg - Kurt-Schumacher-Straße 23	Dr.-Kurt-Schumacher-Str. 23	90402	Nürnberg	49.449730	11.071000	1	24/7	Keine Beschränkung	DE*LVP*E21541*001~TYPE2_TETHERED:22|DE*LVP*E21541*002~TYPE2_TETHERED:22
+1038762	EnBW mobility+ AG und Co.KG		Am Gewerbepark 2	90552	Röthenbach a.d.Pegnitz	49.479800	11.225600	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1038778	Versorgungsgesellschaft Altdorf mbH	Altdorf bei Nürnberg- Parkstr.	Parkstr. -	90518	Altdorf b. Nürnberg	49.401326	11.339321	1	24/7	Keine Beschränkung	DE*LVP*E21097*001~TYPE2_TETHERED:22|DE*LVP*E21097*001~TYPE2_TETHERED:22
+1038880	MER Germany	Sengenthal (DE*MER*E006845)	Schlierfer Holz 4	92369	Sengenthal	49.224800	11.456350	1	24/7	Keine Beschränkung	DE*MER*E006845*01~CCS2:150|DE*MER*E006845*02~CCS2:150|~CCS2:75+CHADEMO:75|~CCS2:75
+1039438	IONITY GmbH		Neumarkt 0	92348	Berg bei Neumarkt in der Oberpfalz	49.312948	11.474745	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1042674	Energielösung GmbH		Meisenweg 1	92360	Mühlhausen	49.174817	11.448373	1			~TYPE2:22|~TYPE2:22
+1042780	Energielösung GmbH		Gutenbergstraße 5	92334	Berching	49.139190	11.451050	1			~CCS2:150|~CCS2:150
+1042781	Energielösung GmbH		Kreutweg 4	92360	Mühlhausen	49.169470	11.449090	1			~TYPE2:22|~TYPE2:22
+1042782	Energielösung GmbH		Kreutweg 2	92360	Mühlhausen	49.169700	11.448030	1			~TYPE2:22|~TYPE2:22
+1042949	Allego		Ludwig-Erhard-Ring 2	92348	Berg / Neumarkt	49.312984	11.475445	1			DEALLEGO000255*1~CCS2:50+CHADEMO:50|DEALLEGO000255*2~TYPE2_TETHERED:43
+1043143	Allego		An der Autobahn A2 0	91161	Hilpholtstein	49.160999	11.260164	1			DEALLEGO002520*1~CCS2:150|DEALLEGO002520*2~CCS2:150
+1043348	Allego		An der Autobahn O 2	91161	Hilpoltstein	49.161083	11.260240	1			DEALLEGO002718*1~CCS2:300|DEALLEGO002718*2~CCS2:300|DEALLEGO002719*1~CCS2:300|DEALLEGO002719*2~CCS2:300
+1043703	Allego		Sigmundstr. 174	90431	Nürnberg	49.445717	11.007739	1		Keine Beschränkung	DEALLEGO002971*1~CCS2:150|DEALLEGO002971*2~CCS2:150|DEALLEGO002974*1~CCS2:150|DEALLEGO002974*2~CCS2:150
+1043706	Allego		Nordring 15	90408	Nürnberg	49.469775	11.070071	1		Keine Beschränkung	DEALLEGO002977*1~CCS2:150|DEALLEGO002977*2~CCS2:150|DEALLEGO002978*1~CCS2:150|DEALLEGO002978*2~CCS2:150
+1047768	N-ERGIE Aktiengesellschaft	Nürnberg - Tannhäuserstr. 57	Tannhäuserstr. 57	90469	Nürnberg	49.417270	11.071040	1		Keine Beschränkung	DE*LVP*E21648*001~TYPE2:22|DE*LVP*E21648*002~TYPE2:22|DE*LVP*E21650*001~TYPE2:22|DE*LVP*E21650*002~TYPE2:22
+1047915	N-ERGIE Aktiengesellschaft	Nürnberg - An der Sparkasse/Johannesgasse	An der Sparkasse -	90402	Nürnberg	49.449920	11.081050	1	24/7	Keine Beschränkung	DE*LVP*E21615*001~TYPE2_TETHERED:22|DE*LVP*E21615*002~TYPE2_TETHERED:22
+1047968	N-ERGIE Aktiengesellschaft	Nürnberg - Kornmarkt 8	Kornmarkt 8	90402	Nürnberg	49.449210	11.074510	1	24/7	Keine Beschränkung	DE*LVP*E21803*001~TYPE2_TETHERED:22|DE*LVP*E21803*002~TYPE2_TETHERED:22
+1049624	E.ON Drive Infrastructure		Raststätte Nürnberg Feucht Ost 0	90537	Feucht	49.357242	11.204249	1			~CCS2:50|~CCS2:50
+1049727	E.ON Drive Infrastructure		Raststätte Greding Ost 0	91171	Greding	49.041500	11.353943	1			~CCS2:50|~CCS2:50
+1049729	E.ON Drive Infrastructure		Raststätte Nürnberg Feucht West 0	90537	Feucht	49.356498	11.201642	1			~CCS2:50|~CCS2:50
+1050469	Pfalzwerke AG		Am Falbenholzweg 0	91126	Schwabach	49.321139	11.049660	1			~CCS2:150|~CCS2:150|~CCS2:22|~TYPE2:22
+1050531	Pfalzwerke AG		Magazinstraße 90	90763	Fürth	49.452384	11.001278	1			~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1054777	Aral Pulse		An der Autobahn 1	91126	Kammerstein	49.311207	11.002323	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1054875	Aral Pulse		Oberes Moos 1	92318	Neumarkt i.d. Oberpfalz	49.259680	11.458940	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054995	Aral Pulse		Münchener Straße 401	90471	Nürnberg	49.401360	11.116060	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055106	Aral Pulse		Nürnberger Straße 25	90518	Altdorf bei Nürnberg	49.383969	11.348050	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055337	Aral Pulse		Äuss. Bayreuther Str. 137	90411	Nürnberg	49.474737	11.102929	1			~CCS2:150|~CCS2:150
+1055376	Aral Pulse		Münchener Straße 401	90471	Nürnberg	49.401347	11.116207	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1055403	Aral Pulse		Nürnberger Str. 25	90518	Altdorf b. Nürnberg	49.384439	11.348849	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1056318	Jolt Energy GmbH		Münchener Str. 281	90471	Nürnberg	49.423890	11.106122	1	24/7	Keine Beschränkung	DE*JEG*EN008901~CCS2:320|DE*JEG*EN008902~CCS2:320
+1057402	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449964	11.099388	1			~TYPE2:22|~TYPE2:22
+1057403	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449919	11.099397	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057405	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449831	11.099414	1			~TYPE2:22|~TYPE2:22
+1057408	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449490	11.099481	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057410	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449600	11.099459	1			~TYPE2:22|~TYPE2:22
+1057411	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449642	11.099449	1			~TYPE2:22|~TYPE2:22
+1057412	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449445	11.099488	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057413	Mercedes- Benz AG - Niederlassung Nürnberg		Kressengartenstraße 14	90402	Nürnberg	49.449288	11.099520	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1057417	Mercedes- Benz AG - Niederlassung Nürnberg		Fürther Straße 235	90429	Nürnberg	49.458654	11.029260	1			~TYPE2:22|~TYPE2:22
+1057419	Mercedes- Benz AG - Niederlassung Nürnberg		Fürther Straße 235	90429	Nürnberg	49.458667	11.029164	1			~TYPE2:22|~TYPE2:22
+1057421	Mercedes- Benz AG - Niederlassung Nürnberg		Fürther Straße 235	90429	Nürnberg	49.458585	11.029914	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057422	Mercedes- Benz AG - Niederlassung Nürnberg		Fürther Straße 235	90429	Nürnberg	49.458793	11.029560	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1061300	N-ERGIE Aktiengesellschaft	Nürnberg - An der Marterlach 11	An der Marterlach 11	90441	Nürnberg	49.419180	11.061090	1	24/7	Keine Beschränkung	DE*LVP*E21476*001~TYPE2_TETHERED:22|DE*LVP*E21476*002~TYPE2_TETHERED:22
+1062354	Stadtwerke Neumarkt	Neumarkt - Am Höhenberg 5	Am Höhenberg 5	92318	Neumarkt i.d.OPf.	49.273014	11.494001	1	24/7	Keine Beschränkung	DE*LVP*E21912*001~TYPE2_TETHERED:22|DE*LVP*E21912*002~TYPE2_TETHERED:22
+1062406	N-ERGIE Aktiengesellschaft	Nürnberg - Fürther Straße 110	Fürther Str. 110	90429	Nürnberg	49.454210	11.047720	1	24/7	Keine Beschränkung	DE*LVP*E21115*001~TYPE2_TETHERED:22|DE*LVP*E21115*002~TYPE2_TETHERED:22|DE*LVP*E21735*001~TYPE2_TETHERED:22|DE*LVP*E21735*002~TYPE2_TETHERED:22
+1062458	N-ERGIE Aktiengesellschaft	Nürnberg - Ostendstraße 117C	Ostendstr. 117c	90482	Nürnberg	49.457110	11.120490	1	24/7	Keine Beschränkung	DE*LVP*E21807*001~TYPE2_TETHERED:22|DE*LVP*E21807*002~TYPE2_TETHERED:22|DE*LVP*E21766*001~TYPE2_TETHERED:22|DE*LVP*E21766*002~TYPE2_TETHERED:22
+1062535	Stadtwerke Neumarkt	Neumarkt - Am Höhenberg 12	Am Höhenberg 12	92318	Neumarkt i.d.OPf.	49.272859	11.492162	1	24/7	Keine Beschränkung	DE*LVP*E21914*001~TYPE2_TETHERED:22|DE*LVP*E21914*002~TYPE2_TETHERED:22
+1062544	N-ERGIE Aktiengesellschaft	Hilpoltstein - Gredinger Straße ggü. 7	Gredinger Str. ggü. 7	91161	Hilpoltstein	49.186627	11.194399	1	24/7	Keine Beschränkung	DE*LVP*E21733*001~CCS2:150|DE*LVP*E21733*002~CCS2:150
+1062608	Numbat GmbH	Norma Nürnberg - Brettergartenstraße - Süd - Straße	Brettergartenstr. 90	90427	Nürnberg	49.471422	11.023349	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1063018	Bär & Kuhnert GmbH		Hainstr. 25	90461	Nürnberg	49.441286	11.103917	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1063090	N-ERGIE Aktiengesellschaft	Nürnberg - Passauer Str. ggü. 49	Passauer Str. 49	90480	Nürnberg	49.448340	11.122980	1	24/7	Keine Beschränkung	DE*LVP*E21737*001~CCS2:150|DE*LVP*E21737*002~CCS2:150
+1063988	smopi		Kurt-Triest-Straße 1	90441	Nürnberg	49.430858	11.043351	1		Keine Beschränkung	EVSE ID: DE*SMC*E0000151~CCS2:150|EVSE ID: DE*SMC*E0000152~CCS2:150
+1064102	Kaufland	7910_Kland_Wendelstein_T53-HU1-0618-001	Rother Str. 1b	90530	Wendelstein	49.351294	11.154641	1		Keine Beschränkung	~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1064159	Kaufland	8610_Kland_Nürnberg_T54-IT1-0922-231	Schwabacher Str. 99	90439	Nürnberg	49.436610	11.050914	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064198	Kaufland		Dianaplatz 25-25	90443	Nürnberg	49.426830	11.066390	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1064208	Kaufland	2420_Kland_Neumarkt_T65-IT1-3822-223	Altdorfer Str. 63	92318	Neumarkt i.d.OPf.	49.290934	11.459120	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1064266	Kaufland	1693_Kland_Roth_T54-HU1-1822-020	Friedrich-Wambsganz-Str. 1	91154	Roth	49.249522	11.093494	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1064287	Kaufland	7750_KLAND_Burgthann_T65-IT1-4722-013	Espenpark 30	90559	Burgthann	49.316934	11.339362	1		Keine Beschränkung	~CCS2:60|~TYPE2:22|~CCS2:60
+1064836	Aral Pulse		Erlanger Str. 40	90425	Nürnberg	49.474363	11.064719	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1064905	Aral Pulse		Wodanstraße 27	90461	Nürnberg	49.437475	11.095368	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1068071	EW-Schmid GmbH		Nürnbergerstr. 8	90596	Schwanstetten	49.298517	11.121295	1			~TYPE2:11
+1068353	Stadtwerke Neumarkt	Neumarkt - Freystädter Straße 11	Freystädter Str. 11	92318	Neumarkt i.d.OPf.	49.273242	11.447414	1	24/7	Keine Beschränkung	DE*LVP*E21714*001~CCS2:300|DE*LVP*E21714*002~CCS2:300
+1068358	Stadtwerke Neumarkt	Neumarkt - Lange Gasse 1	Lange Gasse 1	92318	Neumarkt i.d.OPf.	49.274370	11.448090	1	24/7	Keine Beschränkung	DE*LVP*E21788*001~CCS2:300|DE*LVP*E21788*002~CCS2:300|DE*LVP*E21839*001~CCS2:300|DE*LVP*E21839*002~CCS2:300
+1068688	Schwarzer Adler Gast		Fritz-Weidner-Straße 1	90451	Nürnberg	49.401619	11.035174	1			~TYPE2:11|~TYPE2:11
+1069114	N-ERGIE Aktiengesellschaft	Nürnberg - Gutenstetter Straße 2	Gutenstetter Str. 2	90449	Nürnberg	49.436108	11.002702	1	24/7	Keine Beschränkung	DE*LVP*E21796*001~TYPE2_TETHERED:22|DE*LVP*E21796*002~TYPE2_TETHERED:22|DE*LVP*E21655*001~TYPE2_TETHERED:22|DE*LVP*E21655*002~TYPE2_TETHERED:22|DE*LVP*E21774*001~CCS2:150|DE*LVP*E21774*002~CCS2:150
+1069154	Stadtwerke Neumarkt	Neumarkt - Freystädter Str. 11	Freystädter Str. 11	92318	Neumarkt i.d.OPf.	49.273122	11.447659	1	24/7	Keine Beschränkung	DE*LVP*E21852*001~TYPE2_TETHERED:22|DE*LVP*E21852*002~TYPE2_TETHERED:22|DE*LVP*E21859*001~TYPE2_TETHERED:22|DE*LVP*E21859*002~TYPE2_TETHERED:22
+1069253	Johanniter RV Mittelfranken - RGST Nürnberg		Johanniterstr. 3	90425	Nürnberg	49.473026	11.073811	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1069534	Arvena Park Hotel		Görlitzer Straße 51	90473	Nürnberg	49.400000	11.137664	1			~TYPE2:11|~TYPE2:11
+1069716	NürnbergMesse GmbH		Messezentrum 1	90471	Nürnberg	49.416251	11.112460	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069717	NürnbergMesse GmbH		Messezentrum 3	90471	Nürnberg	49.416540	11.115440	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069718	NürnbergMesse GmbH		Messezentrum 3	90471	Nürnberg	49.416550	11.115450	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069719	NürnbergMesse GmbH		Große Straße 1	90471	Nürnberg	49.423300	11.117102	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069721	NürnbergMesse GmbH		Karl-Schönleben-Straße 65	90471	Nürnberg	49.416761	11.121194	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069724	NürnbergMesse GmbH		Karl-Schönleben-Straße 70	90471	Nürnberg	49.417604	11.123368	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1069726	NürnbergMesse GmbH		Karl-Schönleben-Straße 65	90471	Nürnberg	49.416100	11.119969	1			~TYPE2:22|~TYPE2:22
+1070015	N-ERGIE Aktiengesellschaft	Nürnberg - Parkplatz Norikerstr.	Norikerstr. -	90402	Nürnberg	49.451281	11.103513	1	24/7	Keine Beschränkung	DE*LVP*E21768*001~CCS2:150|DE*LVP*E21768*002~CCS2:150
+1070019	HomE of Mobility GmbH	Auto Zentrum Nürnberg-Feser GmbH · Nopitschstraße 3 · AC,DC	Nopitschstr. 3	90441	Nürnberg	49.430603	11.046582	1	24/7	Keine Beschränkung	DE*HOM*E500103*002~TYPE2_TETHERED:11|DE*HOM*E500103*003~TYPE2_TETHERED:11
+1070084	Energielösung GmbH	Burkhardt GmbH	Kreutweg 2	92360	Mühlhausen	49.169540	11.448250	1	24/7	Keine Beschränkung	DE*BEM*E0010366~TYPE2:22|DE*BEM*E0010367~TYPE2:22
+1070085	Energielösung GmbH	Burkhardt GmbH	Kreutweg 2	92360	Mühlhausen	49.169470	11.447650	1	24/7	Keine Beschränkung	DE*BEM*E0010446~TYPE2:22|DE*BEM*E0010447~TYPE2:22
+1070086	Energielösung GmbH	Burkhardt GmbH	Kreutweg 2	92360	Mühlhausen	49.169420	11.447720	1	24/7	Keine Beschränkung	DE*BEM*E0010444~TYPE2:22|DE*BEM*E0010445~TYPE2:22
+1071249	AUDI AG	Audi charging hub Nürnberg	Münchener Str. 301	90478	Nürnberg	49.418121	11.108924	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1071319	N-ERGIE Aktiengesellschaft	Schwanstetten - Alte Straße ggü. 8	Alte Str. 1	90596	Schwanstetten	49.302313	11.122246	1	24/7	Keine Beschränkung	DE*LVP*E21731*001~CCS2:150|DE*LVP*E21731*002~CCS2:150
+1071321	N-ERGIE Aktiengesellschaft	Nürnberg - Venatoriusstraße 16	Venatoriusstr. 16	90455	Nürnberg	49.354842	11.100980	1	24/7	Keine Beschränkung	DE*LVP*E21513*001~TYPE2_TETHERED:22|DE*LVP*E21513*002~TYPE2_TETHERED:22
+1071322	N-ERGIE Aktiengesellschaft	Nürnberg - Van-Gogh-Straße 5	Van-Gogh-Str. 5	90455	Nürnberg	49.369748	11.086258	1	24/7	Keine Beschränkung	DE*LVP*E21554*001~TYPE2_TETHERED:22|DE*LVP*E21554*002~TYPE2_TETHERED:22
+1071382	N-ERGIE Aktiengesellschaft	Nürnberg - Gibitzenhofstraße 156	Gibitzenhofstr. 156	90443	Nürnberg	49.430590	11.066200	1	24/7	Keine Beschränkung	DE*LVP*E21510*001~TYPE2_TETHERED:22|DE*LVP*E21510*002~TYPE2_TETHERED:22
+1072484	GETEC mobility solutions GmbH		Thurn-und-taxis-Str. 10	90411	Nürnberg	49.488478	11.127595	1			~CCS2:50|~CCS2:50
+1072962	Aral Pulse		Ulmenstraße 31	90443	Nürnberg	49.429732	11.069949	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1074868	Anna und Stefan Schneider Hotel GbR		Sperlingstrasse 4	90584	Allersberg	49.251580	11.227410	1			~TYPE2:11
+1074869	Anna und Stefan Schneider Hotel GbR		Sperlingstrasse 5	90584	Allersberg	49.252240	11.227060	1	24/7	Nur für Kunden/Besucher	~TYPE2:11
+1075854	Brigitte Koller Vermietung		Röttenbacher Straße 28	91785	Pleinfeld	49.113788	11.015771	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1075857	Kevin Schampera		Im Weidegrund 10	92348	Gnadenberg	49.368987	11.407590	1			~TYPE2:11
+1076339	Sunline Solartechnik		Hans-Vogel-Straße 22	90765	Fürth	49.478650	11.001220	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076652	Kliniken Dr. Erler gGmbH		Kontumazgarten 4-18	90429	Nürnberg	49.453162	11.068075	1			~TYPE2:22|~TYPE2:22
+1076843	GreenVesting GmbH & Co. KG	OBI-Markt Röthenbach	Am Gewerbepark 1	90552	Röthenbach a.d.Pegnitz	49.480018	11.226398	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1076961	Energielösung GmbH	Burkhardt GmbH	Kreutweg 2	92360	Mühlhausen	49.169300	11.448490	1		Nur für Kunden/Besucher	DE*BEM*E0010376~TYPE2:22|DE*BEM*E0010377~TYPE2:22
+1076964	Energielösung GmbH	Burkhardt GmbH	Kreutweg 2	92360	Mühlhausen	49.169350	11.448570	1		Nur für Kunden/Besucher	DE*BEM*E0010364~TYPE2:22|DE*BEM*E0010365~TYPE2:22
+1076966	Energielösung GmbH	Burkhardt GmbH	Kreutweg 6	92360	Mühlhausen	49.169450	11.449180	1		Nur für Kunden/Besucher	DE*BEM*E0010449~TYPE2:22
+1076967	Energielösung GmbH	Burkhardt GmbH	Sandweg 6	92360	Mühlhausen	49.169770	11.449180	1		Nur für Kunden/Besucher	DE*BEM*E0010448~TYPE2:22
+1076969	Energielösung GmbH	Burkhardt GmbH	Bahnhofstr. 20	92360	Mühlhausen	49.171460	11.453110	1		Nur für Kunden/Besucher	DE*BEM*E0010450~TYPE2:22|DE*BEM*E0010451~TYPE2:22
+1076971	Energielösung GmbH	Burkhardt GmbH	Bahnhofstr. 20	92360	Mühlhausen	49.170160	11.453380	1		Nur für Kunden/Besucher	DE*BEM*E0010452~TYPE2:22|DE*BEM*E0010453~TYPE2:22
+1076972	Energielösung GmbH	Burkhardt GmbH	Breitenloh 23	92360	Mühlhausen	49.184780	11.451330	1		Nur für Kunden/Besucher	DE*BEM*E0010454~TYPE2:22|DE*BEM*E0010455~TYPE2:22
+1076973	Energielösung GmbH	Burkhardt GmbH	Bahnhofstr. 20	92360	Mühlhausen	49.171160	11.452660	1		Nur für Kunden/Besucher	DE*BEM*E0010624~TYPE2:22|DE*BEM*E0010625~TYPE2:22|DE*BEM*E0010630~TYPE2:22
+1076975	Energielösung GmbH	Burkhardt GmbH	Breitenloh 23	92360	Mühlhausen	49.185580	11.451250	1		Nur für Kunden/Besucher	DE*BEM*E0010628~TYPE2:22|DE*BEM*E0010629~TYPE2:22
+1077285	Stadtdienste Schwabach GmbH	Schwabach - Stadtwerke	Ansbacher Str. 14	91126	Schwabach	49.337413	11.014337	1	24/7	Keine Beschränkung	DE*LVP*E20498*001~TYPE2:22|DE*LVP*E20498*002~TYPE2:22
+1077331	N-ERGIE Aktiengesellschaft	Hilpoltstein - Sperberstr. Ecke Lindenallee	Sperberstr. -	91161	Hilpoltstein	49.192769	11.183355	1	24/7	Keine Beschränkung	DE*LVP*E21028*001~CCS2:50|DE*LVP*E21028*002~TYPE2_TETHERED:22|DE*LVP*E21375*001~CCS2:50|DE*LVP*E21375*002~TYPE2_TETHERED:22
+1077363	N-ERGIE Aktiengesellschaft	Nürnberg - Parkhaus Regensburger Viertel	Regensburger Str. 344	90480	Nürnberg	49.431620	11.132520	1	24/7	Keine Beschränkung	DE*LVP*E21743*001~TYPE2_TETHERED:22|DE*LVP*E21743*002~TYPE2_TETHERED:22|DE*LVP*E21742*001~TYPE2_TETHERED:22|DE*LVP*E21742*002~TYPE2_TETHERED:22|DE*LVP*E21741*001~TYPE2_TETHERED:22|DE*LVP*E21741*002~TYPE2_TETHERED:22|DE*LVP*E21744*001~TYPE2_TETHERED:22|DE*LVP*E21744*002~TYPE2_TETHERED:22
+1077724	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - Schubertstraße	Schubertstr. -	90530	Wendelstein	49.347970	11.150340	1	24/7	Keine Beschränkung	DE*LVP*E21777*001~TYPE2_TETHERED:22|DE*LVP*E21777*002~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1077792	Stadtwerke Hersbruck	Engelthal - Hotel Weißes Lamm	Hauptstr. 24	91238	Engelthal	49.471839	11.396487	1	24/7	Keine Beschränkung	DE*LVP*E20991*001~TYPE2_TETHERED:22|DE*LVP*E20993*002~TYPE2_TETHERED:22
+1078003	Bürgerkraftwerke Stein	Stein - Palm Beach 1	Albertus-Magnus-Str. 33	90547	Stein	49.407102	11.007016	1	24/7	Keine Beschränkung	DE*LVP*E21931*001~TYPE2_TETHERED:22|DE*LVP*E21931*002~TYPE2_TETHERED:22|DE*LVP*E50026*001~TYPE2:22|DE*LVP*E50026*002~TYPE2:22
+1081026	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417292	11.121638	1		Keine Beschränkung	DE*DEP*E011019*001~TYPE2:22|DE*DEP*E011020*002~TYPE2:22
+1081028	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417244	11.121690	1		Keine Beschränkung	DE*DEP*E011021*001~TYPE2:22|DE*DEP*E011022*002~TYPE2:22|DE*DEP*E011023*001~TYPE2:22|DE*DEP*E011024*002~TYPE2:22
+1081032	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417161	11.121802	1		Keine Beschränkung	DE*DEP*E011025*001~TYPE2:22|DE*DEP*E011026*002~TYPE2:22
+1081036	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417117	11.121847	1		Keine Beschränkung	DE*DEP*E011027*001~TYPE2:22|DE*DEP*E011028*002~TYPE2:22
+1081041	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417073	11.121891	1		Keine Beschränkung	DE*DEP*E011029*001~TYPE2:22|DE*DEP*E011030*002~TYPE2:22
+1081042	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417034	11.121943	1		Keine Beschränkung	DE*DEP*E011031*001~TYPE2:22|DE*DEP*E011032*002~TYPE2:22|DE*DEP*E011033*001~TYPE2:22|DE*DEP*E011034*002~TYPE2:22
+1081046	NürnbergMesse GmbH	Parkplatz Süd Ost	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417010	11.121980	1		Keine Beschränkung	DE*DEP*E011035*001~TYPE2:22|DE*DEP*E011036*002~TYPE2:22|DE*DEP*E011037*001~TYPE2:22|DE*DEP*E011038*002~TYPE2:22
+1081048	NürnbergMesse GmbH	Parkhaus Nord Große Straße	Messezentrum 1	90471	Nürnberg	49.423405	11.117172	1		Keine Beschränkung	DE*DEP*E013019*001~TYPE2:22|DE*DEP*E013020*002~TYPE2:22|DE*DEP*E013021*001~TYPE2:22|DE*DEP*E013022*002~TYPE2:22|DE*DEP*E013023*001~TYPE2:22|DE*DEP*E013024*002~TYPE2:22|DE*DEP*E013025*001~TYPE2:22|DE*DEP*E013026*002~TYPE2:22|DE*DEP*E013027*001~TYPE2:22|DE*DEP*E013028*002~TYPE2:22|DE*DEP*E013029*001~TYPE2:22|DE*DEP*E013030*002~TYPE2:22|DE*DEP*E013031*001~TYPE2:22|DE*DEP*E013032*002~TYPE2:22|DE*DEP*E013033*001~TYPE2:22|DE*DEP*E013034*002~TYPE2:22|DE*DEP*E013035*001~TYPE2:22|DE*DEP*E013036*002~TYPE2:22|DE*DEP*E013037*001~TYPE2:22|DE*DEP*E013038*002~TYPE2:22
+1081183	NürnbergMesse GmbH	Parkplatz VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416588	11.115236	1		Keine Beschränkung	DE*DEP*E017019*001~TYPE2:22|DE*DEP*E017020*002~TYPE2:22|DE*DEP*E017021*001~TYPE2:22|DE*DEP*E017022*002~TYPE2:22
+1081184	NürnbergMesse GmbH	Parkplatz VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416630	11.115054	1		Keine Beschränkung	DE*DEP*E017023*001~TYPE2:22|DE*DEP*E017024*002~TYPE2:22|DE*DEP*E017025*001~TYPE2:22|DE*DEP*E017026*002~TYPE2:22
+1081185	NürnbergMesse GmbH	Parkplatz VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416661	11.114929	1		Keine Beschränkung	DE*DEP*E017027*001~TYPE2:22|DE*DEP*E017028*002~TYPE2:22|DE*DEP*E017029*001~TYPE2:22|DE*DEP*E017030*002~TYPE2:22
+1081186	NürnbergMesse GmbH	Parkplatz VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416550	11.114793	1		Keine Beschränkung	DE*DEP*E017031*001~TYPE2:22|DE*DEP*E017032*002~TYPE2:22|DE*DEP*E017033*001~TYPE2:22|DE*DEP*E017034*002~TYPE2:22|DE*DEP*E017039*001~TYPE2:22|DE*DEP*E017040*002~TYPE2:22|DE*DEP*E017041*001~TYPE2:22|DE*DEP*E017042*002~TYPE2:22|DE*DEP*E017043*001~TYPE2:22|DE*DEP*E017044*002~TYPE2:22|DE*DEP*E017045*001~TYPE2:22|DE*DEP*E017046*002~TYPE2:22|DE*DEP*E017047*001~TYPE2:22|DE*DEP*E017048*002~TYPE2:22|DE*DEP*E017049*001~TYPE2:22|DE*DEP*E017050*002~TYPE2:22|DE*DEP*E017051*001~TYPE2:22|DE*DEP*E017052*002~TYPE2:22|DE*DEP*E017053*001~TYPE2:22|DE*DEP*E017054*002~TYPE2:22|DE*DEP*E017055*001~TYPE2:22|DE*DEP*E017056*002~TYPE2:22|DE*DEP*E017057*001~TYPE2:22|DE*DEP*E017058*002~TYPE2:22
+1081187	NürnbergMesse GmbH	Parkplatz VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416567	11.114728	1		Keine Beschränkung	DE*DEP*E017035*001~TYPE2:22|DE*DEP*E017036*002~TYPE2:22|DE*DEP*E017037*001~TYPE2:22|DE*DEP*E017038*002~TYPE2:22
+1081211	Stadtwerke Neumarkt	Neumarkt - Neuer Markt 2	Dammstr. 1	92318	Neumarkt i.d.OPf.	49.283864	11.456814	1	24/7	Keine Beschränkung	DE*LVP*E22304*001~CCS2:300|DE*LVP*E22304*002~CCS2:300|DE*LVP*E21602*001~TYPE2:22|DE*LVP*E21602*002~TYPE2:22|DE*LVP*E21604*001~TYPE2:22|DE*LVP*E21604*002~TYPE2:22|DE*LVP*E22294*001~TYPE2:22|DE*LVP*E22294*002~TYPE2:22|DE*LVP*E22296*001~TYPE2:22|DE*LVP*E22296*002~TYPE2:22|DE*LVP*E22300*001~TYPE2:22|DE*LVP*E22300*002~TYPE2:22|DE*LVP*E22302*001~TYPE2:22|DE*LVP*E22596*001~TYPE2_TETHERED:22|DE*LVP*E22596*002~TYPE2_TETHERED:22
+1081282	Autohaus Waldmüller GmbH		Norrisstr. 31	91154	Roth	49.247051	11.118672	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1082311	IONITY GmbH		Nürnberger Str. 0	90518	Altdorf b. Nürnberg	49.383303	11.343168	1	24/7	Nur für Kunden/Besucher	DE*IOY*E230901~CCS2:350|DE*IOY*E230902~CCS2:350|DE*IOY*E230971~CCS2:200|DE*IOY*E230972~CCS2:200|DE*IOY*E230973~CCS2:200|DE*IOY*E230974~CCS2:200|DE*IOY*E230975~CCS2:200|DE*IOY*E230976~CCS2:200
+1083952	Martha-Maria Krankenhaus gGmbH		Stadenstraße 95	90491	Nürnberg	49.482495	11.134126	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083954	Martha-Maria Krankenhaus gGmbH		Stadenstraße 95	90491	Nürnberg	49.482421	11.134111	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083956	Martha-Maria Krankenhaus gGmbH		Stadenstraße 95	90491	Nürnberg	49.482343	11.134100	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083959	Martha-Maria Krankenhaus gGmbH		Stadenstraße 95	90491	Nürnberg	49.482246	11.134078	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1083962	Martha-Maria Krankenhaus gGmbH		Stadenstraße 95	90491	Nürnberg	49.482659	11.134450	1			~CCS2:150|~CCS2:150
+1083972	Martha-Maria Krankenhaus gGmbH		Stadenstraße 58	90491	Nürnberg	49.450180	11.102320	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~CCS2:150|~CCS2:150|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1084228	Richter+Frenzel GmbH + Co. KG		Donaustraße 125	90451	Nürnberg	49.410350	11.054110	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1084309	Schuster & Walther GmbH & Co. KG		Schwabacher Str. 3	90439	Nürnberg	49.442490	11.058010	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1084555	Alexander Kuhn		Deinschwang 15	92283	Lauterhofen	49.388209	11.492781	1			~TYPE2_TETHERED:11
+1084581	Alfred Bauer		Industriestraße 7	91166	Georgensgmünd	49.179007	11.010562	1			~TYPE2:11
+1084747	Artur Zawodzynski		Korczakweg 32	90471	Nürnberg	49.418397	11.134738	1			~TYPE2:11
+1084831	Autohaus Perras GmbH		Dr.-Otto-Schedl-Straße 15	92318	Neumarkt in der Oberpfalz	49.277261	11.467200	1			~TYPE2_TETHERED:11
+1085069	Christian Bauer		Michelsbergweg 1	91239	Henfenfeld	49.498383	11.389453	1			~TYPE2_TETHERED:11
+1085073	Christian Beyer		Im Stöckig 121	90765	Fürth	49.494594	11.007105	1			~TYPE2:11
+1085474	Edmund Ebert GmbH		Strawinskystraße 31	90455	Nürnberg	49.347021	11.062637	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086132	inTime Express Logistik GmbH		Siemensstraße 3	91187	Röttenbach	49.159576	11.035336	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1086380	Jürgen Kocher-Wittmann		Freilandstraße 20	90482	Nürnberg	49.466736	11.177840	1			~TYPE2_TETHERED:22
+1086616	Lukasz Zieba		Korczakweg 40	90471	Nürnberg	49.419052	11.133908	1			~TYPE2_TETHERED:11
+1086702	Marco Hahn		Am Obstgarten 17	91187	Röttenbach	49.154045	11.017346	1			~TYPE2_TETHERED:11
+1086706	Marco Lehmeier		Bergring 3	91166	Georgensgmünd	49.187862	11.014143	1			~TYPE2:22
+1086788	Markus Geitner		Flurstrasse 10	92318	Neumarkt in der Oberpfalz	49.277261	11.467200	1			~TYPE2:11
+1086804	Markus Klinger		Am Freibad 1	92342	Freystadt	49.201918	11.348850	1			~TYPE2:11
+1086955	Maximilian Hochreuther		Am Vogelberg 14	90455	Nürnberg	49.374504	11.067549	1			~TYPE2_TETHERED:11
+1087099	MS Elektro e.K.		Röthenweg 1	92342	Freystadt	49.201868	11.286246	1			~TYPE2_TETHERED:11
+1087359	Philipp Stadler		Lauterbach A 18	92342	Freystadt	49.123895	11.334179	1			~TYPE2:11
+1087529	Rene Wickel		Oberrödeler Straße 6	91180	Heideck	49.141208	11.147434	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087577	Roland Eisenhofer		Kirchengasse 54	92342	Freystadt	49.200118	11.327630	1			~TYPE2_TETHERED:11
+1087922	Stephan Wegerer		Reichswaldstrasse 40b	90571	Schwaig bei Nürnberg	49.471880	11.199548	1			~TYPE2_TETHERED:11
+1088196	Tobias Tabala		Schaftnacher Straße 16B	91126	Schwabach	49.322986	11.078751	1			~TYPE2:11
+1088396	Walterfachkraft Personal GmbH		Schonerstraße 10	90443	Nürnberg	49.440755	11.075047	1			~TYPE2_TETHERED:11
+1088528	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - Parkplatz FV Wendelstein	Mozartstr. 72	90530	Wendelstein	49.347630	11.155490	1	24/7	Keine Beschränkung	DE*LVP*E21838*001~TYPE2_TETHERED:22|DE*LVP*E21838*002~TYPE2_TETHERED:22|DE*LVP*E22303*001~TYPE2_TETHERED:22|DE*LVP*E22303*002~TYPE2_TETHERED:22
+1089864	Stadtwerke Neumarkt	Neumarkt - Tiefgarage Residenzplatz	Untere Kaserngasse 7B	92318	Neumarkt i.d.OPf.	49.281787	11.459899	1	24/7	Keine Beschränkung	DE*LVP*E22129*001~TYPE2_TETHERED:22|DE*LVP*E22129*002~TYPE2_TETHERED:22|DE*LVP*E22131*001~TYPE2_TETHERED:22|DE*LVP*E22131*002~TYPE2_TETHERED:22|DE*LVP*E22133*001~TYPE2_TETHERED:22|DE*LVP*E22135*001~TYPE2_TETHERED:22|DE*LVP*E22135*001~TYPE2_TETHERED:22
+1089887	N-ERGIE Aktiengesellschaft	Nürnberg - Roonstraße 25	Roonstr. 25	90429	Nürnberg	49.451639	11.060172	1	24/7	Keine Beschränkung	DE*LVP*E21527*001~TYPE2_TETHERED:22|DE*LVP*E21527*002~TYPE2_TETHERED:22
+1091095	Michael Böhme, Einzelunternehmen		Zur Mittelau 14	92360	Mühlhausen	49.162372	11.444106	1			~TYPE2:22
+1091256	BFI - Bildung gGmbH		Kolpinggasse 35	90402	Nürnberg	49.447633	11.073232	1			~TYPE2:22|~TYPE2:22
+1091446	Josef Geyer e-mobil GmbH & Co. KG		Hauptstraße 49	92339	Beilngries	49.035830	11.471220	1			~TYPE2:5.5|~TYPE2:5.5
+1091456	Josef Geyer e-mobil GmbH & Co. KG		Uferpromenade 3	92334	Berching	49.109447	11.438166	1			~TYPE2:22|~TYPE2:22
+1091457	Josef Geyer e-mobil GmbH & Co. KG		Reichenauplatz 3	92334	Berching	49.106400	11.439900	1			~TYPE2:22|~TYPE2:22
+1091458	Josef Geyer e-mobil GmbH & Co. KG		Mittelmühlweg 5	92339	Beilngries	49.036323	11.475496	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091460	Josef Geyer e-mobil GmbH & Co. KG		Klostergasse 10	92334	Berching	49.106786	11.443569	1			~TYPE2:22|~TYPE2:22
+1091655	HomE of Mobility GmbH	Feser Scharf Metropol GmbH · Kia Nürnberg · AC	Tennenloher Str. 10	90425	Nürnberg	49.485734	11.056663	1	24/7	Keine Beschränkung	DE*HOM*E500103*001~TYPE2:22|DE*HOM*E500103*002~TYPE2:22|DE*HOM*E500103*003~TYPE2:22|DE*HOM*E500103*004~TYPE2:22|DE*HOM*E500103*501~CCS2:50|DE*HOM*E500103*502~CCS2:50
+1091691	Stadtwerke Neumarkt	Neumarkt - Oberer Markt 39	Obere Marktstr. 39	92318	Neumarkt i.d.OPf.	49.278599	11.459591	1	24/7	Keine Beschränkung	DE*LVP*E21716*001~TYPE2_TETHERED:22|DE*LVP*E21716*002~TYPE2_TETHERED:22
+1091868	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - Richtweg neben Hsnr. 60	Richtweg -	90530	Wendelstein	49.352360	11.163530	1	24/7	Keine Beschränkung	DE*LVP*E21910*001~CCS2:200|DE*LVP*E21910*002~CCS2:200
+1091971	Versorgungsgesellschaft Altdorf mbH	Altdorf bei Nürnberg - Ohmstraße	Ohmstr. 4	90518	Altdorf b. Nürnberg	49.386863	11.352196	1	24/7	Keine Beschränkung	DE*LVP*E21064*001~TYPE2_TETHERED:22|DE*LVP*E21064*002~TYPE2_TETHERED:22
+1093114	Faber-Castell		Nürnberger Str. 2	90547	Stein	49.416903	11.019971	1		Keine Beschränkung	E4X1Y~TYPE2:22|EST2L~TYPE2:22|ESRM1~TYPE2:11|E1Q8Z~TYPE2:11|E11LE~TYPE2:11|E7B89~TYPE2:11|EQ9WH~TYPE2:11|EYA5W~TYPE2:11|E7SAK~TYPE2:11|EM7WP~TYPE2:11|EKD5L~TYPE2:11|E4SYR~TYPE2:11|E6KZ5~TYPE2:11|EEP11~TYPE2:11|EZWY5~TYPE2:11|EBBD7~TYPE2:11|E49V3~TYPE2:11|E3HUH~TYPE2:11|E8KUY~TYPE2:11|EF8B3~TYPE2:11
+1093292	Sportcentrum Nürnberg GmbH		Schüblerstraße 15	90482	Nürnberg	49.452879	11.117655	1			~CCS2:22+CHADEMO:22|~CCS2:22+CHADEMO:22|~CCS2:22+CHADEMO:22
+1096406	Auto Bierschneider GmbH		Sulzweg 2	92360	Mühlhausen	49.162542	11.447449	1			~CCS2:22|~TYPE2:11
+1096407	Auto Bierschneider GmbH		Industriestraße 2	91171	Greding	49.043877	11.348685	1			~CCS2:22|~TYPE2:11
+1096408	Auto Bierschneider GmbH		Kelheimer Str. 35	92339	Beilngries	49.027812	11.486970	1			~CCS2:22|~TYPE2:11
+1096409	Auto Bierschneider GmbH		Sulzweg 2	92360	Mühlhausen	49.162255	11.447092	1			~TYPE2:11
+1096411	Auto Bierschneider GmbH		Im Dürrloh 4	92360	Mühlhausen	49.158958	11.445868	1			~TYPE2:11
+1096412	Auto Bierschneider GmbH		Im Dürrloh 4	92360	Mühlhausen	49.158934	11.445864	1			~TYPE2:11
+1096417	Auto Bierschneider GmbH	Auto Bierschneider GmbH	Sulzweg 2	92360	Mühlhausen	49.162562	11.447582	1		Keine Beschränkung	~TYPE2:22|~CCS2:50
+1096459	Auto- Langhans GmbH26		Sperbersloher Str. 26	90530	Wendelstein	49.352715	11.149840	1			~CCS2:22|~TYPE2:11
+1096987	Autohaus Rothsee GmbH		Heidecker Str. 41	91161	Hilpoltstein	49.183557	11.187412	1			~CCS2:22|~TYPE2:11
+1097012	Autohaus Schmid Inh. Marko Fahner e.K.		Nürnberger Str. 51	90571	Schwaig bei Nürnberg	49.470405	11.192494	1			~CCS2:22|~TYPE2:11
+1097050	Autohaus Sperber GmbH		Straßäckerweg 6	91227	Leinburg	49.462084	11.284979	1			~CCS2:22|~TYPE2:11
+1097297	Feser Joachim GmbH		GewerbegebietI 0	91154	Roth	49.247842	11.108581	1			~TYPE2:11|~CCS2:22
+1097304	Fischer Automobile GmbH		Nürnberger Str. 45-47	92318	Neumarkt i.d.OPf.	49.289724	11.436352	1	24/7	Keine Beschränkung	DE*GCE*EACCR271551~TYPE2:22|DE*GCE*EDCCR271552~CCS2:50
+1097366	Autohaus Hans Maier		Saarbrückener Str. 68	90469	Nürnberg	49.400306	11.086192	1			~CCS2:22|~TYPE2:11
+1097487	Pillenstein Kippes GmbH		Leyher Str. 148	90431	Nürnberg	49.454551	11.013056	1			~CCS2:22|~TYPE2:11|~TYPE2:11|~CCS2:22
+1097788	N-ERGIE Aktiengesellschaft	Nürnberg - Appenzeller Straße 16	Appenzeller Str. 16	90431	Nürnberg	49.439540	11.021654	1	24/7	Keine Beschränkung	DE*LVP*E21857*001~TYPE2_TETHERED:22|DE*LVP*E21857*002~TYPE2_TETHERED:22
+1097891	AVIA Volt	AVIA Volt Ladepark Neumarkt i. d. Oberpfalz	Nürnberger Str. 41	92318	Neumarkt i.d.OPf.	49.288259	11.441597	1	24/7	Keine Beschränkung	DE*APS*E130003~CCS2:400|DE*APS*E130004~CCS2:400|DE*APS*E130006~TYPE2:22|DE*APS*E130005~TYPE2:22
+1097893	infra fürth service gmbh	Fürth - Kurgartenstraße 49	Kurgartenstr. 49	90762	Fürth	49.468622	11.014670	1	24/7	Keine Beschränkung	DE*LVP*E22281*001~TYPE2_TETHERED:11|DE*LVP*E22283*001~TYPE2_TETHERED:11|DE*LVP*E22291*001~TYPE2_TETHERED:11|DE*LVP*E22285*001~TYPE2_TETHERED:11|DE*LVP*E22287*001~TYPE2_TETHERED:11|DE*LVP*E22289*001~TYPE2_TETHERED:11|DE*LVP*E22279*001~TYPE2_TETHERED:11|DE*LVP*E22277*001~TYPE2_TETHERED:11|DE*LVP*E22275*001~TYPE2_TETHERED:11
+1100745	Tesla Germany GmbH		An der Autobahn 2	91161	Hilpoltstein	49.161215	11.260581	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101232	Tesla Germany GmbH		Kraftsbucher Str. 10	91171	Greding	49.041939	11.342622	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101804	Tesla Germany GmbH		Prackenfelser Str. 8	90518	Altdorf	49.381672	11.344576	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101824	Tesla Germany GmbH		Wendelsteiner Str. 3	90537	Feucht	49.365019	11.207273	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102241	Flughafen Nürnberg Energie GmbH		Flughafenstraße 100	90411	Nürnberg	49.492220	11.087270	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102244	Flughafen Nürnberg Energie GmbH		Flughafenstraße 88	90411	Nürnberg	49.488600	11.067940	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1102277	Frank Hartmann		Marquardsholz F 5	91161	Hilpolstein	49.177535	11.196737	1			~TYPE2_TETHERED:11
+1102318	Kloster St. Josef - Kongregation der Schwestern vom Göttlichen Erlöser KdÖR		Wildbad 1	92318	Neumarkt	49.275684	11.480670	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1102425	Felix Jonas Nickel		Heroldsberger Weg 76	90411	Nürnberg	49.484326	11.109584	1			~TYPE2_TETHERED:3.6
+1102546	Sebastian Neber		Annastr. 6	92353	Postbauer-Heng	49.267354	11.340992	1			~TYPE2:22
+1102910	N-ERGIE Aktiengesellschaft	Nürnberg - Schlößleingasse 6	Schlößleinsgasse 1	90453	Nürnberg	49.378990	11.032240	1	24/7	Keine Beschränkung	DE*LVP*E21800*001~TYPE2_TETHERED:22|DE*LVP*E21800*002~TYPE2_TETHERED:22
+1102953	N-ERGIE Aktiengesellschaft	Nürnberg - Wilhelm-Spaeth-Straße 62	Wilhelm-Spaeth-Str. 62	90461	Nürnberg	49.440280	11.099070	1	24/7	Keine Beschränkung	DE*LVP*E21866*001~TYPE2_TETHERED:22|DE*LVP*E21866*002~TYPE2_TETHERED:22
+1103217	N-ERGIE Aktiengesellschaft	Nürnberg - Allersberger Str. 120	Allersberger Str. 120	90461	Nürnberg	49.437040	11.089230	1	24/7	Keine Beschränkung	DE*LVP*E21534*001~TYPE2_TETHERED:22|DE*LVP*E21534*002~TYPE2_TETHERED:22
+1103235	NZG Nürnberger Zinkdruckguss-Modelle GmbH	Clubhouse Nürnberg	Sigmundstr. 147	90431	Nürnberg	49.447200	11.010780	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1103662	HomE of Mobility GmbH	Audi Zentrum Nürnberg-Marienberg GmbH · Audi · HPC	Marienbergstr. 88	90411	Nürnberg	49.484937	11.093317	1	24/7	Keine Beschränkung	DE*HOM*E500109*502~CCS2:150|DE*HOM*E500109*001~TYPE2:22|DE*HOM*E500109*501~CCS2:50
+1103668	HomE of Mobility GmbH	Volkswagen Zentrum Nürnberg Marienberg GmbH · VW · AC, DC	Marienbergstr. 90	90411	Nürnberg	49.485161	11.091675	1	24/7	Keine Beschränkung	DE*HOM*E500108*001~TYPE2:22|DE*HOM*E500108*501~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103669	HomE of Mobility GmbH	Auto Zentrum Nürnberg-Feser GmbH · Heisterstraße 6 · AC,DC	Heisterstr. 6	90441	Nürnberg	49.427733	11.061093	1	24/7	Keine Beschränkung	DE*HOM*E500101*054~TYPE2:22|DE*HOM*E500101*502~CCS2:50|DE*HOM*E500101*053~TYPE2:22|DE*HOM*E500101*501~CCS2:50
+1103841	EnBW mobility+ AG und Co.KG		Geisseestr. 89	90439	Nürnberg	49.433240	11.040170	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1104026	Eckhard Ludwig		Berngauer Weg 24	92353	Postbauer-Heng	49.289117	11.359029	1			~TYPE2_TETHERED:11
+1104031	Martin Regnet		Am Feuerwehrhaus 10a	92342	Freystadt	49.203093	11.283866	1			~TYPE2_TETHERED:11
+1106562	E.ON Drive GmbH		Nürnberg Feucht Ost 0	90537	Feucht	49.356910	11.204400	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106647	E.ON Drive GmbH		Nürnberg Feucht West 0	90537	Feucht	49.355720	11.202100	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1107661	E.ON Drive GmbH		Greding Ost 0	91171	Greding	49.041500	11.353943	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1108965	E.ON Drive GmbH		Katzwanger Str. 150	90461	Nürnberg	49.422188	11.084303	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1109698	Autohaus Stahmer GmbH		Prackenfelser Str. 4-8	90518	Altdorf	49.381375	11.342883	1			~TYPE2:11|~TYPE2:11
+1110275	Pillenstein Kippes GmbH		Leyher Str. 148	90431	Nürnberg	49.454433	11.012976	1			~CCS2:22|~TYPE2:11|~TYPE2:11
+1110349	Sunflower Management GmbH & Co. KG		Bahnhofsplatz (Tiefgarage) 3	90433	Nürnberg	49.446854	11.081904	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1110593	Fackelmann GmbH + Co. KG	Fackelmann GmbH + Co. KG	Ostbahnstr. 118 a	91217	Hersbruck	49.499177	11.429816	1	24/7	Keine Beschränkung	DK*MON*E403 5347~TYPE2_TETHERED:22|DK*MON*E403 5350~TYPE2_TETHERED:22|DK*MON*E403 5351~TYPE2_TETHERED:22|DK*MON*E403 5352~TYPE2_TETHERED:22|DK*MON*E403 5353~TYPE2_TETHERED:22|DK*MON*E403 5356~TYPE2_TETHERED:22
+1112152	Pariamus		Daimlerstr. 5+7	91161	Hilpoltstein	49.180071	11.181551	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:75|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1112520	WR GmbH		Schwaigerstrasse 4	90571	Schwaig	49.480060	11.200140	1			~TYPE2:11|~TYPE2:11
+1112528	Hermann Krause		Antwerpener Straße 8	48163	Münster	49.389630	11.061260	1		Keine Beschränkung	~TYPE2:56+TYPE2_TETHERED:56+CCS2:56+CHADEMO:56|~TYPE2:11
+1112661	Lebensmittelpunkt Martin Schätz e.K.		Kurt-Triest-Str. 5	90441	Nürnberg	49.431779	11.044537	1			~TYPE2:11|~TYPE2:11
+1112662	Lebensmittelpunkt Martin Schätz e.K.		Kurt-Triest-Str. 5	90441	Nürnberg	49.431814	11.044601	1			~TYPE2:11|~TYPE2:11
+1112972	Hotel Grüne Elster		Hans-Vogel-Str. 18	90765	Fürth	49.478854	11.013023	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1113631	Schön Tobias		Rainstr. 15	92342	Freystadt	49.203480	11.285450	1			~CCS2:30
+1114130	Oesterle GmbH		Mühllach 47	90552	Röthenbach An Der Pegnitz	49.472990	11.248600	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1114385	ADAC Nordbayern e.V.		Alte Reutstraße 115	90765	Fürth	49.487906	11.004537	1			~TYPE2:22|~TYPE2:22
+1114386	ADAC Nordbayern e.V.		Äußere Sulzbacher Straße 98	90491	Nürnberg	49.463081	11.116694	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114387	ADAC Nordbayern e.V.		Äußere Sulzbacher Straße 98	90491	Nürnberg	49.463119	11.116640	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1114454	Frank Epp Personalberatung		Weiltinger Str. 22	90449	Nürnberg	49.423280	11.023120	1			~TYPE2:12
+1115101	N-ERGIE Aktiengesellschaft	Nürnberg - Leyher Str. 107	Leyher Str. 107	90431	Nürnberg	49.452824	11.021285	1	24/7	Keine Beschränkung	DE*LVP*E22090*001~TYPE2_TETHERED:22|DE*LVP*E22090*002~TYPE2_TETHERED:22
+1115110	N-ERGIE Aktiengesellschaft	Nürnberg - Zugspitzstraße 118	Zugspitzstr. 118	90471	Nürnberg	49.408910	11.117040	1	24/7	Keine Beschränkung	DE*LVP*E22089*001~TYPE2_TETHERED:22|DE*LVP*E22089*002~TYPE2_TETHERED:22
+1115431	N-ERGIE Aktiengesellschaft	Nürnberg - Schwanhardtstr. 46	Schwanhardtstr. 46	90478	Nürnberg	49.441879	11.094908	1	24/7	Keine Beschränkung	DE*LVP*E22086*001~TYPE2_TETHERED:22|DE*LVP*E22086*001~TYPE2_TETHERED:22
+1115432	N-ERGIE Aktiengesellschaft	Nürnberg - Reutersbrunnenstr. 27	Reutersbrunnenstr. 27	90429	Nürnberg	49.453018	11.058118	1	24/7	Keine Beschränkung	DE*LVP*E22083*001~TYPE2_TETHERED:22|DE*LVP*E22083*002~TYPE2_TETHERED:22
+1115437	N-ERGIE Aktiengesellschaft	Schwanstetten - Hauptstraße 7	Hauptstr. 7	90596	Schwanstetten	49.326294	11.122823	1	24/7	Keine Beschränkung	DE*LVP*E21808*001~TYPE2_TETHERED:22|DE*LVP*E21808*002~TYPE2_TETHERED:22
+1115761	N-ERGIE Aktiengesellschaft	Freystadt - Appianistraße	Appianistr. 19	92342	Freystadt	49.194350	11.336870	1	24/7	Keine Beschränkung	DE*LVP*E21745*001~TYPE2_TETHERED:22|DE*LVP*E21745*002~TYPE2_TETHERED:22
+1115769	N-ERGIE Aktiengesellschaft	Nürnberg - Bertolt-Brecht-Straße 6	Bertolt-Brecht-Str. 6	90471	Nürnberg	49.415540	11.122790	1	24/7	Keine Beschränkung	DE*LVP*E22080*001~TYPE2_TETHERED:22|DE*LVP*E22080*002~TYPE2_TETHERED:22
+1116119	N-ERGIE Aktiengesellschaft	Nürnberg - Reinerzer Str. 30	Reinerzer Str. 30	90473	Nürnberg	49.404429	11.138973	1	24/7	Keine Beschränkung	DE*LVP*E22082*001~TYPE2_TETHERED:22|DE*LVP*E22082*002~TYPE2_TETHERED:22
+1116120	N-ERGIE Aktiengesellschaft	Nürnberg - Schwabenstr. 53	Schwabenstr. 53	90459	Nürnberg	49.432910	11.077450	1	24/7	Keine Beschränkung	DE*LVP*E21511*001~TYPE2_TETHERED:22|DE*LVP*E21511*002~TYPE2_TETHERED:22
+1116533	N-ERGIE Aktiengesellschaft	Nürnberg - Bierweg 31a	Bierweg 31a	90411	Nürnberg	49.486423	11.110898	1	24/7	Keine Beschränkung	DE*LVP*E21806*001~TYPE2_TETHERED:22|DE*LVP*E21806*002~TYPE2_TETHERED:22
+1116590	N-ERGIE Aktiengesellschaft	Rednitzhembach - Am Bahnhof	Am Bahnhof -	91126	Rednitzhembach	49.303615	11.064535	1	24/7	Keine Beschränkung	DE*LVP*E21474*001~TYPE2_TETHERED:22|DE*LVP*E21474*002~TYPE2_TETHERED:22
+1116595	N-ERGIE Aktiengesellschaft	Nürnberg - Kernstraße ggü. 19	Kernstr. 19	90429	Nürnberg	49.450000	11.054320	1	24/7	Keine Beschränkung	DE*LVP*E22071*001~TYPE2_TETHERED:22|DE*LVP*E22071*002~TYPE2_TETHERED:22|DE*LVP*E21750*001~TYPE2_TETHERED:22|DE*LVP*E21750*002~TYPE2_TETHERED:22
+1116653	N-ERGIE Aktiengesellschaft	Nürnberg - Sibeliusstraße 1	Sibeliusstr. 1	90491	Nürnberg	49.468750	11.128250	1	24/7	Keine Beschränkung	DE*LVP*E21798*001~TYPE2_TETHERED:22|DE*LVP*E21798*002~TYPE2_TETHERED:22
+1116655	N-ERGIE Aktiengesellschaft	Nürnberg - Hardenbergpl. 6	Hardenbergplatz 6	90491	Nürnberg	49.462470	11.112400	1	24/7	Keine Beschränkung	DE*LVP*E21802*001~TYPE2_TETHERED:22|DE*LVP*E21802*002~TYPE2_TETHERED:22
+1116656	N-ERGIE Aktiengesellschaft	Nürnberg - Franz-Reichel-Ring 109	Franz-Reichel-Ring 109	90473	Nürnberg	49.394280	11.134090	1	24/7	Keine Beschränkung	DE*LVP*E21647*001~TYPE2_TETHERED:22|DE*LVP*E21647*002~TYPE2_TETHERED:22
+1116658	N-ERGIE Aktiengesellschaft	Nürnberg - Anne-Frank-Str. ggü. 33	Anne-Frank-Str. ggü. 33	90459	Nürnberg	49.438900	11.088450	1	24/7	Keine Beschränkung	DE*LVP*E22221*001~TYPE2_TETHERED:22|DE*LVP*E22221*002~TYPE2_TETHERED:22
+1116660	N-ERGIE Aktiengesellschaft	Freystadt Möning - Pavelsbacher Str. 9A	Pavelsbacher Str. 9a	92342	Freystadt	49.242230	11.335540	1	24/7	Keine Beschränkung	DE*LVP*E21746*001~TYPE2_TETHERED:22|DE*LVP*E21746*002~TYPE2_TETHERED:22
+1116666	N-ERGIE Aktiengesellschaft	Nürnberg - Katzwanger Hauptstraße 19	Katzwanger Hauptstr. 19	90453	Nürnberg	49.355730	11.052970	1	24/7	Keine Beschränkung	DE*LVP*E22085*001~TYPE2_TETHERED:22|DE*LVP*E22085*002~TYPE2_TETHERED:22
+1116667	N-ERGIE Aktiengesellschaft	Nürnberg - Werkvolkstraße 5	Werkvolkstr. 5	90451	Nürnberg	49.410510	11.041510	1	24/7	Keine Beschränkung	DE*LVP*E22076*001~TYPE2_TETHERED:22|DE*LVP*E22076*002~TYPE2_TETHERED:22|DE*LVP*E21748*001~TYPE2_TETHERED:22|DE*LVP*E21748*002~TYPE2_TETHERED:22
+1116695	N-ERGIE Aktiengesellschaft	Nürnberg - Finkenbrunn 151	Finkenbrunn 151	90469	Nürnberg	49.409320	11.072970	1	24/7	Keine Beschränkung	DE*LVP*E21773*001~CCS2:150|DE*LVP*E21773*002~CCS2:150|DE*LVP*E21799*001~TYPE2_TETHERED:22|DE*LVP*E21799*002~TYPE2_TETHERED:22
+1117304	infra fürth service gmbh	Fürth - Hans-Böckler-Straße 20	Hans-Böckler-Str. 20	90765	Fürth	49.476060	11.015130	1	24/7	Keine Beschränkung	DE*LVP*E21617*001~TYPE2_TETHERED:22|DE*LVP*E21617*002~TYPE2_TETHERED:22|DE*LVP*E21444*001~TYPE2_TETHERED:22|DE*LVP*E21444*002~TYPE2_TETHERED:22
+1117994	Bürgerkraftwerke Stein	Stein - Goethering 27	Goethering 27	90547	Stein	49.401514	11.020418	1	24/7	Keine Beschränkung	DE*LVP*E21747*001~TYPE2_TETHERED:22|DE*LVP*E21747*002~TYPE2_TETHERED:22|DE*LVP*E21752*001~TYPE2_TETHERED:22|DE*LVP*E21752*002~TYPE2_TETHERED:22|DE*LVP*E21751*001~TYPE2_TETHERED:22|DE*LVP*E21751*002~TYPE2_TETHERED:22|DE*LVP*E22130*002~TYPE2:22
+1118727	N-ERGIE Aktiengesellschaft	Nürnberg - Schafhofstraße 27	Schafhofstr. 27	90411	Nürnberg	49.478850	11.117820	1	24/7	Keine Beschränkung	DE*LVP*E22077*001~TYPE2_TETHERED:22|DE*LVP*E22077*002~TYPE2_TETHERED:22|DE*LVP*E22061*001~TYPE2_TETHERED:22|DE*LVP*E22061*002~TYPE2_TETHERED:22
+1119226	Edeka Luitpoldviertel Frischecenter Lauf GmbH & Co. KG	EDEKA Luitpoldviertel	Regensburger Str. 74	90478	Nürnberg	49.442540	11.101990	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119248	Aral Pulse		Mimberger Str. 43	90559	Burgthann	49.351498	11.300735	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1119670	Mercedes- Benz AG - Niederlassung Nürnberg	MB-NUERNBERG / HYPERCHARGER2	Kressengartenstr. 14	90402	Nürnberg	49.450212	11.101179	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1119672	Mercedes- Benz AG - Niederlassung Nürnberg	MB-NUERNBERG / HYPERCHARGER4	Kressengartenstr. 14	90402	Nürnberg	49.450220	11.101305	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1119673	Mercedes- Benz AG - Niederlassung Nürnberg	MB-NUERNBERG / HYPERCHARGER5	Kressengartenstr. 14	90402	Nürnberg	49.450205	11.101374	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1119968	Energie Service GmbH der Stadtwerke Roth	Roth - Adlerstraße 10	Adlerstr. 10	91154	Roth	49.228890	11.084400	1	24/7	Keine Beschränkung	DE*LVP*E21646*001~TYPE2_TETHERED:22|DE*LVP*E21646*002~TYPE2_TETHERED:22|DE*LVP*E21968*001~TYPE2_TETHERED:22|DE*LVP*E21968*002~TYPE2_TETHERED:22
+1120068	Energie Service GmbH der Stadtwerke Roth	Roth - Ohmstraße 37	Ohmstr. 37	91154	Roth	49.240930	11.074880	1	24/7	Keine Beschränkung	DE*LVP*E21632*001~TYPE2_TETHERED:22|DE*LVP*E21632*002~TYPE2_TETHERED:22|DE*LVP*E22274*001~TYPE2_TETHERED:22|DE*LVP*E22274*002~TYPE2_TETHERED:22
+1120296	EnBW mobility+ AG und Co.KG		Nürnberger Str. 22	91177	Thalmässing	49.090000	11.215700	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1120320	N-ERGIE Aktiengesellschaft	Nürnberg - Südwestpark 12	Südwestpark 12	90449	Nürnberg	49.427908	11.019432	1	24/7	Keine Beschränkung	DE*LVP*E21853*001~TYPE2_TETHERED:22|DE*LVP*E21853*002~TYPE2_TETHERED:22|DE*LVP*E21976*001~TYPE2_TETHERED:22|DE*LVP*E21976*002~TYPE2_TETHERED:22|DE*LVP*E21978*001~TYPE2_TETHERED:22|DE*LVP*E21978*002~TYPE2_TETHERED:22|DE*LVP*E21974*001~TYPE2_TETHERED:22|DE*LVP*E21974*002~TYPE2_TETHERED:22
+1120759	Energielösung GmbH		Kreutweg 2	92360	Mühlhausen	49.169539	11.447801	1	24/7	Nur für Kunden/Besucher	DE*BEM*E0010918~CCS2:50|DE*BEM*EE0010919~CCS2:50
+1120821	EnBW mobility+ AG und Co.KG		Nürnberger Str. 41	91154	Roth	49.252520	11.086464	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1121152	Energie Service GmbH der Stadtwerke Roth	Roth - Belmbracher Straße	Belmbracher Str. -	91154	Roth	49.234851	11.094456	1	24/7	Keine Beschränkung	DE*LVP*E21645*001~TYPE2_TETHERED:22|DE*LVP*E21645*002~TYPE2_TETHERED:22|DE*LVP*E21967*001~TYPE2_TETHERED:22|DE*LVP*E21967*002~TYPE2_TETHERED:22
+1121200	EnBW mobility+ AG und Co.KG		Leyher Str. 123	90431	Nürnberg	49.452300	11.017100	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1121770	Eviny		Prackenfelser Str. 4-8	90518	Altdorf b. Nürnberg	49.381738	11.344092	1	24/7	Keine Beschränkung	DE*EVY*EALT1*A~CCS2:400|DE*EVY*EALT1*B~CCS2:400|DE*EVY*EALT2*A~CCS2:400|DE*EVY*EALT2*B~CCS2:400|DE*EVY*EALT3*A~CCS2:400|DE*EVY*EALT3*B~CCS2:400|DE*EVY*EALT4*A~CCS2:400|DE*EVY*EALT4*B~CCS2:400
+1125881	Wattif Europe GmbH	Nürnberg PRM Gostenhofer Schulgasse PRM	Gostenhofer Schulgasse 0	90443	Nürnberg	49.447478	11.064460	1	24/7	Keine Beschränkung	DE*WAT*EW049129001~TYPE2:22|DE*WAT*EW049129002~TYPE2:22|DE*WAT*EW049129003~TYPE2:22|DE*WAT*EW049129004~TYPE2:22|DE*WAT*EW049129005~TYPE2:22|DE*WAT*EW049129006~TYPE2:22|DE*WAT*EW049129007~TYPE2:22|DE*WAT*EW049129008~TYPE2:22|DE*WAT*EW049129009~TYPE2:22|DE*WAT*EW049129010~TYPE2:22|DE*WAT*EW049129011~TYPE2:22|DE*WAT*EW049129012~TYPE2:22|DE*WAT*EW049129013~TYPE2:22|DE*WAT*EW049129014~TYPE2:22|DE*WAT*EW049129015~TYPE2:22|DE*WAT*EW049129016~TYPE2:22|DE*WAT*EW049129017~TYPE2:22|DE*WAT*EW049129018~TYPE2:22|DE*WAT*EW049129019~TYPE2:22
+1126010	HomE of Mobility GmbH	Auto Zentrum Nürnberg-Feser GmbH · Nopitschstraße 3 · AC,DC	Nopitschstr. 3	90441	Nürnberg	49.430232	11.045874	1	24/7	Keine Beschränkung	DE*HOM*E500102*003~TYPE2:22|DE*HOM*E500102*501~CCS2:50
+1126411	N-ERGIE Aktiengesellschaft	Hilpoltstein - Am Rothsee 1	Am Rothsee 1	91161	Hilpoltstein	49.209671	11.186754	1		Keine Beschränkung	DE*LVP*E21362*001~TYPE2:22|DE*LVP*E21362*002~TYPE2:22|DE*LVP*E21481*001~TYPE2:22|DE*LVP*E21481*002~TYPE2:22
+1126619	amperio GmbH (DEAMP)		Hans-Vogel-Str. 113	90765	Fürth	49.482890	11.007573	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1126654	Rene Partl GmbHMax		Am Berliner Ring 4	92318	Neumarkt i.d.OPf.	49.298370	11.473880	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1126713	Stadtdienste Schwabach GmbH	Büchenbach - Parkplatz Jordangraben	Untere Bahnhofstr. -	91186	Büchenbach	49.267515	11.069667	1		Keine Beschränkung	DE*LVP*E22453*001~TYPE2_TETHERED:22|DE*LVP*E22453*002~TYPE2_TETHERED:22|DE*LVP*E22438*001~TYPE2_TETHERED:22|DE*LVP*E22438*002~TYPE2_TETHERED:22
+1127426	NürnbergMesse GmbH	Parkhaus Große Straße	Messezentrum 1	90471	Nürnberg	49.423350	11.117010	1		Nur für Kunden/Besucher	DE*DEP*E013039*001~TYPE2:22|DE*DEP*E013040*002~TYPE2:22|DE*DEP*E013045*001~TYPE2:22|DE*DEP*E013046*002~TYPE2:22|DE*DEP*E013051*001~TYPE2:22|DE*DEP*E013052*002~TYPE2:22|DE*DEP*E013055*001~TYPE2:22|DE*DEP*E013056*002~TYPE2:22|DE*DEP*E013053*001~TYPE2:22|DE*DEP*E013054*002~TYPE2:22|DE*DEP*E013057*001~TYPE2:22|DE*DEP*E013058*002~TYPE2:22|DE*DEP*E013047*001~TYPE2:22|DE*DEP*E013048*002~TYPE2:22|DE*DEP*E013049*001~TYPE2:22|DE*DEP*E013050*002~TYPE2:22|DE*DEP*E013041*001~TYPE2:22|DE*DEP*E013042*002~TYPE2:22|DE*DEP*E013043*001~TYPE2:22|DE*DEP*E013044*002~TYPE2:22
+1127436	N-ERGIE Aktiengesellschaft	Nürnberg - Winterstraße 15	Winterstr. 15	90431	Nürnberg	49.435380	11.021160	1		Keine Beschränkung	DE*LVP*E22084*001~TYPE2:22|DE*LVP*E22084*002~TYPE2:22
+1127439	N-ERGIE Aktiengesellschaft	Nürnberg - Glasgowstr. 13	Glasgowstr. 13	90451	Nürnberg	49.417350	11.039850	1		Keine Beschränkung	DE*LVP*E21972*001~TYPE2:22|DE*LVP*E21972*002~TYPE2:22
+1127808	VR-Bank Mittelfranken Mitte eG		Wendelsteiner Str. 6	91126	Schwabach	49.322126	11.043410	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1128338	infra fürth service gmbh	Fürth - Humbserstraße 24 SLS	Humbserstr. 24	90763	Fürth	49.462862	11.008587	1		Keine Beschränkung	DE*LVP*E21829*001~CCS2:300|DE*LVP*E21829*002~CCS2:300
+1128339	N-ERGIE Aktiengesellschaft	Nürnberg - Ewaldstr. ggü. 76	Ewaldstr. ggü .76	90491	Nürnberg	49.471360	11.119830	1		Keine Beschränkung	DE*LVP*E22081*001~TYPE2:22|DE*LVP*E22081*002~TYPE2:22
+1128340	N-ERGIE Aktiengesellschaft	Nürnberg - Elbinger Str. 85	Elbinger Str. 85	90491	Nürnberg	49.470370	11.104300	1		Keine Beschränkung	DE*LVP*E22182*001~TYPE2:22|DE*LVP*E22182*002~TYPE2:22
+1128526	EDEKA Claus Schätz e.K.		Thomas-Mann-Str. 58	90471	Nürnberg	49.413601	11.138304	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1128805	Fischer KG		Hans-Dehn-Str. 3	92318	Neumarkt i.d.OPf.	49.274562	11.453278	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50|~TYPE2:22|~CCS2:50
+1129123	Daimler Truck AG	Daimler Truck AG | Center Nürnberg	Neumeyerstr. 7-11	90411	Nürnberg	49.481996	11.118734	1		Keine Beschränkung	7235055~CCS2:150|7235055~CCS2:150
+1129124	Daimler Truck AG	Daimler Truck AG | Center Nürnberg	Neumeyerstr. 7-11	90411	Nürnberg	49.481496	11.119794	1	24/7	Keine Beschränkung	7234465~TYPE2_TETHERED:22|7234465~TYPE2_TETHERED:22
+1129125	Daimler Truck AG	Daimler Truck AG | Center Nürnberg	Neumeyerstr. 7-11	90411	Nürnberg	49.481579	11.119717	1	24/7	Keine Beschränkung	7234455~TYPE2_TETHERED:22|7234455~TYPE2_TETHERED:22
+1129172	N-ERGIE Aktiengesellschaft	Grolandstr. ggü. 76	Grolandstr. ggü. 76	90408	Nürnberg	49.465410	11.081600	1		Keine Beschränkung	DE*LVP*E22150*001~TYPE2:22|DE*LVP*E22150*002~TYPE2:22|DE*LVP*E22152*001~TYPE2:22|DE*LVP*E22152*002~TYPE2:22
+1129174	N-ERGIE Aktiengesellschaft	Nürnberg - Bauerngasse	Bauerngasse 1	90443	Nürnberg	49.447010	11.061350	1		Keine Beschränkung	DE*LVP*E22059*001~TYPE2:22|DE*LVP*E22059*002~TYPE2:22|DE*LVP*E21828*001~TYPE2:22|DE*LVP*E21828*002~TYPE2:22
+1129176	N-ERGIE Aktiengesellschaft	Nürnberg - Roonstr. 13	Roonstr. 13	90429	Nürnberg	49.453380	11.059410	1		Keine Beschränkung	DE*LVP*E22088*001~TYPE2:22|DE*LVP*E22088*002~TYPE2:22
+1129399	Daimler Truck AG	Daimler Truck AG | Center Nürnberg	Neumeyerstr. 7-11	90411	Nürnberg	49.481520	11.117910	1	24/7	Keine Beschränkung	7234785~TYPE2_TETHERED:22|7234785~TYPE2_TETHERED:22
+1129566	HomE of Mobility GmbH	Feser-Graf Exclusive Cars GmbH · Bentley / Mclaren · AC	Nopitschstr. 3	90441	Nürnberg	49.430681	11.046784	1	24/7	Keine Beschränkung	DE*HOM*E500126*001~TYPE2:22|DE*HOM*E500126*002~TYPE2:22|DE*HOM*E500126*003~TYPE2:22|DE*HOM*E500126*004~TYPE2:22|DE*HOM*E500126*005~TYPE2:22|DE*HOM*E500126*006~TYPE2:22
+1129709	N-ERGIE Aktiengesellschaft	Nürnberg - Adam-Kraft-Str. ggü. 33	Adam-Kraft-Str. ggü. 33	90419	Nürnberg	49.460130	11.065410	1		Keine Beschränkung	DE*LVP*E22169*001~TYPE2:22|DE*LVP*E22169*002~TYPE2:22|DE*LVP*E22642*001~TYPE2:22|DE*LVP*E22642*002~TYPE2:22
+1129712	N-ERGIE Aktiengesellschaft	Nürnberg - Krelingstr. 30	Krelingstr. 30	90408	Nürnberg	49.460700	11.078590	1		Keine Beschränkung	DE*LVP*E22091*001~TYPE2:22|DE*LVP*E22091*002~TYPE2:22
+1129935	Shell Deutschland GmbH	10024087_Nürnberg	Sigmundstr. 104	90431	Nürnberg	49.452957	11.014262	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1129937	Shell Deutschland GmbH	10024087_Nürnberg	Sigmundstr. 104	90431	Nürnberg	49.452927	11.014239	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129938	Shell Deutschland GmbH	10024087_Nürnberg	Sigmundstr. 104	90431	Nürnberg	49.452905	11.014288	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129953	Shell Deutschland GmbH	10026950_Berg bei Neumarkt	Ludwig-Erhard-Ring 2	92348	Berg b.Neumarkt i.d.OPf.	49.313264	11.475269	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129955	Shell Deutschland GmbH	10026950_Berg bei Neumarkt	Ludwig-Erhard-Ring 2	92348	Berg b.Neumarkt i.d.OPf.	49.313426	11.475152	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1129956	Shell Deutschland GmbH	10026950_Berg bei Neumarkt	Ludwig-Erhard-Ring 2	92348	Berg b.Neumarkt i.d.OPf.	49.313457	11.475262	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1130150	Aral Pulse		Amberger Str. 18	92318	Neumarkt i.d.OPf.	49.285370	11.465910	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1130267	Manuel Koller		Birnengasse 17	92348	Berg b.Neumarkt i.d.OPf.	49.319067	11.455754	1	Mo-Fr 09:00-18:00, Sa 09:00-14:00	Keine Beschränkung	~TYPE2:11
+1130395	EnBW mobility+ AG und Co.KG		An der Staatsstr. 1	92348	Berg b.Neumarkt i.d.OPf.	49.316740	11.449770	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1130775	N-ERGIE Aktiengesellschaft	Nürnberg - Flaschenhofstraße 8	Flaschenhofstr. 8	90402	Nürnberg	49.448950	11.088290	1	24/7	Keine Beschränkung	DE*LVP*E22190*001~TYPE2_TETHERED:22|DE*LVP*E22190*002~TYPE2_TETHERED:22
+1131069	Pfalzwerke AG	Hornbach Nürnberg (ALP22537X01670)	Trierer Str. 171	90469	Nürnberg	49.404633	11.112614	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01670*01~CCS2:50|DE*PWA*EALP22537X01670*02~CCS2:50
+1131070	Pfalzwerke AG	Hornbach Nürnberg (ALP22537X01671)	Trierer Str. 171	90469	Nürnberg	49.404675	11.112577	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01671*01~CCS2:50|DE*PWA*EALP22537X01671*02~CCS2:50
+1131072	Pfalzwerke AG	Hornbach Nürnberg (ALP22541X01666)	Trierer Str. 171	90469	Nürnberg	49.404390	11.113129	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01666*01~CCS2:400|DE*PWA*EALP22541X01666*02~CCS2:400
+1131073	Pfalzwerke AG	Hornbach Nürnberg (ALP22541X01667)	Trierer Str. 171	90469	Nürnberg	49.404715	11.112537	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01667*01~CCS2:400|DE*PWA*EALP22541X01667*02~CCS2:400|DE*PWA*EALP22541X01668*01~CCS2:400|DE*PWA*EALP22541X01668*02~CCS2:400|DE*PWA*EALP22541X01669*01~CCS2:400|DE*PWA*EALP22541X01669*02~CCS2:400
+1131224	Sparkasse Nürnberg		Lorenzer Str. 2	90402	Nürnberg	49.450200	11.081100	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1131553	Versorgungsgesellschaft Altdorf mbH	Altdorf b. Nürnberg - Pfälzer Str.	Pfälzer Str. 0	90518	Altdorf b. Nürnberg	49.387420	11.369005	1		Keine Beschränkung	DE*LVP*E21096*001~TYPE2:22|DE*LVP*E21096*002~TYPE2:22
+1131557	N-ERGIE Aktiengesellschaft	Nürnberg - Mainstr. 20	Mainstr. 20	90451	Nürnberg	49.413920	11.053250	1		Keine Beschränkung	DE*LVP*E22401*001~TYPE2:22|DE*LVP*E22401*002~TYPE2:22|DE*LVP*E22399*001~TYPE2:22|DE*LVP*E22399*002~TYPE2:22
+1131656	EnBW mobility+ AG und Co.KG		Diepersdorfer Str. 2-14	90571	Schwaig b. Nürnberg	49.468820	11.208540	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1131770	NürnbergMesse GmbH	Parkplatz Süd Ost 1	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417260	11.121940	1	24/7	Nur für Kunden/Besucher	DE*DEP*E011039*001~TYPE2:22|DE*DEP*E011040*002~TYPE2:22|DE*DEP*E011043*001~TYPE2:22|DE*DEP*E011044*002~TYPE2:22|DE*DEP*E011047*001~TYPE2:22|DE*DEP*E011048*002~TYPE2:22|DE*DEP*E011051*001~TYPE2:22|DE*DEP*E011052*002~TYPE2:22|DE*DEP*E011055*001~TYPE2:22|DE*DEP*E011056*002~TYPE2:22|DE*DEP*E011039*001~TYPE2:22|DE*DEP*E011040*002~TYPE2:22|DE*DEP*E011045*001~TYPE2:22|DE*DEP*E011046*002~TYPE2:22|DE*DEP*E011049*001~TYPE2:22|DE*DEP*E011050*002~TYPE2:22|DE*DEP*E011053*001~TYPE2:22|DE*DEP*E011054*002~TYPE2:22|DE*DEP*E011057*001~TYPE2:22|DE*DEP*E011058*002~TYPE2:22
+1132270	N-ERGIE Aktiengesellschaft	Nürnberg - Südwestpark 49	Südwestpark 49	90449	Nürnberg	49.429150	11.020680	1		Keine Beschränkung	DE*LVP*E22760*001~TYPE2:22|DE*LVP*E22760*002~TYPE2:22
+1132281	N-ERGIE Aktiengesellschaft	Nürnberg - Am Tiergarten 30	Am Tiergarten 30	90480	Nürnberg	49.449946	11.137520	1		Keine Beschränkung	DE*LVP*E22148*001~TYPE2:22|DE*LVP*E22148*002~TYPE2:22|DE*LVP*E22758*001~TYPE2:22|DE*LVP*E22758*002~TYPE2:22
+1132925	Stadtdienste Schwabach GmbH	P&R Parkplatz Schwabach-Limbach	Katzwanger Str. 0	91126	Schwabach	49.338997	11.046025	1		Keine Beschränkung	DE*LVP*E22188*001~TYPE2:22|DE*LVP*E22188*002~TYPE2:22|DE*LVP*E22186*001~TYPE2:22|DE*LVP*E22186*002~TYPE2:22
+1132929	Stadtdienste Schwabach GmbH	Albrecht-Achilles-Str. 6/8	Albrecht-Achilles-Str. 6/8	91126	Schwabach	49.326251	11.022464	1		Keine Beschränkung	DE*LVP*E22745*001~TYPE2:22|DE*LVP*E22745*002~TYPE2:22|DE*LVP*E22743*001~TYPE2:22|DE*LVP*E22743*002~TYPE2:22
+1132936	Stadtdienste Schwabach GmbH	Schwabach - O´Brien-Straße 2	O'Brienstr. 2	91126	Schwabach	49.338037	11.015914	1		Keine Beschränkung	DE*LVP*E22730*001~TYPE2:22|DE*LVP*E22730*002~TYPE2:22|DE*LVP*E22732*001~TYPE2:22|DE*LVP*E22732*002~TYPE2:22
+1132942	N-ERGIE Aktiengesellschaft	Nürnberg - Wallensteinstraße 112	Wallensteinstr. 112	90431	Nürnberg	49.436510	11.027520	1		Keine Beschränkung	DE*LVP*E22157*001~TYPE2:22|DE*LVP*E22157*002~TYPE2:22
+1132945	N-ERGIE Aktiengesellschaft	Nürnberg - Lindenplatz 5	Lindenplatz 5	90455	Nürnberg	49.351989	11.055708	1		Keine Beschränkung	DE*LVP*E22149*001~TYPE2:22|DE*LVP*E22149*002~TYPE2:22
+1133296	N-ERGIE Aktiengesellschaft	Nürnberg - Züricher Straße 50	Züricher Str. 50	90431	Nürnberg	49.439790	11.024410	1		Keine Beschränkung	DE*LVP*E22092*001~TYPE2:22|DE*LVP*E22092*002~TYPE2:22
+1133298	N-ERGIE Aktiengesellschaft	Nürnberg - Voltastraße 18	Voltastr. 18	90459	Nürnberg	49.436677	11.078055	1		Keine Beschränkung	DE*LVP*E22163*001~TYPE2:22|DE*LVP*E22163*002~TYPE2:22|DE*LVP*E21801*001~TYPE2:22|DE*LVP*E21801*002~TYPE2:22
+1133301	N-ERGIE Aktiengesellschaft	Nürnberg - TeVi Nord	Kilianstr. 90	90425	Nürnberg	49.473582	11.072522	1		Keine Beschränkung	DE*LVP*E22756*001~TYPE2:22|DE*LVP*E22756*002~TYPE2:22
+1133752	N-ERGIE Aktiengesellschaft	Nürnberg - Muggenhoferstraße	Muggenhofer Str. 54	90429	Nürnberg	49.458656	11.040067	1		Keine Beschränkung	DE*LVP*E22171*001~TYPE2:22|DE*LVP*E22171*002~TYPE2:22|DE*LVP*E22787*001~TYPE2:22|DE*LVP*E22787*002~TYPE2:22
+1133760	EWE Go GmbH	NUV_0004_1A	Am Falbenholzweg 15	91126	Schwabach	49.322900	11.054320	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1134082	ALDI SÜD	ADE-079-01	Äußere Sulzbacher Str. 164	90491	Nürnberg	49.465615	11.123417	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23692~CCS2:50|DE*ALD*E23693~CCS2:50
+1134361	Shell Deutschland GmbH		Hans-Vogel-Str. 75	90765	Fürth	49.480848	11.008670	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1135506	N-ERGIE Aktiengesellschaft	Nürnberg - Humboldtstraße 85	Humboldtstr. 85	90459	Nürnberg	49.438974	11.080536	1		Keine Beschränkung	DE*LVP*E22671*001~TYPE2:11|DE*LVP*E22671*002~TYPE2:11
+1135575	N-ERGIE Aktiengesellschaft	Nürnberg - Holsteiner Str. 9	Holsteiner Str. 9	90427	Nürnberg	49.468970	11.027970	1		Keine Beschränkung	DE*LVP*E22155*001~TYPE2:22|DE*LVP*E22155*002~TYPE2:22
+1136365	Aral Pulse		Rother Str. 44	91126	Rednitzhembach	49.294645	11.082583	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1136487	AVIA Volt	AVIA Volt Ladepark Neumarkt i. d. Oberpfalz	Nürnberger Str. 41	92318	Neumarkt i.d.OPf.	49.288240	11.441790	1	24/7	Keine Beschränkung	DE*APS*E130007~CCS2:400|DE*APS*E130008~CCS2:400
+1136758	N-ERGIE Aktiengesellschaft	Nürnberg - Goethestr.	Goethestr. 37	90409	Nürnberg	49.463426	11.086040	1		Keine Beschränkung	DE*LVP*E22170*001~TYPE2:22|DE*LVP*E22170*002~TYPE2:22|DE*LVP*E22750*001~TYPE2:22|DE*LVP*E22750*002~TYPE2:22
+1136952	EnBW mobility+ AG und Co.KG	REWE Postbauer-Heng, Pyrbaumer Straße	Pyrbaumer Straße 3	92353	Postbauer-Heng	49.311710	11.350930	1	Mo-Sa 07:00-20:00	Keine Beschränkung	DE*EBW*E916555*1~CCS2:300|DE*EBW*E916555*2~CCS2:300|DE*EBW*E916554*1~CCS2:150|DE*EBW*E916554*2~CCS2:150|DE*EBW*E916554*3~TYPE2:22
+1137283	alpha Immobilienmanagement GmbH	GIP Einfahrt 3	Beuthener Str. 43	90471	Nürnberg	49.422760	11.140132	1	24/7	Keine Beschränkung	EGG12~TYPE2:11|EK875~TYPE2:11|ENU7R~TYPE2:11|EBD2W~TYPE2:11
+1137285	alpha Immobilienmanagement GmbH	GIP W11/12	Beuthener Str. 41	90471	Nürnberg	49.427505	11.132900	1	24/7	Keine Beschränkung	EDJ2SL~TYPE2:11|ESXV6~TYPE2:11|EV3JJ~TYPE2:11|EMPW7~TYPE2:11
+1137413	N-ERGIE Aktiengesellschaft	Nürnberg - Rehhofstr. 140	Rehhofstr. 140	90482	Nürnberg	49.462420	11.154808	1		Keine Beschränkung	DE*LVP*E22196*001~TYPE2:22|DE*LVP*E22196*002~TYPE2:22|DE*LVP*E22156*001~TYPE2:22|DE*LVP*E22156*002~TYPE2:22
+1137443	N-ERGIE Aktiengesellschaft	Nürnberg - Am Stadtpark 111	Am Stadtpark 111	90409	Nürnberg	49.468670	11.092200	1		Keine Beschränkung	DE*LVP*E22068*001~TYPE2:22|DE*LVP*E22068*002~TYPE2:22
+1137445	N-ERGIE Aktiengesellschaft	Nürnberg - Germersheimer Straße 5	Germersheimer Str. 5	90469	Nürnberg	49.405750	11.094570	1		Keine Beschränkung	DE*LVP*E22087*001~TYPE2:22|DE*LVP*E22087*002~TYPE2:22
+1137531	N-ERGIE Aktiengesellschaft	Nürnberg - Humboldtstraße 85	Humboldtstr. 85	90459	Nürnberg	49.439079	11.080478	1		Keine Beschränkung	DE*LVP*E22075*001~TYPE2:11|DE*LVP*E22075*002~TYPE2:11
+1138152	N-ERGIE Aktiengesellschaft	Nürnberg - Max-Planck-Str. 9	Max-Planck-Str. 9	90443	Nürnberg	49.439530	11.064420	1		Keine Beschränkung	DE*LVP*E22184*001~TYPE2:22|DE*LVP*E22184*002~TYPE2:22
+1138153	N-ERGIE Aktiengesellschaft	Nürnberg - Luisenstr. 2	Luisenstr. 2	90478	Nürnberg	49.444940	11.104950	1		Keine Beschränkung	DE*LVP*E21867*001~TYPE2:22|DE*LVP*E21867*002~TYPE2:22
+1138458	infra fürth service gmbh	Fürth - Espanstraße 91	Espanstr. 91	90765	Fürth	49.475730	11.008560	1		Keine Beschränkung	DE*LVP*E22319*001~TYPE2:22|DE*LVP*E22319*002~TYPE2:22|DE*LVP*E22320*001~TYPE2:22|DE*LVP*E22320*002~TYPE2:22
+1138554	IONITY GmbH	Nürnberg Feucht	Wendelsteiner Str. 5a	90537	Feucht	49.365658	11.207221	1	24/7	Nur für Kunden/Besucher	DE*IOY*E239401~CCS2:350|DE*IOY*E239402~CCS2:350|DE*IOY*E239475~CCS2:200|DE*IOY*E239476~CCS2:200|DE*IOY*E239477~CCS2:200|DE*IOY*E239478~CCS2:200|DE*IOY*E239479~CCS2:200|DE*IOY*E239480~CCS2:200|DE*IOY*E239481~CCS2:200|DE*IOY*E239482~CCS2:200
+1138840	Versorgungsgesellschaft Altdorf mbH	Altdorf bei Nürnberg - Neumarkter Str.	Neumarkter Str. 0	90518	Altdorf b. Nürnberg	49.385596	11.359355	1		Keine Beschränkung	DE*LVP*E22143*001~TYPE2:22|DE*LVP*E22143*002~TYPE2:22
+1138943	N-ERGIE Aktiengesellschaft	Nürnberg - Gleiwitzer Str.	Gleiwitzer Str. 0	90475	Nürnberg	49.412767	11.143672	1		Keine Beschränkung	DE*LVP*E22166*001~TYPE2:22|DE*LVP*E22166*002~TYPE2:22|DE*LVP*E22677*001~TYPE2:22|DE*LVP*E22677*002~TYPE2:22
+1139301	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - In der Gibitzen	In der Gibitzen 29	90530	Wendelstein	49.346601	11.157707	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1139350	Stadtdienste Schwabach GmbH	Schwabach - Wendelsteiner Str. 3	Wendelsteiner Str. 3	91126	Schwabach	49.323136	11.042675	1		Keine Beschränkung	DE*LVP*E22323*001~CCS2:200|DE*LVP*E22323*002~CCS2:200
+1139363	N-ERGIE Aktiengesellschaft	Engelthal - Reschenbergstraße 20	Reschenbergstr. 20	91238	Engelthal	49.475420	11.401750	1		Keine Beschränkung	DE*LVP*E22797*001~TYPE2:22|DE*LVP*E22797*002~TYPE2:22|DE*LVP*E22146*001~TYPE2:22|DE*LVP*E22146*002~TYPE2:22
+1139539	OMS Prüfservice GmbH		Hindenburgstr. 16	91126	Schwabach	49.325848	11.020111	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1139570	OMS Prüfservice GmbH	NL Nürnberg	Ziegelstr. 22	91126	Rednitzhembach	49.312138	11.048836	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1139792	E.ON Drive GmbH		Schwabenstr. 46	90459	Nürnberg	49.431337	11.076085	1		Keine Beschränkung	DE*EDR*CB22003494*1~TYPE2:11|DE*EDR*CB22003457*1~TYPE2:11
+1140335	Energie Service GmbH der Stadtwerke Roth	Roth - Willy-Supf-Platz	Willy-Supf-Platz 1	91154	Roth	49.248797	11.090066	1		Keine Beschränkung	DE*LVP*E21627*001~TYPE2:22|DE*LVP*E21627*002~TYPE2:22
+1140497	Bürgerkraftwerke Stein	Stein - Deutenbacher Straße 2 SLS	Deutenbacher Str. 2	90547	Stein	49.413024	11.013928	1		Keine Beschränkung	DE*LVP*E22692*001~CCS2:50|DE*LVP*E22692*002~CCS2:50
+1140626	Robert Bosch GmbH		Kilianstr. 112	90425	Nürnberg	49.473282	11.079548	1		Keine Beschränkung	DE*811*E81234765*9~TYPE2:22|DE*811*E81234766*10~TYPE2:22
+1140820	Aral Pulse		Zeppelinstr. 2	91187	Röttenbach	49.157690	11.040930	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1140892	Katholische Kirchenstiftung St. Karl Borromäus KdöR	Parkplatz Gemeindezentrum St. Karl	Lindnerstr. 3	90482	Nürnberg	49.457177	11.124753	1		Keine Beschränkung	DE*ONE*EB4QX~TYPE2:22|DE*ONE*EZZ6C~TYPE2:22|DE*ONE*EAM8P~TYPE2:22|DE*ONE*E7LK7~TYPE2:22
+1143145	N-ERGIE Aktiengesellschaft	Nürnberg - Ostendstraße 100	Ostendstr. 100	90482	Nürnberg	49.454922	11.116804	1		Keine Beschränkung	DE*LVP*E22605*001~TYPE2:22|DE*LVP*E22605*002~TYPE2:22|DE*LVP*E22607*001~TYPE2:22|DE*LVP*E22607*002~TYPE2:22
+1143149	Energie Service GmbH der Stadtwerke Roth	Roth - Brentwoodstraße 37	Brentwoodstr. 37	91154	Roth	49.235910	11.096830	1		Keine Beschränkung	DE*LVP*E21623*001~TYPE2:22|DE*LVP*E21623*002~TYPE2:22
+1143275	Fränky Getränkemarkt GmbH	Fränky Getränkemarkt an der Sigmundstraße	Sigmundstr. 105	90431	Nürnberg	49.452450	11.015500	1	24/7	Keine Beschränkung	E94FJ~TYPE2:22|E2QG4~TYPE2:22
+1144361	N-ERGIE Aktiengesellschaft	Nürnberg - Heroldsberger Weg 8	Heroldsberger Weg 8	90411	Nürnberg	49.480640	11.107700	1		Keine Beschränkung	DE*LVP*E22601*001~TYPE2:22|DE*LVP*E22601*002~TYPE2:22|DE*LVP*E22603*001~TYPE2:22|DE*LVP*E22603*002~TYPE2:22
+1144599	Shell Deutschland GmbH		Hans-Vogel-Str. 55	90765	Fürth	49.480270	11.009750	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1145008	Lidl	1827_Lidl_Nürnberg_T65-IT1-0425-019	Julius-Loßmann-Str. 11	90469	Nürnberg	49.416220	11.081510	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1145340	Energielösung GmbH		Alte Postgasse 2	92339	Beilngries	49.035460	11.474590	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1145380	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.364462	11.207746	1	24/7	Keine Beschränkung	DE*EVY*EFE8*A~CCS2:200|DE*EVY*EFE8*B~CCS2:200
+1145387	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.365452	11.207742	1	24/7	Keine Beschränkung	DE*EVY*EFE7*A~CCS2:200|DE*EVY*EFE7*B~CCS2:200
+1145390	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.365315	11.207387	1	24/7	Keine Beschränkung	DE*EVY*EFE6*A~CCS2:200|DE*EVY*EFE6*B~CCS2:200
+1145391	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.365103	11.206005	1	24/7	Keine Beschränkung	DE*EVY*EFE5*A~CCS2:200|DE*EVY*EFE5*B~CCS2:200|DE*EVY*EFE3*A~CCS2:400|DE*EVY*EFE3*B~CCS2:400
+1145401	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.364325	11.207471	1	24/7	Keine Beschränkung	DE*EVY*EFE2*A~CCS2:400|DE*EVY*EFE2*B~CCS2:400
+1145402	Eviny	Feucht REWE	Wendelsteiner Str. 3	90537	Feucht	49.364407	11.207377	1	24/7	Keine Beschränkung	DE*EVY*EFE1*A~CCS2:400|DE*EVY*EFE1*B~CCS2:400
+1145746	Bauer Energietechnik e.K.	Beilngries ZOB "Bei der Seefigur"	Bei der Seefigur 4	92339	Beilngries	49.028710	11.466260	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1145760	Bauer Energietechnik e.K.	Bühler Halle	Ingolstädter Str. 7	92339	Beilngries	49.030240	11.478040	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2_TETHERED:11
+1145769	Bauer Energietechnik e.K.		Ringstr. 22	92339	Beilngries	49.035750	11.471280	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2_TETHERED:11
+1145779	Energie Service GmbH der Stadtwerke Roth	Roth-Eckersmühlen - Grimmstr. 1	Grimmstr. 1	91154	Roth	49.215770	11.143150	1		Keine Beschränkung	DE*LVP*E21644*001~TYPE2:22|DE*LVP*E21644*002~TYPE2:22
+1145797	Stadtdienste Schwabach GmbH	Schwabach - Rosenbergerstraße 11	Rosenberger Str. 11	91126	Schwabach	49.329265	11.022167	1		Keine Beschränkung	DE*LVP*E22498*001~TYPE2:22|DE*LVP*E22498*002~TYPE2:22
+1146045	N-ERGIE Aktiengesellschaft	Nürnberg - Wiesentalstraße 25	Wiesentalstr. 25	90419	Nürnberg	49.457273	11.056107	1		Keine Beschränkung	DE*LVP*E22153*001~TYPE2:22|DE*LVP*E22153*002~TYPE2:22
+1146046	N-ERGIE Aktiengesellschaft	Nürnberg - Im Weller ggü. 34	Im Weller ggü. 34	90482	Nürnberg	49.467880	11.141230	1		Keine Beschränkung	DE*LVP*E22604*001~TYPE2:22|DE*LVP*E22604*002~TYPE2:22
+1146049	infra fürth service gmbh	Fürth - Dr.-Mack-Straße 37	Dr.-Mack-Str. 37	90762	Fürth	49.470030	11.005760	1		Keine Beschränkung	DE*LVP*E22491*001~TYPE2:22|DE*LVP*E22491*002~TYPE2:22|DE*LVP*E22489*001~TYPE2:22|DE*LVP*E22489*002~TYPE2:22
+1146163	Tierklinik am Stadtpark GmbH	Tiefgarage St.Pl. Nr.17 Tellstraße 8 , Nürnberg 90409	Tellstr. 8	90409	Nürnberg	49.468354	11.090354	1	Mo-Fr 14:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	ABL_10237243~TYPE2:22+TYPE2_TETHERED:22
+1147337	Pfalzwerke AG	Pfalnzen Kölle Nürnberg (ALP22270X01810)	Geisseestr. 65	90439	Nürnberg	49.434716	11.043012	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01810*01~CCS2:300|DE*PWA*EALP22270X01810*02~CCS2:300|DE*PWA*EALP22270X01811*01~CCS2:300|DE*PWA*EALP22270X01811*02~CCS2:300
+1147339	Pfalzwerke AG	Pfalnzen Kölle Nürnberg (ALP22270X01812)	Geisseestr. 65	90439	Nürnberg	49.434678	11.043069	1	24/7	Keine Beschränkung	DE*PWA*EALP22270X01812*01~CCS2:300|DE*PWA*EALP22270X01812*02~CCS2:300
+1147450	infra fürth service gmbh	Fürth - Humbserstraße 24	Humbserstr. 24	90763	Fürth	49.462914	11.008439	1		Keine Beschränkung	DE*LVP*E22142*001~TYPE2:22|DE*LVP*E22142*002~TYPE2:22
+1147775	N-ERGIE Aktiengesellschaft	Nürnberg - Ossiezkystraße 31	Ossietzkystr. 31	90439	Nürnberg	49.442720	11.042890	1		Keine Beschränkung	DE*LVP*E22585*001~TYPE2:22|DE*LVP*E22585*002~TYPE2:22|DE*LVP*E22587*001~TYPE2:22|DE*LVP*E22587*002~TYPE2:22
+1148142	NSA1 GmbH & Co. KG	Norma Nürnberg	Brettergartenstr. 90	90427	Nürnberg	49.471276	11.024102	1	24/7	Keine Beschränkung	DEFLAE1234688825*1~CCS2:300|DEFLAE1234688825*2~CCS2:300
+1150072	Thon Plaza GmbH	Tiefgarage Thon Plaza	Pretzfelder Str. 1	90425	Nürnberg	49.472949	11.062538	1	24/7	Keine Beschränkung	AT*HTB*E1024407~TYPE2:22|AT*HTB*E1024408~TYPE2:22
+1150695	Robert Bosch GmbH		Dieselstraße 10	90441	Nürnberg	49.430157	11.039358	1		Nur für Kunden/Besucher	DE*811*EEEF0258*1001~TYPE2:22|DE*811*EEEF0258*1002~TYPE2:22
+1150803	Stadtwerke Neumarkt	Neumarkt - Parkhaus Rosengasse - Kastengasse	Kastengasse 15	92318	Neumarkt i.d.OPf.	49.278538	11.461336	1		Keine Beschränkung	DE*LVP*E22597*001~TYPE2:22|DE*LVP*E22597*002~TYPE2:22|DE*LVP*E22549*001~TYPE2:22|DE*LVP*E22549*002~TYPE2:22
+1152171	N-ERGIE Aktiengesellschaft	Nürnberg - Parkplatz Plärrer	Südliche Fürther Str. 5	90429	Nürnberg	49.448860	11.060210	1		Keine Beschränkung	DE*ONE*EN1Q7~TYPE2:22|DE*ONE*EF5Y3~TYPE2:22|DE*ONE*EHT42~TYPE2:22|DE*ONE*E1WZC~TYPE2:22|DE*ONE*EF5A9~TYPE2:22|DE*ONE*EJC7N~TYPE2:22|DE*ONE*E3485~TYPE2:22|DE*ONE*EX565~TYPE2:22|DE*ONE*ER1YZ~TYPE2:22|DE*ONE*EY2XH~TYPE2:22|DE*ONE*E62KH~TYPE2:22|DE*ONE*ESDF9~TYPE2:22|DE*ONE*E2X2S~TYPE2:22|DE*ONE*E8MJM~TYPE2:22|DE*ONE*E7XEP~TYPE2:22|DE*ONE*ED7DM~TYPE2:22|DE*ONE*E4N62~TYPE2:22|DE*ONE*ES9PG~TYPE2:22|DE*ONE*ELZ1C~TYPE2:22|DE*ONE*EM7GV~TYPE2:22|DE*ONE*E2ST4~TYPE2:22|DE*ONE*E6MBS~TYPE2:22|DE*ONE*EURW6~TYPE2:22|DE*ONE*EC228~TYPE2:22|DE*ONE*EUW7H~TYPE2:22|DE*ONE*EW3V6~TYPE2:22|DE*ONE*EHY76~TYPE2:22|DE*ONE*EMV7T~TYPE2:22|DE*ONE*ET7N2~TYPE2:22|DE*ONE*EDZ62~TYPE2:22|DE*ONE*E3JUB~TYPE2:22|DE*ONE*EDY9W~TYPE2:22|DE*ONE*EZFH3~TYPE2:22|DE*ONE*E2U1B~TYPE2:22|DE*ONE*EY8NR~TYPE2:22|DE*ONE*EBY8P~TYPE2:22|DE*ONE*E9716~TYPE2:22|DE*ONE*EM9HD~TYPE2:22|DE*ONE*EU6QY~TYPE2:22|DE*ONE*ENS2U~TYPE2:22|DE*ONE*EK13B~TYPE2:22|DE*ONE*E6LXJ~TYPE2:22|DE*ONE*EZ6VM~TYPE2:22|DE*ONE*E1C1D~TYPE2:22|DE*ONE*ERB25~TYPE2:22|DE*ONE*EHBL5~TYPE2:22|DE*ONE*EYQU9~TYPE2:22|DE*ONE*EP9QS~TYPE2:22|DE*ONE*EGP3X~TYPE2:22|DE*ONE*E1SP6~TYPE2:22|DE*ONE*E4Z4C~TYPE2:22|DE*ONE*ENPF2~TYPE2:22|DE*ONE*E2KFV~TYPE2:22|DE*ONE*EHD1L~TYPE2:22|DE*ONE*E1LTR~TYPE2:22|DE*ONE*EME12~TYPE2:22|DE*ONE*ER7XA~TYPE2:22|DE*ONE*EWR7M~TYPE2:22|DE*ONE*EDA65~TYPE2:22|DE*ONE*E852Q~TYPE2:22|DE*ONE*EDHD8~TYPE2:22|DE*ONE*E1TYX~TYPE2:22|DE*ONE*EMJ2K~TYPE2:22|DE*ONE*E5PKV~TYPE2:22|DE*ONE*EGC9G~TYPE2:22|DE*ONE*EVNG6~TYPE2:22|DE*ONE*EGY8C~TYPE2:22|DE*ONE*EUX6K~TYPE2:22|DE*ONE*EB6GS~TYPE2:22|DE*ONE*END87~TYPE2:22|DE*ONE*E2VQQ~TYPE2:22|DE*ONE*E96QH~TYPE2:22|DE*ONE*E3V4N~TYPE2:22
+1152623	BayWa Mobility Solutions GmbH		Kilianstr. 104	90425	Nürnberg	49.473276	11.078103	1	24/7	Keine Beschränkung	DE*122*E7023801~CCS2:150|DE*122*E7023802~CCS2:150|DE*122*E7023803~CCS2:150|DE*122*E7023804~CCS2:150
+1152625	Max Bögl Stiftung & Co. KG	Sengenthal, Tor 3 (Parkplatz)	Max-Bögl-Str. 1	92369	Sengenthal	49.222492	11.452850	1	24/7	Keine Beschränkung	DECPIE7372355~CCS2:75|DECPIE7372355~CCS2:75
+1152680	Robert Bosch GmbH		Röthensteig 21	90408	Nürnberg	49.470530	11.075529	1		Nur für Kunden/Besucher	DE*811*E61234679*1~TYPE2:22|DE*811*E61234679*2~TYPE2:22|DE*811*E61234678*1~TYPE2:22|DE*811*E61234678*2~TYPE2:22|DE*811*E61234681*1~TYPE2:22|DE*811*E61234681*2~TYPE2:22|DE*811*E61234680*1~TYPE2:22|DE*811*E61234680*2~TYPE2:22
+1152733	HomE of Mobility GmbH	Autohaus Feser GmbH · VW Nutzfahrzeuge · AC, DC	Nürnberger Str. 55	91126	Schwabach	49.338121	11.020893	1	24/7	Keine Beschränkung	DE*HOM*E500131*501~CCS2:50|DE*HOM*E500131*502~CCS2:50|DE*HOM*E500131*001~TYPE2:11
+1152912	IP Innovative Power		Lina-Ammon-Str. 30	90471	Nürnberg	49.408832	11.130001	1	24/7	Nur für Kunden/Besucher	DEIPGE00001382~TYPE2:22|DEIPGE00001383~TYPE2:22|DEIPGE00001387~TYPE2:22|DEIPGE00001386~TYPE2:22|DEIPGE00001384~TYPE2:22|DEIPGE00001385~TYPE2:22
+1152981	eliso	ELI_Segmüller_Nürnberg_HYC_AC	Laufamholzstr. 72	90482	Nürnberg	49.462356	11.139633	1	24/7	Keine Beschränkung	DE*ELI*E3584434~TYPE2:22|DE*ELI*E3584435~TYPE2:22|DE*ELI*E3584434~TYPE2:22|DE*ELI*E3584435~TYPE2:22
+1154122	Shell Deutschland GmbH	OBN 0494 Shell Tankstelle Nürnberg Frankenstr. 224	Frankenstr. 224	90461	Nürnberg	49.430960	11.100830	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1154587	Zest Invest GmbH	Lenkersheimer Str. 14	Lenkersheimer Str. 14	90431	Nürnberg	49.448413	11.015024	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1154714	SCAPO mobility GmbH	LV Röthenbach	Helmut-Schmidt-Ring 87	90552	Röthenbach a.d.Pegnitz	49.477956	11.253873	1	24/7	Nur für Kunden/Besucher	DE*ISE*EA165791~TYPE2:22|DE*ISE*EA196679~TYPE2:22
+1154821	ALDI SÜD	ADE-109-01	Karl-Büttner-Ring 11	91207	Lauf a.d.Pegnitz	49.496311	11.262469	1	Mo-Sa 08:00-20:00	Keine Beschränkung	DE*ALD*E23612~CCS2:50|DE*ALD*E23613~CCS2:50
+1155607	Tesla Germany GmbH		Am Kohlschlag 2	90571	Schwaig b. Nürnberg	49.481484	11.196963	1	24/7	Keine Beschränkung	DE*TSL*E56YY63~CCS2:250|DE*TSL*E56YY62~CCS2:250|DE*TSL*E56YY64~CCS2:250|DE*TSL*E56YY1J~CCS2:250|DE*TSL*E56YY65~CCS2:250|DE*TSL*E56YY7F~CCS2:250|DE*TSL*E56YY4R~CCS2:250|DE*TSL*E56YY67~CCS2:250
+1155739	Gemeindewerke Wendelstein Breitband GmbH	Wendelstein - Mittelweg 70	Mittelweg 70	90530	Wendelstein	49.339680	11.122890	1		Keine Beschränkung	DE*LVP*E22749*001~TYPE2:22|DE*LVP*E22749*002~TYPE2:22|DE*LVP*E22747*001~TYPE2:22|DE*LVP*E22747*002~TYPE2:22
+1155746	N-ERGIE Aktiengesellschaft	Nürnberg - Neumarkter Str. 36	Neumarkter Str. 36	90478	Nürnberg	49.442309	11.111398	1		Keine Beschränkung	DE*LVP*E22511*001~TYPE2:22|DE*LVP*E22511*002~TYPE2:22
+1155760	Stadtdienste Schwabach GmbH	Schwabach - Parkplatz SC 04	Nördlinger Str. 48	91126	Schwabach	49.318272	11.011326	1		Keine Beschränkung	DE*LVP*E22487*001~CCS2:200|DE*LVP*E22487*002~CCS2:200
+1155894	Zest Invest GmbH	Lenkersheimer Str. 14	Lenkersheimer Str. 14	90431	Nürnberg	49.448015	11.015131	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1155914	ght GmbH	Parkhaus EM&C	Neumeyerstr. 44	90411	Nürnberg	49.480624	11.121246	1	24/7	Keine Beschränkung	LP1~TYPE2:22|LP2~TYPE2:22|LP3~TYPE2:22|LP4~TYPE2:22|LP5~TYPE2:22|LP6~TYPE2:22
+1156021	ght GmbH	S+S Regeltechnik	Thurn-und-Taxis-Str. 22	90411	Nürnberg	49.483610	11.130615	1		Nur für Kunden/Besucher	Ladepunkt 1~TYPE2_TETHERED:11|Ladepunkt 2~TYPE2:11|Ladepunkt 3~TYPE2:11|Ladepunkt 4~TYPE2:11
+1156089	Wirelane GmbH		Neumarkter Straße 23	92342	Freystadt	49.198306	11.340111	1		Keine Beschränkung	DE*WLN*EP001194~TYPE2:22|DE*WLN*EP001193~TYPE2:22
+1156168	Wirelane GmbH	Leonardo Hotel Nürnberg	Zufuhrstraße 22	90443	Nürnberg	49.445140	11.067054	1		Keine Beschränkung	DE*WLN*ES000137~TYPE2:11|DE*WLN*ES000138~TYPE2:11
+1156216	Wirelane GmbH	Ibis Nürnberg City am Plärrer	Steinbühler Straße 2	90443	Nürnberg	49.446676	11.067971	1		Keine Beschränkung	DE*WLN*ES001130~TYPE2:11|DE*WLN*ES000967~TYPE2:11
+1156239	Wirelane GmbH	24Seven Hotel - Katharina Protzel	Flurstraße 105	91126	Schwabach	49.332529	11.044498	1		Keine Beschränkung	DE*WLN*ES000167~TYPE2:11|DE*WLN*ES000168~TYPE2:11
+1156285	Wirelane GmbH	Motel One Nürnberg Plärrer	Steinbühler Straße 13	90443	Nürnberg	49.445182	11.069076	1		Keine Beschränkung	DE*WLN*ES000311~TYPE2:11|DE*WLN*ES000312~TYPE2:11
+1156382	Wirelane GmbH	Hotel Postbauer-Heng	Marktplatz 17	92353	Postbauer-Heng	49.302968	11.353620	1		Keine Beschränkung	DE*WLN*ES000307~TYPE2:11|DE*WLN*ES000308~TYPE2:11|DE*WLN*ES000309~TYPE2:11|DE*WLN*ES000310~TYPE2:11
+1156462	Wirelane GmbH	Derag Livinghotel Nürnberg GbR	Obere Kanalstraße 11	90429	Nürnberg	49.448538	11.058552	1		Keine Beschränkung	DE*WLN*ES000691~TYPE2:11|DE*WLN*ES000692~TYPE2:11|DE*WLN*ES000695~TYPE2:11|DE*WLN*ES000697~TYPE2:11|DE*WLN*ES000696~TYPE2:11|DE*WLN*ES000698~TYPE2:11
+1156821	NürnbergMesse GmbH	Parkhaus Nord Große Straße	Messezentrum 1	90471	Nürnberg	49.423336	11.116388	1		Nur für Kunden/Besucher	DE*DEP*E013059~TYPE2:22|DE*DEP*E013060~TYPE2:22|DE*DEP*E013061~TYPE2:22|DE*DEP*E013062~TYPE2:22|DE*DEP*E013063~TYPE2:22|DE*DEP*E013064~TYPE2:22|DE*DEP*E013065~TYPE2:22|DE*DEP*E013066~TYPE2:22|DE*DEP*E013067~TYPE2:22|DE*DEP*E013068~TYPE2:22|DE*DEP*E013069~TYPE2:22|DE*DEP*E013070~TYPE2:22|DE*DEP*E013071~TYPE2:22|DE*DEP*E013072~TYPE2:22|DE*DEP*E013073~TYPE2:22|DE*DEP*E013074~TYPE2:22|DE*DEP*E013075~TYPE2:22|DE*DEP*E013076~TYPE2:22|DE*DEP*E013077~TYPE2:22|DE*DEP*E013078~TYPE2:22|DE*DEP*E012025~TYPE2:22|DE*DEP*E012036~TYPE2:22|DE*DEP*E012027~TYPE2:22|DE*DEP*E012038~TYPE2:22
+1156880	N-ERGIE Aktiengesellschaft	Hilpoltstein - Meckenhausen F31	Meckenhausen F 31	91161	Hilpoltstein	49.173530	11.280220	1		Keine Beschränkung	DE*LVP*E22535*001~TYPE2:22|DE*LVP*E22535*002~TYPE2:22
+1156881	Bike NOW	Bike NOW	Amberger Str. 95	92318	Neumarkt i.d.OPf.	49.296800	11.480590	1	24/7	Keine Beschränkung	DK*MON*E6292025~TYPE2:22|DK*MON*E6292026~TYPE2:22
+1156936	EnBW mobility+ AG und Co.KG	OBI Markt Nürnberg Regensburger Straße	Regensburger Str. 250	90480	Nürnberg	49.436400	11.120300	1	24/7	Keine Beschränkung	DE*EBW*E914844*1~CCS2:200|DE*EBW*E914844*2~CCS2:200|DE*EBW*E914843*1~CCS2:200|DE*EBW*E914843*2~CCS2:200
+1157272	N-ERGIE Aktiengesellschaft	Leinburg - Wartberger Str.	Wartberger Str. 0	91227	Leinburg	49.460240	11.290030	1		Keine Beschränkung	DE*LVP*E22464*001~TYPE2:22|DE*LVP*E22464*002~TYPE2:22
+1157279	N-ERGIE Aktiengesellschaft	Nürnberg - Leibnitzstr. 33	Leibnizstr. 33	90443	Nürnberg	49.436720	11.067570	1		Keine Beschränkung	DE*LVP*E22589*001~TYPE2:22|DE*LVP*E22589*002~TYPE2:22|DE*LVP*E22575*001~TYPE2:22|DE*LVP*E22575*002~TYPE2:22
+1157826	N-ERGIE Aktiengesellschaft	Nürnberg - Herzogstraße 22	Herzogstr. 22	90478	Nürnberg	49.434970	11.120080	1		Keine Beschränkung	DE*LVP*E22151*001~TYPE2:22|DE*LVP*E22151*002~TYPE2:22
+1157827	N-ERGIE Aktiengesellschaft	Georgensgmünd - Marktplatz 2	Marktplatz 2	91166	Georgensgmünd	49.188050	11.015240	1		Keine Beschränkung	DE*LVP*E20922*001~TYPE2:22|DE*LVP*E20922*002~TYPE2:22
+1158405	ght GmbH	ght GmbH Nürnberg	Schafhofstr. 2	90411	Nürnberg	49.481249	11.115961	1		Nur für Kunden/Besucher	DK*MON*E5832046~TYPE2:11|DK*MON*E5985536~TYPE2:11|-~TYPE2:11
+1158621	HTI Gienger KG	Standort Röttenbach	Am Handelszentrum 1	91187	Röttenbach	49.159174	11.040509	1	Mo-Do 07:00-17:00, Fr 07:00-13:00	Nur für Kunden/Besucher	DE*ONE*E79YM~TYPE2:11|DE*ONE*EW1C5~TYPE2:11|DE*ONE*EMGA3~TYPE2:11|DE*ONE*EDUR9~TYPE2:11|DE*ONE*EZ4EY~TYPE2:11|DE*ONE*E89A7~TYPE2:11|DE*ONE*E676U~TYPE2:11|DE*ONE*EPRC9~TYPE2:11
+1159007	NürnbergMesse GmbH	VIP West Mitte	Messezentrum 1	90471	Nürnberg	49.416517	11.115080	1		Nur für Kunden/Besucher	DE*DEP*E017059*001~TYPE2:22|DE*DEP*E017060*002~TYPE2:22|DE*DEP*E017061*001~TYPE2:22|DE*DEP*E017062*002~TYPE2:22|DE*DEP*E017063*001~TYPE2:22|DE*DEP*E017064*002~TYPE2:22|DE*DEP*E017065*001~TYPE2:22|DE*DEP*E017066*002~TYPE2:22|DE*DEP*E017067*001~TYPE2:22|DE*DEP*E017068*002~TYPE2:22|DE*DEP*E017069*001~TYPE2:22|DE*DEP*E017070*002~TYPE2:22|DE*DEP*E017071*001~TYPE2:22|DE*DEP*E017072*002~TYPE2:22|DE*DEP*E017073*001~TYPE2:22|DE*DEP*E017074*002~TYPE2:22|DE*DEP*E017075*001~TYPE2:22|DE*DEP*E017076*002~TYPE2:22|DE*DEP*E017077*001~TYPE2:22|DE*DEP*E017078*002~TYPE2:22
+1159019	NürnbergMesse GmbH	Parkplatz Süd Ost 1	Karl-Schönleben-Str. 70	90471	Nürnberg	49.417314	11.122121	1		Nur für Kunden/Besucher	DE*DEP*E011059*001~TYPE2:22|DE*DEP*E011060*002~TYPE2:22|DE*DEP*E011061*001~TYPE2:22|DE*DEP*E011062*002~TYPE2:22|DE*DEP*E011063*001~TYPE2:22|DE*DEP*E011064*002~TYPE2:22|DE*DEP*E011065*001~TYPE2:22|DE*DEP*E011066*002~TYPE2:22|DE*DEP*E011067*001~TYPE2:22|DE*DEP*E011068*002~TYPE2:22|DE*DEP*E011069*001~TYPE2:22|DE*DEP*E011070*002~TYPE2:22|DE*DEP*E011071*001~TYPE2:22|DE*DEP*E011072*002~TYPE2:22|DE*DEP*E011073*001~TYPE2:22|DE*DEP*E011074*002~TYPE2:22|DE*DEP*E011075*001~TYPE2:22|DE*DEP*E011076*002~TYPE2:22|DE*DEP*E012023*001~TYPE2:22|DE*DEP*E012024*002~TYPE2:22|DE*DEP*E011077*001~TYPE2:22|DE*DEP*E011078*002~TYPE2:22
+1159331	Max Bögl Stiftung & Co. KG	Sengenthal, Tor 1 (Parkhaus)	Max-Bögl-Str. 1	92369	Sengenthal	49.210800	11.451349	1	24/7	Keine Beschränkung	DECPIE7393215~TYPE2:22|DECPIE7393265~TYPE2:22
+1159336	Max Bögl Stiftung & Co. KG	Sengenthal, Tor 1 (Parkhaus)	Max-Bögl-Str. 1	92369	Sengenthal	49.210857	11.451353	1	24/7	Keine Beschränkung	DECPIE7393265~TYPE2:22|DECPIE7393265~TYPE2:22|DECPIE7391205~TYPE2:22|DECPIE7391205~TYPE2:22
+1159338	Max Bögl Stiftung & Co. KG	Sengenthal, Tor 1 (Parkhaus)	Max-Bögl-Str. 1	92369	Sengenthal	49.210986	11.451348	1	24/7	Keine Beschränkung	DECPIE7393245~TYPE2:22|DECPIE7393245~TYPE2:22|DECPIE7391185~TYPE2:22|DECPIE7391185~TYPE2:22
+1159588	N-ERGIE Aktiengesellschaft	Nürnberg - Südwestpark 71	Südwestpark 71	90449	Nürnberg	49.429390	11.018105	1		Keine Beschränkung	DE*LVP*E22448*001~TYPE2:22|DE*LVP*E22448*002~TYPE2:22|DE*LVP*E22449*001~TYPE2:22|DE*LVP*E22449*002~TYPE2:22
+1159598	N-ERGIE Aktiengesellschaft	Nürnberg - Zwinglistraße 4	Zwinglistr. 4	90459	Nürnberg	49.435040	11.085120	1		Keine Beschränkung	DE*LVP*E22417*001~TYPE2:22|DE*LVP*E22417*002~TYPE2:22|DE*LVP*E22592*001~TYPE2:22|DE*LVP*E22592*002~TYPE2:22
+1159601	N-ERGIE Aktiengesellschaft	Nürnberg - Herriedener Str. 56	Herriedener Str. 56	90449	Nürnberg	49.420010	11.020920	1		Keine Beschränkung	DE*LVP*E22162*001~TYPE2:22|DE*LVP*E22162*002~TYPE2:22|DE*LVP*E22440*001~TYPE2:22|DE*LVP*E22440*002~TYPE2:22
+1159610	N-ERGIE Aktiengesellschaft	Thalmässing - Badstraße 33	Badstr. 33	91177	Thalmässing	49.080710	11.215100	1		Keine Beschränkung	DE*LVP*E22444*001~TYPE2:22|DE*LVP*E22444*002~TYPE2:22|DE*LVP*E22444*001~TYPE2:22|DE*LVP*E22444*002~TYPE2:22
+1159650	EnBW mobility+ AG und Co.KG	A3 AS90 Altdorf/Burgthann, 90518 Altdorf bei Nürnberg	An der Westtangente 0	90518	Altdorf b. Nürnberg	49.383679	11.340780	1	24/7	Keine Beschränkung	DE*EBW*E915126*1~CCS2:400|DE*EBW*E915126*2~CCS2:400|DE*EBW*E915128*1~CCS2:400|DE*EBW*E915128*2~CCS2:400|DE*EBW*E915125*1~CCS2:400|DE*EBW*E915125*2~CCS2:400|DE*EBW*E915129*1~CCS2:400|DE*EBW*E915129*2~CCS2:400|DE*EBW*E915127*1~CCS2:400|DE*EBW*E915127*2~CCS2:400|DE*EBW*E915130*1~CCS2:400|DE*EBW*E915130*2~CCS2:400
+1160146	StWL Mobilität und Infrastruktur GmbH	Lauf a. d. Pegnitz - Am Winkelsteig 1a	Am Winkelsteig 1a	91207	Lauf a.d.Pegnitz	49.497781	11.263465	1		Keine Beschränkung	DE*LVP*E22728*001~TYPE2:22|DE*LVP*E22728*002~TYPE2:22
+1160427	Mercedes- Benz AG - Niederlassung Nürnberg	FUERTHER STR4.1	Fürther Str. 235	90429	Nürnberg	49.458865	11.030116	1		Nur für Kunden/Besucher	DECPIE7388875-1~TYPE2:11|DECPIE7388875-2~TYPE2:11|DECPIE7388885-1~TYPE2:11|DECPIE7388885-2~TYPE2:11
+1161464	N-ERGIE Aktiengesellschaft	Nürnberg - Philipp-Kittler-Str. 2	Philipp-Kittler-Str. 2	90480	Nürnberg	49.445840	11.111690	1		Keine Beschränkung	DE*LVP*E50004*001~TYPE2:22|DE*LVP*E50004*002~TYPE2:22|DE*LVP*E50005*001~TYPE2:22|DE*LVP*E50005*002~TYPE2:22
+1161480	Stadtdienste Schwabach GmbH	Schwabach - Spitalberg 11	Spitalberg 11	91126	Schwabach	49.330181	11.018562	1		Keine Beschränkung	DE*LVP*E22442*001~CCS2:200|DE*LVP*E22442*002~CCS2:200
+1161961	E.ON Drive Infrastructure	Regensburger Str. 90, 92318 Neumarkt in der Oberpfalz	Regensburger Str. 90	92318	Neumarkt i.d.OPf.	49.267038	11.471487	1	24/7	Keine Beschränkung	DE*UFC*E01292*1~CCS2:400|DE*UFC*E01292*2~CCS2:400|DE*UFC*E00664*1~CCS2:400|DE*UFC*E00664*2~CCS2:400|DE*UFC*E00665*1~CCS2:400|DE*UFC*E00665*2~CCS2:400|DE*UFC*E01293*1~CCS2:400|DE*UFC*E01293*1~CCS2:400
+1161963	EnBW mobility+ AG und Co.KG	EG Group Nürnberg, Sulzbacher Str.	Sulzbacher Straße 24-26	90489	Nürnberg	49.457844	11.092907	1	24/7	Keine Beschränkung	DE*EBW*E908939*1~CCS2:300|DE*EBW*E908939*2~CCS2:300
+1162029	Energielösung GmbH		Hauptstr. 16	92339	Beilngries	49.034147	11.474957	1	24/7	Keine Beschränkung	DE*BEM*E0011428~TYPE2:11|DE*BEM*E0011429~TYPE2:11|DE*BEM*E0011431~TYPE2:11
+1162088	EnBW mobility+ AG und Co.KG	EG Group Nürnberg, Eibacher Hauptstr.	Eibacher Hauptstraße 109	90451	Nürnberg	49.399145	11.038398	1	24/7	Keine Beschränkung	DE*EBW*E908817*1~CCS2:150|DE*EBW*E908817*2~CCS2:150
+1162312	N-ERGIE Aktiengesellschaft	Nürnberg - Bingstr. 3-5	Bingstr. 3-5	90480	Nürnberg	49.445350	11.129220	1		Keine Beschränkung	DE*LVP*E50009*001~TYPE2:22|DE*LVP*E50009*002~TYPE2:22|DE*LVP*E50008*001~TYPE2:22|DE*LVP*E50008*002~TYPE2:22
+1162437	NCP HOLDING GmbH & Co. KG	VISPIRON HPC - Norma NBG - Tillypark	Tillypark 1	90431	Nürnberg	49.433823	11.035790	1	24/7	Keine Beschränkung	DK*MON*E6558951~CCS2:160|DK*MON*E6559629~CCS2:160|DK*MON*E6559877~CCS2:160|DK*MON*E6559878~CCS2:160
+1162621	Stadtdienste Schwabach GmbH	Schwabach - Boxlohe 11	Boxlohe 11	91126	Schwabach	49.329590	11.016746	1		Keine Beschränkung	DE*LVP*E23062*001~TYPE2:22|DE*LVP*E23062*002~TYPE2:22
+1162926	Robert Bosch GmbH		Tillystraße 42	90431	Nürnberg	49.432386	11.034639	1		Nur für Kunden/Besucher	DE*811*E61234893*1~TYPE2_TETHERED:22|DE*811*E61234893*2~TYPE2_TETHERED:22|DE*811*E61234893*3~TYPE2_TETHERED:22|DE*811*E61234893*4~TYPE2_TETHERED:22|DE*811*E61234893*5~TYPE2_TETHERED:22|DE*811*E61234893*6~TYPE2_TETHERED:22
+1163481	N-ERGIE Aktiengesellschaft	Nürnberg - Parsberger Str. 4	Parsberger Str. 4	90478	Nürnberg	49.441360	11.110220	1		Keine Beschränkung	DE*LVP*E50007*001~TYPE2:22|DE*LVP*E50007*002~TYPE2:22|DE*LVP*E50006*001~TYPE2:22|DE*LVP*E50006*002~TYPE2:22
+1163487	N-ERGIE Aktiengesellschaft	Röthenbach a. d. Pegnitz - Karl-Diehl-Halle	Werner-von-Siemens-Allee 38a	90552	Röthenbach a.d.Pegnitz	49.479260	11.253890	1		Keine Beschränkung	DE*LVP*E50016*001~TYPE2:22|DE*LVP*E50016*002~TYPE2:22|DE*LVP*E50017*001~TYPE2:22|DE*LVP*E50017*002~TYPE2:22
+1163495	N-ERGIE Aktiengesellschaft	Nürnberg - Briandstraße ggü. 42	Briandstr. ggü. 42	90439	Nürnberg	49.443760	11.037320	1		Keine Beschränkung	DE*LVP*E23084*001~TYPE2:22|DE*LVP*E23084*002~TYPE2:22
+1163671	NCP HOLDING GmbH & Co. KG	VISPIRON HPC -Norma NBG - Willstraße	Willstr. 15	90429	Nürnberg	49.452860	11.055223	1	24/7	Keine Beschränkung	DK*MON*E6598946~CCS2:160|DK*MON*E6598947~CCS2:160|DK*MON*E6598948~CCS2:160|DK*MON*E6598949~CCS2:160
+1164324	N-ERGIE Aktiengesellschaft	Nürnberg - Kirchenstr. 24	Kirchenstr. 24	90478	Nürnberg	49.443710	11.096570	1		Keine Beschränkung	DE*LVP*E23083*001~TYPE2:22|DE*LVP*E23083*002~TYPE2:22
+1164325	N-ERGIE Aktiengesellschaft	Nürnberg - Zufuhrstraße 12	Zufuhrstr. 12	90443	Nürnberg	49.445560	11.067220	1		Keine Beschränkung	DE*LVP*E50015*001~TYPE2:22|DE*LVP*E50015*002~TYPE2:22|DE*LVP*E50014*001~TYPE2:22|DE*LVP*E50014*002~TYPE2:22
+1164619	illwerke vkw AG		Pettenkoferplatz 3	92334	Berching	49.106354	11.441125	1	24/7	Nur für Kunden/Besucher	DE*VKW*E4013~TYPE2:22

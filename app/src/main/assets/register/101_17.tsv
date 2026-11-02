@@ -1,0 +1,363 @@
+1009281	Shell Deutschland GmbH		Schiffenberger Weg 109A	35394	Gießen	50.572349	8.690731	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1011597	E-Merge Mobility GmbH		Am Bahnhof 12-16	35216	Biedenkopf	50.909871	8.529650	1			~CCS2:50|~TYPE2:22
+1011608	GreenVesting GmbH & Co. KG		Zimmermannstr. 1	35091	Cölbe	50.848060	8.776561	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1011632	E-Merge Mobility GmbH		Am Energiepark 3	35085	Ebsdorfergrund/Heskem	50.748757	8.834187	1			~CCS2:50|~TYPE2:22
+1011633	E-Merge Mobility GmbH		Marktplatz 4	35075	Gladenbach	50.769723	8.580868	1			~CCS2:50|~TYPE2:22
+1011652	E-Merge Mobility GmbH		Neue Kasseler Str. 62	35039	Marburg	50.830217	8.771942	1		Keine Beschränkung	~CCS2:120|~CCS2:120|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1011656	E-Merge Mobility GmbH		Friedhofstraße 4	35091	Cölbe	50.851138	8.782444	1			~CCS2:50|~CCS2:50
+1011658	E-Merge Mobility GmbH		Am Bürgerhaus 7	35091	Cölbe	50.883705	8.833962	1			~CCS2:50|~CCS2:50
+1011662	GreenVesting GmbH & Co. KG		Marburger Landstraße 1	35091	Cölbe	50.857679	8.823705	1			~CCS2:50|~CCS2:50
+1011663	E-Merge Mobility GmbH		Grüne Bette 4	35091	Cölbe	50.853594	8.777174	1			~CCS2:50|~CCS2:50
+1021734	EWE Go GmbH	McD_0967_1A	Afföllerstr. 102	35039	Marburg	50.832623	8.768386	1	24/7	Keine Beschränkung	DE*2GO*EMCD0967*1A*1~CCS2:150|DE*2GO*EMCD0967*1A*2~CCS2:150
+1021812	EWE Go GmbH	McD_1261_1A	Georg-Kramer-Str. 16	35216	Biedenkopf	50.900961	8.536056	1	24/7	Keine Beschränkung	DE*2GO*EMCD1261*1A*1~CCS2:300|DE*2GO*EMCD1261*1A*2~CCS2:300
+1021920	EWE Go GmbH		Carl Benz Str. 2	35447	Reiskirchen	50.598327	8.822064	1			~CCS2:160|~CCS2:160
+1026018	EnBW mobility+ AG und Co.KG		Stefan-Bellof-Strasse 2	35394	Giessen	50.575162	8.711753	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1026384	EnBW mobility+ AG und Co.KG		Frankfurter Str 95	35578	Wetzlar	50.545655	8.529394	1			~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300
+1027020	EnBW mobility+ AG und Co.KG		Bänningerstraße 9	35394	Gießen	50.571710	8.685890	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027098	EnBW mobility+ AG und Co.KG		Philipsstraße 8	35576	Wetzlar	50.566690	8.503660	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027477	EnBW mobility+ AG und Co.KG		Marburger Straße 44	35390	Gießen	50.594190	8.681590	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028025	EnBW mobility+ AG und Co.KG		Gießener Pforte 33	35440	Linden	50.539368	8.650205	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028950	TEAG Mobil GmbH	Gießen - HERKULES	Marburger Str. 131	35396	Gießen	50.600762	8.686912	1	24/7	Keine Beschränkung	DE*TMO*E11*053*001~CCS2:300|DE*TMO*E11*053*002~CCS2:300|DE*TMO*E11*053*003~CCS2:150|DE*TMO*E11*053*004~CCS2:150
+1028952	TEAG Mobil GmbH	Gießen-Wieseck - EDEKA	Altenburger Str. 5	35396	Gießen	50.609573	8.716096	1		Keine Beschränkung	DE*TMO*E11*055*001~CCS2:225|DE*TMO*E11*055*002~CCS2:225|DE*TMO*E11*055*003~CCS2:225|DE*TMO*E11*055*004~CCS2:150
+1029026	TEAG Mobil GmbH	Gießen - EDEKA	Gottlieb-Daimler-Str. 11	35398	Gießen	50.582814	8.649101	1	Mo-Fr 07:00-18:30, Sa 07:00-14:30	Keine Beschränkung	DE*TMO*E11*054*001~CCS2:300|DE*TMO*E11*054*002~CCS2:300|DE*TMO*E11*054*003~CCS2:300|DE*TMO*E11*054*004~CCS2:300
+1030901	Fraunhofer-Gesellschaft e. V.		Ohlebergsweg 12	35394	Gießen	50.570875	8.676129	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:250|~CCS2:32+CHADEMO:32|~TYPE2:22
+1031353	HomE of Mobility GmbH		Christian-Kremp-Straße 5	35578	Wetzlar	50.535404	8.533114	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1031688	CUBOS Service GmbH		Schanzenstraße 11	35390	Gießen	50.585297	8.668609	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1031784	TotalEnergies Charging Solutions		Philipsstraße 1	35576	Wetzlar	50.568072	8.505421	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032358	GETEC mobility solutions GmbH		Hessentagsbrunnen 0	35423	Lich	50.518917	8.819445	1			~TYPE2:22
+1032359	GETEC mobility solutions GmbH		Ringstraße 0	35423	Lich	50.516746	8.822320	1			~TYPE2:22
+1032360	GETEC mobility solutions GmbH		Kirchhofgasse 0	35423	Lich	50.523610	8.819195	1			~TYPE2:22|~TYPE2:22
+1032389	GETEC mobility solutions GmbH		Rudolf-Harbig-Straße 14	35418	Alten-Buseck	50.623181	8.760683	1			~TYPE2:22
+1032390	GETEC mobility solutions GmbH		Neue Straße 25	35418	Beuern	50.628636	8.814281	1			~TYPE2:22
+1032391	GETEC mobility solutions GmbH		Anger 3	35418	Großen Buseck	50.608247	8.786124	1			~TYPE2:22
+1032392	GETEC mobility solutions GmbH		Ernst-Ludwig-Straße 15	35418	Buseck	50.610506	8.787102	1			~TYPE2:22|~TYPE2:22
+1035529	ALDI SÜD		Wellergasse 31	35582	Wetzlar-Dutenhofen	50.561806	8.605432	1			~TYPE2:22|~TYPE2:22
+1035651	ALDI SÜD		Carl-Benz-Straße 1	35440	Linden	50.538331	8.655323	1			~TYPE2:22|~TYPE2:22
+1035771	ALDI SÜD	BUT-003	Philipp-Reis-Straße 11	35321	Laubach	50.543794	8.976611	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E11842~TYPE2:22|DE*ALD*E11845~TYPE2:22
+1035775	ALDI SÜD		Budenweisgraben 4	35625	Hüttenberg	50.521639	8.591472	1			~CCS2:100|~CCS2:100|~TYPE2:22
+1035933	ALDI SÜD		Neue Mitte 1	35415	Pohlheim	50.539407	8.732940	1			~TYPE2:22|~TYPE2:22
+1035947	ALDI SÜD		Auf dem langen Furt 11	35452	Heuchelheim	50.602140	8.624010	1			~TYPE2:22|~TYPE2:22
+1036150	Nau		Gisselberger Str. 57	35037	Marburg a.d. Lahn	50.797162	8.761591	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036153	Nau		An der Automeile 20	35394	Gießen	50.573549	8.711977	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1037032	RhönEnergie Fulda GmbH		Universitätsstraße 8	35037	Marburg	50.806276	8.769572	1			~TYPE2:11|~TYPE2:11
+1037924	Numbat GmbH	Straße - Ost - KSNI	Adolph-Kolping-Str. 9	35392	Gießen	50.565002	8.660696	1	24/7	Keine Beschränkung	~CCS2:300
+1037925	Numbat GmbH	Parkplatz Mitte	Adolph-Kolping-Str. 9	35392	Gießen	50.565107	8.660894	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300
+1038007	Bonn & Tatje GmbH & Co. KG		Unterm Bornrain 4	35091	Cölbe	50.853285	8.787524	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038490	mein kleinHOTEL Franchise und Vertriebs GmbH		Nikolauskirchstraße 8	35216	Biedenkopf	50.916949	8.521707	1			~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038492	mein kleinHOTEL Franchise und Vertriebs GmbH		Kottenbachstraße 8	35216	Biedenkopf	50.912540	8.531000	1			~TYPE2:11
+1038870	TEAG Mobil GmbH	Kirchhain - HERKULES	Fuldaer Str. 10-12	35274	Kirchhain	50.820065	8.941181	1	Mo-Sa 08:00-21:00	Nur für Kunden/Besucher	DE*TMO*E11*029*001~CCS2:225|DE*TMO*E11*029*002~CCS2:225|DE*TMO*E11*029*005~CCS2:225|DE*TMO*E11*029*006~CCS2:225
+1038871	TEAG Mobil GmbH	Kirchhain - HERKULES	Fuldaer Str. 10- 12	35274	Kirchhain	50.820000	8.941000	1	Mo-Sa 08:00-21:00	Keine Beschränkung	DE*TMO*E11*029*003~CCS2:225|DE*TMO*E11*029*004~CCS2:225
+1038883	E-Merge Mobility GmbH	VR Bank Gladenbach	Marktstr. 13	35075	Gladenbach	50.768463	8.582114	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1039594	IONITY GmbH		Reinhardshain Nord 0	35305	Grünberg	50.623593	8.894967	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1039598	IONITY GmbH		Reinhardshain Süd 0	35305	Grünberg	50.622672	8.896404	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1040336	EnBW mobility+ AG und Co.KG		Industriestr. 1	35232	Dautphetal	50.858700	8.548600	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1042847	Oberhessische Versorgungsbetriebe AG		Stadthallenweg 12	35315	Homberg	50.725717	8.994668	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042849	Oberhessische Versorgungsbetriebe AG		Lochermühlsweg 24	35428	Langgöns	50.502841	8.664811	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042850	Oberhessische Versorgungsbetriebe AG		Kirchenplatz 0	35423	Lich	50.520238	8.819315	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042853	Oberhessische Versorgungsbetriebe AG		Zum Hardtwald 5	35447	Reiskirchen	50.558150	8.903331	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042863	Oberhessische Versorgungsbetriebe AG		Felix-Klipstein-Weg 21	35321	Laubach	50.548639	8.987396	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042881	Oberhessische Versorgungsbetriebe AG		Renthof 0	35305	Grünberg	50.591396	8.959269	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042884	Oberhessische Versorgungsbetriebe AG		Bahnhofstraße 125	35440	Linden	50.527581	8.661360	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042905	Oberhessische Versorgungsbetriebe AG		Riversplatz 2	35394	Gießen	50.575563	8.710186	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1042909	Oberhessische Versorgungsbetriebe AG		Baumkircher Straße 0	35321	Laubach	50.541129	8.991897	1			~TYPE2:22|~TYPE2:22
+1042913	Oberhessische Versorgungsbetriebe AG		Feldwiesenstr. 2	35305	Grünberg	50.582254	8.960555	1			~TYPE2:22|~TYPE2:22
+1042963	Allego		Rheinfelser Straße 101	35398	Gießen	50.529552	8.607037	1			DEALLEGO000470*1~CCS2:50+CHADEMO:50|DEALLEGO000470*2~TYPE2_TETHERED:43
+1043263	Allego		Gottesrain 2	35325	Mücke	50.645500	8.990120	1			DEALLEGO002508*1~CCS2:300|DEALLEGO002508*2~CCS2:300|DEALLEGO002534*1~CCS2:150|DEALLEGO002534*2~CCS2:150
+1043264	Allego		Gottesrain 2	35325	Mücke	50.645530	8.990180	1			DEALLEGO002509*1~CCS2:300|DEALLEGO002509*2~CCS2:300
+1045667	Regioladen+		Edertalstraße 3	35116	Hatzfeld (Eder)	50.991270	8.546799	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1046269	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Schulstraße 10	35274	Kirchhain	50.821641	8.918991	1			~TYPE2:22|~TYPE2:22
+1046270	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Schwimmbadweg 15	35085	Ebsdorfergrund	50.741033	8.842753	1			~TYPE2:11|~TYPE2:11
+1046271	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Hirtenwiesenstraße 16	35085	Ebsdorfergrund	50.758923	8.855633	1			~TYPE2:11|~TYPE2:11
+1046272	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Rinnweg 7	35043	Marburg-Ginseldorf	50.840281	8.819784	1			~TYPE2:22|~TYPE2:22
+1046273	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Pilgrimstein 17	35037	Marburg	50.810938	8.771381	1			~TYPE2:11
+1046274	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Ockershäuser Allee 30	35039	Marburg	50.803030	8.754625	1			~TYPE2:22|~TYPE2:22
+1046275	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Frauenbergstraße 20	35039	Marburg	50.791042	8.765845	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046276	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Am Krekel 55	35039	Marburg	50.789560	8.756457	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046278	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Neue Kasseler Straße 66	35039	Marburg	50.830969	8.772158	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046280	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Bahnhofstraße 31	35037	Marburg	50.818368	8.774618	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046281	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Am Markt 1	35287	Amöneburg	50.797615	8.923408	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046282	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Kasseler Straße 86	35091	Cölbe	50.848549	8.786986	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046283	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Dreihäuser Straße 12	35085	Ebsdorfergrund	50.728410	8.856677	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046284	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Bahnhofstraße 44	35112	Fronhausen	50.706084	8.698742	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046285	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Oberdorfer Straße 1	35094	Lahntal	50.862161	8.705502	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046286	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Heinrich-Naumann-Weg 2	35102	Lohra	50.739358	8.630571	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11|~TYPE2:22|~TYPE2:22
+1046287	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Marburger Straße 82	35117	Münchhausen	50.962051	8.717700	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046288	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Marktstraße 2	35282	Rauschenberg	50.883346	8.915182	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046289	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Alte Bahnhofstr. 31	35096	Weimar (Lahn)	50.759439	8.736092	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046290	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Bahnhofstraße 17	35083	Wetter	50.904425	8.727628	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046291	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Halsdorfer Straße 56	35288	Wohratal	50.923082	8.944864	1			~TYPE2:11+SCHUKO:11|~TYPE2:11+SCHUKO:11
+1046293	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Liebigstraße 39	35037	Marburg	50.803367	8.763866	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046294	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Neue Kasseler Straße 1	35039	Marburg	50.819589	8.773913	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046295	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Sommerbadstraße 41	35037	Marburg	50.801551	8.773650	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046296	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Savignystraße 2	35037	Marburg	50.810891	8.776297	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046297	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Gießener Straße 13	35043	Marburg	50.772301	8.750775	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046298	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Gießener Straße 13	35043	Marburg	50.772307	8.750712	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046299	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Friedrich-Ebert-Straße 3	35039	Marburg	50.790011	8.769301	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1046300	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Software Center 1	35037	Marburg	50.802920	8.768025	1			~TYPE2:22|~TYPE2:22
+1046301	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Deutschhausstraße 38	35037	Marburg	50.813566	8.775878	1			~TYPE2:22|~TYPE2:22
+1046302	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Am Bettacker 4	35043	Marburg	50.773908	8.814643	1			~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11
+1046304	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Erfurter Straße 2	35039	Marburg	50.792056	8.785203	1			~TYPE2:22|~TYPE2:22
+1046305	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Frankfurter Straße 12	35037	Marburg	50.802342	8.767218	1			~TYPE2:22|~TYPE2:22
+1046306	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Wehrshäuser Straße 2	35041	Marburg	50.812271	8.723201	1			~TYPE2:22|~TYPE2:22
+1046307	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Dreihäuser Straße 17	35085	Ebsdorfergrund	50.727819	8.857323	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046308	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Afföllerstraße 102	35039	Marburg	50.832855	8.768116	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+SCHUKO:22|~TYPE2:22
+1046312	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Afföllerwiesen 3a	35039	Marburg	50.820122	8.770619	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1046321	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Bauerbacher Straße 29	35043	Marburg	50.818370	8.829478	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1047063	TEAG Mobil GmbH	Lahntal SB - Union Siegener Straße	Siegener Str. 8	35094	Lahntal	50.869231	8.740326	1	24/7	Keine Beschränkung	DE*TMO*E11*312*001~TYPE2:22|DE*TMO*E11*312*002~TYPE2:22
+1047064	TEAG Mobil GmbH	Buseck - EDEKA Schützenweg	Schützenweg 58	35418	Buseck	50.607097	8.779819	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*311*001~CCS2:150|DE*TMO*E11*311*002~CCS2:150|DE*TMO*E11*311*003~CCS2:150|DE*TMO*E11*311*004~CCS2:150
+1048366	EnBW mobility+ AG und Co.KG		Im Riedeboden 10	35274	Kirchhain	50.826110	8.928975	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1048605	Lidl		Gießener Str. 55	35305	Grünberg	50.595285	8.947465	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048696	Lidl	1775_Lidl_Gießen_T54-HU1-3419-006	Sudentenlandstr. 2	35396	Gießen	50.594630	8.680460	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1048800	Lidl	5971_Lidl_Gießen_T53-IT1-3516-004	Georg-Elser-Str. 1-3	35394	Gießen	50.588866	8.708929	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50+CHADEMO:50
+1048849	Lidl	3670_Lidl_Laubach_T65-IT1-1222-126	Philipp-Reis-Str. 4	35321	Laubach	50.543607	8.977331	1		Keine Beschränkung	~CCS2:60|~TYPE2_TETHERED:11|~CCS2:60
+1048964	Lidl	5511_Lidl_T65-IT1-0523-057	Niederrheinische Str. 60	35274	Kirchhain	50.824737	8.932151	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1049678	E.ON Drive Infrastructure		Raststätte Reinhardshain Süd 0	35305	Grünberg	50.622192	8.897293	1			~CCS2:50|~CCS2:50
+1049680	E.ON Drive Infrastructure		Raststätte Limes West 0	35415	Pohlheim	50.520850	8.755500	1			~CCS2:50|~CCS2:50
+1051453	MER Germany		Reinhardshain Nord 2	35305	Grünberg	50.623593	8.894967	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1053531	Gemeinde Dautphetal		Gladenbacher Straße 34	35232	Dautphetal	50.854055	8.547792	1			~TYPE2:22|~TYPE2:22|~TYPE2:22+TYPE1:22|~TYPE2:22+TYPE1:22
+1053644	EAM Natur Energie GmbH	Weimar Aldi	Herborner Str. 1b	35096	Weimar (Lahn)	50.762470	8.739391	1	24/7	Keine Beschränkung	~CCS2:225|~CCS2:225|~CCS2:225|~CCS2:225
+1053646	EAM Natur Energie GmbH	Lollar Kaufland	Rothweg 4	35457	Lollar	50.639942	8.700353	1	24/7	Keine Beschränkung	~CCS2:225|~CCS2:225|~CCS2:150|~CCS2:150
+1053648	EAM Natur Energie GmbH		Beim Eberacker 4	35633	Lahnau-Dorlar	50.578382	8.566570	1			~CCS2:300|~CCS2:300
+1054678	Aral Pulse		Sonnenallee 3	35274	Kirchhain	50.822115	8.940814	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1054848	Aral Pulse		Am Krekel 3	35039	Marburg	50.793714	8.760782	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055183	Aral Pulse		Schiffenberger Weg 68	35394	Gießen	50.574159	8.684971	1			~CCS2:150|~CCS2:150
+1055384	Aral Pulse		An der Bleiche 1	35083	Wetter (Hessen)	50.903948	8.722158	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1062810	Polarstern Energie		Stolzemorgen 20	35394	Gießen	50.592701	8.718834	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1063007	E-Merge Mobility GmbH	VR Bank Biedenkopf	Bachgrundstr. 16-18	35216	Biedenkopf	50.910411	8.529006	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1063346	ALDI SÜD	BUT-085-02	Budenweisgraben 4	35625	Hüttenberg	50.522093	8.591989	1	24/7	Keine Beschränkung	DE*ALD*E23098~CCS2:50|DE*ALD*E23099~CCS2:50
+1063449	UNI ELEKTRO Fachgroßhandel GmbH & Co. KG		Gottlieb-Daimler-Straße 7	35440	Linden	50.539550	8.652037	1			~TYPE2:22
+1064953	Aral Pulse		Kirchbergstraße 4	35075	Gladenbach	50.768439	8.585269	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1064960	Aral Pulse		Am Krekel 3	35039	Marburg	50.793819	8.760659	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1065249	Auto-Müller GmbH & Co. KG		Hessenstraße 1	35625	Hüttenberg	50.516810	8.582160	1			~CCS2:75
+1065250	Auto-Müller GmbH & Co. KG		Hessenstraße 1	35625	Hüttenberg	50.516870	8.583600	1			~TYPE2:22
+1065251	Auto-Müller GmbH & Co. KG		Hessenstraße 1	35625	Hüttenberg	50.516900	8.583690	1			~TYPE2:22
+1065252	WUH		Saarlandstr. 1	35398	Giessen	50.560592	8.651170	1			~TYPE2:11
+1067196	EnBW mobility+ AG und Co.KG		Alter Weg 3	35415	Pohlheim	50.538790	8.754375	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1067974	GNAU Rent	MS5-01	Manfred-Stumpf-Str. 5	35287	Amöneburg	50.774260	8.894500	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1067975	GNAU Rent	L22-01	Zum Loh 22	35091	Cölbe	50.853900	8.826590	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1067976	GNAU Rent	K92-01	Kasseler Str. 92a	35091	Cölbe	50.848970	8.787510	1		Keine Beschränkung	~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1067998	Sacher Lasertechnik GmbH		Hedwig-Jahnow-Str. 12	35037	Marburg	50.789931	8.734069	1			~TYPE2:11|~TYPE2:11
+1068163	Jörg Göppert		Hinter dem Dorf 6	35435	Wettenberg	50.624110	8.662318	1			~TYPE2_TETHERED:11
+1068703	Domconus UG		Georg-Philipp-Gail-Str. 9	35394	Giessen	50.584178	8.691988	1			~TYPE2_TETHERED:11
+1069620	stroomr		Hannah-Arendt-Straße 4	35037	Marburg	50.791605	8.739068	1			~TYPE2:22|~TYPE2:22
+1070294	ServiceSTADTwerke GmbH & Co. KG		Senckenbergstraße 1	35390	Gießen	50.587304	8.677636	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070295	ServiceSTADTwerke GmbH & Co. KG		Lahnstraße 31	35398	Gießen	50.584691	8.664023	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070296	ServiceSTADTwerke GmbH & Co. KG		Ringallee 12	35390	Gießen	50.589668	8.684452	1			~TYPE2:22|~TYPE2:22
+1070297	ServiceSTADTwerke GmbH & Co. KG		Ludwigstraße 31	35415	Pohlheim	50.534164	8.715051	1			~TYPE2:22|~TYPE2:22
+1070298	ServiceSTADTwerke GmbH & Co. KG		Friedrichstraße 18	35392	Gießen	50.577511	8.666483	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070299	ServiceSTADTwerke GmbH & Co. KG		Ringallee 20	35398	Gießen	50.587819	8.684167	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070300	ServiceSTADTwerke GmbH & Co. KG		Georg-Elser-Straße 9	35394	Gießen	50.590224	8.707267	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070301	ServiceSTADTwerke GmbH & Co. KG		Riversplatz 7	35394	Gießen	50.574011	8.708742	1			~TYPE2:22|~TYPE2:22
+1070304	ServiceSTADTwerke GmbH & Co. KG	HGS-01 A	Talweg 21	35444	Biebertal	50.613326	8.604309	1	24/7	Keine Beschränkung	DE*ETA*E0001*20022*02~TYPE2:22|DE*ETA*E0001*20022*01~TYPE2:22
+1070305	ServiceSTADTwerke GmbH & Co. KG		Linnpfad 30	35452	Heuchelheim	50.584673	8.618095	1			~TYPE2:22
+1070306	ServiceSTADTwerke GmbH & Co. KG		Oppenröder Straße 1	35463	Fernwald	50.554977	8.782338	1			~TYPE2:22|~TYPE2:22
+1070308	ServiceSTADTwerke GmbH & Co. KG	HGS-02 A	Talweg 3	35444	Biebertal	50.614373	8.604988	1	24/7	Keine Beschränkung	DE*ETA*E0001*20024*01~TYPE2:13.6|DE*ETA*E0001*20024*01~TYPE2:13.6|DE*ETA*E0001*20025*02~TYPE2:13.6|DE*ETA*E0001*20025*01~TYPE2:13.6
+1070309	ServiceSTADTwerke GmbH & Co. KG		Stolzenmorgen 19	35394	Gießen	50.592687	8.721194	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1070310	Oberhessische Versorgungsbetriebe AG		Fröbelstraße 3	35415	Pohlheim	50.536698	8.756011	1			~TYPE2:22|~TYPE2:22
+1070311	ServiceSTADTwerke GmbH & Co. KG		Lincolnstraße 5a	35394	Gießen	50.588577	8.703749	1			~TYPE2:22|~TYPE2:22
+1071142	Steinhoff Energieanlagen GmbH		Jungstr. 3	35232	Dautphetal	50.864793	8.552020	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1071271	Totzek GmbH		Alfred-Bock-Str. 69	35394	Giessen	50.580141	8.692028	1			~TYPE2:22
+1071399	Oberhessische Versorgungsbetriebe AG		Bismarckstr. 17a	35305	Grünberg	50.591787	8.956777	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071812	Berndt Hartmann		Am Leitz-Park 3	35576	Wetzlar	50.552542	8.534854	1			~CCS2:50|~CCS2:50+CHADEMO:50|~CCS2:50|~CCS2:50+CHADEMO:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071814	Berndt Hartmann		Hörnsheimer Eck 0	35578	Wetzlar	50.537708	8.537961	1			~TYPE2:22|~TYPE2:22
+1071815	Berndt Hartmann		Naunheimer Straße 40	35576	Wetzlar	50.576006	8.509735	1			~TYPE2:22|~TYPE2:22
+1071816	Berndt Hartmann		Industriestraße 2	35582	Wetzlar-Dutenhofen	50.561364	8.606656	1			~TYPE2:22|~TYPE2:22
+1071817	Berndt Hartmann		Forsthausstraße 1	35578	Wetzlar	50.538217	8.532160	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071828	Berndt Hartmann		Franziskaner Straße 0	35578	Wetzlar	50.552086	8.501822	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1071830	Berndt Hartmann	enwag Kundenparkplatz	Hermannsteiner Straße 1	35576	Wetzlar	50.566288	8.500617	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~TYPE2:22|~TYPE2:22
+1072049	Bender GmbH & Co. KG		Londorfer Straße 65	35305	Grünberg	50.601211	8.958632	1			~TYPE2:22
+1073099	ServiceSTADTwerke GmbH & Co. KG	Tiefgarage Rathaus Gießen	Ostanlage 45	35390	Gießen	50.584530	8.679500	1	24/7	Keine Beschränkung	DE*ETA*E0012*10001*01~TYPE2:22|DE*ETA*E0012*10002*01~TYPE2:22|DE*ETA*E0012*10003*01~TYPE2:22|DE*ETA*E0012*10004*01~TYPE2:22
+1073102	Oberhessische Versorgungsbetriebe AG		Ruppertsburger Str. 3	35321	Laubach	50.547677	8.956272	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1074553	Gemeinde Wettenberg		Sorguesplatz 2	35435	Wettenberg	50.620283	8.634836	1			~TYPE2:22|~TYPE2:22
+1074554	Gemeinde Wettenberg		Am Bürgerhaus 22	35435	Wettenberg	50.636922	8.671219	1			~TYPE2:22|~TYPE2:22
+1074555	Gemeinde Wettenberg		Volpertstriesch 1	35435	Wettenberg	50.622528	8.655606	1			~TYPE2:22|~TYPE2:22|~CCS2:100|~CCS2:100|~TYPE2:10
+1074557	Gemeinde Wettenberg		Marburger Straße 8a	35435	Wettenberg	50.634230	8.681668	1			~TYPE2:22|~TYPE2:22
+1075305	Volksbank Mittelhessen eG		Schiffenberger Weg 110	35394	Giessen	50.570429	8.693213	1			~TYPE2_TETHERED:22+CHADEMO:22|~CCS2:30+CHADEMO:30
+1075306	Volksbank Mittelhessen eG		Watzenborger Weg 2	35394	Gießen	50.569185	8.694943	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1075308	Volksbank Mittelhessen eG		Watzenborner Weg 2	35394	Gießen	50.569236	8.694970	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1075309	Volksbank Mittelhessen eG		Schiffenberger Weg 110	35394	Gießen	50.570518	8.693161	1			~TYPE2:11
+1076768	cocharge		Am Denkmal 8	35041	Marburg	50.812396	8.689105	1	24/7	Keine Beschränkung	DE*COC*E35041001*01~TYPE2:22
+1077153	Lidl	6362_Lidl_Biedenkopf_T65-IT1-0423-059	Hospitalstr. 76	35216	Biedenkopf	50.905611	8.536060	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1077788	Lidl	5739_Lidl_Wetzlar_	Hörnsheimer Eck 1-3	35578	Wetzlar	50.538590	8.537510	1		Nur für Kunden/Besucher	~TYPE2:11|~CCS2:60|~CCS2:60
+1077833	Lidl	3567_Lidl_Wetzlar_T65-IT1-0323-065	Carolinenhütte 15	35576	Wetzlar	50.567870	8.503391	1		Nur für Kunden/Besucher	~TYPE2:11|~CCS2:60|~CCS2:60
+1078277	SAT-World GmbH	4x DC Schnellladepunkte HYC 150/ HYC 50	Konrad-Zuse-Str. 1	35440	Linden	50.535649	8.657558	1	24/7	Keine Beschränkung	CH*ECUESB46GVLX3CZ8JYX2JMXECGTYK3~CCS2:150|CH*ECUE5CBPFXZDFKKTWNNNM9D99L49EW~CCS2:150|CH*ECUEBHMDNRNMUJFSZ4E7DW3HJKTHJW~CCS2:50|CH*ECUET3F925F96ZSXWUNJFKM2PE7W43~CCS2:50
+1080620	Atlantica		Forstweg 6	35112	Fronhausen	50.695452	8.723719	1			~TYPE2_TETHERED:11|~TYPE2:11
+1080829	Magistrat der Stadt Amöneburg		Ledergasse 6	35287	Amöneburg -Mardorf	50.763814	8.915016	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1080830	Magistrat der Stadt Amöneburg		Hauptstraße 15	35287	Amöneburg-Erfurtshausen	50.747028	8.939868	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1080831	Magistrat der Stadt Amöneburg		Tülpenstraße 1	35287	Amöneburg-Rüdigheim	50.781194	8.952042	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1080832	Magistrat der Stadt Amöneburg		Am Rulfbach 8	35287	Amöneburg-Roßdorf	50.768285	8.895172	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1080918	Autohaus Michel GmbH & Co KG		Zeppelinstraße 3	35394	Gießen	50.592763	8.714433	1			~CCS2:50|~CCS2:50|~TYPE2_TETHERED:22|~CCS2:50|~CCS2:50|~TYPE2_TETHERED:22
+1080920	Autohaus Michel GmbH & Co KG		An der Automeile 14	35394	Gießen	50.573012	8.710670	1			~CCS2:25|~CCS2:25
+1080921	Autohaus Michel GmbH & Co KG		An der Automeile 14	35394	Gießen	50.573035	8.710966	1			~TYPE2:22|~CCS2:50|~CCS2:50
+1080922	Autohaus Michel GmbH & Co KG		Grünberger Straße 49-63	35394	Gießen	50.584754	8.689057	1			~TYPE2_TETHERED:22|~CCS2:43
+1081011	Stark Energy GmbH	Messeplatz, Marburg	Afföllerstr. 102	35039	Marburg	50.832780	8.768087	1	24/7	Keine Beschränkung	DE*ARK*E10045*001~CCS2:300|DE*ARK*E10045*002~CCS2:300|DE*ARK*E10046*001~CCS2:150|DE*ARK*E10046*002~CCS2:150
+1084199	Golf-Park Winnerod Betriebsgesellschaft mbH		Parkstrasse 22	35447	Reiskirchen	50.607240	8.864950	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1084226	Richter+Frenzel GmbH + Co. KG		Gottlieb-Daimler-Str. 8	35398	Gießen	50.583964	8.648344	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1084701	Andreas Zampedri		Am Bornstück 1B	35582	Wetzlar	50.555081	8.591438	1			~TYPE2:11|~TYPE2:11
+1084934	Benjamin Sorg		Begonienweg 16	35447	Reiskirchen	50.592852	8.824013	1			~TYPE2_TETHERED:11
+1084958	Bernhard Christ		Kastanenweg 25	35315	Homberg (Ohm)	50.727800	8.996920	1			~TYPE2_TETHERED:11
+1085150	Christina Sonneborn		Neuer Weg 14	35469	Allendorf (Lumda)	50.683323	8.826840	1			~TYPE2_TETHERED:11
+1085383	Dietmar Wassermann		Im Paradies 1	35041	Marburg	50.835689	8.753185	1			~TYPE2:11
+1085483	EFIEBER		Hachborner Straße 5	35085	Ebsdorfergrund	50.720647	8.791517	1			~TYPE2_TETHERED:3
+1085659	Flughafenzubringer Richter		Zwester-Ohm-Straße 6	35112	Fronhausen	50.708323	8.743034	1			~TYPE2:11
+1086243	Jitka Kirsch		Kieferstädteler Straße 6	35440	Linden	50.534908	8.653609	1			~TYPE2_TETHERED:11
+1086490	Klaus Lepper		Am Bergelchen 5	35633	Lahnau	50.589520	8.545376	1			~TYPE2_TETHERED:11
+1086659	Manuel Iozzi		Auf der Windhecke 8	35447	Reiskirchen	50.618117	8.850917	1			~TYPE2:22
+1086919	Matthias Kaus		Mengesstr. 32d	35423	Lich	50.500366	8.829589	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22
+1087073	Mike Görnert		Talstraße 49	35625	Hüttenberg	50.517448	8.585071	1			~TYPE2:11
+1087202	Oliver Bauer		Auf der Schanz 23	35274	Kirchhain	50.814219	8.868558	1			~TYPE2_TETHERED:11
+1087612	Rüdiger Seip		Weimarer Str. 8	35083	Wetter (Hessen)	50.894082	8.727468	1			~TYPE2:11
+1087688	Sebastian Härtl-Hahn		Brunnenweg 28	35274	Kirchhain	50.820695	8.921290	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087706	Sebastian Reuter		Am Schreinersgarten 22	35075	Gladenbach	50.775012	8.583306	1			~TYPE2_TETHERED:11
+1087709	Sebastian Schober		Am Mühlacker 18	35423	Lich	50.516449	8.808665	1			~TYPE2_TETHERED:11
+1088650	EnBW mobility+ AG und Co.KG		Rodheimer Str. 107	35452	Heuchelheim	50.598340	8.628260	1		Keine Beschränkung	~CCS2:100|~CCS2:100|~CCS2:100|~CCS2:100
+1090759	Lenz Enerserve GmbH		Zu den Sandbeeten 5	35043	Marburg	50.780385	8.762758	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1090760	Lenz Enerserve GmbH		Birkenweg 0	35083	Wetter	50.905444	8.733870	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090761	Lenz Enerserve GmbH		Bahnhofstr. 3	35083	Wetter	50.904353	8.724902	1			~TYPE2:22|~TYPE2:22
+1091858	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Münchhausen - Am Bahnhof	Am Bahnhof 1	35117	Münchhausen	50.963780	8.717158	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091866	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Rauschenberg - Bahnhofstraße 10a	Bahnhofstr. 10a	35282	Rauschenberg	50.881428	8.918297	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091867	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Marburg - Hannah-Arendt-Straße 3-7	Hannah-Arendt-Str. 3-7	35037	Marburg	50.817011	8.750628	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091869	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Weimar-Niederwalgern - Bahnhofstraße 15	Bahnhofstr. 15	35096	Weimar (Lahn)	50.736103	8.707126	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091886	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Marburg - Ketzerbach 63	Ketzerbach 63	35037	Marburg	50.817311	8.764833	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091887	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Oberstadt Marburg	Barfüßerstr. 1	35037	Marburg	50.807910	8.766928	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091891	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Bürgerhaus Roth	Wolfshäuser Str. 1	35096	Weimar (Lahn)	50.725491	8.725102	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091895	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Cölbe-Bürgeln - Ohmtalstraße 27	Ohmtalstr. 27	35091	Cölbe	50.852569	8.822578	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091907	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Parkplatz DGH Simshausen	Perbaler Str. 4	35117	Münchhausen	50.940965	8.707759	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091910	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Herborner Straße 36 - Niederweimar	Herborner Str. 36	35096	Weimar (Lahn)	50.759378	8.732302	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091911	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Jahnstraße 10 - Lohra	Jahnstr. 10	35102	Lohra	50.738760	8.630102	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091913	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Mengelsgasse 6 - Marburg	Mengelsgasse 6	35041	Marburg	50.836770	8.759355	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1091915	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Lohweg 12 - Bracht	Lohweg 12	35282	Rauschenberg	50.917294	8.853435	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092060	E-Merge Mobility GmbH	Gemünden Tankstelle	Grüsener Str. 2	35285	Gemünden (Wohra)	50.979010	8.970150	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1093107	Etanke Lich		Gottlieb-Daimler-Str. 3	35423	Lich	50.511127	8.803831	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1093193	Robert Peil GmbH & Co. KG		Am Steinernen Haus 0	35085	Ebsdorf	50.734454	8.812116	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096491	Auto Velte Service GmbH&Co.KG		Marburger Str. 30	35216	Biedenkopf	50.881908	8.545092	1			~TYPE2:11|~TYPE2:11
+1096566	Autohaus Boese und Born GmbH & Co KG		Stephan-Niderehe-Straße 0	35037	Marburg	50.792864	8.751364	1			~CCS2:22|~TYPE2:11
+1096596	Autohaus Denzel GmbH		Halsdorfer Str. 21	35288	Wohratal	50.928760	8.946834	1			~CCS2:22|~TYPE2:11
+1096597	Autohaus Denzel GmbH		Halsdorfer Str. 21	35288	Wohratal	50.928745	8.946825	1			~TYPE2:11|~CCS2:22
+1096725	Autohaus Hoch GmbH & Co. KG		Bahnhofstraße 0	35075	Gladenbach	50.766100	8.583046	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1096806	Autohaus Kratz		Gottesrain 1	35325	Mücke	50.647688	8.990923	1			~CCS2:22|~TYPE2:11
+1097017	Autohaus Schmidt OHG		Gießener Str. 28	35423	Lich	50.523210	8.816930	1			~CCS2:22|~TYPE2:11
+1097036	Autohaus Schwalm		Niederrheinische Str. 96	35274	Kirchhain	50.824485	8.941289	1			~TYPE2:22|~CCS2:50
+1097170	Auto-Häuser GmbH & Co.KG		Gießener Str. 8	35415	Pohlheim	50.533564	8.708259	1			~CCS2:22|~TYPE2:11
+1097827	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Parkplatz Georg-Gassmann-Stadion	Leopold-Lucas-Str. 0	35037	Marburg	50.798389	8.752132	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1097969	TEAG Mobil GmbH	Reiskirchen - EDEKA	Carl-Benz-Str. 1	35447	Reiskirchen	50.598132	8.822718	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*155*001~CCS2:225|DE*TMO*E11*155*002~CCS2:225|DE*TMO*E11*155*003~CCS2:225|DE*TMO*E11*155*004~CCS2:225|DE*TMO*E11*155*007~CCS2:300|DE*TMO*E11*155*008~CCS2:300|DE*TMO*E11*155*009~CCS2:300|DE*TMO*E11*155*010~CCS2:300|DE*TMO*E11*155*003~CCS2:225|DE*TMO*E11*155*004~CCS2:225
+1097973	TEAG Mobil GmbH	Lich - EDEKA	Carl-Benz-Ring 6	35423	Lich	50.506687	8.829683	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*297*002~CCS2:150|DE*TMO*E11*297*001~CCS2:150|DE*TMO*E11*297*003~CCS2:150|DE*TMO*E11*297*004~CCS2:150
+1100233	Tesla Germany GmbH		Am Leitz-Park 4	29682	Wetzlar	50.552856	8.532806	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1100906	Tesla Germany GmbH		Gottesrain 2	35325	Mücke	50.645428	8.989921	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102211	Tesla Germany GmbH		Bänningerstraße 3	35447	Reiskirchen	50.595683	8.818770	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102275	Hotel Carle		Ronhäuser Straße 8	35043	Marburg	50.775400	8.767020	1			~TYPE2:22
+1102852	EnBW mobility+ AG und Co.KG		Industriestr. 2	35582	Wetzlar	50.563000	8.609100	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1103114	ServiceSTADTwerke GmbH & Co. KG	Zulassungsstelle des Landkreis Gießen	Bachweg 9	35398	Gießen	50.568359	8.647713	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103117	ServiceSTADTwerke GmbH & Co. KG	Betriebshof SWG Hof I + II	Lahnstr. 31	35398	Gießen	50.583865	8.664483	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103118	ServiceSTADTwerke GmbH & Co. KG	Betriebshof SWG Hof III + IV	Lahnstr. 31	35398	Gießen	50.583765	8.664415	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1103125	Q-Park Recharge Germany GmbH	Q- Park Gießen Westanlage	Westanlage 44	35390	Gießen	50.585690	8.668310	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1103237	Circle K Deutschland	Reiskirchen	Bänningerstr. 3	35447	Reiskirchen	50.596155	8.818108	1	24/7	Keine Beschränkung	23BZ4122B~CCS2:300|23BZ4122B~CCS2:300|23BZ4124B~CCS2:300|23BZ4124B~CCS2:300+CHADEMO:100
+1103449	ServiceSTADTwerke GmbH & Co. KG	Zulassungsstelle des Landkreis Gießen	Bachweg 9	35398	Gießen	50.568460	8.647554	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1103592	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Frankfurter Str. 56	35037	Marburg	50.799439	8.763104	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1104602	VitaTec Haustechnik		Körnerstr. 35	35039	Marburg	50.798946	8.775605	1	24/7	Keine Beschränkung	~TYPE2:22
+1105913	Henning Wiefelspütz		Frankenstraße 112	35578	Wetzlar	50.541580	8.511150	1			~TYPE2:22
+1106582	E.ON Drive GmbH		Limes West 0	35415	Pohlheim	50.520453	8.755290	1			~TYPE2_TETHERED:50|~CCS2:43+CHADEMO:43
+1107566	E.ON Drive GmbH		Holzmühler Weg 76	35457	Lollar	50.648402	8.712919	1			~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22
+1107687	E.ON Drive GmbH		Fellingshäuser Str. 64	35444	Biebertal	50.625421	8.595036	1			~TYPE2:22|~TYPE2:22
+1110083	SWB Stadtwerke Biedenkopf GmbH		Mühlweg 16A	35216	Biedenkopf	50.909790	8.527480	1			~TYPE2:22|~TYPE2:22
+1110084	SWB Stadtwerke Biedenkopf GmbH		Hainstraße 63	35216	Biedenkopf	50.912570	8.525280	1			~TYPE2:22|~TYPE2:22
+1110085	SWB Stadtwerke Biedenkopf GmbH		Marktplatz 2-3	35216	Biedenkopf	50.911610	8.530570	1			~TYPE2:22|~TYPE2:22
+1110086	SWB Stadtwerke Biedenkopf GmbH		Am Freibad 7A	35216	Biedenkopf	50.913430	8.521350	1			~TYPE2:22|~TYPE2:22
+1110184	ASW Wahl GmbH & Co. KG		Gottlieb-Daimler-Str. 1	35398	Gießen	50.585781	8.650352	1			~TYPE2:22|~TYPE2:22
+1112703	Vitos Gießen-Marburg gGmbH		Licher Straße 106	35394	Gießen	50.579609	8.700820	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1112705	Vitos Gießen-Marburg gGmbH		Licher Straße 106	35394	Gießen	50.578444	8.701054	1			~TYPE2:11|~TYPE2:11
+1112706	Vitos Gießen-Marburg gGmbH		Licher Straße 106	35394	Gießen	50.578470	8.701076	1			~TYPE2:11|~TYPE2:11
+1113421	Atelmo GmbH		Konrad-Zuse-Str. 3	35440	Linden	50.535937	8.657865	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113942	Auto-Häuser GmbH & Co. KG		Rudolph-Diesel-Straße 18	35415	Pohlheim	50.542225	8.705108	1	Mo-Fr 07:30-17:00, Sa 09:00-12:30	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1114010	Stadt Rauschenberg, Körperschaft des öffentlichen Rechts		Am Sonnenrain 24	35282	Rauschenberg-Albshausen	50.911237	8.911703	1			~TYPE2:11|~TYPE2:11
+1114179	Michael Bastian		Thomas-Mann-Str. 12	35075	Gladenbach	50.755211	8.533948	1			~TYPE2_TETHERED:11
+1115360	Tesla Germany GmbH		Grünberger Str. 152	35394	Gießen	50.588151	8.707812	1	24/7	Keine Beschränkung	DE*TSL*E0NSB6Y~CCS2:250|DE*TSL*E0NSB6Z~CCS2:250|DE*TSL*E0NSB70~CCS2:250|DE*TSL*E0NSB71~CCS2:250|DE*TSL*E0NSB72~CCS2:250|DE*TSL*E0NSB73~CCS2:250|DE*TSL*E0NSB74~CCS2:250|DE*TSL*E0NSB75~CCS2:250
+1115724	Rink GmbH & Co.KG	Biedenkopf	Georg-Kramer-Str. 14	35216	Biedenkopf	50.901050	8.534810	1	Mo-Do 07:00-17:00, Fr 07:00-14:00	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1115743	Rink GmbH & Co.KG	Wetzlar Süd	Sportparkstr. 13	35578	Wetzlar	50.553500	8.529560	1	24/7	Keine Beschränkung	~TYPE2:22
+1115906	Village UG		Hauptstr. 38a	35094	Lahntal bei Marburg	50.865926	8.752355	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1117624	Oberhessische Versorgungsbetriebe AG		Gutenbergring 13	35463	Fernwald	50.544646	8.777563	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118711	ServiceSTADTwerke GmbH & Co. KG	UKGM Besucherparkhaus E -2 / WB-02	Gaffkystr. 9	35392	Gießen	50.573430	8.665780	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118712	ServiceSTADTwerke GmbH & Co. KG	UKGM Besucherparkhaus E -2 / WB-01	Gaffkystr. 9	35392	Gießen	50.573390	8.665730	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118713	ServiceSTADTwerke GmbH & Co. KG	UKGM Besucherparkhaus E -2 / WB-03	Gaffkystr. 9	35392	Gießen	50.573450	8.665800	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1118741	SI Energy		Oberlachweg 14-16	35394	Gießen	50.596900	8.713550	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119094	Berndt Hartmann	Parkhaus Domblick	Karl-Kellner-Ring 50	35576	Wetzlar	50.559975	8.501265	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1120018	TEAG Mobil GmbH	Lahntal - Sandhute - EDEKA	Sandhute 1	35094	Lahntal	50.870251	8.744183	1	24/7	Keine Beschränkung	DE*TMO*E11*431*001~CCS2:150|DE*TMO*E11*431*002~CCS2:150
+1120019	TEAG Mobil GmbH	Lahntal - Sandhute - EDEKA	Sandhute 1	35094	Lahntal	50.870237	8.744162	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*431*003~CCS2:150|DE*TMO*E11*431*004~CCS2:150
+1120738	ServiceSTADTwerke GmbH & Co. KG	HAUS Zur Lutherlinde 40 li	Zur Lutherlinde 40	35415	Pohlheim	50.544969	8.744151	1	24/7	Keine Beschränkung	DE*ETA*E0001*20026*01~TYPE2:18.2|DE*ETA*E0001*20026*02~TYPE2:18.2|DE*ETA*E0001*20027*01~TYPE2:18.2|DE*ETA*E0001*20027*02~TYPE2:18.2
+1120932	IONITY GmbH	Reinhardshain Nord	Autobahnraststätte 0	35305	Grünberg	50.622937	8.894846	1	24/7	Nur für Kunden/Besucher	DE*IOY*E205201~CCS2:350|DE*IOY*E205202~CCS2:350
+1120935	IONITY GmbH	Reinhardshain Süd	Autobahnraststätte 0	35305	Grünberg	50.622096	8.897196	1	24/7	Nur für Kunden/Besucher	DE*IOY*E205301~CCS2:350|DE*IOY*E205302~CCS2:350
+1121181	Fastned Deutschland GmbH & Co. KG		Ferniestr. 4	35394	Gießen	50.571510	8.689990	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1121274	ALDI SÜD	BUT-062	Siemensstr. 4-6	35447	Reiskirchen	50.598740	8.824040	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23773~CCS2:50|DE*ALD*E23772~CCS2:50
+1121391	BRÖTJE HANDEL HESSEN	897 BHH Marburg	Im Rudert 7a	35043	Marburg	50.785690	8.760920	1	Mo-Do 07:00-18:00, Fr 07:00-13:00, Sa 08:00-13:00	Nur für Kunden/Besucher	DE*ONE*E6HLL~TYPE2:11|DE*ONE*ECK9H~TYPE2:11|DE*ONE*E4DF3~TYPE2:11|DE*ONE*E752Q~TYPE2:11|DE*ONE*EJ6GP~TYPE2:11|DE*ONE*EY34V~TYPE2:11
+1121812	ServiceSTADTwerke GmbH & Co. KG	Ev. Kirche HN	Reichenberger Str. 10	35396	Gießen	50.595755	8.677926	1	24/7	Keine Beschränkung	DE*ETA*E0003*20003*01~TYPE2:17.2|DE*ETA*E0003*20003*02~TYPE2:17.2
+1125792	ServiceSTADTwerke GmbH & Co. KG	HGS-01 B	Talweg 21	35444	Biebertal	50.613383	8.604326	1	24/7	Keine Beschränkung	DE*ETAE0001*20023*02~TYPE2:22|DE*ETAE0001*20023*01~TYPE2:22
+1125914	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Feuerwehr Ausbildungszentrum Marburg-Cappel	Lintzingsweg 1	35043	Marburg	50.783191	8.763951	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1126376	ServiceSTADTwerke GmbH & Co. KG	Marshallsiedlung	Marshallstr. 15	35394	Gießen	50.587390	8.717367	1	24/7	Keine Beschränkung	DE*ETA*E0010*20001*01~TYPE2:22|DE*ETA*E0010*20001*02~TYPE2:22
+1127388	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Bürgerhaus Elnhausen	St.-Florian-Str. 15	35041	Marburg	50.812937	8.695087	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128245	CUBOS Service GmbH	2894	Adolph-Kolping-Str. 9	35392	Gießen	50.565028	8.660698	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235|~CCS2:235|~CCS2:235
+1128394	EAM Natur Energie GmbH	Kirchhain Festplatz	Marktstr. 1	35274	Kirchhain	50.819453	8.922918	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128398	EAM Natur Energie GmbH	Lahnau, Rathaus	Rathausplatz 1	35633	Lahnau	50.576991	8.566414	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128815	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Bürgerhaus Marburg-Michelbach	Am Lorch 4	35041	Marburg	50.847261	8.718868	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128816	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG		Friedrich-Ebert-Str. 27	35039	Marburg	50.788508	8.774571	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1129001	CUBOS Service GmbH	2044	Porstendorfer Str. 3	35460	Staufenberg	50.657695	8.735657	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1129541	Helmut Wißner	Parkplatz	Nordecker Str. 35	35469	Allendorf (Lumda)	50.678810	8.823970	1	24/7	Keine Beschränkung	~TYPE2:11
+1130297	EnBW mobility+ AG und Co.KG		Im Dollenstück 2	35625	Hüttenberg	50.521852	8.590140	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1130757	EAM Natur Energie GmbH	Kirchhain Bahnhof	Am Bahnhof 11	35274	Kirchhain	50.823457	8.922351	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22
+1132327	E.ON Drive GmbH		Ludwig-Rinn-Str. 62-64	35452	Heuchelheim a. d. Lahn	50.577521	8.635180	1	24/7	Keine Beschränkung	DE*EDR*E32000146*1~CCS2:400|DE*EDR*E32000146*2~CCS2:400
+1132422	we2charge		An der Wetter 16	35321	Laubach	50.538621	8.997480	1	24/7	Keine Beschränkung	DE*W2C*E4DQC~TYPE2:11
+1132968	TEAG Mobil GmbH	Ebsdorfergrund - EDEKA	Am Energiepark 0	35085	Ebsdorfergrund	50.748396	8.834423	1	24/7	Keine Beschränkung	DE*TMO*E11*423*001~CCS2:150|DE*TMO*E11*423*002~CCS2:150|DE*TMO*E11*423*003~CCS2:150|DE*TMO*E11*423*004~CCS2:150
+1132970	TEAG Mobil GmbH	Ebsdorfergrund - EDEKA	Am Energiepark 0	35085	Ebsdorfergrund	50.748269	8.834413	1	24/7	Keine Beschränkung	DE*TMO*E11*423*005~TYPE2:22|DE*TMO*E11*423*006~TYPE2:22
+1133923	EAM Natur Energie GmbH	Lollar Deichmann	Rothweg 3	35457	Lollar	50.639518	8.703995	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1134492	TEAG Mobil GmbH	Biedenkopf - EDEKA	Georg-Kramer-Str. 12	35216	Biedenkopf	50.901559	8.535639	1	24/7	Keine Beschränkung	DE*TMO*E11*288*001~CCS2:150|DE*TMO*E11*288*002~CCS2:150|DE*TMO*E11*288*003~CCS2:150|DE*TMO*E11*288*004~CCS2:150
+1136507	TEAG Mobil GmbH	Herkules Marburg	Temmlerstr. 11	35039	Marburg	50.788793	8.764808	1	24/7	Keine Beschränkung	DE*TMO*E11*468*001~CCS2:150|DE*TMO*E11*468*002~CCS2:150|DE*TMO*E11*468*003~CCS2:150|DE*TMO*E11*468*004~CCS2:150
+1136509	TEAG Mobil GmbH	EDEKA Marburg	Alte Kasseler Str. 27b	35039	Marburg	50.824238	8.774427	1	24/7	Keine Beschränkung	DE*TMO*E11*467*001~CCS2:150|DE*TMO*E11*467*002~CCS2:150|DE*TMO*E11*467*003~CCS2:150|DE*TMO*E11*467*004~CCS2:150
+1136623	Oberhessische Versorgungsbetriebe AG		Im Hollerfeld 4	35325	Mücke	50.636516	8.986429	1	24/7	Keine Beschränkung	DE*OVA*E00299~TYPE2:22|DE*OVA*E00300~TYPE2:22
+1138906	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Parkplatz Kindergarten Rauischolzhausen	Kreuzweg 2	35085	Ebsdorfergrund	50.754913	8.886155	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1139010	MER Germany	Gladenbach (DE*MER*E018103)	Jakob-Heuser-Str. 7a	35075	Gladenbach	50.757211	8.577979	1	24/7	Keine Beschränkung	DE*MER*E018103*01~CCS2:400|DE*MER*E018103*02~CCS2:400|DE*MER*E018104*01~CCS2:400|DE*MER*E018104*02~CCS2:400
+1139031	ALDI Nord		Frankfurter Str. 7	35274	Kirchhain	50.826300	8.915600	1	24/7	Keine Beschränkung	~CCS2:125|~CCS2:125|~TYPE2:22
+1140896	GreenVesting GmbH & Co. KG	Ahrens, Parkhaus Marburg	Wilhelmstr. 7	35037	Marburg	50.806138	8.767721	1	Mo-Sa 07:00-20:00	Keine Beschränkung	DE*GVK*EO0003*01~TYPE2:22
+1141616	TEAG Mobil GmbH	Buseck - EDEKA Schwarztorweg	Schwarztorweg 6	35418	Buseck	50.621461	8.749753	1		Keine Beschränkung	DE*TMO*E11*348*001~CCS2:225|DE*TMO*E11*348*002~CCS2:225
+1141618	TEAG Mobil GmbH	Biebertal-Burgblick - Edeka	Fellingshäuser Str. 64	35444	Biebertal	50.624339	8.595609	1		Keine Beschränkung	DE*TMO*E11*347*001~CCS2:50|DE*TMO*E11*347*002~CCS2:50
+1143616	Aral Pulse		Am Augarten 1	35435	Wettenberg	50.611557	8.647531	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1143697	ECE Energy GmbH & Co. KG	Forum Wetzlar	Am Forum 1	35576	Wetzlar	50.564440	8.507390	1	Mo-Sa 06:30-22:30	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1143734	GETEC mobility solutions GmbH	Lich_Carl-Benz-Ring	Carl-Benz-Ring 2	35423	Lich	50.507143	8.828110	1		Keine Beschränkung	DE*GMS*251038~TYPE2:22|DE*GMS*251039~TYPE2:22
+1143870	TEAG Mobil GmbH	Grünberg - HERKULES	Carl-Benz-Str. 13	35305	Grünberg	50.604435	8.958440	1	24/7	Keine Beschränkung	DE*TMO*E11*197*001~CCS2:150|DE*TMO*E11*197*002~CCS2:150
+1143872	TEAG Mobil GmbH	Allendorf - EDEKA	Tulpenweg 8	35469	Allendorf (Lumda)	50.675097	8.811818	1	24/7	Keine Beschränkung	DE*TMO*E11*198*001~CCS2:150|DE*TMO*E11*198*002~CCS2:150
+1144135	CARDTANK24 GmbH	Cardtank24 GmbH Wetterfeld	Kirchgasse 1	35321	Laubach	50.548814	8.955213	1	24/7	Keine Beschränkung	DE*ONE*E17SH~CCS2:49.9|DE*ONE*EEJ5Q~CCS2:49.9
+1144566	Hotel Carle		Ronhäuser Str. 8	35043	Marburg	50.775502	8.766933	1	24/7	Keine Beschränkung	DE*HC7*E001*0001~TYPE2:22|DE*HC7*E001*0002~TYPE2:22
+1144624	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Ernst-Lemmer-Straße 1 Marburg-Wehrda	Ernst-Lemmer-Str. 1	35041	Marburg	50.844290	8.752579	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1144626	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Fontanestraße 46	Fontanestr. 46	35039	Marburg	50.799332	8.782005	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144629	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Willy-Mock-Straße 10	Willy-Mock-Str. 10	35037	Marburg	50.795253	8.755963	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144633	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Ortenbergplatz	Ortenbergplatz 0	35039	Marburg	50.817031	8.781370	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144637	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Sperberweg	Sperberweg 0	35043	Marburg	50.775600	8.773774	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144639	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Rotenberg 56	Rotenberg 56	35037	Marburg	50.806998	8.747272	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1144644	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Am Steinbrunnen	Am Steinbrunnen 18	35085	Ebsdorfergrund	50.734963	8.812315	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1144703	EWE Go GmbH	EWE_7673_1A	Tannenweg 97	35440	Linden	50.539115	8.672154	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1144708	EWE Go GmbH	McD_1879_1A	Wehrenbold-Str. 3	35075	Gladenbach	50.756588	8.574116	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1145032	GETEC mobility solutions GmbH	BIZ_E_MOBILITY	Freiherr-vom-Stein-Str. 1	35447	Reiskirchen	50.597781	8.823746	1		Keine Beschränkung	DE*GCX*EPARDE0882S003*1~CCS2:150|DE*GCX*EPARDE0882S003*2~CCS2:150|DE*GCX*EPARDE0882S004*1~CCS2:150|DE*GCX*EPARDE0882S004*2~CCS2:150
+1145074	Oberhessische Versorgungsbetriebe AG		Frankfurter Str. 171	35392	Gießen	50.569025	8.655197	1		Keine Beschränkung	DE*OVA*E00217~CCS2:70|DE*OVA*E00218~CCS2:70
+1145781	EAM Natur Energie GmbH	Kirchhain HYC Festplatz 2	Drosselweg 1a	35274	Kirchhain	50.820289	8.923238	1	24/7	Keine Beschränkung	DE*GUC*E*EAM*0878~CCS2:300|DE*GUC*E*EAM*0879~CCS2:300|DE*GUC*E*EAM*0870~CCS2:300|DE*GUC*E*EAM*0871~CCS2:300
+1145843	EAM Natur Energie GmbH	Burgholz Turmstraße	Turmstr. 11	35274	Kirchhain	50.871736	8.947245	1	24/7	Keine Beschränkung	DE*GUC*E*EAM*1046~TYPE2:22|DE*GUC*E*EAM*1047~TYPE2:22
+1148213	TEAG Mobil GmbH	Burgwald - EDEKA	Marburger Str. 35	35099	Burgwald	50.978771	8.730539	1		Keine Beschränkung	DE*TMO*E11*401*001~CCS2:50|DE*TMO*E11*401*002~CCS2:50
+1150159	Stadtwerke Frankenberg GmbH		Hainstr. 3	35285	Gemünden (Wohra)	50.972778	8.969037	1	24/7	Keine Beschränkung	DE*FKB*E411308*001~TYPE2:22|DE*FKB*E411308*002~TYPE2:22
+1150161	Stadtwerke Frankenberg GmbH		Huteweg 2	35119	Rosenthal	50.971712	8.868745	1	24/7	Keine Beschränkung	DE*FKB*E411310*001~TYPE2:22|DE*FKB*E411310*002~TYPE2:22
+1151823	Wirelane GmbH		Formerstraße 46	35576	Wetzlar	50.571806	8.501111	1		Keine Beschränkung	DE*WLN*EP001301~TYPE2:22|DE*WLN*EP001302~TYPE2:22
+1153161	TEAG Mobil GmbH	Marburg - EDEKA Stoda	Am Richtsberg 70	35039	Marburg	50.793800	8.785885	1	24/7	Keine Beschränkung	DE*TMO*E11*345*001~CCS2:50|DE*TMO*E11*345*002~CCS2:50|DE*TMO*E11*345*003~CCS2:50|DE*TMO*E11*345*004~CCS2:50
+1153436	TEAG Mobil GmbH	Lollar - EDEKA	Am Alten Bahnhof 10	35457	Lollar	50.650590	8.704847	1		Keine Beschränkung	DE*TMO*E11*472*001~CCS2:50|DE*TMO*E11*472*002~CCS2:50
+1153810	Erneuerbare für Marburg-Biedenkopf GmbH & Co. KG	Im Schwarzenborn 2	Im Schwarzenborn 2	35041	Marburg	50.839779	8.767681	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1156877	Wirelane GmbH		Gottlieb-Daimler-Straße 8	35440	Linden	50.538105	8.650741	1		Keine Beschränkung	DE*WLN*ES001557~TYPE2:11|DE*WLN*ES001558~TYPE2:11|DE*WLN*ES001559~TYPE2:11|DE*WLN*ES001560~TYPE2:11
+1157187	Robert Bosch GmbH		Justus-Kilian-Straße 1	35457	Lollar	50.649800	8.701980	1		Nur für Kunden/Besucher	DE*811*E32488*13415~TYPE2:22|DE*811*E32488*13416~TYPE2:22
+1157955	E.ON Drive Infrastructure		Niederrheinische Str. 56	35274	Kirchhain	50.824781	8.930773	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:50|~CCS2:50
+1158152	POTR	Plenitude On The Road Ladestation	Siemensstr. 1	35460	Staufenberg	50.654860	8.733130	1	24/7	Keine Beschränkung	DE*BEC*H001483-1~CCS2:300|DE*BEC*H001483-2 DE*BEC*H001483-3~CHADEMO:50+CCS2:300|DE*BEC*H001502-1~CCS2:300|DE*BEC*H001502-2 DE*BEC*H001502-3~CHADEMO:50+CCS2:300
+1159096	ServiceSTADTwerke GmbH & Co. KG	Sparkasse Krofd.Str. 70	Krofdorfer Str. 70	35398	Gießen	50.593652	8.661931	1	24/7	Keine Beschränkung	DE*ETA*E0003*20004*01~TYPE2:22|DE*ETA*E0003*20004*02~TYPE2:22|DE*ETA*E0003*20005*01~TYPE2:22|DE*ETA*E0003*20005*02~TYPE2:22
+1159703	E.ON Drive GmbH	D941	Südanlage 26	35390	Gießen	50.581821	8.671679	1	24/7	Keine Beschränkung	DE*EDR*E22006640*1~TYPE2:11|DE*EDR*E22006649*1~TYPE2:11|DE*EDR*E22006653*1~TYPE2:11|DE*EDR*E22006661*1~TYPE2:11|DE*EDR*E22006666*1~TYPE2:11|DE*EDR*E22006667*1~TYPE2:11|DE*EDR*E22006676*1~TYPE2:11|DE*EDR*E22006677*1~TYPE2:11|DE*EDR*E22006637*1~TYPE2:11|DE*EDR*E22006637*1~TYPE2:11|DE*EDR*E22006649*1~TYPE2:11|DE*EDR*E22006653*1~TYPE2:11|DE*EDR*E22006661*1~TYPE2:11|DE*EDR*E22006666*1~TYPE2:11|DE*EDR*E22006667*1~TYPE2:11|DE*EDR*E22006676*1~TYPE2:11|DE*EDR*E22006677*1~TYPE2:11
+1160168	Oberhessische Versorgungsbetriebe AG		Tulpenweg 7	35423	Lich	50.522808	8.807244	1	24/7	Keine Beschränkung	DE*OVA*E00359~TYPE2:22|DE*OVA*E00360~TYPE2:22|DE*OVA*E00361~TYPE2:22|DE*OVA*E00362~TYPE2:22
+1160304	VIOCON	WK Wärmetechnische Anlagen, Kessel- und Apparatebau GmbH	Industriestr. 8-10	35582	Wetzlar	50.562066	8.610575	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1161160	Servipark Deutschland GmbH	Contipark Parkhaus Bhf PH Lahnstraße Gießen D959 Wallbox 1	Lahnstr. 0	35398	Gießen	50.581377	8.662235	1	24/7	Nur für Kunden/Besucher	DE-CTP-E152410-01-1~TYPE2:11|DE-CTP-E152410-02-1~TYPE2:11|DE-CTP-E152410-03-1~TYPE2:11|DE-CTP-E152410-04-1~TYPE2:11|DE-CTP-E152410-05-1~TYPE2:11|DE-CTP-E152410-06-1~TYPE2:11|DE-CTP-E152410-07-1~TYPE2:11|DE-CTP-E152410-08-1~TYPE2:11|DE-CTP-E152410-09-1~TYPE2:11|DE-CTP-E152410-10-1~TYPE2:11|DE-CTP-E152410-11-1~TYPE2:11|DE-CTP-E152410-12-1~TYPE2:11|DE-CTP-E152410-13-1~TYPE2:11|DE-CTP-E152410-14-1~TYPE2:11|DE-CTP-E152410-15-1~TYPE2:11|DE-CTP-E152410-16-1~TYPE2:11|DE-CTP-E152410-17-1~TYPE2:11|DE-CTP-E152410-18-1~TYPE2:11|DE-CTP-E152410-19-1~TYPE2:11|DE-CTP-E152410-20-1~TYPE2:11|DE-CTP-E152410-21-1~TYPE2:11|DE-CTP-E152410-22-1~TYPE2:11|DE-CTP-E152410-23-1~TYPE2:11|DE-CTP-E152410-24-1~TYPE2:11|DE-CTP-E152410-25-1~TYPE2:11|DE-CTP-E152410-26-1~TYPE2:11|DE-CTP-E152410-27-1~TYPE2:11|DE-CTP-E152410-28-1~TYPE2:11|DE-CTP-E152410-29-1~TYPE2:11
+1161348	Servipark Deutschland GmbH	Contipark Parkhaus An der alten Post Gießen D959 Wallbox 1	An der Alten Post 6	35390	Gießen	50.580024	8.665250	1	24/7	Nur für Kunden/Besucher	DE-CTP-E123800-01-1~TYPE2:11|DE-CTP-E123800-02-1~TYPE2:11|DE-CTP-E123800-03-1~TYPE2:11|DE-CTP-E123800-04-1~TYPE2:11|DE-CTP-E123800-05-1~TYPE2:11|DE-CTP-E123800-06-1~TYPE2:11|DE-CTP-E123800-07-1~TYPE2:11|DE-CTP-E123800-08-1~TYPE2:11|DE-CTP-E123800-09-1~TYPE2:11|DE-CTP-E123800-10-1~TYPE2:11|DE-CTP-E123800-11-1~TYPE2:11|DE-CTP-E123800-12-1~TYPE2:11|DE-CTP-E123800-13-1~TYPE2:11|DE-CTP-E123800-14-1~TYPE2:11|DE-CTP-E123800-15-1~TYPE2:11|DE-CTP-E123800-16-1~TYPE2:11|DE-CTP-E123800-17-1~TYPE2:11|DE-CTP-E123800-18-1~TYPE2:11|DE-CTP-E123800-19-1~TYPE2:11|DE-CTP-E123800-20-1~TYPE2:11|DE-CTP-E123800-21-1~TYPE2:11
+1161746	ALDI Nord	ALDI Nord Parkplatz	Tom-Mutters-Str. 9	35041	Marburg	50.842644	8.765796	1	24/7	Keine Beschränkung	DE-ALN-EDE051677-1-1~CCS2:150|DE-ALN-EDE051677-1-2~CCS2:150
+1162035	SI Energy	Grünberg Edeka	Gießener Str. 61	35305	Grünberg	50.594721	8.947121	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1162739	ALDI Nord	Aldi Nord Parkplatz	Tom-Mutters-Str. 9	35041	Marburg	50.843192	8.766420	1	24/7	Keine Beschränkung	DE-ALN-EDE051677-1-1~CCS2:150|DE-ALN-EDE051677-1-2~CCS2:150
+1163376	Servipark Deutschland GmbH	Contipark Parkhaus Selters Tor Gießen D941 Wallbox 1	Südanlage 26	35390	Gießen	50.581864	8.671920	1	24/7	Nur für Kunden/Besucher	DE-CTP-E304100-01-1~TYPE2:11|DE-CTP-E304100-02-1~TYPE2:11|DE-CTP-E304100-03-1~TYPE2:11|DE-CTP-E304100-04-1~TYPE2:11|DE-CTP-E304100-05-1~TYPE2:11|DE-CTP-E304100-06-1~TYPE2:11|DE-CTP-E304100-07-1~TYPE2:11|DE-CTP-E304100-08-1~TYPE2:11|DE-CTP-E304100-09-1~TYPE2:11
+1163520	Servipark Deutschland GmbH	Contipark Parkhaus Bahnhof Lahnstraße P1 D521 Wallbox 1	Am Güterbahnhof 57	35398	Gießen	50.580910	8.662075	1	24/7	Nur für Kunden/Besucher	DE-CTP-E15100-01-1~TYPE2:11|DE-CTP-E15100-02-1~TYPE2:11|DE-CTP-E15100-03-1~TYPE2:11|DE-CTP-E15100-04-1~TYPE2:11
+1164070	Wattif Europe GmbH	Burghotel Staufenberg by Privathotels Dr. Lohbeck	Burggasse 10	35460	Staufenberg	50.664356	8.727096	1	24/7	Keine Beschränkung	DE*WAT*EW049255006~TYPE2:22|DE*WAT*EW049255005~TYPE2:22|DE*WAT*EW049255004~TYPE2:22|DE*WAT*EW049255003~TYPE2:22|DE*WAT*EW049255002~TYPE2:22|DE*WAT*EW049255001~TYPE2:22

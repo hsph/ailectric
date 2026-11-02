@@ -1,0 +1,34 @@
+1004508	Hotel am Untersee		Dorfstrasse 48	16868	Bantikow	52.939320	12.451640	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1009374	Shell Deutschland GmbH		Fehrbelliner Str. 49	14712	Rathenow	52.607760	12.338900	1		Keine Beschränkung	~CCS2:120|~CCS2:120|~CCS2:120|~CCS2:120
+1034358	Stadtwerke Stendal GmbH		Breite Straße 14a	39596	Arneburg	52.675384	12.005113	1			~TYPE2:22|~TYPE2:22
+1034774	E.DIS AG		Schillerstr. 2	14729	Premnitz	52.529628	12.341364	1			~TYPE2:22|~TYPE2:22
+1038482	SONN'IDYLL Hotel & Saunalandschaft		Semliner Str 19	14712	Rathenow	52.615928	12.340956	1			~TYPE2:22|~TYPE2:22
+1041263	GP JOULE Connect GmbH	DE*CNT*EP01378*001	Goldbecker Str. 1	39596	Arneburg	52.725967	12.010298	1		Nur für Kunden/Besucher	DE*CNT*EP01378*001*1~TYPE2:22|DE*CNT*EP01378*001*2~TYPE2:22|DE*CNT*EP00905*001*1~TYPE2_TETHERED:22|DE*CNT*EP00905*001*2~TYPE2:22|DE*CNT*EP01378*002*1~TYPE2:22|DE*CNT*EP01378*002*2~TYPE2:22|DE*CNT*EP01717*001*1~TYPE2:22|DE*CNT*EP01717*001*2~TYPE2:22|DE*CNT*EP01378*002*3~TYPE2:22|DE*CNT*EP01378*002*4~TYPE2:22|DE*CNT*EP01378*002*5~TYPE2:22|DE*CNT*EP01378*002*6~TYPE2:22|DE*CNT*EP01378*002*7~TYPE2:22|DE*CNT*EP01378*002*8~TYPE2:22|DE*CNT*EP01378*002*9~TYPE2:22|DE*CNT*EP01378*002*10~TYPE2:22|DE*CNT*EP01717*001*3~TYPE2:22|DE*CNT*EP01717*001*4~TYPE2:22|DE*CNT*EP01717*001*5~TYPE2:22|DE*CNT*EP01717*001*6~TYPE2:22|DE*CNT*EP01717*001*7~TYPE2:22|DE*CNT*EP01717*001*8~TYPE2:22|DE*CNT*EP01717*001*9~TYPE2:22|DE*CNT*EP01717*001*10~TYPE2:22
+1061165	Stadtwerke Neuruppin GmbH	Autohaus Renault	Köritzer Str. 54	16845	Neustadt (Dosse)	52.846690	12.450040	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1068980	Sonn'Idyll Ladepunkt		Semliner Straße 19	14712	Rathenow	52.616160	12.340370	1			~TYPE2:11|~TYPE2:11
+1069840	Rathenower Wärmeversorgung GmbH		Dorfstraße 10	14712	Rathenow	52.658201	12.387576	1			~TYPE2:22|~TYPE2:22
+1069841	Rathenower Wärmeversorgung GmbH		Goethestr. bei 89	14712	Rathenow	52.606494	12.342988	1			~TYPE2:22|~TYPE2:22
+1069842	Rathenower Wärmeversorgung GmbH		Vor dem Haveltor (Parkplatz Kino) 1	14712	Rathenow	52.608373	12.329119	1			~TYPE2:22|~TYPE2:22
+1071530	VKT Velten Kunststofftechnik GmbH		Wulkauer Weg 8	39524	Sandau	52.787000	12.049000	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1072356	Stadtwerke Neuruppin GmbH		Wilsnacker Straße 2	16866	Kyritz	52.947457	12.392109	1			~TYPE2:22|~TYPE2:22
+1072359	Stadtwerke Neuruppin GmbH		Johann-Sebastian-Bach-Straße 51	16866	Kyritz	52.941599	12.396806	1			~TYPE2:22|~TYPE2:22
+1072368	Stadtwerke Neuruppin GmbH		Am Markt 3	16868	Wusterhausen	52.890822	12.461388	1			~TYPE2:22|~TYPE2:22
+1072369	Stadtwerke Neuruppin GmbH		An der Klemnitz 0	16868	Wusterhausen	52.888621	12.456861	1			~TYPE2:22|~TYPE2:22
+1072371	Stadtwerke Neuruppin GmbH		Uferweg 0	16868	Wusterhausen	52.900515	12.459580	1			~TYPE2:22|~TYPE2:22
+1091355	Hotel-Betriebgesellschaft Schloss Storkau mbH		Im Park 1	39590	Tangermünde OT Storkau	52.615465	12.001229	1			~TYPE2_TETHERED:22
+1096662	Autohaus Füllgraf & Partner Kyritz GmbH		An der B5 0	16866	Kyritz	52.933902	12.409216	1			~CCS2:22|~TYPE2:11
+1097215	Auto-Technik Dähne GmbH		Döberitzer Str. 5	14727	Premnitz OT Mögelin	52.559868	12.328543	1			~CCS2:22|~TYPE2:11
+1097216	Auto-Technik Dähne GmbH		Grünauer Fenn 5	14712	Rathenow	52.578187	12.337567	1			~CCS2:22|~TYPE2:11|~CCS2:50|~TYPE2:22
+1106619	E.ON Drive GmbH		Markt 3	39539	Havelberg	52.825029	12.074925	1			~TYPE2:22|~TYPE2:22
+1114948	Vattenfall Smarter Living GmbH		Semmelweisstr. 15	39539	Havelberg	52.829184	12.079387	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1116426	Sopho	Autohaus Schmidt	Köritzer Str. 54	16845	Neustadt (Dosse)	52.846690	12.450040	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1132360	Rathenower Wärmeversorgung GmbH	Steckelsdorf Bergstr.	Bergstr. 13	14712	Rathenow	52.605442	12.280687	1	24/7	Nur für Kunden/Besucher	~TYPE2:21|~TYPE2:21
+1134663	AWO fair.leben	Haus 106	Johannes-Lange-Str. 20	39319	Jerichow	52.502831	12.042868	1	24/7	Keine Beschränkung	DE*FKU*FUE10427~TYPE2:11
+1136505	TotalEnergies Charging Solutions		Graf-von-der-Schulenburg-Str. 4	16866	Kyritz	52.940705	12.400771	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS90010*002*1~CCS2:200|DE*TCB*E3D9CS90010*002*2~CCS2:200|DE*TCB*E3D9CS90010*001*1~CCS2:200|DE*TCB*E3D9CS90010*001*2~CCS2:200
+1147883	VINCharge 2 GmbH	eliso - Uferstr - Havelberg	Uferstr. 15	39539	Havelberg	52.824288	12.071479	1	24/7	Keine Beschränkung	DE*ELI*E3603148~CCS2:400|DE*ELI*E3603149~CCS2:400|DE*ELI*E3603150~CCS2:400|DE*ELI*E3603151~CCS2:400
+1147987	Vattenfall Smarter Living GmbH		Bammer Landstr. 2	14712	Rathenow	52.603256	12.354334	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1152700	ADS-TEC Energy Service GmbH	Norma Neustadt / Dosse	Köritzer Str. 58	16845	Neustadt (Dosse)	52.845897	12.448643	1	24/7	Keine Beschränkung	DEAESE000701~CCS2:300|DEAESE000702~CCS2:300
+1153503	EnBW mobility+ AG und Co.KG	hagebaumarkt Kyritz	Pritzwalker Straße 46	16866	Kyritz	52.953083	12.396610	1	24/7	Keine Beschränkung	DE*EBW*E910291*1~CCS2:100|DE*EBW*E910291*2~CCS2:100
+1154592	Spreewald Energy GmbH	Am Gollenberg, Parkplatz "Lady Agnes"	Am Gollenberg 2D	14728	Gollenberg	52.746070	12.385760	1	24/7	Keine Beschränkung	~TYPE2:22
+1159169	Konsumgenossenschaft Seehausen/Altmark e.G.	Arneburg	Bahnhofstr. 9	39596	Arneburg	52.677087	12.002322	1	24/7	Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1160883	Wirelane GmbH		Bruno-Baum-Ring 1	14712	Rathenow	52.604778	12.357917	1		Keine Beschränkung	DE*WLN*EP001795~TYPE2:22|DE*WLN*EP001796~TYPE2:22

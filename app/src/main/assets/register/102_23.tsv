@@ -1,0 +1,217 @@
+1002208	EVH GmbH		Liebenauer Straße 118	06110	Halle (Saale)	51.463890	11.978960	1			~TYPE2:22|~TYPE2:22
+1002209	EVH GmbH		Am Stadion 5	06122	Halle (Saale)	51.481680	11.915920	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1002210	EVH GmbH		Hansering 5	06108	Halle (Saale)	51.481110	11.975500	1			~TYPE2:22|~TYPE2:22
+1002213	EVH GmbH		Äußere Hordorfer Straße 12	06114	Halle (Saale)	51.496150	11.985590	1			~TYPE2:22|~TYPE2:22
+1002214	EVH GmbH		Gustav-Anlauf-Straße 0	06108	Halle (Saale)	51.482420	11.972720	1			~TYPE2:22|~TYPE2:22
+1002216	EVH GmbH		Walter-Hülse-Str. 0	06120	Halle (Saale)	51.494380	11.937490	1			~TYPE2:22|~TYPE2:22
+1002217	EVH GmbH		Oleariusstraße 1a	06108	Halle (Saale)	51.483250	11.966800	1			~TYPE2:22|~TYPE2:22
+1002218	EVH GmbH		Universitätsring 10	06108	Halle (Saale)	51.487360	11.966820	1			~TYPE2:22|~TYPE2:22
+1002219	EVH GmbH		Moritzzwinger 10	06108	Halle (Saale)	51.478970	11.967960	1			~TYPE2:22|~TYPE2:22
+1002222	EVH GmbH		Heidestraße 37	06126	Halle (Saale)	51.487710	11.907360	1			~TYPE2:22|~TYPE2:22
+1002223	EVH GmbH		Lutherstraße 79	06110	Halle (Saale)	51.466242	11.979890	1			~TYPE2:22|~TYPE2:22
+1002224	EVH GmbH		Pfännerhöhe 70	06110	Halle (Saale)	51.471545	11.973477	1			~TYPE2:22|~TYPE2:22
+1002246	Stadtwerke Jena		Schießplatz 1	07774	Camburg	51.054495	11.709074	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1009199	Shell Deutschland GmbH		Krausenstr. 7	06112	Halle (Saale)	51.487992	11.982159	1			~CCS2:120|~CCS2:120|~CCS2:120|~CCS2:120
+1021917	EWE Go GmbH		An der Lauchstädter Straße 5	06179	Teutschenthal	51.463533	11.906789	1			~CCS2:150|~CCS2:150
+1021967	EWE Go GmbH		Steinkreuzweg 1	06618	Naumburg	51.144753	11.831387	1			~CCS2:150|~CCS2:150
+1022027	EWE Go GmbH		Heinrich-Hertz-Str. 2	06667	Weißenfels	51.188010	11.988904	1			~CCS2:160|~CCS2:160
+1026733	EnBW mobility+ AG und Co.KG		Merseburger Landstraße 59	06246	Goethestadt Bad Lauchstädt	51.385626	11.879458	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1026913	EnBW mobility+ AG und Co.KG		Merseburger Str. 345	06132	Halle (Saale)	51.441509	11.984500	1			~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027019	EnBW mobility+ AG und Co.KG		Straße des Friedens 102	06217	Merseburg	51.329380	11.977273	1			~CCS2:150|~CCS2:150
+1027306	EnBW mobility+ AG und Co.KG		Robert-Koch-Straße 10	99510	Apolda	51.028940	11.517130	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1028830	TEAG Mobil GmbH	Großheringen - Bahnhof	Sulzaer Str. 2	99518	Großheringen	51.107075	11.659477	1	24/7	Keine Beschränkung	DE*TMO*E11*119*001~TYPE2:22|DE*TMO*E11*119*002~TYPE2:22
+1028876	TEAG Mobil GmbH	Eckartsberga - Ort	Hauptstr. 2	06648	Eckartsberga	51.122220	11.563109	1		Keine Beschränkung	DE*TMO*E11*252*001~TYPE2:22|DE*TMO*E11*252*002~TYPE2:22
+1028919	TEAG Mobil GmbH	Heidegrund - Burger King	Im Heidegrund Süd 3	06721	Osterfeld	51.039773	11.937764	1		Keine Beschränkung	DE*TMO*E11*068*001~CCS2:300|DE*TMO*E11*068*002~CCS2:300|DE*TMO*E11*068*003~CCS2:300|DE*TMO*E11*068*004~CCS2:300
+1029084	EDEKA-MIHA Charge GmbH		Richard-Paulick-Allee 15	06124	Halle	51.476552	11.930029	1			~TYPE2:11|~TYPE2:11
+1029149	EDEKA-MIHA Charge GmbH		Weißenfelser Straße 52	06132	Halle (Saale)	51.437956	11.973468	1			~TYPE2:22|~CCS2:50
+1029204	EDEKA-MIHA Charge GmbH		Wilhelm-von-Klewitz-Straße 9	06132	Halle (Saale)	51.443218	11.966193	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1029208	EDEKA-MIHA Charge GmbH		Fliederweg 53	06130	Halle	51.455699	11.971068	1			~TYPE2:22|~TYPE2:22
+1029241	EDEKA-MIHA Charge GmbH		Weißenfelser Straße 52	06132	Halle (Saale)	51.437054	11.973613	1			~CCS2:50|~TYPE2:22
+1029242	EDEKA-MIHA Charge GmbH		Weißenfelser Straße 52	06132	Halle (Saale)	51.437014	11.973603	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1030904	Fraunhofer-Gesellschaft e. V.		Walter-Hülse-Straße 1	06120	Halle	51.494621	11.939079	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032002	Circle K Deutschland		Bäumchen 15	06667	Weißenfels	51.268894	11.977694	1			~CCS2:175|~CCS2:175|~CCS2:175|~CCS2:175+CHADEMO:175
+1032006	Circle K Deutschland		Im Heidegrund Süd 1	06724	Osterfeld	51.040083	11.938881	1			~CCS2:175|~CCS2:175|~CCS2:175|~CCS2:175+CHADEMO:175
+1032130	Circle K Deutschland		Autohof Im Heidegrund-Süd 0	06721	Osterfeld	51.039914	11.937675	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032132	TotalEnergies		Autohof Im Heidegrund-Süd 0	06721	Osterfeld	51.039914	11.937675	1			~CCS2:175+CHADEMO:175
+1032133	TotalEnergies		Bäumchen 15	06667	Weißenfels	51.268704	11.978404	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1032497	envia Mitteldeutsche Energie AG	SL00886	Am Busch 19	06179	Teutschenthal	51.448641	11.812557	1	24/7	Keine Beschränkung	DE*ISE*E0005484~TYPE2:22|DE*ISE*E0005483~TYPE2:22
+1032524	envia Mitteldeutsche Energie AG	KP01234	Eduard-Dörge-Platz 8	06242	Braunsbedra	51.284278	11.886099	1	24/7	Keine Beschränkung	DE*ISE*E0014767~TYPE2:22|DE*ISE*E0005012~TYPE2:22
+1032530	envia Mitteldeutsche Energie AG	KP01233	Hinter der Kirche 27	06632	Freyburg (Unstrut)	51.212088	11.771474	1	24/7	Keine Beschränkung	DE*ISE*E0005013~TYPE2:22|DE*ISE*E0005014~TYPE2:22
+1032531	envia Mitteldeutsche Energie AG	KP01237	Roßplatz 5	06268	Querfurt	51.381348	11.601921	1	24/7	Keine Beschränkung	DE*ISE*E0004518~TYPE2:22|DE*ISE*E0004517~TYPE2:22
+1032532	envia Mitteldeutsche Energie AG	KP01236	Seestr. 3	06317	Seegebiet Mansfelder Land	51.488942	11.701740	1	24/7	Keine Beschränkung	DE*ISE*E0004452~TYPE2:22|DE*ISE*E0004451~TYPE2:22
+1032598	envia Mitteldeutsche Energie AG	KR00014	Steinkreuzweg 9	06618	Naumburg (Saale)	51.143047	11.824731	1	24/7	Keine Beschränkung	DE*ISE*E0005138~TYPE2:22|DE*ISE*E0005137~TYPE2:22|DE*ISE*EA145683~CCS2:200|DE*ISE*EA155496~CCS2:200
+1032693	Stadtwerke Leipzig GmbH		Merseburger Straße 365	06132	Halle	51.437687	11.984330	1			~TYPE2:22
+1036139	AMZ		Lauchstädterstr. 9b	06179	Angersdorf	51.460475	11.908660	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036141	AMZ		Brandisstr. 1	06217	Merseburg	51.376750	11.985396	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1036212	DiT Halle		Merseburger Str. 223	06130	Halle (Saale)	51.455590	11.985240	1			~TYPE2:22|~TYPE2:22
+1036213	DiT Halle		Lauchstädterstr. 9a	06179	Angersdorf	51.459751	11.908665	1			~TYPE2:22|~TYPE2:22
+1038509	Hotel und Restaurant Villa Ilske UG		Ilskeweg 2	06628	Bad Kösen	51.138139	11.714925	1			~TYPE2:11|~TYPE2:11
+1038821	Bauverein Energie & Service GmbH		Steg 2	06110	Halle (Saale)	51.478052	11.966413	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1045098	EnBW mobility+ AG und Co.KG		Dieselstr. 47	06130	Halle (Saale)	51.455780	11.990770	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~TYPE2_TETHERED:22|~CCS2:300
+1046420	B+B Parkhaus GmbH & Co.KG		Hansering 21	06108	Halle	51.483398	11.974638	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11+SCHUKO:11|~TYPE2:11|~TYPE2:11
+1047372	GETEC mobility solutions GmbH		Schleberoda 4Z	06632	Freyburg (Unstrut)	51.237991	11.803088	1			~TYPE2:22|~TYPE2:22
+1048466	Lidl		Krausenstr. 9	06112	Halle/Saale	51.488670	11.984190	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1048550	Lidl		Merseburger Str. 221	06130	Halle	51.456610	11.984350	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1049560	E.ON Drive Infrastructure		Osterfeld Ost UFC 4 0	06682	Teuchern	51.105607	11.957291	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1050076	amperio GmbH (DEAMP)		Dieselstraße 47	06130	Halle a.d. Saale	51.456772	11.992630	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051490	MER Germany		Osterfeld West 0	06667	Weißenfels	51.105341	11.954837	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1051768	MER Germany		Osterfeld West 0	06667	Stößen	51.104587	11.954786	1			~CCS2:150|~CCS2:150
+1052098	Sense Electra GmbH		Oskar Messter Straße 20	85740	Ismaning	51.234004	11.680411	1			~TYPE2_TETHERED:11
+1054654	Aral Pulse		Dessauer Platz 4	06118	Halle	51.497411	11.981950	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1054656	Aral Pulse		Eislebener Chaussee 200	06126	Halle	51.471557	11.904981	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1055275	Aral Pulse		Dessauer Platz 4	06118	Halle (Saale)	51.497799	11.982245	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1060021	EDEKA-MIHA Charge GmbH		Overwegstr. 10	06618	Naumburg (Saale)	51.157574	11.821820	1		Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1062672	Meygo Charge GmbH		Müchelner Landstr. 2	06242	Braunsbedra	51.283479	11.876754	1	24/7	Keine Beschränkung	DE*MEY*E10012*S1~TYPE2:22|DE*MEY*E10012*S2~TYPE2_TETHERED:22
+1063382	BERDING BETON GmbH		Am See 1	06721	Osterfeld	51.040150	11.914330	1			~TYPE2:22|~TYPE2:22
+1064217	Kaufland	3090_Kland_Weißenfels_T54-IT1-2922-087	Max-Planck-Str. 3	06667	Weißenfels	51.187470	11.981610	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064256	Kaufland	3470_Kland_Merseburg_T54-IT1-2922-110	Querfurter Str. 16	06217	Merseburg	51.371680	11.977066	1		Keine Beschränkung	~TYPE2:22|~CCS2:50+CHADEMO:50
+1064306	Kaufland		Bernhard-Prager Gasse 1-7	99510	Apolda	51.025160	11.513070	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1064866	Aral Pulse		Eislebener Chaussee 200	06126	Halle (Saale)	51.471998	11.905076	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1065209	Stadtwerke Weimar GmbH		Wunderwaldstraße 2a	99518	Bad Sulza	51.092527	11.628574	1			~TYPE2:22|~TYPE2:22
+1065348	TEAG Mobil GmbH	Bad Sulza - Quartier Camberger Platz	Bad Camberger Platz 1	99518	Bad Sulza	51.093799	11.623401	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*011*001~TYPE2:22|DE*TMO*E11*011*002~TYPE2:22|DE*TMO*E11*011*003~TYPE2:22|DE*TMO*E11*011*004~TYPE2:22|DE*TMO*E11*011*005~TYPE2:22|DE*TMO*E11*011*006~TYPE2:22
+1066366	S & G Automobil GmbH		Obhäuser Weg 15	06268	Querfurt	51.386170	11.619210	1			~TYPE2:11|~TYPE2:11
+1066367	S & G Automobil GmbH		Henckelstraße 1	06217	Merseburg	51.373305	11.975217	1			~TYPE2:11|~TYPE2:11
+1068683	bft Tankstelle Christian Hollmotz		Dorfstr. 101	99510	Obertrebra	51.060770	11.565560	1			~CCS2:300|~CCS2:300
+1069165	Elt Parkplatz Werthie GmbH		Gewerbegebiet Rothenschirmbach 18	06295	Lutherstadt Eisleben	51.452670	11.542480	1			~TYPE2:22|~TYPE2:22
+1070221	Jörg Schneider		Buchenweg 32	06132	Halle (Saale)	51.444920	11.979516	1			~TYPE2:11
+1075848	CK Domstadt-Hotels GmbH & Co. KG		Lindenring 36	06618	Naumburg	51.152000	11.814200	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1076531	Globus Handelshof St. Wendel GmbH & Co. KG		Diesle Straße 47	06130	Halle (Saale)	51.456769	11.992651	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076780	Kaufland	2900_Kaufland_Naumburg_T65-IT1-4023-008	Weißenfelser Str. 70	06618	Naumburg (Saale)	51.146790	11.831590	1		Nur für Kunden/Besucher	~CCS2:60|~TYPE2:11|~CCS2:60
+1077584	Energieversorgung Apolda GmbH		Parkplatz am Schloss 0	99510	Apolda	51.021253	11.513847	1			~TYPE2:22|~TYPE2:22
+1077586	Energieversorgung Apolda GmbH		Adolf-Aber-Straße 0	99510	Apolda	51.020983	11.510479	1		Keine Beschränkung	~TYPE2_TETHERED:22|~CCS2:50
+1077587	Energieversorgung Apolda GmbH		Martinskirchplatz 0	99510	Apolda	51.024391	11.511938	1			~TYPE2:22|~TYPE2:22
+1077589	Energieversorgung Apolda GmbH		Lachenweg 13	99518	Bad Sulza	51.096202	11.628901	1			~TYPE2:22|~TYPE2:22
+1077612	Autohaus Richter GmbH	Autohaus Richter GmbH	Stichelsdorfer Str. 5	06112	Halle (Saale)	51.479781	11.995844	1	24/7	Keine Beschränkung	~TYPE2:15|~TYPE2:15
+1078298	Shell Deutschland GmbH	13016328	Weißenfelser Str. 7	06618	Naumburg (Saale)	51.149755	11.816097	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1080533	Atrium Hotel Amadeus		Pretzscher Straße 20	06721	Osterfeld	51.083993	11.934963	1			~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1081354	Autohaus Ehrl GmbH		Am Bruchfeld 1	06179	Zscherben	51.467090	11.870580	1			~TYPE2:22|~TYPE2:22
+1081398	Autohaus Fritze GmbH & Co. KG		Am Hohen Stein 1	06618	Naumburg	51.142401	11.838574	1			~TYPE2:22|~TYPE2:22
+1081401	Weigl Automobile GmbH		Max-Planck-Str. 9	06667	Weißenfels	51.186121	11.983936	1			~TYPE2:22|~TYPE2:22
+1084093	Geiseltal Solar GmbH & Co.KG		Bahnhofsiedlung 1B	06268	Langeneichstädt	51.347030	11.755280	1			~CCS2:50|~CCS2:50
+1084094	Geiseltal Solar GmbH & Co.KG		Bahnhofsiedlung 1B	06268	Mücheln	51.347140	11.755060	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2:11|~TYPE2:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1084097	Geiseltal Solar GmbH & Co.KG		Bahnhofsiedlung 1B	06268	Mücheln	51.347060	11.755230	1			~TYPE2:11|~TYPE2:11
+1086195	Jean Förste		Am Rotthügel 4	06217	Merseburg	51.337597	11.939568	1			~TYPE2_TETHERED:11
+1086332	Jörg Schneider		Buchenweg 32	06132	Halle (Saale)	51.445041	11.979671	1			~TYPE2:11
+1086457	Katrin Thurow	Weinquartiere	Salzstraße 32	06618	Naumburg (Saale)	51.151122	11.807074	1		Nur für Kunden/Besucher	~TYPE2:11
+1086723	Marcus Altschwager		Neue welt 14	99518	Niedertrebra	51.068591	11.583716	1			~TYPE2_TETHERED:3
+1087181	Norman Blum		Schötener Grund 47	99510	Apolda	51.025595	11.511111	1			~TYPE2_TETHERED:11
+1087509	Reinhold Fuchs		Kirschberg 7	99510	Apolda	51.016529	11.500708	1			~TYPE2_TETHERED:11
+1087601	Ronny Roder		Wiesenstraße 16	06667	Weißenfels	51.182943	11.904741	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087762	Sindy Schneiderhan		Neue Welt 14	99518	Niedertrebra	51.068591	11.583716	1			~TYPE2:3
+1087845	Stefan Schumaier		Lauchaer Straße 31A	06632	Freyburg (Unstrut)	51.209560	11.762770	1			~TYPE2:11
+1090781	Geiseltal Projekt und Grundstücksentwicklungs GmbH		Werkstraße 2a	06249	Mücheln	51.325444	11.808139	1			~TYPE2:10|~TYPE2:10
+1091122	Weigl Automobile GmbH		Querfurter Straße 6	06217	Merseburg	51.371620	11.981810	1			~TYPE2:22|~CCS2:50
+1091593	Stadtwerke Lutherstadt Eisleben GmbH		Walter-Schneider-Straße 9	06317	Seegebiet Mansfelder Land	51.486370	11.703492	1			~TYPE2:22|~TYPE2:22
+1096395	Volkswagen Zentrum Halle		Holzplatz 8	06110	Halle (Saale)	51.476141	11.958118	1			~CCS2:22|~TYPE2:11
+1096501	Autocenter Burgenland GmbH		Gewerbegebietsstraße 37	06618	Schönburg	51.140901	11.839843	1			~CCS2:22|~TYPE2:11
+1096600	Autohaus Dietmar Ufer		Raffineriestraße 26	06112	Halle (Saale)	51.470073	11.993421	1			~TYPE2:11
+1096744	Autohaus Huttenstrasse GmbH		Merseburger Str. 128	06110	Halle (Saale)	51.463859	11.983243	1			~CCS2:22|~TYPE2:11
+1096750	Geiseltalgruppe		Müchelner Str. 10	06242	Braunsbedra	51.285168	11.871965	1			~CCS2:22|~TYPE2:11
+1096992	Autohaus Rudolph Leuna GmbH		Friedrich-Ebert-Straße 120	06237	Leuna	51.333001	11.998752	1			~CCS2:22|~TYPE2:11
+1096993	Autohaus Rudolph Leuna GmbH		Oeltzschnerstraße 124	06217	Merseburg (Saale)	51.359565	11.981529	1			~TYPE2:22|~TYPE2:22
+1103261	TEAG Mobil GmbH	REWE Apolda	Utenbacher Str. 18	99510	Apolda	51.023807	11.523310	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*406*003~CCS2:150|DE*TMO*E11*406*004~CCS2:150|DE*TMO*E11*406*001~CCS2:150|DE*TMO*E11*406*002~CCS2:150
+1103355	EDEKA-MIHA Charge GmbH		Merseburger Str. 40	06110	Halle (Saale)	51.469902	11.982148	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1103359	EDEKA-MIHA Charge GmbH		Hermesstr. 15	06114	Halle (Saale)	51.497966	11.982841	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1103361	Netto Marken-Discount Stiftung & Co. KG		Untere Freyburger Str. 3	06249	Mücheln (Geiseltal)	51.300570	11.807940	1		Keine Beschränkung	~CCS2:72|~TYPE2:22
+1106524	E.ON Drive GmbH		Osterfeld Ost 0	06667	Weißenfels	51.105401	11.957702	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1109844	Gerth-Mobile e.Kfm.		Drei Wege 5	06667	Weißenfels	51.198014	11.998253	1			~TYPE2:22|~CCS2:50|~CCS2:50|~TYPE2:22|~TYPE2:22
+1110098	Nora Hungsberg		Allstedter Straße 16	06295	Lutherstadt Eisleben	51.453721	11.504329	1			~TYPE2:11|~TYPE2:11
+1110190	Merseburger Wasser und Service GmbH		Große Ritterstraße 9	06217	Merseburg	51.355887	11.996111	1			~TYPE2:22
+1110196	Stadtwerke Weißenfels GmbH		Heinrich Hertz Straße 4	06667	Weißenfels	51.187971	11.986975	1			~TYPE2:22|~TYPE2:22
+1110197	Stadtwerke Weißenfels GmbH		Schützenstraße 1	06667	Weißenfels	51.198605	11.974032	1			~TYPE2:22
+1110198	Stadtwerke Weißenfels GmbH		Langendorfer Straße 94	06667	Weißenfels	51.191207	11.970367	1			~TYPE2:22
+1110199	Stadtwerke Weißenfels GmbH		Langendorfer Str. 0	06667	Weißenfels	51.198700	11.967209	1			~TYPE2:22|~TYPE2:22
+1110200	Stadtwerke Weißenfels GmbH		Uferpromenade 0	06667	Weißenfels	51.201725	11.974411	1			~TYPE2:22|~TYPE2:22
+1110201	Stadtwerke Weißenfels GmbH		Große Deichstraße 0	06667	Weißenfels	51.202288	11.965983	1			~TYPE2:22|~TYPE2:22
+1110202	Stadtwerke Weißenfels GmbH		Große Deichstraße 0	06667	Weißenfels	51.202237	11.965908	1			~TYPE2:22|~TYPE2:22
+1110203	Stadtwerke Weißenfels GmbH		Beuditzstraße 54	06667	Weißenfels	51.199931	11.956838	1			~TYPE2:22|~TYPE2:22
+1110204	Stadtwerke Weißenfels GmbH		Merseburger Straße 135	06667	Weißenfels	51.218617	11.968871	1			~TYPE2:22|~TYPE2:22
+1110205	Stadtwerke Weißenfels GmbH		Südring 120	06667	Weißenfels	51.191887	11.963434	1			~TYPE2:22|~TYPE2:22
+1110206	Technische Werke Naumburg GmbH		Henne 1	06618	Naumburg	51.172201	11.828338	1			~TYPE2:22|~TYPE2:22
+1110207	Technische Werke Naumburg GmbH		Freyburger Str. 0	06618	Naumburg	51.153603	11.803909	1			~TYPE2:22|~TYPE2:22
+1110208	Technische Werke Naumburg GmbH		Flemminger Weg 156	06618	Naumburg	51.139895	11.780866	1			~TYPE2:22|~TYPE2:22
+1110209	Technische Werke Naumburg GmbH		Jakobsstr. 0	06618	Naumburg (Saale)	51.149494	11.814450	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22
+1110210	Technische Werke Naumburg GmbH		Jakobsring 0	06618	Naumburg (Saale)	51.149830	11.814451	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~TYPE2:22
+1110211	Technische Werke Naumburg GmbH		Weißenfelser Straße 18-24	06618	Naumburg	51.150462	11.817530	1			~TYPE2:22
+1110212	Technische Werke Naumburg GmbH		Jakobsring 0	06618	Naumburg (Saale)	51.150440	11.817619	1	24/7	Keine Beschränkung	~CCS2:25+CHADEMO:25
+1110213	Technische Werke Naumburg GmbH		Thomas-Müntzer-Str. 10 A	06618	Naumburg (Saale)	51.157878	11.813337	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1110214	Technische Werke Naumburg GmbH		Sektkellereistr. 5	06632	Freyburg (Unstrut)	51.215036	11.767850	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22
+1110216	Technische Werke Naumburg GmbH		Sektkellereistr. 5	06632	Freyburg (Unstrut)	51.215017	11.767926	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1112366	Einkaufszentrum Kösenerstr. 36-40 GmbH&Co Verwaltungs KG		Kösenerstraße 36	06618	Naumburg	51.151710	11.793120	1			~TYPE2:11|~TYPE2:11
+1112787	KTS GmbH	WOMO Stellplatz	Werkstraße 2a	06249	Mücheln (Geiseltal)	51.325790	11.808215	1	24/7	Nur für Kunden/Besucher	~TYPE2:22
+1113134	Saalesparkasse AdöR		Schleiermacherstraße 11	06114	Halle (Saale)	51.494820	11.970982	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113135	Saalesparkasse AdöR		Schleiermacherstraße 11	06114	Halle (Saale)	51.494673	11.971005	1			~TYPE2:22|~TYPE2:22
+1113533	MietMe.cc Personengesellschaft		Lassalleweg 41	06667	Weißenfels	51.203805	11.987466	1			~TYPE2:11
+1114055	Axel Röhming		Würzburger Straße 9	99510	Apolda	51.013750	11.517313	1			~TYPE2_TETHERED:11
+1114173	Autohaus Fritze GmbH & Co.KG		Gewerbegebietsstraße 21	06618	Schönburg	51.142490	11.842610	1			~TYPE2:11|~TYPE2:11
+1116066	Mirko Löther	Alte Käserei Freyburg	Naumburger Str. 11b	06632	Freyburg (Unstrut)	51.206280	11.769010	1	Di 09:00-15:00, Fr 14:00-22:00, Sa-So 06:00-22:00	Nur für Kunden/Besucher	Original BMW 11kw Ladegerät für Kunden der Pension~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1118650	TEAG Mobil GmbH	Bad Sulza - Kurpark	Hainstr. 1	99518	Bad Sulza	51.088546	11.624511	1	24/7	Keine Beschränkung	DE*TMO*E11*120*001~TYPE2:22|DE*TMO*E11*120*0012~TYPE2:22
+1118743	Energieversorgung Apolda GmbH	Bahnhofstraße/Kunsthaus	Bahnhofstr. 44	99510	Apolda	51.027536	11.520395	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1118984	Energieversorgung Apolda GmbH	Hotel am Schloß die Zweite	Unterm Schloß 0	99510	Apolda	51.021277	11.514140	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1119346	Energieversorgung Apolda GmbH	Christian Zimmermann Str.	Christian-Zimmermann-Str. 0	99510	Apolda	51.033407	11.511686	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1121017	Stadtwerke Lutherstadt Eisleben GmbH	Parkplatz Aseleben	Seeweg 59	06317	Seegebiet Mansfelder Land	51.489907	11.672429	1	24/7	Nur für Kunden/Besucher	DE*SL3*E0023~TYPE2:22|DE*SL3*E0024~TYPE2:22
+1121018	Stadtwerke Lutherstadt Eisleben GmbH	Parkplatz Querfurt	Nemsdorfer Weg 26	06268	Querfurt	51.375267	11.608479	1	24/7	Nur für Kunden/Besucher	DE*SL3*E0025~TYPE2:22|DE*SL3*0026~TYPE2:22
+1121243	EWE Go GmbH	McD_0451_1A	Querfurter Str. 2	06217	Merseburg	51.371515	11.984695	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1121359	Merdedes-Benz High Power Charging Network	Mercedes-Benz Charging Hub Weißenfels	Heinrich-Hertz-Str. 1	06667	Weißenfels	51.186851	11.988120	1	24/7	Nur für Kunden/Besucher	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1125974	EnBW mobility+ AG und Co.KG		Robert-Koch-Str. 10	99510	Apolda	51.029400	11.516740	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1126198	Energieversorgung Apolda GmbH	Bachstraße	Bachstr. 0	99510	Apolda	51.023968	11.514289	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1128334	Greenman Energy Operations GmbH & Co. KG	Bad Lauchstädt 1	Querfurter Str. 22	06246	Bad Lauchstädt , Goethestadt	51.389153	11.862670	1	24/7	Keine Beschränkung	AT*HTB*E1024547~CCS2:300|AT*HTB*E1024548~CCS2:300|AT*HTB*E1023095~CCS2:300|AT*HTB*E1023096~CCS2:300
+1128534	Ankerhof	Ankerhof	Ankerstr. 2a	06108	Halle (Saale)	51.482325	11.960994	1	 	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1129857	Aral Pulse		Buttstädter Str. 50	99510	Apolda	51.039550	11.511700	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1129920	Shell Deutschland GmbH	12986485_Halle	Frau-v.-Selmnitz-Str. 4	06110	Halle (Saale)	51.457005	11.979915	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1130199	Aral Pulse		Nikolaus-Otto-Str. 1	06667	Weißenfels	51.187720	11.990510	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1131111	envia Mitteldeutsche Energie AG	24BZ1043C	Magdeburger Str. 51	06112	Halle (Saale)	51.481850	11.982675	1	24/7	Keine Beschränkung	DE*ISE*E0022436~CCS2:100|DE*ISE*E0022438~CCS2:100
+1131115	envia Mitteldeutsche Energie AG	24BZ1044C	Magdeburger Str. 51	06112	Halle (Saale)	51.481866	11.982759	1	24/7	Keine Beschränkung	DE*ISE*E0022442~CCS2:100|DE*ISE*E0022440~CCS2:100
+1131154	envia Mitteldeutsche Energie AG	CSN0069391	Magdeburger Str. 51	06112	Halle (Saale)	51.482040	11.982620	1	24/7	Keine Beschränkung	DE*ISE*EA193192~TYPE2:22|DE*ISE*EA191845~TYPE2:22
+1132814	Shell Deutschland GmbH		An der Lauchstädter Str. 1	06179	Teutschenthal	51.463784	11.910354	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1133082	EVH GmbH	Öffentlicher Ladeplatz Spitze, Bornknechtstraße 5	Bornknechtstr. 5	06108	Halle (Saale)	51.480853	11.963898	1	24/7	Keine Beschränkung	DE*BDO*E769566338*1~CCS2:150|DE*BDO*E769566338*2~CCS2:150|DE*BDO*E230659122*1~TYPE2:22|DE*BDO*E230659122*2~TYPE2:22
+1133629	E.ON Drive Infrastructure		Raststätte Osterfeld Ost 0	06682	Teuchern	51.105588	11.957236	1	24/7	Keine Beschränkung	~CCS2:100|~CCS2:100
+1134140	Vattenfall Smarter Living GmbH		Industriestr. 116	06132	Halle (Saale)	51.436531	11.973994	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134141	Vattenfall Smarter Living GmbH		Industriestr. 116	06132	Halle (Saale)	51.436652	11.974013	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134192	Vattenfall Smarter Living GmbH		Naumburger Str. 28a	06667	Weißenfels	51.197916	11.963689	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134193	Vattenfall Smarter Living GmbH		Naumburger Str. 28a	06667	Weißenfels	51.197992	11.963676	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134200	Vattenfall Smarter Living GmbH		Hallesche Str. 1b	06179	Teutschenthal	51.457152	11.822729	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360
+1134201	Vattenfall Smarter Living GmbH		Hallesche Str. 1b	06179	Teutschenthal	51.457191	11.822901	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360
+1134259	Schulze GmbH	AH Wethau	Gewerbegebietsstr. 4	06618	Wethau	51.141392	11.843527	1	24/7	Keine Beschränkung	~TYPE2:22
+1134357	Vattenfall Smarter Living GmbH		Liebenauer Str. 52	06110	Halle (Saale)	51.467833	11.977690	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1134703	Energieversorgung Apolda GmbH	Großheringen_Sulzaer Straße	Sulzaer Str. 0	99518	Großheringen	51.106586	11.655603	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1135243	TotalEnergies Charging Solutions		Torstr. 38-40	06110	Halle (Saale)	51.474400	11.961600	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS15123*001*1~CCS2:200|DE*TCB*E3D9CS15123*001*2~CCS2:200|DE*TCB*E3D9CS15123*002*1~CCS2:200|DE*TCB*E3D9CS15123*002*2~CCS2:200
+1135481	Autohaus Rudolph Leuna GmbH	Merseburg	Oeltzschnerstr. 124	06217	Merseburg	51.359550	11.981480	1	Mo-Fr 07:00-18:00, Sa 07:00-12:00	Nur für Kunden/Besucher	DE*GCE*EACCR273811~TYPE2:22|DE*GCE*EDCCR273812~CCS2:48
+1136210	UKH Energie	Magdeburger Straße 24	Magdeburger Str. 24	06112	Halle (Saale)	51.484620	11.978247	1	24/7	Keine Beschränkung	DECPIE7294745~TYPE2_TETHERED:22|DECPIE7294745~TYPE2_TETHERED:22
+1138432	Greenman Energy Operations GmbH & Co. KG	Freyburg 01	Am Kirschweg 3	06632	Freyburg (Unstrut)	51.223791	11.773971	1	24/7	Keine Beschränkung	AT*HTB*E1023087~CCS2:300|AT*HTB*E1023088~CCS2:300|AT*HTB*E1023089~CCS2:300|AT*HTB*E1023090~CCS2:300
+1139618	envia Mitteldeutsche Energie AG	100138646	Ahornstr. 22	06246	Bad Lauchstädt , Goethestadt	51.385142	11.883217	1	24/7	Keine Beschränkung	DE*ISE*EA149591~CCS2:25|DE*ISE*EA1261777~CCS2:25
+1139828	TotalEnergies Charging Solutions		Erlenweg 5	06642	Nebra (Unstrut)	51.287005	11.587623	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50037*001*1~CCS2:200|DE*TCB*E3D9CS50037*001*2~CCS2:200|DE*TCB*E3D9CS50037*002*1~CCS2:200|DE*TCB*E3D9CS50037*002*2~CCS2:200
+1141442	Park Your Truck GmbH	Park Your Truck, 06112 Halle (Saale)	Am Steintor 14	06112	Halle (Saale)	51.489298	11.979326	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1141605	TEAG Mobil GmbH	Apolda - ALDI	Am Weimarer Berg 1	99510	Apolda	51.039092	11.512442	1		Keine Beschränkung	DE*TMO*E11*395*001~CCS2:225|DE*TMO*E11*395*002~CCS2:225|DE*TMO*E11*395*003~CCS2:225|DE*TMO*E11*395*004~CCS2:225
+1141636	EDEKA-MIHA Charge GmbH		Fliederweg 53	06130	Halle (Saale)	51.455683	11.970654	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1143265	Merseburger Wasser und Service GmbH	Schafstädt - Germania Sporthalle	Platz des Friedens 6	06246	Bad Lauchstädt , Goethestadt	51.379690	11.770800	1	24/7	Keine Beschränkung	DE*MSU*ESWME*AL1*01~TYPE2:11|DE*MSU*ESWME*AL1*02~TYPE2:11
+1143266	Merseburger Wasser und Service GmbH	Apothekerstr./Kleine Ritterstr.	Kleine Ritterstr. 19	06217	Merseburg	51.357094	11.997799	1	24/7	Keine Beschränkung	DE*MSU*ESWME*AL7*01~TYPE2:7|DE*MSU*ESWME*AL7*02~TYPE2:7
+1143267	Merseburger Wasser und Service GmbH	Apothekerstr./Kleine Ritterstr.	Kleine Ritterstr. 19	06217	Merseburg	51.357103	11.997897	1	24/7	Keine Beschränkung	DE*MSU*ESWME*AL8*01~TYPE2:7|DE*MSU*ESWME*AL8*02~TYPE2:7
+1143269	Merseburger Wasser und Service GmbH	Lindenstraße - Parkplatz	Lindenstr. 0	06246	Bad Lauchstädt , Goethestadt	51.388082	11.867778	1	24/7	Keine Beschränkung	DE*MSU*ESWME*EB2*01~TYPE2:22
+1143273	Merseburger Wasser und Service GmbH	Merse-Center	Querfurter Str. 4	06217	Merseburg	51.371484	11.983115	1	24/7	Keine Beschränkung	DE*MSU*ESWME*HC1*01~CCS2:50|DE*MSU*ESWME*HC1*02~CCS2:50
+1143931	Stadtwerke Jena	REWE Dorndorf-Steudnitz	Eschenstr. 1-5	07774	Dornburg-Camburg	51.008732	11.682643	1	24/7	Keine Beschränkung	DEJENE007901~TYPE2:22|DEJENE007902~TYPE2:22
+1145641	Greenline - alternative energien GmbH	Ladeplatz 'Greenline Tankstelle Oberkaka'	Zur Heeresstr. 2	06721	Meineweh	51.087654	11.961206	1		Keine Beschränkung	DE*BDO*E763246232*1~CCS2:150|DE*BDO*E763246232*2~CCS2:150|DE*BDO*E581241034*1~CCS2:150|DE*BDO*E581241034*2~CCS2:150|DE*BDO*E785175907*1~CCS2:150|DE*BDO*E785175907*2~CCS2:150
+1145706	Shell Deutschland GmbH		Merseburger Str. 67A	06268	Querfurt	51.381736	11.608228	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1145910	EnBW mobility+ AG und Co.KG	Euronics Naumburg	Wilhelm-Franke-Straße 1	06618	Naumburg (Saale)	51.145230	11.833073	1	24/7	Keine Beschränkung	DE*EBW*E915238*1~CCS2:150|DE*EBW*E915238*2~CCS2:150
+1146043	Energieversorgung Apolda GmbH	Leutloffstraße_0015	Leutloffstr. 0	99510	Apolda	51.031102	11.512282	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1146047	Energieversorgung Apolda GmbH	August-Baudert-Straße 0013	August-Baudert-Str. 0	99510	Apolda	51.019354	11.515333	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1146158	Stadtwerke Lutherstadt Eisleben GmbH	Bahnhof Röblingen	Bahnhofstr. 27	06317	Seegebiet Mansfelder Land	51.462675	11.671248	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1146161	Stadtwerke Lutherstadt Eisleben GmbH	Bahnhof Wansleben	Amsdorfer Str. 0	06317	Seegebiet Mansfelder Land	51.462116	11.747310	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1149273	Skoda Liebe	Autohaus Liebe Halle	Göttinger Bogen 1	06126	Halle (Saale)	51.477110	11.901740	1	Mo-Fr 09:00-15:00	Keine Beschränkung	DE*POW*E02786~TYPE2:11|DE*POW*E02787~TYPE2:11|DE*POW*E02788~TYPE2:11
+1149751	Merseburger Wasser und Service GmbH	Parkhaus Klia Garage	Wagnerstr. 0	06217	Merseburg	51.354004	11.994358	1	24/7	Keine Beschränkung	DE*MSU*ESWME*AL2*01~TYPE2:22|DE*MSU*ESWME*AL3*01~TYPE2:22|DE*MSU*ESWME*AL4*01~TYPE2:22|DE*MSU*ESWME*AL5*01~TYPE2:22|DE*MSU*ESWME*AL6*01~TYPE2:22
+1151415	Wirelane GmbH	Lauchstädter Straße 40	Lauchstädter Straße 40	06217	Merseburg	51.357472	11.984250	1		Keine Beschränkung	DE*WLN*EP000393~TYPE2:22|DE*WLN*EP000394~TYPE2:22
+1152266	Vattenfall Smarter Living GmbH		Böllberger Weg 168	06128	Halle (Saale)	51.465503	11.953696	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1152267	Vattenfall Smarter Living GmbH		Böllberger Weg 168	06128	Halle (Saale)	51.465463	11.953634	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1152676	Schulze GmbH		Stadtweg 33	06667	Weißenfels	51.232260	11.956830	1	24/7	Keine Beschränkung	~TYPE2:22
+1153973	IP Innovative Power		Oberaltenburg 4	06217	Merseburg	51.360410	11.998706	1	24/7	Keine Beschränkung	DEIPG00001413~TYPE2:22|DEIPG00001414~TYPE2:22
+1157946	Autohaus Querfurt GmbH		Döcklitzer Tor 20-22	06268	Querfurt	51.384570	11.605560	1		Keine Beschränkung	DE*ONE*EJ16F~TYPE2:22
+1159883	Electra Germany GmbH	Halle - Netto Delitzscher Straße	Delitzscher Str. 49	06112	Halle (Saale)	51.478984	11.998452	1	24/7	Keine Beschränkung	DE*ELD*ERFGX~CCS2:300|DE*ELD*EUYFA~CCS2:300|DE*ELD*EGD9W~CCS2:300|DE*ELD*EXVTV~CCS2:300
+1161883	Lidl	2059_Lidl_Halle_QP-17747-0225-060-121QP-Ver.321	Nietlebener Str. 3	06126	Halle (Saale)	51.480510	11.910710	1		Nur für Kunden/Besucher	~CCS2:60|~CCS2:60
+1163420	Merseburger Wasser und Service GmbH		Ulmenweg 0	06217	Merseburg	51.346409	11.980191	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK2*01~TYPE2:22|DE*MSU*ESWME*MK2*02~TYPE2:22
+1163421	Merseburger Wasser und Service GmbH		Rosa-Luxemburg-Str. 0	06217	Merseburg	51.357769	11.989948	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK1*01~TYPE2:22|DE*MSU*ESWME*MK1*02~TYPE2:22
+1163424	Merseburger Wasser und Service GmbH		Lauchstädter Str. 0	06217	Merseburg	51.355586	11.991527	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK3*01~TYPE2:22|DE*MSU*ESWME*MK3*02~TYPE2:22
+1163425	Merseburger Wasser und Service GmbH		Brauhausstr. 0	06217	Merseburg	51.358706	11.998479	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK6*01~TYPE2:22|DE*MSU*ESWME*MK6*02~TYPE2:22
+1163426	Merseburger Wasser und Service GmbH		Brauhausstr. 0	06217	Merseburg	51.358692	11.998418	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK7*01~TYPE2:22|DE*MSU*ESWME*MK7*02~TYPE2:22
+1163427	Merseburger Wasser und Service GmbH		Fritz-Haber-Str. 9	06217	Merseburg	51.345955	11.972320	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK4*01~TYPE2:22|DE*MSU*ESWME*MK4*02~TYPE2:22
+1163428	Merseburger Wasser und Service GmbH		Schulstr. 18	06258	Schkopau	51.390117	11.981923	1	24/7	Keine Beschränkung	DE*MSU*ESWME*MK5*01~TYPE2:22|DE*MSU*ESWME*MK5*02~TYPE2:22
+1163721	Walter Fritz deutsche Gesellschaft für Energieversorgung mbH	EWAG-001	Seepromenade 0	06249	Mücheln (Geiseltal)	51.306706	11.810651	1	24/7	Keine Beschränkung	DE*193*EX098300014772~TYPE2:11

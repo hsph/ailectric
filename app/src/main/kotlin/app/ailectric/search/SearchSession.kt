@@ -95,7 +95,9 @@ class SearchSession(
         _state.update { it.copy(searchCenter = center, manualCenter = manual, loading = true) }
         searchJob = scope.launch {
             try {
-                val result = search.search(center, _state.value.filter)
+                val result = search.search(center, _state.value.filter) { partial ->
+                    _state.update { it.copy(result = partial, error = null) }
+                }
                 _state.update { it.copy(result = result, error = null, loading = false) }
             } catch (e: ProviderException) {
                 _state.update { it.copy(result = null, error = e.message, loading = false) }

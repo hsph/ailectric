@@ -1,0 +1,260 @@
+1001001	Stadtwerke Aschaffenburg		Bahnhofstr. 8	63776	Mömbris	50.069490	9.167080	1			~TYPE2:22|~TYPE2:22
+1001140	Elektrizitätswerk Goldbach Hösbach		Jahnstr. 7	63768	Hösbach	50.007214	9.205859	1			~TYPE2:22|~TYPE2:22
+1001144	Elektrizitätswerk Goldbach Hösbach		Industriestr. 3	63768	Hösbach	50.006380	9.220798	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1001145	Elektrizitätswerk Goldbach Hösbach		Hauptstr. 56	63864	Glattbach	50.002692	9.151170	1			~TYPE2:22|~TYPE2:22
+1005269	NEG Neue Energien Mainfranken GmbH		Marktplatz 3	97833	Frammersbach	50.064139	9.470797	1			~TYPE2:22|~TYPE2:22
+1009376	Shell Deutschland GmbH		Aschaffenburger Strasse 48	63796	Kahl am Main	50.065790	9.005610	1			~CCS2:150|~CCS2:150
+1011400	Comfort Charge		Kurfürst-Eppstein-Ring 5	63877	Sailauf	50.003216	9.237995	1			~CCS2:150+CHADEMO:150|~TYPE2:22|~TYPE2_TETHERED:22
+1020694	Entega Plus GmbH		Seestraße 11	63533	Mainhausen	50.022845	9.021545	1			~TYPE2:22|~TYPE2:22
+1022028	EWE Go GmbH		Emmy-Noether-Straße 3	63755	Alzenau	50.093632	9.056726	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1022157	EWE Go GmbH		Emmy-Noether-Straße 3	63755	Alzenau	50.093563	9.056758	1			~CCS2:150|~CCS2:150
+1026025	EnBW mobility+ AG und Co.KG		Industriegebiet Süd A5 0	63755	Alzenau-Hörstein	50.047580	9.047158	1			~CCS2:300|~CCS2:300+CHADEMO:300
+1027536	EnBW mobility+ AG und Co.KG		Industriegebiet Süd 5	63755	Alzenau-Hörstein	50.047624	9.047292	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1027959	EnBW mobility+ AG und Co.KG		Weißkirchenweg 11	63571	Gelnhausen	50.189888	9.180250	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1030947	Fraunhofer-Gesellschaft e. V.		Brentanostraße 2a	63755	Alzenau	50.090079	9.050650	1			~TYPE2:22|~TYPE2:22
+1030949	Fraunhofer-Gesellschaft e. V.		Brentanostraße 2a	63755	Alzenau	50.090147	9.050675	1			~TYPE2:22|~TYPE2:22
+1030951	Fraunhofer-Gesellschaft e. V.		Brentanostraße 2a	63755	Alzenau	50.090123	9.050436	1			~TYPE2:22|~TYPE2:22
+1030953	Fraunhofer-Gesellschaft e. V.		Brentanostraße 2a	63755	Alzenau	50.090170	9.050440	1			~TYPE2:22|~TYPE2:22
+1034651	Shell Deutschland GmbH		An der Saline 10	63654	Büdingen	50.283806	9.108776	1			~CCS2:300|~CCS2:300
+1035712	ALDI SÜD		Main-Kinzig-Straße 35	63607	Wächtersbach	50.253008	9.291881	1			~TYPE2:22|~TYPE2:22
+1035889	ALDI SÜD		Grasweg 5	63584	Gründau-Lieblos	50.203803	9.137533	1			~TYPE2:22|~TYPE2:22
+1036898	RhönEnergie Fulda GmbH		Bahnhofstraße 0	63628	Bad Soden-Salmünster	50.277890	9.370238	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1036934	RhönEnergie Fulda GmbH		Wilhelm-Bratfisch-Straße 1	63628	Bad Soden-Salmünster	50.276933	9.377301	1			~TYPE2:11|~TYPE2:11
+1036942	RhönEnergie Fulda GmbH		Dr.-Rudolf-Hedler-Str. 1	36396	Steinau	50.315303	9.447696	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1036954	RhönEnergie Fulda GmbH		In der Aue 4-6	63584	Gründau	50.204562	9.136126	1			~CCS2:22|~TYPE2:11
+1037020	RhönEnergie Fulda GmbH		Auf der Hohle 0	36396	Steinau an der Straße	50.314710	9.443530	1			~TYPE2:11|~TYPE2:11
+1037081	RhönEnergie Fulda GmbH		Spessartstraße 42	63628	Bad Soden-Salmünster	50.277787	9.368827	1			~TYPE2:22|~TYPE2:22
+1037570	Citywatt GmbH		Dorfstraße 73	97833	Frammersbach	50.062150	9.394378	1			~TYPE2:22|~TYPE2:22
+1038389	Werner und Volker Appel GbRs		Churweg 3	63679	Schotten-Kaulstoß	50.468769	9.222687	1			~TYPE2:22
+1038513	Hotel Gut Hühnerhof		Hühnerhof 3	63584	Gründau	50.233220	9.143040	1			~TYPE2:22|~TYPE2:22
+1038659	Hotel an der Therme Bad Orb GmbH		Horststrasse 1	63619	Bad Orb	50.220872	9.350054	1			~TYPE2:22|~TYPE2:22
+1040526	Netto Marken-Discount Stiftung & Co. KG		Omersbacher Weg 1	63826	Geiselbach	50.118250	9.201240	1			~CCS2:50|~TYPE2:22
+1042726	Energielösung GmbH		Raiffeisengasse 4	63846	Laufach	50.011890	9.296472	1			~TYPE2:22|~TYPE2:22
+1042840	Oberhessische Versorgungsbetriebe AG		Hintergasse 4	36399	Freiensteinau	50.425569	9.402364	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042844	Oberhessische Versorgungsbetriebe AG		Ober-Seemer Straße 5	63688	Gedern	50.423348	9.204382	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042851	Oberhessische Versorgungsbetriebe AG		Hinter dem Brauhaus 0	63667	Nidda	50.414892	9.009485	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042861	Oberhessische Versorgungsbetriebe AG		Robert-Eichenauer-Weg 1	63697	Hirzenhain	50.392554	9.135997	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042862	Oberhessische Versorgungsbetriebe AG		Beundeweg 0	63699	Kefenrod	50.345071	9.214954	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042874	Oberhessische Versorgungsbetriebe AG		Neuer Weg 0	63683	Ortenberg	50.355089	9.055833	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042878	Oberhessische Versorgungsbetriebe AG		Bahnhofstr. 51	63695	Glauburg	50.326439	9.010216	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1042887	Oberhessische Versorgungsbetriebe AG		Am Rathaus 1	63688	Gedern	50.423786	9.197488	1			~TYPE2:22|~TYPE2:22
+1042888	Oberhessische Versorgungsbetriebe AG		Ringstraße 2	63683	Ortenberg	50.343733	9.008161	1			~TYPE2:22|~TYPE2:22
+1042892	Oberhessische Versorgungsbetriebe AG		Am Glauberg 1	63695	Glauburg	50.306074	9.006017	1			~TYPE2:22|~TYPE2:22
+1042897	Oberhessische Versorgungsbetriebe AG		Hinter dem Brauhaus 0	63667	Nidda	50.415626	9.010127	1			~TYPE2:22|~TYPE2:22
+1042898	Oberhessische Versorgungsbetriebe AG		Hinter dem Brauhaus 0	63667	Nidda	50.415659	9.010169	1			~TYPE2:22|~TYPE2:22
+1042902	Oberhessische Versorgungsbetriebe AG		Hinter dem Brauhaus 0	63667	Nidda	50.414056	9.011306	1			~TYPE2:22|~TYPE2:22
+1042903	Oberhessische Versorgungsbetriebe AG		Schulstraße 23	63697	Hirzenhain	50.417239	9.134556	1			~TYPE2:22
+1042904	Oberhessische Versorgungsbetriebe AG		Im Obergarten 3	63697	Hirzenhain	50.400825	9.152598	1			~TYPE2:22
+1042915	Oberhessische Versorgungsbetriebe AG		Auf dem Damm 2	63654	Büdingen	50.292453	9.116268	1			~TYPE2:22|~TYPE2:22
+1042920	Oberhessische Versorgungsbetriebe AG		Wilhelm-Eckhardt-Platz 1	63667	Nidda	50.413468	9.010364	1			~TYPE2:22|~TYPE2:22
+1042944	Allego		Röntgenstr. 1	63526	Erlensee	50.182562	9.006933	1			DEALLEGO000257*1~CCS2:50+CHADEMO:50|DEALLEGO000257*2~TYPE2_TETHERED:43
+1043239	Allego		Lützelhäuser Weg 13	63571	Gelnhausen	50.188206	9.185957	1			DEALLEGO002670*1~CCS2:150|DEALLEGO002670*2~CCS2:150
+1043241	Allego		Röntgenstr. 1	63526	Neuberg(Erlensee)	50.182154	9.006916	1			DEALLEGO002543*1~CCS2:300|DEALLEGO002543*2~CCS2:300
+1043242	Allego		Röntgenstr. 1	63526	Neuberg(Erlensee)	50.182130	9.006848	1			DEALLEGO002544*1~CCS2:300|DEALLEGO002544*2~CCS2:300|DEALLEGO002644*1~CCS2:150|DEALLEGO002644*2~CCS2:150
+1043628	Allego		Weiherfeldsiedlung 16-18	63584	Gründau	50.206340	9.131920	1	24/7	Keine Beschränkung	DEALLEGO003181*1~CCS2:150|DEALLEGO003181*2~CCS2:150
+1046323	Versorgungsservice Main-Kinzig GmbH	LIS Altenhaßlau, VR Bank Main-Kinzig-Büdingen eG	Stadtweg 9	63589	Linsengericht	50.196374	9.196393	1	24/7	Keine Beschränkung	AT*HTB*E1009307~TYPE2:22|AT*HTB*E1009308~TYPE2:22|AT*HTB*E1009309~TYPE2:22|AT*HTB*E1009310~TYPE2:22
+1046325	Versorgungsservice Main-Kinzig GmbH	LIS Flörsbachtal-Lohrhaupten, Rathaus	Hauptstr. 14	63639	Flörsbachtal	50.127222	9.479167	1	24/7	Keine Beschränkung	AT*HTB*E1006387~TYPE2:22|AT*HTB*E1006388~TYPE2:22
+1046326	Versorgungsservice Main-Kinzig GmbH	LIS Jossgrund-Oberhausen	Martinusstr. 2	63637	Jossgrund	50.191389	9.472222	1	24/7	Keine Beschränkung	AT*HTB*E1006397~TYPE2:22|AT*HTB*E1006398~TYPE2:22
+1046327	Versorgungsservice Main-Kinzig GmbH	LIS Hasselroth-Neuenhaßlau, Bei Gemeindeverwaltung/Rathaus	Bodo-Käppel-Platz 1	63594	Hasselroth	50.164444	9.094444	1	24/7	Keine Beschränkung	AT*HTB*E1006399~TYPE2:22|AT*HTB*E1006400~TYPE2:22
+1046328	Versorgungsservice Main-Kinzig GmbH	LIS Freigericht-Somborn, Bei Busbahnhof u. Rathaus	Rathausstr. 13	63579	Freigericht	50.141667	9.114722	1	24/7	Keine Beschränkung	AT*HTB*E1006385~TYPE2:22|AT*HTB*E1009349~TYPE2:22
+1046330	Versorgungsservice Main-Kinzig GmbH	LIS Wächtersbach, Auf dem Globus-Parkplatz	Main-Kinzig-Str. 0	63607	Wächtersbach	50.250000	9.289722	1	24/7	Keine Beschränkung	AT*HTB*E1006383~TYPE2:22|AT*HTB*E1006384~TYPE2:22
+1046331	Versorgungsservice Main-Kinzig GmbH	LIS Gründau-Lieblos	Rabenaustr. 3	63584	Gründau	50.205556	9.139167	1	24/7	Keine Beschränkung	AT*HTB*E1006381~TYPE2:22|AT*HTB*E1006382~TYPE2:22
+1046332	Versorgungsservice Main-Kinzig GmbH	LIS Gelnhausen, Ladesäule links	Barbarossastr. 26	63571	Gelnhausen	50.200278	9.198889	1	24/7	Keine Beschränkung	AT*HTB*E1006389~TYPE2:22|AT*HTB*E1006390~TYPE2:22
+1046333	Versorgungsservice Main-Kinzig GmbH	LIS Jossgrund-Burgjoss	Im Gewerbegebiet 6a	63637	Jossgrund	50.208889	9.489444	1	24/7	Keine Beschränkung	AT*HTB*E1006349~TYPE2:22|AT*HTB*E1006350~TYPE2:22
+1046334	Versorgungsservice Main-Kinzig GmbH	LIS Langenselbold, Ringstraße	Ringstr. 33 - 39	63505	Langenselbold	50.182222	9.033889	1	24/7	Keine Beschränkung	AT*HTB*E1006395~TYPE2:22|AT*HTB*E1006396~TYPE2:22
+1046336	Versorgungsservice Main-Kinzig GmbH	LIS Brachtal-Schlierbach	Wächtersbacher Str. 48	63636	Brachttal	50.302945	9.298146	1	24/7	Keine Beschränkung	AT*HTB*E1006345~TYPE2:22
+1046338	Versorgungsservice Main-Kinzig GmbH	LIS Bad Orb, Busbahnhof	Austr. 0	63619	Bad Orb	50.229597	9.347434	1	24/7	Keine Beschränkung	AT*HTB*E1006353~TYPE2:22+SCHUKO:3.6|AT*HTB*E1006354~TYPE2:22+SCHUKO:3.6
+1046339	Versorgungsservice Main-Kinzig GmbH	LIS Gründau-Rothenbergen, hintere Ladesäule	Industriestr. 5	63584	Gründau	50.201624	9.120278	1	24/7	Keine Beschränkung	AT*HTB*E1006337~TYPE2:22|AT*HTB*E1006338~TYPE2:22
+1046340	Versorgungsservice Main-Kinzig GmbH	LIS Gründau-Rothenbergen, vordere Ladesäule	Industriestr. 5	63584	Gründau	50.201552	9.120031	1	24/7	Keine Beschränkung	AT*HTB*E1006379~TYPE2:22|AT*HTB*E1006380~TYPE2:22
+1046341	Versorgungsservice Main-Kinzig GmbH	LIS Linsengericht-Altenhaßlau, Bioladen Paradieschen	An der Wann 1	63589	Linsengericht	50.192984	9.205041	1	24/7	Keine Beschränkung	AT*HTB*E1006341~TYPE2:22|AT*HTB*E1006342~TYPE2:22
+1046342	Versorgungsservice Main-Kinzig GmbH	LIS Rodenbach, Erfurter Straße	Erfurter Str. 8	63517	Rodenbach	50.148702	9.027365	1	24/7	Keine Beschränkung	AT*HTB*E1006339~TYPE2:22|AT*HTB*E1006340~TYPE2:22
+1046343	Versorgungsservice Main-Kinzig GmbH	LIS Bad Soden-Salmünster, Auf Spessart-Thermen Parkplatz	Sebastian-Herbst-Str. 0	63628	Bad Soden-Salmünster	50.289203	9.363679	1	24/7	Keine Beschränkung	AT*HTB*E1009325~TYPE2:22|AT*HTB*E1009326~TYPE2:22
+1046345	Versorgungsservice Main-Kinzig GmbH	LIS Biebergemünd-Kassel	Am Gemeindezentrum 4	63599	Biebergemünd	50.216724	9.271283	1	24/7	Keine Beschränkung	AT*HTB*E1009341~TYPE2:22|AT*HTB*E1009342~TYPE2:22
+1046346	Versorgungsservice Main-Kinzig GmbH	LIS Geiselbach	Spessartstr. 1	63826	Geiselbach	50.122573	9.198056	1	24/7	Keine Beschränkung	AT*HTB*E1009343~TYPE2:22|AT*HTB*E1009344~TYPE2:22
+1046349	Versorgungsservice Main-Kinzig GmbH	LIS Gelnhausen, Mittlere Ladesäule	Barbarossastr. 26	63571	Gelnhausen	50.200486	9.198912	1	24/7	Keine Beschränkung	AT*HTB*E1009321~TYPE2:22|AT*HTB*E1009322~TYPE2:22|AT*HTB*E1009305~TYPE2:22|AT*HTB*E1009306~TYPE2:22
+1046351	Versorgungsservice Main-Kinzig GmbH	LIS Ronneburg-Hüttengesäß, Beim Altenpflegezentrum	Am Festplatz 7	63549	Ronneburg	50.216202	9.046769	1	24/7	Keine Beschränkung	AT*HTB*E1009329~TYPE2:22|AT*HTB*E1009330~TYPE2:22
+1046352	Versorgungsservice Main-Kinzig GmbH	LIS Freigericht-Neuses, Parkplatz Kapellenstraße	Kapellenstr. 0	63579	Freigericht	50.127045	9.138372	1	24/7	Keine Beschränkung	AT*HTB*E1009317~TYPE2:22|AT*HTB*E1009318~TYPE2:22
+1046354	Versorgungsservice Main-Kinzig GmbH	LIS Langenselbold, Gelnhäuser Straße	Gelnhäuser Str. 0	63505	Langenselbold	50.175702	9.042364	1	24/7	Keine Beschränkung	AT*HTB*E1009345~TYPE2:22|AT*HTB*E1009346~TYPE2:22|AT*HTB*E1009339~TYPE2:22|AT*HTB*E1009340~TYPE2:22
+1046356	Versorgungsservice Main-Kinzig GmbH	LIS Hasselroth-Niedermittlau, Ladepunkt links	Am Bahnhof 0	63594	Hasselroth	50.178560	9.110461	1	24/7	Keine Beschränkung	AT*HTB*E1009331~TYPE2:22
+1046357	Versorgungsservice Main-Kinzig GmbH	LIS Hasselroth-Niedermittlau, Ladepunkt rechts	Am Bahnhof 0	63594	Hasselroth	50.178528	9.110498	1	24/7	Keine Beschränkung	AT*HTB*E1009332~TYPE2:22
+1046358	Versorgungsservice Main-Kinzig GmbH	LIS Rodenbach,	Alzenauer Str. 2	63517	Rodenbach	50.140766	9.026832	1	24/7	Keine Beschränkung	AT*HTB*E1009323~TYPE2:22|AT*HTB*E1009324~TYPE2:22
+1046359	Versorgungsservice Main-Kinzig GmbH	LIS Biebergemünd-Bieber, Bei Kindertagesstätte	Bahnhofstr. 5	63599	Biebergemünd	50.159106	9.326019	1	24/7	Keine Beschränkung	AT*HTB*E1009327~TYPE2:22|AT*HTB*E1009328~TYPE2:22
+1047117	TotalEnergies Charging Solutions	Continental Safety Engineering International	Carl-Zeiss-Str. 9	63755	Alzenau	50.090771	9.040952	1		Nur für Kunden/Besucher	DE*DES*E1002052*1~TYPE2:22+TYPE2:22|DE*DES*E1002052*2~TYPE2:22|DE*DES*E1002056*1~TYPE2:22+TYPE2:22|DE*DES*E1002056*2~TYPE2:22
+1047661	EnBW mobility+ AG und Co.KG		Kinzigstr. 1	63505	Langenselbold	50.175100	9.043800	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1048097	Shell Deutschland GmbH		Industriestr. 1	63768	Hösbach	50.006020	9.221178	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1048787	Lidl	6449_Lidl_Schöllkrippen_T54-HU1-2521-018	Aschaffenburger Str. 56	63825	Schöllkrippen	50.081338	9.244850	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1050031	amperio GmbH (DEAMP)		Main-Kinzig-Straße 1	63607	Wächtersbach	50.250528	9.288472	1			~TYPE2:11|~TYPE2:11
+1050525	Pfalzwerke AG		Industriestraße 50	63607	Wächtersbach	50.246800	9.290570	1			~CCS2:225|~CCS2:225|~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2:22
+1050850	Pfalzwerke AG		Siemensstraße 23	63768	Hösbach	50.007134	9.225836	1			~CCS2:300|~CCS2:300
+1050851	Pfalzwerke AG		Siemensstraße 23	63768	Hösbach	50.007434	9.226175	1			~CCS2:300|~CCS2:300
+1053533	EAM Natur Energie GmbH		Weißkirchenweg 0	63571	Gelnhausen	50.188600	9.181033	1			~TYPE2_TETHERED:43|~TYPE2_TETHERED:50
+1056750	Chargemaker GmbH		Am Dorf 10	63517	Rodenbach	50.138464	9.061272	1			~TYPE2:22|~TYPE2:22
+1056751	Chargemaker GmbH		Hainbornstraße 11	63517	Rodenbach	50.147223	9.013167	1			~TYPE2:22|~TYPE2:22
+1056752	Chargemaker GmbH		Hanauer Straße 6	63517	Rodenbach	50.139539	9.015635	1			~TYPE2:22|~TYPE2:22
+1056753	Chargemaker GmbH		Hanauer Landstraße 14	63517	Rodenbach	50.143816	9.015635	1			~TYPE2:22|~TYPE2:22
+1056754	Chargemaker GmbH		Im Lochseif 5	63517	Rodenbach	50.139747	9.049410	1			~TYPE2:22|~TYPE2:22
+1056755	Chargemaker GmbH		Wiesenstraße 17	63517	Rodenbach	50.141881	9.059635	1			~TYPE2:22|~TYPE2:22
+1056756	Chargemaker GmbH		Am Waldstadion 1	63517	Rodenbach	50.133686	9.021551	1			~TYPE2:22|~TYPE2:22
+1057324	Energieversorgung Alzenau GmbH	E - Ladestation An der Burg	Burgstr. 0	63755	Alzenau	50.087093	9.074203	1	24/7	Keine Beschränkung	DEALZE000101~CCS2:50|DEALZE000102~TYPE2_TETHERED:22
+1057325	Energieversorgung Alzenau GmbH	EVA Mühlweg P4	Mühlweg 1	63755	Alzenau	50.086780	9.066355	1	24/7	Keine Beschränkung	DEALZE000201~TYPE2:22+SCHUKO:22|DEALZE000202~TYPE2:22+SCHUKO:22
+1057326	Energieversorgung Alzenau GmbH	Ladestation Bruchhausen-Hörstein	Bruchhausen 3	63755	Alzenau	50.053988	9.071679	1	24/7	Keine Beschränkung	DEALZE000301~TYPE2:22+SCHUKO:22|DEALZE000302~TYPE2:22+SCHUKO:22
+1057327	Energieversorgung Alzenau GmbH	Parkplatz Bahnhofstr. Kälberau	Bahnhofstr. 17	63755	Alzenau	50.092237	9.085820	1	24/7	Keine Beschränkung	DEALZE000601~TYPE2:22+SCHUKO:22|DEALZE000602~TYPE2:22+SCHUKO:22
+1057328	Energieversorgung Alzenau GmbH	Ladestation Dalberghof-Albstadt	Steingasse 2	63755	Alzenau	50.117682	9.113907	1	24/7	Keine Beschränkung	DEALZE001101~TYPE2:22+SCHUKO:22|DEALZE001102~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1059019	Energieversorgung Offenbach AG		Goethestraße 17	63500	Seligenstadt	50.042116	9.007194	1			~TYPE2:22|~TYPE2:22
+1059026	Energieversorgung Offenbach AG		Brüder-Grimm-Straße 42	63533	Mainhausen	50.031951	9.025957	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059713	EMS		Marktplatz 1	63825	Schöllkrippen	50.084587	9.245656	1			~TYPE2:22|~TYPE2:22
+1059714	EMS		Schimborner Straße 6	63776	Mömbris	50.068062	9.165940	1			~TYPE2:22|~TYPE2:22
+1059718	EMS		Industriestraße 1	63825	Schöllkrippen	50.086782	9.246600	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1059721	EMS		Raiffeisengasse 4	63846	Laufach	50.012196	9.297651	1			~TYPE2:22|~TYPE2:22
+1059722	EMS		Hahnenkammstraße 19	63791	Karlstein Dettingen	50.040690	9.036440	1			~TYPE2:22|~CCS2:24
+1059723	EMS		An der Waldschule 4	63791	Karlstein Großwelzheim	50.052378	9.008888	1			~TYPE2:22|~CCS2:24
+1067018	Süwag Vertrieb AG & Co. KG		Am Oberborn 1	63791	Karlstein am Main	50.045456	9.023186	1			~TYPE2:22|~TYPE2:22
+1067036	Süwag Vertrieb AG & Co. KG		Kardinal-Faulhaber-Straße 12	63801	Kleinostheim	50.008132	9.058023	1			~TYPE2:22|~TYPE2:22
+1067306	EMS		Goethestr. 36 b	63801	Kleinostheim	50.003164	9.063651	1	24/7	Keine Beschränkung	DE*CM2*E1200316*AC001~TYPE2:22|DE*CM2*E1200316*AC002~TYPE2:22
+1067985	Sebastian Lotz		Altvaterstr. 34	36396	Steinau	50.319393	9.468281	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1068452	Roger Kießling		Birkenstraße 8	63517	Rodenbach	50.145929	9.013387	1			~TYPE2_TETHERED:11
+1068538	Patrick Seipel		Wiesenheegstraße 10	63594	Hasselroth	50.167404	9.124370	1			~TYPE2_TETHERED:11
+1068582	Bernd Schmidt		Eichelstrasse 80 A	63667	Nidda (Eichelsdorf)	50.451643	9.060278	1			~TYPE2_TETHERED:22
+1069081	KmH		Weitzkaut 9	63864	Glattbach	50.005767	9.140751	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1069470	NTS Mainhausen		Nord-West-Ring-Straße 1	63533	Mainhausen	50.012469	9.006987	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071397	Oberhessische Versorgungsbetriebe AG		Rasthausstr. 19b	36355	Grebenhain	50.484488	9.276111	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1071401	Oberhessische Versorgungsbetriebe AG		Eberhard-Bauner-Allee 16	63654	Büdingen	50.289113	9.108269	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071405	Oberhessische Versorgungsbetriebe AG		Altstadt 31	63654	Büdingen	50.291451	9.116052	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1071636	Stephan Rudolph		Klein-Welzheimer Str. 5	63533	Mainhausen	50.035299	9.025421	1			~TYPE2:22|~TYPE2:22
+1072587	Raiffeisen Waren GmbH		Lagerhausstr. 10-12	63589	Linsengericht	50.195170	9.187530	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1072588	Raiffeisen Waren GmbH		Lagerhausstr. 10-12	63589	Linsengericht	50.195140	9.187360	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1074593	Gemeindewerke Kahl Versorgungsges. mbH		Am Bahnhof 0	63796	Kahl a. Main	50.076677	9.004629	1			~TYPE2:22|~TYPE2:22
+1074594	Gemeindewerke Kahl Versorgungsges. mbH		Hanauer Landstr. 37a	63796	Kahl am Main	50.074824	9.000145	1			~TYPE2:22|~TYPE2:22
+1074595	Gemeindewerke Kahl Versorgungsges. mbH		Am Campingplatz 1	63796	Kahl am Main	50.081403	9.009294	1			~TYPE2:22|~TYPE2:22
+1074596	Gemeindewerke Kahl Versorgungsges. mbH		Am Christnersee 4	63796	Kahl am Main	50.076890	9.011253	1			~TYPE2:22|~TYPE2:22|~CCS2:50|~CCS2:50
+1074598	Gemeindewerke Kahl Versorgungsges. mbH		Aschaffenburger Straße 1	63796	Kahl am Main	50.068709	9.006480	1			~TYPE2:22|~TYPE2:22
+1074947	Stadt Langenselbold		Schloßstraße 2	63505	Langenselbold	50.172830	9.037470	1			~TYPE2:22|~TYPE2:22
+1074948	Stadt Langenselbold		Schloßpark 2	63505	Langenselbold	50.173990	9.037050	1			~TYPE2:22|~TYPE2:22
+1074949	Stadt Langenselbold		Am Kinzigsee 3	63505	Langenselbold	50.168820	9.034250	1			~TYPE2:22|~TYPE2:22
+1075415	Quantum Kino GmbH		Bismarckstraße 1	63667	Nidda	50.416518	9.009597	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1076460	e-MITION.world yGmbH		Barbarossastraße 61	63571	Gelnhausen	50.201534	9.208019	1			~TYPE2:22|~TYPE2:11|~TYPE2:11
+1076462	e-MITION.world yGmbH		Trageserweg 5	63755	Alzenau	50.105323	9.103311	1			~TYPE2:11
+1077479	BMZ Germany GmbH		Am Sportplatz 15	63791	Karlstein a. Main	50.035330	9.040157	1	Mo-Fr 18:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	DEFLAE1000100037*1~TYPE2:11|DEFLAE1000100037*2~TYPE2:11|DEFLAE1000100041*1~TYPE2:11|DEFLAE1000100041*2~TYPE2:11|DEFLAE1000100036*1~TYPE2:11|DEFLAE1000100036*2~TYPE2:11|DEFLAE1000100039*1~TYPE2:11|DEFLAE1000100039*2~TYPE2:11|DEFLAE1000100040*1~TYPE2:11|DEFLAE1000100040*2~TYPE2:11|DEFLAE1000100038*1~TYPE2:11|DEFLAE1000100038*2~TYPE2:11
+1078016	Stadtwerke Aschaffenburg		Adam-Fell-Str. 0	63867	Johannesberg	50.029889	9.137315	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1078197	Shell Deutschland GmbH		Kardinal-Faulhaber-Str. 16	63801	Kleinostheim	50.008630	9.056440	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1080581	Mathias Göbel Finanzdienstleistung		Taunusstr. 12a	63667	Nidda	50.445231	9.032000	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11+TYPE2_TETHERED:11
+1080588	Fabian Schildt		Bindsachsener Straße 21	63699	Kefenrod	50.346000	9.207000	1			~TYPE2_TETHERED:11
+1083822	Gemeinde Kahl a. Main		Hanauer Landstraße 37	63796	Kahl a. Main	50.074889	9.000222	1			~TYPE2:22|~TYPE2:22
+1083823	Gemeinde Kahl a. Main		Am Campingplatz 1	63796	Kahl a. Main	50.081472	9.009333	1			~TYPE2:22|~TYPE2:22
+1084260	Michael Stenger Einzelfirma		Partensteiner Str. 21	97859	Wiesthal	50.022000	9.455108	1			~TYPE2:22|~TYPE2:22
+1084285	Schlosshotel Weyberhöfe REN Management GmbH		Weyberhöfe 9-15	63877	Sailauf	50.005830	9.243330	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1084518	Adrian Tischer		Kirchgasse 14	63533	Mainhausen	50.035140	9.030037	1			~TYPE2:11|~TYPE2:11
+1084548	Alexander Hartmann		Herrnhuter Straße 6	63549	Ronneburg	50.217281	9.042493	1			~TYPE2:5
+1084619	Andrea Gabriele Zidaric		Engländerstraße 26	63869	Heigenbrücken	50.053407	9.320287	1			~TYPE2_TETHERED:11
+1084679	Andreas Röhrig		Somborner Straße 1	63579	Freigericht	50.144277	9.141250	1			~TYPE2_TETHERED:11
+1084712	Anja Ziener		Im Hänsfeld 13	63667	Nidda	50.427534	9.014024	1			~TYPE2_TETHERED:11
+1084918	Benedikt Kern		Junkerstraße 2	63584	Gründau	50.198249	9.112059	1			~TYPE2_TETHERED:11
+1084922	Benjamin Bessler		Taunusstraße 4	63654	Büdingen	50.256193	9.022989	1			~TYPE2:11
+1085598	FACHPLANUNG-DACH GmbH		Effolderbacher Weg 2	63695	Glauburg	50.329641	9.006476	1			~TYPE2:10
+1085920	Harald Schneider		An den Äckerwiesen 8	63654	Büdingen	50.328545	9.184430	1			~TYPE2_TETHERED:11
+1086184	Janina Wegmann		Hauptstraße 2C	63579	Freigericht	50.146910	9.141563	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086291	Johannes Hahn		Mittelstraße 49	63667	Nidda	50.464138	9.012491	1			~TYPE2:11
+1086304	Johannes Sticksel		Am Speichenbach 1	63755	Alzenau	50.088298	9.094945	1			~TYPE2_TETHERED:11
+1086313	Jörg Braun		Am Fuchsfeld 17	63683	Ortenberg	50.353545	9.039367	1			~TYPE2_TETHERED:11
+1086536	Oma Lore		Frohnradstraße 21	63768	Hösbach	50.033859	9.214833	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086924	Matthias Kremser		Spessartstraße 90	63500	Seligenstadt	50.040267	9.009055	1			~TYPE2_TETHERED:11
+1086967	Meinolf Hergenröder		An der Kirche 24	36396	Steinau an der Straße	50.373398	9.418719	1			~TYPE2:11
+1086998	Michael Götz		Berweg 6	63831	Wiesen	50.111556	9.363442	1			~TYPE2:22
+1087058	Michael Eifert		Eichelsdorfer Straße 7	63667	Nidda	50.462778	9.014789	1			~TYPE2_TETHERED:11
+1087257	Pascal Scheib		Eichenstraße 9A	63831	Wiesen	50.109267	9.360522	1			~TYPE2:11|~TYPE2:11
+1087355	Philipp Just		Eichelkopfstraße 17	63584	Gründau	50.244330	9.176984	1			~TYPE2_TETHERED:11
+1088202	Tobias Engel		Brühlstraße 10	63571	Gelnhausen	50.189572	9.155414	1		Nur für Kunden/Besucher	~TYPE2:22
+1088648	eze.network GmbH	TTA000498	Kurparkstr. 9	63619	Bad Orb	50.223271	9.350685	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1089444	Karin Beheim		Spessartstraße 3	63829	Krombach	50.085830	9.188860	1			~TYPE2:11
+1090079	Greenman Energy Operations GmbH & Co. KG	Rodenbach 2	Adolf-Reichwein-Str. 13	63517	Rodenbach	50.139335	9.023530	1	24/7	Keine Beschränkung	AT*HTB*E1023075~CCS2:300|AT*HTB*E1023076~CCS2:300|AT*HTB*E1023077~CCS2:300|AT*HTB*E1023078~CCS2:300|AT*HTB*E1023073~CCS2:300|AT*HTB*E1023074~CCS2:300
+1092067	Pluq		Hellersweg 1	63755	Alzenau	50.066782	9.076781	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1092946	Auto Semmel GmbH & Co. Siegfried Polenz KG		Gelnhäuserstraße 40	63505	Langenselbold	50.179516	9.040014	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1096529	Autohaus am Stausee GmbH		Taubenweg 15A	63679	Schotten	50.497385	9.120845	1			~CCS2:22|~TYPE2:11
+1096667	Autohaus Gelnhausen Geiger & Liebsch GmbH & Co.KG		Im Niederfeld 2	63589	Linsengericht	50.193073	9.191783	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:22
+1096670	Autohaus Gelnhausen Geiger & Liebsch GmbH & Co.KG		Im Niederfeld 2	63589	Linsengericht	50.193700	9.192180	1			~TYPE2:22
+1096671	Autohaus Gelnhausen Geiger & Liebsch GmbH & Co.KG		Im Niederfeld 2	63589	Linsengericht	50.193110	9.191700	1			~TYPE2:22
+1096672	Autohaus Gelnhausen Geiger & Liebsch GmbH & Co.KG		Im Niederfeld 2	63589	Linsengericht	50.193080	9.191990	1			~TYPE2:22
+1096674	Autohaus Gelnhausen Geiger & Liebsch GmbH & Co.KG	Autohaus Gelnhausen VW	Im Niederfeld 2	63589	Linsengericht	50.193070	9.192180	1	24/7	Keine Beschränkung	DE*ONE*E2FR3~CCS2:50|DE*ONE*E2AQE~CCS2:50
+1096923	Autohaus Nix GmbH		Frankfurter Str. 1	63607	Wächtersbach	50.251859	9.312619	1			~TYPE2:11|~CCS2:22
+1097373	Hansheinrich Hess GmbH		Am Kraftenborn 0	63654	Büdingen	50.296830	9.037463	1			~CCS2:22|~TYPE2:11
+1097850	Comfort Charge	Gelnhausen, CC_63_0012	Frankfurter Str. 55	63571	Gelnhausen	50.204790	9.174220	1	24/7	Keine Beschränkung	DECCH*ECCH2400005EBG*1~CCS2:200|DECCH*ECCH2400005EBG*2~CCS2:200|DECCH*ECCH2400006EBG*1~CCS2:200|DECCH*ECCH2400006EBG*2~CCS2:200
+1100618	Tesla Germany GmbH		Lützelhäuser Weg 13	63571	Gelnhausen	50.188622	9.186174	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1101728	Tesla Germany GmbH		Röntgenstraße 1	63526	Erlensee	50.181953	9.006662	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102846	EnBW mobility+ AG und Co.KG		Main-Kinzig-Str. 0	63607	Wächtersbach	50.250195	9.289450	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1104067	Dressurpferde Rassmann GmbH		Hinterweide 5	36399	Freiensteinau	50.469073	9.382408	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1104374	Sparkasse Hanau Anstalt des Öffentlichen Rechts		Gelnhäuserstr. 3	63505	Langenselbold	50.175771	9.041860	1			~TYPE2:22|~TYPE2:22
+1109012	E.ON Drive GmbH		Industriestraße 13	63755	Alzenau	50.093441	9.048266	1		Keine Beschränkung	~TYPE2_TETHERED:22|DE*EDR*E22008704*1~TYPE2:22|DE*EDR*E22008705*1~TYPE2:22|DE*EDR*E22008713*1~TYPE2:22|DE*EDR*E22008732*1~TYPE2:22|DE*EDR*E22008737*1~TYPE2:22|DE*EDR*E22008738*1~TYPE2:22|DE*EDR*E22008744*1~TYPE2:22
+1109716	Autohaus Bilia GmbH & Co. KG		An der Saline 2 - 6	63654	Büdingen	50.280959	9.108245	1			~TYPE2:22|~TYPE2:22
+1109721	Autohaus Bilia GmbH & Co. KG		Raun 97 - 99	63667	Nidda	50.410062	9.011100	1			~TYPE2:22|~TYPE2:22
+1109995	Hermann Arnold GmbH		Siemensstr. 41	63755	Alzenau	50.095536	9.050069	1			~TYPE2:22|~TYPE2:22
+1110560	EnBW mobility+ AG und Co.KG		Aschaffenburger Str. 62	63825	Schöllkrippen	50.080845	9.244747	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1112775	AHS Solar GmbH & Co. KG		Wirtheimer Str. 17-18	63599	Biebergemünd	50.215419	9.270391	1			~CCS2:75|~CCS2:75|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1112776	AHS Solar GmbH & Co. KG		Kremp´sche Spitze 2	63571	Gelnhausen-Haitz	50.207453	9.221903	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75
+1112780	AHS Solar GmbH & Co. KG		Wirtheimer Str. 17-18	63599	Biebergemünd	50.215650	9.270750	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75
+1113051	Elektroechnik Neis		Gelnhäuser Straße 91	63589	Linsengericht	50.195120	9.192620	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1113085	Villa Marburg GmbH		Werner-Wenzel-Straße 1	63869	Heigenbrücken	50.027120	9.360620	1			~TYPE2:11|~TYPE2:11
+1113662	ROSA AG		Ostring 47	63533	Mainhausen	50.009054	9.003123	1			~TYPE2:11|~TYPE2:11
+1114455	GA IT-Solutions		Eichenweg 10	63768	Hösbach	50.037423	9.228421	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1116916	Frithjof Reitter	Carport	Buchenhain 7	63776	Mömbris	50.043174	9.167323	1	24/7	Keine Beschränkung	~TYPE2:11
+1119025	E.ON Drive Infrastructure		Daimlerstr. 1	63755	Alzenau	50.089294	9.047364	1	24/7	Keine Beschränkung	DE*UFC*E00452*1~CCS2:300|DE*UFC*E00452*2~CCS2:300|DE*UFC*E00451*1~CCS2:150|DE*UFC*E00451*2~CCS2:150|DE*UFC*E00446*1~CCS2:150|DE*UFC*E00446*2~CCS2:150
+1127016	ALDI SÜD	LGS-018	Orleshäuser Str. 16c	63654	Büdingen	50.283880	9.101800	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23750~CCS2:50|DE*ALD*E23751~CCS2:50
+1127769	Oberhessische Versorgungsbetriebe AG		Hauptstr. 51	36355	Grebenhain	50.487472	9.331312	1	24/7	Keine Beschränkung	DE*OVA*E00292~TYPE2:22|DE*OVA*E00293~TYPE2:22|DE*OVA*E00294~TYPE2:22|DE*OVA*E00295~TYPE2:22
+1128402	Energieversorgung Offenbach AG		Zellhäuser Str. 26	63533	Mainhausen	50.026595	9.023244	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1129499	EnBW mobility+ AG und Co.KG		Am Palmusacker 9	63628	Bad Soden-Salmünster	50.270408	9.374421	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200|~CCS2:100|~CCS2:100
+1130148	Aral Pulse		Am Lindengraben 3	63584	Gründau	50.205270	9.135450	1		Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1130519	EnBW mobility+ AG und Co.KG		Kinzigstr. 1	63505	Langenselbold	50.175101	9.044212	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1130925	CUBOS Service GmbH	2030	Raiffeisenstr. 11	63579	Freigericht	50.147267	9.108279	1	24/7	Keine Beschränkung	~CCS2:235|~CCS2:235
+1131152	Pluq	Zeller - Hotel en Restaurant	Aschaffenburger Str. 2	63796	Kahl a. Main	50.068068	9.005411	1		Nur für Kunden/Besucher	DEEFLEV3296901C1~TYPE2:22|DEEFLEV3296901C2~TYPE2:22
+1131611	EWE Go GmbH	McD_1272_1A	Daimlerstr. 1	63755	Alzenau	50.088729	9.047829	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1131629	EnBW mobility+ AG und Co.KG		Am Aueweg 1	63517	Rodenbach	50.150350	9.029481	1	24/7	Keine Beschränkung	~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300
+1134004	EMS		Hüttenwiesenweg 10	63869	Heigenbrücken	50.026325	9.376299	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1134460	Lidl	1361_Lidl_Borken_T65-IT1-0225-009	Am Bahnhof 3-5	34582	Borken (Hessen)	50.049990	9.276510	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1135084	Schöpferland		Zum Haarstrauch 20	63546	Hammersbach	50.250170	9.000320	1	24/7	Keine Beschränkung	DEONEET973~TYPE2:22|DEONEEM5AH~TYPE2:22|DEONEERV2A~TYPE2:22|DEONEE3DFE~TYPE2:22
+1135091	RTEG	Raben Erlensee	Marie-Curie-Str. 5	63526	Erlensee	50.180125	9.006450	1	Mo-Fr 09:00-17:00	Nur für Kunden/Besucher	DERABEN63DC1~CCS2:360
+1136644	Oberhessische Versorgungsbetriebe AG		Orleshäuser Str. 16b	63654	Büdingen	50.284527	9.102942	1	24/7	Keine Beschränkung	DE*OVA*E00307~TYPE2:22|DE*OVA*E00308~TYPE2:22|DE*OVA*E00309~TYPE2:22|DE*OVA*E00310~TYPE2:22|DE*OVA*E00311~TYPE2:22|DE*OVA*E00312~TYPE2:22|DE*OVA*E00313~TYPE2:22|DE*OVA*E00314~TYPE2:22|DE*OVA*E00315~TYPE2:22|DE*OVA*E00315~TYPE2:22
+1139544	Versorgungsservice Main-Kinzig GmbH	LIS Birstein, bei VR-Bank	Industriestr. 7	63633	Birstein	50.350773	9.312052	1	24/7	Keine Beschränkung	AT*HTB*E1006392~TYPE2:22|AT*HTB*E1009315~TYPE2:22
+1141643	Versorgungsservice Main-Kinzig GmbH	LIS Flörsbachtal-Kempfenbrunn, am Dorfgemeinschaftshaus	Würzburgerstr. 19	63639	Flörsbachtal	50.112500	9.438290	1	24/7	Keine Beschränkung	AT*HTB*E1006393~TYPE2:22|AT*HTB*E1006394~TYPE2:22
+1141751	EnBW mobility+ AG und Co.KG	A66 AS43 Gelnhausen-West, 63571 Gelnhausen, Hailer	Weißkirchenweg 0	63571	Gelnhausen	50.188900	9.178000	1	24/7	Keine Beschränkung	DE*EBW*E917181*1~CCS2:400|DE*EBW*E917181*2~CCS2:400|DE*EBW*E913792*1~CCS2:400|DE*EBW*E913792*2~CCS2:400|DE*EBW*E913791*1~CCS2:400|DE*EBW*E913791*2~CCS2:400|DE*EBW*E916977*1~CCS2:400|DE*EBW*E916977*2~CCS2:400|DE*EBW*E913696*1~CCS2:400|DE*EBW*E913696*2~CCS2:400|DE*EBW*E913695*1~CCS2:200|DE*EBW*E913695*2~CCS2:200|DE*EBW*E913693*1~CCS2:200|DE*EBW*E913693*2~CCS2:200|DE*EBW*E913794*1~CCS2:200|DE*EBW*E913794*2~CCS2:200|DE*EBW*E913694*1~CCS2:200|DE*EBW*E913694*2~CCS2:200|DE*EBW*E913793*1~CCS2:200|DE*EBW*E913793*2~CCS2:200
+1142396	Qwello Deutschland GmbH		Parkstraße 12	63628	Bad Soden-Salmünster	50.285305	9.359157	1	24/7	Keine Beschränkung	DEQRME2X8JF11~TYPE2_TETHERED:11+TYPE2:22|DEQRME2X8JF21~TYPE2_TETHERED:11+TYPE2:22|DEQRME2X8JF31~TYPE2_TETHERED:11+TYPE2:22|DEQRME2X8JF41~TYPE2_TETHERED:11+TYPE2:22
+1142400	Qwello Deutschland GmbH		Frowin-von-Hutten-Straße 5	63628	Bad Soden-Salmünster	50.288998	9.360381	1	24/7	Keine Beschränkung	DEQRMEW8P4511~TYPE2_TETHERED:11+TYPE2:22|DEQRMEW8P4521~TYPE2_TETHERED:11+TYPE2:22|DEQRMEW8P4531~TYPE2_TETHERED:11+TYPE2:22|DEQRMEW8P4541~TYPE2_TETHERED:11+TYPE2:22
+1142404	Qwello Deutschland GmbH		Sebastian-Herbst-Straße 5	63628	Bad Soden-Salmünster	50.289207	9.363843	1	24/7	Keine Beschränkung	DEQRMEHCJFJ11~TYPE2_TETHERED:11+TYPE2:22|DEQRMEHCJFJ21~TYPE2_TETHERED:11+TYPE2:22|DEQRMEHCJFJ31~TYPE2_TETHERED:11+TYPE2:22|DEQRMEHCJFJ41~TYPE2_TETHERED:11+TYPE2:22
+1142408	Qwello Deutschland GmbH		Turnerweg 1	63628	Bad Soden-Salmünster	50.290070	9.364582	1	24/7	Keine Beschränkung	DEQRME5P75V11~TYPE2_TETHERED:11+TYPE2:22|DEQRME5P75V21~TYPE2_TETHERED:11+TYPE2:22|DEQRME5P75V31~TYPE2_TETHERED:11+TYPE2:22|DEQRME5P75V41~TYPE2_TETHERED:11+TYPE2:22
+1142412	Qwello Deutschland GmbH		Badestraße 3	63628	Bad Soden-Salmünster	50.287560	9.367476	1	24/7	Keine Beschränkung	DEQRMECJ2VG11~TYPE2_TETHERED:11+TYPE2:22|DEQRMECJ2VG21~TYPE2_TETHERED:11+TYPE2:22|DEQRMECJ2VG31~TYPE2_TETHERED:11+TYPE2:22|DEQRMECJ2VG41~TYPE2_TETHERED:11+TYPE2:22
+1142416	Qwello Deutschland GmbH		Bahnhofstraße 3	63628	Bad Soden-Salmünster	50.277954	9.370296	1	24/7	Keine Beschränkung	DEQRMEGP5P811~TYPE2_TETHERED:11+TYPE2:22|DEQRMEGP5P821~TYPE2_TETHERED:11+TYPE2:22|DEQRMEGP5P831~TYPE2_TETHERED:11+TYPE2:22|DEQRMEGP5P841~TYPE2_TETHERED:11+TYPE2:22
+1142420	Qwello Deutschland GmbH		Schwedenring 23	63628	Bad Soden-Salmünster	50.277893	9.367178	1	24/7	Keine Beschränkung	DEQRMEWMW2X11~TYPE2_TETHERED:11+TYPE2:22|DEQRMEWMW2X21~TYPE2_TETHERED:11+TYPE2:22|DEQRMEWMW2X31~TYPE2_TETHERED:11+TYPE2:22|DEQRMEWMW2X41~TYPE2_TETHERED:11+TYPE2:22
+1142424	Qwello Deutschland GmbH		Schwedenring 2	63628	Bad Soden-Salmünster	50.275402	9.366233	1	24/7	Keine Beschränkung	DEQRME87HG211~TYPE2_TETHERED:11+TYPE2:22|DEQRME87HG221~TYPE2_TETHERED:11+TYPE2:22|DEQRME87HG231~TYPE2_TETHERED:11+TYPE2:22|DEQRME87HG241~TYPE2_TETHERED:11+TYPE2:22
+1142428	Qwello Deutschland GmbH		Joseph-Müller-Straße 1	63628	Bad Soden-Salmünster	50.272141	9.362702	1	24/7	Keine Beschränkung	DEQRMEH64GG11~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH64GG21~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH64GG31~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH64GG41~TYPE2_TETHERED:11+TYPE2:22
+1142432	Qwello Deutschland GmbH		Marburger Straße 1	63628	Bad Soden-Salmünster	50.268738	9.369541	1	24/7	Keine Beschränkung	DEQRME4G7R211~TYPE2_TETHERED:11+TYPE2:22|DEQRME4G7R221~TYPE2_TETHERED:11+TYPE2:22|DEQRME4G7R231~TYPE2_TETHERED:11+TYPE2:22|DEQRME4G7R241~TYPE2_TETHERED:11+TYPE2:22
+1142436	Qwello Deutschland GmbH		Gutenbergstraße 2	63628	Bad Soden-Salmünster	50.279652	9.373196	1	24/7	Keine Beschränkung	DEQRME9PJ5611~TYPE2_TETHERED:11+TYPE2:22|DEQRME9PJ5621~TYPE2_TETHERED:11+TYPE2:22|DEQRME9PJ5631~TYPE2_TETHERED:11+TYPE2:22|DEQRME9PJ5641~TYPE2_TETHERED:11+TYPE2:22
+1142440	Qwello Deutschland GmbH		Seidenröther Straße 1	63628	Bad Soden-Salmünster	50.300175	9.409136	1	24/7	Keine Beschränkung	DEQRMEH89XX11~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH89XX21~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH89XX31~TYPE2_TETHERED:11+TYPE2:22|DEQRMEH89XX41~TYPE2_TETHERED:11+TYPE2:22
+1142663	Qwello Deutschland GmbH		Am Golfplatz 1	63628	Bad Soden-Salmünster	50.274139	9.443677	1	24/7	Keine Beschränkung	DEQRMEJRC8711~TYPE2_TETHERED:11+TYPE2:22|DEQRMEJRC8721~TYPE2_TETHERED:11+TYPE2:22|DEQRMEJRC8731~TYPE2_TETHERED:11+TYPE2:22|DEQRMEJRC8741~TYPE2_TETHERED:11+TYPE2:22
+1144181	EnBW mobility+ AG und Co.KG	A45 AS41 Langenselbold-West, 63526 Erlensee, Röntgenstraße 1	Röntgenstraße 1	63526	Erlensee	50.182407	9.007563	1	24/7	Keine Beschränkung	DE*EBW*E916355*1~CCS2:400|DE*EBW*E916355*2~CCS2:400|DE*EBW*E917296*1~CCS2:400|DE*EBW*E917296*2~CCS2:400|DE*EBW*E916306*1~CCS2:400|DE*EBW*E916306*2~CCS2:400|DE*EBW*E916327*1~CCS2:400|DE*EBW*E916327*2~CCS2:400
+1145001	Energieversorgung Alzenau GmbH	Parkplatz Neuwiesenstraße	Neuwiesenstr. 5	63755	Alzenau	50.083285	9.073050	1	24/7	Keine Beschränkung	DEALZE000501~TYPE2:22|DEALZE000502~TYPE2:22
+1145018	Energieversorgung Alzenau GmbH	Parkplatz Glockengasse	Glockengasse 13	63755	Alzenau	50.070967	9.074280	1	24/7	Keine Beschränkung	DEALZE000801~TYPE2:22+SCHUKO:22|DEALZE000802~TYPE2:22+SCHUKO:22
+1145019	Energieversorgung Alzenau GmbH	Parkplatz Apotheke am Schlösschen	Schloßstr. 26	63755	Alzenau	50.101610	9.102307	1	24/7	Keine Beschränkung	DEALZE000701~TYPE2:22+SCHUKO:22|DEALZE000702~TYPE2:22+SCHUKO:22
+1145950	eliso	eliso - Eichhorn Baumarkt - Büdingen	An der Kleibscheibe 4	63654	Büdingen	50.273830	9.114247	1	24/7	Keine Beschränkung	DE*ELI*E3585511~CCS2:300|DE*ELI*E3585514~CCS2:300|DE*ELI*E3585517~CCS2:300|DE*ELI*E3585519~CCS2:300|DE*ELI*E3585522~CCS2:300|DE*ELI*E3585525~CCS2:300
+1145962	eliso	eliso - Eichhorn Baumarkt - Gedern	Am alten Bahnhof 2	63688	Gedern	50.419370	9.195325	1	24/7	Keine Beschränkung	DE*ELI*E3584547~CCS2:400|DE*ELI*E3584548~CCS2:400|DE*ELI*E3585556~CCS2:200|DE*ELI*E3585559~CCS2:200
+1145964	eliso	eliso - Eichhorn Baumarkt - Glauburg - Stockheim	Glauberger Str. 45a	63695	Glauburg	50.321554	9.012595	1	24/7	Keine Beschränkung	DE*ELI*E3584567~CCS2:400|DE*ELI*E3584568~CCS2:400|DE*ELI*E3585575~CCS2:200|DE*ELI*E3585578~CCS2:200
+1148483	EMS		Jahnstr. 3 A	63846	Laufach	50.015310	9.299750	1	24/7	Keine Beschränkung	DE*CM2*E2001004*AC001~TYPE2:22|DE*CM2*E2001004*AC002~TYPE2:22
+1148978	Merdedes-Benz High Power Charging Network		Röntgenstr. 3	63526	Erlensee	50.182228	9.008225	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1152162	ALDI SÜD	LGS-040-01	Am Sportplatz 6b	63791	Karlstein a. Main	50.034479	9.039159	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23796~CCS2:50|DE*ALD*E23797~CCS2:50
+1152163	ALDI SÜD	LGS-040-02	Am Sportplatz 6b	63791	Karlstein a. Main	50.034456	9.039096	1	Mo-So 06:00-22:00	Keine Beschränkung	DE*ALD*E23794~CCS2:50|DE*ALD*E23795~CCS2:50
+1152469	IONITY GmbH	IONITY Neuberg	Röntgenstr. 1	63526	Erlensee	50.182270	9.008168	1	24/7	Nur für Kunden/Besucher	DE*IOY*E239701~CCS2:350|DE*IOY*E239702~CCS2:350|DE*IOY*E239771~CCS2:200|DE*IOY*E239772~CCS2:200|DE*IOY*E239773~CCS2:200|DE*IOY*E239774~CCS2:200|DE*IOY*E239775~CCS2:200|DE*IOY*E239776~CCS2:200|DE*IOY*E239777~CCS2:200|DE*IOY*E239778~CCS2:200
+1152865	Azevedo Nelson e.K.		Krotzenburger Str. 30-32	63796	Kahl a. Main	50.072190	9.000360	1	Mo-Sa 07:00-21:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1154540	EMS		Dörnsenbachstr. 10	63825	Westerngrund	50.116150	9.238040	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1155994	EnBW mobility+ AG und Co.KG	REWE Langenselbold, Ringstraße 33-39	Ringstraße 33-39	63505	Langenselbold	50.183163	9.033713	1	24/7	Keine Beschränkung	DE*EBW*E914846*1~CCS2:200|DE*EBW*E914846*2~CCS2:200|DE*EBW*E914845*1~CCS2:200|DE*EBW*E914845*2~CCS2:200
+1156610	Lantzerath /Topteq	Gelnhausen	Freigerichter Str. 2	63571	Gelnhausen	50.202370	9.178020	1	24/7	Keine Beschränkung	~CCS2:300
+1156611	Lantzerath /Topteq	Gelnhausen	Freigerichter Str. 2	63571	Gelnhausen	50.202410	9.178060	1	24/7	Keine Beschränkung	~CCS2:150
+1157640	AVEMO Freigericht		Hanauer Str. 61	63579	Freigericht	50.147520	9.111540	1	Mo-Fr 07:00-19:00, Sa 09:00-14:00	Nur für Kunden/Besucher	~TYPE2:11
+1157641	AVEMO Freigericht		Hanauer Str. 61	63579	Freigericht	50.146930	9.111750	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1159273	Energieversorgung Alzenau GmbH	Klinikum Alzenau-Wasserlos	Schloßhof 1	63755	Alzenau	50.070240	9.077000	1	24/7	Nur für Kunden/Besucher	DEALZE001301~TYPE2:22|DEALZE001302~TYPE2:22|DEALZE001303~TYPE2:22|DEALZE001304~TYPE2:22|DEALZE001305~TYPE2:22|DEALZE001306~TYPE2:22|DEALZE001307~TYPE2:22|DEALZE001308~TYPE2:22|DEALZE001309~TYPE2:22|DEALZE001310~TYPE2:22|DEALZE001311~TYPE2:22|DEALZE001312~TYPE2:22|DEALZE001313~TYPE2:22|DEALZE001314~TYPE2:22|DEALZE001315~TYPE2:22|DEALZE001316~TYPE2:22|DEALZE001317~TYPE2:22|DEALZE001318~TYPE2:22|DEALZE001319~TYPE2:22|DEALZE001320~TYPE2:22
+1159283	Energieversorgung Alzenau GmbH	Parkplatz Berliner Str.	Berliner Str. 12c	63755	Alzenau	50.089530	9.055488	1	24/7	Keine Beschränkung	DEALZE001201~TYPE2:22|DEALZE001202~TYPE2:22
+1159513	Shell Deutschland GmbH		Am Nesselbusch 2	63505	Langenselbold	50.179040	9.021065	1		Keine Beschränkung	~CCS2:400|~CCS2:400|~CCS2:200|~CCS2:200
+1159514	Shell Deutschland GmbH		Am Nesselbusch 2	63505	Langenselbold	50.179126	9.021065	1		Keine Beschränkung	~CCS2:400|~CCS2:400
+1159516	Shell Deutschland GmbH		Am Nesselbusch 2	63505	Langenselbold	50.179188	9.021181	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1159517	Shell Deutschland GmbH		Am Nesselbusch 2	63505	Langenselbold	50.179067	9.021248	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1159525	SMATRICS GmbH & Co KG		Bruchtannenstr. 11	63801	Kleinostheim	50.012178	9.061170	1	24/7	Keine Beschränkung	DE*WRK*EDE3080473*001AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*002AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*003AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*004AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*005AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*006AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*007AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*008AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*009AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*010AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*011AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*012AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*013AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*014AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*015AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*016AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*017AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*018AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*019AC~TYPE2_TETHERED:22|DE*WRK*EDE3080473*020AC~TYPE2_TETHERED:22
+1161826	EAM Natur Energie GmbH	Gelnhausen Kaufland eTower	Weisskirchenweg 11	63571	Gelnhausen	50.188662	9.181049	1	24/7	Keine Beschränkung	DE*EAM*E*0985~CCS2:200|DE*EAM*E*0986~CCS2:200
+1162482	Electra Germany GmbH	Erlensee - 24-TOTAL Autohof	Röntgenstr. 1	63526	Erlensee	50.182186	9.008524	1	24/7	Keine Beschränkung	DE*ELD*EZMA3~CCS2:400|DE*ELD*EWNC6~CCS2:400|DE*ELD*EEJ8L~CCS2:400|DE*ELD*EL9ZY~CCS2:400|DE*ELD*EW6N3~CCS2:400|DE*ELD*EBC9C~CCS2:400|DE*ELD*EW98T~CCS2:400|DE*ELD*EW9V4~CCS2:400
+1162832	Meygo Charge GmbH	Ladepark Gelnhausen	Altenhaßlauer Weg 5	63571	Gelnhausen	50.187992	9.174331	1	24/7	Keine Beschränkung	DE*MEY*E10034*01~TYPE2:22|DE*MEY*E10034*02~TYPE2:22|DE*MEY*E10035*01~TYPE2:22|DE*MEY*E10035*02~TYPE2:22|DE*MEY*E10036*01~TYPE2:22|DE*MEY*E10036*02~TYPE2:22|DE*MEY*E10037*01~TYPE2:22|DE*MEY*E10037*02~TYPE2:22|DE*MEY*E10038*01~TYPE2:22|DE*MEY*E10038*02~TYPE2:22|DE*MEY*E10039*01~TYPE2:22|DE*MEY*E10039*02~TYPE2:22|DE*MEY*E10040*01~CCS2:50|DE*MEY*E10040*02~CCS2:50|DE*MEY*E10042*01~CCS2:300|DE*MEY*E10042*02~CCS2:300
+1163184	VIOCON	TFS GmbH	Am Rosengarten 5	63607	Wächtersbach	50.264609	9.313518	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22

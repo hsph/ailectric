@@ -1,0 +1,61 @@
+1021997	EWE Go GmbH		Am Waldrand 7	15890	Eisenhüttenstadt	52.130803	14.635403	1			~CCS2:160|~CCS2:160
+1057072	Stadtwerke Frankfurt (Oder) GmbH		Marktplatz 4	15230	Frankfurt (Oder)	52.343955	14.553298	1			~TYPE2:22|~TYPE2:22
+1057073	Stadtwerke Frankfurt (Oder) GmbH		Dr.-Hermann-Neumark-Str. 1	15230	Frankfurt (Oder)	52.343424	14.550159	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1057075	Stadtwerke Frankfurt (Oder) GmbH		Stendaler Straße 8	15234	Frankfurt (Oder)	52.354566	14.530060	1			~TYPE2:22|~TYPE2:22
+1057076	Stadtwerke Frankfurt (Oder) GmbH		Rudolf-Breitscheid-Straße 22	15230	Frankfurt (Oder)	52.343294	14.545998	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1057077	Stadtwerke Frankfurt (Oder) GmbH		REgierungsstraße 2	15230	Frankfurt (Oder)	52.342670	14.554347	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1057078	Stadtwerke Frankfurt (Oder) GmbH		Karl-Marx-Straße 191	15230	Frankfurt (Oder)	52.343995	14.550869	1			~TYPE2:22+TYPE2_TETHERED:22|~TYPE2:22+TYPE2_TETHERED:22
+1064324	Kaufland	3440_Kland_Frankfurt Oder_T65-IT1-4522-096	Josef-Gesing-Str. 6	15234	Frankfurt (Oder)	52.348944	14.519977	1		Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1070480	Elektro Jahn GmbH & Co.KG		Stendaler Straße 14	15234	Frankfurt (Oder)	52.354873	14.527776	1			~TYPE2:22|~TYPE2:22
+1070482	Elektro Jahn GmbH & Co.KG		Martin-Opitz-Straße 1-4	15232	Frankfurt (Oder)	52.324794	14.546491	1			~TYPE2:11|~TYPE2:11
+1073074	Elektro Jahn GmbH & Co.KG	Alexej-Leonow-Straße	Alexej-Leonow-Str. 1	15236	Frankfurt (Oder)	52.329114	14.519590	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0009*1~TYPE2:22|DE*8VO*EJAHN0009*2~TYPE2:22
+1073076	Elektro Jahn GmbH & Co.KG	Baumschulenweg	Baumschulenweg 33	15236	Frankfurt (Oder)	52.334615	14.521083	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0003*1~TYPE2:22|DE*8VO*EJAHN0003*2~TYPE2:22
+1073078	Elektro Jahn GmbH & Co.KG	Platz der Demokratie 2	Platz der Demokratie 2	15236	Frankfurt (Oder)	52.331503	14.529160	1	24/7	Keine Beschränkung	DE*8VO*E0000086*1~TYPE2:22|DE*8VO*E0000086*2~TYPE2:22
+1073079	Elektro Jahn GmbH & Co.KG	Hamburger Straße	Hamburger Str. 38a	15234	Frankfurt (Oder)	52.356098	14.533303	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0011*1~TYPE2:22|DE*8VO*EJAHN0011*2~TYPE2:22
+1073080	Elektro Jahn GmbH & Co.KG	Fürstenberger Straße	Fürstenberger Str. 22	15232	Frankfurt (Oder)	52.335653	14.541224	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0004*1~TYPE2:22|DE*8VO*EJAHN0004*2~TYPE2:22
+1073081	Elektro Jahn GmbH & Co.KG	Aurorahügel	Aurorahügel 4	15232	Frankfurt (Oder)	52.330145	14.540836	1	24/7	Keine Beschränkung	DE*8VO*E0000065*1~TYPE2:22|DE*8VO*E0000065*2~TYPE2:22
+1073082	Elektro Jahn GmbH & Co.KG	Cottbuser Straße	Cottbuser Str. 6	15232	Frankfurt (Oder)	52.337966	14.542032	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0008*1~TYPE2:22|DE*8VO*EJAHN0008*2~TYPE2:22
+1073083	Elektro Jahn GmbH & Co.KG	Walter-Korsing-Straße	Walter-Korsing-Str. 33	15230	Frankfurt (Oder)	52.334361	14.554494	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0007*1~TYPE2:22|DE*8VO*EJAHN0007*2~TYPE2:22
+1073084	Elektro Jahn GmbH & Co.KG	Schulstraße	Schulstr. 4	15230	Frankfurt (Oder)	52.348152	14.552379	1	24/7	Keine Beschränkung	DE*8VO*E0000090*1~TYPE2:22|DE*8VO*E0000090*2~TYPE2:22
+1073085	Elektro Jahn GmbH & Co.KG	An der alten Universität	An der Alten Universität 6	15230	Frankfurt (Oder)	52.348854	14.549122	1	24/7	Keine Beschränkung	DE*8VO*E0000089*1~TYPE2:22|DE*8VO*E0000089*2~TYPE2:22
+1073086	Elektro Jahn GmbH & Co.KG	Beckmannstraße	Beckmannstr. 6a	15230	Frankfurt (Oder)	52.349600	14.540852	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0002*1~TYPE2:22|DE*8VO*EJAHN0002*2~TYPE2:22
+1073087	Elektro Jahn GmbH & Co.KG	Rathenaustraße	Rathenaustr. 13	15234	Frankfurt (Oder)	52.349507	14.515235	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0006*1~TYPE2:22|DE*8VO*EJAHN0006*2~TYPE2:22
+1073088	Elektro Jahn GmbH & Co.KG	Im Sande	Im Sande 1	15234	Frankfurt (Oder)	52.335994	14.525721	1	24/7	Keine Beschränkung	DE*8VO*EJAHN0005*1~TYPE2:22|DE*8VO*EJAHN0005*2~TYPE2:22
+1073089	Elektro Jahn GmbH & Co.KG	Gubener Straße	Gubener Str. 1	15230	Frankfurt (Oder)	52.339641	14.550458	1	24/7	Keine Beschränkung	DE*8VO*E0000091*1~TYPE2:22|DE*8VO*E0000091*2~TYPE2:22
+1076351	INDEPENDENT LIVING Stiftung		Briesener Str. 4	15230	Frankfurt (Oder)	52.340335	14.544058	1			~TYPE2:11
+1076352	INDEPENDENT LIVING Stiftung		Briesener Str. 4	15230	Frankfurt (Oder)	52.340367	14.544395	1			~TYPE2:11|~TYPE2:11
+1081054	Stadtwerke Eisenhüttenstadt GmbH	Ladestation Amt Neuzelle / SEH_0006_2 (rechts)	Lindenpark 6	15898	Neuzelle	52.091277	14.633962	1	24/7	Keine Beschränkung	DESEHE000603~TYPE2:22|DESEHE000604~TYPE2:22|DESEHE000601~TYPE2:22|DESEHE000602~TYPE2:22
+1081056	Stadtwerke Eisenhüttenstadt GmbH	Ladestation Schwimmhalle / SEH_0005	Insel 4	15890	Eisenhüttenstadt	52.138324	14.639661	1	24/7	Keine Beschränkung	DESEHE000501~TYPE2:22|DESEHE000502~TYPE2:22
+1081057	Stadtwerke Eisenhüttenstadt GmbH	Karl-Marx-Straße 4 / SEH_0004	Karl-Marx-Str. 4	15890	Eisenhüttenstadt	52.141844	14.634017	1	24/7	Keine Beschränkung	DESEHE000401~TYPE2:22|DESEHE000402~TYPE2:22
+1081293	Autohaus Bothe OHG		Berliner Chaussee 91	15234	Frankfurt/Oder	52.365233	14.524040	1			~TYPE2:11|~TYPE2:11
+1087320	Peter Fuchs		Weißdornstraße 61	15236	Frankfurt (Oder)	52.326687	14.503493	1			~TYPE2_TETHERED:11
+1089770	Heckmann Stahl- und Metallbau Ost GmbH		Oderlandstraße 4	15890	Eisenhüttenstadt	52.154431	14.656886	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1089771	Heckmann Stahl- und Metallbau Ost GmbH		Oderlandstraße 4	15890	Eisenhüttenstadt	52.155875	14.657055	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1093584	Auto-Centrum-ClaSa GmbH		Beeskower Straße 22	15890	Eisenhüttenstadt	52.149294	14.649182	1			~TYPE2:11
+1096373	AH Minnich an der Oder GmbH		Nuhnenstraße 7	15234	Frankfurt (Oder)	52.345351	14.502875	1			~CCS2:22|~TYPE2:11
+1096427	Auto Center Frankfurt Oder GmbH		Goepelstraße 78	15234	Frankfurt (Oder)	52.356725	14.544548	1			~CCS2:22|~TYPE2:11
+1096951	Autohaus Philipp GmbH		Beeskower Str. 6B	15890	Eisenhüttenstadt	52.148793	14.654249	1			~TYPE2_TETHERED:11|~CCS2:22|~TYPE2:11
+1103436	Solarstrom ZP14	Zehmeplatz 14	Zehmeplatz 14	15230	Frankfurt (Oder)	52.341121	14.549969	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1103673	Elektro Jahn GmbH & Co.KG	Konstantin-Ziolkowski-Allee	Konstantin-Ziolkowski-Allee 1	15236	Frankfurt (Oder)	52.329670	14.513947	1	24/7	Keine Beschränkung	DE*8VO*EACJAHN0010*1~TYPE2:22|DE*8VO*EACJAHN0010*2~TYPE2:22
+1103674	Elektro Jahn GmbH & Co.KG	Franz-Mehring-Straße	Franz-Mehring-Str. 15	15230	Frankfurt (Oder)	52.345105	14.542527	1	24/7	Keine Beschränkung	DE*8VO*EACJAHN0013*1~TYPE2:22|DE*8VO*EACJAHN0013*2~TYPE2:22
+1103947	Wichern Diakonie Frankfurt (Oder) e.V.		Luisenstr. 21-24	15230	Frankfurt (Oder)	52.347290	14.534950	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1106311	Elektro Jahn GmbH & Co.KG	Leipziger Platz Frankfurt (Oder)	Leipziger Platz 1	15232	Frankfurt (Oder)	52.335786	14.539630	1	24/7	Keine Beschränkung	DE*8VO*EACJAHN0012*1~TYPE2:22|DE*8VO*EACJAHN0012*2~TYPE2:22
+1118286	Vattenfall Smarter Living GmbH		Waldstr. 111	15898	Neuzelle	52.093117	14.634106	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180|~CCS2:180|~CCS2:180
+1121083	Vattenfall Smarter Living GmbH		Markendorfer Str. 16A	15234	Frankfurt (Oder)	52.342148	14.528845	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1121084	Vattenfall Smarter Living GmbH		Markendorfer Str. 16A	15234	Frankfurt (Oder)	52.342056	14.528898	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1126938	EnBW mobility+ AG und Co.KG		Nuhnenstr. 19	15234	Frankfurt (Oder)	52.341324	14.506451	1		Keine Beschränkung	~CCS2:190|~CCS2:190
+1132096	E.DIS AG		Werkstr. 1	15890	Eisenhüttenstadt	52.162106	14.629482	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~CCS2:200|~CCS2:200
+1132098	E.DIS AG		Werkstr. 1	15890	Eisenhüttenstadt	52.163353	14.627399	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1132099	E.DIS AG		Werkstr. 1	15890	Eisenhüttenstadt	52.161746	14.628043	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1135131	TotalEnergies Charging Solutions		Markendorfer Str. 15	15234	Frankfurt (Oder)	52.341161	14.529393	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50023*002*1~CCS2:400|DE*TCB*E3D9CS50023*002*2~CCS2:400|DE*TCB*E3D9CS50019*002*1~CCS2:400|DE*TCB*E3D9CS50019*002*2~CCS2:400|DE*TCB*E3D9CS50019*003*1~CCS2:400|DE*TCB*E3D9CS50019*002*2~CCS2:400|DE*TCB*E3D9CS50019*004*2~CCS2:400|DE*TCB*E3D9CS50019*004*1~CCS2:400
+1141052	Autohaus Spree-Eck GmbH & Co. KG		An der B 112 7	15890	Eisenhüttenstadt	52.162235	14.604626	1			~TYPE2_TETHERED:22|~TYPE2:11
+1143595	Vattenfall Smarter Living GmbH		Spartakusring 20	15232	Frankfurt (Oder)	52.333245	14.539345	1	24/7	Keine Beschränkung	~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360|~CCS2:360
+1144525	Stadtwerke Eisenhüttenstadt GmbH	Rathaus Eisenhüttenstadt SEH_0001	Zentraler Platz 1	15890	Eisenhüttenstadt	52.145333	14.629086	1	24/7	Keine Beschränkung	DESEHE000101~CCS2:50|DESEHE000102~TYPE2:22
+1149097	Allego		Messering 9	15234	Frankfurt (Oder)	52.340511	14.501957	1	24/7	Keine Beschränkung	DEALLEGO003471_1~CCS2:150|DEALLEGO003471_2~CCS2:150
+1151799	Wirelane GmbH		Dresdener Platz 1	15232	Frankfurt (Oder)	52.336319	14.541947	1		Keine Beschränkung	DE*WLN*ES001197~TYPE2:11|DE*WLN*ES001196~TYPE2:11
+1151800	Wirelane GmbH		Dresdener Platz 1	15232	Frankfurt (Oder)	52.336938	14.542583	1		Keine Beschränkung	DE*WLN*ES001198~TYPE2:11|DE*WLN*ES001199~TYPE2:11|DE*WLN*ES001201~TYPE2:11|DE*WLN*ES001200~TYPE2:11
+1153197	Stadtwerke Frankfurt (Oder) GmbH	Ladestation Stadthaus	Goepelstr. 38	15234	Frankfurt (Oder)	52.357778	14.540491	1	24/7	Keine Beschränkung	DEFFOE001001~TYPE2:11|DEFFOE001002~TYPE2:11|DEFFOE001003~TYPE2:11|DEFFOE001004~TYPE2:11
+1156423	Wirelane GmbH	City Park Hotel Frankfurt/Oder	Lindenstraße 12	15230	Frankfurt (Oder)	52.339069	14.551914	1		Keine Beschränkung	DE*WLN*ES000359~TYPE2:11|DE*WLN*ES000360~TYPE2:11|DE*WLN*ES000355~TYPE2:11|DE*WLN*ES000356~TYPE2:11|DE*WLN*ES000357~TYPE2:11|DE*WLN*ES000358~TYPE2:11
+1160401	Auto-Centrum-ClaSa GmbH	Auto-Centrum-ClaSa GmbH	Beeskower Str. 22	15890	Eisenhüttenstadt	52.149337	14.649140	1	24/7	Keine Beschränkung	E8DQS~TYPE2:22
+1162983	Wirelane GmbH		Sophienstraße 24	15230	Frankfurt (Oder)	52.346500	14.539556	1		Keine Beschränkung	DE*WLN*EP001905~TYPE2:22|DE*WLN*EP001906~TYPE2:22
+1162984	Wirelane GmbH		Bergstraße 186	15230	Frankfurt (Oder)	52.353583	14.546917	1		Keine Beschränkung	DE*WLN*EP001915~TYPE2:22|DE*WLN*EP001916~TYPE2:22

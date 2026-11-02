@@ -1,0 +1,36 @@
+1004172	SachsenEnergie AG		Bürgerallee 1Y	02797	Kurort Oybin	50.841854	14.744339	1		Keine Beschränkung	DE*SAE*E7214*01~TYPE2:22|DE*SAE*E7214*02~TYPE2:22
+1004183	SachsenEnergie AG		Jonsdorfer Str. 1N	02779	Großschönau	50.880807	14.670901	1		Keine Beschränkung	DE*SAE*E7212*01~TYPE2:22|DE*SAE*E7212*02~TYPE2:22
+1004184	SachsenEnergie AG		Hauptstr. 54	02779	Großschönau	50.896789	14.659469	1		Keine Beschränkung	DE*SAE*E7239*01~TYPE2:22|DE*SAE*E7239*02~TYPE2:22
+1004311	SachsenEnergie AG		Großschönauer Str. 41Y	02796	Kurort Jonsdorf	50.850530	14.691670	1		Keine Beschränkung	DE*SAE*E7334*01~TYPE2:22|DE*SAE*E7334*02~TYPE2:22
+1004324	SachsenEnergie AG		Hauptstr. 214Z	02739	Eibau	50.992547	14.647698	1		Keine Beschränkung	DE*SAE*E7317*01~TYPE2:22|DE*SAE*E7317*02~TYPE2:22
+1004349	SachsenEnergie AG		Rathausplatz 2Y	02782	Seifhennersdorf	50.934667	14.610436	1		Keine Beschränkung	DE*SAE*E7320*01~TYPE2:22|DE*SAE*E7320*02~TYPE2:22
+1004396	SachsenEnergie AG		Straße der Republik 54X	02791	Oderwitz	50.950246	14.731940	1		Keine Beschränkung	DE*SAE*E7315*01~TYPE2:22|DE*SAE*E7315*02~TYPE2:22
+1011447	Comfort Charge		Nordstr. 17	02763	Zittau	50.908400	14.806600	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011651	E-Merge Mobility GmbH		Johann-Andreas-Schubert-Straße 13	02730	Ebersbach-Neugersdorf	50.998607	14.615993	1			~CCS2:99|~CCS2:99
+1031186	Fraunhofer-Gesellschaft e. V.		Theodor-Körner-Allee 6	02763	Zittau	50.893274	14.803729	1			~TYPE2:22|~TYPE2:22
+1034624	Stadtwerke Zittau		Breite Straße 0	02763	Zittau	50.894883	14.804933	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1034625	Stadtwerke Zittau		Theodor-Körner-Alle 16	02763	Zittau	50.893112	14.806682	1			~TYPE2:22|~CCS2:21
+1034626	Stadtwerke Zittau		Schillerstraße 35	02763	Zittau	50.909387	14.812191	1			~TYPE2:22|~TYPE2:22
+1034627	Stadtwerke Zittau		Südstraße 14	02763	Zittau	50.887800	14.809159	1			~TYPE2:22|~TYPE2:22
+1034628	Stadtwerke Zittau		Gellertstraße 15	02763	Zittau	50.902529	14.806769	1			~TYPE2:22|~TYPE2:22
+1034629	Stadtwerke Zittau		Äußere Oybiner Straße 16	02763	Zittau	50.894189	14.793644	1			~TYPE2:22|~TYPE2:22
+1034630	Stadtwerke Zittau		Äußere Weberstraße 21b	02763	Zittau	50.898063	14.798251	1			~TYPE2:22|~TYPE2:22
+1034631	Stadtwerke Zittau		Neustadt 17	02763	Zittau	50.896318	14.810090	1			~TYPE2:22|~TYPE2:22
+1034632	Stadtwerke Zittau		Rathausplatz 12	02763	Zittau	50.895982	14.808327	1			~CCS2:50+CHADEMO:50|~TYPE2:22
+1035419	Stadtwerke Zittau	Parkplatz Hotel Dresdner Hof	Äußere Oybiner Str. 12	02763	Zittau	50.894197	14.797848	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1053377	Stadtwerke Pirna GmbH		Oswald-Richter-Str. 34	02730	Ebersbach-Neugersdorf	50.990020	14.607240	1			~TYPE2:22|~TYPE2:22
+1066726	EDEKA Lubach		Oberer Viebig 2c	02785	Olbersdorf	50.871246	14.765317	1			~TYPE2:22|~TYPE2:22
+1066742	SeeCamping Zittauaer Gebirge oHG		Zur Landesgartenschau 2	02785	Olbersdorf	50.894146	14.771440	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:11
+1080766	Ploucquet GmbH		Ostritzer Allee 8	02763	Zittau	50.909046	14.843842	1			~TYPE2:11
+1086764	Mario Kretzschmar		Zum Sportplatz 2	02788	Zittau	50.978066	14.876719	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1087017	Michael Lutter		An der Scheibe 10	02782	Seifhennersdorf	50.935288	14.607442	1			~TYPE2:11
+1096616	Autohaus Elitzsch GmbH		Äußere Weberstraße 41	02763	Zittau	50.897400	14.795836	1			~CCS2:22|~TYPE2:11
+1096931	Autohaus Havlat e.K.		Waltersdorfer Str. 86	02779	Großschönau	50.887441	14.658652	1	24/7	Keine Beschränkung	~CCS2:22|~TYPE2:11
+1097361	H.-J. Paul Fahrzeuge GmbH u Co		Hauptstraße 100	02727	Neugersdorf	50.972571	14.597848	1			~TYPE2:11
+1097985	Stadtwerke Zittau	Böhmische Straße 31	Böhmische Str. 31	02763	Zittau	50.894177	14.807729	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1106050	Autohaus Löbau GmbH Filiale Zittau		Äußere Weberstr. 36	02763	Zittau	50.898826	14.793728	1			~TYPE2:22|~TYPE2:22
+1114088	Haus und Bau,Energieerzeugung , Einzelunternehmer		Hauptstrasse 114	02763	Oberseifersdorf	50.936340	14.803890	1			~TYPE2_TETHERED:22+SCHUKO:22
+1116068	EWE Go GmbH	McD_1718_1A	Äußere Weberstr. 83	02763	Zittau	50.898587	14.784927	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1132016	EDEKA Schreyer / Patrick Schreyer e.K.		Bleichenstr. 1	02727	Ebersbach-Neugersdorf	50.981813	14.610061	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~CCS2:50
+1132088	EnBW mobility+ AG und Co.KG		Äußere Weberstr. 89	02763	Zittau	50.898800	14.780900	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1135463	Autoservice Leutersdorf GmbH	Autoservice Leutersdorf GmbH	Sachsenstr. 26	02794	Leutersdorf	50.963157	14.649769	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22

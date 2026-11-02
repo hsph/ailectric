@@ -1,0 +1,317 @@
+1011462	Comfort Charge		Bahnhofsallee 3	31737	Rinteln	52.197610	9.079680	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011463	Comfort Charge		Springer Landstr. 4	31789	Hameln	52.104340	9.377720	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1011487	Comfort Charge		Bahnhofstraße 15b	31655	Stadthagen	52.325910	9.199490	1			~CCS2:150+CHADEMO:150|~TYPE2:22|~TYPE2_TETHERED:22
+1013529	enercity AG		Parkplatz Volkershof 0	30890	Barsinghausen	52.302809	9.464011	1			~TYPE2:22|~TYPE2:22
+1016399	Avacon AG		Lange Str. 40	31848	Bad Münder am Deister	52.196383	9.465471	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1021594	EWE Go GmbH	McD_0410	Kronskamp 1	30890	Barsinghausen	52.333716	9.413497	1	24/7	Keine Beschränkung	DE*2GO*EMCD0410*1A*1~CCS2:150|DE*2GO*EMCD0410*1A*2~CCS2:150
+1021639	EWE Go GmbH	McD_0986	An der Nonnenwiese 1a	31515	Wunstorf	52.428329	9.416549	1	24/7	Keine Beschränkung	DE*2GO*EMCD0986*1A*1~CCS2:150|DE*2GO*EMCD0986*1A*2~CCS2:150
+1021690	EWE Go GmbH	McD_1610	Kreuzbreite 21	31675	Bückeburg	52.265620	9.071268	1	24/7	Keine Beschränkung	DE*2GO*EMCD1610*1~CCS2:150|DE*2GO*EMCD1610*2~CCS2:150
+1021965	EWE Go GmbH		Altes Feld 16	31749	Auetal	52.233792	9.246897	1			~CCS2:300|~CCS2:300
+1022059	EWE Go GmbH		Jahnstraße 30	31655	Stadthagen	52.309936	9.191440	1			~CCS2:160|~CCS2:160
+1024921	EnBW mobility+ AG und Co.KG		Dorfstraße 1A	31711	Luhden	52.229300	9.094520	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1025114	EnBW mobility+ AG und Co.KG		Raststätte Auetal Süd 0	31749	Auetal	52.226935	9.232780	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025115	EnBW mobility+ AG und Co.KG		Raststätte Auetal Nord 0	31749	Auetal	52.223838	9.221553	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1025519	EnBW mobility+ AG und Co.KG		Vornhäger Straße 63	31655	Stadthagen	52.329140	9.224710	1			~CCS2:100|~CCS2:100|~CCS2:100+CHADEMO:100|~TYPE2:22
+1025945	EnBW mobility+ AG und Co.KG		Zinngießerstr. 1	31789	Hameln	52.084894	9.342276	1			~CCS2:75|~CCS2:75|~CCS2:75|~CCS2:75
+1026629	EnBW mobility+ AG und Co.KG		Bückethaler Straße 2	31542	Bad Nenndorf	52.334730	9.401250	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1026854	EnBW mobility+ AG und Co.KG		Hanomagstraße 0	31867	Lauenau	52.276550	9.352300	1			~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22|~CCS2:300|~CCS2:300+CHADEMO:300|~TYPE2:22
+1027228	EnBW mobility+ AG und Co.KG		Bruchweg 1A	32699	Extertal	52.070550	9.118200	1			~CCS2:150|~CCS2:150
+1027725	EnBW mobility+ AG und Co.KG		Werner-von-Siemens-Straße 6	30890	Barsinghausen	52.305809	9.467864	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027821	EnBW mobility+ AG und Co.KG		Jahnstraße 35	31655	Stadthagen	52.312748	9.193975	1			~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150|~TYPE2:22|~CCS2:300|~CCS2:300
+1027878	EnBW mobility+ AG und Co.KG		Dülwaldstraße 4	31655	Stadthagen	52.330079	9.213670	1			~CCS2:150|~CCS2:150|~TYPE2:22
+1028181	Westfalen Weser Ladeservice GmbH	10136	Amtsstr. 5	31552	Rodenberg	52.311819	9.356297	1		Keine Beschränkung	DE*WWL*E10136*04~TYPE2:22|DE*WWL*E10136*05~TYPE2:22
+1028186	Westfalen Weser Ladeservice GmbH		Poststraße 1	31542	Bad Nenndorf	52.336230	9.375290	1			~TYPE2:22|~TYPE2:22
+1028188	Westfalen Weser Ladeservice GmbH		Mittelstraße 35	32699	Extertal	52.067880	9.127140	1			~TYPE2:22|~TYPE2:22
+1028190	Westfalen Weser Ladeservice GmbH		Dr.-Witte-Platz 6	31675	Bückeburg	52.261610	9.050790	1			~TYPE2:22|~TYPE2:22
+1028195	Westfalen Weser Ladeservice GmbH		Obernstraße 33	31655	Stadthagen	52.321440	9.206380	1			~TYPE2:22|~TYPE2:22
+1028198	Westfalen Weser Ladeservice GmbH		Jahnstr. 20	31655	Stadthagen	52.313770	9.191300	1			~TYPE2:22|~TYPE2:22
+1028208	Westfalen Weser Ladeservice GmbH	10108	Wietersheimstr. 3	31553	Sachsenhagen	52.395530	9.264100	1		Keine Beschränkung	DE*WWL*E10108*04~TYPE2:22|DE*WWL*E10108*05~TYPE2:22
+1028209	Westfalen Weser Ladeservice GmbH		Meeresblick Straße 2	31556	Wölpinghausen	52.420230	9.235760	1			~TYPE2:22|~TYPE2:22
+1028221	Westfalen Weser Ladeservice GmbH		Bahnhofstr. 26	31698	Lindhorst	52.356560	9.285010	1			~TYPE2:22|~TYPE2:22
+1028223	Westfalen Weser Ladeservice GmbH	10118	Bornemannplatz 0	31683	Obernkirchen	52.271910	9.129170	1		Keine Beschränkung	DE*WWL*E10125*04~TYPE2:22|DE*WWL*E10125*05~TYPE2:22
+1028224	Westfalen Weser Ladeservice GmbH		Willy-Penzel-Platz 4	37619	Heyen	52.004920	9.499960	1			~TYPE2:22|~TYPE2:22
+1028226	Westfalen Weser Ladeservice GmbH	10129	Tannenweg 14	31855	Aerzen	52.048490	9.264290	1		Keine Beschränkung	DE*WWL*E10129*04~TYPE2:22|DE*WWL*E10129*05~TYPE2:22
+1028228	Westfalen Weser Ladeservice GmbH		Hinter dem Sahl 4	31719	Wiedensahl	52.383020	9.120410	1			~TYPE2:22|~TYPE2:22
+1028230	Westfalen Weser Ladeservice GmbH		Hauptstraße 60a	31860	Emmerthal	52.048690	9.386440	1			~TYPE2:22|~TYPE2:22
+1028242	Westfalen Weser Ladeservice GmbH	10149	Bückeburger Str. 4	31707	Bad Eilsen	52.239920	9.098700	1		Keine Beschränkung	DE*WWL*E10149*04~TYPE2:22|DE*WWL*E10149*05~TYPE2:22
+1028243	Westfalen Weser Ladeservice GmbH		Bahnhofstraße 61	31691	Helpsen	52.308445	9.121297	1			~TYPE2:22|~TYPE2:22
+1028245	Westfalen Weser Ladeservice GmbH		Altenhäger Str. 3	31558	Hagenburg	52.434164	9.327286	1			~TYPE2:22|~TYPE2:22
+1028249	Westfalen Weser Ladeservice GmbH		Hauptstraße 13	31552	Apelern	52.290104	9.335578	1			~TYPE2:22|~TYPE2:22
+1028259	Westfalen Weser Ladeservice GmbH		Bismarkplatz 2	32469	Petershagen	52.367759	9.004221	1			~TYPE2:22|~TYPE2:22
+1028266	Westfalen Weser Ladeservice GmbH		Bahnhofstraße 34	31675	Bückeburg	52.261250	9.046450	1			~TYPE2:22|~TYPE2:22
+1028288	Westfalen Weser Ladeservice GmbH		Röserheide 2	31683	Obernkirchen	52.277594	9.146464	1			~TYPE2:22|~TYPE2:22
+1028315	Westfalen Weser Ladeservice GmbH		Feldweg 2d	31559	Haste	52.377452	9.384110	1			~TYPE2:22|~TYPE2:22
+1028422	Westfalen Weser Ladeservice GmbH		Jahnstraße 20	31655	Stadthagen	52.314139	9.191233	1			~TYPE2:22|~TYPE2:22
+1028438	Westfalen Weser Ladeservice GmbH		Schloßgartenstraße 1a	31675	Bückeburg	52.261289	9.043508	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028459	Westfalen Weser Ladeservice GmbH		Marktplatz 1	31675	Bückeburg	52.266338	9.044473	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028464	Westfalen Weser Ladeservice GmbH		Unterwallweg 5a	31675	Bückeburg	52.262927	9.052391	1			~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1028485	Westfalen Weser Ladeservice GmbH		Hannoversche Straße 15	31675	Bückeburg	52.266660	9.067041	1			~CCS2:100|~CCS2:100
+1028491	Westfalen Weser Ladeservice GmbH	50300	Berliner Str. 8	30890	Barsinghausen	52.304437	9.467812	1		Keine Beschränkung	DE*WWL*E50300*04~TYPE2:22|DE*WWL*E50300*05~TYPE2:22|DE*WWL*E50301*04~TYPE2:22|DE*WWL*E50301*05~TYPE2:22|DE*WWL*E50310*04~TYPE2:22|DE*WWL*E50310*05~TYPE2:22
+1028495	Westfalen Weser Ladeservice GmbH	5ß340	Bergamtstr. 0	30890	Barsinghausen	52.300350	9.462173	1		Keine Beschränkung	DE*WWL*E50340*04~TYPE2:22|DE*WWL*E50340*05~TYPE2:22|DE*WWL*E50341*04~TYPE2:22|DE*WWL*E50341*05~TYPE2:22
+1028497	Westfalen Weser Ladeservice GmbH	50350	Goethestr. 0	30890	Barsinghausen	52.308590	9.463788	1		Keine Beschränkung	DE*WWL*E50350*04~TYPE2:22|DE*WWL*E50350*05~TYPE2:22
+1028498	Westfalen Weser Ladeservice GmbH		Osterende 14	30890	Barsinghausen	52.365593	9.481078	1			~TYPE2:22|~TYPE2:22
+1028499	Westfalen Weser Ladeservice GmbH		Langenäcker 38	30890	Barsinghausen	52.306002	9.477290	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1028503	Westfalen Weser Ladeservice GmbH	50390	Ellernstr. 0	30890	Barsinghausen	52.288857	9.494553	1		Keine Beschränkung	DE*WWL*E50390*04~TYPE2:22|DE*WWL*E50390*05~TYPE2:22|DE*WWL*E50391*04~TYPE2:22|DE*WWL*E50391*05~TYPE2:22
+1028535	Westfalen Weser Ladeservice GmbH	50330	Volkers Hof 0	30890	Barsinghausen	52.302810	9.464085	1		Keine Beschränkung	DE*WWL*E50330*04~TYPE2:22|DE*WWL*E50330*05~TYPE2:22
+1028542	Westfalen Weser Ladeservice GmbH		Am Reitbach 12	30890	Barsinghausen	52.299913	9.481645	1			~TYPE2:22|~TYPE2:22
+1029038	EDEKA-MIHA Charge GmbH		Rehburger Straße 11	31547	Rehburg-Loccum	52.455522	9.154489	1			~TYPE2:22|~TYPE2:22
+1029039	EDEKA-MIHA Charge GmbH		Rehburger Straße 11	31547	Rehburg-Loccum	52.455488	9.154566	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1029113	EDEKA-MIHA Charge GmbH		Bahnhofstraße 26	31655	Stadthagen	52.327201	9.199678	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1031919	Circle K Deutschland		Autohof Kronskamp 3	30890	Barsinghausen	52.333274	9.414706	1			~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175|~CCS2:175+CHADEMO:175
+1034517	Stadtwerke Lemgo GmbH		Sternberger Str. 3	32694	Dörentrup	52.046100	9.020700	1			~TYPE2:22|~TYPE2:22
+1034531	Stadtwerke Lemgo GmbH		Poststraße 11	32694	Dörentrup	52.036368	9.006641	1			~TYPE2:11|~TYPE2:11
+1034532	Stadtwerke Lemgo GmbH		Poststraße 11	32694	Dörentrup	52.036357	9.006727	1			~TYPE2:11|~TYPE2:11
+1034537	Stadtwerke Wunstorf GmbH & Co. KG		Im Stadtfelde 0	31515	Wunstorf	52.423633	9.453683	1			~TYPE2:22|~TYPE2:22
+1034539	Stadtwerke Wunstorf GmbH & Co. KG		Hindenburg Str. 32	31515	Wunstorf	52.423635	9.438384	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1034543	Stadtwerke Wunstorf GmbH & Co. KG		In den Ellern 0	31515	Wunstorf	52.426145	9.418848	1			~TYPE2:22
+1034544	Stadtwerke Wunstorf GmbH & Co. KG		Hagenburger Str. 16-18	31515	Wunstorf	52.429992	9.419441	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:22
+1034545	Stadtwerke Wunstorf GmbH & Co. KG		In den Ellern 0	31515	Wunstorf	52.426155	9.418836	1			~TYPE2:22
+1034546	Stadtwerke Wunstorf GmbH & Co. KG		In den Ellern 0	31515	Wunstorf	52.426135	9.418859	1			~TYPE2:22|~TYPE2:22
+1034548	Stadtwerke Wunstorf GmbH & Co. KG		Meerstr. 2	31515	Wunstorf	52.452224	9.349551	1			~TYPE2:22|~TYPE2:22
+1034550	Stadtwerke Wunstorf GmbH & Co. KG		Hasselhorster Str. 40	31515	Wunstorf	52.431929	9.454141	1			~TYPE2:22|~TYPE2:22
+1034551	Stadtwerke Wunstorf GmbH & Co. KG		Albrecht-Dürer-Str. 1	31515	Wunstorf	52.417117	9.431736	1			~TYPE2:22|~TYPE2:22
+1034552	Stadtwerke Wunstorf GmbH & Co. KG		Herzog-Wilhelm-Str. 3	31515	Wunstorf	52.416054	9.444431	1			~TYPE2:22|~TYPE2:22
+1034553	Stadtwerke Wunstorf GmbH & Co. KG		Wilhelm-Busch-Str. bei 5	31515	Wunstorf	52.428216	9.449001	1			~TYPE2:22|~TYPE2:22
+1034554	Stadtwerke Wunstorf GmbH & Co. KG		Bruchdamm 0	31515	Wunstorf	52.451303	9.352196	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50|~TYPE2_TETHERED:22
+1038385	K + S Schäker GmbH		Fischerweg 1 1	31515	Wunstorf	52.455865	9.355764	1			~TYPE2:22
+1039482	IONITY GmbH		Auetal Nord 0	31749	Auetal	52.223649	9.222077	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1039486	IONITY GmbH		Auetal Süd 0	31749	Auetal	52.226613	9.232202	1			~CCS2:350|~CCS2:350|~CCS2:350|~CCS2:350
+1043178	Allego		Hanomagstraße 2	31867	Lauenau	52.278757	9.350637	1			DEALLEGO002517*1~CCS2:300|DEALLEGO002517*2~CCS2:300|DEALLEGO002521*1~CCS2:150|DEALLEGO002521*2~CCS2:150|DEALLEGO002518*1~CCS2:300|DEALLEGO002518*2~CCS2:300
+1043695	Allego		Bahlweg 2	31633	Leese	52.493939	9.120890	1		Keine Beschränkung	DEALLEGO002729*1~CCS2:150|DEALLEGO002729*2~CCS2:150
+1048152	enercity AG		Kirchstr. 8	30890	Barsinghausen	52.301779	9.461021	1	24/7	Keine Beschränkung	~CCS2:75|~CCS2:75
+1048310	EnBW mobility+ AG und Co.KG		Obere Str. 32	31553	Sachsenhagen	52.393300	9.267800	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1048421	Lidl		Reimerdeskamp 9	31787	Hameln	52.119079	9.355577	1			~TYPE2:22|~TYPE2:22
+1048724	Lidl	3864_Lidl_Hameln_T54-IT1-3720-030	Deisterstr. 85	31785	Hameln	52.103884	9.376062	1		Keine Beschränkung	~TYPE2:22|~CHADEMO:50+CCS2:50
+1049639	E.ON Drive Infrastructure		Raststätte Schafstrift 0	31749	Auetal	52.257491	9.306432	1			~CCS2:50|~CCS2:50
+1051237	Stadtwerke Wunstorf GmbH & Co. KG		In den Ellern 4	31515	Wunstorf	52.426876	9.190883	1			~TYPE2:22+TYPE2_TETHERED:22
+1052633	Ladesonne		Eilveser Hauptstraße 56	31535	Neustadt	52.464800	9.413809	1			~TYPE2:22|~TYPE2:22
+1052635	Ladesonne		Am Stadtbahnhof 11	31848	Bad Münder am Deister	52.192495	9.454579	1			~TYPE2:22|~TYPE2:22
+1052636	Ladesonne		Graf-Wilhelm-Straße 8a	31515	Wunstorf	52.453840	9.352000	1			~TYPE2_TETHERED:11
+1052654	Ladesonne		Auf der Bleiche 11	31547	Rehburg-Loccum	52.474647	9.230242	1			~TYPE2:22|~TYPE2:22
+1052655	Ladesonne		Niedersachsenstraße 10	31547	Rehburg	52.455097	9.148687	1			~TYPE2:22|~TYPE2:22
+1052656	Ladesonne		Heidtorstraße 1	31547	Rehburg-Loccum	52.474521	9.227904	1			~CCS2:50|~CCS2:50
+1053278	Q1 Autostrom	Bad Nenndorf, Hauptstraße - rechts	Hauptstr. 11	31542	Bad Nenndorf	52.335029	9.377257	1	24/7	Keine Beschränkung	DE*Q1A*E50010801~CCS2:50|DE*Q1A*E50010802~TYPE2:22
+1054699	Aral Pulse		Kolenfelder Str. 67b	31515	Wunstorf	52.416970	9.448350	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1054700	Aral Pulse		Kolenfelder Str. 67b	31515	Wunstorf	52.416900	9.448300	1			~CCS2:300+CHADEMO:300|~CCS2:300
+1054795	Aral Pulse		Fischbecker Landestraße 91	31787	Hameln	52.121489	9.334876	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1058008	E-Merge Mobility GmbH	DLRG, Bad Nenndorf	Im Niedernfeld 1-3	31542	Bad Nenndorf	52.343870	9.383710	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50|~CCS2:50|~CCS2:50
+1058013	Westfalen Weser Ladeservice GmbH	12DA1	Ernst-Kestner-Str. 5	31675	Bückeburg	52.259526	9.047944	1	24/7	Keine Beschränkung	DE*675*E12DA1*01~CCS2:50|DE*675*E12DA1*02~TYPE2:11
+1059809	Mercedes- Benz AG - Niederlassung Hannover		Vornhäger Str. 69	31655	Stadthagen	52.329508	9.226559	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1059821	Mercedes- Benz AG - Niederlassung Hannover		Kreuzbreite 1	31675	Bückeburg	52.264774	9.064024	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1059822	Mercedes- Benz AG - Niederlassung Hannover		Kreuzbreite 1	31675	Bückeburg	52.265064	9.063498	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1059837	Mercedes- Benz AG - Niederlassung Hannover		Vornhäger Str. 69	31655	Stadthagen	52.329447	9.226563	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1059983	Westfalen Weser Ladeservice GmbH	12DA2	Ernst-Kestner-Str. 5	31675	Bückeburg	52.259405	9.047928	1	24/7	Keine Beschränkung	DE*675*E12DA2*04~TYPE2:22|DE*675*E12DA2*05~TYPE2:22
+1060020	Westfalen Weser Ladeservice GmbH	5000101	Poststr. 3	30890	Barsinghausen	52.304464	9.464749	1	24/7	Keine Beschränkung	DE*WWL*E5000101*04~TYPE2:22|DE*WWL*E5000101*05~TYPE2:22
+1060022	Westfalen Weser Ladeservice GmbH	5000201	Einsteinstr. 2	30890	Barsinghausen	52.290124	9.486705	1	24/7	Keine Beschränkung	DE*WWL*E5000201*04~TYPE2:22|DE*WWL*E5000201*05~TYPE2:22
+1060025	Westfalen Weser Ladeservice GmbH	55300	Wilhelm-Busch-Str. 5	31515	Wunstorf	52.428267	9.449208	1	24/7	Keine Beschränkung	DE*WWL*E55300*04~TYPE2:22|DE*WWL*E55300*05~TYPE2:22
+1061094	EnBW mobility+ AG und Co.KG		Wilhelm-Heß-Str. 13	30890	Barsinghausen	52.307114	9.455312	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1061476	Allego		Zinngießerstr. 5	31789	Hameln	52.084561	9.341443	1	24/7	Keine Beschränkung	DEALLEGO003132_1~CCS2:150|DEALLEGO003132_2~CCS2:150
+1064815	Shell Deutschland GmbH		Hannoversche Str. 18	31515	Wunstorf	52.426123	9.454989	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1064816	Shell Deutschland GmbH		Hannoversche Str. 18	31515	Wunstorf	52.426045	9.454969	1		Keine Beschränkung	~CCS2:300|~CCS2:300
+1065287	Ladesonne	Mardorf - Bauercafé Niemeyer	Mardorfer Str. 22	31535	Neustadt am Rübenberge	52.489400	9.293400	1	24/7	Keine Beschränkung	DE*LDS*E1054*1~CCS2:50|DE*LDS*E1054*2~CCS2:50
+1066733	Michael Cholewa		Abtskamp 3	31719	Wiedensahl	52.392754	9.116955	1			~TYPE2:11
+1067296	Q1 Autostrom	Bad Nenndorf, Hauptstraße - links	Hauptstr. 11	31542	Bad Nenndorf	52.335385	9.377994	1	24/7	Keine Beschränkung	DE*Q1A*E50010813~CCS2:50|DE*Q1A*E50010814~TYPE2:22
+1067299	Q1 Autostrom	Bückeburg, Steinberger Straße	Steinberger Str. 36	31675	Bückeburg	52.250893	9.052037	1	24/7	Keine Beschränkung	DE*Q1A*E48140000~CCS2:150|DE*Q1A*E48140001~CCS2:150
+1068019	Hotel Stadt Kassel		Ernst-Ferdinand Platz 1	31737	Rinteln	52.186750	9.080300	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1068020	Hotel Stadt Kassel		Ernst Ferdinand Platz 1	31737	Rinteln	52.186788	9.080424	1			~CCS2:100|~CCS2:100
+1069818	Bückeberg-Klinik		Wiesenstr. 1	31707	Bad Eilsen	52.238987	9.104963	1			~TYPE2:22
+1074888	Radio Schulz GmbH		Hildesheimer Str. 3-3a	31789	Hameln-Afferde	52.100770	9.408610	1			~CCS2:50|~CCS2:50
+1075764	Café im Schafstall		Im Dorfe 29	30890	Barsinghausen	52.326104	9.409362	1			~TYPE2:22|~TYPE2:22
+1079580	Volkswagen AG, Standort Braunschweig		Hohes Feld 4	30890	Barsinghausen	52.379307	9.477866	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1080547	Christian Schulze		Kükenbrucher Strasse 13	32699	Extertal	52.126945	9.067731	1			~TYPE2_TETHERED:11
+1080660	Hauke Schümann		Ringstrasse 16	31553	Auhagen	52.393156	9.288969	1			~TYPE2:11
+1083792	Stadtwerke Schaumburg-Lippe GmbH		Bahnhofstr 34	31675	Bückeburg	52.261250	9.046450	1			~TYPE2:22|~TYPE2:22
+1084380	Backcharge	Jörn Struckmann Beteiligungen GmbH & Co KG	Hainekamp 2	31711	Luhden	52.232297	9.086076	1	24/7	Keine Beschränkung	DEBCKE1000144908*1~CCS2:50|DEBCKE1000144908*2~CCS2:50|~TYPE2:22|~TYPE2:22
+1084509	Academy Fahrschule ACO		Basbergstraße 5	31860	Emmerthal	52.061900	9.350173	1			~TYPE2:11
+1084510	Academy Fahrschule ACO		Agnes-Miegel-Straße 11	31515	Wunstorf	52.431492	9.430002	1			~TYPE2:11
+1084516	Achim Trumpfheller		Sülbeckerbrand 34	31688	Nienstädt	52.282797	9.160649	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1084662	Andreas Look		Sonnenweg 13	31867	Lauenau	52.273313	9.377251	1			~TYPE2:11
+1085138	Christian Otte		Osterende 5a	30890	Barsinghausen	52.365457	9.483662	1			~TYPE2:7
+1085313	David Stahlhut		Im Stillen Winkel 6	31700	Heuerßen	52.328408	9.277512	1			~TYPE2_TETHERED:11
+1085343	Dennis Brandt		Vogelsang 1	32699	Extertal	52.095486	9.065912	1			~TYPE2_TETHERED:11
+1085364	Die Pflegeexperten - ambulant GmbH		Zinngießerstraße 13	31789	Hameln	52.084030	9.339920	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1085410	Dirk Michael Cromwell		Paschenburg 3	31840	Hessisch Oldendorf	52.148378	9.242160	1			~TYPE2:11
+1085546	Enrico Gruß		Vornhäger Straße 4	31655	Stadthagen	52.328942	9.226356	1			~TYPE2_TETHERED:11
+1085708	Frank Wiedemann		Kirchweg 11	31699	Beckedorf	52.341216	9.315595	1			~TYPE2_TETHERED:11
+1086037	Holger Braun		Förstergarten 11	30890	Barsinghausen	52.351282	9.461306	1			~TYPE2:4
+1086074	Heike Wehage		Allensteiner Straße 2	32457	Porta Westfalica	52.206747	9.009276	1			~TYPE2:11
+1086390	Jürgen Struckmann		Blumenweg 7	31683	Obernkirchen	52.282865	9.124281	1			~TYPE2_TETHERED:11
+1086462	Kerstin Maxheim		Untere Straße 14	31688	Nienstädt	52.289652	9.159751	1			~TYPE2_TETHERED:11
+1086464	Kevin Hein		Oberer Sandbrink 7	31558	Hagenburg	52.434737	9.345654	1			~TYPE2_TETHERED:11
+1086502	Kleintierpraxis Kerstin Maxheim		Regede 3A	31683	Obernkirchen	52.279372	9.143070	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1086732	Marcus Nehrmann		Am Ehrenmal 3	31840	Hessisch Oldendorf	52.148378	9.242160	1			~TYPE2_TETHERED:11
+1086791	Markus Brunner		Am Steinbach 19	31848	Bad Münder am Deister	52.163097	9.437875	1			~TYPE2_TETHERED:11
+1086896	Mathias Witte		Alter Postweg 5	31711	Luhden	52.225073	9.095189	1			~TYPE2_TETHERED:11
+1086927	Matthias Nagel		Birkenhöhe 20	31848	Bad Münder am Deister	52.257852	9.440088	1			~TYPE2:11
+1086938	Matthias Nolte		Weidenweg 30	31848	Bad Münder am Deister	52.196229	9.463925	1			~TYPE2_TETHERED:11
+1086949	Maxim Helms		Reimerdeskamp 69A	31787	Hameln	52.121973	9.342658	1			~TYPE2:11
+1087221	Oliver Rasche		Am Pfarrgarten 1	31699	Beckedorf	52.340806	9.314951	1			~TYPE2_TETHERED:11
+1087259	Pascal Truxa		Lausitzer Straße 3	31535	Neustadt am Rübenberge	52.474547	9.445220	1			~TYPE2:11|~TYPE2:11
+1087475	Ralph Koelle		Tannenweg 12	31789	Hameln	52.098225	9.414128	1			~TYPE2_TETHERED:11
+1087484	Rassina Wolf		Rubenkamp 9	31675	Bückeburg	52.310799	9.061049	1			~TYPE2:22
+1087678	Schultz+Partner Versicherungsmakler KG		Am Helweg 2	31655	Stadthagen	52.329024	9.218563	1			~TYPE2:11
+1087722	Sebastian Obbelode		Milanweg 6	31552	Rodenberg	52.314283	9.366512	1			~TYPE2_TETHERED:11
+1087909	Stephan Hampel		Schneewittchenweg 1	31787	Hameln	52.127510	9.349515	1			~TYPE2:22
+1087998	Tabakwaren Union Barkow GmbH		Rotrehre 4	31542	Bad Nenndorf	52.342400	9.381571	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088038	Thomas Beer		An der Warte 4	31547	Rehburg-Loccum	52.463516	9.190358	1			~TYPE2_TETHERED:11
+1088053	Thomas Gosewehr		Am Bahnhof 23	31547	Rehburg-Loccum	52.463516	9.190358	1			~TYPE2:11
+1088210	Tobias Honka		Hämelschenburger Straße 2	31860	Emmerthal	52.025270	9.343023	1			~TYPE2_TETHERED:3
+1088234	Tom Bähnisch		Amelgatzer Straße 9	31860	Emmerthal	52.012530	9.340580	1			~TYPE2_TETHERED:11
+1088343	Volker Nagel		Lärchenweg 3	31848	Bad Münder am Deister	52.218498	9.437489	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1088347	Volkert Schneevoigt		Falkenweg 19	31558	Hagenburg	52.434713	9.334993	1			~CCS2:11|~CCS2:11
+1089282	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Vornhäger Str. 59	31655	Stadthagen	52.329243	9.222503	1			~CCS2:50|~TYPE2:22
+1089283	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Bergdorfer Str. 42	31675	Bückeburg	52.260123	9.062842	1			~TYPE2:22|~TYPE2:22
+1089284	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Vornhäger Str. 59	31655	Stadthagen	52.329040	9.222480	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1089285	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Hagenburgerstr. 46	31515	Wunstorf	52.428290	9.411880	1			~CCS2:50|~TYPE2:22
+1089286	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Hagenburger Str. 46	31515	Wunstorf	52.428269	9.412103	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22
+1089527	Wellness Hotel Harms GmbH		Gartenstr. 3	31542	Bad Nenndorf	52.338445	9.376117	1			~TYPE2:11|~TYPE2:11
+1089906	EDEKA-MIHA Charge GmbH		Am Markt 4-6	31867	Lauenau	52.274007	9.370005	1	24/7	Keine Beschränkung	~CCS2:50|~TYPE2:22|~CCS2:50|~TYPE2:22
+1089917	EDEKA-MIHA Charge GmbH		Böcklerstr. 6-8	31789	Hameln	52.082905	9.341883	1		Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1089949	Stadtwerke Wunstorf GmbH & Co. KG	Wegeners Hof	Leinechaussee 44	31515	Wunstorf	52.449148	9.458305	1	24/7	Keine Beschränkung	WWN0058384*01~TYPE2:22|WWN0058384*02~TYPE2:22
+1090823	Stadtwerke Rinteln GmbH		Am Weseranger 0	31737	Rinteln	52.191389	9.080556	1			~TYPE2:22|~TYPE2:22
+1090824	Stadtwerke Rinteln GmbH		Wallgasse 0	31737	Rinteln	52.188611	9.079167	1			~TYPE2:22|~TYPE2:22
+1090825	Stadtwerke Rinteln GmbH		Klosterstraße 20	31737	Rinteln	52.184372	9.078163	1			~TYPE2:22|~TYPE2:22
+1090826	Stadtwerke Rinteln GmbH		Bahnhofsweg 6	31737	Rinteln	52.198872	9.074680	1			~TYPE2:22|~TYPE2:22
+1090827	Stadtwerke Rinteln GmbH		Rehrener Straße 8	31749	Auetal	52.232980	9.236901	1			~TYPE2:22|~TYPE2:22
+1090828	Stadtwerke Rinteln GmbH		Kirchstraße 999	31749	Auetal	52.232714	9.153716	1			~TYPE2:22|~TYPE2:22
+1090829	Stadtwerke Rinteln GmbH		Stükenstraße 2	31737	Rinteln	52.168109	9.066712	1			~TYPE2:22|~TYPE2:22
+1090830	Stadtwerke Rinteln GmbH		Am Doktorsee 8	31737	Rinteln	52.186679	9.059244	1			~TYPE2:22|~TYPE2:22
+1090831	Stadtwerke Rinteln GmbH		Am Hallenbad 999	31737	Rinteln	52.208664	9.120676	1			~TYPE2:22|~TYPE2:22
+1090833	Stadtwerke Rinteln GmbH		Professor-Kohlrausch-Straße 998	31737	Rinteln	52.199383	9.067187	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090834	Stadtwerke Rinteln GmbH		Am Kloster 99	31737	Rinteln	52.167666	9.032672	1			~TYPE2:22|~TYPE2:22
+1090835	Stadtwerke Rinteln GmbH		Am Essmannshof 999	31737	Rinteln	52.198589	9.166177	1			~TYPE2:22|~TYPE2:22
+1090836	Stadtwerke Rinteln GmbH		Konrad-Adenauer-Straße 33	31737	Rinteln	52.196339	9.085802	1			~TYPE2:22|~TYPE2:22
+1090837	Stadtwerke Rinteln GmbH		Klosterstraße 28	31737	Rinteln	52.184887	9.079628	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1090839	Stadtwerke Rinteln GmbH		Große Tonkuhle 999	31737	Rinteln	52.198052	9.080810	1			~TYPE2:22|~TYPE2:22
+1090840	Stadtwerke Rinteln GmbH		Paul-Erdniß-Straße 1a	31737	Rinteln	52.179930	9.072030	1			~TYPE2:22|~TYPE2:22
+1090841	Stadtwerke Rinteln GmbH		Paul-Erdniß-Straße 1a	31737	Rinteln	52.180110	9.071840	1			~TYPE2:22|~TYPE2:22
+1090842	Stadtwerke Rinteln GmbH		Paul-Erdniß-Straße 1a	31737	Rinteln	52.180120	9.070550	1			~TYPE2:22|~TYPE2:22
+1090843	Stadtwerke Rinteln GmbH		Paul-Erdniß-Straße 1a	31737	Rinteln	52.179630	9.070690	1			~TYPE2:22|~TYPE2:22
+1091066	Abfallwirtschaftsgesellschaft Landkreis Schaumburg mbH		Hohes Feld 16	31688	Nienstädt	52.301800	9.175620	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091067	Abfallwirtschaftsgesellschaft Landkreis Schaumburg mbH		Wiehagen 4	31712	Niedernwöhren-Wiehagen	52.357264	9.124256	1			~TYPE2:11+TYPE2_TETHERED:11|~TYPE2:11
+1091397	Stadtwerke Neustadt		Mardorfer Str. 6	31535	Neustadt am Rübenberge	52.489462	9.288457	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091406	Stadtwerke Neustadt		Klostergarten 1	31634	Steimbke	52.393580	9.231370	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091407	Stadtwerke Neustadt		An der Stadtmauer 1	31535	Neustadt am Rübenberge	52.301800	9.273300	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091408	Stadtwerke Neustadt		An der Stadtmauer 1	31535	Neustadt am Rübenberge	52.301360	9.273240	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1091409	Stadtwerke Neustadt		An der Stadtmauer 1	31535	Neustadt am Rübenberge	52.301300	9.273380	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1093541	Autohaus Wecke GmbH & Co. KG		Vornhaeger Straße 61	31655	Stadthagen	52.329511	9.223693	1			~TYPE2:22|~TYPE2:22|~TYPE2:22
+1096776	Autohaus Karl-Heinz Dröge e.K.		Papenweg 8A	32699	Extertal	52.067146	9.103213	1			~CCS2:22|~TYPE2:11
+1096890	Autohaus Mohme & Piepho KG		Kreuzbreite 3	31675	Bückeburg	52.264545	9.065608	1			~CCS2:22|~TYPE2:11
+1096954	Autohaus Pinkau Inh. Dieter Kipry		Rotrehre 11A	31542	Bad Nenndorf	52.344149	9.381102	1			~CCS2:22|~TYPE2:11
+1097083	Autohaus Tatje GmbH & Co.KG		Im Sandbrinke 14	31515	Wunstorf	52.451025	9.355221	1			~CCS2:22|~TYPE2:11
+1097509	Rostek Service GmbH & Co.KG		Kreuzbreite 24	31675	Bückeburg	52.264755	9.072865	1			~CCS2:22|~TYPE2:11
+1097537	TEAM VOLGER GmbH & Co.KG		Heidtorstraße 0	31547	Rehburg-Loccum	52.478920	9.230181	1			~CCS2:22|~TYPE2:11
+1097834	Bessmann	OL	Münchhausenstr. 1	31840	Hessisch Oldendorf	52.166320	9.243240	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22
+1100842	Tesla Germany GmbH		Hanomagstraße 2	31867	Lauenau	52.278996	9.350840	1			~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250|~CCS2:250
+1102463	Klaus Scholz Elektrotechnik GmbH		Dorfstraße 2	31683	Obernkirchen	52.281880	9.122350	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1103343	EDEKA-MIHA Charge GmbH		Hasselweg 2	31848	Bad Münder am Deister	52.236844	9.422222	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1103605	Abfallwirtschaftsgesellschaft Landkreis Schaumburg mbH	Entsorgungszentrum Schaumburg	Holztrift 16	31553	Sachsenhagen	52.396940	9.256390	1	Mo-Mi 09:00-17:00, Do 09:00-18:00, Fr 09:00-17:00, Sa 09:00-13:00	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22|~TYPE2_TETHERED:22|~TYPE2:22
+1104197	Strandterrassen Steinhude Gastronomiebetriebe GmbH		Meerstr. 2	31515	Steinhude	52.452453	9.350511	1			~TYPE2:22|~TYPE2:11|~TYPE2:11
+1104430	Stadtwerke Hameln Weserbergland GmbH		Hafenstr. 14	31785	Hameln	52.098590	9.359075	1			~TYPE2:22|~TYPE2:22
+1104431	Stadtwerke Hameln Weserbergland GmbH		Am Stockhof 2	31785	Hameln	52.098742	9.355373	1			~TYPE2:22|~TYPE2:22
+1104432	Stadtwerke Hameln Weserbergland GmbH		Am Steigerturm 10	31785	Hameln	52.108225	9.362926	1			~TYPE2:22|~TYPE2:22
+1104433	Stadtwerke Hameln Weserbergland GmbH		Kreuzstr. 18	31785	Hameln	52.102057	9.373333	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1104434	Stadtwerke Hameln Weserbergland GmbH		Am Steigerturm 10	31785	Hameln	52.108209	9.363034	1			~TYPE2:22|~TYPE2:22
+1104435	Stadtwerke Hameln Weserbergland GmbH		Berliner Str. 15A	31860	Emmerthal	52.044596	9.388354	1			~TYPE2:22|~TYPE2:22
+1104437	Stadtwerke Hameln Weserbergland GmbH		An der Kirche 30	31855	Aerzen	52.064724	9.311374	1			~TYPE2:22|~TYPE2:22
+1104438	Stadtwerke Hameln Weserbergland GmbH		Weserstr. 13B	31840	Hessisch Oldendorf	52.166809	9.249834	1			~TYPE2:22|~TYPE2:22
+1104439	Stadtwerke Hameln Weserbergland GmbH		Am Posthof 22	31785	Hameln	52.104881	9.359641	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1104440	Stadtwerke Hameln Weserbergland GmbH		Kastanienwall 52	31785	Hameln	52.105780	9.360510	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1104441	Stadtwerke Hameln Weserbergland GmbH		Erichstr. 2	31785	Hameln	52.107710	9.355580	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1104442	Stadtwerke Hameln Weserbergland GmbH		Bahnhofsplatz 23	31785	Hameln	52.101250	9.374240	1			~TYPE2:22|~CCS2:50+CHADEMO:50
+1105915	STWBAH		Rehrbrinkstraße 8	30890	Barsinghausen	52.304429	9.459705	1			~TYPE2_TETHERED:11|~CCS2:22
+1105916	STWBAH		Osterstraße 11	30890	Barsinghausen	52.301963	9.467424	1			~TYPE2:22|~TYPE2:22
+1106062	prize Deutschland GmbH		Hamburger Allee 50	30161	Hannover	52.230000	9.440000	1			~TYPE2:22|~TYPE2:22
+1106290	Q1 Autostrom	Haste, Hauptstraße	Hauptstr. 42	31559	Haste	52.380369	9.391872	1	24/7	Nur für Kunden/Besucher	DE*Q1A*E48140002~CCS2:50|DE*Q1A*E48140003~TYPE2:22
+1106330	E.ON Drive GmbH		Leeser Str. 13	31547	Rehburg-Loccum	52.456140	9.150692	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106478	E.ON Drive GmbH		Am Markt 2	31867	Lauenau	52.274270	9.370000	1			~TYPE2:22|~TYPE2:22
+1107032	E.ON Drive GmbH		Poststraße 3	30890	Barsinghausen	52.304230	9.455622	1			~TYPE2:22|~TYPE2:22
+1107033	E.ON Drive GmbH		Einsteinstraße 2	30890	Barsinghausen	52.290012	9.486661	1			~TYPE2:22|~TYPE2:22
+1109415	E.ON Drive GmbH		Lug ins Land 3	31848	Bad Münder am Deister	52.206381	9.472407	1		Keine Beschränkung	DE*EDR*E22024121*1~TYPE2:11|DE*EDR*E22024121*2~TYPE2:11
+1109595	Stadtwerkenergie Ostwestfalen-Lippe GmbH		Poststraße 11	32694	Dörentrup	52.036346	9.006621	1			~TYPE2:22|~TYPE2:22
+1109599	Stadtwerkenergie Ostwestfalen-Lippe GmbH		Poststraße 11	32694	Dörentrup	52.036111	9.006223	1			~TYPE2:22|~TYPE2:22
+1114798	La casa Elektrotechnik GmbH		Schulstr. 57	31789	Hameln	52.079460	9.353079	1			~CCS2:50|~CCS2:50
+1114799	La casa Elektrotechnik GmbH		Schulstr. 57	31789	Hameln	52.079350	9.353090	1			~TYPE2:22|~TYPE2:22
+1114814	Gutshof Bestenbostel Verwaltungs GmbH		Alt Bestenbostel 1	30900	Wedemark	52.345500	9.425000	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1115515	Burghof-Klinik GmbH	Parkplatz Hinterhof	Virchowstr. 5	31737	Rinteln	52.205158	9.074382	1	24/7	Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1116514	Stadtwerke Neustadt	Fischerstübchen	Uferweg 92	31535	Neustadt am Rübenberge	52.488990	9.315921	1	24/7	Keine Beschränkung	DEISEEA112731~TYPE2:22
+1117592	Daniel Gläser		Loggerweg 11	31712	Niedernwöhren	52.355063	9.143936	1		Nur für Kunden/Besucher	~TYPE2:20
+1118180	Daniel Beyer		Kreisstr. 29A	31688	Nienstädt	52.184020	9.093760	1	Mo-Do 10:00-14:00	Keine Beschränkung	~TYPE2_TETHERED:11+TYPE2_TETHERED:11
+1118349	TankE GmbH		Lubahnstr. 3	31789	Hameln	52.106017	9.389943	1		Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:22
+1120387	ALDI Nord	Parkplatz	In den Ellern 5	31515	Wunstorf	52.425200	9.418600	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1120419	ALDI Nord	Parkplatz	Bunsenstr. 8	30890	Barsinghausen	52.303900	9.486700	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1120825	IONITY GmbH	Auetal Nord	Alte Poststr. 0	31749	Auetal	52.223703	9.221469	1	24/7	Nur für Kunden/Besucher	DE*IOY*E205505~CCS2:350|DE*IOY*E205506~CCS2:350
+1120838	IONITY GmbH	Auetal Süd	Steinkamp 0	31749	Auetal	52.226977	9.232545	1	24/7	Nur für Kunden/Besucher	DE*IOY*E205605~CCS2:350|DE*IOY*E205606~CCS2:350
+1120896	Pfalzwerke AG	OBI Wunstorf	Am Hohen Holz 2	31515	Wunstorf	52.429605	9.415256	1	24/7	Keine Beschränkung	DE*PWA*EALP22537X01432*01~CCS2:50|DE*PWA*EALP22537X01432*02~CCS2:50|DE*PWA*EALP22539X01431*01~CCS2:200|DE*PWA*EALP22539X01431*02~CCS2:200
+1121446	Mathias Witte	Hauswand	Alter Postweg 5	31711	Luhden	52.225006	9.094819	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1126361	Philipp Krömer		Dorfstr. 22a	31715	Meerbeck	52.343637	9.150545	1	Mo-Fr 08:00-15:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11
+1127069	Ladesonne	Reh-Loc - Bad Rehburg	Friedrich-Stolberg-Allee 4	31547	Rehburg-Loccum	52.437189	9.215223	1	24/7	Keine Beschränkung	DE*LDS*E1070*1~TYPE2:22|DE*LDS*E1070*1~TYPE2:22
+1127070	Ladesonne	Reh-Loc - Loccum-Am Markt	Am Markt 20	31547	Rehburg-Loccum	52.453149	9.147298	1	24/7	Keine Beschränkung	DE*LDS*E1071*1~TYPE2:22|DE*LDS*E1071*2~TYPE2:22
+1127071	Ladesonne	Reh-Loc - Winzlar_Parkplatz Ortsmitte	Nordstr. 3	31547	Rehburg-Loccum	52.447797	9.260675	1	24/7	Keine Beschränkung	DE*LDS*E1071*1~TYPE2:22|DE*LDS*E1071*2~TYPE2:22
+1127628	Gordon Greszik		Gartenstr. 14	31785	Hameln	52.109259	9.360461	1	24/7	Keine Beschränkung	DE505E1234830816*1~TYPE2:11
+1127811	Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG		Ohsener Str. 74-80	31789	Hameln	52.095340	9.369610	1		Keine Beschränkung	~CCS2:50|~TYPE2:22
+1129382	Stadtwerke Neustadt	Open-Office Rouwen 22 links	An der Eisenbahn 19	31535	Neustadt am Rübenberge	52.499915	9.454788	1	24/7	Keine Beschränkung	DE*ISE*EA184825~TYPE2:22|DE*ISE*EA147965~TYPE2:22
+1129576	Burghof-Klinik GmbH	Parklpatz Haus 4 FIBU	Verladestr. 5	31737	Rinteln	52.205050	9.072650	1	24/7	Keine Beschränkung	~TYPE2:22
+1130711	Dayser Deutschland GmbH	Park Your Truck, 31840 Hessisch Oldendorf	Greitstr. 18-28	31840	Hessisch Oldendorf	52.173721	9.248390	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1130942	TotalEnergies Charging Solutions		Bahnhofstr. 71	32469	Petershagen	52.367858	9.006424	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS50064*002*1~CCS2:200|DE*TCB*E3D9CS50064*002*2~CCS2:200|DE*TCB*E3D9CS50064*001*1~CCS2:200|DE*TCB*E3D9CS50064*001*2~CCS2:200
+1131088	Pfalzwerke AG	OBI Barsinghausen (ALP22541X01367)	Steinklippenstr. 5	30890	Barsinghausen	52.315541	9.465654	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01367*01~CCS2:400|DE*PWA*EALP22541X01367*02~CCS2:400|DE*PWA*EALP22537X01366*01~CCS2:50|DE*PWA*EALP22537X01366*02~CCS2:50
+1131089	Pfalzwerke AG	OBI Barsinghausen (ALP22541X01368)	Steinklippenstr. 5	30890	Barsinghausen	52.315448	9.465646	1	24/7	Keine Beschränkung	DE*PWA*EALP22541X01368*01~CCS2:400|DE*PWA*EALP22541X01368*02~CCS2:400
+1131514	Bernd Kauffeld		Sülbeckerbrand 8	31688	Nienstädt	52.282392	9.155824	1	Mo-Fr 10:00-14:00	Keine Beschränkung	~TYPE2_TETHERED:11
+1131595	EWE Go GmbH	EWE_7422_1A	Marie-Curie-Str. 1	30890	Barsinghausen	52.318064	9.466928	1	24/7	Keine Beschränkung	~CCS2:200|~CCS2:200|~CCS2:200|~CCS2:200
+1132011	Inol GmbH	Marshof Parkplatz hinter dem Jugendzentrum / Hallenbad	Planetenring 0	30823	Garbsen	52.250330	9.361053	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1132107	Westfalen Weser Ladeservice GmbH	9800501	Deisterstr. 1a	30890	Barsinghausen	52.301268	9.464173	1	24/7	Keine Beschränkung	DE*WWL*E9800501*05~TYPE2:22|DE*WWL*E9800501*04~TYPE2:22
+1132975	Björn-Friedrich Leiseberg		Jobst-Meyer-Brink 1	31789	Hameln	52.064864	9.374248	1	24/7	Keine Beschränkung	~TYPE2:22
+1133990	EDEKA-MIHA Charge GmbH		Kreuzbreite 14	31675	Bückeburg	52.264523	9.066464	1	24/7	Keine Beschränkung	~CCS2:150|~TYPE2:22|~CCS2:150
+1134182	Vattenfall Smarter Living GmbH		Klütstr. 72	31787	Hameln	52.103377	9.336403	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1136588	E.ON Drive GmbH		Reherstr. 0	31860	Emmerthal	52.034680	9.406753	1		Keine Beschränkung	DE*EDR*E22008348*1~TYPE2:11|DE*EDR*E22008370*1~TYPE2:11
+1136593	E.ON Drive GmbH		Reherstr. 0	31860	Emmerthal	52.034680	9.406655	1		Keine Beschränkung	DE*EDR*E22008376*1~TYPE2:11|DE*EDR*E22008335*1~TYPE2:11
+1136594	E.ON Drive GmbH		Reherstr. 0	31860	Emmerthal	52.034633	9.406632	1		Keine Beschränkung	DE*EDR*E22008380*1~TYPE2:11|DE*EDR*E22008424*1~TYPE2:11
+1136597	E.ON Drive GmbH		Reherstr. 0	31860	Emmerthal	52.034510	9.410770	1		Keine Beschränkung	DE*EDR*E22008433*1~TYPE2:11|DE*EDR*E22008434*1~TYPE2:11|DE*EDR*E22008416*1~TYPE2:11|DE*EDR*E22008463*1~TYPE2:11|DE*EDR*E22008465*1~TYPE2:11|DE*EDR*E22008466*1~TYPE2:11
+1136603	E.ON Drive GmbH		Reherstr. 0	31860	Emmerthal	52.033861	9.408819	1		Keine Beschränkung	DE*EDR*E51000641*1~TYPE2:11|DE*EDR*E51000641*2~TYPE2:22
+1137219	EnBW mobility+ AG und Co.KG	Hahn Stadthagen	Dülwaldstraße 4	31655	Stadthagen	52.330074	9.231677	1	Mo-Fr 08:00-19:00, Sa 08:00-18:00	Keine Beschränkung	DE*EBW*E915069*1~CCS2:300|DE*EBW*E915069*2~CCS2:300
+1139087	York Wendorff		Erfurter Str. 23	30890	Barsinghausen	52.309170	9.456235	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22
+1139265	Westfalen AG & Co. KG	Westfalen Tankstelle Hameln	Pyrmonter Str. 35	31789	Hameln	52.098632	9.351221	1	24/7	Keine Beschränkung	DE*WAG*EE1048~CCS2:150|DE*WAG*E E2048~CCS2:150
+1140149	Team-Emobility GmbH		An der Mühle 3	31860	Emmerthal	52.048167	9.378606	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:25|~CCS2:25|~CCS2:25|~CCS2:25
+1140289	EnBW mobility+ AG und Co.KG	PENNY Hameln, Kerschensteiner Straße	Kerschensteinerstraße 1	31787	Hameln	52.105957	9.331426	1	24/7	Keine Beschränkung	DE*EBW*E916450*1~CCS2:300|DE*EBW*E916450*2~CCS2:300|DE*EBW*E916464*1~CCS2:150|DE*EBW*E916464*2~CCS2:150
+1141155	Autohaus Rindt & Gaida GmbH		Carl-Wilhelm-Niemeyer-Str. 10	31789	Hameln	52.115937	9.419461	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1141656	EDEKA-MIHA Charge GmbH		Hagenburger Str. 20	31515	Wunstorf	52.430050	9.419370	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1141664	EDEKA-MIHA Charge GmbH		Bahnhofstr. 26	31655	Stadthagen	52.326889	9.199739	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1144152	Electra Germany GmbH	Bad Nenndorf - IMO Carwash	Piepmühle 2	31542	Bad Nenndorf	52.335246	9.402468	1	24/7	Keine Beschränkung	DE*ELD*ETKJE~CCS2:300|DE*ELD*E58DL~CCS2:300|DE*ELD*EPLE6~CCS2:300|DE*ELD*EMWTL~CCS2:300|DE*ELD*E6XDW~CCS2:300|DE*ELD*E6M27~CCS2:300
+1146118	VINCharge 1 GmbH	eliso - A2 K&M - Wunstorf	Hagenburger Str. 62	31515	Wunstorf	52.427342	9.403591	1	24/7	Keine Beschränkung	DE*ELI*E3603086~CCS2:400|DE*ELI*E3603087~CCS2:400|DE*ELI*E3603085~CCS2:400|DE*ELI*E3603084~CCS2:400|DE*ELI*E3603081~CCS2:400|DE*ELI*E3603080~CCS2:400|DE*ELI*E3603083~CCS2:400|DE*ELI*E3603082~CCS2:400
+1146169	Stadtwerke Schaumburg-Lippe GmbH	Hundemarkt Stadthagen	Querstr. 13	31655	Stadthagen	52.325236	9.204899	1	24/7	Keine Beschränkung	DE*675*E1200202*01~CCS2:50|DE*675*E1200202*02~CCS2:50|DE*675*E1200201*04~TYPE2:22|DE*675*E1200201*05~TYPE2:22
+1146176	Stadtwerke Schaumburg-Lippe GmbH		Hinter dem Graben 26	31683	Obernkirchen	52.271150	9.126980	1	24/7	Keine Beschränkung	DE*675*E1200101*04~TYPE2:22|DE*675*E1200101*05~TYPE2:22
+1147432	ALDI Nord		Große Tonkuhle 3	31737	Rinteln	52.198000	9.081300	1	24/7	Keine Beschränkung	DE-ALN-EDE052285-1-1~CCS2:150|DE-ALN-EDE052285-1-2~CCS2:150
+1148091	Vattenfall Smarter Living GmbH		Leinenweberstr. 14	31515	Wunstorf	52.453774	9.358372	1	24/7	Keine Beschränkung	~CCS2:180|~CCS2:180
+1148293	enercity AG		Osterstr. 0	30890	Barsinghausen	52.301934	9.467516	1	24/7	Keine Beschränkung	DE*ENC*ELA000165*001*A~TYPE2:22|DE*ENC*ELA000165*001*B~TYPE2:22
+1149088	Allego		In den Ellern 11	31515	Wunstorf	52.428315	9.415761	1	24/7	Keine Beschränkung	DEALLEGO002623_1~CCS2:150|DEALLEGO002623_2~CCS2:150
+1149154	Westfalen AG & Co. KG	Markant Tankstelle	Wilhelm-Heß-Str. 25	30890	Barsinghausen	52.307747	9.452084	1	24/7	Keine Beschränkung	DE*WAG*EE1060~CCS2:150|DE*WAG*EE2060~CCS2:150
+1151802	Wirelane GmbH	Strike Entertainment - Sportsbar	Hastenbecker Weg 86B	31785	Hameln	52.101772	9.387169	1		Keine Beschränkung	DE*WLN*ES001206~TYPE2:11|DE*WLN*ES001207~TYPE2:11|DE*WLN*ES000624~TYPE2:11|DE*WLN*ES000625~TYPE2:11
+1151895	Wirelane GmbH		Martin-Luther-Straße 25	31542	Bad Nenndorf	52.340472	9.383583	1		Keine Beschränkung	DE*WLN*EP000785~TYPE2:22|DE*WLN*EP000786~TYPE2:22
+1151906	Wirelane GmbH		Königsberger Platz 1	31542	Bad Nenndorf	52.329583	9.364778	1		Keine Beschränkung	DE*WLN*EP000842~TYPE2:22|DE*WLN*EP000841~TYPE2:22
+1151962	Wirelane GmbH		Hüttenstr. 7	31655	Stadthagen	52.324590	9.185639	1		Keine Beschränkung	DE*WLN*ES000771~CCS2:50|DE*WLN*ES000772~CCS2:50
+1151967	Wirelane GmbH		Lütgen Hagen 8	31558	Hagenburg	52.425313	9.321588	1		Keine Beschränkung	DE*WLN*ES000743~CCS2:50|DE*WLN*ES000744~CCS2:50
+1152225	Shell Deutschland GmbH	Wunstorf	Industriestr. 3-11	31515	Wunstorf	52.419451	9.450662	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:150|~CCS2:150
+1153466	Stadtwerke Wunstorf GmbH & Co. KG	Parkplatz Kurpark	Buchenallee 14	31542	Bad Nenndorf	52.195121	9.231990	1	24/7	Keine Beschränkung	DE*WWL*E5500201*04~TYPE2:22|DE*WWL*E5500201*05~TYPE2:22|DE*WWL*E5500202*04~TYPE2:22|DE*WWL*E5500202*05~TYPE2:22
+1153547	Stadtwerke Wunstorf GmbH & Co. KG	Am Schützenplatz	Am Schützenplatz 7	31515	Wunstorf	52.417778	9.379123	1	24/7	Keine Beschränkung	DE*MEW*ELA001454*001*A~TYPE2:22|DE*MEW*ELA001454*001*B~TYPE2:22
+1153548	Stadtwerke Wunstorf GmbH & Co. KG	Sportplatzstraße	Sportplatzstr. 1	31515	Wunstorf	52.412722	9.357401	1	24/7	Keine Beschränkung	DE*MEW*ELA001455*001*A~TYPE2:22|DE*MEW*ELA001455*001*B~TYPE2:22
+1153554	Stadtwerke Wunstorf GmbH & Co. KG		Brinkstr. 28	31515	Wunstorf	52.398049	9.354593	1	24/7	Keine Beschränkung	DE*MEW*ELA001456*001*A~TYPE2:22|DE*MEW*ELA001456*001*B~TYPE2:22
+1153560	Stadtwerke Wunstorf GmbH & Co. KG	Kirchstraße	Kirchstr. 2	31515	Wunstorf	52.429709	9.476152	1	24/7	Keine Beschränkung	DE*MEW*ELA001457*001*A~TYPE2:22|DE*MEW*ELA001457*001*B~TYPE2:22
+1153561	Stadtwerke Wunstorf GmbH & Co. KG		An der Böhmerke 7	31515	Wunstorf	52.424408	9.472011	1	24/7	Keine Beschränkung	DE*MEW*ELA001478*001*A~TYPE2:22|DE*MEW*ELA001478*001*B~TYPE2:22
+1153562	Stadtwerke Wunstorf GmbH & Co. KG		Parkstr. 46	31515	Wunstorf	52.424129	9.483246	1	24/7	Keine Beschränkung	DE*MEW*ELA001477*001*A~TYPE2:22|DE*MEW*ELA001477*001*B~TYPE2:22
+1154259	E.ON Drive Infrastructure		Spielburg 26	30890	Barsinghausen	52.368856	9.479448	1	24/7	Keine Beschränkung	DE*UFC*E01297*1~CCS2:150|DE*UFC*E01297*2~CCS2:150|DE*UFC*E01377*1~CCS2:50|DE*UFC*E01377*2~CCS2:50
+1154330	Burghof-Klinik GmbH	Haus 1	Bäckerstr. 34	31737	Rinteln	52.184370	9.080740	1	Mo-Fr 16:00-23:59, Sa-So 00:00-23:59	Keine Beschränkung	EGFH1~TYPE2:22|E7PAF~TYPE2:22|EGFH1~TYPE2:22|E7PAF~TYPE2:22
+1154569	PV laden Luhden	PV laden Luhden SHG	Knets Kamp 3	31711	Luhden	52.232282	9.083692	1	24/7	Keine Beschränkung	~TYPE2:22
+1155375	Abfallwirtschaftsgesellschaft Landkreis Schaumburg mbH	Abfallwirtschaftsgesellschaft Landkreis Schaumburg mbH	Am Krankenhaus 1a	31655	Stadthagen	52.320964	9.210369	1	24/7	Nur für Kunden/Besucher	EAL8X~TYPE2:22|EFHC4~TYPE2:22|EK3R8~TYPE2:22|EP4M5~TYPE2:22|EKW3V~TYPE2:22|E3XWX~TYPE2:22|EFCS6~TYPE2:22|E8FRX~TYPE2:22
+1156962	Wirelane GmbH		Niedere Heide 2	31749	Auetal	52.236057	9.242868	1		Keine Beschränkung	DE*WLN*EP004059~CCS2:50|DE*WLN*EP004060~CCS2:50
+1157890	Q1 Autostrom	Bad Nenndorf, Bahnhofstraße - links	Bahnhofstr. 83	31542	Bad Nenndorf	52.343690	9.377568	1	24/7	Keine Beschränkung	DE*Q1A*E48140089~TYPE2:22|DE*Q1A*E48140090~TYPE2:22
+1157891	Q1 Autostrom	Bad Nenndorf, Bahnhofstraße - rechts	Bahnhofstr. 83	31542	Bad Nenndorf	52.343700	9.377513	1	24/7	Keine Beschränkung	DE*Q1A*E48140091~TYPE2:22|DE*Q1A*E48140092~TYPE2:22
+1158941	enercity AG		Hüttenstr. 50	31655	Stadthagen	52.330729	9.186917	1	24/7	Keine Beschränkung	DE*ENC*ELA001060*A01*A~CCS2:200|DE*ENC*ELA001060*A01*B~CCS2:200
+1158943	enercity AG		Südstr. 25	31515	Wunstorf	52.424023	9.433409	1	24/7	Keine Beschränkung	DE*ENC*ELA001126*A01*A~CCS2:50|DE*ENC*ELA001126*A01*B~CCS2:50
+1161749	Eckel Elektrotechnik GmbH & Co. KG	Eckel Elektrotechnik GmbH & Co. KG	Heisterbreite 2d	31737	Rinteln	52.165542	9.072045	1	24/7	Keine Beschränkung	DE*ONE*EWE5D~TYPE2:22|DE*ONE*E6DGG~TYPE2:22|DE*ONE*EJ73K~TYPE2:22|DE*ONE*E2EAZ~TYPE2:22
+1162173	enercity AG		Hauptstr. 38	31515	Wunstorf	52.426749	9.471881	1	24/7	Keine Beschränkung	DE*ENC*ELA001572*A01*A~TYPE2:22|DE*ENC*ELA001572*A01*B~TYPE2:22
+1162749	enercity AG		Kastanienallee 1	31515	Wunstorf	52.448542	9.454465	1	24/7	Keine Beschränkung	DE*ENC*ELA001124*A01*A~CCS2:50|DE*ENC*ELA001124*A01*B~CCS2:50
+1162964	Stadtwerke Wunstorf GmbH & Co. KG	Alter Markt DC	Am Alten Markt 15	31515	Wunstorf	52.424950	9.425306	1	24/7	Keine Beschränkung	1153563~CCS2:100+CHADEMO:100|1153563~CHADEMO:100+CCS2:100
+1163311	enercity AG		Hauptstr. 23	31542	Bad Nenndorf	52.336555	9.380205	1	24/7	Keine Beschränkung	DE*ENC*ELA001571*A01*A~CCS2:50|DE*ENC*ELA001571*A01*B~CCS2:50
+1163635	EDEKA-MIHA Charge GmbH		Blankschmiede 2	31855	Aerzen	52.039490	9.254570	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1163642	EDEKA-MIHA Charge GmbH		Weinberg 10	31675	Bückeburg	52.261123	9.024933	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22
+1164289	enercity AG	enercity - Königsförderstraße 19 - A01	Königsförder Str. 19	31855	Aerzen	52.050720	9.261207	1	24/7	Keine Beschränkung	DE*ENC*ELA001568*A01*A~CCS2:50|DE*ENC*ELA001568*A01*B~CCS2:50

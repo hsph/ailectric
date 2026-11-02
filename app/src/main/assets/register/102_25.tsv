@@ -1,0 +1,116 @@
+1002266	Gemeinde Borsdorf		Rathausstraße 1	04451	Borsdorf	51.346825	12.540421	1			~TYPE2:22
+1002267	Gemeinde Borsdorf		Heinrich-Kretschmann-Straße 14	04451	Borsdorf	51.346964	12.539788	1			~TYPE2:22|~TYPE2:22
+1002268	Gemeinde Borsdorf		Güterladestraße 2	04451	Borsdorf	51.345793	12.544941	1			~TYPE2:22
+1005709	Gemeinde Borsdorf		Bahnhofstr. 16	04451	Borsdorf	51.346340	12.541610	1	24/7	Keine Beschränkung	~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22|~TYPE2:22+TYPE2:22
+1011395	Comfort Charge		Lindenallee 4	09306	Rochlitz	51.048150	12.804983	1			~CCS2:150|~CCS2:100|~TYPE2:22
+1011449	Comfort Charge		Wiesenstraße 17	04683	Naunhof	51.276160	12.585970	1			~CCS2:150+CHADEMO:150|~TYPE2:22|~TYPE2_TETHERED:22
+1011484	Comfort Charge		Leipziger Str. 19	04668	Grimma	51.233300	12.721170	1		Keine Beschränkung	~CCS2:150|~CCS2:150|~TYPE2:22|~TYPE2_TETHERED:22
+1022262	EWE Go GmbH	EWE_7167_1A	Dresdener Str. 76	04746	Hartha	51.090842	12.975938	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1022263	EWE Go GmbH	EWE_7167_2A	Dresdener Str. 76	04746	Hartha	51.090835	12.975959	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150
+1026896	EnBW mobility+ AG und Co.KG		Gerichtswiesen 39	04668	Grimma	51.233067	12.705910	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027140	EnBW mobility+ AG und Co.KG		Collmener Str. 12	04808	Wurzen	51.381800	12.739430	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027432	EnBW mobility+ AG und Co.KG		Marienstraße 3	04808	Wurzen	51.370780	12.747100	1			~CCS2:150|~CCS2:150|~CCS2:300|~CCS2:300
+1027579	EnBW mobility+ AG und Co.KG		Gewerbeallee 8B	04821	Brandis	51.329360	12.587680	1			~CCS2:150|~CCS2:150
+1031315	HomE of Mobility GmbH		Mendener Weg 1	04736	Waldheim	51.082192	12.995932	1			~CCS2:50|~TYPE2:22|~CCS2:50
+1032489	envia Mitteldeutsche Energie AG	SL00033	Wedniger Str. 40	04668	Grimma	51.256470	12.737620	1	24/7	Keine Beschränkung	DE*ISE*E0004612~TYPE2:22|DE*ISE*E0004611~TYPE2:22
+1032490	envia Mitteldeutsche Energie AG	SL00981	Ernst-Schneller-Str. 1	04567	Kitzscher	51.163539	12.550620	1	24/7	Keine Beschränkung	DE*ISE*E0004905~TYPE2:22|DE*ISE*E0004906~TYPE2:22
+1032498	envia Mitteldeutsche Energie AG	SL00906	Friedrich-Ebert-Str. 2	04808	Wurzen	51.373546	12.742376	1	24/7	Keine Beschränkung	DE*ISE*E0004362~TYPE2:22|DE*ISE*E0004361~TYPE2:22
+1032513	envia Mitteldeutsche Energie AG	113191437981011432	Otto-von-Guericke-Str. 1	04451	Borsdorf	51.354464	12.542412	1	24/7	Keine Beschränkung	DE*ISE*E0004442~CCS2:50+CHADEMO:50|DE*ISE*E0004440~TYPE2:22
+1032539	envia Mitteldeutsche Energie AG	PO00398	Mühlplatz 4	09306	Rochlitz	51.045412	12.794044	1	24/7	Keine Beschränkung	DE*ISE*E0022441~TYPE2:22|DE*ISE*E0022439~TYPE2:22
+1032541	envia Mitteldeutsche Energie AG	KP00879	Markt 1	04680	Colditz	51.129442	12.806362	1	24/7	Keine Beschränkung	DE*ISE*E0004764~TYPE2:22|DE*ISE*E0004763~TYPE2:22
+1032549	envia Mitteldeutsche Energie AG	KP00863	Mathildenstr. 4	04821	Brandis	51.335565	12.609167	1	24/7	Keine Beschränkung	DE*ISE*E0004463~TYPE2:22|DE*ISE*E0004464~TYPE2:22
+1032560	envia Mitteldeutsche Energie AG	KP00861	Markt 17	04703	Leisnig	51.160194	12.926124	1	24/7	Keine Beschränkung	DE*ISE*E0004842~TYPE2:22|DE*ISE*E0004841~TYPE2:22
+1032561	envia Mitteldeutsche Energie AG	KP00878	Markt 1	04683	Naunhof	51.277879	12.588762	1	24/7	Keine Beschränkung	DE*ISE*E0004462~TYPE2:22|DE*ISE*E0004461~TYPE2:22
+1032562	envia Mitteldeutsche Energie AG	KP00881	Am Riff 3	04651	Bad Lausick	51.143520	12.654497	1	24/7	Keine Beschränkung	DE*ISE*E0017463~TYPE2:22|DE*ISE*E0017464~TYPE2:22
+1032564	envia Mitteldeutsche Energie AG	KP00862	Schloßplatz 4	04827	Machern	51.360638	12.629317	1	24/7	Keine Beschränkung	DE*ISE*E0004444~TYPE2:22|DE*ISE*E0004443~TYPE2:22
+1032580	envia Mitteldeutsche Energie AG	KR00362	Bahnhofstr. 24	04828	Bennewitz	51.357834	12.710569	1	24/7	Keine Beschränkung	DE*ISE*E0004353~TYPE2:22|DE*ISE*E0004354~TYPE2:22
+1032587	envia Mitteldeutsche Energie AG	KP00268	Karl-Marx-Str. 17	04808	Lossatal	51.398840	12.872051	1	24/7	Keine Beschränkung	DE*ISE*E0004386~TYPE2:22|DE*ISE*E0004385~TYPE2:22
+1032591	envia Mitteldeutsche Energie AG	KP00696	Dorfplatz 70	04808	Thallwitz	51.432064	12.683719	1	24/7	Keine Beschränkung	DE*ISE*E0004936~TYPE2:22|DE*ISE*E0004935~TYPE2:22
+1032601	envia Mitteldeutsche Energie AG	02.S95-01076	Hengstbergstr. 2	04668	Grimma	51.255339	12.727230	1	24/7	Keine Beschränkung	DE*ISE*E0008144~CCS2:50+CHADEMO:50|DE*ISE*E0008146~TYPE2_TETHERED:43
+1032756	Stadtwerke Leipzig GmbH		Torgauer Landstr. 20	04838	Eilenburg	51.468386	12.664553	1	24/7	Keine Beschränkung	DE*961*E0341*0138~TYPE2:22|DE*961*E0341*0138*2~TYPE2:22|DE*961*E0341*0138*3~TYPE2:22|DE*961*E0341*0138*4~TYPE2:22
+1032887	Stadtwerke Leipzig GmbH		Eichaer Straße 44	04683	Naunhof	51.291254	12.574888	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1032915	Stadtwerke Leipzig GmbH		Carl-Benz Straße 14	04451	Borsdorf	51.352341	12.545090	1			~TYPE2_TETHERED:11|~TYPE2_TETHERED:11
+1038201	San-Tech Gebäudemanagement GmbH		Tuchmachergasse 1	04668	Grimma	51.234767	12.724964	1			~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11
+1038381	Pension Unikum, Inh. Anja Hoffschmidt		Hauptstraße 138	04736	Waldheim	51.082280	12.992907	1			~TYPE2:22
+1038806	Stadtwerke Leipzig GmbH		Straße der Deutschen Einheit 14a	04643	Geithain	51.058948	12.680342	1	Mo-Do 08:00-15:00, Fr 08:00-12:00	Keine Beschränkung	DE*961*E0341*1172~TYPE2:22|DE*961*E0341*1172*2~TYPE2:22
+1038808	Stadtwerke Leipzig GmbH		Straße der Deutschen Einheit 14a	04643	Geithain	51.058882	12.680369	1	Mo-Do 08:00-15:00, Fr 08:00-12:00	Keine Beschränkung	DE*961*E0341*1173~TYPE2:22|DE*961*E0341*1173*2~TYPE2:22
+1047301	Autohaus Schulze GmbH		Gewerbegebiet Waldstraße 18	04552	Borna	51.108080	12.515520	1			~TYPE2:22|~TYPE2:22
+1047302	Autohaus Schulze GmbH		Gewerbegebiet Waldstraße 18	04552	Borna	51.108220	12.515340	1			~TYPE2:22|~TYPE2:22
+1049717	E.ON Drive Infrastructure		Raststätte Muldental Süd 0	04668	Grimma	51.260748	12.705249	1			~CCS2:50|~CCS2:50
+1049745	E.ON Drive Infrastructure		Raststätte Muldental Nord 0	04668	Grimma	51.261945	12.708112	1			~CCS2:50|~CCS2:50
+1050942	TEAG Mobil GmbH	Wurzen - REWE	Dresdener Str. 59	04808	Wurzen	51.365748	12.747015	1	24/7	Nur für Kunden/Besucher	DE*TMO*E11*234*001~CCS2:150|DE*TMO*E11*234*002~CCS2:150|DE*TMO*E11*234*003~CCS2:150|DE*TMO*E11*234*004~CCS2:150
+1051220	Danpower-Gruppe		Bahnhofstraße 5	04668	Grimma	51.225593	12.719068	1			~TYPE2:22|~TYPE2:22
+1051227	Danpower-Gruppe		Westring 32	04668	Grimma	51.236638	12.705859	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22
+1051888	MER Germany		An der Schondorfer Mark 1	04838	Eilenburg	51.465491	12.674548	1			~CCS2:150|~CCS2:150
+1054751	Aral Pulse		Hengstbergstraße 11	03437	Grimma	51.255950	12.726260	1			~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300|~CCS2:300+CHADEMO:300|~CCS2:300
+1056193	eins energie in sachsen GmbH & Co. KG		Lange Str. 17	04668	Grimma	51.233880	12.727030	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1056194	eins energie in sachsen GmbH & Co. KG		Markt 16-17	04668	Grimma	51.236892	12.728601	1			~TYPE2:22+SCHUKO:22|~TYPE2:22+SCHUKO:22
+1057360	Stadtwerke Schwarzenberg GmbH		Stadtpark 3	04838	Eilenburg	51.453724	12.631061	1			~TYPE2:22|~TYPE2:22
+1057361	Stadtwerke Schwarzenberg GmbH		Steinstraße 6	04838	Eilenburg	51.458718	12.634519	1			~TYPE2:22|~TYPE2:22
+1057362	Stadtwerke Schwarzenberg GmbH		Große Mauerstraße 2	04838	Eilenburg	51.460567	12.631352	1			~TYPE2:22|~TYPE2:22
+1066744	Neukauf Verbrauchermarkt GmbH		Ziegelstr. 15	04838	Eilenburg	51.463251	12.648259	1			~TYPE2:22|~CCS2:50
+1068629	M&I Uhlitzsch GbR Photovoltaik		Jakobspilgerweg 13	04451	Borsdorf	51.351779	12.508874	1			~TYPE2:11+SCHUKO:11
+1069296	Simone Grosser		Am Haselberg 2	04808	Wurzen	51.340278	12.790270	1		Keine Beschränkung	~TYPE2_TETHERED:7.2
+1069677	Autohaus Müller Wurzen GmbH		Nischwitzer Breite 15	04808	Wurzen	51.385941	12.731149	1			~TYPE2:11
+1069707	Autohaus Müller Eilenburg GmbH		Bergstraße 45	04838	Eilenburg	51.457120	12.615800	1			~CCS2:50|~TYPE2:22
+1069957	EGH Hartha GmbH		Leipziger Straße 10	04746	Hartha	51.098390	12.970110	1			~TYPE2:22|~TYPE2:22
+1070006	Baustoffhandel und Baumarkt Dolsenhain GmbH u.Co.KG		Gewerbegebiet Nord 1	04654	Frohburg	51.015850	12.559580	1			~TYPE2:22|~TYPE2:22
+1070321	Stefan Mau		Kriekauer Str. 59	04425	Taucha	51.370116	12.509219	1			~TYPE2_TETHERED:11
+1073041	Stadtwerke Pirna GmbH	Parkhotel Muldental	Muldenaue 5	04680	Colditz	51.102034	12.806730	1	24/7	Keine Beschränkung	DE*PIR*E01796*041~TYPE2:11|DE*PIR*E01796*042~TYPE2:11
+1084088	Moritz-Ost Elektro GmbH		Staupitzer Str. 8	04861	Torgau	51.495400	12.990310	1			~TYPE2:22|~TYPE2:22
+1084331	EMS Elektro- & Klimatechnik GmbH		Straße des Friedens 38	04808	Wurzen	51.372413	12.731690	1			~TYPE2:22|~TYPE2:22
+1084332	EMS Elektro- & Klimatechnik GmbH		Straße des Friedens 38	04808	Wurzen	51.372408	12.731612	1			~TYPE2:22|~TYPE2:22
+1085402	Dirk Gerhardt		Rüdigsdorf 9	04655	Frohburg	51.007800	12.600440	1			~TYPE2:11
+1085582	Eva Riedel		Bismarckstraße 1	04683	Naunhof	51.275105	12.592259	1			~TYPE2_TETHERED:22
+1085789	Georg Maas		An der Alten Mühle 6	04683	Naunhof	51.278752	12.591811	1			~TYPE2_TETHERED:11
+1085963	Heiko Jähne		Schulstraße 12	04687	Trebsen/Mulde	51.287941	12.758253	1			~TYPE2:11
+1085964	Heiko Jähne		Dorfstraße 60	04808	Thallwitz	51.432305	12.683967	1			~TYPE2:11
+1086225	Jens Nitschke		Zur Schaddelmühle 1	04668	Grimma	51.201282	12.751527	1			~TYPE2:11
+1086782	Mark Wegewitz		Landstraße 20A	04651	Bad Lausick	51.159985	12.662211	1			~TYPE2_TETHERED:11
+1086923	Matthias Kratzsch		Dorfstraße 8	04862	Mockrehna	51.478022	12.852425	1			~TYPE2_TETHERED:10
+1087063	Michael Wagenhaus		Starenweg 20	04821	Brandis	51.317156	12.588872	1			~TYPE2_TETHERED:11
+1088694	Ökotec-Biogas Verwaltungs-GmbH	Pyrna	Trebsener Str. 1	04808	Wurzen	51.314555	12.798088	1	24/7	Keine Beschränkung	DE*OMS*EC*D0008*01~CCS2:50|DE*OMS*EC*D0008*02~CCS2:50|DE*OMS*EC*D0009*01~CCS2:50|DE*OMS*EC*D0009*02~CCS2:50
+1090023	Park Your Truck GmbH	Park Your Truck, 04643 Geithain	Altenburger Str. 12z	04643	Geithain	51.052238	12.673386	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11
+1090024	Park Your Truck GmbH	Park Your Truck, 04643 Geithain	Eisenbahnstr. 1a	04643	Geithain	51.058537	12.695775	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22
+1091653	K&S - Dr. Krantz Sozialbau und Betreuung SE & Co. KG	K&S Wohnen mit Service Eilenburg	Puschkinstr. 12	04838	Eilenburg	51.468784	12.659463	1	24/7	Keine Beschränkung	~TYPE2_TETHERED:22+TYPE2_TETHERED:22
+1092967	Geo4mation GmbH		Bergstraße 3 b	04821	Brandis	51.326256	12.610825	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2:22|~TYPE2:22
+1092969	epeg Energieplanung		Bahnhofstraße 20	04821	Brandis	51.330714	12.609774	1			~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1096388	AMB Automobile Borna GmbH		Geschwister-Scholl-Str. 12-14	04552	Borna	51.127430	12.506547	1	Mo-Fr 08:00-18:00	Nur für Kunden/Besucher	~CCS2:22|~CCS2:22
+1096751	Geiseltalgruppe		Schiemannstraße 2	04808	Wurzen	51.385291	12.739025	1			~CCS2:22|~TYPE2:11|DE*GCE*EACCR274871~TYPE2:11|DE*GCE*EDCCR274872~CCS2:44
+1096762	Autohaus Jentzsch GmbH		Lange Dorfstraße 2	04808	Lossatal	51.397075	12.821552	1			~CCS2:22|~TYPE2:11
+1096844	Autohaus Liemert e.K.		Grimmaische Str. 50	04680	Colditz	51.136394	12.792548	1			~TYPE2:11
+1096845	Autohaus Liemert e.K.		Grimmaische Str. 50	04680	Colditz	51.136333	12.792549	1			~CCS2:22|~TYPE2:11
+1096894	Autohaus Muldental GmbH Grimma		Leipziger Str. 93	04668	Grimma	51.231259	12.706075	1			~CCS2:22|~TYPE2:11
+1097350	Graupner GmbH		Gewerbeallee 2	04821	Brandis	51.330314	12.582545	1			~CCS2:22|~TYPE2:11
+1103241	LADEFIX	VW Lohs	Gärtnerstr. 33	09306	Rochlitz	51.046881	12.797422	1	24/7	Keine Beschränkung	DE*8VO*EDC0000247*2~CCS2:50+CHADEMO:50+TYPE2_TETHERED:43
+1103642	Park Your Truck GmbH	Park Your Truck, 04643 Geithain	Altenburger Str. 1	04643	Geithain	51.054853	12.688336	1	24/7	Keine Beschränkung	~TYPE2:11|~TYPE2:11|~CCS2:50|~TYPE2:22
+1105919	Waschbär Schkeuditz Drischmann & Richardt oHG	Autowaschpark Eilenburg	Am Alten Celluloidwerk 2	04838	Eilenburg	51.465096	12.649297	1	24/7	Keine Beschränkung	DE*STK*EDRI*4001~TYPE2:22
+1106520	E.ON Drive GmbH		Muldental Nord 0	04668	Grimma	51.261952	12.707893	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1106521	E.ON Drive GmbH		Muldental Süd 0	04668	Grimma	51.260674	12.705800	1			~TYPE2_TETHERED:43|~CCS2:50+CHADEMO:50
+1109715	Städtische Werke Borna GmbH		Rudolf-Virchow-Straße 0	04552	Borna	51.135200	12.503870	1			~TYPE2:11|~TYPE2:11
+1113738	Jens Kohls		Am Sportplatz 38	04668	Parthenstein	51.239450	12.618306	1			~TYPE2:11
+1114646	WUTRA Fördertechnik GmbH		Industriestr. 4-6	04808	Wurzen	51.377500	12.752500	1			~TYPE2:22|~TYPE2:22|~TYPE2:22|~TYPE2:22|~CCS2:50
+1116746	Christoph Seifert		Jacobsplatz 10	04838	Eilenburg	51.465663	12.632890	1		Keine Beschränkung	~TYPE2_TETHERED:11
+1116779	Geiseltalgruppe	Volkswagen Economy Service Eilenburg	Puschkinstr. 14	04838	Eilenburg	51.465860	12.653960	1	24/7	Keine Beschränkung	DE*GCE*EACCM228921~TYPE2:11|DE*GCE*EDCCM228922~CCS2:22
+1119886	ALDI Nord		Nischwitzer Breite 1	04808	Wurzen	51.384802	12.725609	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1121627	TEAG Mobil GmbH	Wurzen - ALDI	Goethestr. 42-52	04808	Wurzen	51.369364	12.744391	1	24/7	Keine Beschränkung	DE*TMO*E11*371*001~CCS2:150|DE*TMO*E11*371*002~CCS2:150
+1126716	DS Smith Packaging Deutschland Stiftung & Co. KG, werk Polkenberg		Walter-Neuberger-Str. 1	04703	Leisnig	51.167988	12.867501	1		Nur für Kunden/Besucher	~TYPE2_TETHERED:22|~TYPE2_TETHERED:22
+1127734	B+N Tortechnik	B+N Tortechnik GmbH	Am Weinberg 6	04668	Grimma	51.214125	12.708984	1		Nur für Kunden/Besucher	~TYPE2:11|~TYPE2:11
+1128462	LEH A. Werner e.K.		Dresdener Str. 80	04746	Hartha	51.091043	12.977028	1	24/7	Keine Beschränkung	~TYPE2:22|~CCS2:50
+1128789	TotalEnergies Charging Solutions		Ladestr. 5	04683	Naunhof	51.278965	12.592515	1	24/7	Keine Beschränkung	DE*TCB*E3D9CS45219*001*1~CCS2:25|DE*TCB*E3D9CS45219*001*2~CCS2:25|DE*TCB*E3D9CS45219*002*1~CCS2:25|DE*TCB*E3D9CS45219*002*2~CCS2:25
+1129672	Greenman Energy Operations GmbH & Co. KG	Taucha 1	Eilenburger Str. 84	04425	Taucha	51.386352	12.506600	1	24/7	Keine Beschränkung	AT*HTB*E1024111~CCS2:300|AT*HTB*E1024112~CCS2:300|AT*HTB*E1024113~CCS2:300|AT*HTB*E1024114~CCS2:300|AT*HTB*E1024115~CCS2:300|AT*HTB*E1024116~CCS2:300
+1132797	Shell Deutschland GmbH	13053367_Eilenburg	Kranoldstr. 25	04838	Eilenburg	51.456068	12.635963	1		Keine Beschränkung	~CCS2:150|~CCS2:150
+1133200	ALDI Nord		Erdmannshainer Str. 42	04683	Naunhof	51.282200	12.588700	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1139398	ALDI Nord		Panitzscher Str. 27	04451	Borsdorf	51.351800	12.544400	1	24/7	Keine Beschränkung	~CCS2:50|~CCS2:50
+1140308	envia Mitteldeutsche Energie AG	25BZ2627C	Wedniger Str. 40	04668	Grimma	51.256392	12.737234	1	24/7	Keine Beschränkung	DE*ISE*EA117213~CCS2:100|DE*ISE*EA132949~CCS2:100
+1140325	Stadtwerke Leipzig GmbH		Pauschwitzer Str. 45	04687	Trebsen /Mulde	51.280662	12.764200	1	24/7	Keine Beschränkung	DE*961*E0341*1404~TYPE2:17|DE*961*E0341*1404*2~TYPE2:17|DE*961*E0341*1405~TYPE2:17|DE*961*E0341*1405*2~TYPE2:17
+1140698	Lidl	3996_Lidl_Colditz_T65-IT1-0925-003	Wassergasse 1	04680	Colditz	51.129480	12.803960	1	24/7	Keine Beschränkung	~CCS2:60|~TYPE2:11|~CCS2:60
+1144937	Waldschänke Bad Lausick		Badstr. 42	04651	Bad Lausick	51.149807	12.657602	1	Mo-Do 16:00-22:00, Fr 15:00-23:00, Sa 11:00-23:00, So 11:00-22:00	Nur für Kunden/Besucher	~TYPE2_TETHERED:11|~TYPE2:11
+1149157	AMB Automobile Borna GmbH		Geschwister-Scholl-Str. 12-14	04552	Borna	51.127224	12.506418	1		Nur für Kunden/Besucher	~TYPE2:22|~TYPE2:22
+1151580	Wirelane GmbH		Ochsenfurter Str. 15	04680	Colditz	51.131556	12.790917	1		Keine Beschränkung	DE*WLN*EP001254~TYPE2:22|DE*WLN*EP001255~TYPE2:22
+1151810	Wirelane GmbH		Zollwitzer Ring 29	04680	Colditz	51.119111	12.832056	1		Keine Beschränkung	DE*WLN*EP001256~TYPE2:22|DE*WLN*EP001257~TYPE2:22
+1156781	ADS-TEC Energy Service GmbH	Norma Eilenburg	Puschkinstr. 30	04838	Eilenburg	51.469474	12.660699	1	24/7	Keine Beschränkung	DEAESE001201~CCS2:300|DEAESE001202~CCS2:300
+1157953	E.ON Drive Infrastructure		Torgauer Landstr. 76	04838	Eilenburg	51.466617	12.658855	1	24/7	Keine Beschränkung	~CCS2:150|~CCS2:150|~CCS2:50|~CCS2:50
+1160887	Wirelane GmbH		Hauptstraße 47	04552	Borna	51.102528	12.516028	1		Keine Beschränkung	DE*WLN*EP002935~TYPE2:22|DE*WLN*EP002936~TYPE2:22
+1161723	Wirelane GmbH		Friedrich-August-Straße 2a	09306	Rochlitz	51.052504	12.796489	1		Keine Beschränkung	DE*WLN*EP002143~TYPE2:22|DE*WLN*EP002144~TYPE2:22
+1162245	Wirelane GmbH		Leipziger Str. 28B	09306	Rochlitz	51.049972	12.794417	1		Keine Beschränkung	DE*WLN*EP002141~TYPE2:22|DE*WLN*EP002142~TYPE2:22
